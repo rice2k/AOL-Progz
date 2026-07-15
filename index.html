@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AOL Progz</title>
+    <meta
+      name="description"
+      content="A searchable archive of AOL, AIM, ICQ, MSN, Yahoo, and old-school proggie culture with local downloads, screenshots, history, and source links."
+    />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="AOL Progz home">
+        <span class="brand-mark">AP</span>
+        <span>AOL Progz</span>
+      </a>
+      <nav class="topnav" aria-label="Main navigation">
+        <a href="#catalog">Catalog</a>
+        <a href="#statistics">Stats</a>
+        <a href="#files">Files</a>
+        <a href="#missing">Missing</a>
+        <a href="#screenshots">Screens</a>
+        <a href="#sources">Sources</a>
+        <a href="#web-directories">Web Links</a>
+        <a href="#url-provenance">URLs</a>
+        <a href="#glossary">Glossary</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero section-band">
+        <div class="hero-copy">
+          <p class="eyebrow">AOL / AIM / ICQ / MSN / Yahoo archive</p>
+          <h1>AOL Progz</h1>
+          <p class="lede">
+            A detailed preservation index for old-school proggies, punters, room busters, faders,
+            scrollers, bots, source packs, and scene sites.
+          </p>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="button primary" href="#catalog">Browse Catalog</a>
+            <a class="button" href="#sources">Old Links</a>
+          </div>
+        </div>
+
+        <div class="command-panel" aria-label="Archive statistics">
+          <div class="panel-title">archive_status</div>
+          <dl class="stat-grid" id="statGrid"></dl>
+          <p class="archive-note">
+            Historical research archive. Do not run unknown binaries outside an isolated vintage
+            test environment.
+          </p>
+        </div>
+      </section>
+
+      <section class="section-band stats-section" id="statistics">
+        <div class="section-heading">
+          <p class="eyebrow">Archive statistics</p>
+          <h2>Counts And Coverage</h2>
+        </div>
+        <div class="stats-layout">
+          <div class="stats-table-wrap">
+            <h3>Categories</h3>
+            <div class="stats-table" id="categoryStats"></div>
+          </div>
+          <div class="stats-stack">
+            <div class="stats-table-wrap">
+              <h3>Platforms</h3>
+              <div class="bar-list" id="platformStats"></div>
+            </div>
+            <div class="stats-table-wrap">
+              <h3>Versions</h3>
+              <div class="bar-list" id="versionStats"></div>
+            </div>
+          </div>
+        </div>
+        <div class="stats-layout compact">
+          <div class="stats-table-wrap">
+            <h3>Top Authors</h3>
+            <div class="bar-list" id="authorStats"></div>
+          </div>
+          <div class="stats-table-wrap">
+            <h3>Largest Local Files</h3>
+            <div class="largest-list" id="largestFiles"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-band dense" id="catalog">
+        <div class="section-heading">
+          <p class="eyebrow">Searchable downloads</p>
+          <h2>Program Catalog</h2>
+        </div>
+
+        <div class="catalog-shell">
+          <form class="filters" id="filters" autocomplete="off">
+            <label class="search-box">
+              <span>Search</span>
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="AOHell, punter, room buster, VB3, author..."
+              />
+            </label>
+            <label>
+              <span>Category</span>
+              <select id="categorySelect"></select>
+            </label>
+            <label>
+              <span>Platform</span>
+              <select id="platformSelect"></select>
+            </label>
+            <label>
+              <span>Version</span>
+              <select id="versionSelect"></select>
+            </label>
+            <label>
+              <span>Sort</span>
+              <select id="sortSelect">
+                <option value="screens">Screens first</option>
+                <option value="name">Name A-Z</option>
+                <option value="author">Author A-Z</option>
+                <option value="size">Largest files</option>
+                <option value="index">Archive order</option>
+              </select>
+            </label>
+            <label class="check">
+              <input id="screensOnly" type="checkbox" />
+              <span>Has screenshots</span>
+            </label>
+            <label class="check">
+              <input id="localFilesOnly" type="checkbox" />
+              <span>Local files</span>
+            </label>
+          </form>
+
+          <div class="result-line">
+            <span id="resultCount"></span>
+            <button class="icon-button" id="clearFilters" type="button" title="Clear filters">
+              Reset
+            </button>
+          </div>
+
+          <div class="program-grid" id="programGrid"></div>
+          <div class="load-row">
+            <button class="button" id="loadMore" type="button">Load More</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-band file-summary" id="files">
+        <div class="section-heading">
+          <p class="eyebrow">Local archive files</p>
+          <h2>Files On The Site</h2>
+        </div>
+        <div class="split">
+          <div>
+            <p>
+              Each mirrored catalog item uses a cleaned local path under <code>files/</code>, so
+              downloads stay attached to this GitHub Pages site. Original filenames and upstream
+              GitHub source paths remain visible on every card.
+            </p>
+            <p>
+              Very large off-site archives, such as the Kadeklizem RAR, remain recorded as Wayback
+              mirrors because ordinary GitHub repositories reject oversized single files.
+            </p>
+          </div>
+          <div class="mini-ledger" id="fileLedger"></div>
+        </div>
+      </section>
+
+      <section class="section-band sources" id="external-files">
+        <div class="section-heading">
+          <p class="eyebrow">Recovered additions</p>
+          <h2>External Files</h2>
+        </div>
+        <div class="url-summary" id="externalSummary"></div>
+        <div class="source-grid" id="externalGrid"></div>
+      </section>
+
+      <section class="section-band sources" id="missing">
+        <div class="section-heading">
+          <p class="eyebrow">Found on old pages</p>
+          <h2>Missing Candidates</h2>
+        </div>
+        <div class="url-summary" id="missingSummary"></div>
+        <div class="source-grid" id="missingGrid"></div>
+      </section>
+
+      <section class="section-band" id="screenshots">
+        <div class="section-heading">
+          <p class="eyebrow">Pulled visuals</p>
+          <h2>Screenshots And Scene Images</h2>
+        </div>
+        <div class="shot-strip" id="shotStrip"></div>
+      </section>
+
+      <section class="section-band research" id="research">
+        <div class="section-heading">
+          <p class="eyebrow">Context</p>
+          <h2>History Notes</h2>
+        </div>
+        <div class="research-grid" id="historyCards"></div>
+      </section>
+
+      <section class="section-band" id="glossary">
+        <div class="section-heading">
+          <p class="eyebrow">Scene vocabulary</p>
+          <h2>Glossary</h2>
+        </div>
+        <div class="glossary-grid" id="glossaryGrid"></div>
+      </section>
+
+      <section class="section-band timeline-wrap" id="timeline">
+        <div class="section-heading">
+          <p class="eyebrow">Era map</p>
+          <h2>Timeline</h2>
+        </div>
+        <ol class="timeline" id="timelineList"></ol>
+      </section>
+
+      <section class="section-band sources" id="sources">
+        <div class="section-heading">
+          <p class="eyebrow">Old-school links</p>
+          <h2>Sources And Mirrors</h2>
+        </div>
+        <div class="source-grid" id="sourceGrid"></div>
+      </section>
+
+      <section class="section-band sources" id="web-directories">
+        <div class="section-heading">
+          <p class="eyebrow">Extracted old pages</p>
+          <h2>Web Directories And Link Pages</h2>
+        </div>
+        <div class="url-summary" id="webResourceSummary"></div>
+        <div class="source-grid" id="webPageGrid"></div>
+        <div class="section-heading subheading">
+          <p class="eyebrow">Deduplicated page links</p>
+          <h2>Old Site Links</h2>
+        </div>
+        <div class="source-grid" id="webLinkGrid"></div>
+      </section>
+
+      <section class="section-band sources" id="url-provenance">
+        <div class="section-heading">
+          <p class="eyebrow">Deduplicated URLs</p>
+          <h2>Original Sites And Download Clues</h2>
+        </div>
+        <div class="url-summary" id="urlSummary"></div>
+        <div class="source-grid" id="urlGrid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>
+        AOL Progz is a preservation index for historical research. AOL, AIM, ICQ, MSN, Yahoo, and
+        related names belong to their respective owners.
+      </p>
+    </footer>
+
+    <script src="data/catalog.js"></script>
+    <script src="data/url-index.js"></script>
+    <script src="data/web-resources.js"></script>
+    <script src="data/web-assets.js"></script>
+    <script src="data/external-downloads.js"></script>
+    <script src="data/missing-candidates.js"></script>
+    <script src="assets/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1040 @@
+{
+  "generatedAt": "2026-07-15T19:18:29.147Z",
+  "source": "Methodus2000 / Methodus Toolz",
+  "notes": [
+    "Tracked as historical AOL prog source. NetBus-related items are recorded as hazardous remote-control/malware-era context only.",
+    "No usage instructions are included."
+  ],
+  "catalogMatches": [
+    {
+      "id": "prog-1254-methodus3b2",
+      "name": "methodus3b2",
+      "author": "dll",
+      "platform": "AOL",
+      "versions": "",
+      "visualBasic": "non-VB",
+      "compile": "n/a",
+      "file": "programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus toolz 3.0 for aol 5.0-7.0.zip",
+      "duplicates": 2,
+      "password": "",
+      "category": "all-in-one prog",
+      "download": {
+        "path": "files/aol/mixed/1254-methodus3b2.zip",
+        "status": "ready",
+        "size": 4899478,
+        "sizeLabel": "4.7 MB",
+        "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus%20toolz%203.0%20for%20aol%205.0-7.0.zip",
+        "rawUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus%20toolz%203.0%20for%20aol%205.0-7.0.zip"
+      },
+      "screenshots": [],
+      "screenshotCount": 0,
+      "index": 1254,
+      "search": "methodus3b2 dll aol non-vb n/a all-in-one prog programs/aol/proggies-sorted-deduped/proggies-by-version/unknown/methodus toolz 3.0 for aol 5.0-7.0.zip"
+    }
+  ],
+  "pages": [
+    {
+      "name": "Methodus2000 NetBus page",
+      "url": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm",
+      "kind": "historical remote-control patch page",
+      "notes": "Methodus Toolz page about NetBus-era patch files. Tracked for historical provenance only; no operating instructions are included.",
+      "depth": 0,
+      "seed": true,
+      "title": "Methodus Toolz",
+      "ok": true,
+      "status": 200,
+      "linkCount": 3,
+      "downloadCount": 2,
+      "links": [
+        {
+          "text": "Download Netbus Patch HERE",
+          "url": "https://web.archive.org/web/20010111011900/http://www.methodus.atfreeweb.com/netbuspatch.zip",
+          "originalUrl": "http://www.methodus.atfreeweb.com/netbuspatch.zip",
+          "type": "download"
+        },
+        {
+          "text": "HERE",
+          "url": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
+          "type": "download"
+        },
+        {
+          "text": "click here to download it",
+          "url": "https://web.archive.org/web/20010111011900/http://www.winzip.com/",
+          "originalUrl": "http://www.winzip.com/",
+          "type": "prog resource"
+        }
+      ],
+      "error": ""
+    },
+    {
+      "name": "Methodus Toolz directory",
+      "url": "https://web.archive.org/web/20001109010900/http://www.methodus2000.com:80/methodustoolz/",
+      "kind": "Methodus Toolz archive",
+      "notes": "Methodus Toolz directory capture with download, features, screenshots, skins, and making-progz pages.",
+      "depth": 0,
+      "seed": true,
+      "title": "Methodus Toolz Site",
+      "ok": true,
+      "status": 200,
+      "linkCount": 0,
+      "downloadCount": 0,
+      "links": [],
+      "error": ""
+    },
+    {
+      "name": "Methodus Toolz screenshots",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "kind": "screenshots",
+      "notes": "Methodus Toolz screenshot page, useful for local image mirroring and version/feature research.",
+      "depth": 0,
+      "seed": true,
+      "title": "Methodus Toolz",
+      "ok": true,
+      "status": 200,
+      "linkCount": 12,
+      "downloadCount": 0,
+      "links": [
+        {
+          "text": "Main Window",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/main.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/main.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Anonymous Mailer 2.0",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/anonymailer.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/anonymailer.jpg",
+          "type": "image"
+        },
+        {
+          "text": "No-Pop-Ups Browser",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/browser.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/browser.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Chat Picture Scroller",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/chatpicscroll.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/chatpicscroll.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Color Fader",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/fader.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/fader.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Shoot Dirty People Game",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/game.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/game.jpg",
+          "type": "image"
+        },
+        {
+          "text": "IM Answering Machine",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/imanswer.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/imanswer.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Macro Editor",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/macroeditor.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/macroeditor.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Macro-Font Converter",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/macrofont.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/macrofont.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Netbus Clone 2.0",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/netbusclone.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/netbusclone.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Phisher/Mass IMer",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
+          "type": "image"
+        },
+        {
+          "text": "Phish Tank",
+          "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishtank.jpg",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/phishtank.jpg",
+          "type": "image"
+        }
+      ],
+      "error": ""
+    },
+    {
+      "name": "Methodus Toolz features",
+      "url": "https://web.archive.org/web/20001210191700/http://www.methodus2000.com:80/methodustoolz/features.htm",
+      "kind": "features",
+      "notes": "Methodus Toolz feature page.",
+      "depth": 0,
+      "seed": true,
+      "title": "Methodus Toolz",
+      "ok": true,
+      "status": 200,
+      "linkCount": 3,
+      "downloadCount": 0,
+      "links": [
+        {
+          "text": "menus1.jpg",
+          "url": "https://web.archive.org/web/20001210191700im_/http://poteye129.netfirms.com/screenshots/menus1.jpg",
+          "originalUrl": "http://poteye129.netfirms.com/screenshots/menus1.jpg",
+          "type": "image"
+        },
+        {
+          "text": "menus2.jpg",
+          "url": "https://web.archive.org/web/20001210191700im_/http://poteye129.netfirms.com/screenshots/menus2.jpg",
+          "originalUrl": "http://poteye129.netfirms.com/screenshots/menus2.jpg",
+          "type": "image"
+        },
+        {
+          "text": "anonymailer2.jpg",
+          "url": "https://web.archive.org/web/20001210191700im_/http://poteye129.netfirms.com/screenshots/anonymailer2.jpg",
+          "originalUrl": "http://poteye129.netfirms.com/screenshots/anonymailer2.jpg",
+          "type": "image"
+        }
+      ],
+      "error": ""
+    },
+    {
+      "name": "Methodus Toolz downloads",
+      "url": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm",
+      "kind": "downloads",
+      "notes": "Methodus Toolz download page.",
+      "depth": 0,
+      "seed": true,
+      "title": "Untitled Document",
+      "ok": true,
+      "status": 200,
+      "linkCount": 7,
+      "downloadCount": 4,
+      "links": [
+        {
+          "text": "Download Site #1",
+          "url": "https://web.archive.org/web/20001109201900/http://methimages.hypermart.net/methodus.exe",
+          "originalUrl": "http://methimages.hypermart.net/methodus.exe",
+          "type": "download"
+        },
+        {
+          "text": "Download Site #2",
+          "url": "https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe",
+          "originalUrl": "http://methodus.bizland.com/methodus.exe",
+          "type": "download"
+        },
+        {
+          "text": "Download Site #3",
+          "url": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/methodus.exe",
+          "type": "download"
+        },
+        {
+          "text": "http://www.affiliatetarget.com/click/01/click.cgi?methodus",
+          "url": "https://web.archive.org/web/20001109201900/http://www.affiliatetarget.com/click/01/click.cgi?methodus",
+          "originalUrl": "http://www.affiliatetarget.com/click/01/click.cgi?methodus",
+          "type": "page"
+        },
+        {
+          "text": "Join Affiliate Target and make $ 3.5 CPM and $ 0.18 CPC",
+          "url": "https://web.archive.org/web/20001109201900/http://www.affiliatetarget.com/",
+          "originalUrl": "http://www.affiliatetarget.com/",
+          "type": "page"
+        },
+        {
+          "text": "download and install this file",
+          "url": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/vbrun60.exe",
+          "originalUrl": "http://www.methodus2000.com/methodustoolz/vbrun60.exe",
+          "type": "download"
+        },
+        {
+          "text": "click.cgi?methodus",
+          "url": "https://web.archive.org/web/20001109201900im_/http://www.affiliatetarget.com/image/01/click.cgi?methodus",
+          "originalUrl": "http://www.affiliatetarget.com/image/01/click.cgi?methodus",
+          "type": "image"
+        }
+      ],
+      "error": ""
+    }
+  ],
+  "links": [
+    {
+      "text": "download and install this file",
+      "url": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/vbrun60.exe",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/vbrun60.exe",
+      "type": "download",
+      "pageName": "Methodus Toolz downloads",
+      "pageUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm"
+    },
+    {
+      "text": "Download Netbus Patch HERE",
+      "url": "https://web.archive.org/web/20010111011900/http://www.methodus.atfreeweb.com/netbuspatch.zip",
+      "originalUrl": "http://www.methodus.atfreeweb.com/netbuspatch.zip",
+      "type": "download",
+      "pageName": "Methodus2000 NetBus page",
+      "pageUrl": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm"
+    },
+    {
+      "text": "Download Site #1",
+      "url": "https://web.archive.org/web/20001109201900/http://methimages.hypermart.net/methodus.exe",
+      "originalUrl": "http://methimages.hypermart.net/methodus.exe",
+      "type": "download",
+      "pageName": "Methodus Toolz downloads",
+      "pageUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm"
+    },
+    {
+      "text": "Download Site #2",
+      "url": "https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe",
+      "originalUrl": "http://methodus.bizland.com/methodus.exe",
+      "type": "download",
+      "pageName": "Methodus Toolz downloads",
+      "pageUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm"
+    },
+    {
+      "text": "Download Site #3",
+      "url": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/methodus.exe",
+      "type": "download",
+      "pageName": "Methodus Toolz downloads",
+      "pageUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm"
+    },
+    {
+      "text": "HERE",
+      "url": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
+      "type": "download",
+      "pageName": "Methodus2000 NetBus page",
+      "pageUrl": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm"
+    },
+    {
+      "text": "http://www.oogle.net/downloads/progs/methodus.zip",
+      "url": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip",
+      "originalUrl": "http://www.oogle.net/downloads/progs/methodus.zip",
+      "type": "download",
+      "pageName": "Aol 4.0/5.0 Progs",
+      "pageUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm"
+    },
+    {
+      "text": "methodus toolz",
+      "url": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
+      "type": "download",
+      "pageName": "prog's/misc a-m",
+      "pageUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html"
+    },
+    {
+      "text": "Methodus Toolz",
+      "url": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip",
+      "originalUrl": "http://www.cybernyse.com/downlowdz/methodus.zip",
+      "type": "download",
+      "pageName": "Section 2",
+      "pageUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm"
+    },
+    {
+      "text": "methodus toolz 3.0",
+      "url": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip",
+      "type": "download",
+      "pageName": "LensHell AIM progs",
+      "pageUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html"
+    },
+    {
+      "text": "anonymailer2.jpg",
+      "url": "https://web.archive.org/web/20001210191700im_/http://poteye129.netfirms.com/screenshots/anonymailer2.jpg",
+      "originalUrl": "http://poteye129.netfirms.com/screenshots/anonymailer2.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz features",
+      "pageUrl": "https://web.archive.org/web/20001210191700/http://www.methodus2000.com:80/methodustoolz/features.htm"
+    },
+    {
+      "text": "Anonymous Mailer 2.0",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/anonymailer.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/anonymailer.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Chat Picture Scroller",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/chatpicscroll.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/chatpicscroll.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "click.cgi?methodus",
+      "url": "https://web.archive.org/web/20001109201900im_/http://www.affiliatetarget.com/image/01/click.cgi?methodus",
+      "originalUrl": "http://www.affiliatetarget.com/image/01/click.cgi?methodus",
+      "type": "image",
+      "pageName": "Methodus Toolz downloads",
+      "pageUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm"
+    },
+    {
+      "text": "Color Fader",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/fader.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/fader.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "IM Answering Machine",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/imanswer.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/imanswer.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Macro Editor",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/macroeditor.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/macroeditor.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Macro-Font Converter",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/macrofont.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/macrofont.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Main Window",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/main.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/main.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "menus1.jpg",
+      "url": "https://web.archive.org/web/20001210191700im_/http://poteye129.netfirms.com/screenshots/menus1.jpg",
+      "originalUrl": "http://poteye129.netfirms.com/screenshots/menus1.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz features",
+      "pageUrl": "https://web.archive.org/web/20001210191700/http://www.methodus2000.com:80/methodustoolz/features.htm"
+    },
+    {
+      "text": "menus2.jpg",
+      "url": "https://web.archive.org/web/20001210191700im_/http://poteye129.netfirms.com/screenshots/menus2.jpg",
+      "originalUrl": "http://poteye129.netfirms.com/screenshots/menus2.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz features",
+      "pageUrl": "https://web.archive.org/web/20001210191700/http://www.methodus2000.com:80/methodustoolz/features.htm"
+    },
+    {
+      "text": "Netbus Clone 2.0",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/netbusclone.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/netbusclone.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "No-Pop-Ups Browser",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/browser.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/browser.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Phish Tank",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishtank.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/phishtank.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Phisher/Mass IMer",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Shoot Dirty People Game",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/game.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/game.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm"
+    },
+    {
+      "text": "Daitron",
+      "url": "https://web.archive.org/web/20010223212351/http://www.daitron.bizland.com/",
+      "originalUrl": "http://www.daitron.bizland.com/",
+      "type": "page",
+      "pageName": "RiceJerry links",
+      "pageUrl": "https://web.archive.org/web/20010223212351/http://www.8op.com:80/ricejerry/links.html"
+    },
+    {
+      "text": "http://www.affiliatetarget.com/click/01/click.cgi?methodus",
+      "url": "https://web.archive.org/web/20001109201900/http://www.affiliatetarget.com/click/01/click.cgi?methodus",
+      "originalUrl": "http://www.affiliatetarget.com/click/01/click.cgi?methodus",
+      "type": "page",
+      "pageName": "Methodus Toolz downloads",
+      "pageUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm"
+    },
+    {
+      "text": "Join Affiliate Target and make $ 3.5 CPM and $ 0.18 CPC",
+      "url": "https://web.archive.org/web/20001109201900/http://www.affiliatetarget.com/",
+      "originalUrl": "http://www.affiliatetarget.com/",
+      "type": "page",
+      "pageName": "Methodus Toolz downloads",
+      "pageUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm"
+    },
+    {
+      "text": "Methodus Tools Site",
+      "url": "https://web.archive.org/web/20010223212351/http://www.methodus2000.com/methodustoolz/index.htm",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/index.htm",
+      "type": "prog resource",
+      "pageName": "RiceJerry links",
+      "pageUrl": "https://web.archive.org/web/20010223212351/http://www.8op.com:80/ricejerry/links.html"
+    }
+  ],
+  "assets": [
+    {
+      "text": "Anonymous Mailer 2.0",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/anonymailer.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/anonymailer.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Chat Picture Scroller",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/chatpicscroll.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/chatpicscroll.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Color Fader",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/fader.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/fader.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "assets/web-resources/methodus2000-com/fader.jpg",
+      "status": "ready",
+      "size": 68846
+    },
+    {
+      "text": "IM Answering Machine",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/imanswer.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/imanswer.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Macro Editor",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/macroeditor.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/macroeditor.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Macro-Font Converter",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/macrofont.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/macrofont.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Main Window",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/main.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/main.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Netbus Clone 2.0",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/netbusclone.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/netbusclone.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "No-Pop-Ups Browser",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/browser.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/browser.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Phish Tank",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishtank.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/phishtank.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "Phisher/Mass IMer",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "assets/web-resources/methodus2000-com/phishmassim.jpg",
+      "status": "ready",
+      "size": 47337
+    },
+    {
+      "text": "Shoot Dirty People Game",
+      "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/game.jpg",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/game.jpg",
+      "type": "image",
+      "pageName": "Methodus Toolz screenshots",
+      "pageUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    }
+  ],
+  "downloads": [
+    {
+      "sourceList": "Web page: Methodus2000 NetBus page",
+      "sourceListUrl": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm",
+      "originalUrl": "http://www.methodus.atfreeweb.com/netbuspatch.zip",
+      "waybackUrl": "https://web.archive.org/web/20010111011900/http://www.methodus.atfreeweb.com/netbuspatch.zip",
+      "name": "netbuspatch.zip",
+      "discoveredText": "Download Netbus Patch HERE",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Methodus2000 NetBus page",
+      "sourceListUrl": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
+      "waybackUrl": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
+      "name": "netbuspatch.zip",
+      "discoveredText": "HERE",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/methodus.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip",
+      "name": "methodus.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/methodus.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
+      "name": "methodus.zip",
+      "discoveredText": "methodus toolz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Section 2",
+      "sourceListUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
+      "originalUrl": "http://www.cybernyse.com/downlowdz/methodus.zip",
+      "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip",
+      "name": "methodus.zip",
+      "discoveredText": "Methodus Toolz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip",
+      "name": "methodus3b2.zip",
+      "discoveredText": "methodus toolz 3.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "ProgzRescue Angelfire files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-angelfire-files.txt",
+      "originalUrl": "http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip",
+      "name": "netbuster131.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue Angelfire files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-angelfire-files.txt",
+      "originalUrl": "http://www.angelfire.com/scifi/23451/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/23451/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/angelfire-com/netbuster.zip",
+      "status": "ready",
+      "size": 546159
+    },
+    {
+      "sourceList": "ProgzRescue Angelfire files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-angelfire-files.txt",
+      "originalUrl": "http://www.angelfire.com/nm/weezer/images/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nm/weezer/images/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/angelfire-com/netbuster.zip",
+      "status": "ready",
+      "size": 546159
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip",
+      "name": "netbuster1_12.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-12.zip",
+      "status": "ready",
+      "size": 266318
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/break/1347/Programa/NetBus/netbus7.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/break/1347/Programa/NetBus/netbus7.zip",
+      "name": "netbus7.zip",
+      "localPath": "files/external/fortunecity-com/netbus7.zip",
+      "status": "ready",
+      "size": 548808
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/break/1347/Programa/Netbuster/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/break/1347/Programa/Netbuster/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/calc/228/Cracks/vnetbust.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/calc/228/Cracks/vnetbust.zip",
+      "name": "vnetbust.zip",
+      "localPath": "files/external/fortunecity-com/vnetbust.zip",
+      "status": "ready",
+      "size": 2869
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbusterkill.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbusterkill.zip",
+      "name": "netbusterkill.zip",
+      "localPath": "files/external/fortunecity-com/netbusterkill.zip",
+      "status": "ready",
+      "size": 147173
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/database/766/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/database/766/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip",
+      "name": "netbuster1.31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip",
+      "name": "netbuster1_30.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-30.zip",
+      "status": "ready",
+      "size": 546159
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip",
+      "name": "netbuster1_3.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-3.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/pascoe/1183/netbuster1.3.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/pascoe/1183/netbuster1.3.zip",
+      "name": "netbuster1.3.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-3.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/pascoe/1183/netbusterkill.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/pascoe/1183/netbusterkill.zip",
+      "name": "netbusterkill.zip",
+      "localPath": "files/external/fortunecity-com/netbusterkill.zip",
+      "status": "ready",
+      "size": 147173
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/rofl/473/netbus/netbusterkill.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/rofl/473/netbus/netbusterkill.zip",
+      "name": "netbusterkill.zip",
+      "localPath": "files/external/fortunecity-com/netbusterkill.zip",
+      "status": "ready",
+      "size": 147173
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/seque/869/netbuster131.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/seque/869/netbuster131.zip",
+      "name": "netbuster131.zip",
+      "localPath": "files/external/fortunecity-com/netbuster131.zip",
+      "status": "ready",
+      "size": 546159
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/skyliner/1025/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/skyliner/1025/netbuster1_31.zip",
+      "name": "netbuster1_31.zip",
+      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "status": "ready",
+      "size": 546591
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/solaris/965/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/solaris/965/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/sql/1394/netbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/sql/1394/netbuster.zip",
+      "name": "netbuster.zip",
+      "localPath": "files/external/fortunecity-com/netbuster.zip",
+      "status": "ready",
+      "size": 544216
+    }
+  ]
+}
