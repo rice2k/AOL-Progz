@@ -1,0 +1,60 @@
+# intelligent linker
+
+A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Filename/catalog cues suggest: linking/chat link workflows.
+
+**Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-1026-intelligent-linker |
+| Catalog number | 1026 |
+| Name | intelligent linker |
+| Author | wht |
+| Platform | AOL |
+| AOL/version bucket | AOL 4.0 |
+| Category | chat or IM tool |
+| Visual Basic | VB4-32 |
+| Compile type | unknown |
+| Duplicate count | 2 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 1.1 MB |
+
+## Tags
+
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#vb4-32](../../../tags/vb4-32.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-4-0/1026-intelligent-linker.zip](../../../../../files/aol/aol-4-0/1026-intelligent-linker.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/intelligent.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/intelligent.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/intelligent.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/intelligent.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/intelligent.zip)
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://www.site.com](http://www.site.com) | intelligent linker/intelligent linker.exe | archive text |
+| [http://www.verisign.com/repository/CPS](http://www.verisign.com/repository/CPS) | intelligent linker/TABCTL32.OCX | archive text |
+| [https://www.verisign.com](https://www.verisign.com) | intelligent linker/TABCTL32.OCX | archive text |
+| [https://www.verisign.com/CPS0b](https://www.verisign.com/CPS0b) | intelligent linker/TABCTL32.OCX | archive text |
+| [http://www.microsoft.com/vbasic](http://www.microsoft.com/vbasic) | intelligent linker/TABCTL32.OCX | archive text |
+
+## Related Indexes
+
+- Category: [chat or IM tool](../../../categories/chat-or-im-tool.md)
+- Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
+- Applications index: [all applications](../../all-applications.md)

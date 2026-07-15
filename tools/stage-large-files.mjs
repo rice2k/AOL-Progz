@@ -52,7 +52,7 @@ console.log(`Staging ${relFiles.length} files with git plumbing.`);
 for (let i = 0; i < relFiles.length; i += chunkSize) {
   const chunk = relFiles.slice(i, i + chunkSize);
   console.log(`chunk ${i + 1}-${Math.min(i + chunkSize, relFiles.length)} of ${relFiles.length}`);
-  const input = `${chunk.join("\n")}\n`;
+  const input = chunk.join("\n");
   const shas = git(["hash-object", "-w", "--stdin-paths"], input)
     .trim()
     .split(/\r?\n/)

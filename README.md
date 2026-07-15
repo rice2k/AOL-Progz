@@ -1,8 +1,8 @@
 # AOL Progz
 
-AOL Progz is a GitHub Pages archive site for old-school AOL/AIM-era proggies,
-punters, room busters, scrollers, faders, bots, source packs, screenshots, and
-scene links.
+AOL Progz is a historical GitHub archive for old-school AOL/AIM-era proggies,
+punters, room busters, scrollers, faders, bots, source packs, screenshots, old
+download mirrors, and scene links.
 
 The repo is being built in two layers:
 
@@ -10,9 +10,23 @@ The repo is being built in two layers:
   and mirror metadata.
 - Website view: a searchable static interface generated from the same data.
 
+## Start browsing
+
+- [Full GitHub documentation hub](docs/README.md)
+- [Generated archive guide](docs/generated/README.md)
+- [All applications](docs/generated/applications/all-applications.md)
+- [Categories](docs/generated/categories/README.md)
+- [AOL version buckets](docs/generated/versions/README.md)
+- [Sources and old-school links](docs/generated/sources/README.md)
+- [Screenshots and recovered web images](docs/generated/screenshots/README.md)
+- [Glossary](docs/generated/GLOSSARY.md)
+- [Archive safety notes](ARCHIVE-SAFETY.md)
+
 The site includes:
 
 - A searchable catalog generated from `ssstonebraker/aolunderground-proggies`.
+- GitHub-readable generated documentation with one detail page per main catalog
+  application.
 - Local downloadable archive files under `files/` when the source blob can be
   mirrored within normal GitHub file-size limits.
 - Screenshot-aware program cards when source screenshots are available.
@@ -94,7 +108,14 @@ To rebuild missing-candidate reports:
 node tools/build-missing-candidates.mjs
 ```
 
+To rebuild the GitHub-readable documentation pages:
+
+```powershell
+node tools/build-github-docs.mjs
+```
+
 ## GitHub Pages
 
-This repository is ready for GitHub Pages. The included workflow publishes the
-static site from the repository root.
+The plain GitHub archive is the primary deliverable right now. The repository is
+larger than normal GitHub Pages recommendations, so the Pages workflow is manual
+only and should be used after splitting or slimming the published website view.

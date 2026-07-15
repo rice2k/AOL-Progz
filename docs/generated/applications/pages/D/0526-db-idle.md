@@ -1,0 +1,56 @@
+# db idle
+
+A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. Filename/catalog cues suggest: idling or away automation.
+
+**Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-0526-db-idle |
+| Catalog number | 526 |
+| Name | db idle |
+| Author | xer2k |
+| Platform | AOL |
+| AOL/version bucket | AOL 4.0 |
+| Category | idler or bot |
+| Visual Basic | VB5 |
+| Compile type | native |
+| Duplicate count | 3 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 7.4 MB |
+
+## Tags
+
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb5](../../../tags/vb5.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-4-0/0526-db-idle.zip](../../../../../files/aol/aol-4-0/0526-db-idle.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/db3remix.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/db3remix.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/db3remix.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/db3remix.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/db3remix.zip)
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://xer2k.cjb.net](http://xer2k.cjb.net) | db remix/random.ini | archive text |
+
+## Related Indexes
+
+- Category: [idler or bot](../../../categories/idler-or-bot.md)
+- Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
+- Applications index: [all applications](../../all-applications.md)
