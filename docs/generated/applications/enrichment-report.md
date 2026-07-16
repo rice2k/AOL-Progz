@@ -1,6 +1,6 @@
 # Program Metadata Enrichment Report
 
-Generated from archive filenames, local file sizes, readable archive text, external ZIP text evidence, manual corrections, crawled source pages, old-page download links, and mirror lists. Improved names: **519**. Archive-text authors: **15**. Manual purpose clues: **2**. Archive-text purpose clues: **324**. Matched external ZIP text evidence: **20**. Author conflicts flagged: **12**. Programs with web downloads: **2008**. Programs with source mentions: **7**. Programs with mirror leads: **348**.
+Generated from archive filenames, local file sizes, readable archive text, external ZIP text evidence, manual corrections, crawled source pages, old-page download links, and mirror lists. Improved names: **519**. Archive-text authors: **15**. Manual purpose clues: **2**. Archive-text purpose clues: **324**. Matched external ZIP text evidence: **29**. Author conflicts flagged: **12**. Programs with web downloads: **2008**. Programs with source mentions: **7**. Programs with mirror leads: **432**.
 
 | Best known name | Catalog label | Best-name source | Manual author | Archive-text author | Inferred author | Author conflict | Inferred AOL/version | Archive-text AOL/version | Manual purpose | Archive-text purpose | External ZIP text purpose | Size | Web downloads | Source mentions | Mirror leads | External ZIP evidence |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -193,7 +193,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [AwAy2k Beta2](pages/A/0189-away2k-beta2.md) | AwAy2k Beta2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 711 KB | 2 | 0 | 2 | 0 |
 | [axis-link](pages/A/0190-axis-link.md) | axis-link | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 1 | 0 |
 | [àñtì-làg by [kìD]](pages/A/0191-anti-lag-by-kid.md) | àñtì-làg by [kìD] | catalog | unknown | unknown | Kid -9 WinXP Yr06 | unknown | AOL 7-9 | unknown | unknown | unknown | unknown | 1.4 MB | 0 | 0 | 0 | 0 |
-| [Bozo](pages/B/0192-bozo.md) | b0z0 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
+| [Bozo](pages/B/0192-bozo.md) | b0z0 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 1 | 0 |
 | [BaDaSs ScRoLLeR](pages/B/0193-badass-scroller.md) | BaDaSs ScRoLLeR | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 1 | 0 |
 | [bahamut4](pages/B/0194-bahamut4.md) | bahamut4 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 907 KB | 1 | 0 | 1 | 0 |
 | [Bait That Shizzle Baiter](pages/B/0195-bait-that-shizzle-baiter.md) | Bait That Shizzle | archive filename | unknown | unknown | unknown | unknown | AOL 4-5 | AOL 4.0<br>AOL 5.0 | unknown | Source / developer file<br>AOL/AIM chat utility | unknown | 1.8 MB | 1 | 0 | 0 | 0 |
@@ -210,110 +210,110 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [bblidle│.╣](pages/B/0206-bblidle.md) | bblidle│.╣ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 136 KB | 1 | 0 | 2 | 0 |
 | [bblidle│╖╣](pages/B/0207-bblidle.md) | bblidle│╖╣ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.6 MB | 2 | 0 | 3 | 0 |
 | [Bbl Idle%b 2](pages/B/0208-bbl-idleb-2.md) | bbl² | archive filename | unknown | unknown | unknown | unknown | AOL 5.0 | unknown | unknown | unknown | unknown | 22 B | 0 | 0 | 0 | 0 |
-| [Braindamagev 22](pages/B/0209-braindamagev-22.md) | bd22 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 3 | 0 | 0 | 0 |
+| [Braindamagev 22](pages/B/0209-braindamagev-22.md) | bd22 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 3 | 0 | 1 | 0 |
 | [BeatBOx_by Negz](pages/B/0210-beatbox-by-negz.md) | BeatBOx_by Negz | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
 | [Beback1](pages/B/0211-beback1.md) | Beback1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
 | [Bed Time Idler](pages/B/0212-bed-time-idler.md) | bedtimefix[1] | archive filename | unknown | unknown | unknown | unknown | AOL 5.0 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
-| [berserk1[public]](pages/B/0213-berserk1public.md) | berserk1[public] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.7 MB | 1 | 0 | 0 | 0 |
+| [berserk1[public]](pages/B/0213-berserk1public.md) | berserk1[public] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.7 MB | 1 | 0 | 1 | 0 |
 | [Infernal Regions Beta](pages/B/0214-infernal-regions-beta.md) | beta | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
 | [Beta v²](pages/B/0215-beta-v2.md) | Beta v² | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 340 KB | 1 | 0 | 0 | 0 |
-| [Beta Zero](pages/B/0216-beta-zero.md) | Beta Zero | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
+| [Beta Zero](pages/B/0216-beta-zero.md) | Beta Zero | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 1 | 0 |
 | [beta122](pages/B/0217-beta122.md) | beta122 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 559 KB | 1 | 0 | 0 | 0 |
 | [Freakyccom](pages/B/0218-freakyccom.md) | Beta2 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
 | [Poa 2](pages/B/0219-poa-2.md) | beta5 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 53 KB | 1 | 0 | 0 | 0 |
 | [Stinky](pages/B/0220-stinky.md) | beta² | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Scroller / macro<br>Mass mailer / server<br>AOL/AIM chat utility | unknown | 488 KB | 1 | 0 | 0 | 0 |
-| [Beyond Destiny](pages/B/0221-beyond-destiny.md) | Beyond Destiny | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.0 MB | 2 | 0 | 0 | 0 |
-| [Black Flag 2](pages/B/0222-black-flag-2.md) | bf2 | archive filename | unknown | unknown | unknown | unknown | AOL 2.5-6 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [bIack assassin1](pages/B/0223-biack-assassin1.md) | bIack assassin1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.7 MB | 1 | 0 | 0 | 0 |
-| [bidle151](pages/B/0224-bidle151.md) | bidle151 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Media / file utility<br>Source / developer file<br>AOL/AIM chat utility | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
+| [Beyond Destiny](pages/B/0221-beyond-destiny.md) | Beyond Destiny | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.0 MB | 2 | 0 | 1 | 0 |
+| [Black Flag 2](pages/B/0222-black-flag-2.md) | bf2 | archive filename | unknown | unknown | unknown | unknown | AOL 2.5-6 | unknown | unknown | unknown | Fader / text styler<br>Scroller / macro<br>Media / file utility | 22 B | 1 | 0 | 1 | 1 |
+| [bIack assassin1](pages/B/0223-biack-assassin1.md) | bIack assassin1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.7 MB | 1 | 0 | 1 | 0 |
+| [bidle151](pages/B/0224-bidle151.md) | bidle151 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Media / file utility<br>Source / developer file<br>AOL/AIM chat utility | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
 | [biestlytoolzsetup](pages/B/0225-biestlytoolzsetup.md) | biestlytoolzsetup | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.9 MB | 1 | 0 | 1 | 0 |
 | [BiO hAzArD](pages/B/0226-bio-hazard.md) | BiO hAzArD | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 5.5 MB | 1 | 0 | 0 | 0 |
-| [Bio 2](pages/B/0227-bio-2.md) | bio2 | archive filename | unknown | unknown | unknown | unknown | unknown | AOL 7<br>AOL 9<br>AOL 8 | unknown | Media / file utility<br>AOL/AIM chat utility | unknown | 1.7 MB | 1 | 0 | 0 | 0 |
+| [Bio 2](pages/B/0227-bio-2.md) | bio2 | archive filename | unknown | unknown | unknown | unknown | unknown | AOL 7<br>AOL 9<br>AOL 8 | unknown | Media / file utility<br>AOL/AIM chat utility | unknown | 1.7 MB | 1 | 0 | 1 | 0 |
 | [Bio Beast](pages/B/0228-bio-beast.md) | BIOBEA~1 | archive filename | unknown | unknown | unknown | unknown | AOL 4.0 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [biohazard²](pages/B/0229-biohazard2.md) | biohazard² | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.4 MB | 1 | 0 | 0 | 0 |
-| [BioSphere](pages/B/0230-biosphere.md) | BioSphere | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.2 MB | 2 | 0 | 0 | 0 |
+| [biohazard²](pages/B/0229-biohazard2.md) | biohazard² | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.4 MB | 1 | 0 | 2 | 0 |
+| [BioSphere](pages/B/0230-biosphere.md) | BioSphere | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.2 MB | 2 | 0 | 1 | 0 |
 | [Pab](pages/B/0231-pab.md) | Bish | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Account / TOS utility | unknown | 174 KB | 1 | 0 | 0 | 0 |
 | [bish 2](pages/B/0232-bish-2.md) | bish 2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 70 KB | 1 | 0 | 0 | 0 |
 | [bish error](pages/B/0233-bish-error.md) | bish error | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 645 KB | 1 | 0 | 0 | 0 |
-| [BizkitXer](pages/B/0234-bizkitxer.md) | BizkitXer | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | C-Com / command list<br>Source / developer file<br>AOL/AIM chat utility | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
+| [BizkitXer](pages/B/0234-bizkitxer.md) | BizkitXer | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | C-Com / command list<br>Source / developer file<br>AOL/AIM chat utility | unknown | 1.5 MB | 1 | 0 | 1 | 0 |
 | [bkanti8](pages/B/0235-bkanti8.md) | bkanti8 | catalog | unknown | unknown | unknown | unknown | unknown | AOL 95 | unknown | Room buster<br>Punter / booter<br>AOL/AIM chat utility | unknown | 516 KB | 1 | 0 | 1 | 0 |
-| [black out comz 1](pages/B/0236-black-out-comz-1.md) | black out comz 1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 0 | 0 |
-| [black out comz 1 beta](pages/B/0237-black-out-comz-1-beta.md) | black out comz 1 beta | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 0 | 0 |
-| [blackdragongold](pages/B/0238-blackdragongold.md) | blackdragongold | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Linker / chat linker<br>AOL/AIM chat utility | unknown | 1012 KB | 1 | 0 | 0 | 0 |
+| [black out comz 1](pages/B/0236-black-out-comz-1.md) | black out comz 1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 1 | 0 |
+| [black out comz 1 beta](pages/B/0237-black-out-comz-1-beta.md) | black out comz 1 beta | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 1 | 0 |
+| [blackdragongold](pages/B/0238-blackdragongold.md) | blackdragongold | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Linker / chat linker<br>AOL/AIM chat utility | unknown | 1012 KB | 1 | 0 | 1 | 0 |
 | [blackice pwsd](pages/B/0239-blackice-pwsd.md) | blackice pwsd | catalog | unknown | unknown | unknown | unknown | AOL 5.0 | unknown | unknown | unknown | unknown | 3.1 MB | 2 | 0 | 3 | 0 |
-| [Black Idle 1.0 Win 98-xp Yr 2004](pages/B/0240-black-idle-1-0-win-98-xp-yr-2004.md) | Blackidle1.0 | archive filename | unknown | unknown | unknown | unknown | AOL 8-9 | unknown | unknown | unknown | unknown | 1.3 MB | 2 | 0 | 0 | 0 |
+| [Black Idle 1.0 Win 98-xp Yr 2004](pages/B/0240-black-idle-1-0-win-98-xp-yr-2004.md) | Blackidle1.0 | archive filename | unknown | unknown | unknown | unknown | AOL 8-9 | unknown | unknown | unknown | unknown | 1.3 MB | 2 | 0 | 1 | 0 |
 | [blackmagicfinal](pages/B/0241-blackmagicfinal.md) | blackmagicfinal | catalog | unknown | unknown | unknown | unknown | unknown | AOL 8<br>AOL 7 | unknown | Account / TOS utility | unknown | 3.9 MB | 0 | 0 | 0 | 0 |
-| [BlackNum](pages/B/0242-blacknum.md) | BlackNum | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 729 KB | 1 | 0 | 0 | 0 |
-| [Blackout And 5.0](pages/B/0243-blackout-and-5-0.md) | BlackouT | archive filename | unknown | unknown | unknown | unknown | AOL 4.0 | unknown | unknown | unknown | unknown | 22 B | 5 | 0 | 2 | 0 |
-| [blackout2](pages/B/0244-blackout2.md) | blackout2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 0 | 0 |
-| [blackportal](pages/B/0245-blackportal.md) | blackportal | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
-| [blackrose](pages/B/0246-blackrose.md) | blackrose | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 3 | 0 | 0 | 0 |
-| [Blackrose 2rb](pages/B/0247-blackrose-2rb.md) | blackrose | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
-| [blackshadow](pages/B/0248-blackshadow.md) | blackshadow | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 789 KB | 1 | 0 | 0 | 0 |
-| [blank idle](pages/B/0249-blank-idle.md) | blank idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 118 KB | 1 | 0 | 0 | 0 |
-| [blank idle 2.00](pages/B/0250-blank-idle-2-00.md) | blank idle 2.00 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 956 KB | 1 | 0 | 0 | 0 |
-| [blank idle 2.00[remix]](pages/B/0251-blank-idle-2-00remix.md) | blank idle 2.00[remix] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 886 KB | 1 | 0 | 0 | 0 |
+| [BlackNum](pages/B/0242-blacknum.md) | BlackNum | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 729 KB | 1 | 0 | 1 | 0 |
+| [Blackout And 5.0](pages/B/0243-blackout-and-5-0.md) | BlackouT | archive filename | unknown | unknown | unknown | unknown | AOL 4.0 | unknown | unknown | unknown | unknown | 22 B | 5 | 0 | 5 | 0 |
+| [blackout2](pages/B/0244-blackout2.md) | blackout2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 1 | 0 |
+| [blackportal](pages/B/0245-blackportal.md) | blackportal | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 1 | 0 |
+| [blackrose](pages/B/0246-blackrose.md) | blackrose | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 3 | 0 | 2 | 0 |
+| [Blackrose 2rb](pages/B/0247-blackrose-2rb.md) | blackrose | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 1 | 0 |
+| [blackshadow](pages/B/0248-blackshadow.md) | blackshadow | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 789 KB | 1 | 0 | 1 | 0 |
+| [blank idle](pages/B/0249-blank-idle.md) | blank idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 118 KB | 1 | 0 | 1 | 0 |
+| [blank idle 2.00](pages/B/0250-blank-idle-2-00.md) | blank idle 2.00 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 956 KB | 1 | 0 | 1 | 0 |
+| [blank idle 2.00[remix]](pages/B/0251-blank-idle-2-00remix.md) | blank idle 2.00[remix] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 886 KB | 1 | 0 | 1 | 0 |
 | [Blaze Idle Win ALL Yr 04](pages/B/0252-blaze-idle-win-all-yr-04.md) | BlaZe iDle | archive filename | unknown | unknown | unknown | unknown | AOL 7.0-9.0 | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
 | [Blaze Idler](pages/B/0253-blaze-idler.md) | Blaze Idler | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [Blazed toolz 1.0](pages/B/0254-blazed-toolz-1-0.md) | Blazed toolz 1.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 968 KB | 1 | 0 | 0 | 0 |
-| [Blazin](pages/B/0255-blazin.md) | Blazin | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Mass mailer / server<br>Media / file utility<br>AOL/AIM chat utility | unknown | 1.1 MB | 1 | 0 | 0 | 0 |
-| [Blind Idle](pages/B/0256-blind-idle.md) | Blind Idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.7 MB | 5 | 0 | 3 | 0 |
-| [blindcoms](pages/B/0257-blindcoms.md) | blindcoms | catalog | unknown | unknown | unknown | unknown | AOL 4-5 | unknown | unknown | unknown | unknown | 22 B | 2 | 0 | 0 | 0 |
+| [Blazed toolz 1.0](pages/B/0254-blazed-toolz-1-0.md) | Blazed toolz 1.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 968 KB | 1 | 0 | 1 | 0 |
+| [Blazin](pages/B/0255-blazin.md) | Blazin | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Mass mailer / server<br>Media / file utility<br>AOL/AIM chat utility | unknown | 1.1 MB | 1 | 0 | 1 | 0 |
+| [Blind Idle](pages/B/0256-blind-idle.md) | Blind Idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.7 MB | 5 | 0 | 5 | 0 |
+| [blindcoms](pages/B/0257-blindcoms.md) | blindcoms | catalog | unknown | unknown | unknown | unknown | AOL 4-5 | unknown | unknown | unknown | unknown | 22 B | 2 | 0 | 1 | 0 |
 | [blindingpoint](pages/B/0258-blindingpoint.md) | blindingpoint | catalog | unknown | unknown | unknown | unknown | AOL 3-4 | unknown | unknown | unknown | unknown | 1.0 MB | 1 | 0 | 0 | 0 |
-| [blinkmm](pages/B/0259-blinkmm.md) | blinkmm | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 790 KB | 2 | 0 | 0 | 0 |
-| [bliss98](pages/B/0260-bliss98.md) | bliss98 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Linker / chat linker<br>AOL/AIM chat utility<br>Account / TOS utility<br>Source / developer file | unknown | 3.5 MB | 1 | 0 | 0 | 0 |
-| [Blitzanti](pages/B/0261-blitzanti.md) | Blitz | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 534 KB | 1 | 0 | 0 | 0 |
-| [blitz1im](pages/B/0262-blitz1im.md) | blitz1im | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [Blitz Hit Punter And 4.0](pages/B/0263-blitz-hit-punter-and-4-0.md) | BLITZHIT | archive filename | unknown | unknown | unknown | unknown | AOL 3.0 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [blizah coms](pages/B/0264-blizah-coms.md) | blizah coms | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 0 | 0 |
-| [blizahcoms](pages/B/0265-blizahcoms.md) | blizahcoms | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 2 | 0 | 0 | 0 |
-| [blizahphader](pages/B/0266-blizahphader.md) | blizahphader | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
+| [blinkmm](pages/B/0259-blinkmm.md) | blinkmm | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 790 KB | 2 | 0 | 1 | 0 |
+| [bliss98](pages/B/0260-bliss98.md) | bliss98 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Linker / chat linker<br>AOL/AIM chat utility<br>Account / TOS utility<br>Source / developer file | unknown | 3.5 MB | 1 | 0 | 1 | 0 |
+| [Blitzanti](pages/B/0261-blitzanti.md) | Blitz | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 534 KB | 1 | 0 | 1 | 0 |
+| [blitz1im](pages/B/0262-blitz1im.md) | blitz1im | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
+| [Blitz Hit Punter And 4.0](pages/B/0263-blitz-hit-punter-and-4-0.md) | BLITZHIT | archive filename | unknown | unknown | unknown | unknown | AOL 3.0 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
+| [blizah coms](pages/B/0264-blizah-coms.md) | blizah coms | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 1 | 0 |
+| [blizahcoms](pages/B/0265-blizahcoms.md) | blizahcoms | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 2 | 0 | 1 | 0 |
+| [blizahphader](pages/B/0266-blizahphader.md) | blizahphader | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
 | [Blizzard Server V 4%b 9](pages/B/0267-blizzard-server-v-4b-9.md) | blizzard server v4� | archive filename | unknown | unknown | unknown | unknown | AOL 4.0 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [Blood Runs Cold](pages/B/0268-blood-runs-cold.md) | Blood Runs Cold | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.3 MB | 1 | 0 | 0 | 0 |
-| [Blood Runs Cold v2](pages/B/0269-blood-runs-cold-v2.md) | Blood Runs Cold v2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.9 MB | 1 | 0 | 0 | 0 |
-| [Blood Lust Species](pages/B/0270-blood-lust-species.md) | bls | archive filename | unknown | unknown | Xero And Slush | Catalog listed xèró and slush; evidence prefers Xero And Slush. | AOL 4.0 | AOL 4.0 | unknown | Media / file utility<br>Account / TOS utility | unknown | 2.2 MB | 1 | 1 | 0 | 0 |
-| [blue x'er](pages/B/0271-blue-xer.md) | blue x'er | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.1 MB | 1 | 0 | 0 | 0 |
-| [BLUECROS](pages/B/0272-bluecros.md) | BLUECROS | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Media / file utility | unknown | 652 KB | 1 | 0 | 0 | 0 |
-| [Blueice](pages/B/0273-blueice.md) | Blueice | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 3 | 0 | 0 | 0 |
+| [Blood Runs Cold](pages/B/0268-blood-runs-cold.md) | Blood Runs Cold | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.3 MB | 1 | 0 | 1 | 0 |
+| [Blood Runs Cold v2](pages/B/0269-blood-runs-cold-v2.md) | Blood Runs Cold v2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.9 MB | 1 | 0 | 1 | 0 |
+| [Blood Lust Species](pages/B/0270-blood-lust-species.md) | bls | archive filename | unknown | unknown | Xero And Slush | Catalog listed xèró and slush; evidence prefers Xero And Slush. | AOL 4.0 | AOL 4.0 | unknown | Media / file utility<br>Account / TOS utility | unknown | 2.2 MB | 1 | 1 | 1 | 0 |
+| [blue x'er](pages/B/0271-blue-xer.md) | blue x'er | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.1 MB | 1 | 0 | 1 | 0 |
+| [BLUECROS](pages/B/0272-bluecros.md) | BLUECROS | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Media / file utility | unknown | 652 KB | 1 | 0 | 1 | 0 |
+| [Blueice](pages/B/0273-blueice.md) | Blueice | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 3 | 0 | 3 | 0 |
 | [BLUEICE](pages/B/0274-blueice.md) | BLUEICE | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | All-in-one prog suite<br>Mass mailer / server | unknown | 472 KB | 0 | 0 | 0 | 0 |
-| [blueink](pages/B/0275-blueink.md) | blueink | catalog | unknown | unknown | unknown | unknown | AOL 4-5 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
+| [blueink](pages/B/0275-blueink.md) | blueink | catalog | unknown | unknown | unknown | unknown | AOL 4-5 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
 | [BlueLightning](pages/B/0276-bluelightning.md) | BlueLightning | catalog | unknown | unknown | unknown | unknown | AOL 7 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [Blunt Idler](pages/B/0277-blunt-idler.md) | Blunt Idler | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
-| [blunted-coms](pages/B/0278-blunted-coms.md) | blunted-coms | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Fader / text styler<br>Scroller / macro | unknown | 3.0 MB | 1 | 0 | 0 | 0 |
-| [Bluntzantiv 1](pages/B/0279-bluntzantiv-1.md) | Bluntz | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 630 KB | 1 | 0 | 0 | 0 |
-| [BLUX_TOOLZ](pages/B/0280-blux-toolz.md) | BLUX_TOOLZ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 8.0 MB | 1 | 0 | 0 | 0 |
+| [Blunt Idler](pages/B/0277-blunt-idler.md) | Blunt Idler | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
+| [blunted-coms](pages/B/0278-blunted-coms.md) | blunted-coms | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Fader / text styler<br>Scroller / macro | Fader / text styler<br>Scroller / macro | 3.0 MB | 1 | 0 | 1 | 1 |
+| [Bluntzantiv 1](pages/B/0279-bluntzantiv-1.md) | Bluntz | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 630 KB | 1 | 0 | 1 | 0 |
+| [BLUX_TOOLZ](pages/B/0280-blux-toolz.md) | BLUX_TOOLZ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 8.0 MB | 1 | 0 | 1 | 0 |
 | [BMR_Buster_Pro](pages/B/0281-bmr-buster-pro.md) | BMR_Buster_Pro | catalog | unknown | unknown | unknown | unknown | AOL 4-6 | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
 | [Black Magic V 1.0](pages/B/0282-black-magic-v-1-0.md) | bmsetup | archive filename | unknown | unknown | unknown | unknown | AOL 7.0 | AOL 7 | unknown | Fader / text styler<br>Idler / AFK bot<br>Punter / booter<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility<br>AOL/AIM chat utility | unknown | 1.6 MB | 1 | 0 | 0 | 0 |
-| [bodini](pages/B/0283-bodini.md) | bodini | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Mass mailer / server<br>Media / file utility | unknown | 4.2 MB | 1 | 0 | 0 | 0 |
+| [bodini](pages/B/0283-bodini.md) | bodini | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Mass mailer / server<br>Media / file utility | unknown | 4.2 MB | 1 | 0 | 1 | 0 |
 | [Bois C-Com](pages/B/0284-bois-c-com.md) | Boi's Ccom | archive filename | unknown | unknown | unknown | unknown | AOL 5-6 | unknown | unknown | unknown | unknown | 45 KB | 1 | 0 | 0 | 0 |
-| [bombiraq](pages/B/0285-bombiraq.md) | bombiraq | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
+| [bombiraq](pages/B/0285-bombiraq.md) | bombiraq | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
 | [Bond40](pages/B/0286-bond40.md) | Bond40 | catalog | unknown | unknown | unknown | unknown | AOL 4 | unknown | unknown | unknown | unknown | 1.9 MB | 2 | 0 | 0 | 0 |
 | [Bone Buster Yr 2003 XP](pages/B/0287-bone-buster-yr-2003-xp.md) | bone buster | archive filename | unknown | unknown | unknown | unknown | AOL 8 | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
-| [boogyman](pages/B/0288-boogyman.md) | boogyman | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Punter / booter | unknown | 4.1 MB | 1 | 0 | 0 | 0 |
-| [booked](pages/B/0289-booked.md) | booked | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [Bootbot Alpha Release 1 Win 2k-XP Yr 05](pages/B/0290-bootbot-alpha-release-1-win-2k-xp-yr-05.md) | BOOTBOT | archive filename | unknown | unknown | unknown | unknown | AOL 7-9 | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
+| [boogyman](pages/B/0288-boogyman.md) | boogyman | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Punter / booter | unknown | 4.1 MB | 1 | 0 | 1 | 0 |
+| [booked](pages/B/0289-booked.md) | booked | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Mass mailer / server<br>Source / developer file<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | 22 B | 1 | 0 | 1 | 1 |
+| [Bootbot Alpha Release 1 Win 2k-XP Yr 05](pages/B/0290-bootbot-alpha-release-1-win-2k-xp-yr-05.md) | BOOTBOT | archive filename | unknown | unknown | unknown | unknown | AOL 7-9 | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
 | [Chat Bot](pages/B/0292-chat-bot.md) | Bot | archive filename | unknown | unknown | unknown | unknown | AOL 8.0 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [Bot City 2005](pages/B/0293-bot-city-2005.md) | Bot City 2005 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | AOL/AIM chat utility | unknown | 2.7 MB | 1 | 0 | 0 | 0 |
-| [BoXFaDeR2](pages/B/0294-boxfader2.md) | BoXFaDeR2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Fader / text styler<br>Source / developer file | unknown | 3.2 MB | 1 | 0 | 0 | 0 |
-| [boºs idler](pages/B/0295-boos-idler.md) | boºs idler | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 733 KB | 1 | 0 | 0 | 0 |
-| [BrainDamage2](pages/B/0296-braindamage2.md) | BrainDamage2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.1 MB | 4 | 0 | 1 | 0 |
+| [Bot City 2005](pages/B/0293-bot-city-2005.md) | Bot City 2005 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | AOL/AIM chat utility | unknown | 2.7 MB | 1 | 0 | 1 | 0 |
+| [BoXFaDeR2](pages/B/0294-boxfader2.md) | BoXFaDeR2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Fader / text styler<br>Source / developer file | unknown | 3.2 MB | 1 | 0 | 1 | 0 |
+| [boºs idler](pages/B/0295-boos-idler.md) | boºs idler | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 733 KB | 1 | 0 | 1 | 0 |
+| [BrainDamage2](pages/B/0296-braindamage2.md) | BrainDamage2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.1 MB | 4 | 0 | 2 | 0 |
 | [Winter Break And 5.0 Yr 2000](pages/B/0297-winter-break-and-5-0-yr-2000.md) | break | archive filename | unknown | unknown | unknown | unknown | AOL 4.0 | unknown | unknown | unknown | Fader / text styler<br>C-Com / command list<br>Mass mailer / server<br>Account / TOS utility<br>Media / file utility<br>Punter / booter | 22 B | 4 | 0 | 24 | 2 |
-| [Breakdown Recruiter Idle](pages/B/0298-breakdown-recruiter-idle.md) | Breakdown Recruiter Idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 890 KB | 1 | 0 | 0 | 0 |
-| [brhymes](pages/B/0299-brhymes.md) | brhymes | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
-| [brysanti](pages/B/0300-brysanti.md) | brysanti | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 492 KB | 1 | 0 | 0 | 0 |
+| [Breakdown Recruiter Idle](pages/B/0298-breakdown-recruiter-idle.md) | Breakdown Recruiter Idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 890 KB | 1 | 0 | 1 | 0 |
+| [brhymes](pages/B/0299-brhymes.md) | brhymes | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 1 | 0 |
+| [brysanti](pages/B/0300-brysanti.md) | brysanti | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 492 KB | 1 | 0 | 1 | 0 |
 | [btchr1b2](pages/B/0301-btchr1b2.md) | btchr1b2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.7 MB | 1 | 0 | 0 | 0 |
 | [BuDDaH lagger](pages/B/0302-buddah-lagger.md) | BuDDaH lagger | catalog | unknown | unknown | unknown | unknown | AOL 7-9 | unknown | unknown | unknown | unknown | 1.5 MB | 0 | 0 | 0 | 0 |
 | [Buddah Lagger 2.0 Win ALL Yr 04](pages/B/0303-buddah-lagger-2-0-win-all-yr-04.md) | BuDDaH lagger | archive filename | unknown | unknown | unknown | unknown | AOL 7-9 | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
-| [BuDDaH lagger](pages/B/0304-buddah-lagger.md) | BuDDaH lagger | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
+| [BuDDaH lagger](pages/B/0304-buddah-lagger.md) | BuDDaH lagger | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
 | [BuDDaH Lagger coms 4.0 build 15.6](pages/B/0305-buddah-lagger-coms-4-0-build-15-6.md) | BuDDaH Lagger coms 4.0 build 15.6 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.8 MB | 1 | 0 | 0 | 0 |
-| [BuDDaH Lagger4.0](pages/B/0306-buddah-lagger4-0.md) | BuDDaH Lagger4.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
+| [BuDDaH Lagger4.0](pages/B/0306-buddah-lagger4-0.md) | BuDDaH Lagger4.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
 | [BuDDaH list orginiser v3.0](pages/B/0307-buddah-list-orginiser-v3-0.md) | BuDDaH list orginiser v3.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.2 MB | 1 | 0 | 0 | 0 |
-| [budsaver](pages/B/0308-budsaver.md) | budsaver | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 2 | 0 | 1 | 0 |
-| [bunk error1](pages/B/0309-bunk-error1.md) | bunk error1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
-| [burger](pages/B/0310-burger.md) | burger | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 909 KB | 1 | 0 | 0 | 0 |
-| [burn10](pages/B/0311-burn10.md) | burn10 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 770 KB | 1 | 0 | 0 | 0 |
-| [Burndes Aol 6.0 Lister](pages/B/0312-burndes-aol-6-0-lister.md) | Burndes Aol 6.0 Lister | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3.4 MB | 1 | 0 | 0 | 0 |
-| [Burndes Lister](pages/B/0313-burndes-lister.md) | Burndes Lister | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3.3 MB | 1 | 0 | 0 | 0 |
+| [budsaver](pages/B/0308-budsaver.md) | budsaver | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 2 | 0 | 2 | 0 |
+| [bunk error1](pages/B/0309-bunk-error1.md) | bunk error1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
+| [burger](pages/B/0310-burger.md) | burger | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 909 KB | 1 | 0 | 1 | 0 |
+| [burn10](pages/B/0311-burn10.md) | burn10 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 770 KB | 1 | 0 | 1 | 0 |
+| [Burndes Aol 6.0 Lister](pages/B/0312-burndes-aol-6-0-lister.md) | Burndes Aol 6.0 Lister | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3.4 MB | 1 | 0 | 1 | 0 |
+| [Burndes Lister](pages/B/0313-burndes-lister.md) | Burndes Lister | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3.3 MB | 1 | 0 | 1 | 0 |
 | [Aggression](pages/B/0314-aggression.md) | bust | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 499 KB | 1 | 0 | 1 | 0 |
 | [Empbust](pages/B/0315-empbust.md) | BUST | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 594 KB | 1 | 0 | 0 | 0 |
 | [Bust A Room 4.0](pages/B/0316-bust-a-room-4-0.md) | Bust A Room 4.0 | catalog | unknown | unknown | unknown | unknown | AOL 9 | AOL 9.0 | unknown | Fader / text styler<br>Room buster<br>AOL/AIM chat utility | unknown | 2.5 MB | 1 | 0 | 0 | 0 |
@@ -323,24 +323,24 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [bust v4.0 for AOL 6-7v2](pages/B/0320-bust-v4-0-for-aol-6-7v2.md) | bust v4.0 for AOL 6-7v2 | catalog | unknown | unknown | unknown | unknown | AOL 6-7 | unknown | unknown | unknown | unknown | 22 B | 0 | 0 | 0 | 0 |
 | [Bust v5.0 for AOL 5-7](pages/B/0321-bust-v5-0-for-aol-5-7.md) | Bust v5.0 for AOL 5-7 | catalog | unknown | unknown | unknown | unknown | AOL 6-8 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
 | [Bust 5](pages/B/0322-bust-5.md) | bust5 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 519 KB | 0 | 0 | 0 | 0 |
-| [bustcontrol](pages/B/0324-bustcontrol.md) | bustcontrol | catalog | unknown | unknown | unknown | unknown | AOL 7 | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
+| [bustcontrol](pages/B/0324-bustcontrol.md) | bustcontrol | catalog | unknown | unknown | unknown | unknown | AOL 7 | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 1 | 0 |
 | [Buster](pages/B/0325-buster.md) | Buster | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
 | [buster](pages/B/0326-buster.md) | buster | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.7 MB | 1 | 0 | 0 | 0 |
-| [BustIt](pages/B/0327-bustit.md) | BustIt | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 51 KB | 1 | 0 | 0 | 0 |
-| [BUSTWH~1](pages/B/0328-bustwh1.md) | BUSTWH~1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
-| [busynote╣╖║](pages/B/0329-busynote.md) | busynote╣╖║ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
-| [ByrdToolz v4.5](pages/B/0330-byrdtoolz-v4-5.md) | ByrdToolz v4.5 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Source / developer file<br>Punter / booter<br>AOL/AIM chat utility | unknown | 1.8 MB | 1 | 0 | 0 | 0 |
-| [c link](pages/C/0331-c-link.md) | c link | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Fader / text styler<br>Scroller / macro<br>Linker / chat linker<br>AOL/AIM chat utility | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
-| [c-chatem[beta3]](pages/C/0332-c-chatembeta3.md) | c-chatem[beta3] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3.9 MB | 1 | 0 | 0 | 0 |
+| [BustIt](pages/B/0327-bustit.md) | BustIt | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 51 KB | 1 | 0 | 1 | 0 |
+| [BUSTWH~1](pages/B/0328-bustwh1.md) | BUSTWH~1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
+| [busynote╣╖║](pages/B/0329-busynote.md) | busynote╣╖║ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
+| [ByrdToolz v4.5](pages/B/0330-byrdtoolz-v4-5.md) | ByrdToolz v4.5 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Source / developer file<br>Punter / booter<br>AOL/AIM chat utility | unknown | 1.8 MB | 1 | 0 | 1 | 0 |
+| [c link](pages/C/0331-c-link.md) | c link | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Fader / text styler<br>Scroller / macro<br>Linker / chat linker<br>AOL/AIM chat utility | unknown | 1.3 MB | 1 | 0 | 1 | 0 |
+| [c-chatem[beta3]](pages/C/0332-c-chatembeta3.md) | c-chatem[beta3] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3.9 MB | 1 | 0 | 1 | 0 |
 | [Chillin 15](pages/C/0333-chillin-15.md) | c-com | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 71 KB | 7 | 0 | 0 | 0 |
-| [c-comz](pages/C/0334-c-comz.md) | c-comz | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
-| [C-Spam](pages/C/0335-c-spam.md) | C-Spam | catalog | unknown | PuNkDuDe | unknown | unknown | unknown | unknown | unknown | Source / developer file | unknown | 1.7 MB | 3 | 0 | 2 | 0 |
-| [C 0m 7beta](pages/C/0336-c-0m-7beta.md) | c0m7 | archive filename | unknown | unknown | unknown | unknown | unknown | AOL 7.0 | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown | 2.6 MB | 1 | 0 | 0 | 0 |
-| [c0m7 beta²](pages/C/0337-c0m7-beta2.md) | c0m7 beta² | catalog | unknown | unknown | unknown | unknown | unknown | AOL 7.0 | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown | 2.7 MB | 1 | 0 | 0 | 0 |
-| [c0m7 final](pages/C/0338-c0m7-final.md) | c0m7 final | catalog | unknown | unknown | unknown | unknown | unknown | AOL 7.0 | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown | 3.2 MB | 1 | 0 | 0 | 0 |
+| [c-comz](pages/C/0334-c-comz.md) | c-comz | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
+| [C-Spam](pages/C/0335-c-spam.md) | C-Spam | catalog | unknown | PuNkDuDe | unknown | unknown | unknown | unknown | unknown | Source / developer file | unknown | 1.7 MB | 3 | 0 | 3 | 0 |
+| [C 0m 7beta](pages/C/0336-c-0m-7beta.md) | c0m7 | archive filename | unknown | unknown | unknown | unknown | unknown | AOL 7.0 | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | 2.6 MB | 1 | 0 | 1 | 1 |
+| [c0m7 beta²](pages/C/0337-c0m7-beta2.md) | c0m7 beta² | catalog | unknown | unknown | unknown | unknown | unknown | AOL 7.0 | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | 2.7 MB | 1 | 0 | 1 | 1 |
+| [c0m7 final](pages/C/0338-c0m7-final.md) | c0m7 final | catalog | unknown | unknown | unknown | unknown | unknown | AOL 7.0 | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | 3.2 MB | 1 | 0 | 1 | 1 |
 | [c0oL c-chat](pages/C/0339-c0ol-c-chat.md) | c0oL c-chat | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
 | [C 1.0 Collector , 8.0 Or 9.0 Win 2k Or Xp](pages/C/0340-c-1-0-collector-8-0-or-9-0-win-2k-or-xp.md) | c1.0 Collector By _p-d+ Install | archive filename | unknown | unknown | unknown | unknown | AOL 5.0 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
-| [C 12aol 4-5](pages/C/0341-c-12aol-4-5.md) | C12 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
+| [C 12aol 4-5](pages/C/0341-c-12aol-4-5.md) | C12 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 1 | 0 |
 | [Cak](pages/C/0342-cak.md) | cak | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.9 MB | 1 | 0 | 0 | 0 |
 | [Wesside Punt](pages/C/0343-wesside-punt.md) | CaLiPunt | archive filename | unknown | unknown | Cali | Catalog listed GenOziDe; evidence prefers Cali. | unknown | unknown | unknown | unknown | unknown | 844 KB | 0 | 0 | 0 | 0 |
 | [Canuck Prog V.1](pages/C/0344-canuck-prog-v-1.md) | CANUCK | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
@@ -351,7 +351,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [cbz Xer](pages/C/0350-cbz-xer.md) | cbz Xer | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 23 KB | 1 | 0 | 0 | 0 |
 | [Chatcom](pages/C/0351-chatcom.md) | Cc2 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 3 | 0 | 0 | 0 |
 | [CCCSTyle Mini Toolz](pages/C/0352-cccstyle-mini-toolz.md) | CCCSTyle Mini Toolz | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 464 KB | 1 | 0 | 0 | 0 |
-| [C-chat](pages/C/0353-c-chat.md) | CCHAT | archive filename | unknown | unknown | unknown | unknown | AOL 4-5 | unknown | unknown | unknown | unknown | 22 B | 7 | 0 | 3 | 0 |
+| [C-chat](pages/C/0353-c-chat.md) | CCHAT | archive filename | unknown | unknown | unknown | unknown | AOL 4-5 | unknown | unknown | unknown | unknown | 22 B | 7 | 0 | 5 | 0 |
 | [Eebeta](pages/C/0354-eebeta.md) | ccom8 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.7 MB | 1 | 0 | 0 | 0 |
 | [ccom[public]](pages/C/0355-ccompublic.md) | ccom[public] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.7 MB | 1 | 0 | 1 | 1 |
 | [ccom[public]](pages/C/0356-ccompublic.md) | ccom[public] | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Scroller / macro<br>Fader / text styler | Scroller / macro<br>Fader / text styler | 2.6 MB | 0 | 0 | 2 | 1 |
@@ -364,7 +364,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [Coldfusion](pages/C/0363-coldfusion.md) | CF2 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.4 MB | 3 | 0 | 0 | 0 |
 | [Cf 3](pages/C/0364-cf-3.md) | Cf3 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.6 MB | 2 | 0 | 0 | 0 |
 | [CFader40](pages/C/0365-cfader40.md) | CFader40 | catalog | unknown | unknown | unknown | unknown | unknown | AOL 4 | unknown | Fader / text styler<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | Scroller / macro | 1.4 MB | 6 | 0 | 5 | 1 |
-| [cfinal](pages/C/0366-cfinal.md) | cfinal | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Linker / chat linker<br>AOL/AIM chat utility | unknown | 797 KB | 4 | 0 | 3 | 0 |
+| [cfinal](pages/C/0366-cfinal.md) | cfinal | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Linker / chat linker<br>AOL/AIM chat utility | unknown | 797 KB | 4 | 0 | 4 | 0 |
 | [cgagem](pages/C/0367-cgagem.md) | cgagem | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.8 MB | 1 | 0 | 0 | 0 |
 | [Chain Lightning PWSD](pages/C/0368-chain-lightning-pwsd.md) | Chain Lightning PWSD | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 2 | 0 | 1 | 0 |
 | [Cham](pages/C/0369-cham.md) | cham | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
@@ -523,7 +523,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [DarkLite](pages/D/0522-darklite.md) | DarkLite | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | AOL/AIM chat utility | unknown | 1.9 MB | 1 | 0 | 0 | 0 |
 | [darkwater](pages/D/0523-darkwater.md) | darkwater | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | All-in-one prog suite<br>Media / file utility | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
 | [davidstoolsfinal](pages/D/0524-davidstoolsfinal.md) | davidstoolsfinal | catalog | unknown | unknown | unknown | unknown | unknown | AOL 5<br>AOL 4<br>AOL 3.0 | unknown | All-in-one prog suite<br>Room buster<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown | 2.3 MB | 1 | 0 | 0 | 0 |
-| [dazed beta 2](pages/D/0525-dazed-beta-2.md) | dazed beta 2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 100 KB | 1 | 0 | 0 | 0 |
+| [dazed beta 2](pages/D/0525-dazed-beta-2.md) | dazed beta 2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 100 KB | 1 | 0 | 1 | 0 |
 | [db idle](pages/D/0526-db-idle.md) | db idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 7.4 MB | 1 | 0 | 0 | 0 |
 | [Dch](pages/D/0527-dch.md) | DcH | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3.1 MB | 1 | 0 | 0 | 0 |
 | [DeAd MaN 1.0 For Aol 4.0](pages/D/0528-dead-man-1-0-for-aol-4-0.md) | DeAd MaN 1.0 For Aol 4.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | All-in-one prog suite | unknown | 3.0 MB | 1 | 0 | 0 | 0 |
@@ -616,7 +616,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [Destruction Toolz Platinum](pages/D/0616-destruction-toolz-platinum.md) | dtp | archive filename | unknown | unknown | unknown | unknown | AOL 4-6 | unknown | unknown | unknown | unknown | 5.0 MB | 1 | 0 | 0 | 0 |
 | [Dub Cdplayer](pages/D/0617-dub-cdplayer.md) | dubcd | archive filename | unknown | unknown | unknown | unknown | AOL 4-5 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
 | [DUMBASS PUNTER v1.0](pages/D/0618-dumbass-punter-v1-0.md) | DUMBASS PUNTER v1.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 634 KB | 1 | 0 | 0 | 0 |
-| [Dune ToSer](pages/D/0619-dune-toser.md) | Dune ToSer | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.0 MB | 1 | 0 | 0 | 0 |
+| [Dune ToSer](pages/D/0619-dune-toser.md) | Dune ToSer | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.0 MB | 1 | 0 | 1 | 0 |
 | [Dupe Killer](pages/D/0620-dupe-killer.md) | Dupe Killer | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.9 MB | 2 | 0 | 1 | 0 |
 | [duracell](pages/D/0621-duracell.md) | duracell | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 344 KB | 1 | 0 | 0 | 0 |
 | [dycesbusta](pages/D/0622-dycesbusta.md) | dycesbusta | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
@@ -785,7 +785,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [FoRsAkEn](pages/F/0787-forsaken.md) | FoRsAkEn | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 853 KB | 1 | 0 | 0 | 0 |
 | [Frag 1](pages/F/0788-frag-1.md) | Frag 1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Source / developer file | unknown | 31 KB | 1 | 0 | 0 | 0 |
 | [Frag Link Sender 2.0](pages/F/0789-frag-link-sender-2-0.md) | Frag Link Sender 2.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 833 KB | 3 | 0 | 0 | 0 |
-| [FreeProgz Fader](pages/F/0790-freeprogz-fader.md) | FreeProgz Fader | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 969 KB | 2 | 0 | 0 | 0 |
+| [FreeProgz Fader](pages/F/0790-freeprogz-fader.md) | FreeProgz Fader | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 969 KB | 2 | 0 | 1 | 0 |
 | [Freezev1](pages/F/0791-freezev1.md) | Freezev1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
 | [Freon](pages/F/0792-freon.md) | FREON | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Source / developer file | unknown | 222 KB | 3 | 0 | 0 | 0 |
 | [Froz 3n H 3ll](pages/F/0793-froz-3n-h-3ll.md) | froz3n h3ll | archive filename | unknown | unknown | unknown | unknown | AOL 5.0 | unknown | unknown | unknown | unknown | 4.0 MB | 2 | 0 | 0 | 0 |
@@ -845,7 +845,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [godzilla](pages/G/0849-godzilla.md) | godzilla | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Media / file utility | unknown | 4.8 MB | 1 | 0 | 0 | 0 |
 | [gofetch](pages/G/0850-gofetch.md) | gofetch | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
 | [Freong](pages/G/0851-freong.md) | Gold | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Source / developer file | unknown | 2.7 MB | 1 | 0 | 1 | 0 |
-| [Golden](pages/G/0852-golden.md) | GOLD | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Scroller / macro<br>Fader / text styler<br>Mass mailer / server<br>Media / file utility | 1.3 MB | 1 | 0 | 9 | 2 |
+| [Golden](pages/G/0852-golden.md) | GOLD | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Scroller / macro<br>Fader / text styler<br>Mass mailer / server<br>Media / file utility | 1.3 MB | 1 | 0 | 10 | 2 |
 | [Golden Cloak](pages/G/0853-golden-cloak.md) | Golden Cloak | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
 | [good krymes](pages/G/0854-good-krymes.md) | good krymes | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.1 MB | 1 | 0 | 0 | 0 |
 | [Goodbye](pages/G/0855-goodbye.md) | Goodbye | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
@@ -867,9 +867,9 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [gta's nauti tools](pages/G/0871-gtas-nauti-tools.md) | gta's nauti tools | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.7 MB | 1 | 0 | 0 | 0 |
 | [Guardian](pages/G/0872-guardian.md) | Guardian | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.0 MB | 1 | 0 | 0 | 0 |
 | [gundam[pwc]](pages/G/0873-gundampwc.md) | gundam[pwc] | catalog | unknown | unknown | unknown | unknown | unknown | AOL 123 | unknown | Account / TOS utility | unknown | 2.6 MB | 1 | 0 | 0 | 0 |
-| [Bundparo](pages/G/0874-bundparo.md) | GuRu | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
+| [Bundparo](pages/G/0874-bundparo.md) | GuRu | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
 | [Gàgster²](pages/G/0875-gagster2.md) | Gàgster² | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
-| [Hackers Toolz 1.0 And 8.0](pages/H/0876-hackers-toolz-1-0-and-8-0.md) | Hacker's Toolz 1.0 | archive filename | unknown | Jordan | unknown | Catalog listed Oogle; evidence prefers Jordan. | AOL 7.0 | AOL 7<br>AOL 8<br>AOL 8.0<br>AOL 6.0 | unknown | All-in-one prog suite<br>Source / developer file<br>AOL/AIM chat utility | unknown | 3.5 MB | 1 | 0 | 0 | 0 |
+| [Hackers Toolz 1.0 And 8.0](pages/H/0876-hackers-toolz-1-0-and-8-0.md) | Hacker's Toolz 1.0 | archive filename | unknown | Jordan | unknown | Catalog listed Oogle; evidence prefers Jordan. | AOL 7.0 | AOL 7<br>AOL 8<br>AOL 8.0<br>AOL 6.0 | unknown | All-in-one prog suite<br>Source / developer file<br>AOL/AIM chat utility | unknown | 3.5 MB | 1 | 0 | 1 | 0 |
 | [Haggard Toolz 1.4.0.1](pages/H/0877-haggard-toolz-1-4-0-1.md) | Haggard Toolz 1.4.0.1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
 | [HAKGUARD](pages/H/0878-hakguard.md) | HAKGUARD | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Scroller / macro<br>Account / TOS utility<br>AOL/AIM chat utility | unknown | 2.0 MB | 1 | 0 | 0 | 0 |
 | [hakkor ip stealer](pages/H/0879-hakkor-ip-stealer.md) | hakkor ip stealer | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.9 MB | 1 | 0 | 0 | 0 |
@@ -1075,7 +1075,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [Krypton](pages/K/1085-krypton.md) | Krypton | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 311 KB | 2 | 0 | 0 | 0 |
 | [kryptonite](pages/K/1086-kryptonite.md) | kryptonite | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 78 KB | 1 | 0 | 0 | 0 |
 | [Ktt](pages/K/1087-ktt.md) | KTT | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
-| [l3 l u r s Idler 2](pages/L/1088-l3-l-u-r-s-idler-2.md) | l3 l u r s Idler 2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
+| [l3 l u r s Idler 2](pages/L/1088-l3-l-u-r-s-idler-2.md) | l3 l u r s Idler 2 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 1 | 0 |
 | [LABTEC](pages/L/1089-labtec.md) | LABTEC | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | C-Com / command list<br>Source / developer file<br>AOL/AIM chat utility | unknown | 2.9 MB | 1 | 0 | 0 | 0 |
 | [Progee](pages/L/1090-progee.md) | Lag | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 780 KB | 10 | 0 | 7 | 0 |
 | [lag kill 1.0](pages/L/1091-lag-kill-1-0.md) | lag kill 1.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Source / developer file | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
@@ -1231,7 +1231,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [MenaCe' idle 2.0](pages/M/1246-menace-idle-2-0.md) | MenaCe' idle 2.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.3 MB | 1 | 0 | 0 | 0 |
 | [Metamorphic Toolz Win 95-xp](pages/M/1247-metamorphic-toolz-win-95-xp.md) | MetaEXE2 | archive filename | unknown | unknown | unknown | unknown | AOL 7.0 | unknown | unknown | unknown | unknown | 3.4 MB | 0 | 0 | 0 | 0 |
 | [MetaEXE21](pages/M/1248-metaexe21.md) | MetaEXE21 | catalog | unknown | unknown | unknown | unknown | AOL 7 | unknown | unknown | unknown | unknown | 5.3 MB | 2 | 0 | 1 | 0 |
-| [Metal](pages/M/1249-metal.md) | MeTaL | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | AOL/AIM chat utility | unknown | 1.9 MB | 9 | 0 | 9 | 0 |
+| [Metal](pages/M/1249-metal.md) | MeTaL | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | AOL/AIM chat utility | Fader / text styler | 1.9 MB | 9 | 0 | 10 | 1 |
 | [MetallicA's Revenge](pages/M/1250-metallicas-revenge.md) | MetallicA's Revenge | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.7 MB | 1 | 0 | 0 | 0 |
 | [metal╣ idle](pages/M/1251-metal-idle.md) | metal╣ idle | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.4 MB | 1 | 0 | 0 | 0 |
 | [meteorite lagger](pages/M/1252-meteorite-lagger.md) | meteorite lagger | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2.0 MB | 1 | 0 | 0 | 0 |
@@ -1522,7 +1522,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [Pv8 Toolz 2.0](pages/P/1542-pv8-toolz-2-0.md) | Pv8 Toolz 2.0 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 10 MB | 1 | 0 | 0 | 0 |
 | [pw generator](pages/P/1543-pw-generator.md) | pw generator | catalog | unknown | unknown | unknown | unknown | AOL 7-10 | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
 | [Pwc](pages/P/1544-pwc.md) | Pwc | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 1 | 0 |
-| [Buddah 3](pages/P/1545-buddah-3.md) | pwc3b | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
+| [Buddah 3](pages/P/1545-buddah-3.md) | pwc3b | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 1 | 0 |
 | [pws-mm](pages/P/1546-pws-mm.md) | pws-mm | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
 | [Pwsd](pages/P/1547-pwsd.md) | pwsd | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 0 | 0 | 0 | 0 |
 | [Pwsd 11](pages/P/1548-pwsd-11.md) | Pwsd | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1.5 MB | 1 | 0 | 0 | 0 |
@@ -1581,7 +1581,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [Reload](pages/R/1603-reload.md) | Reload | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 0 | 0 |
 | [Reload~1](pages/R/1604-reload1.md) | Reload~1 | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 0 | 0 |
 | [Remix C-Com Mp 3 Player Beta](pages/R/1605-remix-c-com-mp-3-player-beta.md) | Remix | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 5 | 0 | 5 | 0 |
-| [Remixed Audio²](pages/R/1606-remixed-audio2.md) | Remixed Audio² | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 2 | 0 | 1 | 0 |
+| [Remixed Audio²](pages/R/1606-remixed-audio2.md) | Remixed Audio² | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Account / TOS utility<br>Media / file utility<br>AOL/AIM chat utility | unknown | 2 | 0 | 2 | 1 |
 | [remote](pages/R/1607-remote.md) | remote | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 7 | 0 | 6 | 0 |
 | [Remote Silence](pages/R/1608-remote-silence.md) | Remote Silence | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 0 | 0 |
 | [repell](pages/R/1609-repell.md) | repell | catalog | unknown | unknown | unknown | unknown | AOL 2.5-6 | unknown | unknown | unknown | unknown | 22 B | 1 | 0 | 0 | 0 |
@@ -1944,7 +1944,7 @@ Generated from archive filenames, local file sizes, readable archive text, exter
 | [Usaf 10](pages/U/1982-usaf-10.md) | usa | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 0 | 0 |
 | [uwtserv](pages/U/1983-uwtserv.md) | uwtserv | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 0 | 0 |
 | [UXMPUNTC](pages/U/1984-uxmpuntc.md) | UXMPUNTC | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 1 | 0 |
-| [ÛñÐë® GrÕüÑÐ](pages/U/1985-une-groun.md) | ÛñÐë® GrÕüÑÐ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 22 B | 23 | 0 | 24 | 0 |
+| [ÛñÐë® GrÕüÑÐ](pages/U/1985-une-groun.md) | ÛñÐë® GrÕüÑÐ | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | Punter / booter | 22 B | 23 | 0 | 24 | 2 |
 | [V 11](pages/V/1986-v-11.md) | V11 | archive filename | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3 | 0 | 0 | 0 |
 | [VAMPIRE](pages/V/1987-vampire.md) | VAMPIRE | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 3 | 0 | 0 | 0 |
 | [vandal](pages/V/1988-vandal.md) | vandal | catalog | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | unknown | 1 | 0 | 0 | 0 |

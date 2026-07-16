@@ -43,7 +43,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 3 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 - Local mirrored archive: [files/aol/aol-4-0/0273-blueice.zip](../../../../../files/aol/aol-4-0/0273-blueice.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue ice fader v1 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ice%20fader%20v1%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ice%20fader%20v1%20yr2000.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ice%20fader%20v1%20yr2000.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ice%20fader%20v1%20yr2000.zip)
@@ -100,7 +101,11 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | blueice.zip | [http://lenshellarchive.com/Progs/aolprogs/blueice.zip](http://lenshellarchive.com/Progs/aolprogs/blueice.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blueice.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blueice.zip) | unknown | http-404 |
+| Web page: punter's | blueice.zip | [http://lenshellarchive.com/Progs/aolpunters/blueice.zip](http://lenshellarchive.com/Progs/aolpunters/blueice.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blueice.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blueice.zip) | unknown | http-404 |
+| Web page: LensHell faders | blueice.zip | [http://lenshellarchive.com/Progs/aolfaders/blueice.zip](http://lenshellarchive.com/Progs/aolfaders/blueice.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/blueice.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/blueice.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

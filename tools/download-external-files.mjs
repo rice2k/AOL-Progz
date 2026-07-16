@@ -1,4 +1,4 @@
-import { mkdirSync, existsSync, createWriteStream, readFileSync, writeFileSync, statSync } from "node:fs";
+import { mkdirSync, existsSync, createWriteStream, readFileSync, writeFileSync, statSync, unlinkSync } from "node:fs";
 import path from "node:path";
 import { createHash } from "node:crypto";
 
@@ -231,6 +231,47 @@ function targetFor(candidate) {
   return `files/external/${host}/${base}-${shortHash}${extension.toLowerCase()}`;
 }
 
+function githubRawUrl(url) {
+  try {
+    const parsed = new URL(originalFromWayback(url));
+    if (!/^github\.com$/i.test(parsed.hostname.replace(/^www\./, ""))) return "";
+    const parts = parsed.pathname.split("/").filter(Boolean);
+    const blobIndex = parts.indexOf("blob");
+    if (parts.length < 5 || blobIndex !== 2) return "";
+    const [owner, repo, , branch, ...fileParts] = parts;
+    if (!owner || !repo || !branch || !fileParts.length) return "";
+    return `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${fileParts.map(encodeURIComponent).join("/")}`;
+  } catch {
+    return "";
+  }
+}
+
+function downloadUrlFor(candidate) {
+  return githubRawUrl(candidate.originalUrl) || githubRawUrl(candidate.waybackUrl) || candidate.waybackUrl;
+}
+
+function isOutOfScope(candidate) {
+  const value = `${candidate.originalUrl || ""} ${candidate.waybackUrl || ""} ${candidate.downloadUrl || ""} ${
+    candidate.sourceList || ""
+  } ${candidate.name || ""}`.toLowerCase();
+  return (
+    /releases\.stackql\.io|github\.com\/mcp\/stackql/.test(value) ||
+    /ottorockit\/media\/01-|\/images\/gradpics\.zip|dutchmarine\/fotos\d*\.zip/.test(value)
+  );
+}
+
+function removeExternalLocalFile(localPath) {
+  if (!localPath) return;
+  const externalRoot = path.join(rootDir, "files", "external");
+  const fullPath = path.resolve(rootDir, localPath);
+  if (!fullPath.startsWith(path.resolve(externalRoot) + path.sep)) return;
+  try {
+    if (existsSync(fullPath)) unlinkSync(fullPath);
+  } catch {
+    // The manifest status is still authoritative if cleanup fails.
+  }
+}
+
 function validateLocalDownload(localPath) {
   const target = path.join(rootDir, localPath);
   if (!existsSync(target)) return { ok: false, status: "missing-local-file", size: 0 };
@@ -255,14 +296,103 @@ function validateLocalDownload(localPath) {
   return { ok: true, status: "ready", size };
 }
 
+function sha1File(localPath) {
+  const target = path.join(rootDir, localPath);
+  if (!existsSync(target)) return "";
+  return createHash("sha1").update(readFileSync(target)).digest("hex");
+}
+
+function mirrorPreference(item) {
+  const value = `${item.originalUrl || ""} ${item.sourceList || ""}`.toLowerCase();
+  if (/damiansuess\/legacy-aol-underground/.test(value)) return 0;
+  if (/mikrodotnet\/aol-progz/.test(value)) return 1;
+  if (/raw\.githubusercontent\.com/.test(value)) return 2;
+  if (/ssstonebraker\/aolunderground-proggies/.test(value)) return 20;
+  return 5;
+}
+
+function isGithubMirror(item) {
+  const value = `${item.originalUrl || ""} ${item.downloadUrl || ""} ${item.waybackUrl || ""}`.toLowerCase();
+  return /github\.com\/.+\/blob\/|raw\.githubusercontent\.com\//.test(value);
+}
+
+function restoreExpectedLocalPaths(downloads) {
+  for (const item of downloads) {
+    if (item.status !== "ready" || !item.localPath || isGithubMirror(item)) continue;
+    let expected = "";
+    try {
+      expected = targetFor(item);
+    } catch {
+      continue;
+    }
+    if (!expected || item.localPath === expected || !existsSync(path.join(rootDir, expected))) continue;
+    const validation = validateLocalDownload(expected);
+    if (!validation.ok) continue;
+    item.localPath = expected;
+    item.size = validation.size;
+    item.sha1 = sha1File(expected);
+    item.dedupeNote = "";
+  }
+}
+
+function dedupeReadyDownloads(downloads) {
+  restoreExpectedLocalPaths(downloads);
+  const groups = new Map();
+  for (const item of downloads) {
+    if (item.status !== "ready" || !item.localPath || !isGithubMirror(item)) continue;
+    const sha1 = sha1File(item.localPath);
+    if (!sha1) continue;
+    item.sha1 = sha1;
+    const group = groups.get(sha1) || [];
+    group.push(item);
+    groups.set(sha1, group);
+  }
+
+  const duplicatePaths = new Set();
+  for (const group of groups.values()) {
+    if (group.length < 2) continue;
+    const canonical = [...group].sort(
+      (a, b) =>
+        mirrorPreference(a) - mirrorPreference(b) ||
+        String(a.localPath || "").localeCompare(String(b.localPath || "")) ||
+        String(a.originalUrl || "").localeCompare(String(b.originalUrl || "")),
+    )[0];
+    for (const item of group) {
+      const oldPath = item.localPath;
+      if (oldPath !== canonical.localPath) duplicatePaths.add(oldPath);
+      item.localPath = canonical.localPath;
+      item.size = canonical.size;
+      item.sha1 = canonical.sha1;
+      item.dedupeNote = oldPath === canonical.localPath ? "" : `Identical payload stored once at ${canonical.localPath}.`;
+    }
+  }
+
+  const referenced = new Set(downloads.filter((item) => item.status === "ready").map((item) => item.localPath).filter(Boolean));
+  const externalRoot = path.join(rootDir, "files", "external");
+  for (const localPath of duplicatePaths) {
+    if (referenced.has(localPath)) continue;
+    const fullPath = path.resolve(rootDir, localPath);
+    if (!fullPath.startsWith(path.resolve(externalRoot) + path.sep)) continue;
+    try {
+      if (existsSync(fullPath)) unlinkSync(fullPath);
+    } catch {
+      // If cleanup fails, the manifest still points all mirrors at the canonical file.
+    }
+  }
+}
+
 async function downloadFile(candidate) {
+  if (isOutOfScope(candidate)) {
+    return { ...candidate, downloadUrl: downloadUrlFor(candidate), localPath: "", status: "out-of-scope", size: 0 };
+  }
   const localPath = targetFor(candidate);
+  const downloadUrl = downloadUrlFor(candidate);
   const target = path.join(rootDir, localPath);
   if (existsSync(target) && statSync(target).size > 0) {
     const validation = validateLocalDownload(localPath);
     return validation.ok
-      ? { ...candidate, localPath, status: "ready", size: validation.size }
-      : { ...candidate, localPath: "", status: validation.status, size: validation.size };
+      ? { ...candidate, downloadUrl, localPath, status: "ready", size: validation.size }
+      : { ...candidate, downloadUrl, localPath: "", status: validation.status, size: validation.size };
   }
 
   mkdirSync(path.dirname(target), { recursive: true });
@@ -271,23 +401,23 @@ async function downloadFile(candidate) {
   const temp = `${target}.tmp`;
   let size = 0;
   try {
-    const response = await fetch(candidate.waybackUrl, {
+    const response = await fetch(downloadUrl, {
       signal: controller.signal,
       headers: { "user-agent": "AOL-Progz-external-downloader/1.0" },
     });
     if (!response.ok) {
-      return { ...candidate, localPath: "", status: `http-${response.status}`, size: 0 };
+      return { ...candidate, downloadUrl, localPath: "", status: `http-${response.status}`, size: 0 };
     }
     const contentLength = Number(response.headers.get("content-length") || 0);
     if (contentLength > maxMb * 1024 * 1024) {
-      return { ...candidate, localPath: "", status: "too-large", size: contentLength };
+      return { ...candidate, downloadUrl, localPath: "", status: "too-large", size: contentLength };
     }
     const out = createWriteStream(temp);
     for await (const chunk of response.body) {
       size += chunk.length;
       if (size > maxMb * 1024 * 1024) {
         out.destroy();
-        return { ...candidate, localPath: "", status: "too-large", size };
+        return { ...candidate, downloadUrl, localPath: "", status: "too-large", size };
       }
       out.write(chunk);
     }
@@ -300,11 +430,11 @@ async function downloadFile(candidate) {
       } catch {
         // The manifest status is enough if cleanup fails.
       }
-      return { ...candidate, localPath: "", status: validation.status, size: validation.size };
+      return { ...candidate, downloadUrl, localPath: "", status: validation.status, size: validation.size };
     }
-    return { ...candidate, localPath, status: "ready", size };
+    return { ...candidate, downloadUrl, localPath, status: "ready", size };
   } catch (error) {
-    return { ...candidate, localPath: "", status: error.name === "AbortError" ? "timeout" : "failed", size };
+    return { ...candidate, downloadUrl, localPath: "", status: error.name === "AbortError" ? "timeout" : "failed", size };
   } finally {
     clearTimeout(timer);
     try {
@@ -325,6 +455,7 @@ function readManifest() {
 }
 
 function writeManifest(downloads, candidates) {
+  dedupeReadyDownloads(downloads);
   const byStatus = {};
   for (const item of downloads) byStatus[item.status] = (byStatus[item.status] || 0) + 1;
   const groups = buildMirrorGroups(downloads, candidates);
@@ -414,7 +545,15 @@ async function main() {
 
   const existing = readManifest().downloads || [];
   for (const item of existing) {
+    if (isOutOfScope(item)) {
+      removeExternalLocalFile(item.localPath);
+      item.status = "out-of-scope";
+      item.localPath = "";
+      item.size = 0;
+      continue;
+    }
     if (item.status !== "ready" || !item.localPath) continue;
+    item.downloadUrl = item.downloadUrl || downloadUrlFor(item);
     const validation = validateLocalDownload(item.localPath);
     if (!validation.ok) {
       item.status = validation.status;

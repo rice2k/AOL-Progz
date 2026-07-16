@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Account / TOS utility, Media / file utility, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -33,9 +33,9 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | Account / TOS utility, Media / file utility, AOL/AIM chat utility |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -43,19 +43,19 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip)
@@ -83,7 +83,11 @@ No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/mixed-2e564198.zip](../../../../../files/external/angelfire-com/mixed-2e564198.zip) | mixed.txt | none | none | Account / TOS utility<br>Media / file utility<br>AOL/AIM chat utility | unknown | unknown |
 
 ### Source Mentions
 
@@ -102,6 +106,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | mixed.zip | [http://www.angelfire.com/electronic2/progz101/mixed.zip](http://www.angelfire.com/electronic2/progz101/mixed.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip) | [files/external/angelfire-com/mixed-2e564198.zip](../../../../../files/external/angelfire-com/mixed-2e564198.zip) | ready |
 | Visual Basic Section | mixed.zip | [http://lenshellarchive.com/VBfiles/mixed.zip](http://lenshellarchive.com/VBfiles/mixed.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip) | unknown | candidate |
 
 ### Web Image Leads

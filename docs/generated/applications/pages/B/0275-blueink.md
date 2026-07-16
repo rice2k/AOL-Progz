@@ -43,7 +43,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 - Local mirrored archive: [files/aol/aol-4-0/0275-blueink.zip](../../../../../files/aol/aol-4-0/0275-blueink.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue ink link idler aol 4-5 yr2000 pw=linktalker.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ink%20link%20idler%20aol%204-5%20yr2000%20pw%3Dlinktalker.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ink%20link%20idler%20aol%204-5%20yr2000%20pw%3Dlinktalker.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ink%20link%20idler%20aol%204-5%20yr2000%20pw%3Dlinktalker.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blue%20ink%20link%20idler%20aol%204-5%20yr2000%20pw%3Dlinktalker.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: idler's | blueink.zip | [http://lenshellarchive.com/Progs/aolidlers/blueink.zip](http://lenshellarchive.com/Progs/aolidlers/blueink.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blueink.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blueink.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

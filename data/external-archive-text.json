@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-16T08:39:00.340Z",
-  "readyDownloadCount": 376,
-  "recordCount": 376,
-  "scannedCount": 256,
-  "withTextFileCount": 154,
-  "withAuthorCount": 50,
-  "withPurposeCount": 112,
-  "withVersionCount": 2,
-  "withUrlCount": 87,
+  "generatedAt": "2026-07-16T10:31:01.286Z",
+  "readyDownloadCount": 463,
+  "recordCount": 463,
+  "scannedCount": 322,
+  "withTextFileCount": 183,
+  "withAuthorCount": 65,
+  "withPurposeCount": 134,
+  "withVersionCount": 6,
+  "withUrlCount": 101,
   "byLocalPath": {
     "files/external/angelfire-com/scriptfish.zip": {
       "name": "scriptfish.zip",
@@ -20,7 +20,7 @@
       "localPath": "files/external/angelfire-com/scriptfish.zip",
       "localSize": 2230760,
       "localSizeLabel": "2.1 MB",
-      "textFileCount": 59,
+      "textFileCount": 47,
       "textFiles": [
         "scRi�tfish/readme.txt",
         "scRi�tfish/versions.txt",
@@ -4415,7 +4415,7 @@
       "localPath": "files/external/angelfire-com/vbulletin-201.zip",
       "localSize": 514866,
       "localSizeLabel": "503 KB",
-      "textFileCount": 59,
+      "textFileCount": 47,
       "textFiles": [
         "upload/announcement.php",
         "upload/attachment.php",
@@ -4602,10 +4602,7 @@
         "http://www.ftc.gov/opa/1999/9910/childfinal.htm",
         "http://www.php.net/manual/function.date.php3\\",
         "http://www.php.net/manual/function.date.php3",
-        "http://www.spellchecker.net/\\",
-        "http://msdn.microsoft.com/workshop/samples/author/dhtml/refs/scrollbarcolor.htm",
-        "http://vbulletin.com/forum/showthread.php?s=&postid=106506#post106506",
-        "http://www.w3.org/TR/REC-html40/loose.dtd\\"
+        "http://www.spellchecker.net/\\"
       ],
       "descriptionCandidates": [
         {
@@ -5665,7 +5662,7 @@
       "localPath": "files/external/angelfire-com/vb.zip",
       "localSize": 899893,
       "localSizeLabel": "879 KB",
-      "textFileCount": 55,
+      "textFileCount": 44,
       "textFiles": [
         "admin/adminfunctions.php",
         "admin/announcement.php",
@@ -5773,31 +5770,6 @@
           "name": "username",
           "sourceFile": "admin/adminlog.php",
           "pattern": "trailing by"
-        },
-        {
-          "name": "attachment,post,thread",
-          "sourceFile": "mod/moderate.php",
-          "pattern": "from attachment,post,thread"
-        },
-        {
-          "name": "announcement",
-          "sourceFile": "announcement.php",
-          "pattern": "from announcement"
-        },
-        {
-          "name": "thread,post",
-          "sourceFile": "attachment.php",
-          "pattern": "from thread,post"
-        },
-        {
-          "name": "calendar_events",
-          "sourceFile": "calendar.php",
-          "pattern": "from calendar_events"
-        },
-        {
-          "name": "calendar_events, user",
-          "sourceFile": "calendar.php",
-          "pattern": "from calendar_events, user"
         }
       ],
       "preferredAuthor": "Jelsoft Enterprises Limited",
@@ -6795,10 +6767,10 @@
       "descriptionCandidates": []
     },
     "files/external/angelfire-com/netbuster131.zip": {
-      "name": "netbuster131.zip",
-      "sourceList": "ProgzRescue Angelfire files",
-      "originalUrl": "http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip",
-      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip",
+      "name": "netbuster1_31.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/skyliner/1025/netbuster1_31.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/skyliner/1025/netbuster1_31.zip",
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
@@ -6832,53 +6804,16 @@
       ]
     },
     "files/external/angelfire-com/netbuster.zip": {
-      "name": "netbuster.zip",
-      "sourceList": "ProgzRescue Angelfire files",
-      "originalUrl": "http://www.angelfire.com/nm/weezer/images/netbuster.zip",
-      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nm/weezer/images/netbuster.zip",
+      "name": "netbuster131.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/seque/869/netbuster131.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/seque/869/netbuster131.zip",
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
       "localPath": "files/external/angelfire-com/netbuster.zip",
       "localSize": 546159,
       "localSizeLabel": "533 KB",
-      "textFileCount": 1,
-      "textFiles": [
-        "readme.txt"
-      ],
-      "authorCandidates": [],
-      "preferredAuthor": "",
-      "purposeSignals": [
-        "Punter / booter",
-        "Mass mailer / server",
-        "Media / file utility"
-      ],
-      "versionMentions": [],
-      "urls": [
-        "http://surf.to/netbuster"
-      ],
-      "descriptionCandidates": [
-        {
-          "sourceFile": "readme.txt",
-          "text": "improved in this version. It should now remove all NetBus servers."
-        },
-        {
-          "sourceFile": "readme.txt",
-          "text": "The latest version of netbuster can be found at http://surf.to/netbuster"
-        }
-      ]
-    },
-    "files/external/fortunecity-com/netbuster1-31.zip": {
-      "name": "netbuster1_31.zip",
-      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-      "originalUrl": "http://www.fortunecity.com/skyscraper/skyliner/1025/netbuster1_31.zip",
-      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/skyliner/1025/netbuster1_31.zip",
-      "discoveredText": "",
-      "status": "ready",
-      "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
-      "localSize": 546591,
-      "localSizeLabel": "534 KB",
       "textFileCount": 1,
       "textFiles": [
         "readme.txt"
@@ -7083,117 +7018,6 @@
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
-    },
-    "files/external/fortunecity-com/netbuster1-30.zip": {
-      "name": "netbuster1_30.zip",
-      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-      "originalUrl": "http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip",
-      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip",
-      "discoveredText": "",
-      "status": "ready",
-      "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-30.zip",
-      "localSize": 546159,
-      "localSizeLabel": "533 KB",
-      "textFileCount": 1,
-      "textFiles": [
-        "readme.txt"
-      ],
-      "authorCandidates": [],
-      "preferredAuthor": "",
-      "purposeSignals": [
-        "Punter / booter",
-        "Mass mailer / server",
-        "Media / file utility"
-      ],
-      "versionMentions": [],
-      "urls": [
-        "http://surf.to/netbuster"
-      ],
-      "descriptionCandidates": [
-        {
-          "sourceFile": "readme.txt",
-          "text": "improved in this version. It should now remove all NetBus servers."
-        },
-        {
-          "sourceFile": "readme.txt",
-          "text": "The latest version of netbuster can be found at http://surf.to/netbuster"
-        }
-      ]
-    },
-    "files/external/fortunecity-com/netbuster1-3.zip": {
-      "name": "netbuster1.3.zip",
-      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-      "originalUrl": "http://www.fortunecity.com/skyscraper/pascoe/1183/netbuster1.3.zip",
-      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/pascoe/1183/netbuster1.3.zip",
-      "discoveredText": "",
-      "status": "ready",
-      "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-3.zip",
-      "localSize": 546591,
-      "localSizeLabel": "534 KB",
-      "textFileCount": 1,
-      "textFiles": [
-        "readme.txt"
-      ],
-      "authorCandidates": [],
-      "preferredAuthor": "",
-      "purposeSignals": [
-        "Punter / booter",
-        "Mass mailer / server",
-        "Media / file utility"
-      ],
-      "versionMentions": [],
-      "urls": [
-        "http://surf.to/netbuster"
-      ],
-      "descriptionCandidates": [
-        {
-          "sourceFile": "readme.txt",
-          "text": "improved in this version. It should now remove all NetBus servers."
-        },
-        {
-          "sourceFile": "readme.txt",
-          "text": "The latest version of netbuster can be found at http://surf.to/netbuster"
-        }
-      ]
-    },
-    "files/external/fortunecity-com/netbuster131.zip": {
-      "name": "netbuster131.zip",
-      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-      "originalUrl": "http://www.fortunecity.com/skyscraper/seque/869/netbuster131.zip",
-      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/seque/869/netbuster131.zip",
-      "discoveredText": "",
-      "status": "ready",
-      "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster131.zip",
-      "localSize": 546159,
-      "localSizeLabel": "533 KB",
-      "textFileCount": 1,
-      "textFiles": [
-        "readme.txt"
-      ],
-      "authorCandidates": [],
-      "preferredAuthor": "",
-      "purposeSignals": [
-        "Punter / booter",
-        "Mass mailer / server",
-        "Media / file utility"
-      ],
-      "versionMentions": [],
-      "urls": [
-        "http://surf.to/netbuster"
-      ],
-      "descriptionCandidates": [
-        {
-          "sourceFile": "readme.txt",
-          "text": "improved in this version. It should now remove all NetBus servers."
-        },
-        {
-          "sourceFile": "readme.txt",
-          "text": "The latest version of netbuster can be found at http://surf.to/netbuster"
-        }
-      ]
     },
     "files/external/lenshellarchive-com/ccompublic.zip": {
       "name": "ccompublic.zip",
@@ -8661,6 +8485,17 @@
       "reason": "unsupported-archive-type",
       "localPath": "files/external/coltpro-net/vb40032-213ca90f.dll"
     },
+    "files/external/github-com/7z2107-a4219f40.exe": {
+      "name": "7z2107.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/7z2107.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/7z2107.exe",
+      "discoveredText": "7z2107.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/7z2107-a4219f40.exe"
+    },
     "files/external/lenshellarchive-com/akiracoms-e38f9681.zip": {
       "name": "akiracoms.zip",
       "sourceList": "Web page: c-coms",
@@ -8938,6 +8773,17 @@
       "urls": [],
       "descriptionCandidates": []
     },
+    "files/external/github-com/aol4free2-6v4-b594ed05.sit": {
+      "name": "AOL4FREE2.6v4.sit",
+      "sourceList": "Web page: AOL4Free v4",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "discoveredText": "AOL4FREE2.6v4.sit",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/aol4free2-6v4-b594ed05.sit"
+    },
     "files/external/lenshellarchive-com/aonet-a9eb94ef.zip": {
       "name": "aonet.zip",
       "sourceList": "Web page: c-coms",
@@ -9018,7 +8864,7 @@
       "localPath": "files/external/lenshellarchive-com/audioassault-c4199924.zip",
       "localSize": 5561439,
       "localSizeLabel": "5.3 MB",
-      "textFileCount": 59,
+      "textFileCount": 47,
       "textFiles": [
         "audio-assault/!read me!.txt",
         "audio-assault/aa skin/aa skin.ini",
@@ -9139,6 +8985,17 @@
       "urls": [],
       "descriptionCandidates": []
     },
+    "files/external/github-com/autoruns-6e82b7e5.exe": {
+      "name": "autoruns.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+      "discoveredText": "autoruns.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/autoruns-6e82b7e5.exe"
+    },
     "files/external/lenshellarchive-com/barronscom-a6bdd713.zip": {
       "name": "barronscom.zip",
       "sourceList": "Web page: c-coms",
@@ -9178,6 +9035,1651 @@
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
+    },
+    "files/external/github-com/charmap-d85ed7f1.exe": {
+      "name": "CHARMAP.EXE",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "discoveredText": "CHARMAP.EXE",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/charmap-d85ed7f1.exe"
+    },
+    "files/external/github-com/npp-7-9-2-installer-ab546b92.exe": {
+      "name": "npp.7.9.2.Installer.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "discoveredText": "npp.7.9.2.Installer.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/npp-7-9-2-installer-ab546b92.exe"
+    },
+    "files/external/github-com/processexplorernt-0f29eb58.zip": {
+      "name": "ProcessExplorerNt.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "discoveredText": "ProcessExplorerNt.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/processexplorernt-0f29eb58.zip",
+      "localSize": 1484576,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Eula.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "applicable law",
+          "sourceFile": "Eula.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "applicable law",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [
+        "http://www.microsoft.com/exporting"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/github-com/tweakuipowertoysetup-19e74ae6.exe": {
+      "name": "TweakUiPowertoySetup.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "discoveredText": "TweakUiPowertoySetup.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/tweakuipowertoysetup-19e74ae6.exe"
+    },
+    "files/external/github-com/wincdemu-4-1-25f37518.exe": {
+      "name": "WinCDEmu-4.1.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "discoveredText": "WinCDEmu-4.1.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/wincdemu-4-1-25f37518.exe"
+    },
+    "files/external/github-com/winhex-a9100615.zip": {
+      "name": "winhex.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+      "discoveredText": "winhex.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/winhex-a9100615.zip",
+      "localSize": 644618,
+      "localSizeLabel": "630 KB",
+      "textFileCount": 8,
+      "textFiles": [
+        "FILE_ID.DIZ",
+        "Boot Sector NTFS.txt",
+        "FAT Directory Entry.txt",
+        "FAT LFN Entry.txt",
+        "Master Boot Record.txt",
+        "Boot Sector FAT.txt",
+        "POS File Format.txt",
+        "Boot Sector FAT32.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Stefan Fleischmann",
+          "sourceFile": "FILE_ID.DIZ",
+          "pattern": "author"
+        },
+        {
+          "name": "this template",
+          "sourceFile": "POS File Format.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "Stefan Fleischmann",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.winhex.com",
+        "http://support.microsoft.com/support/kb/articles/Q153/9/73.asp"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Boot Sector NTFS.txt",
+          "text": "description \"Boot sector of an NTFS partition\""
+        },
+        {
+          "sourceFile": "FAT Directory Entry.txt",
+          "text": "description \"Normal/short entry format\""
+        },
+        {
+          "sourceFile": "FAT LFN Entry.txt",
+          "text": "description \"Long entry format\""
+        },
+        {
+          "sourceFile": "Master Boot Record.txt",
+          "text": "description \"Contains partition table\""
+        },
+        {
+          "sourceFile": "Boot Sector FAT.txt",
+          "text": "description \"BIOS parameter block (BPB) and more\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "// More detailed description of the POS file format"
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "description \"Structure of a WinHex position file (.pos)\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "read-only byte \"Description length\""
+        }
+      ]
+    },
+    "files/external/angelfire-com/googletoolbar-779499c7.zip": {
+      "name": "googletoolbar.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/ct3/sir_mac/programs/googletoolbar.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ct3/sir_mac/programs/googletoolbar.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/googletoolbar-779499c7.zip",
+      "localSize": 332085,
+      "localSizeLabel": "324 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/fortunecity-com/freeprogzfader-6ae8695b.zip": {
+      "name": "freeprogzfader.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/fortunecity-com/freeprogzfader-6ae8695b.zip",
+      "localSize": 132165,
+      "localSizeLabel": "129 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/fortunecity-com/googleplex-31481c8a.zip": {
+      "name": "googleplex.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/188/Steel/googleplex.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/Steel/googleplex.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/fortunecity-com/googleplex-31481c8a.zip",
+      "localSize": 10389,
+      "localSizeLabel": "10 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/text-cricket-5c7ec3a4.zip": {
+      "name": "text_cricket.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/text_cricket.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/text_cricket.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/text-cricket-5c7ec3a4.zip",
+      "localSize": 94647,
+      "localSizeLabel": "92 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Text Cricket Readme.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "BEN LEED",
+          "sourceFile": "Text Cricket Readme.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "BEN LEED",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Text Cricket Readme.txt",
+          "text": "Be sure to have played atleast one game for this feature to work!"
+        },
+        {
+          "sourceFile": "Text Cricket Readme.txt",
+          "text": "This feature allows you to select what bowler bowls each over"
+        }
+      ]
+    },
+    "files/external/angelfire-com/trivquiz-72f09a48.zip": {
+      "name": "trivquiz.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/trivquiz.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/trivquiz.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/trivquiz-72f09a48.zip",
+      "localSize": 30587,
+      "localSizeLabel": "30 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "TrivQuiz Readme.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "4 and so on",
+          "sourceFile": "TrivQuiz Readme.txt",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "BEN LEED",
+          "sourceFile": "TrivQuiz Readme.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "BEN LEED",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/unriged-beta-64af0f5f.zip": {
+      "name": "unriged_beta.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/unriged_beta.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/unriged_beta.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/unriged-beta-64af0f5f.zip",
+      "localSize": 8702,
+      "localSizeLabel": "8.5 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Unriged Beta Readme.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "BEN LEED",
+          "sourceFile": "Unriged Beta Readme.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "BEN LEED",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Unriged Beta Readme.txt",
+          "text": "*This is only a beta version*"
+        }
+      ]
+    },
+    "files/external/angelfire-com/othello-5499173a.zip": {
+      "name": "othello.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/realm/mattsblurb/othello/othello.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/realm/mattsblurb/othello/othello.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/othello-5499173a.zip",
+      "localSize": 25401,
+      "localSizeLabel": "25 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/bootlegs-510d2a17.zip": {
+      "name": "bootlegs.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/rock/llsp/alanis/letras/bootlegs.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rock/llsp/alanis/letras/bootlegs.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/bootlegs-510d2a17.zip",
+      "localSize": 8107,
+      "localSizeLabel": "7.9 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/roomgen-f78efcd0.zip": {
+      "name": "roomgen.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/rpg2/kso/dnd/dmfiles/roomgen.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rpg2/kso/dnd/dmfiles/roomgen.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/roomgen-f78efcd0.zip",
+      "localSize": 23170,
+      "localSizeLabel": "23 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "rulecycl.txt",
+        "adandd.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/snc-tallocx-42ca234a.zip": {
+      "name": "snc_tallocx.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/ab/phenzrunaway/snc_tallocx.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ab/phenzrunaway/snc_tallocx.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/snc-tallocx-42ca234a.zip",
+      "localSize": 432009,
+      "localSizeLabel": "422 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/snc-wideocx-dedc6a2a.zip": {
+      "name": "snc_wideocx.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/ab/phenzrunaway/snc_wideocx.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ab/phenzrunaway/snc_wideocx.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/snc-wideocx-dedc6a2a.zip",
+      "localSize": 432024,
+      "localSizeLabel": "422 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/vb-6eb165ee.zip": {
+      "name": "vb.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/biz7/free_things/vb.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/vb-6eb165ee.zip",
+      "localSize": 259470,
+      "localSizeLabel": "253 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/atetris-c6782d33.zip": {
+      "name": "atetris.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/darkside2/hippiesfromhell/downloads/atetris.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/darkside2/hippiesfromhell/downloads/atetris.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/atetris-c6782d33.zip",
+      "localSize": 1206779,
+      "localSizeLabel": "1.2 MB",
+      "textFileCount": 2,
+      "textFiles": [
+        "FILE_ID.DIZ",
+        "ATET.TXT"
+      ],
+      "authorCandidates": [
+        {
+          "name": "popular",
+          "sourceFile": "FILE_ID.DIZ",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "popular",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.dddgames.com"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "FILE_ID.DIZ",
+          "text": "THIS PROGRAM IS ABSOLUTELY FREE!"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "NOTICE: THIS PROGRAM IS DISTRIBUTED AS IS. DISTRIBUTION IS ONLY ALLOWED BY"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "THE ORIGINAL SELF-EXTRACTING ZIP FILE. THIS PROGRAM IS ABSOLUTELY FREE. NO"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "YOU, YOUR COMPUTER, OR ANYTHING BY THIS PROGRAM."
+        }
+      ]
+    },
+    "files/external/angelfire-com/900-baa59a0c.zip": {
+      "name": "900.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/900.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/900.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/900-baa59a0c.zip",
+      "localSize": 2313,
+      "localSizeLabel": "2.3 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "900.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/a2-a53fc4d5.zip": {
+      "name": "a2.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/a2.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/a2.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/a2-a53fc4d5.zip",
+      "localSize": 41545,
+      "localSizeLabel": "41 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/acronyms-49cfd8f6.zip": {
+      "name": "acronyms.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/acronyms.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/acronyms.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/acronyms-49cfd8f6.zip",
+      "localSize": 9705,
+      "localSizeLabel": "9.5 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/adult-b49c4372.zip": {
+      "name": "adult.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/adult.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/adult.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/adult-b49c4372.zip",
+      "localSize": 596,
+      "localSizeLabel": "596 B",
+      "textFileCount": 1,
+      "textFiles": [
+        "adult.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/allpass-af18cbe0.zip": {
+      "name": "allpass.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/allpass.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/allpass.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/allpass-af18cbe0.zip",
+      "localSize": 116383,
+      "localSizeLabel": "114 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "allpass.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "Linker / chat linker",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/c-o-m-m-o-n-1c08a0f3.zip": {
+      "name": "c_o_m_m_o_n.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/c_o_m_m_o_n.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/c_o_m_m_o_n.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/c-o-m-m-o-n-1c08a0f3.zip",
+      "localSize": 8741,
+      "localSizeLabel": "8.5 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "C-o-M-M-o-N.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/darkscanner-7d48a437.zip": {
+      "name": "darkscanner.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/darkscanner.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/darkscanner.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/darkscanner-7d48a437.zip",
+      "localSize": 11860,
+      "localSizeLabel": "12 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/dazed-901646c9.zip": {
+      "name": "dazed.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/dazed.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/dazed.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/dazed-901646c9.zip",
+      "localSize": 25295,
+      "localSizeLabel": "25 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/default-passwords-688998ff.zip": {
+      "name": "default_passwords.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/default_passwords.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/default_passwords.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/default-passwords-688998ff.zip",
+      "localSize": 6310,
+      "localSizeLabel": "6.2 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Default Passwords.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/hacker-ed0d3167.zip": {
+      "name": "hacker.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/hacker.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/hacker.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/hacker-ed0d3167.zip",
+      "localSize": 20013,
+      "localSizeLabel": "20 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/metallicapass-19034e53.zip": {
+      "name": "metallicapass.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/metallicapass.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/metallicapass.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/metallicapass-19034e53.zip",
+      "localSize": 1249,
+      "localSizeLabel": "1.2 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Metallica pass.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/mixed-2e564198.zip": {
+      "name": "mixed.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/mixed.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/mixed-2e564198.zip",
+      "localSize": 2367,
+      "localSizeLabel": "2.3 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "mixed.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/mod-781c1d58.zip": {
+      "name": "mod.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/mod.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mod.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/mod-781c1d58.zip",
+      "localSize": 136480,
+      "localSizeLabel": "133 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/nicscanner-054c3755.zip": {
+      "name": "nicscanner.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/nicscanner.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/nicscanner.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/nicscanner-054c3755.zip",
+      "localSize": 21866,
+      "localSizeLabel": "21 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/phrases-7cb6823a.zip": {
+      "name": "phrases.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/phrases.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/phrases.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/phrases-7cb6823a.zip",
+      "localSize": 4250,
+      "localSizeLabel": "4.2 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Phrases.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "Mass mailer / server",
+        "Account / TOS utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/propernouns-0c83dd72.zip": {
+      "name": "propernouns.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/propernouns.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/propernouns.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/propernouns-0c83dd72.zip",
+      "localSize": 4660,
+      "localSizeLabel": "4.6 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "ProperNouns.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/random-5e2e7710.zip": {
+      "name": "random.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/random.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/random.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/random-5e2e7710.zip",
+      "localSize": 4567,
+      "localSizeLabel": "4.5 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "random.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/smokin37-b040802e.zip": {
+      "name": "smokin37.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/smokin37.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/smokin37.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/smokin37-b040802e.zip",
+      "localSize": 50202,
+      "localSizeLabel": "49 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/smoothcracken1-6f04cfec.zip": {
+      "name": "smoothcracken1.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/smoothcracken1.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/smoothcracken1.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/smoothcracken1-6f04cfec.zip",
+      "localSize": 34317,
+      "localSizeLabel": "34 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/hotmail-32de8c7e.zip": {
+      "name": "hotmail.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/mech/baka/hotmail.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mech/baka/hotmail.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/hotmail-32de8c7e.zip",
+      "localSize": 1118,
+      "localSizeLabel": "1.1 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/professoraim3-7c6f9c5a.zip": {
+      "name": "professoraim3.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/oh4/soulofkorn/professoraim3.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh4/soulofkorn/professoraim3.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/professoraim3-7c6f9c5a.zip",
+      "localSize": 725895,
+      "localSizeLabel": "709 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/cerberus-9cd12720.zip": {
+      "name": "cerberus.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/oh5/darkside/proggies/cerberus.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh5/darkside/proggies/cerberus.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/cerberus-9cd12720.zip",
+      "localSize": 1401103,
+      "localSizeLabel": "1.3 MB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/patchworx2-bf983f0b.zip": {
+      "name": "patchworx2.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/oh5/darkside/proggies/patchworx2.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh5/darkside/proggies/patchworx2.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/patchworx2-bf983f0b.zip",
+      "localSize": 405864,
+      "localSizeLabel": "396 KB",
+      "textFileCount": 3,
+      "textFiles": [
+        "Patchworx2/readme.txt",
+        "Patchworx2/distribute.txt",
+        "README FIRST.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Archon of The Black Hand",
+          "sourceFile": "Patchworx2/readme.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "Archon of The Black Hand",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.theblackhand.net"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Automatic Update Notification - program will tell you when a new version is available."
+        },
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Version Independance (patches work on all builds)"
+        },
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Version/Build checking for Offset-based Patches"
+        }
+      ]
+    },
+    "files/external/angelfire-com/regserv-1c2c60bb.zip": {
+      "name": "regserv.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/scifi/virtest/docsmail/regserv.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/virtest/docsmail/regserv.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/regserv-1c2c60bb.zip",
+      "localSize": 228285,
+      "localSizeLabel": "223 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/angelfire-com/setupnu-3e414348.zip": {
+      "name": "setupnu.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/scifi/virtest/docsmail/setupnu.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/virtest/docsmail/setupnu.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/setupnu-3e414348.zip",
+      "localSize": 749436,
+      "localSizeLabel": "732 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/bf-41020f83.zip": {
+      "name": "bf.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bf.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf.zip",
+      "discoveredText": "black flag",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bf-41020f83.zip",
+      "localSize": 629985,
+      "localSizeLabel": "615 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "info.txt",
+        "repel.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "C-Com / command list",
+        "Media / file utility",
+        "Scroller / macro"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://bloodychef.cjb.net"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/bf2-0a4bc57f.zip": {
+      "name": "bf2.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bf2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf2.zip",
+      "discoveredText": "black flag 2",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bf2-0a4bc57f.zip",
+      "localSize": 1246991,
+      "localSizeLabel": "1.2 MB",
+      "textFileCount": 3,
+      "textFiles": [
+        "repel.ini",
+        "presets/bf2.ini",
+        "sfades/rbr.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://bloodychef.cjb.net"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blackportal-eba14c16.zip": {
+      "name": "blackportal.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackportal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackportal.zip",
+      "discoveredText": "black portal coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackportal-eba14c16.zip",
+      "localSize": 634605,
+      "localSizeLabel": "620 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blackoutcomz-90ddb9b7.zip": {
+      "name": "blackoutcomz.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackoutcomz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackoutcomz.zip",
+      "discoveredText": "blackout comz¹",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackoutcomz-90ddb9b7.zip",
+      "localSize": 39374,
+      "localSizeLabel": "38 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blackout1beta-a116dcd9.zip": {
+      "name": "blackout1beta.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackout1beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackout1beta.zip",
+      "discoveredText": "blackout comz¹ beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackout1beta-a116dcd9.zip",
+      "localSize": 39125,
+      "localSizeLabel": "38 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blackout2-b88b4b69.zip": {
+      "name": "blackout2.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackout2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackout2.zip",
+      "discoveredText": "blackout comz²",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackout2-b88b4b69.zip",
+      "localSize": 51905,
+      "localSizeLabel": "51 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blindcoms-5a55a0bc.zip": {
+      "name": "blindcoms.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blindcoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blindcoms.zip",
+      "discoveredText": "blind coms beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blindcoms-5a55a0bc.zip",
+      "localSize": 95181,
+      "localSizeLabel": "93 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blizah-824d272f.zip": {
+      "name": "blizah.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blizah.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizah.zip",
+      "discoveredText": "blizah coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blizah-824d272f.zip",
+      "localSize": 128715,
+      "localSizeLabel": "126 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blizahcoms-2ec4f9e8.zip": {
+      "name": "blizahcoms.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip",
+      "discoveredText": "blizah coms beta 1.1",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blizahcoms-2ec4f9e8.zip",
+      "localSize": 57164,
+      "localSizeLabel": "56 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/blunted-9e007e76.zip": {
+      "name": "blunted.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blunted.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blunted.zip",
+      "discoveredText": "blunted-coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blunted-9e007e76.zip",
+      "localSize": 765204,
+      "localSizeLabel": "747 KB",
+      "textFileCount": 16,
+      "textFiles": [
+        "arrows.ini",
+        "arrows2.ini",
+        "Blunted.ini",
+        "default.ini",
+        "default2.ini",
+        "default3.ini",
+        "ghost.ini",
+        "ghost1.ini",
+        "ghost3.ini",
+        "hail.ini",
+        "lutes mom.ini",
+        "sook.ini",
+        "static.ini",
+        "static2.ini",
+        "taffy.ini",
+        "ultima.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/boisccom-65de3544.zip": {
+      "name": "boisccom.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
+      "discoveredText": "boi's ccom",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/boisccom-65de3544.zip",
+      "localSize": 45917,
+      "localSizeLabel": "45 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/booked-7c543a0b.zip": {
+      "name": "booked.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/booked.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/booked.zip",
+      "discoveredText": "booked",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/booked-7c543a0b.zip",
+      "localSize": 31848,
+      "localSizeLabel": "31 KB",
+      "textFileCount": 4,
+      "textFiles": [
+        "info.ini",
+        "Project1.vbp",
+        "Form1.frm",
+        "Module1.bas"
+      ],
+      "authorCandidates": [
+        {
+          "name": "myke",
+          "sourceFile": "Module1.bas",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "myke",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Source / developer file",
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Media / file utility",
+        "AOL/AIM chat utility",
+        "Account / TOS utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0",
+        "AOL 8.0"
+      ],
+      "urls": [
+        "http://stickmandesigns.net"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/bootbot-9641895e.zip": {
+      "name": "bootbot.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bootbot.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bootbot.zip",
+      "discoveredText": "bootbot alpha release 1",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bootbot-9641895e.zip",
+      "localSize": 1495936,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/brain-cbe54849.zip": {
+      "name": "brain.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/brain.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/brain.zip",
+      "discoveredText": "brain damage 2.0 c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/brain-cbe54849.zip",
+      "localSize": 226678,
+      "localSizeLabel": "221 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/bd22-029aaaae.zip": {
+      "name": "bd22.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bd22.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip",
+      "discoveredText": "brain damage ².²",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bd22-029aaaae.zip",
+      "localSize": 188531,
+      "localSizeLabel": "184 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/cchat-f93bd137.zip": {
+      "name": "cchat.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cchat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchat.zip",
+      "discoveredText": "c-chat",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/cchat-f93bd137.zip",
+      "localSize": 290410,
+      "localSizeLabel": "284 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/cchatembeta3-d602c76c.zip": {
+      "name": "cchatembeta3.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cchatembeta3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchatembeta3.zip",
+      "discoveredText": "c-chat em [beta3]",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/cchatembeta3-d602c76c.zip",
+      "localSize": 131634,
+      "localSizeLabel": "129 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/ccom1-e5793eb2.zip": {
+      "name": "ccom1.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccom1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccom1.zip",
+      "discoveredText": "c-com &sup1;&middot;&ordm;",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/ccom1-e5793eb2.zip",
+      "localSize": 131589,
+      "localSizeLabel": "129 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/c0m7beta-d08bc572.zip": {
+      "name": "c0m7beta.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7beta.zip",
+      "discoveredText": "c0m7 beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c0m7beta-d08bc572.zip",
+      "localSize": 1312296,
+      "localSizeLabel": "1.3 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "DeV",
+          "sourceFile": "Read me.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "DeV",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0"
+      ],
+      "urls": [
+        "http://www.lenshell.com"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/c0m7beta2-a0cb1a6e.zip": {
+      "name": "c0m7beta2.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7beta2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7beta2.zip",
+      "discoveredText": "c0m7 beta²",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c0m7beta2-a0cb1a6e.zip",
+      "localSize": 1445773,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "DeV",
+          "sourceFile": "Read me.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "DeV",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0"
+      ],
+      "urls": [
+        "http://www.lenshell.com"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/c0m7final-a9800380.zip": {
+      "name": "c0m7final.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7final.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7final.zip",
+      "discoveredText": "c0m7 final (public)",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c0m7final-a9800380.zip",
+      "localSize": 1969113,
+      "localSizeLabel": "1.9 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "DeV",
+          "sourceFile": "Read me.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "DeV",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0"
+      ],
+      "urls": [
+        "http://www.lenshell.com"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/c12-ca954b1b.zip": {
+      "name": "c12.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c12.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c12.zip",
+      "discoveredText": "c12",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c12-ca954b1b.zip",
+      "localSize": 1450242,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
     }
   },
   "records": [
@@ -9192,7 +10694,7 @@
       "localPath": "files/external/angelfire-com/scriptfish.zip",
       "localSize": 2230760,
       "localSizeLabel": "2.1 MB",
-      "textFileCount": 59,
+      "textFileCount": 47,
       "textFiles": [
         "scRi�tfish/readme.txt",
         "scRi�tfish/versions.txt",
@@ -13587,7 +15089,7 @@
       "localPath": "files/external/angelfire-com/vbulletin-201.zip",
       "localSize": 514866,
       "localSizeLabel": "503 KB",
-      "textFileCount": 59,
+      "textFileCount": 47,
       "textFiles": [
         "upload/announcement.php",
         "upload/attachment.php",
@@ -13774,10 +15276,7 @@
         "http://www.ftc.gov/opa/1999/9910/childfinal.htm",
         "http://www.php.net/manual/function.date.php3\\",
         "http://www.php.net/manual/function.date.php3",
-        "http://www.spellchecker.net/\\",
-        "http://msdn.microsoft.com/workshop/samples/author/dhtml/refs/scrollbarcolor.htm",
-        "http://vbulletin.com/forum/showthread.php?s=&postid=106506#post106506",
-        "http://www.w3.org/TR/REC-html40/loose.dtd\\"
+        "http://www.spellchecker.net/\\"
       ],
       "descriptionCandidates": [
         {
@@ -14837,7 +16336,7 @@
       "localPath": "files/external/angelfire-com/vb.zip",
       "localSize": 899893,
       "localSizeLabel": "879 KB",
-      "textFileCount": 55,
+      "textFileCount": 44,
       "textFiles": [
         "admin/adminfunctions.php",
         "admin/announcement.php",
@@ -14945,31 +16444,6 @@
           "name": "username",
           "sourceFile": "admin/adminlog.php",
           "pattern": "trailing by"
-        },
-        {
-          "name": "attachment,post,thread",
-          "sourceFile": "mod/moderate.php",
-          "pattern": "from attachment,post,thread"
-        },
-        {
-          "name": "announcement",
-          "sourceFile": "announcement.php",
-          "pattern": "from announcement"
-        },
-        {
-          "name": "thread,post",
-          "sourceFile": "attachment.php",
-          "pattern": "from thread,post"
-        },
-        {
-          "name": "calendar_events",
-          "sourceFile": "calendar.php",
-          "pattern": "from calendar_events"
-        },
-        {
-          "name": "calendar_events, user",
-          "sourceFile": "calendar.php",
-          "pattern": "from calendar_events, user"
         }
       ],
       "preferredAuthor": "Jelsoft Enterprises Limited",
@@ -16085,7 +17559,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16331,7 +17805,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16368,7 +17842,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16427,7 +17901,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16560,7 +18034,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16597,7 +18071,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16634,7 +18108,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16745,7 +18219,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-30.zip",
+      "localPath": "files/external/angelfire-com/netbuster.zip",
       "localSize": 546159,
       "localSizeLabel": "533 KB",
       "textFileCount": 1,
@@ -16782,7 +18256,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-3.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16819,7 +18293,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -16930,7 +18404,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-3.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -17011,7 +18485,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster131.zip",
+      "localPath": "files/external/angelfire-com/netbuster.zip",
       "localSize": 546159,
       "localSizeLabel": "533 KB",
       "textFileCount": 1,
@@ -17048,7 +18522,7 @@
       "discoveredText": "",
       "status": "ready",
       "scanned": true,
-      "localPath": "files/external/fortunecity-com/netbuster1-31.zip",
+      "localPath": "files/external/angelfire-com/netbuster131.zip",
       "localSize": 546591,
       "localSizeLabel": "534 KB",
       "textFileCount": 1,
@@ -18618,6 +20092,17 @@
       "localPath": "files/external/coltpro-net/vb40032-213ca90f.dll"
     },
     {
+      "name": "7z2107.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
+      "discoveredText": "7z2107.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/7z2107-a4219f40.exe"
+    },
+    {
       "name": "akiracoms.zip",
       "sourceList": "Web page: c-coms",
       "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/akiracoms.zip",
@@ -18895,6 +20380,17 @@
       "descriptionCandidates": []
     },
     {
+      "name": "AOL4FREE2.6v4.sit",
+      "sourceList": "Web page: AOL4Free v4",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "discoveredText": "AOL4FREE2.6v4.sit",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/aol4free2-6v4-b594ed05.sit"
+    },
+    {
       "name": "aonet.zip",
       "sourceList": "Web page: c-coms",
       "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aonet.zip",
@@ -18974,7 +20470,7 @@
       "localPath": "files/external/lenshellarchive-com/audioassault-c4199924.zip",
       "localSize": 5561439,
       "localSizeLabel": "5.3 MB",
-      "textFileCount": 59,
+      "textFileCount": 47,
       "textFiles": [
         "audio-assault/!read me!.txt",
         "audio-assault/aa skin/aa skin.ini",
@@ -19096,6 +20592,17 @@
       "descriptionCandidates": []
     },
     {
+      "name": "autoruns.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+      "discoveredText": "autoruns.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/autoruns-6e82b7e5.exe"
+    },
+    {
       "name": "barronscom.zip",
       "sourceList": "Web page: c-coms",
       "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/barronscom.zip",
@@ -19126,6 +20633,2021 @@
       "localPath": "files/external/lenshellarchive-com/basikmp3-ce64f6f9.zip",
       "localSize": 107964,
       "localSizeLabel": "105 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "CHARMAP.EXE",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "discoveredText": "CHARMAP.EXE",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/charmap-d85ed7f1.exe"
+    },
+    {
+      "name": "npp.7.9.2.Installer.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "discoveredText": "npp.7.9.2.Installer.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/npp-7-9-2-installer-ab546b92.exe"
+    },
+    {
+      "name": "ProcessExplorerNt.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "discoveredText": "ProcessExplorerNt.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/processexplorernt-0f29eb58.zip",
+      "localSize": 1484576,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Eula.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "applicable law",
+          "sourceFile": "Eula.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "applicable law",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [
+        "http://www.microsoft.com/exporting"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "TweakUiPowertoySetup.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "discoveredText": "TweakUiPowertoySetup.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/tweakuipowertoysetup-19e74ae6.exe"
+    },
+    {
+      "name": "WinCDEmu-4.1.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "discoveredText": "WinCDEmu-4.1.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/wincdemu-4-1-25f37518.exe"
+    },
+    {
+      "name": "winhex.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+      "discoveredText": "winhex.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/winhex-a9100615.zip",
+      "localSize": 644618,
+      "localSizeLabel": "630 KB",
+      "textFileCount": 8,
+      "textFiles": [
+        "FILE_ID.DIZ",
+        "Boot Sector NTFS.txt",
+        "FAT Directory Entry.txt",
+        "FAT LFN Entry.txt",
+        "Master Boot Record.txt",
+        "Boot Sector FAT.txt",
+        "POS File Format.txt",
+        "Boot Sector FAT32.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Stefan Fleischmann",
+          "sourceFile": "FILE_ID.DIZ",
+          "pattern": "author"
+        },
+        {
+          "name": "this template",
+          "sourceFile": "POS File Format.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "Stefan Fleischmann",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.winhex.com",
+        "http://support.microsoft.com/support/kb/articles/Q153/9/73.asp"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Boot Sector NTFS.txt",
+          "text": "description \"Boot sector of an NTFS partition\""
+        },
+        {
+          "sourceFile": "FAT Directory Entry.txt",
+          "text": "description \"Normal/short entry format\""
+        },
+        {
+          "sourceFile": "FAT LFN Entry.txt",
+          "text": "description \"Long entry format\""
+        },
+        {
+          "sourceFile": "Master Boot Record.txt",
+          "text": "description \"Contains partition table\""
+        },
+        {
+          "sourceFile": "Boot Sector FAT.txt",
+          "text": "description \"BIOS parameter block (BPB) and more\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "// More detailed description of the POS file format"
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "description \"Structure of a WinHex position file (.pos)\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "read-only byte \"Description length\""
+        }
+      ]
+    },
+    {
+      "name": "googletoolbar.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/ct3/sir_mac/programs/googletoolbar.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ct3/sir_mac/programs/googletoolbar.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/googletoolbar-779499c7.zip",
+      "localSize": 332085,
+      "localSizeLabel": "324 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "freeprogzfader.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/fortunecity-com/freeprogzfader-6ae8695b.zip",
+      "localSize": 132165,
+      "localSizeLabel": "129 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "googleplex.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/188/Steel/googleplex.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/Steel/googleplex.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/fortunecity-com/googleplex-31481c8a.zip",
+      "localSize": 10389,
+      "localSizeLabel": "10 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "7z2107.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
+      "discoveredText": "7z2107.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/7z2107-a4219f40.exe"
+    },
+    {
+      "name": "7z2107.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/7z2107.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/7z2107.exe",
+      "discoveredText": "7z2107.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/7z2107-a4219f40.exe"
+    },
+    {
+      "name": "AOL4FREE2.6v4.sit",
+      "sourceList": "Web page: AOL4Free v4",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "discoveredText": "AOL4FREE2.6v4.sit",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/aol4free2-6v4-b594ed05.sit"
+    },
+    {
+      "name": "AOL4FREE2.6v4.sit",
+      "sourceList": "Web page: AOL4Free v4",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "discoveredText": "AOL4FREE2.6v4.sit",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/aol4free2-6v4-b594ed05.sit"
+    },
+    {
+      "name": "autoruns.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+      "discoveredText": "autoruns.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/autoruns-6e82b7e5.exe"
+    },
+    {
+      "name": "autoruns.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+      "discoveredText": "autoruns.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/autoruns-6e82b7e5.exe"
+    },
+    {
+      "name": "CHARMAP.EXE",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "discoveredText": "CHARMAP.EXE",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/charmap-d85ed7f1.exe"
+    },
+    {
+      "name": "CHARMAP.EXE",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+      "discoveredText": "CHARMAP.EXE",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/charmap-d85ed7f1.exe"
+    },
+    {
+      "name": "npp.7.9.2.Installer.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "discoveredText": "npp.7.9.2.Installer.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/npp-7-9-2-installer-ab546b92.exe"
+    },
+    {
+      "name": "npp.7.9.2.Installer.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+      "discoveredText": "npp.7.9.2.Installer.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/npp-7-9-2-installer-ab546b92.exe"
+    },
+    {
+      "name": "ProcessExplorerNt.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "discoveredText": "ProcessExplorerNt.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/processexplorernt-0f29eb58.zip",
+      "localSize": 1484576,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Eula.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "applicable law",
+          "sourceFile": "Eula.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "applicable law",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [
+        "http://www.microsoft.com/exporting"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "ProcessExplorerNt.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+      "discoveredText": "ProcessExplorerNt.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/processexplorernt-0f29eb58.zip",
+      "localSize": 1484576,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Eula.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "applicable law",
+          "sourceFile": "Eula.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "applicable law",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [
+        "http://www.microsoft.com/exporting"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "TweakUiPowertoySetup.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "discoveredText": "TweakUiPowertoySetup.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/tweakuipowertoysetup-19e74ae6.exe"
+    },
+    {
+      "name": "TweakUiPowertoySetup.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+      "discoveredText": "TweakUiPowertoySetup.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/tweakuipowertoysetup-19e74ae6.exe"
+    },
+    {
+      "name": "WinCDEmu-4.1.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "discoveredText": "WinCDEmu-4.1.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/wincdemu-4-1-25f37518.exe"
+    },
+    {
+      "name": "WinCDEmu-4.1.exe",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+      "discoveredText": "WinCDEmu-4.1.exe",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/github-com/wincdemu-4-1-25f37518.exe"
+    },
+    {
+      "name": "winhex.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+      "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+      "discoveredText": "winhex.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/winhex-a9100615.zip",
+      "localSize": 644618,
+      "localSizeLabel": "630 KB",
+      "textFileCount": 8,
+      "textFiles": [
+        "FILE_ID.DIZ",
+        "Boot Sector NTFS.txt",
+        "FAT Directory Entry.txt",
+        "FAT LFN Entry.txt",
+        "Master Boot Record.txt",
+        "Boot Sector FAT.txt",
+        "POS File Format.txt",
+        "Boot Sector FAT32.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Stefan Fleischmann",
+          "sourceFile": "FILE_ID.DIZ",
+          "pattern": "author"
+        },
+        {
+          "name": "this template",
+          "sourceFile": "POS File Format.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "Stefan Fleischmann",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.winhex.com",
+        "http://support.microsoft.com/support/kb/articles/Q153/9/73.asp"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Boot Sector NTFS.txt",
+          "text": "description \"Boot sector of an NTFS partition\""
+        },
+        {
+          "sourceFile": "FAT Directory Entry.txt",
+          "text": "description \"Normal/short entry format\""
+        },
+        {
+          "sourceFile": "FAT LFN Entry.txt",
+          "text": "description \"Long entry format\""
+        },
+        {
+          "sourceFile": "Master Boot Record.txt",
+          "text": "description \"Contains partition table\""
+        },
+        {
+          "sourceFile": "Boot Sector FAT.txt",
+          "text": "description \"BIOS parameter block (BPB) and more\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "// More detailed description of the POS file format"
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "description \"Structure of a WinHex position file (.pos)\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "read-only byte \"Description length\""
+        }
+      ]
+    },
+    {
+      "name": "winhex.zip",
+      "sourceList": "Web page: oldscool_windows_tools",
+      "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+      "discoveredText": "winhex.zip",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/github-com/winhex-a9100615.zip",
+      "localSize": 644618,
+      "localSizeLabel": "630 KB",
+      "textFileCount": 8,
+      "textFiles": [
+        "FILE_ID.DIZ",
+        "Boot Sector NTFS.txt",
+        "FAT Directory Entry.txt",
+        "FAT LFN Entry.txt",
+        "Master Boot Record.txt",
+        "Boot Sector FAT.txt",
+        "POS File Format.txt",
+        "Boot Sector FAT32.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Stefan Fleischmann",
+          "sourceFile": "FILE_ID.DIZ",
+          "pattern": "author"
+        },
+        {
+          "name": "this template",
+          "sourceFile": "POS File Format.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "Stefan Fleischmann",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.winhex.com",
+        "http://support.microsoft.com/support/kb/articles/Q153/9/73.asp"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Boot Sector NTFS.txt",
+          "text": "description \"Boot sector of an NTFS partition\""
+        },
+        {
+          "sourceFile": "FAT Directory Entry.txt",
+          "text": "description \"Normal/short entry format\""
+        },
+        {
+          "sourceFile": "FAT LFN Entry.txt",
+          "text": "description \"Long entry format\""
+        },
+        {
+          "sourceFile": "Master Boot Record.txt",
+          "text": "description \"Contains partition table\""
+        },
+        {
+          "sourceFile": "Boot Sector FAT.txt",
+          "text": "description \"BIOS parameter block (BPB) and more\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "// More detailed description of the POS file format"
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "description \"Structure of a WinHex position file (.pos)\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "read-only byte \"Description length\""
+        }
+      ]
+    },
+    {
+      "name": "text_cricket.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/text_cricket.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/text_cricket.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/text-cricket-5c7ec3a4.zip",
+      "localSize": 94647,
+      "localSizeLabel": "92 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Text Cricket Readme.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "BEN LEED",
+          "sourceFile": "Text Cricket Readme.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "BEN LEED",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Text Cricket Readme.txt",
+          "text": "Be sure to have played atleast one game for this feature to work!"
+        },
+        {
+          "sourceFile": "Text Cricket Readme.txt",
+          "text": "This feature allows you to select what bowler bowls each over"
+        }
+      ]
+    },
+    {
+      "name": "trivquiz.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/trivquiz.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/trivquiz.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/trivquiz-72f09a48.zip",
+      "localSize": 30587,
+      "localSizeLabel": "30 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "TrivQuiz Readme.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "4 and so on",
+          "sourceFile": "TrivQuiz Readme.txt",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "BEN LEED",
+          "sourceFile": "TrivQuiz Readme.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "BEN LEED",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "unriged_beta.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/unriged_beta.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/unriged_beta.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/unriged-beta-64af0f5f.zip",
+      "localSize": 8702,
+      "localSizeLabel": "8.5 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Unriged Beta Readme.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "BEN LEED",
+          "sourceFile": "Unriged Beta Readme.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "BEN LEED",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Unriged Beta Readme.txt",
+          "text": "*This is only a beta version*"
+        }
+      ]
+    },
+    {
+      "name": "othello.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/realm/mattsblurb/othello/othello.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/realm/mattsblurb/othello/othello.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/othello-5499173a.zip",
+      "localSize": 25401,
+      "localSizeLabel": "25 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "bootlegs.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/rock/llsp/alanis/letras/bootlegs.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rock/llsp/alanis/letras/bootlegs.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/bootlegs-510d2a17.zip",
+      "localSize": 8107,
+      "localSizeLabel": "7.9 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "roomgen.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/rpg2/kso/dnd/dmfiles/roomgen.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rpg2/kso/dnd/dmfiles/roomgen.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/roomgen-f78efcd0.zip",
+      "localSize": 23170,
+      "localSizeLabel": "23 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "rulecycl.txt",
+        "adandd.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "snc_tallocx.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/ab/phenzrunaway/snc_tallocx.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ab/phenzrunaway/snc_tallocx.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/snc-tallocx-42ca234a.zip",
+      "localSize": 432009,
+      "localSizeLabel": "422 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "snc_wideocx.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/ab/phenzrunaway/snc_wideocx.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ab/phenzrunaway/snc_wideocx.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/snc-wideocx-dedc6a2a.zip",
+      "localSize": 432024,
+      "localSizeLabel": "422 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "vb.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/biz7/free_things/vb.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/vb-6eb165ee.zip",
+      "localSize": 259470,
+      "localSizeLabel": "253 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "atetris.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/darkside2/hippiesfromhell/downloads/atetris.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/darkside2/hippiesfromhell/downloads/atetris.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/atetris-c6782d33.zip",
+      "localSize": 1206779,
+      "localSizeLabel": "1.2 MB",
+      "textFileCount": 2,
+      "textFiles": [
+        "FILE_ID.DIZ",
+        "ATET.TXT"
+      ],
+      "authorCandidates": [
+        {
+          "name": "popular",
+          "sourceFile": "FILE_ID.DIZ",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "popular",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.dddgames.com"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "FILE_ID.DIZ",
+          "text": "THIS PROGRAM IS ABSOLUTELY FREE!"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "NOTICE: THIS PROGRAM IS DISTRIBUTED AS IS. DISTRIBUTION IS ONLY ALLOWED BY"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "THE ORIGINAL SELF-EXTRACTING ZIP FILE. THIS PROGRAM IS ABSOLUTELY FREE. NO"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "YOU, YOUR COMPUTER, OR ANYTHING BY THIS PROGRAM."
+        }
+      ]
+    },
+    {
+      "name": "900.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/900.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/900.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/900-baa59a0c.zip",
+      "localSize": 2313,
+      "localSizeLabel": "2.3 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "900.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "a2.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/a2.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/a2.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/a2-a53fc4d5.zip",
+      "localSize": 41545,
+      "localSizeLabel": "41 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "acronyms.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/acronyms.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/acronyms.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/acronyms-49cfd8f6.zip",
+      "localSize": 9705,
+      "localSizeLabel": "9.5 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "adult.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/adult.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/adult.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/adult-b49c4372.zip",
+      "localSize": 596,
+      "localSizeLabel": "596 B",
+      "textFileCount": 1,
+      "textFiles": [
+        "adult.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "allpass.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/allpass.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/allpass.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/allpass-af18cbe0.zip",
+      "localSize": 116383,
+      "localSizeLabel": "114 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "allpass.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "Linker / chat linker",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "c_o_m_m_o_n.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/c_o_m_m_o_n.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/c_o_m_m_o_n.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/c-o-m-m-o-n-1c08a0f3.zip",
+      "localSize": 8741,
+      "localSizeLabel": "8.5 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "C-o-M-M-o-N.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "darkscanner.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/darkscanner.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/darkscanner.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/darkscanner-7d48a437.zip",
+      "localSize": 11860,
+      "localSizeLabel": "12 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "dazed.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/dazed.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/dazed.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/dazed-901646c9.zip",
+      "localSize": 25295,
+      "localSizeLabel": "25 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "default_passwords.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/default_passwords.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/default_passwords.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/default-passwords-688998ff.zip",
+      "localSize": 6310,
+      "localSizeLabel": "6.2 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Default Passwords.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "hacker.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/hacker.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/hacker.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/hacker-ed0d3167.zip",
+      "localSize": 20013,
+      "localSizeLabel": "20 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "metallicapass.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/metallicapass.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/metallicapass.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/metallicapass-19034e53.zip",
+      "localSize": 1249,
+      "localSizeLabel": "1.2 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Metallica pass.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "mixed.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/mixed.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/mixed-2e564198.zip",
+      "localSize": 2367,
+      "localSizeLabel": "2.3 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "mixed.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "mod.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/mod.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mod.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/mod-781c1d58.zip",
+      "localSize": 136480,
+      "localSizeLabel": "133 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "nicscanner.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/nicscanner.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/nicscanner.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/nicscanner-054c3755.zip",
+      "localSize": 21866,
+      "localSizeLabel": "21 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "phrases.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/phrases.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/phrases.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/phrases-7cb6823a.zip",
+      "localSize": 4250,
+      "localSizeLabel": "4.2 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Phrases.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "Mass mailer / server",
+        "Account / TOS utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "propernouns.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/propernouns.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/propernouns.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/propernouns-0c83dd72.zip",
+      "localSize": 4660,
+      "localSizeLabel": "4.6 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "ProperNouns.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "random.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/random.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/random.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/random-5e2e7710.zip",
+      "localSize": 4567,
+      "localSizeLabel": "4.5 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "random.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "smokin37.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/smokin37.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/smokin37.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/smokin37-b040802e.zip",
+      "localSize": 50202,
+      "localSizeLabel": "49 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "smoothcracken1.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/electronic2/progz101/smoothcracken1.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/smoothcracken1.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/smoothcracken1-6f04cfec.zip",
+      "localSize": 34317,
+      "localSizeLabel": "34 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "hotmail.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/mech/baka/hotmail.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mech/baka/hotmail.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/hotmail-32de8c7e.zip",
+      "localSize": 1118,
+      "localSizeLabel": "1.1 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "professoraim3.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/oh4/soulofkorn/professoraim3.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh4/soulofkorn/professoraim3.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/professoraim3-7c6f9c5a.zip",
+      "localSize": 725895,
+      "localSizeLabel": "709 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "cerberus.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/oh5/darkside/proggies/cerberus.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh5/darkside/proggies/cerberus.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/cerberus-9cd12720.zip",
+      "localSize": 1401103,
+      "localSizeLabel": "1.3 MB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "patchworx2.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/oh5/darkside/proggies/patchworx2.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh5/darkside/proggies/patchworx2.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/patchworx2-bf983f0b.zip",
+      "localSize": 405864,
+      "localSizeLabel": "396 KB",
+      "textFileCount": 3,
+      "textFiles": [
+        "Patchworx2/readme.txt",
+        "Patchworx2/distribute.txt",
+        "README FIRST.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Archon of The Black Hand",
+          "sourceFile": "Patchworx2/readme.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "Archon of The Black Hand",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.theblackhand.net"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Automatic Update Notification - program will tell you when a new version is available."
+        },
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Version Independance (patches work on all builds)"
+        },
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Version/Build checking for Offset-based Patches"
+        }
+      ]
+    },
+    {
+      "name": "regserv.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/scifi/virtest/docsmail/regserv.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/virtest/docsmail/regserv.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/regserv-1c2c60bb.zip",
+      "localSize": 228285,
+      "localSizeLabel": "223 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "setupnu.zip",
+      "sourceList": "ProgzRescue Angelfire files",
+      "originalUrl": "http://www.angelfire.com/scifi/virtest/docsmail/setupnu.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/virtest/docsmail/setupnu.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/angelfire-com/setupnu-3e414348.zip",
+      "localSize": 749436,
+      "localSizeLabel": "732 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "bf.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bf.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf.zip",
+      "discoveredText": "black flag",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bf-41020f83.zip",
+      "localSize": 629985,
+      "localSizeLabel": "615 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "info.txt",
+        "repel.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "C-Com / command list",
+        "Media / file utility",
+        "Scroller / macro"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://bloodychef.cjb.net"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "bf2.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bf2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf2.zip",
+      "discoveredText": "black flag 2",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bf2-0a4bc57f.zip",
+      "localSize": 1246991,
+      "localSizeLabel": "1.2 MB",
+      "textFileCount": 3,
+      "textFiles": [
+        "repel.ini",
+        "presets/bf2.ini",
+        "sfades/rbr.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://bloodychef.cjb.net"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blackportal.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackportal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackportal.zip",
+      "discoveredText": "black portal coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackportal-eba14c16.zip",
+      "localSize": 634605,
+      "localSizeLabel": "620 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blackoutcomz.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackoutcomz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackoutcomz.zip",
+      "discoveredText": "blackout comz¹",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackoutcomz-90ddb9b7.zip",
+      "localSize": 39374,
+      "localSizeLabel": "38 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blackout1beta.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackout1beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackout1beta.zip",
+      "discoveredText": "blackout comz¹ beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackout1beta-a116dcd9.zip",
+      "localSize": 39125,
+      "localSizeLabel": "38 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blackout2.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackout2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackout2.zip",
+      "discoveredText": "blackout comz²",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blackout2-b88b4b69.zip",
+      "localSize": 51905,
+      "localSizeLabel": "51 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blindcoms.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blindcoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blindcoms.zip",
+      "discoveredText": "blind coms beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blindcoms-5a55a0bc.zip",
+      "localSize": 95181,
+      "localSizeLabel": "93 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blizah.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blizah.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizah.zip",
+      "discoveredText": "blizah coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blizah-824d272f.zip",
+      "localSize": 128715,
+      "localSizeLabel": "126 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blizahcoms.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip",
+      "discoveredText": "blizah coms beta 1.1",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blizahcoms-2ec4f9e8.zip",
+      "localSize": 57164,
+      "localSizeLabel": "56 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "blunted.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blunted.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blunted.zip",
+      "discoveredText": "blunted-coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/blunted-9e007e76.zip",
+      "localSize": 765204,
+      "localSizeLabel": "747 KB",
+      "textFileCount": 16,
+      "textFiles": [
+        "arrows.ini",
+        "arrows2.ini",
+        "Blunted.ini",
+        "default.ini",
+        "default2.ini",
+        "default3.ini",
+        "ghost.ini",
+        "ghost1.ini",
+        "ghost3.ini",
+        "hail.ini",
+        "lutes mom.ini",
+        "sook.ini",
+        "static.ini",
+        "static2.ini",
+        "taffy.ini",
+        "ultima.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "boisccom.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
+      "discoveredText": "boi's ccom",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/boisccom-65de3544.zip",
+      "localSize": 45917,
+      "localSizeLabel": "45 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "booked.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/booked.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/booked.zip",
+      "discoveredText": "booked",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/booked-7c543a0b.zip",
+      "localSize": 31848,
+      "localSizeLabel": "31 KB",
+      "textFileCount": 4,
+      "textFiles": [
+        "info.ini",
+        "Project1.vbp",
+        "Form1.frm",
+        "Module1.bas"
+      ],
+      "authorCandidates": [
+        {
+          "name": "myke",
+          "sourceFile": "Module1.bas",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "myke",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Source / developer file",
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Media / file utility",
+        "AOL/AIM chat utility",
+        "Account / TOS utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0",
+        "AOL 8.0"
+      ],
+      "urls": [
+        "http://stickmandesigns.net"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "bootbot.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bootbot.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bootbot.zip",
+      "discoveredText": "bootbot alpha release 1",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bootbot-9641895e.zip",
+      "localSize": 1495936,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "brain.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/brain.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/brain.zip",
+      "discoveredText": "brain damage 2.0 c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/brain-cbe54849.zip",
+      "localSize": 226678,
+      "localSizeLabel": "221 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "bd22.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bd22.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip",
+      "discoveredText": "brain damage ².²",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/bd22-029aaaae.zip",
+      "localSize": 188531,
+      "localSizeLabel": "184 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "cchat.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cchat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchat.zip",
+      "discoveredText": "c-chat",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/cchat-f93bd137.zip",
+      "localSize": 290410,
+      "localSizeLabel": "284 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "cchatembeta3.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cchatembeta3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchatembeta3.zip",
+      "discoveredText": "c-chat em [beta3]",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/cchatembeta3-d602c76c.zip",
+      "localSize": 131634,
+      "localSizeLabel": "129 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "ccom1.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccom1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccom1.zip",
+      "discoveredText": "c-com &sup1;&middot;&ordm;",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/ccom1-e5793eb2.zip",
+      "localSize": 131589,
+      "localSizeLabel": "129 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "c0m7beta.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7beta.zip",
+      "discoveredText": "c0m7 beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c0m7beta-d08bc572.zip",
+      "localSize": 1312296,
+      "localSizeLabel": "1.3 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "DeV",
+          "sourceFile": "Read me.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "DeV",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0"
+      ],
+      "urls": [
+        "http://www.lenshell.com"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "c0m7beta2.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7beta2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7beta2.zip",
+      "discoveredText": "c0m7 beta²",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c0m7beta2-a0cb1a6e.zip",
+      "localSize": 1445773,
+      "localSizeLabel": "1.4 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "DeV",
+          "sourceFile": "Read me.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "DeV",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0"
+      ],
+      "urls": [
+        "http://www.lenshell.com"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "c0m7final.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7final.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7final.zip",
+      "discoveredText": "c0m7 final (public)",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c0m7final-a9800380.zip",
+      "localSize": 1969113,
+      "localSizeLabel": "1.9 MB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "DeV",
+          "sourceFile": "Read me.txt",
+          "pattern": "trailing by"
+        }
+      ],
+      "preferredAuthor": "DeV",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 7.0"
+      ],
+      "urls": [
+        "http://www.lenshell.com"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "c12.zip",
+      "sourceList": "Web page: c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c12.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c12.zip",
+      "discoveredText": "c12",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/c12-ca954b1b.zip",
+      "localSize": 1450242,
+      "localSizeLabel": "1.4 MB",
       "textFileCount": 0,
       "textFiles": [],
       "authorCandidates": [],

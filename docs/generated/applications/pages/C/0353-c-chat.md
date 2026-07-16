@@ -43,7 +43,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 7 |
-| Matched mirror leads | 3 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 - Local mirrored archive: [files/aol/aol-4-0/0353-cchat.zip](../../../../../files/aol/aol-4-0/0353-cchat.zip)
 - Old-web / Wayback download leads: 7 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat aol4-5.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat%20aol4-5.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat%20aol4-5.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat%20aol4-5.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat%20aol4-5.zip)
@@ -107,6 +107,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | gradpics.zip | [http://www.angelfire.com/bc/chatalot/images/gradpics.zip](http://www.angelfire.com/bc/chatalot/images/gradpics.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/bc/chatalot/images/gradpics.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/bc/chatalot/images/gradpics.zip) | unknown | out-of-scope |
+| Web page: c-coms | cchat.zip | [http://lenshellarchive.com/Progs/aolccoms/cchat.zip](http://lenshellarchive.com/Progs/aolccoms/cchat.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchat.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchat.zip) | [files/external/lenshellarchive-com/cchat-f93bd137.zip](../../../../../files/external/lenshellarchive-com/cchat-f93bd137.zip) | ready |
 | LensHell AIM progs | chatage2.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip](http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip) | unknown | candidate |
 | LensHell AIM progs | chatage2.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip](http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip) | unknown | candidate |
 | LensHell AIM progs | chatrush.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/chatrush.zip](http://lenshellarchive.com/Progs/aimprogs/misc/chatrush.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatrush.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatrush.zip) | unknown | candidate |

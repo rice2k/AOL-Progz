@@ -104,8 +104,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: Aim Filez | BotConfig.zip | [http://aimthings.com/aimfilez/BotConfig.zip](http://aimthings.com/aimfilez/BotConfig.zip) | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip) | unknown | http-404 |
 | APC/ | APC_Device_IP_Configuration_Wizard.exe | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | unknown | candidate |
-| Aim Filez | BotConfig.zip | [http://aimthings.com/aimfilez/BotConfig.zip](http://aimthings.com/aimfilez/BotConfig.zip) | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip) | unknown | candidate |
 | HP/ | HPDriverConfigurationUtility.zip | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | unknown | candidate |
 
 ### Web Image Leads

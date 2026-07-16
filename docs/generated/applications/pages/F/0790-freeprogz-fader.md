@@ -43,7 +43,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Download status | ready |
 | Local mirrored size | 969 KB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 - Local mirrored archive: [files/aol/aol-4-0/0790-freeprogz-fader.zip](../../../../../files/aol/aol-4-0/0790-freeprogz-fader.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip)
@@ -99,7 +100,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| ProgzRescue FortuneCity Skyscraper files | freeprogzfader.zip | [http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip](http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip) | [files/external/fortunecity-com/freeprogzfader-6ae8695b.zip](../../../../../files/external/fortunecity-com/freeprogzfader-6ae8695b.zip) | ready |
 
 ### Web Image Leads
 

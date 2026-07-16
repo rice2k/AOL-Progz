@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 5 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0243-blackout.zip](../../../../../files/aol/aol-4-0/0243-blackout.zip)
 - Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blackout for aol 4.0 and 5.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blackout%20for%20aol%204.0%20and%205.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blackout%20for%20aol%204.0%20and%205.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blackout%20for%20aol%204.0%20and%205.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blackout%20for%20aol%204.0%20and%205.0.zip)
@@ -105,6 +105,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell AIM progs | blackout.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip](http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip) | unknown | http-404 |
+| Web page: LensHell AIM progs | blackoutv2.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip](http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip) | unknown | http-404 |
+| Web page: prog's/misc a-m | blackout.zip | [http://lenshellarchive.com/Progs/aolprogs/blackout.zip](http://lenshellarchive.com/Progs/aolprogs/blackout.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackout.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackout.zip) | unknown | http-404 |
 | AIM | aimblackoutbeta.zip | [http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip](http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimblackoutbeta.zip | [http://24.185.191.87/progz/aimblackoutbeta.zip](http://24.185.191.87/progz/aimblackoutbeta.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimblackoutbeta.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimblackoutbeta.zip) | unknown | candidate |
 

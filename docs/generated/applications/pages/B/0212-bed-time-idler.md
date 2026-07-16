@@ -101,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| idler's | bedtime.zip | [http://lenshellarchive.com/Progs/aolidlers/bedtime.zip](http://lenshellarchive.com/Progs/aolidlers/bedtime.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bedtime.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bedtime.zip) | unknown | candidate |
+| Web page: idler's | bedtime.zip | [http://lenshellarchive.com/Progs/aolidlers/bedtime.zip](http://lenshellarchive.com/Progs/aolidlers/bedtime.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bedtime.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bedtime.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

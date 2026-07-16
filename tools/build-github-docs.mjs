@@ -682,6 +682,7 @@ function buildMasterLinks() {
   }
   for (const item of externalDownloads.downloads || []) {
     add({ url: item.originalUrl, label: item.name, kind: "external original download", source: item.sourceList, context: item.status });
+    add({ url: item.downloadUrl, label: `${item.name} resolved fetch URL`, kind: "external resolved fetch URL", source: item.sourceList, context: item.status });
     add({ url: item.waybackUrl, label: `${item.name} Wayback`, kind: "external Wayback download", source: item.sourceList, context: item.status });
   }
   for (const record of externalArchiveText.records || []) {
@@ -1591,11 +1592,15 @@ const externalDownloadRows = (externalDownloads.downloads || []).map((item) => {
     item.status || "unknown",
     formatBytes(item.size),
     item.localPath ? localLink(`${generatedRoot}/sources/external-downloads.md`, item.localPath, item.localPath) : "not recovered",
+    item.dedupeNote || "",
     evidence?.textFileCount ? String(evidence.textFileCount) : "",
     evidence?.preferredAuthor || "",
     evidence?.versionMentions?.slice(0, 4).join("<br>") || "",
     evidence?.purposeSignals?.slice(0, 5).join("<br>") || "",
     item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+    item.downloadUrl && item.downloadUrl !== item.waybackUrl && item.downloadUrl !== item.originalUrl
+      ? link(item.downloadUrl, item.downloadUrl)
+      : "",
     item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
   ];
 });
@@ -1615,11 +1620,13 @@ writeDoc(
         "Status",
         "Size",
         "Local file",
+        "Storage note",
         "Text files",
         "Author clues",
         "Version clues",
         "Purpose clues",
         "Original URL",
+        "Resolved fetch URL",
         "Wayback/download URL",
       ],
       externalDownloadRows,
@@ -1679,9 +1686,13 @@ const clientDownloadRows = (externalDownloads.downloads || [])
       item.status || "unknown",
       formatBytes(item.size),
       item.localPath ? localLink(`${generatedRoot}/sources/aol-aim-client-downloads.md`, item.localPath, item.localPath) : "not recovered",
+      item.dedupeNote || "",
       evidence?.versionMentions?.slice(0, 4).join("<br>") || "",
       evidence?.purposeSignals?.slice(0, 5).join("<br>") || "",
       item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+      item.downloadUrl && item.downloadUrl !== item.waybackUrl && item.downloadUrl !== item.originalUrl
+        ? link(item.downloadUrl, item.downloadUrl)
+        : "",
       item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
     ];
   });
@@ -1702,9 +1713,11 @@ writeDoc(
         "Status",
         "Size",
         "Local file",
+        "Storage note",
         "Text version clues",
         "Text purpose clues",
         "Original URL",
+        "Resolved fetch URL",
         "Wayback/download URL",
       ],
       clientDownloadRows,

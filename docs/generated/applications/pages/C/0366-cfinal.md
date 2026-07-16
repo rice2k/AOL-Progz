@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 797 KB |
 | Matched web download links | 4 |
-| Matched mirror leads | 3 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0366-cfinal.zip](../../../../../files/aol/aol-4-0/0366-cfinal.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cfinal.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cfinal.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cfinal.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cfinal.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cfinal.zip)
@@ -112,6 +112,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | cfinal.zip | [http://lenshellarchive.com/Progs/aolprogs/cfinal.zip](http://lenshellarchive.com/Progs/aolprogs/cfinal.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cfinal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cfinal.zip) | unknown | http-404 |
 | LensHell AIM progs | causticfinal.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/causticfinal.zip](http://lenshellarchive.com/Progs/aimprogs/misc/causticfinal.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/causticfinal.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/causticfinal.zip) | unknown | candidate |
 | AIM | causticfinal.zip | [http://www.cybernyse.com/downlowdz/aimcausticfinal.zip](http://www.cybernyse.com/downlowdz/aimcausticfinal.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcausticfinal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcausticfinal.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | causticfinal.zip | [http://24.185.191.87/progz/aimcausticfinal.zip](http://24.185.191.87/progz/aimcausticfinal.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcausticfinal.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcausticfinal.zip) | unknown | candidate |

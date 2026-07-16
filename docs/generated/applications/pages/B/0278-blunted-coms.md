@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Fader / text styler, Scroller / macro.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Fader / text styler, Scroller / macro. Recovered external ZIP text also suggests: Fader / text styler, Scroller / macro.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -33,9 +33,9 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Scroller / macro |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | Fader / text styler, Scroller / macro |
 | Archive text files reviewed | arrows.ini<br>arrows2.ini<br>Blunted.ini<br>default.ini<br>default2.ini<br>default3.ini<br>ghost.ini<br>ghost1.ini<br>ghost3.ini<br>hail.ini<br>lutes mom.ini<br>sook.ini<br>static.ini<br>static2.ini<br>taffy.ini<br>ultima.ini<br>aciddr0p.netReadMe.txt |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB5 |
 | Compile type | p-code |
 | Duplicate count | 3 |
@@ -43,18 +43,19 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0278-blunted-coms.zip](../../../../../files/aol/aol-4-0/0278-blunted-coms.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blunted.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blunted.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blunted.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blunted.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blunted.zip)
@@ -86,7 +87,11 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | [files/external/lenshellarchive-com/blunted-9e007e76.zip](../../../../../files/external/lenshellarchive-com/blunted-9e007e76.zip) | arrows.ini<br>arrows2.ini<br>Blunted.ini<br>default.ini<br>default2.ini<br>default3.ini | none | none | Fader / text styler<br>Scroller / macro | unknown | unknown |
 
 ### Source Mentions
 
@@ -102,7 +107,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | blunted.zip | [http://lenshellarchive.com/Progs/aolccoms/blunted.zip](http://lenshellarchive.com/Progs/aolccoms/blunted.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blunted.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blunted.zip) | [files/external/lenshellarchive-com/blunted-9e007e76.zip](../../../../../files/external/lenshellarchive-com/blunted-9e007e76.zip) | ready |
 
 ### Web Image Leads
 

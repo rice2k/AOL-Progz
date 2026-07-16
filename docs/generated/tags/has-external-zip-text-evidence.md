@@ -1,6 +1,6 @@
 # Tag: has-external-zip-text-evidence
 
-**Count:** 20
+**Count:** 29
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -9,7 +9,13 @@
 | 87 | [Anarchy](../applications/pages/A/0087-anarchy.md) | Anarchy | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0087-anarchy.zip) | 0 |
 | 121 | [aocoms3](../applications/pages/A/0121-aocoms3.md) | aocoms3 | AOL/AIM chat utility | uncategorized | AOL 4.0 | Then | 727 KB | [local](../../../files/aol/aol-4-0/0121-aocoms3.zip) | 0 |
 | 136 | [AoL Guilt](../applications/pages/A/0136-aol-guilt.md) | AoL Guilt | Unknown / needs review | uncategorized | AOL 4.0 | Vlad | 1.6 MB | [local](../../../files/aol/aol-4-0/0136-aol-guilt.zip) | 0 |
+| 222 | [Black Flag 2](../applications/pages/B/0222-black-flag-2.md) | bf2 | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 2.5-6 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0222-bf2.zip) | 0 |
+| 278 | [blunted-coms](../applications/pages/B/0278-blunted-coms.md) | blunted-coms | Fader / text styler | uncategorized | AOL 4.0 | JANGEADOR 2000 | 3.0 MB | [local](../../../files/aol/aol-4-0/0278-blunted-coms.zip) | 0 |
+| 289 | [booked](../applications/pages/B/0289-booked.md) | booked | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0289-booked.zip) | 0 |
 | 297 | [Winter Break And 5.0 Yr 2000](../applications/pages/B/0297-winter-break-and-5-0-yr-2000.md) | break | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0297-break.zip) | 0 |
+| 336 | [C 0m 7beta](../applications/pages/C/0336-c-0m-7beta.md) | c0m7 | C-Com / command list | uncategorized | AOL 4.0; archive text: AOL 7.0 | DeV | 2.6 MB | [local](../../../files/aol/aol-4-0/0336-c0m7.zip) | 0 |
+| 337 | [c0m7 beta²](../applications/pages/C/0337-c0m7-beta2.md) | c0m7 beta² | C-Com / command list | uncategorized | AOL 4.0; archive text: AOL 7.0 | DeV | 2.7 MB | [local](../../../files/aol/aol-4-0/0337-c0m7-beta2.zip) | 0 |
+| 338 | [c0m7 final](../applications/pages/C/0338-c0m7-final.md) | c0m7 final | C-Com / command list | uncategorized | AOL 4.0; archive text: AOL 7.0 | DeV | 3.2 MB | [local](../../../files/aol/aol-4-0/0338-c0m7-final.zip) | 0 |
 | 355 | [ccom[public]](../applications/pages/C/0355-ccompublic.md) | ccom[public] | C-Com / command list | chat or IM tool | AOL 4.0 | suck ass | 2.7 MB | [local](../../../files/aol/aol-4-0/0355-ccompublic.zip) | 0 |
 | 356 | [ccom[public]](../applications/pages/C/0356-ccompublic.md) | ccom[public] | C-Com / command list | chat or IM tool | AOL 4.0 | suck ass | 2.6 MB | [local](../../../files/aol/aol-4-0/0356-ccompublic.zip) | 0 |
 | 357 | [ccom[public]](../applications/pages/C/0357-ccompublic.md) | ccom[public] | C-Com / command list | chat or IM tool | AOL 4.0 | myke | 4.1 MB | [local](../../../files/aol/aol-4-0/0357-ccompublic.zip) | 0 |
@@ -19,8 +25,11 @@
 | 626 | [Dynamic](../applications/pages/D/0626-dynamic.md) | Dynamic | Unknown / needs review | uncategorized | AOL 4.0 | latino | 1.5 MB | [local](../../../files/aol/aol-4-0/0626-dynamic.zip) | 0 |
 | 739 | [F 2 Form Mail Finder](../applications/pages/F/0739-f-2-form-mail-finder.md) | f2 | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 2.9 MB | [local](../../../files/aol/mixed/0739-f2.zip) | 0 |
 | 852 | [Golden](../applications/pages/G/0852-golden.md) | GOLD | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 1.3 MB | [local](../../../files/aol/aol-4-0/0852-gold.zip) | 0 |
+| 1249 | [Metal](../applications/pages/M/1249-metal.md) | MeTaL | AOL/AIM chat utility | uncategorized | AOL 4.0 | OiL | 1.9 MB | [local](../../../files/aol/aol-4-0/1249-metal.zip) | 0 |
 | 1456 | [plasma](../applications/pages/P/1456-plasma.md) | plasma | Unknown / needs review | uncategorized | AOL 4.0 | Chr0me | 1.3 MB | [local](../../../files/aol/aol-4-0/1456-plasma.zip) | 0 |
+| 1606 | [Remixed Audio²](../applications/pages/R/1606-remixed-audio2.md) | Remixed Audio² | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1700 | [silence](../applications/pages/S/1700-silence.md) | silence | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1832 | [Style 2](../applications/pages/S/1832-style-2.md) | style | Unknown / needs review | uncategorized | AOL 4.0 | LordEx | unknown | remote-only | 0 |
 | 1902 | [thug fader](../applications/pages/T/1902-thug-fader.md) | thug fader | Fader / text styler | fader or text tool | AOL 4.0 | satin | unknown | remote-only | 0 |
+| 1985 | [ÛñÐë® GrÕüÑÐ](../applications/pages/U/1985-une-groun.md) | ÛñÐë® GrÕüÑÐ | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1985-une-groun.zip) | 0 |
 | 2096 | [Yoinks IM Answerer](../applications/pages/Y/2096-yoinks-im-answerer.md) | Yoinks IM Answerer | Chat / IM utility | chat or IM tool | AOL 4.0 | unknown | unknown | remote-only | 0 |

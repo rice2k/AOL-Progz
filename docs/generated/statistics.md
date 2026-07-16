@@ -92,12 +92,12 @@
 | Crawled source pages | 650 |
 | Crawled links | 12511 |
 | Crawled download links | 5096 |
-| Recovered external files | 376 |
-| External ZIPs scanned for text | 256 |
-| External ZIPs with readable text | 154 |
-| External ZIPs with author clues | 50 |
-| External ZIPs with version clues | 2 |
-| External ZIPs with purpose clues | 112 |
-| Missing candidates | 2141 |
-| Recovered missing candidates | 250 |
-| Master deduped link index | 23683 |
+| Recovered external files | 463 |
+| External ZIPs scanned for text | 322 |
+| External ZIPs with readable text | 183 |
+| External ZIPs with author clues | 65 |
+| External ZIPs with version clues | 6 |
+| External ZIPs with purpose clues | 134 |
+| Missing candidates | 2177 |
+| Recovered missing candidates | 293 |
+| Master deduped link index | 23808 |

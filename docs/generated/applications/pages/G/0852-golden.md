@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 9 |
+| Matched mirror leads | 10 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0852-gold.zip](../../../../../files/aol/aol-4-0/0852-gold.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 9 link(s) listed below
+- Matched mirror leads: 10 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip)
@@ -115,6 +115,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Missing Files | vb40016.zip | [http://www.aimfilez.com/files/missing/vb40032.dll](http://www.aimfilez.com/files/missing/vb40032.dll) | [https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll](https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll) | unknown | ready |
 | ProgzRescue Angelfire files | vb40016.zip | [http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip](http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip) | unknown | ready |
 | User-supplied ColtPro missing DLL/OCX files | vb40016.zip | [http://www.coltpro.net/files3/missings/VB40032.DLL](http://www.coltpro.net/files3/missings/VB40032.DLL) | [https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL](https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL) | unknown | ready |
+| ProgzRescue Angelfire files | vb40016.zip | [http://www.angelfire.com/biz7/free_things/vb.zip](http://www.angelfire.com/biz7/free_things/vb.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip) | unknown | ready |
 
 ### Web Image Leads
 

@@ -2,7 +2,7 @@
 
 Catalog label: **bf2**.
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Fader / text styler, Scroller / macro, Media / file utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -33,9 +33,9 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | Fader / text styler, Scroller / macro, Media / file utility |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -43,18 +43,19 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0222-bf2.zip](../../../../../files/aol/aol-4-0/0222-bf2.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/black flag 2 aol2.5-6.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/black%20flag%202%20aol2.5-6.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/black%20flag%202%20aol2.5-6.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/black%20flag%202%20aol2.5-6.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/black%20flag%202%20aol2.5-6.zip)
@@ -82,7 +83,11 @@ No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | [files/external/lenshellarchive-com/bf2-0a4bc57f.zip](../../../../../files/external/lenshellarchive-com/bf2-0a4bc57f.zip) | repel.ini<br>presets/bf2.ini<br>sfades/rbr.ini | none | none | Fader / text styler<br>Scroller / macro<br>Media / file utility | unknown | [http://bloodychef.cjb.net](http://bloodychef.cjb.net) |
 
 ### Source Mentions
 
@@ -98,7 +103,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | bf2.zip | [http://lenshellarchive.com/Progs/aolccoms/bf2.zip](http://lenshellarchive.com/Progs/aolccoms/bf2.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf2.zip) | [files/external/lenshellarchive-com/bf2-0a4bc57f.zip](../../../../../files/external/lenshellarchive-com/bf2-0a4bc57f.zip) | ready |
 
 ### Web Image Leads
 

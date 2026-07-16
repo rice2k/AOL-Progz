@@ -87,7 +87,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ProgzRescue FortuneCity Skyscraper files | [files/external/fortunecity-com/netbuster1-31.zip](../../../../../files/external/fortunecity-com/netbuster1-31.zip) | readme.txt | none | none | Punter / booter<br>Mass mailer / server<br>Media / file utility | improved in this version. It should now remove all NetBus servers.<br>The latest version of netbuster can be found at http://surf.to/netbuster | [http://surf.to/netbuster](http://surf.to/netbuster) |
+| ProgzRescue FortuneCity Skyscraper files | [files/external/angelfire-com/netbuster131.zip](../../../../../files/external/angelfire-com/netbuster131.zip) | readme.txt | none | none | Punter / booter<br>Mass mailer / server<br>Media / file utility | improved in this version. It should now remove all NetBus servers.<br>The latest version of netbuster can be found at http://surf.to/netbuster | [http://surf.to/netbuster](http://surf.to/netbuster) |
 
 ### Source Mentions
 
@@ -105,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| ProgzRescue FortuneCity Skyscraper files | netbuster1_31.zip | [http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | [files/external/fortunecity-com/netbuster1-31.zip](../../../../../files/external/fortunecity-com/netbuster1-31.zip) | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster1_31.zip | [http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | [files/external/angelfire-com/netbuster131.zip](../../../../../files/external/angelfire-com/netbuster131.zip) | ready |
 
 ### Web Image Leads
 

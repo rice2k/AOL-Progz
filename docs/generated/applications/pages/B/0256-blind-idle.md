@@ -43,7 +43,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
 | Matched web download links | 5 |
-| Matched mirror leads | 3 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 - Local mirrored archive: [files/aol/aol-4-0/0256-blind-idle.zip](../../../../../files/aol/aol-4-0/0256-blind-idle.zip)
 - Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip)
@@ -105,6 +105,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: idler's | blind.zip | [http://lenshellarchive.com/Progs/aolidlers/blind.zip](http://lenshellarchive.com/Progs/aolidlers/blind.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blind.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blind.zip) | unknown | http-404 |
+| Web page: punter's | blind.zip | [http://lenshellarchive.com/Progs/aolpunters/blind.zip](http://lenshellarchive.com/Progs/aolpunters/blind.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blind.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blind.zip) | unknown | http-404 |
 | Progs Section 1 | blindidle.zip | [http://www.cybernyse.com/blindidle.zip](http://www.cybernyse.com/blindidle.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blindidle.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blindidle.zip) | unknown | candidate |
 | Aol 4.0/5.0 Progs | blindidle.zip | [http://www.oogle.net/downloads/progs/blindidle.zip](http://www.oogle.net/downloads/progs/blindidle.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip) | unknown | candidate |
 | APPLICATIONS | wblind.zip | [http://server39.hypermart.net/wipeout/wblind.zip](http://server39.hypermart.net/wipeout/wblind.zip) | [https://web.archive.org/web/20010221025545/http://server39.hypermart.net/wipeout/wblind.zip](https://web.archive.org/web/20010221025545/http://server39.hypermart.net/wipeout/wblind.zip) | unknown | candidate |

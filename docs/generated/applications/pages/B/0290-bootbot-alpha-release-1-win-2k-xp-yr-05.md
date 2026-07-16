@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/mixed/0290-bootbot.zip](../../../../../files/aol/mixed/0290-bootbot.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/bootbot alpha release 1 aol7-9 win2k-XP yr05.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/bootbot%20alpha%20release%201%20aol7-9%20win2k-XP%20yr05.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/bootbot%20alpha%20release%201%20aol7-9%20win2k-XP%20yr05.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/bootbot%20alpha%20release%201%20aol7-9%20win2k-XP%20yr05.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/bootbot%20alpha%20release%201%20aol7-9%20win2k-XP%20yr05.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | bootbot.zip | [http://lenshellarchive.com/Progs/aolccoms/bootbot.zip](http://lenshellarchive.com/Progs/aolccoms/bootbot.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bootbot.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bootbot.zip) | [files/external/lenshellarchive-com/bootbot-9641895e.zip](../../../../../files/external/lenshellarchive-com/bootbot-9641895e.zip) | ready |
 
 ### Web Image Leads
 

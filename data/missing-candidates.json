@@ -1,8 +1,279 @@
 {
-  "generatedAt": "2026-07-16T08:38:35.015Z",
-  "candidateCount": 2141,
-  "readyCandidateCount": 250,
+  "generatedAt": "2026-07-16T10:31:02.544Z",
+  "candidateCount": 2177,
+  "readyCandidateCount": 293,
   "candidates": [
+    {
+      "key": "layout",
+      "fileName": "layout1.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout1.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout1.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout2.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout3.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout3.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout4.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout4.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout5.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout5.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout6.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout6.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout7.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout7.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout8.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout8.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/layout1.zip",
+        "files/external/angelfire-com/layout2.zip",
+        "files/external/angelfire-com/layout3.zip",
+        "files/external/angelfire-com/layout4.zip",
+        "files/external/angelfire-com/layout5.zip",
+        "files/external/angelfire-com/layout6.zip",
+        "files/external/angelfire-com/layout7.zip",
+        "files/external/angelfire-com/layout8.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Media / file utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.geocities.com/sd_scabx/"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 4,
+      "mirrorCount": 8,
+      "readyCount": 8
+    },
+    {
+      "key": "vb",
+      "fileName": "vb40016.zip",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/vb40016.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/vb40032.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/80s/golden/vb.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/vb.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/VB40032.DLL",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/biz7/free_things/vb.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/vb.zip",
+        "files/external/angelfire-com/vb3.zip",
+        "files/external/aimfilez-com/vb40016-c8eb6c1a.dll",
+        "files/external/aimfilez-com/vb40032-f6349a6a.dll",
+        "files/external/coltpro-net/vb40032-213ca90f.dll",
+        "files/external/angelfire-com/vb-6eb165ee.zip"
+      ],
+      "sourcePages": [
+        "Visual Basic Section",
+        "Missing Files"
+      ],
+      "externalTextAuthors": [
+        "Jelsoft Enterprises Limited",
+        "here, you can back up your vBulletin database",
+        "here, you can control all aspects of your vBulletin forums",
+        "user",
+        "avatar\");",
+        "title",
+        "post,thread",
+        "thread.threadid"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Mass mailer / server",
+        "Media / file utility",
+        "Idler / AFK bot",
+        "AOL/AIM chat utility",
+        "C-Com / command list",
+        "All-in-one prog suite"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.vbul",
+        "http://www.vbulletin.com",
+        "http://vbulletin.com/members/",
+        "http://www.\\\\6\\",
+        "http://www.\\\\5\\",
+        "http://www.vbulletin.com/",
+        "http://www.jelsoft.com/",
+        "http://www.vbulletin.com/\\",
+        "http://www.vbulletin.com/forum/\\",
+        "http://www.vbulletin.com/manual/\\"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "admin/avatar.php",
+          "text": "echo \" Using this feature required your web server and PHP to have permission to write files to disk. If they do not have the neccessary permissions, it will fail. \";"
+        },
+        {
+          "sourceFile": "admin/bbcode.php",
+          "text": "Use Option: Setting this option to yes will allow you to create a [tag=option][/tag] style tag, rather than just a [tag][/tag] style tag."
+        },
+        {
+          "sourceFile": "admin/bbcode.php",
+          "text": "Use Parameter: Setting this option to yes will allow you to create a [tag=option][/tag] style tag, rather than just a [tag][/tag] style tag."
+        },
+        {
+          "sourceFile": "admin/bbimport.php",
+          "text": "echo \" Banning features enabled ....\\n\";"
+        },
+        {
+          "sourceFile": "admin/bbimport.php",
+          "text": "(forumid,styleid,title,description,active,"
+        },
+        {
+          "sourceFile": "admin/bbimport.php",
+          "text": "'\".addslashes($category[description]).\"',"
+        }
+      ],
+      "externalTextFileCount": 45,
+      "mirrorCount": 7,
+      "readyCount": 6
+    },
+    {
+      "key": "msvbvm",
+      "fileName": "msvbvm50.dll",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/msvbvm50.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm50.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/msvbvm60.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm60.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
+          "waybackUrl": "https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
+          "source": "Miscellaneous Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.angelfire.com/dc/zidane/programs/msvbvm50.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dc/zidane/programs/msvbvm50.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/dc/zidane/programs/msvbvm60.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dc/zidane/programs/msvbvm60.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/msvbvm50.zip",
+        "files/external/angelfire-com/msvbvm60.zip",
+        "files/external/aimfilez-com/msvbvm50-3e602dda.dll",
+        "files/external/aimfilez-com/msvbvm60-117ab42e.dll",
+        "files/external/coltpro-net/msvbvm60-af7ec917.dll"
+      ],
+      "sourcePages": [
+        "Missing Files",
+        "Visual Basic Section",
+        "Miscellaneous Section"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 7,
+      "readyCount": 5
+    },
     {
       "key": "netbuster",
       "fileName": "netbuster131.zip",
@@ -180,12 +451,8 @@
       "readyLocalFiles": [
         "files/external/angelfire-com/netbuster131.zip",
         "files/external/angelfire-com/netbuster.zip",
-        "files/external/fortunecity-com/netbuster1-31.zip",
         "files/external/fortunecity-com/netbuster1-12.zip",
-        "files/external/fortunecity-com/netbuster.zip",
-        "files/external/fortunecity-com/netbuster1-30.zip",
-        "files/external/fortunecity-com/netbuster1-3.zip",
-        "files/external/fortunecity-com/netbuster131.zip"
+        "files/external/fortunecity-com/netbuster.zip"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -230,271 +497,7 @@
       ],
       "externalTextFileCount": 29,
       "mirrorCount": 28,
-      "readyCount": 8
-    },
-    {
-      "key": "layout",
-      "fileName": "layout1.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout1.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout1.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout2.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout2.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout3.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout3.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout4.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout4.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout5.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout5.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout6.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout6.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout7.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout7.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ego/sd3/zfxero/layout8.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/sd3/zfxero/layout8.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        }
-      ],
-      "readyLocalFiles": [
-        "files/external/angelfire-com/layout1.zip",
-        "files/external/angelfire-com/layout2.zip",
-        "files/external/angelfire-com/layout3.zip",
-        "files/external/angelfire-com/layout4.zip",
-        "files/external/angelfire-com/layout5.zip",
-        "files/external/angelfire-com/layout6.zip",
-        "files/external/angelfire-com/layout7.zip",
-        "files/external/angelfire-com/layout8.zip"
-      ],
-      "sourcePages": [],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [
-        "Media / file utility"
-      ],
-      "externalTextVersions": [],
-      "externalTextUrls": [
-        "http://www.geocities.com/sd_scabx/"
-      ],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 4,
-      "mirrorCount": 8,
-      "readyCount": 8
-    },
-    {
-      "key": "msvbvm",
-      "fileName": "msvbvm50.dll",
-      "category": "runtime/support file",
-      "mirrors": [
-        {
-          "url": "http://www.aimfilez.com/files/missing/msvbvm50.dll",
-          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm50.dll",
-          "source": "Missing Files",
-          "status": "ready"
-        },
-        {
-          "url": "http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        },
-        {
-          "url": "http://www.aimfilez.com/files/missing/msvbvm60.dll",
-          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm60.dll",
-          "source": "Missing Files",
-          "status": "ready"
-        },
-        {
-          "url": "http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
-          "waybackUrl": "https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
-          "source": "Miscellaneous Section",
-          "status": "candidate"
-        },
-        {
-          "url": "http://www.angelfire.com/dc/zidane/programs/msvbvm50.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dc/zidane/programs/msvbvm50.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/dc/zidane/programs/msvbvm60.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dc/zidane/programs/msvbvm60.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
-          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
-          "source": "User-supplied ColtPro missing DLL/OCX files",
-          "status": "ready"
-        }
-      ],
-      "readyLocalFiles": [
-        "files/external/angelfire-com/msvbvm50.zip",
-        "files/external/angelfire-com/msvbvm60.zip",
-        "files/external/aimfilez-com/msvbvm50-3e602dda.dll",
-        "files/external/aimfilez-com/msvbvm60-117ab42e.dll",
-        "files/external/coltpro-net/msvbvm60-af7ec917.dll"
-      ],
-      "sourcePages": [
-        "Missing Files",
-        "Visual Basic Section",
-        "Miscellaneous Section"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 7,
-      "readyCount": 5
-    },
-    {
-      "key": "vb",
-      "fileName": "vb40016.zip",
-      "category": "runtime/support file",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        },
-        {
-          "url": "http://www.aimfilez.com/files/missing/vb40016.dll",
-          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll",
-          "source": "Missing Files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.aimfilez.com/files/missing/vb40032.dll",
-          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll",
-          "source": "Missing Files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/80s/golden/vb.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/vb.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.coltpro.net/files3/missings/VB40032.DLL",
-          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL",
-          "source": "User-supplied ColtPro missing DLL/OCX files",
-          "status": "ready"
-        }
-      ],
-      "readyLocalFiles": [
-        "files/external/angelfire-com/vb.zip",
-        "files/external/angelfire-com/vb3.zip",
-        "files/external/aimfilez-com/vb40016-c8eb6c1a.dll",
-        "files/external/aimfilez-com/vb40032-f6349a6a.dll",
-        "files/external/coltpro-net/vb40032-213ca90f.dll"
-      ],
-      "sourcePages": [
-        "Visual Basic Section",
-        "Missing Files"
-      ],
-      "externalTextAuthors": [
-        "Jelsoft Enterprises Limited",
-        "here, you can back up your vBulletin database",
-        "here, you can control all aspects of your vBulletin forums",
-        "user",
-        "avatar\");",
-        "title",
-        "post,thread",
-        "thread.threadid"
-      ],
-      "externalTextPurposeSignals": [
-        "Fader / text styler",
-        "Account / TOS utility",
-        "Source / developer file",
-        "Mass mailer / server",
-        "Media / file utility",
-        "Idler / AFK bot",
-        "AOL/AIM chat utility",
-        "C-Com / command list",
-        "All-in-one prog suite"
-      ],
-      "externalTextVersions": [],
-      "externalTextUrls": [
-        "http://www.vbul",
-        "http://www.vbulletin.com",
-        "http://vbulletin.com/members/",
-        "http://www.\\\\6\\",
-        "http://www.\\\\5\\",
-        "http://www.vbulletin.com/",
-        "http://www.jelsoft.com/",
-        "http://www.vbulletin.com/\\",
-        "http://www.vbulletin.com/forum/\\",
-        "http://www.vbulletin.com/manual/\\"
-      ],
-      "externalTextDescriptions": [
-        {
-          "sourceFile": "admin/avatar.php",
-          "text": "echo \" Using this feature required your web server and PHP to have permission to write files to disk. If they do not have the neccessary permissions, it will fail. \";"
-        },
-        {
-          "sourceFile": "admin/bbcode.php",
-          "text": "Use Option: Setting this option to yes will allow you to create a [tag=option][/tag] style tag, rather than just a [tag][/tag] style tag."
-        },
-        {
-          "sourceFile": "admin/bbcode.php",
-          "text": "Use Parameter: Setting this option to yes will allow you to create a [tag=option][/tag] style tag, rather than just a [tag][/tag] style tag."
-        },
-        {
-          "sourceFile": "admin/bbimport.php",
-          "text": "echo \" Banning features enabled ....\\n\";"
-        },
-        {
-          "sourceFile": "admin/bbimport.php",
-          "text": "(forumid,styleid,title,description,active,"
-        },
-        {
-          "sourceFile": "admin/bbimport.php",
-          "text": "'\".addslashes($category[description]).\"',"
-        }
-      ],
-      "externalTextFileCount": 56,
-      "mirrorCount": 6,
-      "readyCount": 5
+      "readyCount": 4
     },
     {
       "key": "setup",
@@ -555,6 +558,54 @@
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
       "mirrorCount": 6,
+      "readyCount": 4
+    },
+    {
+      "key": "a",
+      "fileName": "AIM%201.0.414a.exe",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/aim-versions/AIM%201.0.414a.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%201.0.414a.exe",
+          "source": "AIM Versions",
+          "status": "ready"
+        },
+        {
+          "url": "http://aimfilez.com/aim-versions/AIM%201.7.563a.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%201.7.563a.exe",
+          "source": "AIM Versions",
+          "status": "ready"
+        },
+        {
+          "url": "http://aimfilez.com/aim-versions/AIM%202.0.731a.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%202.0.731a.exe",
+          "source": "AIM Versions",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/a2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/a2.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe",
+        "files/external/aimfilez-com/aim201-7-563a-91a26710.exe",
+        "files/external/aimfilez-com/aim202-0-731a-577898fa.exe",
+        "files/external/angelfire-com/a2-a53fc4d5.zip"
+      ],
+      "sourcePages": [
+        "AIM Versions"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 4,
       "readyCount": 4
     },
     {
@@ -670,47 +721,6 @@
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
       "mirrorCount": 4,
-      "readyCount": 3
-    },
-    {
-      "key": "a",
-      "fileName": "AIM%201.0.414a.exe",
-      "category": "AOL/AIM client installer",
-      "mirrors": [
-        {
-          "url": "http://aimfilez.com/aim-versions/AIM%201.0.414a.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%201.0.414a.exe",
-          "source": "AIM Versions",
-          "status": "ready"
-        },
-        {
-          "url": "http://aimfilez.com/aim-versions/AIM%201.7.563a.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%201.7.563a.exe",
-          "source": "AIM Versions",
-          "status": "ready"
-        },
-        {
-          "url": "http://aimfilez.com/aim-versions/AIM%202.0.731a.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%202.0.731a.exe",
-          "source": "AIM Versions",
-          "status": "ready"
-        }
-      ],
-      "readyLocalFiles": [
-        "files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe",
-        "files/external/aimfilez-com/aim201-7-563a-91a26710.exe",
-        "files/external/aimfilez-com/aim202-0-731a-577898fa.exe"
-      ],
-      "sourcePages": [
-        "AIM Versions"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 3,
       "readyCount": 3
     },
     {
@@ -990,7 +1000,7 @@
           "text": "!!!!!!!! DO NOT TAMPER WITH THE VERSION=!!!!!!!!"
         }
       ],
-      "externalTextFileCount": 76,
+      "externalTextFileCount": 64,
       "mirrorCount": 2,
       "readyCount": 2
     },
@@ -1172,6 +1182,58 @@
       "readyCount": 1
     },
     {
+      "key": "autoruns",
+      "fileName": "autoruns.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/Misc/autoruns61.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/Misc/autoruns61.zip",
+          "source": "Misc/",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/Misc/Autoruns934.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/Misc/Autoruns934.zip",
+          "source": "Misc/",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/autoruns-6e82b7e5.exe"
+      ],
+      "sourcePages": [
+        "oldscool_windows_tools",
+        "Misc/"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 5,
+      "readyCount": 1
+    },
+    {
       "key": "threed",
       "fileName": "threed.zip",
       "category": "runtime/support file",
@@ -1207,6 +1269,52 @@
       "sourcePages": [
         "Visual Basic Section",
         "Missing Files"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 4,
+      "readyCount": 1
+    },
+    {
+      "key": "tweakuipowertoysetup",
+      "fileName": "TweakUiPowertoySetup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/Microsoft/TweakUiPowertoySetup21.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/TweakUiPowertoySetup21.exe",
+          "source": "Microsoft/",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/tweakuipowertoysetup-19e74ae6.exe"
+      ],
+      "sourcePages": [
+        "oldscool_windows_tools",
+        "Microsoft/"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -1386,6 +1494,46 @@
       "readyCount": 1
     },
     {
+      "key": "professor",
+      "fileName": "aimprofessoraimv3.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://www.cybernyse.com/downlowdz/aimprofessoraimv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimprofessoraimv3.zip",
+          "source": "AIM",
+          "status": "candidate"
+        },
+        {
+          "url": "http://24.185.191.87/progz/aimprofessoraimv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimprofessoraimv3.zip",
+          "source": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.angelfire.com/oh4/soulofkorn/professoraim3.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh4/soulofkorn/professoraim3.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/professoraim3-7c6f9c5a.zip"
+      ],
+      "sourcePages": [
+        "AIM",
+        "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
       "key": "spy",
       "fileName": "aimspy.zip",
       "category": "AIM",
@@ -1436,6 +1584,45 @@
       "readyCount": 1
     },
     {
+      "key": "free",
+      "fileName": "AOL4FREE2.6v4.sit",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "source": "AOL4Free v4",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "source": "AOL4Free v4",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "source": "AOL4Free v4",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/aol4free2-6v4-b594ed05.sit"
+      ],
+      "sourcePages": [
+        "AOL4Free v4"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
       "key": "buddykill",
       "fileName": "buddykill.zip",
       "category": "AIM",
@@ -1444,13 +1631,13 @@
           "url": "http://aimthings.com/aimfilez/buddykill.zip",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/buddykill.zip",
           "source": "Aim Filez",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://aimfilez.com/files/BuddyKill.exe",
@@ -1466,6 +1653,45 @@
         "Aim Filez",
         "LensHell AIM progs",
         "8"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
+      "key": "charmap",
+      "fileName": "CHARMAP.EXE",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/charmap-d85ed7f1.exe"
+      ],
+      "sourcePages": [
+        "oldscool_windows_tools"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -1756,6 +1982,88 @@
       "readyCount": 1
     },
     {
+      "key": "npp-installer",
+      "fileName": "npp.7.9.2.Installer.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/npp-7-9-2-installer-ab546b92.exe"
+      ],
+      "sourcePages": [
+        "oldscool_windows_tools"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
+      "key": "processexplorernt",
+      "fileName": "ProcessExplorerNt.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/processexplorernt-0f29eb58.zip"
+      ],
+      "sourcePages": [
+        "oldscool_windows_tools"
+      ],
+      "externalTextAuthors": [
+        "applicable law"
+      ],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.microsoft.com/exporting"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 3,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
       "key": "remoteidle",
       "fileName": "remoteidle.zip",
       "category": "idler/bot",
@@ -1832,6 +2140,117 @@
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
+      "key": "wincdemu",
+      "fileName": "WinCDEmu-4.1.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/wincdemu-4-1-25f37518.exe"
+      ],
+      "sourcePages": [
+        "oldscool_windows_tools"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
+      "key": "winhex",
+      "fileName": "winhex.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+          "source": "oldscool_windows_tools",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/github-com/winhex-a9100615.zip"
+      ],
+      "sourcePages": [
+        "oldscool_windows_tools"
+      ],
+      "externalTextAuthors": [
+        "Stefan Fleischmann",
+        "this template"
+      ],
+      "externalTextPurposeSignals": [
+        "Punter / booter"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.winhex.com",
+        "http://support.microsoft.com/support/kb/articles/Q153/9/73.asp"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Boot Sector NTFS.txt",
+          "text": "description \"Boot sector of an NTFS partition\""
+        },
+        {
+          "sourceFile": "FAT Directory Entry.txt",
+          "text": "description \"Normal/short entry format\""
+        },
+        {
+          "sourceFile": "FAT LFN Entry.txt",
+          "text": "description \"Long entry format\""
+        },
+        {
+          "sourceFile": "Master Boot Record.txt",
+          "text": "description \"Contains partition table\""
+        },
+        {
+          "sourceFile": "Boot Sector FAT.txt",
+          "text": "description \"BIOS parameter block (BPB) and more\""
+        },
+        {
+          "sourceFile": "POS File Format.txt",
+          "text": "// More detailed description of the POS file format"
+        }
+      ],
+      "externalTextFileCount": 24,
       "mirrorCount": 3,
       "readyCount": 1
     },
@@ -2542,6 +2961,43 @@
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "mixed",
+      "fileName": "mixed.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/mixed.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/mixed.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/mixed-2e564198.zip"
+      ],
+      "sourcePages": [
+        "Visual Basic Section"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3312,6 +3768,58 @@
       "readyCount": 1
     },
     {
+      "key": "acronyms",
+      "fileName": "acronyms.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/acronyms.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/acronyms.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/acronyms-49cfd8f6.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "adult",
+      "fileName": "adult.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/adult.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/adult.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/adult-b49c4372.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Account / TOS utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "blocks",
       "fileName": "aim_blocks.zip",
       "category": "AIM",
@@ -3420,6 +3928,42 @@
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "allpass",
+      "fileName": "allpass.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/allpass.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/allpass.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/allpass-af18cbe0.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "Linker / chat linker",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -3626,6 +4170,54 @@
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "atetris",
+      "fileName": "atetris.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/darkside2/hippiesfromhell/downloads/atetris.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/darkside2/hippiesfromhell/downloads/atetris.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/atetris-c6782d33.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "popular"
+      ],
+      "externalTextPurposeSignals": [
+        "Media / file utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.dddgames.com"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "FILE_ID.DIZ",
+          "text": "THIS PROGRAM IS ABSOLUTELY FREE!"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "NOTICE: THIS PROGRAM IS DISTRIBUTED AS IS. DISTRIBUTION IS ONLY ALLOWED BY"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "THE ORIGINAL SELF-EXTRACTING ZIP FILE. THIS PROGRAM IS ABSOLUTELY FREE. NO"
+        },
+        {
+          "sourceFile": "ATET.TXT",
+          "text": "YOU, YOUR COMPUTER, OR ANYTHING BY THIS PROGRAM."
+        }
+      ],
+      "externalTextFileCount": 2,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -3865,6 +4457,33 @@
       "readyCount": 1
     },
     {
+      "key": "boisccom",
+      "fileName": "boisccom.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
+          "source": "c-coms",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/lenshellarchive-com/boisccom-65de3544.zip"
+      ],
+      "sourcePages": [
+        "c-coms"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "bookscrolls",
       "fileName": "bookscrolls.zip",
       "category": "chat/macro",
@@ -3878,6 +4497,31 @@
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/bookscrolls.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "bootlegs",
+      "fileName": "bootlegs.zip",
+      "category": "punter/booter",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/rock/llsp/alanis/letras/bootlegs.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rock/llsp/alanis/letras/bootlegs.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/bootlegs-510d2a17.zip"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -3942,6 +4586,39 @@
       "readyCount": 1
     },
     {
+      "key": "c-o-m-m-o-n",
+      "fileName": "c_o_m_m_o_n.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/c_o_m_m_o_n.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/c_o_m_m_o_n.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/c-o-m-m-o-n-1c08a0f3.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "caeo-rama",
       "fileName": "caeo_programa.zip",
       "category": "unknown",
@@ -3955,6 +4632,31 @@
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/caeo-programa.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "cerberus",
+      "fileName": "cerberus.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/oh5/darkside/proggies/cerberus.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh5/darkside/proggies/cerberus.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/cerberus-9cd12720.zip"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -4324,6 +5026,89 @@
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "darkscanner",
+      "fileName": "darkscanner.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/darkscanner.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/darkscanner.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/darkscanner-7d48a437.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "dazed",
+      "fileName": "dazed.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/dazed.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/dazed.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/dazed-901646c9.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "default-passwords",
+      "fileName": "default_passwords.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/default_passwords.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/default_passwords.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/default-passwords-688998ff.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -5179,6 +5964,81 @@
       "readyCount": 1
     },
     {
+      "key": "googleplex",
+      "fileName": "googleplex.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.fortunecity.com/skyscraper/terminus/188/Steel/googleplex.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/Steel/googleplex.zip",
+          "source": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/fortunecity-com/googleplex-31481c8a.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "google-bar",
+      "fileName": "googletoolbar.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/ct3/sir_mac/programs/googletoolbar.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ct3/sir_mac/programs/googletoolbar.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/googletoolbar-779499c7.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "hacker",
+      "fileName": "hacker.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/hacker.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/hacker.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/hacker-ed0d3167.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "hackers-crackdown",
       "fileName": "hackers_crackdown.zip",
       "category": "hazardous/account or remote-control context",
@@ -5292,6 +6152,31 @@
         }
       ],
       "externalTextFileCount": 2,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "hotmail",
+      "fileName": "hotmail.zip",
+      "category": "mass mailer/server",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/mech/baka/hotmail.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mech/baka/hotmail.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/hotmail-32de8c7e.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -5961,6 +6846,33 @@
       "readyCount": 1
     },
     {
+      "key": "metallicapass",
+      "fileName": "metallicapass.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/metallicapass.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/metallicapass.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/metallicapass-19034e53.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "mikes-ram",
       "fileName": "mikesprogram.zip",
       "category": "unknown",
@@ -6035,6 +6947,31 @@
         }
       ],
       "externalTextFileCount": 3,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "mod",
+      "fileName": "mod.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/mod.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mod.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/mod-781c1d58.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -6440,6 +7377,31 @@
       "readyCount": 1
     },
     {
+      "key": "nicscanner",
+      "fileName": "nicscanner.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/nicscanner.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/nicscanner.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/nicscanner-054c3755.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "oh-scroller",
       "fileName": "oh_scroller.zip",
       "category": "chat/macro",
@@ -6515,6 +7477,31 @@
       "readyCount": 1
     },
     {
+      "key": "othello",
+      "fileName": "othello.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/realm/mattsblurb/othello/othello.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/realm/mattsblurb/othello/othello.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/othello-5499173a.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "othelloexe",
       "fileName": "othelloexe.zip",
       "category": "unknown",
@@ -6565,6 +7552,52 @@
       "readyCount": 1
     },
     {
+      "key": "patchworx",
+      "fileName": "patchworx2.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/oh5/darkside/proggies/patchworx2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/oh5/darkside/proggies/patchworx2.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/patchworx2-bf983f0b.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "Archon of The Black Hand"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.theblackhand.net"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Automatic Update Notification - program will tell you when a new version is available."
+        },
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Version Independance (patches work on all builds)"
+        },
+        {
+          "sourceFile": "Patchworx2/readme.txt",
+          "text": "- Version/Build checking for Offset-based Patches"
+        }
+      ],
+      "externalTextFileCount": 3,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "photoshopfix",
       "fileName": "photoshopfix.zip",
       "category": "unknown",
@@ -6582,6 +7615,37 @@
       "sourcePages": [],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "phrases",
+      "fileName": "phrases.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/phrases.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/phrases.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/phrases-7cb6823a.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "Mass mailer / server",
+        "Account / TOS utility"
+      ],
       "externalTextVersions": [],
       "externalTextUrls": [],
       "externalTextDescriptions": [],
@@ -6707,6 +7771,33 @@
           "text": "mIRC Version(s): v5.41 and above."
         }
       ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "propernouns",
+      "fileName": "propernouns.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/propernouns.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/propernouns.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/propernouns-0c83dd72.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "C-Com / command list"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
       "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
@@ -6854,6 +7945,37 @@
       "readyCount": 1
     },
     {
+      "key": "random",
+      "fileName": "random.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/random.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/random.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/random-5e2e7710.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "ravehitter-serverlist",
       "fileName": "ravehitter1.0serverlist.zip",
       "category": "unknown",
@@ -6892,6 +8014,31 @@
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/regocx.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "regserv",
+      "fileName": "regserv.zip",
+      "category": "mass mailer/server",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/scifi/virtest/docsmail/regserv.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/virtest/docsmail/regserv.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/regserv-1c2c60bb.zip"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -6952,6 +8099,31 @@
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "roomgen",
+      "fileName": "roomgen.zip",
+      "category": "room buster",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/rpg2/kso/dnd/dmfiles/roomgen.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rpg2/kso/dnd/dmfiles/roomgen.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/roomgen-f78efcd0.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 2,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -7112,7 +8284,7 @@
           "text": "56./renwin now allows you to change the window name even if it's the"
         }
       ],
-      "externalTextFileCount": 59,
+      "externalTextFileCount": 47,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -7327,6 +8499,31 @@
       "readyCount": 1
     },
     {
+      "key": "setupnu",
+      "fileName": "setupnu.zip",
+      "category": "mass mailer/server",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/scifi/virtest/docsmail/setupnu.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/virtest/docsmail/setupnu.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/setupnu-3e414348.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "shell",
       "fileName": "shell.zip",
       "category": "unknown",
@@ -7476,6 +8673,106 @@
       "sourcePages": [
         "8"
       ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "smokin",
+      "fileName": "smokin37.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/smokin37.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/smokin37.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/smokin37-b040802e.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "smoothcracken",
+      "fileName": "smoothcracken1.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/smoothcracken1.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/smoothcracken1.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/smoothcracken1-6f04cfec.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "snc-tallocx",
+      "fileName": "snc_tallocx.zip",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/ab/phenzrunaway/snc_tallocx.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ab/phenzrunaway/snc_tallocx.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/snc-tallocx-42ca234a.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "snc-wideocx",
+      "fileName": "snc_wideocx.zip",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/ab/phenzrunaway/snc_wideocx.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ab/phenzrunaway/snc_wideocx.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/snc-wideocx-dedc6a2a.zip"
+      ],
+      "sourcePages": [],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
       "externalTextVersions": [],
@@ -7967,6 +9264,44 @@
       "readyCount": 1
     },
     {
+      "key": "text-cricket",
+      "fileName": "text_cricket.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/text_cricket.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/text_cricket.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/text-cricket-5c7ec3a4.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "BEN LEED"
+      ],
+      "externalTextPurposeSignals": [
+        "Media / file utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Text Cricket Readme.txt",
+          "text": "Be sure to have played atleast one game for this feature to work!"
+        },
+        {
+          "sourceFile": "Text Cricket Readme.txt",
+          "text": "This feature allows you to select what bowler bowls each over"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "topazchat",
       "fileName": "topazchat.zip",
       "category": "chat/macro",
@@ -8143,6 +9478,34 @@
       "readyCount": 1
     },
     {
+      "key": "trivquiz",
+      "fileName": "trivquiz.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/trivquiz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/trivquiz.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/trivquiz-72f09a48.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "BEN LEED",
+        "4 and so on"
+      ],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "ts-server-fix",
       "fileName": "ts_server_fix_v0.1.0.zip",
       "category": "unknown",
@@ -8189,6 +9552,38 @@
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "unriged-beta",
+      "fileName": "unriged_beta.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/unriged_beta.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/unriged_beta.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/unriged-beta-64af0f5f.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "BEN LEED"
+      ],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Unriged Beta Readme.txt",
+          "text": "*This is only a beta version*"
+        }
+      ],
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -8356,7 +9751,7 @@
           "text": "maketextareacode(\"Description You may use HTML\",\"description\");"
         }
       ],
-      "externalTextFileCount": 59,
+      "externalTextFileCount": 47,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -10567,56 +11962,6 @@
       "readyCount": 0
     },
     {
-      "key": "autoruns",
-      "fileName": "autoruns.exe",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
-          "source": "oldscool_windows_tools",
-          "status": "html-replay"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "http://am.net/lib/TOOLS/Misc/autoruns61.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/autoruns61.zip",
-          "source": "Misc/",
-          "status": "candidate"
-        },
-        {
-          "url": "http://am.net/lib/TOOLS/Misc/Autoruns934.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/Autoruns934.zip",
-          "source": "Misc/",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "oldscool_windows_tools",
-        "Misc/"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 5,
-      "readyCount": 0
-    },
-    {
       "key": "dos",
       "fileName": "dos32.zip",
       "category": "unknown",
@@ -11726,50 +13071,6 @@
       "readyCount": 0
     },
     {
-      "key": "tweakuipowertoysetup",
-      "fileName": "TweakUiPowertoySetup.exe",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "http://am.net/lib/TOOLS/Microsoft/TweakUiPowertoySetup21.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/TweakUiPowertoySetup21.exe",
-          "source": "Microsoft/",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "oldscool_windows_tools",
-        "Microsoft/"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 4,
-      "readyCount": 0
-    },
-    {
       "key": "web-ica-e",
       "fileName": "Web_ica32e6.01.964.exe",
       "category": "unknown",
@@ -12153,7 +13454,7 @@
           "url": "http://www.aol-progz.com/files/aim/aimbulletscroller.zip",
           "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimbulletscroller.zip",
           "source": "AIM Progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -12192,7 +13493,7 @@
           "url": "http://www.aol-progz.com/files/aim/aimburninginside.zip",
           "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimburninginside.zip",
           "source": "AIM Progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -12445,43 +13746,6 @@
       "readyCount": 0
     },
     {
-      "key": "free",
-      "fileName": "AOL4FREE2.6v4.sit",
-      "category": "AOL/AIM client installer",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "source": "AOL4Free v4",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "source": "AOL4Free v4",
-          "status": "html-replay"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "source": "AOL4Free v4",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "AOL4Free v4"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 3,
-      "readyCount": 0
-    },
-    {
       "key": "blackice",
       "fileName": "blackice.zip",
       "category": "unknown",
@@ -12490,19 +13754,19 @@
           "url": "http://server38.hypermart.net/progstation/blackice.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/blackice.zip",
           "source": "APPLICATIONS",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/blackice1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackice1.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://progstation.hypermart.net/blackice.zip",
           "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/blackice.zip",
           "source": "http://progstation.hypermart.net/",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -12529,19 +13793,19 @@
           "url": "http://lenshellarchive.com/VBfiles/botz2.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/botz2.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/VBfiles/botz40.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/botz40.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/VBfiles/botz40v2.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/botz40v2.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -12578,7 +13842,7 @@
           "url": "http://www.aol-progz.com/files/aim/byrdfader.zip",
           "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/byrdfader.zip",
           "source": "AIM Progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -12625,43 +13889,6 @@
         "LensHell AIM progs",
         "AIM",
         "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 3,
-      "readyCount": 0
-    },
-    {
-      "key": "charmap",
-      "fileName": "CHARMAP.EXE",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "oldscool_windows_tools"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -12874,19 +14101,19 @@
           "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
           "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
           "source": "Legacy AOL Underground repository",
-          "status": "candidate"
+          "status": "invalid-archive"
         },
         {
           "url": "https://github.com/mikrodotnet/aol-progz/blob/main/exe_strings.db.zip",
           "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/exe_strings.db.zip",
           "source": "mikrodotnet AOL progz repository",
-          "status": "candidate"
+          "status": "invalid-archive"
         },
         {
           "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
           "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
           "source": "ssstonebraker/aolunderground-proggies",
-          "status": "candidate"
+          "status": "invalid-archive"
         }
       ],
       "readyLocalFiles": [],
@@ -13254,61 +14481,24 @@
           "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
           "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
           "source": "other",
-          "status": "candidate"
+          "status": "invalid-archive"
         },
         {
           "url": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
           "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
           "source": "other",
-          "status": "candidate"
+          "status": "invalid-archive"
         },
         {
           "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/other/nfos.zip",
           "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/other/nfos.zip",
           "source": "other",
-          "status": "candidate"
+          "status": "invalid-archive"
         }
       ],
       "readyLocalFiles": [],
       "sourcePages": [
         "other"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 3,
-      "readyCount": 0
-    },
-    {
-      "key": "npp-installer",
-      "fileName": "npp.7.9.2.Installer.exe",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "oldscool_windows_tools"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -13459,43 +14649,6 @@
         "Section 2",
         "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
         "prog's/misc n-z"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 3,
-      "readyCount": 0
-    },
-    {
-      "key": "processexplorernt",
-      "fileName": "ProcessExplorerNt.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "oldscool_windows_tools"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -13914,80 +15067,6 @@
       "readyLocalFiles": [],
       "sourcePages": [
         "OpenSSL/"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 3,
-      "readyCount": 0
-    },
-    {
-      "key": "wincdemu",
-      "fileName": "WinCDEmu-4.1.exe",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "oldscool_windows_tools"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 3,
-      "readyCount": 0
-    },
-    {
-      "key": "winhex",
-      "fileName": "winhex.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
-          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
-          "source": "oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "oldscool_windows_tools"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -16113,38 +17192,6 @@
       "readyCount": 0
     },
     {
-      "key": "professor",
-      "fileName": "aimprofessoraimv3.zip",
-      "category": "AIM",
-      "mirrors": [
-        {
-          "url": "http://www.cybernyse.com/downlowdz/aimprofessoraimv3.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimprofessoraimv3.zip",
-          "source": "AIM",
-          "status": "candidate"
-        },
-        {
-          "url": "http://24.185.191.87/progz/aimprofessoraimv3.zip",
-          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimprofessoraimv3.zip",
-          "source": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "AIM",
-        "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 2,
-      "readyCount": 0
-    },
-    {
       "key": "havoks",
       "fileName": "aimproghavoksaimprog.zip",
       "category": "AIM",
@@ -16981,13 +18028,13 @@
           "url": "http://lenshellarchive.com/Progs/vbxdll/brutoc.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/brutoc.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/brutoc3.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/brutoc3.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -17012,13 +18059,13 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/buddahlag301.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/buddahlag301.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/buddahlag2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/buddahlag2.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -18223,6 +19270,35 @@
         "APPLICATIONS",
         "http://progstation.hypermart.net/"
       ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "fotos",
+      "fileName": "fotos.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/theforce/dutchmarine/fotos.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/theforce/dutchmarine/fotos.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "out-of-scope"
+        },
+        {
+          "url": "http://www.angelfire.com/theforce/dutchmarine/fotos2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/theforce/dutchmarine/fotos2.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "out-of-scope"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
       "externalTextVersions": [],
@@ -22035,6 +23111,29 @@
       "readyCount": 0
     },
     {
+      "key": "ottos-song",
+      "fileName": "01-%20ottos%20song%201.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/rock4/ottorockit/media/01-%20ottos%20song%201.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rock4/ottorockit/media/01-%20ottos%20song%201.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "out-of-scope"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "botbooter",
       "fileName": "10botbooter.zip",
       "category": "punter/booter",
@@ -22068,7 +23167,7 @@
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/123buddylink.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/123buddylink.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -26885,7 +27984,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/bdas2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bdas2.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -26935,7 +28034,7 @@
           "url": "http://lenshellarchive.com/Progs/aolidlers/bedtime.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bedtime.zip",
           "source": "idler's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27110,7 +28209,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/biestly.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/biestly.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27160,7 +28259,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/biobeast.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/biobeast.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27210,7 +28309,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/bl.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bl.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27260,7 +28359,7 @@
           "url": "http://lenshellarchive.com/VBfiles/blackrosebas.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/blackrosebas.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27285,7 +28384,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/blackultra.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackultra.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27310,7 +28409,7 @@
           "url": "http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip",
           "source": "idler's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27335,7 +28434,7 @@
           "url": "http://lenshellarchive.com/Progs/aolidlers/blazeidler.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidler.zip",
           "source": "idler's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27360,7 +28459,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/blc40156.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blc40156.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27435,7 +28534,7 @@
           "url": "http://lenshellarchive.com/Progs/aolmmservers/blizsvr.zip",
           "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blizsvr.zip",
           "source": "mmer's/server's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27485,7 +28584,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/blkmgcv1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blkmgcv1.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27560,7 +28659,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/blueicepxer.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/blueicepxer.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27610,7 +28709,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/bmr.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bmr.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27685,37 +28784,12 @@
           "url": "http://lenshellarchive.com/VBfiles/bofen32.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/bofen32.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "boisccom",
-      "fileName": "boisccom.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
-          "source": "c-coms",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "c-coms"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -27735,7 +28809,7 @@
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/bolt.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/bolt.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27810,7 +28884,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/bonebuster.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bonebuster.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27885,7 +28959,7 @@
           "url": "http://progstation.hypermart.net/bookofguests.zip",
           "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/bookofguests.zip",
           "source": "http://progstation.hypermart.net/",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27960,7 +29034,7 @@
           "url": "http://lenshellarchive.com/Progs/aimprogs/punters/bootmanv1.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/bootmanv1.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -27985,7 +29059,7 @@
           "url": "http://lenshellarchive.com/Progs/yahooprogs/booters/bootshop.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/bootshop.zip",
           "source": "Yahoo Progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28035,7 +29109,7 @@
           "url": "http://aimthings.com/aimfilez/BotConfig.zip",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip",
           "source": "Aim Filez",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28060,7 +29134,7 @@
           "url": "http://aimthings.com/aimfilez/botformat.zip",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/botformat.zip",
           "source": "Aim Filez",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28085,7 +29159,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/bproom1.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bproom1.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28110,7 +29184,7 @@
           "url": "http://lenshellarchive.com/VBfiles/brbas2003.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/brbas2003.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28210,7 +29284,7 @@
           "url": "http://lenshellarchive.com/Progs/vbxdll/bruaol.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/bruaol.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28235,7 +29309,7 @@
           "url": "http://lenshellarchive.com/Progs/aolidlers/buddahidle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/buddahidle.zip",
           "source": "idler's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28260,7 +29334,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/buddahpwgen.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/buddahpwgen.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28385,7 +29459,7 @@
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/buddymax.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/buddymax.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28410,7 +29484,7 @@
           "url": "http://aimthings.com/aimfilez/BuddyRankMod.zip",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BuddyRankMod.zip",
           "source": "Aim Filez",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28460,7 +29534,7 @@
           "url": "http://aimthings.com/aimfilez/buddytell.zip",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/buddytell.zip",
           "source": "Aim Filez",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28535,7 +29609,7 @@
           "url": "http://aimthings.com/aimfilez/BullShit.exe",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BullShit.exe",
           "source": "Aim Filez",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28585,7 +29659,7 @@
           "url": "http://lenshellarchive.com/Progs/aimprogs/busters/bustamove111.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/bustamove111.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28610,7 +29684,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/bustaroom40.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bustaroom40.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28635,7 +29709,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/BustARoomStellar2008.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/BustARoomStellar2008.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28660,7 +29734,7 @@
           "url": "http://lenshellarchive.com/Progs/aolbusters/bustazz.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bustazz.zip",
           "source": "buster's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28685,7 +29759,7 @@
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/bustdatshit.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/bustdatshit.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -28760,7 +29834,7 @@
           "url": "http://lenshellarchive.com/Progs/aolprogs/c10collector.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/c10collector.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -38300,6 +39374,29 @@
       "readyCount": 0
     },
     {
+      "key": "gradpics",
+      "fileName": "gradpics.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/bc/chatalot/images/gradpics.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/bc/chatalot/images/gradpics.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "out-of-scope"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "grainofkokane",
       "fileName": "grainofkokane.zip",
       "category": "AIM",
@@ -38958,7 +40055,7 @@
           "url": "http://lenshellarchive.com/Progs/aimprogs/punters/hippo.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/hippo.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -41340,6 +42437,29 @@
       "sourcePages": [
         "HTML/CGI Code"
       ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "jk-crack",
+      "fileName": "jk2%20crack.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://www.angelfire.com/blog/echopowerwhtc/jk2%20crack.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/blog/echopowerwhtc/jk2%20crack.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "invalid-archive"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
       "externalTextVersions": [],
@@ -44382,31 +45502,6 @@
         {
           "url": "http://lenshellarchive.com/VBfiles/misfitaim.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/misfitaim.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Visual Basic Section"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "mixed",
-      "fileName": "mixed.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/mixed.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
           "source": "Visual Basic Section",
           "status": "candidate"
         }
@@ -53731,7 +54826,7 @@
           "url": "https://releases.stackql.io/stackql/latest/stackql_linux_amd64.zip",
           "waybackUrl": "https://releases.stackql.io/stackql/latest/stackql_linux_amd64.zip",
           "source": "StackQL MCP Server",
-          "status": "candidate"
+          "status": "out-of-scope"
         }
       ],
       "readyLocalFiles": [],
@@ -53756,7 +54851,7 @@
           "url": "https://releases.stackql.io/stackql/latest/stackql_windows_amd64.zip",
           "waybackUrl": "https://releases.stackql.io/stackql/latest/stackql_windows_amd64.zip",
           "source": "StackQL MCP Server",
-          "status": "candidate"
+          "status": "out-of-scope"
         }
       ],
       "readyLocalFiles": [],
