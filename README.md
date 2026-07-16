@@ -6,13 +6,38 @@
 idlers, scrollers, bots, source packs, old download mirrors, screenshots, and
 scene links.**
 
-![catalog](https://img.shields.io/badge/catalog-2,139%20apps-18d5d1)
-![files](https://img.shields.io/badge/mirrored%20files-1,672-64dc8a)
-![size](https://img.shields.io/badge/local%20archive-2.2GB-ffd34d)
-![links](https://img.shields.io/badge/crawled%20links-6,707-7aa8ff)
-![downloads](https://img.shields.io/badge/download%20links-3,450-ff5b8f)
-![web-downloads](https://img.shields.io/badge/web%20download%20matches-2,007-bb8cff)
-![docs](https://img.shields.io/badge/generated%20docs-3,000%2B-lightgrey)
+<p align="center">
+  <a href="docs/generated/applications/all-programs-detailed.md">
+    <img alt="Catalog: 2,139 apps" src="https://img.shields.io/badge/catalog-2%2C139%20apps-18D5D1?style=for-the-badge&labelColor=101820">
+  </a>
+  <a href="files/">
+    <img alt="Mirrored files: 1,672" src="https://img.shields.io/badge/mirrored%20files-1%2C672-64DC8A?style=for-the-badge&labelColor=101820">
+  </a>
+  <a href="docs/generated/statistics.md">
+    <img alt="Local archive size: 2.2 GB" src="https://img.shields.io/badge/local%20archive-2.2%20GB-FFD34D?style=for-the-badge&labelColor=101820">
+  </a>
+</p>
+
+<p align="center">
+  <a href="docs/generated/sources/all-links.md">
+    <img alt="Master links: 14,870 URLs" src="https://img.shields.io/badge/master%20links-14%2C870%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
+  </a>
+  <a href="docs/generated/sources/download-links.md">
+    <img alt="Crawled download links: 3,450" src="https://img.shields.io/badge/crawled%20downloads-3%2C450-FF5B8F?style=for-the-badge&labelColor=101820">
+  </a>
+  <a href="docs/generated/applications/all-program-downloads.md">
+    <img alt="Web download matches: 2,007" src="https://img.shields.io/badge/web%20matches-2%2C007-BB8CFF?style=for-the-badge&labelColor=101820">
+  </a>
+</p>
+
+<p align="center">
+  <a href="docs/generated/README.md">
+    <img alt="Generated docs: 3,000 plus pages" src="https://img.shields.io/badge/generated%20docs-3%2C000%2B-E7EDF7?style=for-the-badge&labelColor=101820">
+  </a>
+  <a href="ARCHIVE-SAFETY.md">
+    <img alt="Historical archive safety note" src="https://img.shields.io/badge/historical%20archive-safe%20VM%20recommended-F4A261?style=for-the-badge&labelColor=101820">
+  </a>
+</p>
 
 </div>
 
