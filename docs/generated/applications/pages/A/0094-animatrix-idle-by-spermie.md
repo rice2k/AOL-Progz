@@ -50,11 +50,13 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local catalog mirror |
-| Manual review flags | no screenshot or image lead |
+| Review priority | low (2) |
+| Manual review flags | no old-web download or mirror lead |
+| Next research action | Search source link directories and Wayback for an original download URL. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

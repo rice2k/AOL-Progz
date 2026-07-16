@@ -50,11 +50,13 @@ A screen-name checker, scanner, maker, or related identity-management utility.
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | unknown |
 | Source confidence | old-web lead |
-| Manual review flags | main local file missing, no screenshot or image lead, no readable text evidence |
+| Review priority | medium (5) |
+| Manual review flags | main local file missing |
+| Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#screen-name-tool](../../../tags/screen-name-tool.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#screen-name-tool](../../../tags/screen-name-tool.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

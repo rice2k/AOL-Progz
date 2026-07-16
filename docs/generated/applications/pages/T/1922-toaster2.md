@@ -50,11 +50,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category confidence | needs review |
 | AOL/version confidence | unknown |
 | Source confidence | catalog metadata only |
-| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no readable text evidence |
+| Review priority | high (17) |
+| Manual review flags | main local file missing, category uncertain, type uncertain, author unknown, no old-web download or mirror lead, web image lead needs screenshot match |
+| Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

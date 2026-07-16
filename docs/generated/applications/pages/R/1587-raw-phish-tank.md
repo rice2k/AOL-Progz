@@ -50,11 +50,13 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | sensitive historical category, no readable text evidence |
+| Review priority | medium (6) |
+| Manual review flags | no readable text evidence, web image lead needs screenshot match, sensitive historical category |
+| Next research action | Match the web image lead to the correct program page or screenshot entry. |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb4-32](../../../tags/vb4-32.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 

@@ -50,11 +50,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | filename/source inferred |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, no readable text evidence |
+| Review priority | medium (6) |
+| Manual review flags | author unknown, no readable text evidence, web image lead needs screenshot match |
+| Next research action | Match the web image lead to the correct program page or screenshot entry. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 

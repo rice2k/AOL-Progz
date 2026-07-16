@@ -50,11 +50,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | external mirror |
-| Manual review flags | author unknown, main local file missing, no screenshot or image lead |
+| Review priority | high (10) |
+| Manual review flags | main local file missing, author unknown, matched external ZIP text to verify |
+| Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

@@ -50,11 +50,13 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
+| Review priority | medium (4) |
+| Manual review flags | author unknown, no readable text evidence |
+| Next research action | Search readmes, NFOs, source comments, and old-page text for an author clue. |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 

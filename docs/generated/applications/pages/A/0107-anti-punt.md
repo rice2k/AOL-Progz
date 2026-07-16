@@ -50,11 +50,13 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | no screenshot or image lead, sensitive historical category |
+| Review priority | low (3) |
+| Manual review flags | sensitive historical category |
+| Next research action | Review metadata when more source evidence is found. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md) [#review-low-priority](../../../tags/review-low-priority.md)
 
 ## Source And Files
 

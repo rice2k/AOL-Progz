@@ -50,11 +50,13 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | old-web lead |
-| Manual review flags | main local file missing, no screenshot or image lead, no readable text evidence |
+| Review priority | medium (5) |
+| Manual review flags | main local file missing |
+| Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 

@@ -50,11 +50,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local catalog mirror |
-| Manual review flags | category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
+| Review priority | high (10) |
+| Manual review flags | category uncertain, type uncertain, no old-web download or mirror lead, no readable text evidence |
+| Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 

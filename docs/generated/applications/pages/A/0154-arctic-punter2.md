@@ -50,11 +50,13 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
+| Review priority | medium (7) |
+| Manual review flags | author unknown, no readable text evidence, sensitive historical category |
+| Next research action | Search readmes, NFOs, source comments, and old-page text for an author clue. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

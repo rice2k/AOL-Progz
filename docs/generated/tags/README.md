@@ -5,14 +5,16 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | Tag | Count | Page |
 | --- | --- | --- |
 | #duplicate-metadata | 2139 | [open](duplicate-metadata.md) |
-| #needs-manual-review | 2138 | [open](needs-manual-review.md) |
 | #aol | 2119 | [open](aol.md) |
 | #has-old-web-downloads | 2009 | [open](has-old-web-downloads.md) |
+| #needs-manual-review | 1946 | [open](needs-manual-review.md) |
 | #aol-4-0 | 1746 | [open](aol-4-0.md) |
 | #file-ready | 1672 | [open](file-ready.md) |
 | #uncategorized | 1596 | [open](uncategorized.md) |
+| #review-high-priority | 1288 | [open](review-high-priority.md) |
 | #compile-native | 865 | [open](compile-native.md) |
 | #vb6 | 739 | [open](vb6.md) |
+| #review-medium-priority | 658 | [open](review-medium-priority.md) |
 | #file-remote-only | 467 | [open](file-remote-only.md) |
 | #has-readme-purpose-clues | 324 | [open](has-readme-purpose-clues.md) |
 | #vb5 | 317 | [open](vb5.md) |
@@ -21,6 +23,7 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | #mixedunknown | 199 | [open](mixedunknown.md) |
 | #has-embedded-urls | 170 | [open](has-embedded-urls.md) |
 | #idler-or-bot | 170 | [open](idler-or-bot.md) |
+| #review-low-priority | 158 | [open](review-low-priority.md) |
 | #vb3 | 144 | [open](vb3.md) |
 | #has-readme-aol-version-clues | 106 | [open](has-readme-aol-version-clues.md) |
 | #all-in-one-prog | 79 | [open](all-in-one-prog.md) |

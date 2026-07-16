@@ -50,11 +50,13 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | external mirror |
-| Manual review flags | main local file missing, no screenshot or image lead |
+| Review priority | medium (7) |
+| Manual review flags | main local file missing, matched external ZIP text to verify |
+| Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 

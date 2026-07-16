@@ -50,11 +50,13 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | filename/source inferred |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, sensitive historical category, no readable text evidence |
+| Review priority | high (9) |
+| Manual review flags | author unknown, no readable text evidence, web image lead needs screenshot match, sensitive historical category |
+| Next research action | Match the web image lead to the correct program page or screenshot entry. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#review-high-priority](../../../tags/review-high-priority.md)
 
 ## Source And Files
 

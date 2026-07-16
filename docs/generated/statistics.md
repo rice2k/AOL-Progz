@@ -103,7 +103,10 @@
 | Recovered missing candidates | 306 |
 | Master deduped link index | 28564 |
 | Deduped original/download URLs | 9621 |
-| Programs needing manual review | 2138 |
+| Programs needing manual review | 1946 |
+| High-priority review entries | 1288 |
+| Medium-priority review entries | 658 |
+| Low-priority coverage-gap entries | 158 |
 | Runtime DLL/OCX leads | 42 |
 | DeadAIM/AIM enhancer leads | 172 |
 | AOL utility/client leads | 32 |

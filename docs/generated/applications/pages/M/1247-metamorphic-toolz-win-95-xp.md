@@ -50,11 +50,13 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | filename/source inferred |
 | Source confidence | local catalog mirror |
-| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
+| Review priority | medium (4) |
+| Manual review flags | author unknown, no old-web download or mirror lead, no readable text evidence |
+| Next research action | Search source link directories and Wayback for an original download URL. |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 

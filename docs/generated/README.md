@@ -24,7 +24,9 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 | Programs with archive-text AOL/version clues | 106 |
 | Programs with matched external ZIP text evidence | 48 |
 | Programs with author conflicts flagged | 12 |
-| Programs needing manual review | 2138 |
+| Programs needing manual review | 1946 |
+| High-priority review entries | 1288 |
+| Medium-priority review entries | 658 |
 | Crawled source pages | 1200 |
 | Crawled unique links | 16796 |
 | Crawled download links | 5147 |
@@ -51,6 +53,8 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 - [Metadata confidence report](applications/metadata-confidence.md)
 - [Author conflicts](applications/author-conflicts.md)
 - [Needs manual review](applications/needs-manual-review.md)
+- [Research priority queue](applications/research-priority.md)
+- [Coverage gaps](applications/coverage-gaps.md)
 - [Timeline](applications/timeline.md)
 - [Categories](categories/README.md)
 - [Prog type index](categories/type-index.md)
@@ -62,6 +66,8 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 - [Original download URLs](sources/original-download-urls.md)
 - [Recovered files](sources/recovered-files.md)
 - [Top source sites](sources/top-source-sites.md)
+- [Source deep dives](sources/source-deep-dives.md)
+- [LensHell category report](sources/lenshell-categories.md)
 - [Recovered missing candidates](sources/missing-ready.md)
 - [Runtime files](sources/runtime-files.md)
 - [DeadAIM and AIM enhancers](sources/deadaim-aim-enhancers.md)

@@ -50,11 +50,13 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | catalog metadata only |
-| Manual review flags | main local file missing, no screenshot or image lead, sensitive historical category, no readable text evidence |
+| Review priority | high (10) |
+| Manual review flags | main local file missing, no old-web download or mirror lead, sensitive historical category |
+| Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 

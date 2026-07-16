@@ -50,11 +50,13 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | filename/source inferred |
 | Source confidence | local catalog mirror |
-| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
+| Review priority | medium (6) |
+| Manual review flags | no old-web download or mirror lead, no readable text evidence, sensitive historical category |
+| Next research action | Search source link directories and Wayback for an original download URL. |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#vb6](../../../tags/vb6.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

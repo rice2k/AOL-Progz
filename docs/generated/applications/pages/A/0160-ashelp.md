@@ -50,11 +50,13 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | none |
+| Review priority | low (2) |
+| Manual review flags | web image lead needs screenshot match |
+| Next research action | Match the web image lead to the correct program page or screenshot entry. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#review-low-priority](../../../tags/review-low-priority.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 

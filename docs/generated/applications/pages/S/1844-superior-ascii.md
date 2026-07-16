@@ -50,11 +50,13 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | old-web lead |
-| Manual review flags | author unknown, main local file missing, no screenshot or image lead, no readable text evidence |
+| Review priority | high (8) |
+| Manual review flags | main local file missing, author unknown |
+| Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 

@@ -44,5 +44,7 @@ Every main catalog entry has a generated detail page with metadata, category not
 - [Metadata confidence report](metadata-confidence.md)
 - [Author conflicts](author-conflicts.md)
 - [Needs manual review](needs-manual-review.md)
+- [Research priority queue](research-priority.md)
+- [Coverage gaps](coverage-gaps.md)
 - [Timeline](timeline.md)
 - [Compact all applications table](all-applications.md)

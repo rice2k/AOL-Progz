@@ -50,11 +50,13 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
+| Review priority | medium (4) |
+| Manual review flags | author unknown, no readable text evidence |
+| Next research action | Search readmes, NFOs, source comments, and old-page text for an author clue. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

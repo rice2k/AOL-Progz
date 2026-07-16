@@ -50,11 +50,13 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
+| Review priority | medium (4) |
+| Manual review flags | author unknown, no readable text evidence |
+| Next research action | Search readmes, NFOs, source comments, and old-page text for an author clue. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 

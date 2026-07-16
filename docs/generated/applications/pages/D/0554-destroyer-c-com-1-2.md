@@ -50,11 +50,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category confidence | external ZIP text |
 | AOL/version confidence | unknown |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, no screenshot or image lead |
+| Review priority | medium (5) |
+| Manual review flags | author unknown, matched external ZIP text to verify |
+| Next research action | Open the external ZIP text evidence page and promote reliable author/version/purpose clues. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
+[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 

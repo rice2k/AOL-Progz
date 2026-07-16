@@ -214,7 +214,11 @@ function appTags(program, embeddedUrls) {
   if (enrichment.archiveAolVersions?.length) tags.add("has-readme-aol-version-clues");
   if (enrichment.externalArchiveTextEvidence?.length) tags.add("has-external-zip-text-evidence");
   if (enrichment.webDownloadLinks?.length) tags.add("has-old-web-downloads");
-  if (manualReviewReasons(program).length) tags.add("needs-manual-review");
+  const review = reviewProfile(program);
+  if (review.score >= 4) tags.add("needs-manual-review");
+  if (review.score >= 8) tags.add("review-high-priority");
+  else if (review.score >= 4) tags.add("review-medium-priority");
+  else if (review.score > 0) tags.add("review-low-priority");
   return [...tags].sort();
 }
 
@@ -420,17 +424,78 @@ function confidenceLabel(program, field) {
 }
 
 function manualReviewReasons(program) {
+  return reviewProfile(program).reasons;
+}
+
+function reviewProfile(program) {
   const enrichment = enrichmentFor(program);
+  const evidence = {
+    oldWeb: enrichment.webDownloadLinks?.length || 0,
+    mirrors: enrichment.mirrorLinks?.length || 0,
+    webMentions: enrichment.webMentions?.length || 0,
+    webImages: enrichment.webImageLinks?.length || 0,
+    archiveText: enrichment.archiveTextFiles?.length || 0,
+    externalText: enrichment.externalArchiveTextEvidence?.length || 0,
+    screenshots: program.screenshotCount || 0,
+  };
   const reasons = [];
-  if (!primaryAuthor(program)) reasons.push("author unknown");
-  if (!clean(program.category) || program.category === "uncategorized") reasons.push("category uncertain");
-  if (programType(program) === "Unknown / needs review") reasons.push("type uncertain");
-  if (enrichment.authorConflict) reasons.push("author conflict");
-  if (!program.download?.path || program.download?.status !== "ready") reasons.push("main local file missing");
-  if (!program.screenshotCount && !enrichment.webImageLinks?.length) reasons.push("no screenshot or image lead");
-  if (/account|tos|punter|room buster|mass mailer/i.test(program.category || "")) reasons.push("sensitive historical category");
-  if (!enrichment.archiveTextFiles?.length && !enrichment.externalArchiveTextEvidence?.length) reasons.push("no readable text evidence");
-  return reasons;
+  let score = 0;
+
+  if (enrichment.authorConflict) {
+    reasons.push("author conflict");
+    score += 6;
+  }
+  if (!program.download?.path || program.download?.status !== "ready") {
+    reasons.push("main local file missing");
+    score += 5;
+  }
+  if (!clean(program.category) || program.category === "uncategorized") {
+    reasons.push("category uncertain");
+    score += 4;
+  }
+  if (programType(program) === "Unknown / needs review") {
+    reasons.push("type uncertain");
+    score += 3;
+  }
+  if (!primaryAuthor(program)) {
+    reasons.push("author unknown");
+    score += evidence.oldWeb || evidence.mirrors || evidence.archiveText || evidence.externalText ? 3 : 1;
+  }
+  if (!evidence.oldWeb && !evidence.mirrors) {
+    reasons.push("no old-web download or mirror lead");
+    score += 2;
+  }
+  if (evidence.externalText) {
+    reasons.push("matched external ZIP text to verify");
+    score += 2;
+  }
+  if (!evidence.archiveText && !evidence.externalText && program.download?.status === "ready") {
+    reasons.push("no readable text evidence");
+    score += 1;
+  }
+  if (!evidence.screenshots && evidence.webImages) {
+    reasons.push("web image lead needs screenshot match");
+    score += 2;
+  }
+  if (/account|tos|punter|room buster|mass mailer/i.test(program.category || "")) {
+    reasons.push("sensitive historical category");
+    score += 3;
+  }
+
+  const level = score >= 8 ? "high" : score >= 4 ? "medium" : score > 0 ? "low" : "none";
+  return { score, level, reasons, evidence };
+}
+
+function nextResearchAction(program, review = reviewProfile(program)) {
+  const reasons = new Set(review.reasons);
+  if (reasons.has("author conflict")) return "Compare catalog author, archive text, and old-page mentions before changing attribution.";
+  if (reasons.has("main local file missing")) return "Check old-web mirrors and recovery pages for a recoverable local copy.";
+  if (reasons.has("category uncertain") || reasons.has("type uncertain")) return "Scan readable text and old source-page labels to assign category/type.";
+  if (reasons.has("matched external ZIP text to verify")) return "Open the external ZIP text evidence page and promote reliable author/version/purpose clues.";
+  if (reasons.has("web image lead needs screenshot match")) return "Match the web image lead to the correct program page or screenshot entry.";
+  if (reasons.has("no old-web download or mirror lead")) return "Search source link directories and Wayback for an original download URL.";
+  if (reasons.has("author unknown")) return "Search readmes, NFOs, source comments, and old-page text for an author clue.";
+  return "Review metadata when more source evidence is found.";
 }
 
 function runtimeDownloadKind(item) {
@@ -528,11 +593,12 @@ function programInventoryTable(fromDoc, items) {
       "Reference mirror",
       "Embedded URLs",
       "Screens",
+      "Review priority",
       "Needs review",
     ],
     items.map((program) => {
       const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
-      const enrichment = enrichmentFor(program);
+      const review = reviewProfile(program);
       return [
         String(program.index),
         localLink(fromDoc, displayName(program), appDocPaths.get(program.id)),
@@ -549,7 +615,8 @@ function programInventoryTable(fromDoc, items) {
         joinedReferenceMirrorLinks(program),
         embedded.length ? embedded.map((item) => link(item.url, item.url)).join("<br>") : "",
         String(program.screenshotCount || 0),
-        manualReviewReasons(program).join("<br>"),
+        `${review.level} (${review.score})`,
+        review.reasons.join("<br>"),
       ];
     }),
   );
@@ -877,6 +944,7 @@ for (const program of programs) {
 function programExportRecord(program) {
   const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
   const enrichment = enrichmentFor(program);
+  const review = reviewProfile(program);
   return {
     index: program.index,
     id: program.id,
@@ -901,7 +969,10 @@ function programExportRecord(program) {
     webResearchMentions: enrichment.webMentions?.length || 0,
     screenshots: program.screenshotCount || 0,
     embeddedUrls: embedded.length,
-    manualReviewFlags: manualReviewReasons(program).join("; "),
+    reviewPriority: review.level,
+    reviewScore: review.score,
+    manualReviewFlags: review.reasons.join("; "),
+    nextResearchAction: nextResearchAction(program, review),
     tags: appTags(program, embedded).join("; "),
     detailPage: appDocPaths.get(program.id) || "",
   };
@@ -1118,6 +1189,92 @@ function sourceSiteRows() {
     .sort((a, b) => b.downloads - a.downloads || b.externalAttempts - a.externalAttempts || a.name.localeCompare(b.name));
 }
 
+function sourceFamily(pageOrRow) {
+  const value = `${pageOrRow.name || ""} ${pageOrRow.kind || ""} ${pageOrRow.url || ""}`.toLowerCase();
+  if (/lenshell/.test(value)) return "LensHellArchive";
+  if (/freeprogz|phat/.test(value)) return "FreeProgz";
+  if (/oogle|rampage/.test(value)) return "Oogle / Rampage";
+  if (/methodus/.test(value)) return "Methodus2000";
+  if (/progstation/.test(value)) return "ProgStation";
+  if (/aimthings/.test(value)) return "AIMThings";
+  if (/loltoolz|ricejerry/.test(value)) return "RiceJerry / LoLToolz";
+  if (/click-online/.test(value)) return "Click-Online";
+  if (/aimfilez|aim files/.test(value)) return "AIMFilez";
+  if (/aol-progz\.com/.test(value)) return "AOL-Progz.com";
+  if (/justinakapaste|digital5k|plozee/.test(value)) return "Modern context/archive articles";
+  if (/progzrescue|github/.test(value)) return "GitHub / ProgzRescue";
+  if (/am\.net/.test(value)) return "AM.NET AOL tools";
+  return "Other old-web sources";
+}
+
+function sourceFamilySummaryRows(rows) {
+  const grouped = groupBy(rows, sourceFamily);
+  return [...grouped.entries()]
+    .map(([family, items]) => {
+      const topPages = [...items]
+        .sort((a, b) => b.downloads - a.downloads || b.links - a.links || a.name.localeCompare(b.name))
+        .slice(0, 8)
+        .map((item) => `${item.name} (${item.downloads} downloads)`)
+        .join("<br>");
+      return [
+        family,
+        String(items.length),
+        String(items.reduce((sum, item) => sum + Number(item.links || 0), 0)),
+        String(items.reduce((sum, item) => sum + Number(item.downloads || 0), 0)),
+        String(items.reduce((sum, item) => sum + Number(item.externalAttempts || 0), 0)),
+        String(items.reduce((sum, item) => sum + Number(item.recoveredDownloads || 0), 0)),
+        String(items.reduce((sum, item) => sum + Number(item.imageAttempts || 0), 0)),
+        String(items.reduce((sum, item) => sum + Number(item.recoveredImages || 0), 0)),
+        topPages,
+      ];
+    })
+    .sort((a, b) => Number(b[3]) - Number(a[3]) || Number(b[2]) - Number(a[2]) || a[0].localeCompare(b[0]));
+}
+
+function sourceFamilyDetailRows(rows) {
+  return rows
+    .map((item) => [
+      sourceFamily(item),
+      item.name,
+      item.kind,
+      item.status,
+      item.host,
+      String(item.links),
+      String(item.downloads),
+      String(item.externalAttempts),
+      String(item.recoveredDownloads),
+      String(item.recoveredImages),
+      item.localPath ? localLink(`${generatedRoot}/sources/source-deep-dives.md`, item.localPath, item.localPath) : "",
+      link(item.url, item.url),
+    ])
+    .sort((a, b) => a[0].localeCompare(b[0]) || Number(b[6]) - Number(a[6]) || a[1].localeCompare(b[1]));
+}
+
+function lensHellCategoryRows() {
+  return (webResources.pages || [])
+    .filter((page) => /lenshell/i.test(`${page.name} ${page.url}`) && (page.downloadCount || 0) > 0)
+    .map((page) => {
+      const downloads = (page.links || []).filter((item) => item.type === "download");
+      const ready = downloads.filter((item) => recoveryForUrl(item.originalUrl || item.url)?.status === "ready");
+      return [
+        page.name,
+        page.kind || "",
+        String(page.downloadCount || downloads.length),
+        String(ready.length),
+        downloads
+          .slice(0, 10)
+          .map((item) => {
+            const status = recoveryForUrl(item.originalUrl || item.url)?.status || "lead";
+            return `${item.text || fileStem(item.originalUrl || item.url)} (${status})`;
+          })
+          .join("<br>"),
+        page.localPath ? localLink(`${generatedRoot}/sources/lenshell-categories.md`, page.localPath, page.localPath) : "",
+        link(page.url, page.url),
+      ];
+    })
+    .sort((a, b) => Number(b[2]) - Number(a[2]) || a[0].localeCompare(b[0]));
+}
+
 const tagMap = new Map();
 for (const program of programs) {
   const embedded = urlIndex.perProgram?.[program.id]?.urls || [];
@@ -1137,6 +1294,7 @@ for (const program of programs) {
   const externalTextPurposes = uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.purposeSignals || []), (item) => item);
   const tags = appTags(program, embedded);
   const screenshots = program.screenshots || [];
+  const review = reviewProfile(program);
   const metadataRows = [
     ["Archive ID", program.id],
     ["Catalog number", String(program.index)],
@@ -1184,7 +1342,9 @@ for (const program of programs) {
     ["Category confidence", confidenceLabel(program, "category")],
     ["AOL/version confidence", confidenceLabel(program, "version")],
     ["Source confidence", confidenceLabel(program, "source")],
-    ["Manual review flags", manualReviewReasons(program).length ? manualReviewReasons(program).join(", ") : "none"],
+    ["Review priority", `${review.level} (${review.score})`],
+    ["Manual review flags", review.reasons.length ? review.reasons.join(", ") : "none"],
+    ["Next research action", nextResearchAction(program, review)],
   ];
 
   const sourceLinks = [
@@ -1443,12 +1603,16 @@ writeDoc(
     "- [Metadata confidence report](generated/applications/metadata-confidence.md)",
     "- [Author conflicts](generated/applications/author-conflicts.md)",
     "- [Needs manual review](generated/applications/needs-manual-review.md)",
+    "- [Research priority queue](generated/applications/research-priority.md)",
+    "- [Coverage gaps](generated/applications/coverage-gaps.md)",
     "- [Timeline](generated/applications/timeline.md)",
     "- [Master link index](generated/sources/all-links.md)",
     "- [Links you supplied](generated/sources/user-supplied-links.md)",
     "- [Original download URLs](generated/sources/original-download-urls.md)",
     "- [Recovered files](generated/sources/recovered-files.md)",
     "- [Top source sites](generated/sources/top-source-sites.md)",
+    "- [Source deep dives](generated/sources/source-deep-dives.md)",
+    "- [LensHell category report](generated/sources/lenshell-categories.md)",
     "- [Recovered missing candidates](generated/sources/missing-ready.md)",
     "- [Runtime files](generated/sources/runtime-files.md)",
     "- [DeadAIM and AIM enhancers](generated/sources/deadaim-aim-enhancers.md)",
@@ -1500,7 +1664,9 @@ writeDoc(
         ["Programs with archive-text AOL/version clues", String(programEnrichment.programsWithArchiveAolVersionMentions || 0)],
         ["Programs with matched external ZIP text evidence", String(programEnrichment.programsWithExternalArchiveTextEvidence || 0)],
         ["Programs with author conflicts flagged", String(programEnrichment.programsWithAuthorConflicts || 0)],
-        ["Programs needing manual review", String(programs.filter((program) => manualReviewReasons(program).length).length)],
+        ["Programs needing manual review", String(programs.filter((program) => reviewProfile(program).score >= 4).length)],
+        ["High-priority review entries", String(programs.filter((program) => reviewProfile(program).score >= 8).length)],
+        ["Medium-priority review entries", String(programs.filter((program) => reviewProfile(program).score >= 4 && reviewProfile(program).score < 8).length)],
         ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
         ["Crawled unique links", String(webResources.linkCount || 0)],
         ["Crawled download links", String(webResources.downloadCount || 0)],
@@ -1529,6 +1695,8 @@ writeDoc(
     "- [Metadata confidence report](applications/metadata-confidence.md)",
     "- [Author conflicts](applications/author-conflicts.md)",
     "- [Needs manual review](applications/needs-manual-review.md)",
+    "- [Research priority queue](applications/research-priority.md)",
+    "- [Coverage gaps](applications/coverage-gaps.md)",
     "- [Timeline](applications/timeline.md)",
     "- [Categories](categories/README.md)",
     "- [Prog type index](categories/type-index.md)",
@@ -1540,6 +1708,8 @@ writeDoc(
     "- [Original download URLs](sources/original-download-urls.md)",
     "- [Recovered files](sources/recovered-files.md)",
     "- [Top source sites](sources/top-source-sites.md)",
+    "- [Source deep dives](sources/source-deep-dives.md)",
+    "- [LensHell category report](sources/lenshell-categories.md)",
     "- [Recovered missing candidates](sources/missing-ready.md)",
     "- [Runtime files](sources/runtime-files.md)",
     "- [DeadAIM and AIM enhancers](sources/deadaim-aim-enhancers.md)",
@@ -1586,6 +1756,8 @@ writeDoc(
     "- [Metadata confidence report](metadata-confidence.md)",
     "- [Author conflicts](author-conflicts.md)",
     "- [Needs manual review](needs-manual-review.md)",
+    "- [Research priority queue](research-priority.md)",
+    "- [Coverage gaps](coverage-gaps.md)",
     "- [Timeline](timeline.md)",
     "- [Compact all applications table](all-applications.md)",
   ].join("\n"),
@@ -1629,15 +1801,19 @@ writeDoc(
   ].join("\n"),
 );
 
-const confidenceRows = programs.map((program) => [
-  localLink(`${generatedRoot}/applications/metadata-confidence.md`, displayName(program), appDocPaths.get(program.id)),
-  program.name,
-  confidenceLabel(program, "author"),
-  confidenceLabel(program, "category"),
-  confidenceLabel(program, "version"),
-  confidenceLabel(program, "source"),
-  manualReviewReasons(program).join("<br>") || "none",
-]);
+const confidenceRows = programs.map((program) => {
+  const review = reviewProfile(program);
+  return [
+    localLink(`${generatedRoot}/applications/metadata-confidence.md`, displayName(program), appDocPaths.get(program.id)),
+    program.name,
+    confidenceLabel(program, "author"),
+    confidenceLabel(program, "category"),
+    confidenceLabel(program, "version"),
+    confidenceLabel(program, "source"),
+    `${review.level} (${review.score})`,
+    review.reasons.join("<br>") || "none",
+  ];
+});
 
 const confidenceSummaryRows = [];
 for (const field of ["author", "category", "version", "source"]) {
@@ -1660,21 +1836,24 @@ writeDoc(
     "",
     "## Per Program",
     "",
-    table(["Program", "Catalog label", "Author", "Category", "AOL/version", "Source", "Review flags"], confidenceRows),
+    table(["Program", "Catalog label", "Author", "Category", "AOL/version", "Source", "Review priority", "Review flags"], confidenceRows),
   ].join("\n"),
 );
 
 const manualReviewRows = programs
-  .map((program) => ({ program, reasons: manualReviewReasons(program) }))
-  .filter((item) => item.reasons.length)
-  .map(({ program, reasons }) => [
+  .map((program) => ({ program, review: reviewProfile(program) }))
+  .filter((item) => item.review.score >= 4)
+  .sort((a, b) => b.review.score - a.review.score || displayName(a.program).localeCompare(displayName(b.program)))
+  .map(({ program, review }) => [
     localLink(`${generatedRoot}/applications/needs-manual-review.md`, displayName(program), appDocPaths.get(program.id)),
     program.name,
+    `${review.level} (${review.score})`,
     programType(program),
     program.category || "uncategorized",
     displayVersion(program),
     displayAuthor(program),
-    reasons.join("<br>"),
+    review.reasons.join("<br>"),
+    nextResearchAction(program, review),
   ]);
 
 writeDoc(
@@ -1682,9 +1861,60 @@ writeDoc(
   [
     "# Needs Manual Review",
     "",
-    "Entries listed here need future human review because at least one important field is weak, conflicting, sensitive, missing, or still without readable text/screenshot evidence.",
+    "Medium and high priority entries that need human review because important metadata is weak, conflicting, sensitive, missing, or has recoverable source evidence waiting to be promoted.",
     "",
-    table(["Program", "Catalog label", "Prog type", "Category", "AOL/version", "Author", "Review flags"], manualReviewRows),
+    table(["Program", "Catalog label", "Priority", "Prog type", "Category", "AOL/version", "Author", "Review flags", "Next action"], manualReviewRows),
+  ].join("\n"),
+);
+
+const researchPriorityRows = programs
+  .map((program) => ({ program, review: reviewProfile(program) }))
+  .filter((item) => item.review.score > 0)
+  .sort((a, b) => b.review.score - a.review.score || displayName(a.program).localeCompare(displayName(b.program)))
+  .map(({ program, review }) => {
+    const enrichment = enrichmentFor(program);
+    return [
+      localLink(`${generatedRoot}/applications/research-priority.md`, displayName(program), appDocPaths.get(program.id)),
+      `${review.level} (${review.score})`,
+      review.reasons.join("<br>"),
+      nextResearchAction(program, review),
+      String(enrichment.webDownloadLinks?.length || 0),
+      String(enrichment.mirrorLinks?.length || 0),
+      String(enrichment.externalArchiveTextEvidence?.length || 0),
+      String(program.screenshotCount || 0),
+    ];
+  });
+
+writeDoc(
+  `${generatedRoot}/applications/research-priority.md`,
+  [
+    "# Research Priority Queue",
+    "",
+    "A sorted queue for metadata cleanup. High and medium entries should be reviewed before broad low-priority coverage gaps.",
+    "",
+    table(["Program", "Priority", "Why", "Next action", "Old-web links", "Mirror leads", "External text", "Screens"], researchPriorityRows),
+  ].join("\n"),
+);
+
+const coverageGapRows = [
+  ["Unknown author", String(programs.filter((program) => !primaryAuthor(program)).length), "Look for readme/NFO/source comments and old-page author strings."],
+  ["Uncategorized", String(programs.filter((program) => !clean(program.category) || program.category === "uncategorized").length), "Use source-page category labels and archive text to classify."],
+  ["Unknown prog type", String(programs.filter((program) => programType(program) === "Unknown / needs review").length), "Infer a more specific function from filename, category, source page, and text clues."],
+  ["No screenshot", String(programs.filter((program) => !(program.screenshotCount || 0)).length), "Search source pages and recovered image assets for UI screenshots."],
+  ["No old-web download or mirror lead", String(programs.filter((program) => !reviewProfile(program).evidence.oldWeb && !reviewProfile(program).evidence.mirrors).length), "Search link directories and Wayback capture indexes for original download URLs."],
+  ["No readable text evidence", String(programs.filter((program) => !reviewProfile(program).evidence.archiveText && !reviewProfile(program).evidence.externalText).length), "Scan archives for readmes, text files, HTML, source comments, and URL shortcuts."],
+  ["Author conflicts", String(programs.filter((program) => enrichmentFor(program).authorConflict).length), "Resolve only when old-page and archive-text evidence agree."],
+  ["External ZIP text matched", String(programs.filter((program) => reviewProfile(program).evidence.externalText).length), "Promote reliable external mirror clues into program metadata."],
+];
+
+writeDoc(
+  `${generatedRoot}/applications/coverage-gaps.md`,
+  [
+    "# Coverage Gaps",
+    "",
+    "This page separates broad archive coverage gaps from the manual-review priority queue. A gap does not always mean the entry is wrong; it means more evidence would make the record stronger.",
+    "",
+    table(["Gap", "Count", "How to improve"], coverageGapRows),
   ].join("\n"),
 );
 
@@ -2037,6 +2267,8 @@ writeDoc(
     "- [Links you supplied](user-supplied-links.md)",
     "- [Crawled source pages](source-pages.md)",
     "- [Top source sites](top-source-sites.md)",
+    "- [Source deep dives](source-deep-dives.md)",
+    "- [LensHell category report](lenshell-categories.md)",
     "- [Historical source context](historical-context.md)",
     "- [Download links](download-links.md)",
     "- [Original download URLs](original-download-urls.md)",
@@ -2146,6 +2378,40 @@ writeDoc(
         link(item.url, item.url),
       ]),
     ),
+  ].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/sources/source-deep-dives.md`,
+  [
+    "# Source Deep Dives",
+    "",
+    "Old-school sources grouped into research families. Use this page to decide where to dig next for screenshots, original URLs, authors, categories, and missing-file leads.",
+    "",
+    "## Family Summary",
+    "",
+    table(
+      ["Family", "Pages", "Links", "Downloads", "External attempts", "Recovered downloads", "Image attempts", "Recovered images", "Top pages"],
+      sourceFamilySummaryRows(sourceStatsRows),
+    ),
+    "",
+    "## Page Details",
+    "",
+    table(
+      ["Family", "Source/page", "Kind", "Status", "Host", "Links", "Downloads", "External attempts", "Recovered downloads", "Recovered images", "Local copy", "URL"],
+      sourceFamilyDetailRows(sourceStatsRows),
+    ),
+  ].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/sources/lenshell-categories.md`,
+  [
+    "# LensHell Category Report",
+    "",
+    "LensHellArchive is one of the strongest category sources in the crawl. This report keeps its category pages visible so punters, room busters, C-Coms, faders, idlers, mailers/servers, termers, X'ers, AIM tools, runtime files, and Visual Basic files can be checked against the main catalog.",
+    "",
+    table(["LensHell page", "Kind", "Download leads", "Recovered files", "Sample downloads/status", "Local copy", "URL"], lensHellCategoryRows()),
   ].join("\n"),
 );
 
@@ -2776,7 +3042,10 @@ const programExportHeaders = [
   "webResearchMentions",
   "screenshots",
   "embeddedUrls",
+  "reviewPriority",
+  "reviewScore",
   "manualReviewFlags",
+  "nextResearchAction",
   "tags",
   "detailPage",
 ];
@@ -2953,6 +3222,9 @@ writeDoc(
         ["Master deduped link index", String(masterLinks.length)],
         ["Deduped original/download URLs", String(originalDownloads.length)],
         ["Programs needing manual review", String(manualReviewRows.length)],
+        ["High-priority review entries", String(programs.filter((program) => reviewProfile(program).score >= 8).length)],
+        ["Medium-priority review entries", String(programs.filter((program) => reviewProfile(program).score >= 4 && reviewProfile(program).score < 8).length)],
+        ["Low-priority coverage-gap entries", String(programs.filter((program) => reviewProfile(program).score > 0 && reviewProfile(program).score < 4).length)],
         ["Runtime DLL/OCX leads", String(runtimeDownloads.length)],
         ["DeadAIM/AIM enhancer leads", String(aimEnhancerDownloads.length)],
         ["AOL utility/client leads", String(aolUtilityDownloads.length)],

@@ -35,6 +35,8 @@ This section records original sites, Wayback captures, GitHub mirrors, source pa
 - [Links you supplied](user-supplied-links.md)
 - [Crawled source pages](source-pages.md)
 - [Top source sites](top-source-sites.md)
+- [Source deep dives](source-deep-dives.md)
+- [LensHell category report](lenshell-categories.md)
 - [Historical source context](historical-context.md)
 - [Download links](download-links.md)
 - [Original download URLs](original-download-urls.md)

@@ -50,11 +50,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | filename/source inferred |
 | Source confidence | local + old-web lead |
-| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
+| Review priority | medium (4) |
+| Manual review flags | author unknown, no readable text evidence |
+| Next research action | Search readmes, NFOs, source comments, and old-page text for an author clue. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md)
+[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 

@@ -50,11 +50,13 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
+| Review priority | medium (4) |
+| Manual review flags | no readable text evidence, sensitive historical category |
+| Next research action | Review metadata when more source evidence is found. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 

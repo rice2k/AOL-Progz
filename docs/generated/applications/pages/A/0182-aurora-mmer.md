@@ -50,11 +50,13 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local catalog mirror |
-| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category |
+| Review priority | high (8) |
+| Manual review flags | author unknown, no old-web download or mirror lead, sensitive historical category |
+| Next research action | Search source link directories and Wayback for an original download URL. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

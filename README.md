@@ -51,6 +51,8 @@ scene links.**
 | [Program metadata enrichment report](docs/generated/applications/enrichment-report.md) | Best-name improvements, manual corrections, readme/archive-text author clues, AOL-version clues, web download lead counts, source mentions, and mirror-lead counts. |
 | [Metadata confidence report](docs/generated/applications/metadata-confidence.md) | Per-program confidence for author, category, AOL/version, and source evidence, plus review flags for weak or conflicting records. |
 | [Needs manual review](docs/generated/applications/needs-manual-review.md) | Entries where authors, categories, screenshots, text evidence, source status, or sensitive historical categories need future review. |
+| [Research priority queue](docs/generated/applications/research-priority.md) | High, medium, low, and no-review scoring with next research actions for each catalog entry. |
+| [Coverage gaps](docs/generated/applications/coverage-gaps.md) | Broad gap counts for unknown author, uncategorized, unknown type, screenshots, old-web links, readable text, and author conflicts. |
 | [Author conflicts](docs/generated/applications/author-conflicts.md) | Entries where catalog, filename, manual, or readable-text author clues disagree. |
 | [Web research mentions](docs/generated/applications/web-research-mentions.md) | Strong program-level mentions extracted from source pages such as AOLUnderground.com. |
 | [Master all-links index](docs/generated/sources/all-links.md) | Deduped master list of user-supplied links, crawled links, download links, embedded archive URLs, mirrors, and source pages. |
@@ -59,6 +61,8 @@ scene links.**
 | [Links you supplied](docs/generated/sources/user-supplied-links.md) | The priority source links from the request, preserved as their own page. |
 | [Sources and old-school links](docs/generated/sources/README.md) | Curated source notes, crawled pages, mirror groups, missing candidates, Methodus2000, FreeProgz, LensHell, RiceJerry, LolToolz, and more. |
 | [Top source sites](docs/generated/sources/top-source-sites.md) | Source pages ranked by links, download leads, recovery attempts, recovered files, image attempts, and recovered images. |
+| [Source deep dives](docs/generated/sources/source-deep-dives.md) | Old-school source families grouped by pages, links, downloads, recoveries, image leads, and top pages. |
+| [LensHell category report](docs/generated/sources/lenshell-categories.md) | LensHell categories with download-lead counts, recovered-file counts, and sample files/status. |
 | [External download recovery status](docs/generated/sources/external-downloads.md) | Every attempted external recovery URL with status, source page, original URL, Wayback/download URL, size, and local file when recovered. |
 | [AOL/AIM client and runtime downloads](docs/generated/sources/aol-aim-client-downloads.md) | Versioned AIM/AOL installers, AIM utilities, AOL utilities, and DLL/OCX runtime support files tracked separately from the prog catalog. |
 | [DLL/OCX runtime files](docs/generated/sources/runtime-files.md) | Recovered and attempted Visual Basic/Windows support files that old progs commonly needed. |
@@ -87,6 +91,10 @@ scene links.**
 | URLs found in readable archive text | 234 |
 | Programs with improved best-known names | 519 |
 | Programs with matched web download leads | 2,009 |
+| High-priority review entries | 1,288 |
+| Medium-priority review entries | 658 |
+| Low-priority coverage-gap entries | 158 |
+| No-review entries | 35 |
 | Deduped original/download URLs | 9,621 |
 | Archive-text author clues | 15 |
 | Archive-text purpose clues | 324 |
@@ -106,6 +114,11 @@ scene links.**
 | Local recovered file records | 2,364 |
 | External mirror groups | 1,686 |
 | Recovered web images | 166 |
+| Unknown author gaps | 955 |
+| Uncategorized gaps | 1,596 |
+| Unknown prog type gaps | 1,259 |
+| No screenshot gaps | 2,133 |
+| No readable text evidence gaps | 1,619 |
 
 The site includes:
 
@@ -134,6 +147,11 @@ The site includes:
 - Metadata confidence and manual-review reports for author, category,
   AOL/version, source evidence, screenshots, readable text, and sensitive
   historical categories.
+- A research priority queue that separates high/medium metadata fixes from
+  broad coverage gaps.
+- Source deep dives for LensHell, Oogle/Rampage, Methodus2000, FreeProgz,
+  ProgStation, AIMThings, RiceJerry/LoLToolz, Click-Online, AIMFilez, and other
+  old-web source families.
 - Plain CSV/JSON exports for the catalog, recovered local files, and deduped
   original/download URLs.
 - Crawled old resource pages and link directories, including FreeProgz,

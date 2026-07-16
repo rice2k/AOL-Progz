@@ -50,11 +50,13 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local catalog mirror |
-| Manual review flags | no readable text evidence |
+| Review priority | low (3) |
+| Manual review flags | no old-web download or mirror lead, no readable text evidence |
+| Next research action | Search source link directories and Wayback for an original download URL. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-screenshots](../../../tags/has-screenshots.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#tools](../../../tags/tools.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-screenshots](../../../tags/has-screenshots.md) [#review-low-priority](../../../tags/review-low-priority.md) [#tools](../../../tags/tools.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
