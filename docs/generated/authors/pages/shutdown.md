@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 688 | [ESMIDLE3](../../applications/pages/E/0688-esmidle3.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | shutdown | [local](../../../../files/aol/aol-4-0/0688-esmidle3.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 688 | [ESMIDLE3](../../applications/pages/E/0688-esmidle3.md) | ESMIDLE3 | Unknown / needs review | uncategorized | AOL 4.0 | shutdown | 932 KB | [local](../../../../files/aol/aol-4-0/0688-esmidle3.zip) | 0 |

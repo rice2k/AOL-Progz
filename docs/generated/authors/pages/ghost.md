@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1103 | [LAVA](../../applications/pages/L/1103-lava.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | GhOsT | [local](../../../../files/aol/aol-4-0/1103-lava.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1103 | [Lavabust](../../applications/pages/L/1103-lavabust.md) | LAVA | Unknown / needs review | uncategorized | AOL 4.0 | GhOsT | 152 KB | [local](../../../../files/aol/aol-4-0/1103-lava.zip) | 0 |

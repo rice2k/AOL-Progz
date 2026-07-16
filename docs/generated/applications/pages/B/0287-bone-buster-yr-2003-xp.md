@@ -1,0 +1,97 @@
+# Bone Buster Yr 2003 XP
+
+Catalog label: **bone buster**.
+
+A room-entry or room-disruption category associated with repeatedly trying to enter full rooms or interact with room state. Filename/catalog cues suggest: room buster vocabulary.
+
+**Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-0287-bone-buster |
+| Catalog number | 287 |
+| Best known name | Bone Buster Yr 2003 XP |
+| Best name source | archive filename |
+| Catalog label | bone buster |
+| Archive filename | bone buster aol8 yr2003 XP.zip |
+| File size | 1.4 MB |
+| Author | flux |
+| Catalog author | flux |
+| Inferred author | unknown |
+| Platform | AOL |
+| AOL/version bucket | AOL 4.0; inferred: AOL 8 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | AOL 8 |
+| Prog type | Room buster |
+| Category | room buster |
+| Visual Basic | VB6 |
+| Compile type | native |
+| Duplicate count | 3 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 1.4 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
+
+## Tags
+
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-4-0/0287-bone-buster.zip](../../../../../files/aol/aol-4-0/0287-bone-buster.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bone buster aol8 yr2003 XP.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bone%20buster%20aol8%20yr2003%20XP.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bone%20buster%20aol8%20yr2003%20XP.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bone%20buster%20aol8%20yr2003%20XP.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bone%20buster%20aol8%20yr2003%20XP.zip)
+- Matched web download leads: 1 link(s) listed below
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) | bonebuster.txt | archive text |
+
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| buster's | bone buster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bonebuster.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bonebuster.zip) | [http://lenshellarchive.com/Progs/aolbusters/bonebuster.zip](http://lenshellarchive.com/Progs/aolbusters/bonebuster.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
+## Related Indexes
+
+- Category: [room buster](../../../categories/room-buster.md)
+- Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
+- Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

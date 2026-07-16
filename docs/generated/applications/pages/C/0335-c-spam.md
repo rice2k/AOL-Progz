@@ -1,5 +1,7 @@
 # C-Spam
 
+
+
 Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Filename/catalog cues suggest: mailing or mass-mail vocabulary.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
@@ -10,10 +12,18 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | --- | --- |
 | Archive ID | prog-0335-c-spam |
 | Catalog number | 335 |
-| Name | C-Spam |
+| Best known name | C-Spam |
+| Best name source | catalog |
+| Catalog label | C-Spam |
+| Archive filename | cspam.zip |
+| File size | 1.7 MB |
 | Author | PuNkDuDe |
+| Catalog author | PuNkDuDe |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Mass mailer / server |
 | Category | mass mailer |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
+| Matched web download links | 3 |
+| Matched mirror leads | 2 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cspam.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cspam.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cspam.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cspam.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cspam.zip)
+- Matched web download leads: 3 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 
 ## AOL Version Context
 
@@ -50,8 +66,38 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | --- | --- | --- |
 | [http://solo.abac.com/dllarchive](http://solo.abac.com/dllarchive) | READ ME.txt | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc a-m | c-spam | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip) | [http://lenshellarchive.com/Progs/aolprogs/cspam.zip](http://lenshellarchive.com/Progs/aolprogs/cspam.zip) |
+| prog's/misc a-m | m.c. spammer | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | [http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) |
+| LensHell AIM progs | spamzilla | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| prog's/misc a-m | mcspammer.zip | [http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | unknown | candidate |
+| LensHell AIM progs | spamzilla.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [mass mailer](../../../categories/mass-mailer.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

@@ -1,0 +1,93 @@
+# Blaze Idle Win ALL Yr 04
+
+Catalog label: **BlaZe iDle**.
+
+A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. Filename/catalog cues suggest: idling or away automation.
+
+**Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-0252-blaze-idle |
+| Catalog number | 252 |
+| Best known name | Blaze Idle Win ALL Yr 04 |
+| Best name source | archive filename |
+| Catalog label | BlaZe iDle |
+| Archive filename | blaze idle for aol 7.0-9.0 winALL yr04.zip |
+| File size | 1.4 MB |
+| Author | BlaZe |
+| Catalog author | BlaZe |
+| Inferred author | unknown |
+| Platform | AOL |
+| AOL/version bucket | AOL 4.0; inferred: AOL 7.0-9.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | AOL 7.0-9.0 |
+| Prog type | Idler / AFK bot |
+| Category | idler or bot |
+| Visual Basic | VB6 |
+| Compile type | native |
+| Duplicate count | 2 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 1.4 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
+
+## Tags
+
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb6](../../../tags/vb6.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-4-0/0252-blaze-idle.zip](../../../../../files/aol/aol-4-0/0252-blaze-idle.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blaze idle for aol 7.0-9.0 winALL yr04.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blaze%20idle%20for%20aol%207.0-9.0%20winALL%20yr04.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blaze%20idle%20for%20aol%207.0-9.0%20winALL%20yr04.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blaze%20idle%20for%20aol%207.0-9.0%20winALL%20yr04.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blaze%20idle%20for%20aol%207.0-9.0%20winALL%20yr04.zip)
+- Matched web download leads: 1 link(s) listed below
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+No readable original URLs were found inside the mirrored archive text during the current scan.
+
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| idler's | blaze idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip](http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
+## Related Indexes
+
+- Category: [idler or bot](../../../categories/idler-or-bot.md)
+- Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
+- Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

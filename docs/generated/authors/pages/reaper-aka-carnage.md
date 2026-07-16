@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2055 | [X î X ówèr](../../applications/pages/X/2055-x-i-x-ower.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | ReapeR aka carnage | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2055 | [X î X ówèr](../../applications/pages/X/2055-x-i-x-ower.md) | X î X ówèr | Unknown / needs review | uncategorized | AOL 4.0 | ReapeR aka carnage | unknown | remote-only | 0 |

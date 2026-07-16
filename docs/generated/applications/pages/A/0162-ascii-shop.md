@@ -1,5 +1,7 @@
 # ASCII SHOP
 
+
+
 A macro, ASCII art, canned-command, or repeated-text utility for chat/profile output. Filename/catalog cues suggest: scrolling, macros, or ASCII text.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | --- | --- |
 | Archive ID | prog-0162-ascii-shop |
 | Catalog number | 162 |
-| Name | ASCII SHOP |
+| Best known name | ASCII SHOP |
+| Best name source | catalog |
+| Catalog label | ASCII SHOP |
+| Archive filename | oddballascii.zip |
+| File size | 1.3 MB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Catalog AOL/version bucket | Mixed/unknown |
+| Inferred AOL version | unknown |
 | Prog type | Scroller / macro |
 | Category | scroller or macro |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
+| Matched web download links | 4 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/oddballascii.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/oddballascii.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/oddballascii.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/oddballascii.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/oddballascii.zip)
+- Matched web download leads: 4 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,36 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc a-m | big dick ascii shop2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bdas2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bdas2.zip) | [http://lenshellarchive.com/Progs/aolprogs/bdas2.zip](http://lenshellarchive.com/Progs/aolprogs/bdas2.zip) |
+| Progs Section 1 | FireCat Ascii Shop | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/firecatasciishop.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/firecatasciishop.zip) | [http://www.cybernyse.com/firecatasciishop.zip](http://www.cybernyse.com/firecatasciishop.zip) |
+| prog's/misc n-z | odd ball ascii | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip) | [http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip](http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip) |
+| prog's/misc n-z | react ascii shop ¹·¹ public beta [6] | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip) | [http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip](http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [scroller or macro](../../../categories/scroller-or-macro.md)
 - Version bucket: [Mixed/unknown](../../../versions/mixedunknown.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

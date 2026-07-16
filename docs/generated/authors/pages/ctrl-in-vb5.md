@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1225 | [Mass room boot](../../applications/pages/M/1225-mass-room-boot.md) | Punter / booter | punter | AOL | AOL 4.0 | ctrl in vb5 | [local](../../../../files/aol/aol-4-0/1225-mass-room-boot.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1225 | [Mass room boot](../../applications/pages/M/1225-mass-room-boot.md) | Mass room boot | Punter / booter | punter | AOL 4.0 | ctrl in vb5 | 1.4 MB | [local](../../../../files/aol/aol-4-0/1225-mass-room-boot.zip) | 0 |

@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1352 | [nos](../../applications/pages/N/1352-nos.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | JaHOVa | [local](../../../../files/aol/aol-4-0/1352-nos.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1352 | [Notox](../../applications/pages/N/1352-notox.md) | nos | Unknown / needs review | uncategorized | AOL 4.0 | JaHOVa | 918 KB | [local](../../../../files/aol/aol-4-0/1352-nos.zip) | 0 |

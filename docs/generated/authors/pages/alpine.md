@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1612 | [resetor](../../applications/pages/R/1612-resetor.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | alpine | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1612 | [Resetor For 2.5](../../applications/pages/R/1612-resetor-for-2-5.md) | resetor | Unknown / needs review | uncategorized | AOL 4.0 | alpine | unknown | remote-only | 0 |

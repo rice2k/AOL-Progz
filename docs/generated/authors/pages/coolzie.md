@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 950 | [ICEDROP](../../applications/pages/I/0950-icedrop.md) | Unknown / needs review | uncategorized | AOL | AOL 3.0 | CooLzie | [local](../../../../files/aol/aol-3-0/0950-icedrop.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 950 | [Ice Drop MM](../../applications/pages/I/0950-ice-drop-mm.md) | ICEDROP | Unknown / needs review | uncategorized | AOL 3.0; inferred: AOL 30 | CooLzie | 472 KB | [local](../../../../files/aol/aol-3-0/0950-icedrop.zip) | 0 |

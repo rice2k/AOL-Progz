@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 169 | [Astronomicon 2.0](../../applications/pages/A/0169-astronomicon-2-0.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Dyce | [local](../../../../files/aol/aol-4-0/0169-astronomicon-2-0.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 169 | [Astronomicon 2.0](../../applications/pages/A/0169-astronomicon-2-0.md) | Astronomicon 2.0 | Unknown / needs review | uncategorized | AOL 4.0 | Dyce | 157 KB | [local](../../../../files/aol/aol-4-0/0169-astronomicon-2-0.zip) | 0 |

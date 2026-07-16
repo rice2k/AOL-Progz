@@ -1,5 +1,7 @@
 # Wild Tools 2
 
+
+
 A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | --- | --- |
 | Archive ID | prog-2032-wild-tools-2 |
 | Catalog number | 2032 |
-| Name | Wild Tools 2 |
+| Best known name | Wild Tools 2 |
+| Best name source | catalog |
+| Catalog label | Wild Tools 2 |
+| Archive filename | wild.zip |
+| File size | unknown |
 | Author | dos |
+| Catalog author | dos |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
+| Matched web download links | 2 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wild.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wild.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wild.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wild.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wild.zip)
+- Matched web download leads: 2 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,34 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Section 2 | Wild Tools 2 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wild.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wild.zip) | [http://www.cybernyse.com/downlowdz/wild.zip](http://www.cybernyse.com/downlowdz/wild.zip) |
+| prog's/misc n-z | wild toolz 2 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip) | [http://lenshellarchive.com/Progs/aolprogs/wild.zip](http://lenshellarchive.com/Progs/aolprogs/wild.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [all-in-one prog](../../../categories/all-in-one-prog.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

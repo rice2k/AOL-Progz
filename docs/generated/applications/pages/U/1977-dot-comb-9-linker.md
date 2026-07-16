@@ -1,0 +1,88 @@
+# Dot Com%b 9 Linker
+
+Catalog label: **Up-Date Checker**.
+
+A screen-name checker, scanner, maker, or related identity-management utility. Filename/catalog cues suggest: linking/chat link workflows.
+
+**Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-1977-up-date-checker |
+| Catalog number | 1977 |
+| Best known name | Dot Com%b 9 Linker |
+| Best name source | archive filename |
+| Catalog label | Up-Date Checker |
+| Archive filename | dot com%b9 linker for aol 7.0.zip |
+| File size | 22 B |
+| Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
+| Platform | AOL |
+| AOL/version bucket | AOL 7.0 |
+| Catalog AOL/version bucket | AOL 7.0 |
+| Inferred AOL version | AOL 7.0 |
+| Prog type | Linker / chat linker |
+| Category | screen name tool |
+| Visual Basic | unknown |
+| Compile type | unknown |
+| Duplicate count | 1 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 22 B |
+| Matched web download links | 0 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
+
+## Tags
+
+[#aol](../../../tags/aol.md) [#aol-7-0](../../../tags/aol-7-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#screen-name-tool](../../../tags/screen-name-tool.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-7-0/1977-up-date-checker.zip](../../../../../files/aol/aol-7-0/1977-up-date-checker.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/7.0/dot com%b9 linker for aol 7.0.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/7.0/dot%20com%25b9%20linker%20for%20aol%207.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/7.0/dot%20com%25b9%20linker%20for%20aol%207.0.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/7.0/dot%20com%25b9%20linker%20for%20aol%207.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/7.0/dot%20com%25b9%20linker%20for%20aol%207.0.zip)
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 7.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+No readable original URLs were found inside the mirrored archive text during the current scan.
+
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+No additional old-page download links are matched to this entry yet.
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
+## Related Indexes
+
+- Category: [screen name tool](../../../categories/screen-name-tool.md)
+- Version bucket: [AOL 7.0](../../../versions/aol-7-0.md)
+- Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

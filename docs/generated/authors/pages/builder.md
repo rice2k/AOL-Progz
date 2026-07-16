@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 959 | [idle](../../applications/pages/I/0959-idle.md) | Idler / AFK bot | idler or bot | AOL | AOL 4.0 | Builder | [local](../../../../files/aol/aol-4-0/0959-idle.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 959 | [Warezwork](../../applications/pages/I/0959-warezwork.md) | idle | Idler / AFK bot | idler or bot | AOL 4.0 | Builder | 219 KB | [local](../../../../files/aol/aol-4-0/0959-idle.zip) | 0 |

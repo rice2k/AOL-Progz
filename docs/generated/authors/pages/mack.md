@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1190 | [mack](../../applications/pages/M/1190-mack.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | mack | [local](../../../../files/aol/aol-4-0/1190-mack.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1190 | [Macksn](../../applications/pages/M/1190-macksn.md) | mack | Unknown / needs review | uncategorized | AOL 4.0 | mack | 1.2 MB | [local](../../../../files/aol/aol-4-0/1190-mack.zip) | 0 |

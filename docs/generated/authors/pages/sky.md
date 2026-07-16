@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 433 | [coke](../../applications/pages/C/0433-coke.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Sky | [local](../../../../files/aol/aol-4-0/0433-coke.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 433 | [Coke](../../applications/pages/C/0433-coke.md) | coke | Unknown / needs review | uncategorized | AOL 4.0 | Sky | 1.6 MB | [local](../../../../files/aol/aol-4-0/0433-coke.zip) | 0 |

@@ -1,0 +1,121 @@
+# Winter Break And 5.0 Yr 2000
+
+Catalog label: **break**.
+
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+
+**Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-0297-break |
+| Catalog number | 297 |
+| Best known name | Winter Break And 5.0 Yr 2000 |
+| Best name source | archive filename |
+| Catalog label | break |
+| Archive filename | winter break for aol 4.0 and 5.0 yr2000.zip |
+| File size | 22 B |
+| Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
+| Platform | AOL |
+| AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | AOL 4.0 |
+| Prog type | Unknown / needs review |
+| Category | uncategorized |
+| Visual Basic | unknown |
+| Compile type | unknown |
+| Duplicate count | 1 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 22 B |
+| Matched web download links | 3 |
+| Matched mirror leads | 24 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
+
+## Tags
+
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#uncategorized](../../../tags/uncategorized.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-4-0/0297-break.zip](../../../../../files/aol/aol-4-0/0297-break.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter break for aol 4.0 and 5.0 yr2000.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip)
+- Matched web download leads: 3 link(s) listed below
+- Matched mirror leads: 24 link(s) listed below
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+No readable original URLs were found inside the mirrored archive text during the current scan.
+
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc n-z | spring break | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip) | [http://lenshellarchive.com/Progs/aolprogs/sb.zip](http://lenshellarchive.com/Progs/aolprogs/sb.zip) |
+| Section 2 | Spring Break | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip) | [http://www.cybernyse.com/downlowdz/sb.zip](http://www.cybernyse.com/downlowdz/sb.zip) |
+| c-coms | winter break | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip) | [http://lenshellarchive.com/Progs/aolccoms/break.zip](http://lenshellarchive.com/Progs/aolccoms/break.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| ProgzRescue FortuneCity Skyscraper files | netbus7.zip | [http://www.fortunecity.com/skyscraper/break/1347/Programa/NetBus/netbus7.zip](http://www.fortunecity.com/skyscraper/break/1347/Programa/NetBus/netbus7.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/break/1347/Programa/NetBus/netbus7.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/break/1347/Programa/NetBus/netbus7.zip) | [files/external/fortunecity-com/netbus7.zip](../../../../../files/external/fortunecity-com/netbus7.zip) | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster1_31.zip | [http://www.fortunecity.com/skyscraper/break/1347/Programa/Netbuster/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/break/1347/Programa/Netbuster/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/break/1347/Programa/Netbuster/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/break/1347/Programa/Netbuster/netbuster1_31.zip) | [files/external/fortunecity-com/netbuster1-31.zip](../../../../../files/external/fortunecity-com/netbuster1-31.zip) | ready |
+| ProgzRescue Angelfire files | netbuster131.zip | [http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip](http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip) | unknown | ready |
+| ProgzRescue Angelfire files | netbuster131.zip | [http://www.angelfire.com/scifi/23451/netbuster.zip](http://www.angelfire.com/scifi/23451/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/23451/netbuster.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/23451/netbuster.zip) | unknown | ready |
+| ProgzRescue Angelfire files | netbuster131.zip | [http://www.angelfire.com/nm/weezer/images/netbuster.zip](http://www.angelfire.com/nm/weezer/images/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/nm/weezer/images/netbuster.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/nm/weezer/images/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip](http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip](http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip](http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip](http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/database/766/netbuster.zip](http://www.fortunecity.com/skyscraper/database/766/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/database/766/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/database/766/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip](http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip](http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip](http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip](http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip](http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip](http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip](http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip) | unknown | ready |
+| ProgzRescue FortuneCity Skyscraper files | netbuster131.zip | [http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip](http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip) | unknown | ready |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
+## Related Indexes
+
+- Category: [uncategorized](../../../categories/uncategorized.md)
+- Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
+- Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 798 | [FUGLY](../../applications/pages/F/0798-fugly.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | DownLoad | [local](../../../../files/aol/aol-4-0/0798-fugly.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 798 | [Fugly](../../applications/pages/F/0798-fugly.md) | FUGLY | Unknown / needs review | uncategorized | AOL 4.0 | DownLoad | 2.6 MB | [local](../../../../files/aol/aol-4-0/0798-fugly.zip) | 0 |

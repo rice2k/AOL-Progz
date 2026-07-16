@@ -1,5 +1,7 @@
 # InSane Idler
 
+
+
 A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. Filename/catalog cues suggest: idling or away automation.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | --- | --- |
 | Archive ID | prog-1016-insane-idler |
 | Catalog number | 1016 |
-| Name | InSane Idler |
+| Best known name | InSane Idler |
+| Best name source | catalog |
+| Catalog label | InSane Idler |
+| Archive filename | insane.zip |
+| File size | 1.4 MB |
 | Author | tek [ idle'n |
+| Catalog author | tek [ idle'n |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,35 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| idler's | insane idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insane.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insane.zip) | [http://lenshellarchive.com/Progs/aolidlers/insane.zip](http://lenshellarchive.com/Progs/aolidlers/insane.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| http://www.aol-progz.com/index.shtml | insane.jpg | [https://web.archive.org/web/20010208185345im_/http://www.aol-progz.com/images/insane.jpg](https://web.archive.org/web/20010208185345im_/http://www.aol-progz.com/images/insane.jpg) | [http://www.aol-progz.com/images/insane.jpg](http://www.aol-progz.com/images/insane.jpg) |
+
 ## Related Indexes
 
 - Category: [idler or bot](../../../categories/idler-or-bot.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

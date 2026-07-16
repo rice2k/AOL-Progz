@@ -1,5 +1,7 @@
 # StoneCold
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-1820-stonecold |
 | Catalog number | 1820 |
-| Name | StoneCold |
+| Best known name | StoneCold |
+| Best name source | catalog |
+| Catalog label | StoneCold |
+| Archive filename | stonecold.zip |
+| File size | unknown |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/stonecold.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/stonecold.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/stonecold.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/stonecold.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/stonecold.zip)
+- Matched web download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,36 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| punter's | stone cold toyz | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/stonecold.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/stonecold.zip) | [http://lenshellarchive.com/Progs/aolpunters/stonecold.zip](http://lenshellarchive.com/Progs/aolpunters/stonecold.zip) |
+| prog's/misc n-z | stone colds toys | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip) | [http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip](http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| prog's/misc n-z | stonecolds.zip | [http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip](http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip) | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

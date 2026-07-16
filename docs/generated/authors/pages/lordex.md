@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1832 | [style](../../applications/pages/S/1832-style.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | LordEx | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1832 | [Style 2](../../applications/pages/S/1832-style-2.md) | style | Unknown / needs review | uncategorized | AOL 4.0 | LordEx | unknown | remote-only | 0 |

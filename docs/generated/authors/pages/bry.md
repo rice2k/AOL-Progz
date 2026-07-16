@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 999 | [Immaturity 3.0.0 [public]](../../applications/pages/I/0999-immaturity-3-0-0-public.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Bry | [local](../../../../files/aol/aol-4-0/0999-immaturity-3-0-0-public.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 999 | [Immaturity 3.0.0 [public]](../../applications/pages/I/0999-immaturity-3-0-0-public.md) | Immaturity 3.0.0 [public] | Unknown / needs review | uncategorized | AOL 4.0 | Bry | 32 KB | [local](../../../../files/aol/aol-4-0/0999-immaturity-3-0-0-public.zip) | 0 |

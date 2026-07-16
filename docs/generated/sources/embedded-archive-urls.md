@@ -7,7 +7,7 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://a0de.cjb.net](http://a0de.cjb.net) | [c°m-chßmber╣](../applications/pages/C/0502-cm-chmber.md) | readme now.txt | archive text |
 | [http://angelfire.com/realm/blackrose1](http://angelfire.com/realm/blackrose1) | [Ravyn's Linker](../applications/pages/R/1585-ravyns-linker.md) | Ravyn's Linker.exe | archive text |
 | [http://aolprogs.simplenet.com](http://aolprogs.simplenet.com) | [Mirage v1.o](../applications/pages/M/1276-mirage-v1-o.md) | Download..txt | archive text |
-| [http://aoscramble.cjb.net](http://aoscramble.cjb.net) | [judgement night 4.0 final](../applications/pages/J/1059-judgement-night-4-0-final.md) | Read First!!.txt | archive text |
+| [http://aoscramble.cjb.net](http://aoscramble.cjb.net) | [judgement night 4.0 final](../applications/pages/J/1059-judgement-night-4-0-final-yr-01.md) | Read First!!.txt | archive text |
 | [http://blazerver.hypermart.net](http://blazerver.hypermart.net) | [Blazin](../applications/pages/B/0255-blazin.md) | README.txt | archive text |
 | [http://bloodychef.cjb.net](http://bloodychef.cjb.net) | [hallucinogenic3](../applications/pages/H/0880-hallucinogenic3.md) | it.ini | archive text |
 | [http://busyonline.cjb.net](http://busyonline.cjb.net) | [poslinkfinal](../applications/pages/P/1486-poslinkfinal.md) | poslinkfinal.exe | archive text |
@@ -18,14 +18,14 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://come.to/progz](http://come.to/progz) | [BLUEICE](../applications/pages/B/0274-blueice.md) | ReadMe.txt | archive text |
 | [http://come.to/progzinc](http://come.to/progzinc) | [htmlfade](../applications/pages/H/0925-htmlfade.md) | readme.txt | archive text |
 | [http://come.to/terrorsquad](http://come.to/terrorsquad) | [MailErroR](../applications/pages/M/1208-mailerror.md) | READ THIS!.txt | archive text |
-| [http://come.to/ThaAbbot](http://come.to/ThaAbbot) | [Lag](../applications/pages/L/1090-lag.md) | READ THIS FIRST!.txt | archive text |
+| [http://come.to/ThaAbbot](http://come.to/ThaAbbot) | [Lag](../applications/pages/L/1090-progee.md) | READ THIS FIRST!.txt | archive text |
 | [http://come.to/xVeXoRx](http://come.to/xVeXoRx) | [DETONATOR](../applications/pages/D/0560-detonator.md) | IMPORTANT!!!.txt | archive text |
 | [http://cyb.windless.net](http://cyb.windless.net) | [covert opp](../applications/pages/C/0459-covert-opp.md) | read me.txt | archive text |
 | [http://darcfx.com](http://darcfx.com) | unknown | archive text | repository text |
 | [http://digital.iceberghosting.net](http://digital.iceberghosting.net) | [eFatalImpact v 0.1](../applications/pages/E/0641-efatalimpact-v-0-1.md) | eFatalImpact v 0.1/Documentation/eFatalImpact.html | archive text |
-| [http://dllstar.hypermart.net](http://dllstar.hypermart.net) | [MChat](../applications/pages/M/1238-mchat.md) | Read First!.txt | archive text |
+| [http://dllstar.hypermart.net](http://dllstar.hypermart.net) | [MChat](../applications/pages/M/1238-thorn.md) | Read First!.txt | archive text |
 | [http://drop.to/shutdown](http://drop.to/shutdown) | [ESMIDLE3](../applications/pages/E/0688-esmidle3.md) | esmreadme.txt | archive text |
-| [http://elitespammer.ricksrealm.net](http://elitespammer.ricksrealm.net) | [judgement night 4.0 final](../applications/pages/J/1059-judgement-night-4-0-final.md) | read me.txt | archive text |
+| [http://elitespammer.ricksrealm.net](http://elitespammer.ricksrealm.net) | [judgement night 4.0 final](../applications/pages/J/1059-judgement-night-4-0-final-yr-01.md) | read me.txt | archive text |
 | [http://faygo.iwarp.com](http://faygo.iwarp.com) | [Destiny](../applications/pages/D/0549-destiny.md) | info.txt | archive text |
 | [http://froogle.google.com/frghp?hl=en&tab=wf&ie=UTF-8](http://froogle.google.com/frghp?hl=en&tab=wf&ie=UTF-8) | [eFatalImpact v 0.1](../applications/pages/E/0641-efatalimpact-v-0-1.md) | eFatalImpact v 0.1/Bin/eFatalImpact.html | archive text |
 | [http://groups.google.com/grphp?hl=en&tab=wg&ie=UTF-8](http://groups.google.com/grphp?hl=en&tab=wg&ie=UTF-8) | [eFatalImpact v 0.1](../applications/pages/E/0641-efatalimpact-v-0-1.md) | eFatalImpact v 0.1/Bin/eFatalImpact.html | archive text |
@@ -39,8 +39,8 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://lenshell.com](http://lenshell.com) | [GlobalLinka](../applications/pages/G/0843-globallinka.md) | GlobalLinka.exe | archive text |
 | [http://members.aol.com/ron2222](http://members.aol.com/ron2222) | [HookShot RoomBuster v4](../applications/pages/H/0914-hookshot-roombuster-v4.md) | file_id.diz | archive text |
 | [http://members.tripod.com/~TheAbbotWu/phat.html](http://members.tripod.com/~TheAbbotWu/phat.html) | [cuntpunt](../applications/pages/C/0492-cuntpunt.md) | READ ME.txt | archive text |
-| [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [ANTI](../applications/pages/A/0100-anti.md) | AutoTag.txt | archive text |
-| [http://members.xoom.com/BLSpecies](http://members.xoom.com/BLSpecies) | [bls](../applications/pages/B/0270-bls.md) | Upgrades/blsug.txt | archive text |
+| [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [ANTI](../applications/pages/A/0100-antierror.md) | AutoTag.txt | archive text |
+| [http://members.xoom.com/BLSpecies](http://members.xoom.com/BLSpecies) | [bls](../applications/pages/B/0270-blood-lust-species.md) | Upgrades/blsug.txt | archive text |
 | [http://members.xoom.com/Gizmo_Crew](http://members.xoom.com/Gizmo_Crew) | [blinkmm](../applications/pages/B/0259-blinkmm.md) | blinkmm.exe | archive text |
 | [http://members.xoom.com/Gizmo_Crew/index.html](http://members.xoom.com/Gizmo_Crew/index.html) | [blinkmm](../applications/pages/B/0259-blinkmm.md) | blinkmm.exe | archive text |
 | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98) | [fssetup](../applications/pages/F/0794-fssetup.md) | README!.txt | archive text |
@@ -67,8 +67,8 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://sandsprite.com/vb-reversing/vb-decompiler](http://sandsprite.com/vb-reversing/vb-decompiler) | unknown | archive text | repository text |
 | [http://sandsprite.com/vb-reversing/vbdecompiler.chm](http://sandsprite.com/vb-reversing/vbdecompiler.chm) | unknown | archive text | repository text |
 | [http://sandsprite.com/vb-reversing/vbdecompiler.zip](http://sandsprite.com/vb-reversing/vbdecompiler.zip) | unknown | archive text | repository text |
-| [http://scroll.to/aohaquh](http://scroll.to/aohaquh) | [beta²](../applications/pages/B/0220-beta2.md) | read_this.txt | archive text |
-| [http://sirk.8m.com](http://sirk.8m.com) | [MChat](../applications/pages/M/1238-mchat.md) | Read First!.txt | archive text |
+| [http://scroll.to/aohaquh](http://scroll.to/aohaquh) | [beta²](../applications/pages/B/0220-stinky.md) | read_this.txt | archive text |
+| [http://sirk.8m.com](http://sirk.8m.com) | [MChat](../applications/pages/M/1238-thorn.md) | Read First!.txt | archive text |
 | [http://solo.abac.com/dllarchive](http://solo.abac.com/dllarchive) | [C-Spam](../applications/pages/C/0335-c-spam.md) | READ ME.txt | archive text |
 | [http://soulsoftwarelol.cjb.net](http://soulsoftwarelol.cjb.net) | [bbe 101](../applications/pages/B/0203-bbe-101.md) | readme.doc | archive text |
 | [http://spermie.cjb.net](http://spermie.cjb.net) | [audiotech system by spermie](../applications/pages/A/0180-audiotech-system-by-spermie.md) | audiotech system/READ ME!!!.txt | archive text |
@@ -89,14 +89,14 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.andymaul.com](http://www.andymaul.com) | [ByrdToolz v4.5](../applications/pages/B/0330-byrdtoolz-v4-5.md) | PUNTER!!!!.txt | archive text |
 | [http://www.angelfire.com/biz6/blahblahblahblah/index.html](http://www.angelfire.com/biz6/blahblahblahblah/index.html) | [Hypêr Línkêr ²](../applications/pages/H/0934-hyper-linker-2.md) | Read-Me.txt | archive text |
 | [http://www.angelfire.com/fl/undertopia](http://www.angelfire.com/fl/undertopia) | [MailErroR](../applications/pages/M/1208-mailerror.md) | READ THIS!.txt | archive text |
-| [http://www.angelfire.com/id2/twister](http://www.angelfire.com/id2/twister) | [judgement night 4.0 final](../applications/pages/J/1059-judgement-night-4-0-final.md) | Read First!!.txt | archive text |
+| [http://www.angelfire.com/id2/twister](http://www.angelfire.com/id2/twister) | [judgement night 4.0 final](../applications/pages/J/1059-judgement-night-4-0-final-yr-01.md) | Read First!!.txt | archive text |
 | [http://www.angelfire.com/in2/hhyypper69](http://www.angelfire.com/in2/hhyypper69) | [Gadget](../applications/pages/G/0812-gadget.md) | solar/message from HyPeR.txt | archive text |
-| [http://www.angelfire.com/ny/DXsLair](http://www.angelfire.com/ny/DXsLair) | [idle](../applications/pages/I/0959-idle.md) | dxkurupt.txt | archive text |
+| [http://www.angelfire.com/ny/DXsLair](http://www.angelfire.com/ny/DXsLair) | [idle](../applications/pages/I/0959-warezwork.md) | dxkurupt.txt | archive text |
 | [http://www.angelfire.com/oh2/flee](http://www.angelfire.com/oh2/flee) | [533idle v3.1](../applications/pages/0-9-symbols/0034-533idle-v3-1.md) | 533%.txt | archive text |
-| [http://www.angelfire.com/ri2/progzone](http://www.angelfire.com/ri2/progzone) | [Bait That Shizzle](../applications/pages/B/0195-bait-that-shizzle.md) | Read Me.txt | archive text |
+| [http://www.angelfire.com/ri2/progzone](http://www.angelfire.com/ri2/progzone) | [Bait That Shizzle](../applications/pages/B/0195-bait-that-shizzle-baiter.md) | Read Me.txt | archive text |
 | [http://www.angelfire.com/tx3/xromsx](http://www.angelfire.com/tx3/xromsx) | [HYSTERIA](../applications/pages/H/0935-hysteria.md) | READ NOW.txt | archive text |
 | [http://www.angelfire.com/wi2/JDE/JDE](http://www.angelfire.com/wi2/JDE/JDE) | [List Assist v3](../applications/pages/L/1159-list-assist-v3.md) | html punt code.txt | archive text |
-| [http://www.angelifre.com/ri2/progzone](http://www.angelifre.com/ri2/progzone) | [pz2](../applications/pages/P/1553-pz2.md) | WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt | archive text |
+| [http://www.angelifre.com/ri2/progzone](http://www.angelifre.com/ri2/progzone) | [pz2](../applications/pages/P/1553-pz-2.md) | WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt | archive text |
 | [http://www.aol.com](http://www.aol.com) | [LiL' Wicked Comz](../applications/pages/L/1135-lil-wicked-comz.md) | Wicked ReadMe.txt | archive text |
 | [http://www.aquardfader.cjb.net](http://www.aquardfader.cjb.net) | [aquard2k2](../applications/pages/A/0150-aquard2k2.md) | more info.txt | archive text |
 | [http://www.bigdazz.com](http://www.bigdazz.com) | [aocoms3](../applications/pages/A/0121-aocoms3.md) | readme.nfo | archive text |
@@ -106,19 +106,19 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.cbzhome.cjb.net](http://www.cbzhome.cjb.net) | [link2me](../applications/pages/L/1141-link2me.md) | link2me.exe | archive text |
 | [http://www.chaotic-code.com](http://www.chaotic-code.com) | [IPJH1.0](../applications/pages/I/1036-ipjh1-0.md) | README.txt | archive text |
 | [http://www.chromeice.net](http://www.chromeice.net) | [kmixer](../applications/pages/K/1077-kmixer.md) | Kryptonite MiXer.txt | archive text |
-| [http://www.cjlonline.cjb.net](http://www.cjlonline.cjb.net) | [ph2](../applications/pages/P/1417-ph2.md) | CjL Online.txt | archive text |
-| [http://www.cosmicat.com/software/antiidle](http://www.cosmicat.com/software/antiidle) | [anti](../applications/pages/A/0103-anti.md) | ANTI/README.TXT | archive text |
-| [http://www.cris.com/~squared](http://www.cris.com/~squared) | [HELLX](../applications/pages/H/0900-hellx.md) | info.txt | archive text |
+| [http://www.cjlonline.cjb.net](http://www.cjlonline.cjb.net) | [ph2](../applications/pages/P/1417-ph-2tank.md) | CjL Online.txt | archive text |
+| [http://www.cosmicat.com/software/antiidle](http://www.cosmicat.com/software/antiidle) | [anti](../applications/pages/A/0103-momosidler.md) | ANTI/README.TXT | archive text |
+| [http://www.cris.com/~squared](http://www.cris.com/~squared) | [HELLX](../applications/pages/H/0900-hellr-30.md) | info.txt | archive text |
 | [http://www.dawgzprogz.com](http://www.dawgzprogz.com) | [eternaldarkness](../applications/pages/E/0698-eternaldarkness.md) | READ_ME!!!!!!.txt | archive text |
-| [http://www.deeplydemented.com/scorpio](http://www.deeplydemented.com/scorpio) | [linkslite2](../applications/pages/L/1144-linkslite2.md) | linkslite2.exe | archive text |
-| [http://www.deeplydemented.com/snot](http://www.deeplydemented.com/snot) | [linkslite2](../applications/pages/L/1144-linkslite2.md) | readmeyo.txt | archive text |
+| [http://www.deeplydemented.com/scorpio](http://www.deeplydemented.com/scorpio) | [linkslite2](../applications/pages/L/1144-links-lite-v-2-and-8-0-win-98xp-yr-03.md) | linkslite2.exe | archive text |
+| [http://www.deeplydemented.com/snot](http://www.deeplydemented.com/snot) | [linkslite2](../applications/pages/L/1144-links-lite-v-2-and-8-0-win-98xp-yr-03.md) | readmeyo.txt | archive text |
 | [http://www.desaware.com](http://www.desaware.com) | [Envisions Phader](../applications/pages/E/0671-envisions-phader.md) | free.nfo | archive text |
 | [http://www.digitalundergroundz.com](http://www.digitalundergroundz.com) | [Digital Dynasty](../applications/pages/D/0572-digital-dynasty.md) | FREE PHISH.TXT | archive text |
 | [http://www.digitalundergroundz.com-](http://www.digitalundergroundz.com-) | [Digital Dynasty](../applications/pages/D/0572-digital-dynasty.md) | FREE PHISH.TXT | archive text |
 | [http://www.disectcomputers.com](http://www.disectcomputers.com) | [Elite IP Spoofer 1.0](../applications/pages/E/0653-elite-ip-spoofer-1-0.md) | EISv1.0/Needed Files.txt | archive text |
 | [http://www.disectixi.com](http://www.disectixi.com) | [Elite IP Spoofer 1.0](../applications/pages/E/0653-elite-ip-spoofer-1-0.md) | EISv1.0/Needed Files.txt | archive text |
 | [http://www.dll-files.com](http://www.dll-files.com) | [Elite IP Spoofer 1.0](../applications/pages/E/0653-elite-ip-spoofer-1-0.md) | EISv1.0/Needed Files.txt | archive text |
-| [http://www.dragontoolz.cjb.net](http://www.dragontoolz.cjb.net) | [dtoolz1.8](../applications/pages/D/0615-dtoolz1-8.md) | Dragon Toolz ReadME.txt | archive text |
+| [http://www.dragontoolz.cjb.net](http://www.dragontoolz.cjb.net) | [dtoolz1.8](../applications/pages/D/0615-dragon-toolz-1-8.md) | Dragon Toolz ReadME.txt | archive text |
 | [http://www.dreadknight.com](http://www.dreadknight.com) | [Demon Resurrection²](../applications/pages/D/0545-demon-resurrection2.md) | greetz.txt | archive text |
 | [http://www.easyvb.com/vbdownloads/runtime](http://www.easyvb.com/vbdownloads/runtime) | [HookShot RoomBuster v4](../applications/pages/H/0914-hookshot-roombuster-v4.md) | OCXReg.txt | archive text |
 | [http://www.ee.ntou.edu.tw:3128](http://www.ee.ntou.edu.tw:3128) | [Elite IP Spoofer 1.0](../applications/pages/E/0653-elite-ip-spoofer-1-0.md) | EISv1.0/highanonymity.txt | archive text |
@@ -129,10 +129,10 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.flufffycow.interspeed.net/web/top.html](http://www.flufffycow.interspeed.net/web/top.html) | [CCCSTyle Mini Toolz](../applications/pages/C/0352-cccstyle-mini-toolz.md) | index.html | archive text |
 | [http://www.freecondoms.com/signup.asp?referer=coalchamborfrk58@aol.com](http://www.freecondoms.com/signup.asp?referer=coalchamborfrk58@aol.com) | [Condom linker](../applications/pages/C/0450-condom-linker.md) | Condom linker.exe | archive text |
 | [http://www.freeprogz.com](http://www.freeprogz.com) | [Punt in the 2001](../applications/pages/P/1533-punt-in-the-2001.md) | Words From PHAT.txt | archive text |
-| [http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) | [bone buster](../applications/pages/B/0287-bone-buster.md) | bonebuster.txt | archive text |
+| [http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) | [bone buster](../applications/pages/B/0287-bone-buster-yr-2003-xp.md) | bonebuster.txt | archive text |
 | [http://www.gangstaprogs.cjb.net](http://www.gangstaprogs.cjb.net) | [GangstaProgsAppsender](../applications/pages/G/0820-gangstaprogsappsender.md) | Readme.doc | archive text |
 | [http://www.geocities.com/bryanh6969](http://www.geocities.com/bryanh6969) | [eternaldarkness](../applications/pages/E/0698-eternaldarkness.md) | READ_ME!!!!!!.txt | archive text |
-| [http://www.geocities.com/jordansvb](http://www.geocities.com/jordansvb) | [Hacker's Toolz 1.0](../applications/pages/H/0876-hackers-toolz-1-0.md) | ReadMe.txt | archive text |
+| [http://www.geocities.com/jordansvb](http://www.geocities.com/jordansvb) | [Hacker's Toolz 1.0](../applications/pages/H/0876-hackers-toolz-1-0-and-8-0.md) | ReadMe.txt | archive text |
 | [http://www.geocities.com/skoria_36](http://www.geocities.com/skoria_36) | [MPlayerX-CeeLo](../applications/pages/M/1303-mplayerx-ceelo.md) | MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt | archive text |
 | [http://www.globalwebolution.com](http://www.globalwebolution.com) | [GlobalLinka](../applications/pages/G/0843-globallinka.md) | GlobalLinka.exe | archive text |
 | [http://www.globalwebolution.net](http://www.globalwebolution.net) | [GlobalLinka](../applications/pages/G/0843-globallinka.md) | GlobalLinka.exe | archive text |
@@ -146,18 +146,18 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.jameslair.cjb.net](http://www.jameslair.cjb.net) | [aquard2k2](../applications/pages/A/0150-aquard2k2.md) | more info.txt | archive text |
 | [http://www.jamesmariobros.cjb.net](http://www.jamesmariobros.cjb.net) | [aquard3](../applications/pages/A/0151-aquard3.md) | Readme.txt | archive text |
 | [http://www.jiggazrealm.simplenet.com](http://www.jiggazrealm.simplenet.com) | [invasion](../applications/pages/I/1032-invasion.md) | Important.txt | archive text |
-| [http://www.jsiinc.com](http://www.jsiinc.com) | [dtoolz1.8](../applications/pages/D/0615-dtoolz1-8.md) | Dragon Toolz ReadME.txt | archive text |
-| [http://www.justinide.net](http://www.justinide.net) | [Bish](../applications/pages/B/0231-bish.md) | Phish a Bish/Read.txt | archive text |
+| [http://www.jsiinc.com](http://www.jsiinc.com) | [dtoolz1.8](../applications/pages/D/0615-dragon-toolz-1-8.md) | Dragon Toolz ReadME.txt | archive text |
+| [http://www.justinide.net](http://www.justinide.net) | [Bish](../applications/pages/B/0231-pab.md) | Phish a Bish/Read.txt | archive text |
 | [http://www.kamzdomain.com](http://www.kamzdomain.com) | [CFader40](../applications/pages/C/0365-cfader40.md) | README~1.TXT | archive text |
 | [http://www.kapix2k.net](http://www.kapix2k.net) | [Lazer_Linka](../applications/pages/L/1105-lazer-linka.md) | Lazer_Linka.exe | archive text |
 | [http://www.kirby101787.cjb.net](http://www.kirby101787.cjb.net) | [Frag 1](../applications/pages/F/0788-frag-1.md) | Other Info.txt | archive text |
 | [http://www.knk2000.com/knk](http://www.knk2000.com/knk) | [clink3](../applications/pages/C/0424-clink3.md) | README.txt.txt | archive text |
-| [http://www.lenshell.com](http://www.lenshell.com) | [01](../applications/pages/0-9-symbols/0013-01.md) | readme.txt | archive text |
-| [http://www.madjester.net](http://www.madjester.net) | [acidtox](../applications/pages/A/0054-acidtox.md) | MadJester - Must Read.txt | archive text |
+| [http://www.lenshell.com](http://www.lenshell.com) | [01](../applications/pages/0-9-symbols/0013-idled.md) | readme.txt | archive text |
+| [http://www.madjester.net](http://www.madjester.net) | [acidtox](../applications/pages/A/0054-acid-tox-mmer.md) | MadJester - Must Read.txt | archive text |
 | [http://www.mastaincorporated.com](http://www.mastaincorporated.com) | [Final Destination](../applications/pages/F/0770-final-destination.md) | ReadMe.txt | archive text |
 | [http://www.microsoft.com](http://www.microsoft.com) | [Ravyn's Linker](../applications/pages/R/1585-ravyns-linker.md) | Ravyn's Linker.exe | archive text |
 | [http://www.microsoft.com/vbasic](http://www.microsoft.com/vbasic) | [intelligent linker](../applications/pages/I/1026-intelligent-linker.md) | intelligent linker/TABCTL32.OCX | archive text |
-| [http://www.midget666.cjb.net](http://www.midget666.cjb.net) | [ESP XP Lister](../applications/pages/E/0690-esp-xp-lister.md) | ESP XP Lister/READ.txt | archive text |
+| [http://www.midget666.cjb.net](http://www.midget666.cjb.net) | [ESP XP Lister](../applications/pages/E/0690-esp-xp-lister-win-xp-yr-03.md) | ESP XP Lister/READ.txt | archive text |
 | [http://www.mopa.net](http://www.mopa.net) | [aocoms3](../applications/pages/A/0121-aocoms3.md) | readme.nfo | archive text |
 | [http://www.mr-koww.com](http://www.mr-koww.com) | [netlink3](../applications/pages/N/1330-netlink3.md) | netlink3.exe | archive text |
 | [http://www.namekz-realm.com](http://www.namekz-realm.com) | [fuqed cchat1.3](../applications/pages/F/0801-fuqed-cchat1-3.md) | readme.txt | archive text |
@@ -172,7 +172,7 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.progzonline.com](http://www.progzonline.com) | [cyclone](../applications/pages/C/0496-cyclone.md) | Progzonline.nfo | archive text |
 | [http://www.punknboards.com/d0pey](http://www.punknboards.com/d0pey) | [mp3pimp](../applications/pages/M/1300-mp3pimp.md) | readme.txt | archive text |
 | [http://www.punknboards.com/progs](http://www.punknboards.com/progs) | [bodini](../applications/pages/B/0283-bodini.md) | phatprogz.txt | archive text |
-| [http://www.pureleetness.net](http://www.pureleetness.net) | [acidtox](../applications/pages/A/0054-acidtox.md) | Read Me.txt | archive text |
+| [http://www.pureleetness.net](http://www.pureleetness.net) | [acidtox](../applications/pages/A/0054-acid-tox-mmer.md) | Read Me.txt | archive text |
 | [http://www.rang](http://www.rang) | [rangerig](../applications/pages/R/1578-rangerig.md) | @readme.doc | archive text |
 | [http://www.rangerweb.net](http://www.rangerweb.net) | [aocoms3](../applications/pages/A/0121-aocoms3.md) | readme.nfo | archive text |
 | [http://www.react.devil.ru](http://www.react.devil.ru) | [Filter Make](../applications/pages/F/0769-filter-make.md) | RASFull/output/chat.txt | archive text |
@@ -182,11 +182,11 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.saberzrealm.net](http://www.saberzrealm.net) | [punt toolz 1.0](../applications/pages/P/1535-punt-toolz-1-0.md) | read me !.txt | archive text |
 | [http://www.shock69.cjb.net](http://www.shock69.cjb.net) | [Media8.0](../applications/pages/M/1243-media8-0.md) | README_SOURCE.txt | archive text |
 | [http://www.site.com](http://www.site.com) | [intelligent linker](../applications/pages/I/1026-intelligent-linker.md) | intelligent linker/intelligent linker.exe | archive text |
-| [http://www.skywalkersrelm.com](http://www.skywalkersrelm.com) | [argon](../applications/pages/A/0155-argon.md) | argon termer password=85203/Liquidinfo.txt | archive text |
+| [http://www.skywalkersrelm.com](http://www.skywalkersrelm.com) | [argon](../applications/pages/A/0155-argon-termer.md) | argon termer password=85203/Liquidinfo.txt | archive text |
 | [http://www.snex.somewhere.net](http://www.snex.somewhere.net) | [aocoms3](../applications/pages/A/0121-aocoms3.md) | readme.nfo | archive text |
 | [http://www.socatel.cf:8080](http://www.socatel.cf:8080) | [Elite IP Spoofer 1.0](../applications/pages/E/0653-elite-ip-spoofer-1-0.md) | EISv1.0/highanonymity.txt | archive text |
 | [http://www.surfscreations.com](http://www.surfscreations.com) | [aocoms3](../applications/pages/A/0121-aocoms3.md) | readme.nfo | archive text |
-| [http://www.taintedx.com](http://www.taintedx.com) | [01](../applications/pages/0-9-symbols/0013-01.md) | readme.txt | archive text |
+| [http://www.taintedx.com](http://www.taintedx.com) | [01](../applications/pages/0-9-symbols/0013-idled.md) | readme.txt | archive text |
 | [http://www.teamgoogle.com](http://www.teamgoogle.com) | [Destruction Toolz 2.0 Final](../applications/pages/D/0559-destruction-toolz-2-0-final.md) | Read Me.txt | archive text |
 | [http://www.tgknuckles.com](http://www.tgknuckles.com) | [knucktoolzv1](../applications/pages/K/1078-knucktoolzv1.md) | READ ME!!!.txt | archive text |
 | [http://www.trips-playground.com](http://www.trips-playground.com) | [html grabber](../applications/pages/H/0922-html-grabber.md) | Read.txt | archive text |
@@ -201,7 +201,7 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://xer2k.cjb.net](http://xer2k.cjb.net) | [db idle](../applications/pages/D/0526-db-idle.md) | db remix/random.ini | archive text |
 | [http://xxx.xx.xx](http://xxx.xx.xx) | [IPJH1.0](../applications/pages/I/1036-ipjh1-0.md) | README.txt | archive text |
 | [http://zbo.cjb.net](http://zbo.cjb.net) | [et](../applications/pages/E/0691-et.md) | read first.txt | archive text |
-| [http://zelrip.cjb.net](http://zelrip.cjb.net) | [Premier2](../applications/pages/P/1493-premier2.md) | Read me.txt | archive text |
+| [http://zelrip.cjb.net](http://zelrip.cjb.net) | [Premier2](../applications/pages/P/1493-premier-server-b-2b-7b-3-and-5-0.md) | Read me.txt | archive text |
 | [https://aolunderground.com](https://aolunderground.com) | unknown | archive text | repository text |
 | [https://buymeacoffee.com/aolunderground](https://buymeacoffee.com/aolunderground) | unknown | archive text | repository text |
 | [https://fedorapeople.org/groups/virt/virtio-win/direct-downloads](https://fedorapeople.org/groups/virt/virtio-win/direct-downloads) | unknown | archive text | repository text |
@@ -240,24 +240,24 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [https://www.virusbulletin.com/uploads/pdf/magazine/2002/200206.pdf](https://www.virusbulletin.com/uploads/pdf/magazine/2002/200206.pdf) | unknown | archive text | repository text |
 | [http://www.jameslair.cjb.net](http://www.jameslair.cjb.net) | [aquard3](../applications/pages/A/0151-aquard3.md) | Readme.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [aquard3](../applications/pages/A/0151-aquard3.md) | Readme.txt | archive text |
-| [http://www.lenshell.com](http://www.lenshell.com) | [Bait That Shizzle](../applications/pages/B/0195-bait-that-shizzle.md) | Read Me.txt | archive text |
+| [http://www.lenshell.com](http://www.lenshell.com) | [Bait That Shizzle](../applications/pages/B/0195-bait-that-shizzle-baiter.md) | Read Me.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [BizkitXer](../applications/pages/B/0234-bizkitxer.md) | read me.txt | archive text |
 | [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) | [blackdragongold](../applications/pages/B/0238-blackdragongold.md) | READ NOW!.txt | archive text |
 | [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) | [bliss98](../applications/pages/B/0260-bliss98.md) | READ NOW!.txt | archive text |
 | [http://www.aciddr0p.net](http://www.aciddr0p.net) | [Bond40](../applications/pages/B/0286-bond40.md) | aciddr0p.netReadMe.txt | archive text |
-| [http://www.lenshell.com](http://www.lenshell.com) | [c0m7](../applications/pages/C/0336-c0m7.md) | Read me.txt | archive text |
+| [http://www.lenshell.com](http://www.lenshell.com) | [c0m7](../applications/pages/C/0336-c-0m-7beta.md) | Read me.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [c0m7 beta²](../applications/pages/C/0337-c0m7-beta2.md) | Read me.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [c0m7 final](../applications/pages/C/0338-c0m7-final.md) | Read me.txt | archive text |
 | [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) | [cfinal](../applications/pages/C/0366-cfinal.md) | READ NOW!.txt | archive text |
 | [http://spermie.cjb.net](http://spermie.cjb.net) | [chat room manager by spermie](../applications/pages/C/0381-chat-room-manager-by-spermie.md) | chat room manager/READ ME!!!.txt | archive text |
 | [http://www.kamzdomain.com](http://www.kamzdomain.com) | [Christmas 98](../applications/pages/C/0404-christmas-98.md) | README~1.TXT | archive text |
-| [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [clepto!!](../applications/pages/C/0421-clepto.md) | AutoTag.txt | archive text |
+| [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [clepto!!](../applications/pages/C/0421-clepto-room-bust.md) | AutoTag.txt | archive text |
 | [http://www.pureleetness.net](http://www.pureleetness.net) | [Dark Toolz](../applications/pages/D/0519-dark-toolz.md) | Read Me.txt | archive text |
 | [http://www.skywalkersrelm.com](http://www.skywalkersrelm.com) | [DarkLite](../applications/pages/D/0522-darklite.md) | Liquidinfo.txt | archive text |
 | [http://www.madjester.net](http://www.madjester.net) | [darkwater](../applications/pages/D/0523-darkwater.md) | MadJester - Must Read.txt | archive text |
 | [http://www.pureleetness.net](http://www.pureleetness.net) | [darkwater](../applications/pages/D/0523-darkwater.md) | Read Me.txt | archive text |
 | [http://progz.simplenet.com](http://progz.simplenet.com) | [DeAd MaN 1.0 For Aol 4.0](../applications/pages/D/0528-dead-man-1-0-for-aol-4-0.md) | Progworld.nfo | archive text |
-| [http://faygo.iwarp.com](http://faygo.iwarp.com) | [Destiny](../applications/pages/D/0551-destiny.md) | info.txt | archive text |
+| [http://faygo.iwarp.com](http://faygo.iwarp.com) | [Destiny](../applications/pages/D/0551-destiny-2-faygo-beta-3.md) | info.txt | archive text |
 | [http://faygo.iwarp.com](http://faygo.iwarp.com) | [Destiny](../applications/pages/D/0552-destiny.md) | info.txt | archive text |
 | [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [Drool_~1](../applications/pages/D/0607-drool-1.md) | AutoTag.txt | archive text |
 | [http://www.kamzdomain.com](http://www.kamzdomain.com) | [Envisions Phader](../applications/pages/E/0671-envisions-phader.md) | README~1.TXT | archive text |
@@ -265,17 +265,17 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.lenshell.com](http://www.lenshell.com) | [eternaldarkness](../applications/pages/E/0698-eternaldarkness.md) | READ_ME!!!!!!.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [Fl0pPiTy To0Lz](../applications/pages/F/0778-fl0ppity-to0lz.md) | ReadThisBe4using.txt | archive text |
 | [http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) | [fuse linker](../applications/pages/F/0802-fuse-linker.md) | fuse.txt | archive text |
-| [http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) | [g0ne](../applications/pages/G/0811-g0ne.md) | g0ne.txt | archive text |
-| [http://www.progworld.com](http://www.progworld.com) | [Global](../applications/pages/G/0842-global.md) | progworld.html | archive text |
-| [http://progz.simplenet.com](http://progz.simplenet.com) | [Global](../applications/pages/G/0842-global.md) | Progworld.nfo | archive text |
+| [http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) | [g0ne](../applications/pages/G/0811-gone.md) | g0ne.txt | archive text |
+| [http://www.progworld.com](http://www.progworld.com) | [Global](../applications/pages/G/0842-global-domination.md) | progworld.html | archive text |
+| [http://progz.simplenet.com](http://progz.simplenet.com) | [Global](../applications/pages/G/0842-global-domination.md) | Progworld.nfo | archive text |
 | [http://www.skywalkersrelm.com](http://www.skywalkersrelm.com) | [godzilla](../applications/pages/G/0849-godzilla.md) | readme.txt | archive text |
 | [http://www.kamzdomain.com](http://www.kamzdomain.com) | [Gpf](../applications/pages/G/0862-gpf.md) | README~1.TXT | archive text |
 | [http://come.to/xVeXoRx](http://come.to/xVeXoRx) | [GRAFIX](../applications/pages/G/0864-grafix.md) | IMPORTANT!!!.txt | archive text |
 | [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) | [htmlfade](../applications/pages/H/0925-htmlfade.md) | READ NOW!.txt | archive text |
-| [http://www.kamzdomain.com](http://www.kamzdomain.com) | [hydrop](../applications/pages/H/0931-hydrop.md) | README~1.TXT | archive text |
+| [http://www.kamzdomain.com](http://www.kamzdomain.com) | [hydrop](../applications/pages/H/0931-hydrophonix.md) | README~1.TXT | archive text |
 | [http://www.punknboards.com/progs](http://www.punknboards.com/progs) | [INSUR~1](../applications/pages/I/1023-insur1.md) | phatprogz.txt | archive text |
 | [http://scroll.to/aohaquh](http://scroll.to/aohaquh) | [jacked](../applications/pages/J/1044-jacked.md) | read_this.txt | archive text |
-| [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) | [kry](../applications/pages/K/1084-kry.md) | READ NOW!.txt | archive text |
+| [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) | [kry](../applications/pages/K/1084-krylonmm.md) | READ NOW!.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [lameXer](../applications/pages/L/1097-lamexer.md) | readme.txt | archive text |
 | [http://www.iec.ch](http://www.iec.ch) | [Lazer_Linka](../applications/pages/L/1105-lazer-linka.md) | Lazer_Linka.exe | archive text |
 | [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) | [legendmm](../applications/pages/L/1116-legendmm.md) | READ NOW!.txt | archive text |
@@ -284,9 +284,9 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://wav.sunsoftware.net](http://wav.sunsoftware.net) | [lnkage1](../applications/pages/L/1163-lnkage1.md) | WaV Online.1.nfo | archive text |
 | [http://wav.sunsoftware.net](http://wav.sunsoftware.net) | [lnkage111](../applications/pages/L/1164-lnkage111.md) | WaV Online.1.nfo | archive text |
 | [http://wav.sunsoftware.net](http://wav.sunsoftware.net) | [lnkage12](../applications/pages/L/1165-lnkage12.md) | WaV Online.1.nfo | archive text |
-| [http://www.progworld.com](http://www.progworld.com) | [lucifer's wrath v2.0](../applications/pages/L/1181-lucifers-wrath-v2-0.md) | progworld.html | archive text |
-| [http://progz.simplenet.com](http://progz.simplenet.com) | [lucifer's wrath v2.0](../applications/pages/L/1181-lucifers-wrath-v2-0.md) | Progworld.nfo | archive text |
-| [http://www.flufffycow.interspeed.net](http://www.flufffycow.interspeed.net) | [lucifer's wrath v2.0](../applications/pages/L/1181-lucifers-wrath-v2-0.md) | Read Me.txt | archive text |
+| [http://www.progworld.com](http://www.progworld.com) | [lucifer's wrath v2.0](../applications/pages/L/1181-lucifers-wrath-v-2-0-and-4-0.md) | progworld.html | archive text |
+| [http://progz.simplenet.com](http://progz.simplenet.com) | [lucifer's wrath v2.0](../applications/pages/L/1181-lucifers-wrath-v-2-0-and-4-0.md) | Progworld.nfo | archive text |
+| [http://www.flufffycow.interspeed.net](http://www.flufffycow.interspeed.net) | [lucifer's wrath v2.0](../applications/pages/L/1181-lucifers-wrath-v-2-0-and-4-0.md) | Read Me.txt | archive text |
 | [http://pimphak.tripod.com](http://pimphak.tripod.com) | [lusttoolz](../applications/pages/L/1183-lusttoolz.md) | read me.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [lusttoolz](../applications/pages/L/1183-lusttoolz.md) | read me.txt | archive text |
 | [http://www.angelfire.com/wi2/JDE/JDE](http://www.angelfire.com/wi2/JDE/JDE) | [macro madness xp](../applications/pages/M/1192-macro-madness-xp.md) | html punt code.txt | archive text |
@@ -295,12 +295,12 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.flufffycow.interspeed.net](http://www.flufffycow.interspeed.net) | [MagicToolz](../applications/pages/M/1204-magictoolz.md) | Flufffycow.txt | archive text |
 | [http://www.aciddr0p.net](http://www.aciddr0p.net) | [NameCaller v1](../applications/pages/N/1316-namecaller-v1.md) | aciddr0p.netReadMe.txt | archive text |
 | [http://www.aciddr0p.net](http://www.aciddr0p.net) | [nasinator](../applications/pages/N/1317-nasinator.md) | aciddr0p.netReadMe.txt | archive text |
-| [http://www.kamzdomain.com](http://www.kamzdomain.com) | [Necro](../applications/pages/N/1322-necro.md) | README~1.TXT | archive text |
+| [http://www.kamzdomain.com](http://www.kamzdomain.com) | [Necro](../applications/pages/N/1322-necromancer.md) | README~1.TXT | archive text |
 | [http://www.kamzdomain.com](http://www.kamzdomain.com) | [NorLit](../applications/pages/N/1351-norlit.md) | README~1.TXT | archive text |
 | [http://www.kamzdomain.com](http://www.kamzdomain.com) | [Nutz Punter](../applications/pages/N/1363-nutz-punter.md) | README~1.TXT | archive text |
 | [http://www.progworld.com](http://www.progworld.com) | [nWopunter](../applications/pages/N/1365-nwopunter.md) | progworld.html | archive text |
 | [http://progz.simplenet.com](http://progz.simplenet.com) | [nWopunter](../applications/pages/N/1365-nwopunter.md) | Progworld.nfo | archive text |
-| [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [one](../applications/pages/O/1378-one.md) | AutoTag.txt | archive text |
+| [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [one](../applications/pages/O/1378-anti-1im.md) | AutoTag.txt | archive text |
 | [http://www.flufffycow.interspeed.net](http://www.flufffycow.interspeed.net) | [PELLET~1](../applications/pages/P/1408-pellet1.md) | Flufffycow.txt | archive text |
 | [http://www.pureleetness.net](http://www.pureleetness.net) | [PELLET~1](../applications/pages/P/1408-pellet1.md) | Read Me.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [Progzhell Toolz Version Blog](../applications/pages/P/1508-progzhell-toolz-version-blog.md) | Progzhell Toolz Version Blog/Download_Source.txt | archive text |
@@ -309,8 +309,8 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.saberzrealm.net](http://www.saberzrealm.net) | [punt toolz 1.2](../applications/pages/P/1536-punt-toolz-1-2.md) | read me !.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | [punt toolz 1.2](../applications/pages/P/1536-punt-toolz-1-2.md) | read me !.txt | archive text |
 | [http://www.werldmayhem.com](http://www.werldmayhem.com) | [punt toolz 1.2](../applications/pages/P/1536-punt-toolz-1-2.md) | read me !.txt | archive text |
-| [http://www.angelfire.com/ri2/progzone](http://www.angelfire.com/ri2/progzone) | [pz2](../applications/pages/P/1553-pz2.md) | WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt | archive text |
-| [http://www.freeprogz.com](http://www.freeprogz.com) | [pz2](../applications/pages/P/1553-pz2.md) | WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt | archive text |
+| [http://www.angelfire.com/ri2/progzone](http://www.angelfire.com/ri2/progzone) | [pz2](../applications/pages/P/1553-pz-2.md) | WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt | archive text |
+| [http://www.freeprogz.com](http://www.freeprogz.com) | [pz2](../applications/pages/P/1553-pz-2.md) | WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt | archive text |
 | [http://scroll.to/aohaquh](http://scroll.to/aohaquh) | [qspam2](../applications/pages/Q/1557-qspam2.md) | read_this.txt | archive text |
 | [http://www.rangerweb.net](http://www.rangerweb.net) | [rangerig](../applications/pages/R/1578-rangerig.md) | @readme.doc | archive text |
 | [http://solo.abac.com/dllarchive](http://solo.abac.com/dllarchive) | [Rapid](../applications/pages/R/1579-rapid.md) | READ ME.txt | archive text |

@@ -1,5 +1,7 @@
 # Spice1 Termer
 
+
+
 Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
@@ -10,10 +12,18 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | --- | --- |
 | Archive ID | prog-1788-spice1-termer |
 | Catalog number | 1788 |
-| Name | Spice1 Termer |
+| Best known name | Spice1 Termer |
+| Best name source | catalog |
+| Catalog label | Spice1 Termer |
+| Archive filename | spice1.zip |
+| File size | unknown |
 | Author | Spice |
+| Catalog author | Spice |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Visual Basic | VB4-32 |
@@ -22,6 +32,10 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/spice1.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/spice1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/spice1.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/spice1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/spice1.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,33 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| termer's | spice1 termer | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/spice1.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/spice1.zip) | [http://lenshellarchive.com/Progs/aoltermers/spice1.zip](http://lenshellarchive.com/Progs/aoltermers/spice1.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [account or TOS tool](../../../categories/account-or-tos-tool.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

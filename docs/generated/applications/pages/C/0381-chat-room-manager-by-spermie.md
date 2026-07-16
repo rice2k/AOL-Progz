@@ -1,5 +1,7 @@
 # chat room manager by spermie
 
+
+
 A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Filename/catalog cues suggest: room buster vocabulary.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | --- | --- |
 | Archive ID | prog-0381-chat-room-manager-by-spermie |
 | Catalog number | 381 |
-| Name | chat room manager by spermie |
+| Best known name | chat room manager by spermie |
+| Best name source | catalog |
+| Catalog label | chat room manager by spermie |
+| Archive filename | chatroommanager aol7-9.zip |
+| File size | 1.4 MB |
 | Author | spermie |
+| Catalog author | spermie |
+| Inferred author | unknown |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0 |
+| AOL/version bucket | AOL 4.0; inferred: AOL 7-9 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | AOL 7-9 |
 | Prog type | Chat / IM utility |
 | Category | chat or IM tool |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
+| Matched web download links | 0 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -50,8 +64,29 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | --- | --- | --- |
 | [http://spermie.cjb.net](http://spermie.cjb.net) | chat room manager/READ ME!!!.txt | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+No additional old-page download links are matched to this entry yet.
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [chat or IM tool](../../../categories/chat-or-im-tool.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

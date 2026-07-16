@@ -1,5 +1,7 @@
 # eC v.1 by ex0r
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0633-ec-v-1-by-ex0r |
 | Catalog number | 633 |
-| Name | eC v.1 by ex0r |
+| Best known name | eC v.1 by ex0r |
+| Best name source | catalog |
+| Catalog label | eC v.1 by ex0r |
+| Archive filename | ec v3 cracker aol7-9 yr2006 win98-xp.zip |
+| File size | 3.7 MB |
 | Author | ex0r |
+| Catalog author | ex0r |
+| Inferred author | unknown |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0 |
+| AOL/version bucket | AOL 4.0; inferred: AOL 7-9 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | AOL 7-9 |
 | Prog type | Account / TOS utility |
 | Category | uncategorized |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.7 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ec v3 cracker aol7-9 yr2006 win98-xp.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ec%20v3%20cracker%20aol7-9%20yr2006%20win98-xp.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ec%20v3%20cracker%20aol7-9%20yr2006%20win98-xp.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ec%20v3%20cracker%20aol7-9%20yr2006%20win98-xp.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ec%20v3%20cracker%20aol7-9%20yr2006%20win98-xp.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,33 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| cracker's | ec v.3 cracker | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/ecv3cracker.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/ecv3cracker.zip) | [http://lenshellarchive.com/Progs/aolcrackers/ecv3cracker.zip](http://lenshellarchive.com/Progs/aolcrackers/ecv3cracker.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

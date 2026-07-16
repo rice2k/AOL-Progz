@@ -1,5 +1,7 @@
 # blinkmm
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0259-blinkmm |
 | Catalog number | 259 |
-| Name | blinkmm |
+| Best known name | blinkmm |
+| Best name source | catalog |
+| Catalog label | blinkmm |
+| Archive filename | blink.zip |
+| File size | 790 KB |
 | Author | gizm |
+| Catalog author | gizm |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB3 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 790 KB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -51,8 +66,35 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | [http://members.xoom.com/Gizmo_Crew](http://members.xoom.com/Gizmo_Crew) | blinkmm.exe | archive text |
 | [http://members.xoom.com/Gizmo_Crew/index.html](http://members.xoom.com/Gizmo_Crew/index.html) | blinkmm.exe | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| mmer's/server's | blink mm'er | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip) | [http://lenshellarchive.com/Progs/aolmmservers/blink.zip](http://lenshellarchive.com/Progs/aolmmservers/blink.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| LensHellArchive Games | blinking.jpg | [https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/blinking.jpg](https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/blinking.jpg) | [http://lenshellarchive.com/images/blinking.jpg](http://lenshellarchive.com/images/blinking.jpg) |
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

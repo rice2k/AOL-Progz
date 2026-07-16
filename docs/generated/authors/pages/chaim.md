@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1719 | [sint idle](../../applications/pages/S/1719-sint-idle.md) | Idler / AFK bot | idler or bot | AOL | AOL 4.0 | chaim | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1719 | [sint idle](../../applications/pages/S/1719-sint-idle.md) | sint idle | Idler / AFK bot | idler or bot | AOL 4.0 | chaim | unknown | remote-only | 0 |

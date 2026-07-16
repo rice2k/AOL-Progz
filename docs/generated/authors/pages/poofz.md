@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 397 | [cheezypoofzidle1.0](../../applications/pages/C/0397-cheezypoofzidle1-0.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Poofz | [local](../../../../files/aol/aol-4-0/0397-cheezypoofzidle1-0.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 397 | [cheezypoofzidle1.0](../../applications/pages/C/0397-cheezypoofzidle1-0.md) | cheezypoofzidle1.0 | Unknown / needs review | uncategorized | AOL 4.0 | Poofz | 25 KB | [local](../../../../files/aol/aol-4-0/0397-cheezypoofzidle1-0.zip) | 0 |

@@ -1,5 +1,7 @@
 # AoL IdLe TooLz
 
+
+
 A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. Filename/catalog cues suggest: idling or away automation.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | --- | --- |
 | Archive ID | prog-0137-aol-idle-toolz |
 | Catalog number | 137 |
-| Name | AoL IdLe TooLz |
+| Best known name | AoL IdLe TooLz |
+| Best name source | catalog |
+| Catalog label | AoL IdLe TooLz |
+| Archive filename | aolidle.zip |
+| File size | 114 KB |
 | Author | Speeed |
+| Catalog author | Speeed |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | All-in-one prog suite |
 | Category | idler or bot |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 114 KB |
+| Matched web download links | 5 |
+| Matched mirror leads | 21 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aolidle.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aolidle.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aolidle.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aolidle.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aolidle.zip)
+- Matched web download leads: 5 link(s) listed below
+- Matched mirror leads: 21 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,59 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| idler's | aol 7 idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aol7idle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aol7idle.zip) | [http://lenshellarchive.com/Progs/aolidlers/aol7idle.zip](http://lenshellarchive.com/Progs/aolidlers/aol7idle.zip) |
+| idler's | aol idle toolz | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aolidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aolidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/aolidle.zip](http://lenshellarchive.com/Progs/aolidlers/aolidle.zip) |
+| idler's | bbl idle³ | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bblidle3.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bblidle3.zip) | [http://lenshellarchive.com/Progs/aolidlers/bblidle3.zip](http://lenshellarchive.com/Progs/aolidlers/bblidle3.zip) |
+| idler's | i'm idling | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imidling.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imidling.zip) | [http://lenshellarchive.com/Progs/aolidlers/imidling.zip](http://lenshellarchive.com/Progs/aolidlers/imidling.zip) |
+| idler's | porn idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pornidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pornidler.zip) | [http://lenshellarchive.com/Progs/aolidlers/pornidler.zip](http://lenshellarchive.com/Progs/aolidlers/pornidler.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: idler's | 666idler.zip | [http://lenshellarchive.com/Progs/aolidlers/666idler.zip](http://lenshellarchive.com/Progs/aolidlers/666idler.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/666idler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/666idler.zip) | unknown | http-404 |
+| AIM | aimaimutopia.zip | [http://www.cybernyse.com/downlowdz/aimaimutopia.zip](http://www.cybernyse.com/downlowdz/aimaimutopia.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopia.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopia.zip) | unknown | candidate |
+| AIM | aimaimutopia.zip | [http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip](http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip) | unknown | candidate |
+| idler's | aimaimutopia.zip | [http://lenshellarchive.com/Progs/aolidlers/utopia2012.zip](http://lenshellarchive.com/Progs/aolidlers/utopia2012.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/utopia2012.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/utopia2012.zip) | unknown | candidate |
+| Section 2 | unknown4.zip | [http://www.cybernyse.com/downlowdz/unknown4.zip](http://www.cybernyse.com/downlowdz/unknown4.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/unknown4.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/unknown4.zip) | unknown | candidate |
+| idler's | unknown4.zip | [http://lenshellarchive.com/Progs/aolidlers/unknown.zip](http://lenshellarchive.com/Progs/aolidlers/unknown.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/unknown.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/unknown.zip) | unknown | candidate |
+| idler's | amxidler.zip | [http://lenshellarchive.com/Progs/aolidlers/amxidler.zip](http://lenshellarchive.com/Progs/aolidlers/amxidler.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/amxidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/amxidler.zip) | unknown | candidate |
+| idler's | bbl2idle.zip | [http://lenshellarchive.com/Progs/aolidlers/bbl2idle.zip](http://lenshellarchive.com/Progs/aolidlers/bbl2idle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bbl2idle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bbl2idle.zip) | unknown | candidate |
+| idler's | blazeidle.zip | [http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip](http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip) | unknown | candidate |
+| idler's | blazeidler.zip | [http://lenshellarchive.com/Progs/aolidlers/blazeidler.zip](http://lenshellarchive.com/Progs/aolidlers/blazeidler.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blazeidler.zip) | unknown | candidate |
+| idler's | buddahidle.zip | [http://lenshellarchive.com/Progs/aolidlers/buddahidle.zip](http://lenshellarchive.com/Progs/aolidlers/buddahidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/buddahidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/buddahidle.zip) | unknown | candidate |
+| idler's | dltech.zip | [http://lenshellarchive.com/Progs/aolidlers/dltech.zip](http://lenshellarchive.com/Progs/aolidlers/dltech.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dltech.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dltech.zip) | unknown | candidate |
+| idler's | espidlez.zip | [http://lenshellarchive.com/Progs/aolidlers/espidlez.zip](http://lenshellarchive.com/Progs/aolidlers/espidlez.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/espidlez.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/espidlez.zip) | unknown | candidate |
+| idler's | hit3chidler.zip | [http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip](http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip) | unknown | candidate |
+| idler's | imidling.zip | [http://lenshellarchive.com/Progs/aolidlers/imidling.zip](http://lenshellarchive.com/Progs/aolidlers/imidling.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imidling.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imidling.zip) | unknown | candidate |
+| idler's | jackalsidler.zip | [http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip](http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip) | unknown | candidate |
+| idler's | metroididle.zip | [http://lenshellarchive.com/Progs/aolidlers/metroididle.zip](http://lenshellarchive.com/Progs/aolidlers/metroididle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/metroididle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/metroididle.zip) | unknown | candidate |
+| idler's | pibet2.zip | [http://lenshellarchive.com/Progs/aolidlers/pibet2.zip](http://lenshellarchive.com/Progs/aolidlers/pibet2.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pibet2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pibet2.zip) | unknown | candidate |
+| idler's | psychic22.zip | [http://lenshellarchive.com/Progs/aolidlers/psychic22.zip](http://lenshellarchive.com/Progs/aolidlers/psychic22.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/psychic22.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/psychic22.zip) | unknown | candidate |
+| idler's | simpleidle.zip | [http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip](http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip) | unknown | candidate |
+| idler's | uniidle.zip | [http://lenshellarchive.com/Progs/aolidlers/uniidle.zip](http://lenshellarchive.com/Progs/aolidlers/uniidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/uniidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/uniidle.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [idler or bot](../../../categories/idler-or-bot.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

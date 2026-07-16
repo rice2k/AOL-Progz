@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 862 | [Gpf](../../applications/pages/G/0862-gpf.md) | Unknown / needs review | uncategorized | AOL | Mixed/unknown | MZd | [local](../../../../files/aol/mixed/0862-gpf.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 862 | [Gpf](../../applications/pages/G/0862-gpf.md) | Gpf | Unknown / needs review | uncategorized | Mixed/unknown | MZd | 1.4 MB | [local](../../../../files/aol/mixed/0862-gpf.zip) | 0 |

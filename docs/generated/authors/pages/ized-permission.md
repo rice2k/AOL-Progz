@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1608 | [Remote Silence](../../applications/pages/R/1608-remote-silence.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | ized permission | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1608 | [Remote Silence](../../applications/pages/R/1608-remote-silence.md) | Remote Silence | Unknown / needs review | uncategorized | AOL 4.0 | ized permission | unknown | remote-only | 0 |

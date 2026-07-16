@@ -1,5 +1,7 @@
 # Imtoolz
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-1006-imtoolz |
 | Catalog number | 1006 |
-| Name | Imtoolz |
+| Best known name | Imtoolz |
+| Best name source | catalog |
+| Catalog label | Imtoolz |
+| Archive filename | imtoolz.zip |
+| File size | 1.3 MB |
 | Author | N64Mario64 |
+| Catalog author | N64Mario64 |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
+| Matched web download links | 10 |
+| Matched mirror leads | 14 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/imtoolz.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/imtoolz.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/imtoolz.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/imtoolz.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/imtoolz.zip)
+- Matched web download leads: 10 link(s) listed below
+- Matched mirror leads: 14 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,57 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| AIM | Blood AIM Toolz | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip) | [http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip](http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip) |
+| AIM | Burning AIM Toolz v 2.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip) | [http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip](http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip) |
+| AIM | Burning AIM Toolz v 2.5 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip) | [http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip](http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip) |
+| AIM | Burning AIM Toolz v 3.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip) | [http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip](http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip) |
+| LensHell AIM progs | dark shadow im toolz | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip](http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip) |
+| AIM | Fury AIM Toolz v 3.3 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip) | [http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip](http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip) |
+| prog's/misc a-m | im toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imtoolz.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imtoolz.zip) | [http://lenshellarchive.com/Progs/aolprogs/imtoolz.zip](http://lenshellarchive.com/Progs/aolprogs/imtoolz.zip) |
+| AIM | Nash's AIM Toolz v 2 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip) | [http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip](http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip) |
+| AIM | Nirvana AIM Toolz v 1 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip) | [http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip](http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip) |
+| AIM | Sk8's AIM Toolz v 2.1 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip) | [http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip](http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| AIM | aimburningaimtoolzv20.zip | [http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip](http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip) | unknown | candidate |
+| AIM | aimburningaimtoolzv20.zip | [http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip](http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip) | unknown | candidate |
+| AIM | aimburningaimtoolzv20.zip | [http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip](http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip) | unknown | candidate |
+| AIM | aimburningaimtoolzv20.zip | [http://www.cybernyse.com/downlowdz/aimburningaimv1.zip](http://www.cybernyse.com/downlowdz/aimburningaimv1.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimv1.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimv1.zip) | unknown | candidate |
+| AIM | aimfuryaim.zip | [http://www.cybernyse.com/downlowdz/aimfuryaim.zip](http://www.cybernyse.com/downlowdz/aimfuryaim.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaim.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaim.zip) | unknown | candidate |
+| LensHell AIM progs | aimfuryaim.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip](http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip) | unknown | candidate |
+| AIM | aimfuryaim.zip | [http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip](http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip) | unknown | candidate |
+| Oogle AIM progs | aimfuryaim.zip | [http://www.oogle.net/downloads/progs/furyaim.zip](http://www.oogle.net/downloads/progs/furyaim.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/furyaim.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/furyaim.zip) | unknown | candidate |
+| AIM | aimsk8saimtoolzv21.zip | [http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip](http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip) | unknown | candidate |
+| LensHell AIM progs | aimsk8saimtoolzv21.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/sk8stoolz.zip](http://lenshellarchive.com/Progs/aimprogs/misc/sk8stoolz.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/sk8stoolz.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/sk8stoolz.zip) | unknown | candidate |
+| AIM | aimbloodaimtoolz.zip | [http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip](http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip) | unknown | candidate |
+| AIM | aimnashsaimtoolzv2.zip | [http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip](http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip) | unknown | candidate |
+| AIM | aimnirvanaaimtoolzv1.zip | [http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip](http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip) | unknown | candidate |
+| LensHell AIM progs | dsimtoolz.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip](http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

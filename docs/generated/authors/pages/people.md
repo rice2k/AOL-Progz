@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 369 | [cham](../../applications/pages/C/0369-cham.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | people | [local](../../../../files/aol/aol-4-0/0369-cham.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 369 | [Cham](../../applications/pages/C/0369-cham.md) | cham | Unknown / needs review | uncategorized | AOL 4.0 | people | 1.4 MB | [local](../../../../files/aol/aol-4-0/0369-cham.zip) | 0 |

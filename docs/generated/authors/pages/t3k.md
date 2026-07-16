@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 158 | [armatech xp](../../applications/pages/A/0158-armatech-xp.md) | Unknown / needs review | uncategorized | AOL | Mixed/unknown | t3k | [local](../../../../files/aol/mixed/0158-armatech-xp.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 158 | [armatech xp](../../applications/pages/A/0158-armatech-xp.md) | armatech xp | Unknown / needs review | uncategorized | Mixed/unknown | t3k | 7.8 MB | [local](../../../../files/aol/mixed/0158-armatech-xp.zip) | 0 |

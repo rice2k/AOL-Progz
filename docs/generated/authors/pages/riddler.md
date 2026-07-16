@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1685 | [Sheep](../../applications/pages/S/1685-sheep.md) | Unknown / needs review | uncategorized | AOL | Mixed/unknown | RiDDLeR | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1685 | [AOMess 4](../../applications/pages/S/1685-aomess-4.md) | Sheep | Unknown / needs review | uncategorized | AOL 2.5 | RiDDLeR; inferred: Lynx | unknown | remote-only | 0 |

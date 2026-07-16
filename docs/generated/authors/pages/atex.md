@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1831 | [stxu](../../applications/pages/S/1831-stxu.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | atex | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1831 | [Stxu](../../applications/pages/S/1831-stxu.md) | stxu | Unknown / needs review | uncategorized | AOL 4.0 | atex | unknown | remote-only | 0 |

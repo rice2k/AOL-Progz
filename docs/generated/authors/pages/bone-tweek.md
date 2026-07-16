@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 676 | [EqUaLizeR](../../applications/pages/E/0676-equalizer.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | BoNe & TwEeK | [local](../../../../files/aol/aol-4-0/0676-equalizer.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 676 | [EqUaLizeR](../../applications/pages/E/0676-equalizer.md) | EqUaLizeR | Unknown / needs review | uncategorized | AOL 4.0 | BoNe & TwEeK | 839 KB | [local](../../../../files/aol/aol-4-0/0676-equalizer.zip) | 0 |

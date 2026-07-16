@@ -1,5 +1,7 @@
 # cracker7
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0470-cracker7 |
 | Catalog number | 470 |
-| Name | cracker7 |
+| Best known name | cracker7 |
+| Best name source | catalog |
+| Catalog label | cracker7 |
+| Archive filename | i will crack 7 aol7 xp.zip |
+| File size | 1.8 MB |
 | Author | myke |
+| Catalog author | myke |
+| Inferred author | unknown |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0 |
+| AOL/version bucket | AOL 4.0; inferred: AOL 7 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | AOL 7 |
 | Prog type | Account / TOS utility |
 | Category | uncategorized |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.8 MB |
+| Matched web download links | 0 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -46,8 +60,29 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+No additional old-page download links are matched to this entry yet.
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

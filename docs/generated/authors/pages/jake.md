@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 939 | [i can scan by jake](../../applications/pages/I/0939-i-can-scan-by-jake.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | jake | [local](../../../../files/aol/aol-4-0/0939-i-can-scan-by-jake.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 939 | [i can scan by jake](../../applications/pages/I/0939-i-can-scan-by-jake.md) | i can scan by jake | Unknown / needs review | uncategorized | AOL 4.0 | jake | 2.6 MB | [local](../../../../files/aol/aol-4-0/0939-i-can-scan-by-jake.zip) | 0 |

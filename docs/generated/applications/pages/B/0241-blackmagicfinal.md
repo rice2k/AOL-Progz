@@ -1,5 +1,7 @@
 # blackmagicfinal
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0241-blackmagicfinal |
 | Catalog number | 241 |
-| Name | blackmagicfinal |
+| Best known name | blackmagicfinal |
+| Best name source | catalog |
+| Catalog label | blackmagicfinal |
+| Archive filename | blackmagicfinal.zip |
+| File size | 3.9 MB |
 | Author | going |
+| Catalog author | going |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Catalog AOL/version bucket | Mixed/unknown |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | non-VB |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.9 MB |
+| Matched web download links | 0 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -46,8 +60,29 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+No additional old-page download links are matched to this entry yet.
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [Mixed/unknown](../../../versions/mixedunknown.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

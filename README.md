@@ -11,6 +11,7 @@ scene links.**
 ![size](https://img.shields.io/badge/local%20archive-2.2GB-ffd34d)
 ![links](https://img.shields.io/badge/crawled%20links-6,707-7aa8ff)
 ![downloads](https://img.shields.io/badge/download%20links-3,450-ff5b8f)
+![web-downloads](https://img.shields.io/badge/web%20download%20matches-2,007-bb8cff)
 ![docs](https://img.shields.io/badge/generated%20docs-3,000%2B-lightgrey)
 
 </div>
@@ -19,7 +20,10 @@ scene links.**
 
 | Browse | What it shows |
 | --- | --- |
-| [Detailed all-progs inventory](docs/generated/applications/all-programs-detailed.md) | Every cataloged prog/app with actual name, archive filename, inferred prog type, category, AOL version, author, local file, source URL, embedded URLs, and screenshot count. |
+| [Detailed all-progs inventory](docs/generated/applications/all-programs-detailed.md) | Every cataloged prog/app with best-known name, catalog label, archive filename, size, inferred prog type, category, AOL version, author, local file, raw download, source URL, web-download count, embedded URLs, and screenshot count. |
+| [All program download links](docs/generated/applications/all-program-downloads.md) | Every catalog entry with local file, raw source download, original source page, matched old-page download links, and mirror leads. |
+| [Program metadata enrichment report](docs/generated/applications/enrichment-report.md) | Best-name improvements, inferred authors/AOL versions, sizes, web download lead counts, source mentions, and mirror-lead counts. |
+| [Web research mentions](docs/generated/applications/web-research-mentions.md) | Strong program-level mentions extracted from source pages such as AOLUnderground.com. |
 | [Master all-links index](docs/generated/sources/all-links.md) | Deduped master list of user-supplied links, crawled links, download links, embedded archive URLs, mirrors, and source pages. |
 | [Links you supplied](docs/generated/sources/user-supplied-links.md) | The priority source links from the request, preserved as their own page. |
 | [Sources and old-school links](docs/generated/sources/README.md) | Curated source notes, crawled pages, mirror groups, missing candidates, Methodus2000, FreeProgz, LensHell, RiceJerry, LolToolz, and more. |
@@ -40,6 +44,11 @@ scene links.**
 | Inferred categories | 12 |
 | Programs with embedded URLs | 170 |
 | URLs found in readable archive text | 234 |
+| Programs with improved best-known names | 518 |
+| Programs with matched web download leads | 2,007 |
+| Matched web download links | 2,575 |
+| Programs with mirror leads | 203 |
+| Strong source-page program mentions | 5 |
 | Crawled source pages | 156 |
 | Unique crawled links | 6,707 |
 | Crawled download links | 3,450 |
@@ -51,7 +60,8 @@ The site includes:
 
 - A searchable catalog generated from `ssstonebraker/aolunderground-proggies`.
 - GitHub-readable generated documentation with one detail page per main catalog
-  application.
+  application, including size, raw download URL, original source URL, matched
+  web downloads, mirror leads, and source-page evidence when available.
 - Local downloadable archive files under `files/` when the source blob can be
   mirrored within normal GitHub file-size limits.
 - Screenshot-aware program cards when source screenshots are available.
@@ -64,6 +74,8 @@ The site includes:
   passwords, and largest mirrored files.
 - A deduplicated URL index for original sites, homepages, and download clues
   discovered in repository text and safely readable archive text.
+- A separate enrichment index that improves weak catalog labels from archive
+  filenames and old-page evidence while preserving the original catalog label.
 - Crawled old resource pages and link directories, including FreeProgz,
   RiceJerry, LolToolz, LensHellArchive, Methodus2000, Oogle, ProgStation,
   AimThings, CoolKid/Text2k, and related Wayback captures.
@@ -136,6 +148,7 @@ node tools/build-missing-candidates.mjs
 To rebuild the GitHub-readable documentation pages:
 
 ```powershell
+node tools/build-program-enrichment.mjs
 node tools/build-github-docs.mjs
 ```
 

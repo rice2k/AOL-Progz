@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 650 | [elements of destruction](../../applications/pages/E/0650-elements-of-destruction.md) | Account / TOS utility | account or TOS tool | AOL | Mixed/unknown | USING | [local](../../../../files/aol/mixed/0650-elements-of-destruction.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 650 | [Elements Of Destruction Ownz All](../../applications/pages/E/0650-elements-of-destruction-ownz-all.md) | elements of destruction | Account / TOS utility | account or TOS tool | AOL 4-5 | USING | 52 MB | [local](../../../../files/aol/mixed/0650-elements-of-destruction.zip) | 0 |

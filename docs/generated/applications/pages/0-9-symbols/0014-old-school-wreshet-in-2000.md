@@ -1,0 +1,93 @@
+# Old School Wreshet In 2000
+
+Catalog label: **0sw**.
+
+Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary.
+
+**Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-0014-0sw |
+| Catalog number | 14 |
+| Best known name | Old School Wreshet In 2000 |
+| Best name source | archive filename |
+| Catalog label | 0sw |
+| Archive filename | old school wreshet password=0SW in 2000.zip |
+| File size | 1.1 MB |
+| Author | fifa |
+| Catalog author | fifa |
+| Inferred author | unknown |
+| Platform | AOL |
+| AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
+| Prog type | Account / TOS utility |
+| Category | account or TOS tool |
+| Visual Basic | VB3 |
+| Compile type | p-code |
+| Duplicate count | 3 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 1.1 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
+
+## Tags
+
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#vb3](../../../tags/vb3.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-4-0/0014-0sw.zip](../../../../../files/aol/aol-4-0/0014-0sw.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/old school wreshet password=0SW in 2000.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/old%20school%20wreshet%20password%3D0SW%20in%202000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/old%20school%20wreshet%20password%3D0SW%20in%202000.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/old%20school%20wreshet%20password%3D0SW%20in%202000.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/old%20school%20wreshet%20password%3D0SW%20in%202000.zip)
+- Matched web download leads: 1 link(s) listed below
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+No readable original URLs were found inside the mirrored archive text during the current scan.
+
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| termer's | old school wreshet | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/osw.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/osw.zip) | [http://lenshellarchive.com/Progs/aoltermers/osw.zip](http://lenshellarchive.com/Progs/aoltermers/osw.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
+## Related Indexes
+
+- Category: [account or TOS tool](../../../categories/account-or-tos-tool.md)
+- Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
+- Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

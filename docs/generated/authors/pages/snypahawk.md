@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1168 | [LoAupchat](../../applications/pages/L/1168-loaupchat.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | SnypaHawk | [local](../../../../files/aol/aol-4-0/1168-loaupchat.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1168 | [LoAupchat](../../applications/pages/L/1168-loaupchat.md) | LoAupchat | Unknown / needs review | uncategorized | AOL 4.0 | SnypaHawk | 402 KB | [local](../../../../files/aol/aol-4-0/1168-loaupchat.zip) | 0 |

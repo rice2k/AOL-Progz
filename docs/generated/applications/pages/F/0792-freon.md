@@ -1,4 +1,6 @@
-# FREON
+# Freon
+
+Catalog label: **FREON**.
 
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0792-freon |
 | Catalog number | 792 |
-| Name | FREON |
+| Best known name | Freon |
+| Best name source | archive filename |
+| Catalog label | FREON |
+| Archive filename | freon.zip |
+| File size | 222 KB |
 | Author | Dryice |
+| Catalog author | Dryice |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 222 KB |
+| Matched web download links | 2 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip)
+- Matched web download leads: 2 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,34 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Progs Section 1 | Freon | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freon.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freon.zip) | [http://www.cybernyse.com/freon.zip](http://www.cybernyse.com/freon.zip) |
+| prog's/misc a-m | freon 4.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freon.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freon.zip) | [http://lenshellarchive.com/Progs/aolprogs/freon.zip](http://lenshellarchive.com/Progs/aolprogs/freon.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

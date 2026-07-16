@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1497 | [prjCracker](../../applications/pages/P/1497-prjcracker.md) | Account / TOS utility | uncategorized | AOL | AOL 4.0 | serial have fun | [local](../../../../files/aol/aol-4-0/1497-prjcracker.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1497 | [prjCracker](../../applications/pages/P/1497-prjcracker.md) | prjCracker | Account / TOS utility | uncategorized | AOL 4.0; inferred: AOL 5 | serial have fun | 1.6 MB | [local](../../../../files/aol/aol-4-0/1497-prjcracker.zip) | 0 |

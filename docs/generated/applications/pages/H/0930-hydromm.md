@@ -1,0 +1,102 @@
+# Hydromm
+
+Catalog label: **hydro**.
+
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+
+**Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
+
+## Metadata
+
+| Field | Value |
+| --- | --- |
+| Archive ID | prog-0930-hydro |
+| Catalog number | 930 |
+| Best known name | Hydromm |
+| Best name source | archive filename |
+| Catalog label | hydro |
+| Archive filename | hydromm.zip |
+| File size | 693 KB |
+| Author | X6725; inferred: Chronie |
+| Catalog author | X6725 |
+| Inferred author | Chronie |
+| Platform | AOL |
+| AOL/version bucket | AOL 4.0; inferred: 3.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | 3.0 |
+| Prog type | Unknown / needs review |
+| Category | uncategorized |
+| Visual Basic | VB3 |
+| Compile type | p-code |
+| Duplicate count | 2 |
+| Archive password metadata | not recorded |
+| Download status | ready |
+| Local mirrored size | 693 KB |
+| Matched web download links | 3 |
+| Matched mirror leads | 0 |
+| Web research mentions | 1 |
+| Web image leads | 4 |
+
+## Tags
+
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+
+## Source And Files
+
+- Local mirrored archive: [files/aol/aol-4-0/0930-hydro.zip](../../../../../files/aol/aol-4-0/0930-hydro.zip)
+- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hydromm.zip`
+- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hydromm.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hydromm.zip)
+- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hydromm.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hydromm.zip)
+- Matched web download leads: 3 link(s) listed below
+
+## AOL Version Context
+
+The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
+## Screenshots
+
+No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.
+
+## Embedded Or Original URLs
+
+No readable original URLs were found inside the mirrored archive text during the current scan.
+
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+| Source | Evidence | URL | Notes |
+| --- | --- | --- | --- |
+| AOLUnderground.com ProGGieS | Hydro Toolz by Chronie | [https://aolunderground.com/proggies/](https://aolunderground.com/proggies/) | author: Chronie<br>AOL/version: 3.0<br>AOL/version listed as 3.0. 1 download link(s) in the source section. 4 image link(s) in the source section. |
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| mmer's/server's | hydro chronic massmailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip) | [http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip](http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip) |
+| Progs Section 1 | Hydro Toolz | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/hydrotoolz.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/hydrotoolz.zip) | [http://www.cybernyse.com/hydrotoolz.zip](http://www.cybernyse.com/hydrotoolz.zip) |
+| AOLUnderground.com ProGGieS | https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip | [https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AOLUnderground.com ProGGieS | image-7.png | [https://aolunderground.com/wp-content/uploads/2022/07/image-7.png](https://aolunderground.com/wp-content/uploads/2022/07/image-7.png) | [https://aolunderground.com/wp-content/uploads/2022/07/image-7.png](https://aolunderground.com/wp-content/uploads/2022/07/image-7.png) |
+| AOLUnderground.com ProGGieS | image-4.png | [https://aolunderground.com/wp-content/uploads/2022/07/image-4.png](https://aolunderground.com/wp-content/uploads/2022/07/image-4.png) | [https://aolunderground.com/wp-content/uploads/2022/07/image-4.png](https://aolunderground.com/wp-content/uploads/2022/07/image-4.png) |
+| AOLUnderground.com ProGGieS | image-5.png | [https://aolunderground.com/wp-content/uploads/2022/07/image-5.png](https://aolunderground.com/wp-content/uploads/2022/07/image-5.png) | [https://aolunderground.com/wp-content/uploads/2022/07/image-5.png](https://aolunderground.com/wp-content/uploads/2022/07/image-5.png) |
+| AOLUnderground.com ProGGieS | image-6.png | [https://aolunderground.com/wp-content/uploads/2022/07/image-6.png](https://aolunderground.com/wp-content/uploads/2022/07/image-6.png) | [https://aolunderground.com/wp-content/uploads/2022/07/image-6.png](https://aolunderground.com/wp-content/uploads/2022/07/image-6.png) |
+
+## Related Indexes
+
+- Category: [uncategorized](../../../categories/uncategorized.md)
+- Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
+- Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

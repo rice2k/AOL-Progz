@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 890 | [HAZY](../../applications/pages/H/0890-hazy.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | hazy | [local](../../../../files/aol/aol-4-0/0890-hazy.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 890 | [Hazy](../../applications/pages/H/0890-hazy.md) | HAZY | Unknown / needs review | uncategorized | AOL 4.0 | hazy | 1.3 MB | [local](../../../../files/aol/aol-4-0/0890-hazy.zip) | 0 |

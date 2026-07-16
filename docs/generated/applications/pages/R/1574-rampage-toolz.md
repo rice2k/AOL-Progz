@@ -1,5 +1,7 @@
 # Rampage Toolz
 
+
+
 A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | --- | --- |
 | Archive ID | prog-1574-rampage-toolz |
 | Catalog number | 1574 |
-| Name | Rampage Toolz |
+| Best known name | Rampage Toolz |
+| Best name source | catalog |
+| Catalog label | Rampage Toolz |
+| Archive filename | rampage.zip |
+| File size | 22 B |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip)
+- Matched web download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,37 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc n-z | rampage toolz | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip) | [http://lenshellarchive.com/Progs/aolprogs/rampage.zip](http://lenshellarchive.com/Progs/aolprogs/rampage.zip) |
+| Section 2 | Rampage Toolz 1.1 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip) | [http://www.cybernyse.com/downlowdz/rampage.zip](http://www.cybernyse.com/downlowdz/rampage.zip) |
+| Section 2 | Rampage Toolz 2.0 | [https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe](https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe) | [http://www.oogle.net/rampage/setuprt22.exe](http://www.oogle.net/rampage/setuprt22.exe) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Section 2 | setuprt22.exe | [http://www.oogle.net/rampage/setuprt22.exe](http://www.oogle.net/rampage/setuprt22.exe) | [https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe](https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [all-in-one prog](../../../categories/all-in-one-prog.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

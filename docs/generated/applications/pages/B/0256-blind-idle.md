@@ -1,5 +1,7 @@
 # Blind Idle
 
+
+
 A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. Filename/catalog cues suggest: idling or away automation.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | --- | --- |
 | Archive ID | prog-0256-blind-idle |
 | Catalog number | 256 |
-| Name | Blind Idle |
+| Best known name | Blind Idle |
+| Best name source | catalog |
+| Catalog label | Blind Idle |
+| Archive filename | blind.zip |
+| File size | 1.7 MB |
 | Author | late |
+| Catalog author | late |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
+| Matched web download links | 5 |
+| Matched mirror leads | 3 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blind.zip)
+- Matched web download leads: 5 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,41 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| idler's | blind idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blind.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blind.zip) | [http://lenshellarchive.com/Progs/aolidlers/blind.zip](http://lenshellarchive.com/Progs/aolidlers/blind.zip) |
+| Progs Section 1 | Blind Idle | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blindidle.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blindidle.zip) | [http://www.cybernyse.com/blindidle.zip](http://www.cybernyse.com/blindidle.zip) |
+| punter's | blind surgeon | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blind.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blind.zip) | [http://lenshellarchive.com/Progs/aolpunters/blind.zip](http://lenshellarchive.com/Progs/aolpunters/blind.zip) |
+| Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/blindidle.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip) | [http://www.oogle.net/downloads/progs/blindidle.zip](http://www.oogle.net/downloads/progs/blindidle.zip) |
+| APPLICATIONS | Window Blinds 2 | [https://web.archive.org/web/20010221025545/http://server39.hypermart.net/wipeout/wblind.zip](https://web.archive.org/web/20010221025545/http://server39.hypermart.net/wipeout/wblind.zip) | [http://server39.hypermart.net/wipeout/wblind.zip](http://server39.hypermart.net/wipeout/wblind.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Progs Section 1 | blindidle.zip | [http://www.cybernyse.com/blindidle.zip](http://www.cybernyse.com/blindidle.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blindidle.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blindidle.zip) | unknown | candidate |
+| Aol 4.0/5.0 Progs | blindidle.zip | [http://www.oogle.net/downloads/progs/blindidle.zip](http://www.oogle.net/downloads/progs/blindidle.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip) | unknown | candidate |
+| APPLICATIONS | wblind.zip | [http://server39.hypermart.net/wipeout/wblind.zip](http://server39.hypermart.net/wipeout/wblind.zip) | [https://web.archive.org/web/20010221025545/http://server39.hypermart.net/wipeout/wblind.zip](https://web.archive.org/web/20010221025545/http://server39.hypermart.net/wipeout/wblind.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [idler or bot](../../../categories/idler-or-bot.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 100 | [ANTI](../../applications/pages/A/0100-anti.md) | Unknown / needs review | uncategorized | AOL | AOL 3.0 | ZiG & MaN | [local](../../../../files/aol/aol-3-0/0100-anti.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 100 | [Antierror](../../applications/pages/A/0100-antierror.md) | ANTI | Unknown / needs review | uncategorized | AOL 3.0 | ZiG & MaN | 81 KB | [local](../../../../files/aol/aol-3-0/0100-anti.zip) | 0 |

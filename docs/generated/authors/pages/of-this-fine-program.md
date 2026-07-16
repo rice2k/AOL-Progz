@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1454 | [PKZIP](../../applications/pages/P/1454-pkzip.md) | Unknown / needs review | uncategorized | AOL | Mixed/unknown | of this fine program | [local](../../../../files/aol/mixed/1454-pkzip.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1454 | [Faltoser](../../applications/pages/P/1454-faltoser.md) | PKZIP | Unknown / needs review | uncategorized | Mixed/unknown | of this fine program | 1.4 MB | [local](../../../../files/aol/mixed/1454-pkzip.zip) | 0 |

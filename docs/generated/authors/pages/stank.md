@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 220 | [beta²](../../applications/pages/B/0220-beta2.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | stank | [local](../../../../files/aol/aol-4-0/0220-beta2.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 220 | [Stinky](../../applications/pages/B/0220-stinky.md) | beta² | Unknown / needs review | uncategorized | AOL 4.0 | stank | 488 KB | [local](../../../../files/aol/aol-4-0/0220-beta2.zip) | 0 |

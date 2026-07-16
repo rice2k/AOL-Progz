@@ -1,5 +1,7 @@
 # Final Destination
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0770-final-destination |
 | Catalog number | 770 |
-| Name | Final Destination |
+| Best known name | Final Destination |
+| Best name source | catalog |
+| Catalog label | Final Destination |
+| Archive filename | finaldestination.zip |
+| File size | 3.0 MB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
+| Matched web download links | 4 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip)
+- Matched web download leads: 4 link(s) listed below
 
 ## AOL Version Context
 
@@ -51,8 +66,36 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | [http://www.finaldestination.cjb.net](http://www.finaldestination.cjb.net) | ReadMe.txt | archive text |
 | [http://www.mastaincorporated.com](http://www.mastaincorporated.com) | ReadMe.txt | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| LolToolz progs | Final Destination | [https://web.archive.org/web/20021018083822/http://members.aol.com/ixixixi0ixixixi/Final.zip](https://web.archive.org/web/20021018083822/http://members.aol.com/ixixixi0ixixixi/Final.zip) | [http://members.aol.com/ixixixi0ixixixi/Final.zip](http://members.aol.com/ixixixi0ixixixi/Final.zip) |
+| Progs Section 1 | Final Destination | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/finaldestination.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/finaldestination.zip) | [http://www.cybernyse.com/finaldestination.zip](http://www.cybernyse.com/finaldestination.zip) |
+| prog's/misc a-m | final destination¹ | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) | [http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) |
+| Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/finaldestination.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip) | [http://www.oogle.net/downloads/progs/finaldestination.zip](http://www.oogle.net/downloads/progs/finaldestination.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

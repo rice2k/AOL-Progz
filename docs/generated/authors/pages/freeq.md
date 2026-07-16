@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2094 | [y3x](../../applications/pages/Y/2094-y3x.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | freeq | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2094 | [Y 3x 1](../../applications/pages/Y/2094-y-3x-1.md) | y3x | Unknown / needs review | uncategorized | AOL 4.0 | freeq | unknown | remote-only | 0 |

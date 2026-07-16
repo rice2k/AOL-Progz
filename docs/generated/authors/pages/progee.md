@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1443 | [Phrost](../../applications/pages/P/1443-phrost.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Progee | [local](../../../../files/aol/aol-4-0/1443-phrost.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1443 | [PhrostByte](../../applications/pages/P/1443-phrostbyte.md) | Phrost | Unknown / needs review | uncategorized | AOL 4.0 | Progee | 1.5 MB | [local](../../../../files/aol/aol-4-0/1443-phrost.zip) | 0 |

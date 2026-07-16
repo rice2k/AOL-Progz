@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1775 | [spamu](../../applications/pages/S/1775-spamu.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | bezrk | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1775 | [Spamu](../../applications/pages/S/1775-spamu.md) | spamu | Unknown / needs review | uncategorized | AOL 4.0 | bezrk | unknown | remote-only | 0 |

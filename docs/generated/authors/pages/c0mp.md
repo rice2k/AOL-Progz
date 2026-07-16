@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 51 | [AcidIdle](../../applications/pages/A/0051-acididle.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | c0mp | [local](../../../../files/aol/aol-4-0/0051-acididle.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 51 | [AcidIdle](../../applications/pages/A/0051-acididle.md) | AcidIdle | Unknown / needs review | uncategorized | AOL 4.0 | c0mp | 1.3 MB | [local](../../../../files/aol/aol-4-0/0051-acididle.zip) | 0 |

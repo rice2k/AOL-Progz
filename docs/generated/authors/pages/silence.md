@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1251 | [metal╣ idle](../../applications/pages/M/1251-metal-idle.md) | Idler / AFK bot | idler or bot | AOL | AOL 4.0 | silence | [local](../../../../files/aol/aol-4-0/1251-metal-idle.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1251 | [metal╣ idle](../../applications/pages/M/1251-metal-idle.md) | metal╣ idle | Idler / AFK bot | idler or bot | AOL 4.0 | silence | 1.4 MB | [local](../../../../files/aol/aol-4-0/1251-metal-idle.zip) | 0 |

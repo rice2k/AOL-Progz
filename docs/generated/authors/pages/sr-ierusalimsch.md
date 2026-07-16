@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2003 | [voicemeiser2setup](../../applications/pages/V/2003-voicemeiser2setup.md) | Unknown / needs review | uncategorized | AOL | Mixed/unknown | s}R. Ierusalimsch | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2003 | [voicemeiser2setup](../../applications/pages/V/2003-voicemeiser2setup.md) | voicemeiser2setup | Unknown / needs review | uncategorized | Mixed/unknown | s}R. Ierusalimsch | unknown | remote-only | 0 |

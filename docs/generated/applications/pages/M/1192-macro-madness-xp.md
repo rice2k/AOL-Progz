@@ -1,5 +1,7 @@
 # macro madness xp
 
+
+
 A macro, ASCII art, canned-command, or repeated-text utility for chat/profile output. Filename/catalog cues suggest: scrolling, macros, or ASCII text.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | --- | --- |
 | Archive ID | prog-1192-macro-madness-xp |
 | Catalog number | 1192 |
-| Name | macro madness xp |
+| Best known name | macro madness xp |
+| Best name source | catalog |
+| Catalog label | macro madness xp |
+| Archive filename | madnessxp.zip |
+| File size | 1.4 MB |
 | Author | JDE |
+| Catalog author | JDE |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Scroller / macro |
 | Category | scroller or macro |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/madnessxp.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/madnessxp.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/madnessxp.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/madnessxp.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/madnessxp.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -50,8 +65,33 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | --- | --- | --- |
 | [http://www.angelfire.com/wi2/JDE/JDE](http://www.angelfire.com/wi2/JDE/JDE) | html punt code.txt | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc a-m | macro madness xp | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip) | [http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip](http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [scroller or macro](../../../categories/scroller-or-macro.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

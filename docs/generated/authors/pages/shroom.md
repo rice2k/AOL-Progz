@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1377 | [omegat~1](../../applications/pages/O/1377-omegat1.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Shroom | [local](../../../../files/aol/aol-4-0/1377-omegat1.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1377 | [omegat~1](../../applications/pages/O/1377-omegat1.md) | omegat~1 | Unknown / needs review | uncategorized | AOL 4.0 | Shroom | 794 KB | [local](../../../../files/aol/aol-4-0/1377-omegat1.zip) | 0 |

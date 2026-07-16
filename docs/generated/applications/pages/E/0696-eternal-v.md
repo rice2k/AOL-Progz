@@ -1,5 +1,7 @@
 # eternal v▌
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0696-eternal-v |
 | Catalog number | 696 |
-| Name | eternal v▌ |
+| Best known name | eternal v▌ |
+| Best name source | catalog |
+| Catalog label | eternal v▌ |
+| Archive filename | eternal.zip |
+| File size | 139 KB |
 | Author | s Realm is a tsp |
+| Catalog author | s Realm is a tsp |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 139 KB |
+| Matched web download links | 4 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/eternal.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/eternal.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/eternal.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/eternal.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/eternal.zip)
+- Matched web download leads: 4 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,38 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| c-coms | eternal c-coms v3 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eternal.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eternal.zip) | [http://lenshellarchive.com/Progs/aolccoms/eternal.zip](http://lenshellarchive.com/Progs/aolccoms/eternal.zip) |
+| Progs Section 1 | Eternal C-Coms v3 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/eternalccomsv3.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/eternalccomsv3.zip) | [http://www.cybernyse.com/eternalccomsv3.zip](http://www.cybernyse.com/eternalccomsv3.zip) |
+| LensHell AIM progs | eternal darkness | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/eternal.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/eternal.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/eternal.zip](http://lenshellarchive.com/Progs/aimprogs/misc/eternal.zip) |
+| Progs Section 1 | Eternal Darkness 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/eternaldarkness2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/eternaldarkness2.zip) | [http://www.cybernyse.com/eternaldarkness2.zip](http://www.cybernyse.com/eternaldarkness2.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Progs Section 1 | eternalccomsv3.zip | [http://www.cybernyse.com/eternalccomsv3.zip](http://www.cybernyse.com/eternalccomsv3.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/eternalccomsv3.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/eternalccomsv3.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1310 | [mxpx](../../applications/pages/M/1310-mxpx.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | me, nes | [local](../../../../files/aol/aol-4-0/1310-mxpx.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1310 | [Mxpx](../../applications/pages/M/1310-mxpx.md) | mxpx | Unknown / needs review | uncategorized | AOL 4.0 | me, nes | 1.7 MB | [local](../../../../files/aol/aol-4-0/1310-mxpx.zip) | 0 |

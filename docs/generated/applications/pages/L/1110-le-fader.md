@@ -1,5 +1,7 @@
 # Le-Fader
 
+
+
 A text effect utility, usually for color fades, styled text, profile text, room text, or IM formatting. Filename/catalog cues suggest: text fading.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | --- | --- |
 | Archive ID | prog-1110-le-fader |
 | Catalog number | 1110 |
-| Name | Le-Fader |
+| Best known name | Le-Fader |
+| Best name source | catalog |
+| Catalog label | Le-Fader |
+| Archive filename | lethalempirefaderaol9-9.1winXPvistayr2008.zip |
+| File size | 3.3 MB |
 | Author | ity0 |
+| Catalog author | ity0 |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Catalog AOL/version bucket | Mixed/unknown |
+| Inferred AOL version | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.3 MB |
+| Matched web download links | 2 |
+| Matched mirror leads | 5 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip)
+- Matched web download leads: 2 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,40 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/lethal.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip) | [http://www.oogle.net/downloads/progs/lethal.zip](http://www.oogle.net/downloads/progs/lethal.zip) |
+| LensHell faders | lethal empire fader | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) | [http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Aol 4.0/5.0 Progs | lethal.zip | [http://www.oogle.net/downloads/progs/lethal.zip](http://www.oogle.net/downloads/progs/lethal.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip) | unknown | candidate |
+| Section 2 | lethal.zip | [http://www.cybernyse.com/downlowdz/lethal.zip](http://www.cybernyse.com/downlowdz/lethal.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip) | unknown | candidate |
+| prog's/misc a-m | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | unknown | candidate |
+| prog's/misc a-m | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal.zip](http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | unknown | candidate |
+| LensHell faders | lethalempirefader.zip | [http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [fader or text tool](../../../categories/fader-or-text-tool.md)
 - Version bucket: [Mixed/unknown](../../../versions/mixedunknown.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

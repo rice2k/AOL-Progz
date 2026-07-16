@@ -1,5 +1,7 @@
 # Dark Age Fader 1.0
 
+
+
 A text effect utility, usually for color fades, styled text, profile text, room text, or IM formatting. Filename/catalog cues suggest: text fading.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | --- | --- |
 | Archive ID | prog-0511-dark-age-fader-1-0 |
 | Catalog number | 511 |
-| Name | Dark Age Fader 1.0 |
+| Best known name | Dark Age Fader 1.0 |
+| Best name source | catalog |
+| Catalog label | Dark Age Fader 1.0 |
+| Archive filename | darkagefader1foraol7-8winALL.zip |
+| File size | 1.5 MB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 6.0 |
+| Catalog AOL/version bucket | AOL 6.0 |
+| Inferred AOL version | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.5 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/darkagefader1foraol7-8winALL.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/darkagefader1foraol7-8winALL.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/darkagefader1foraol7-8winALL.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/darkagefader1foraol7-8winALL.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/darkagefader1foraol7-8winALL.zip)
+- Matched web download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,35 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| LensHell faders | dark age fader 1.0 | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip) | [http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip](http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| LensHell faders | darkagefader.zip | [http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip](http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [fader or text tool](../../../categories/fader-or-text-tool.md)
 - Version bucket: [AOL 6.0](../../../versions/aol-6-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

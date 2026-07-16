@@ -1,5 +1,7 @@
 # error booter 5.o
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Filename/catalog cues suggest: punter/booter vocabulary.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0679-error-booter-5-o |
 | Catalog number | 679 |
-| Name | error booter 5.o |
+| Best known name | error booter 5.o |
+| Best name source | catalog |
+| Catalog label | error booter 5.o |
+| Archive filename | errorboot.zip |
+| File size | 67 KB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 2.5 |
+| Catalog AOL/version bucket | AOL 2.5 |
+| Inferred AOL version | unknown |
 | Prog type | Punter / booter |
 | Category | uncategorized |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 67 KB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/2.5/errorboot.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/2.5/errorboot.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/2.5/errorboot.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/2.5/errorboot.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/2.5/errorboot.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,33 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| punter's | error booter 5.0 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errorboot.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errorboot.zip) | [http://lenshellarchive.com/Progs/aolpunters/errorboot.zip](http://lenshellarchive.com/Progs/aolpunters/errorboot.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 2.5](../../../versions/aol-2-5.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

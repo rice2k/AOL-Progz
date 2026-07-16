@@ -1,5 +1,7 @@
 # Bust v5.0 for AOL 5-7
 
+
+
 A room-entry or room-disruption category associated with repeatedly trying to enter full rooms or interact with room state. Filename/catalog cues suggest: room buster vocabulary.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
@@ -10,10 +12,18 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | --- | --- |
 | Archive ID | prog-0321-bust-v5-0-for-aol-5-7 |
 | Catalog number | 321 |
-| Name | Bust v5.0 for AOL 5-7 |
+| Best known name | Bust v5.0 for AOL 5-7 |
+| Best name source | catalog |
+| Catalog label | Bust v5.0 for AOL 5-7 |
+| Archive filename | bust 5 aol6-8.zip |
+| File size | 22 B |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
-| AOL/version bucket | AOL 5.0 |
+| AOL/version bucket | AOL 5.0; inferred: AOL 6-8 |
+| Catalog AOL/version bucket | AOL 5.0 |
+| Inferred AOL version | AOL 6-8 |
 | Prog type | Room buster |
 | Category | room buster |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bust 5 aol6-8.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bust%205%20aol6-8.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bust%205%20aol6-8.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bust%205%20aol6-8.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bust%205%20aol6-8.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,33 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| buster's | bust v5.0 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bustv5.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/bustv5.zip) | [http://lenshellarchive.com/Progs/aolbusters/bustv5.zip](http://lenshellarchive.com/Progs/aolbusters/bustv5.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [room buster](../../../categories/room-buster.md)
 - Version bucket: [AOL 5.0](../../../versions/aol-5-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

@@ -1,5 +1,7 @@
 # linktech1rebuild
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Filename/catalog cues suggest: linking/chat link workflows.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-1146-linktech1rebuild |
 | Catalog number | 1146 |
-| Name | linktech1rebuild |
+| Best known name | linktech1rebuild |
+| Best name source | catalog |
+| Catalog label | linktech1rebuild |
+| Archive filename | linktech.zip |
+| File size | 1.3 MB |
 | Author | AOX |
+| Catalog author | AOX |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
+| Matched web download links | 0 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -50,8 +64,29 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | --- | --- | --- |
 | [http://www.iec.ch](http://www.iec.ch) | linktech1rebuild.exe | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+No additional old-page download links are matched to this entry yet.
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

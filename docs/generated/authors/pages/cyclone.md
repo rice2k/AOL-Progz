@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2031 | [wicked twister-beta release](../../applications/pages/W/2031-wicked-twister-beta-release.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | cyclone | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2031 | [wicked twister-beta release](../../applications/pages/W/2031-wicked-twister-beta-release.md) | wicked twister-beta release | Unknown / needs review | uncategorized | AOL 4.0 | cyclone | unknown | remote-only | 0 |

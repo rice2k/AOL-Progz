@@ -1,5 +1,7 @@
 # aquard3
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0151-aquard3 |
 | Catalog number | 151 |
-| Name | aquard3 |
+| Best known name | aquard3 |
+| Best name source | catalog |
+| Catalog label | aquard3 |
+| Archive filename | aquard3.zip |
+| File size | 217 KB |
 | Author | This product is from FON |
+| Catalog author | This product is from FON |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 217 KB |
+| Matched web download links | 1 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aquard3.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aquard3.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aquard3.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aquard3.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aquard3.zip)
+- Matched web download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -52,8 +68,35 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | [http://www.jamesmariobros.cjb.net](http://www.jamesmariobros.cjb.net) | Readme.txt | archive text |
 | [http://www.lenshell.com](http://www.lenshell.com) | Readme.txt | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| LensHell faders | a-quard: html world | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/aquard3.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/aquard3.zip) | [http://lenshellarchive.com/Progs/aolfaders/aquard3.zip](http://lenshellarchive.com/Progs/aolfaders/aquard3.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell faders | aquard3.zip | [http://lenshellarchive.com/Progs/aolfaders/aquard3.zip](http://lenshellarchive.com/Progs/aolfaders/aquard3.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/aquard3.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/aquard3.zip) | unknown | http-404 |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

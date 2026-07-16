@@ -1,5 +1,7 @@
 # Cheap Idle by tacoboy
 
+
+
 A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. Filename/catalog cues suggest: idling or away automation.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | --- | --- |
 | Archive ID | prog-0393-cheap-idle-by-tacoboy |
 | Catalog number | 393 |
-| Name | Cheap Idle by tacoboy |
+| Best known name | Cheap Idle by tacoboy |
+| Best name source | catalog |
+| Catalog label | Cheap Idle by tacoboy |
+| Archive filename | cheap.zip |
+| File size | 728 KB |
 | Author | Tacoboy |
+| Catalog author | Tacoboy |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Visual Basic | VB4-32 |
@@ -22,6 +32,10 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 728 KB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cheap.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cheap.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cheap.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cheap.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cheap.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -50,8 +65,33 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | --- | --- | --- |
 | [http://tacoboysprogz.cjb.net](http://tacoboysprogz.cjb.net) | readme.txt | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| idler's | cheap idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheap.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheap.zip) | [http://lenshellarchive.com/Progs/aolidlers/cheap.zip](http://lenshellarchive.com/Progs/aolidlers/cheap.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [idler or bot](../../../categories/idler-or-bot.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

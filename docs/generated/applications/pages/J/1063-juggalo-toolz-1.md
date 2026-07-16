@@ -1,5 +1,7 @@
 # Juggalo Toolz 1
 
+
+
 A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | --- | --- |
 | Archive ID | prog-1063-juggalo-toolz-1 |
 | Catalog number | 1063 |
-| Name | Juggalo Toolz 1 |
+| Best known name | Juggalo Toolz 1 |
+| Best name source | catalog |
+| Catalog label | Juggalo Toolz 1 |
+| Archive filename | juggalo.zip |
+| File size | 1.0 MB |
 | Author | BLIssID |
+| Catalog author | BLIssID |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.0 MB |
+| Matched web download links | 4 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip)
+- Matched web download leads: 4 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,36 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/juggalotoolz2.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip) | [http://www.oogle.net/downloads/progs/juggalotoolz2.zip](http://www.oogle.net/downloads/progs/juggalotoolz2.zip) |
+| prog's/misc a-m | juggalo toolz 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) | [http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) |
+| Progs Section 1 | Juggalo Toolz 1.0 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalo.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalo.zip) | [http://www.cybernyse.com/juggalo.zip](http://www.cybernyse.com/juggalo.zip) |
+| Visual Basic Section | juggalo32 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip) | [http://lenshellarchive.com/VBfiles/juggalo32.zip](http://lenshellarchive.com/VBfiles/juggalo32.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [all-in-one prog](../../../categories/all-in-one-prog.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

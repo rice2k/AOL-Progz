@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 500 | [C°llector S remix](../../applications/pages/C/0500-cllector-s-remix.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | ogh | [local](../../../../files/aol/aol-4-0/0500-cllector-s-remix.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 500 | [C°llector S remix](../../applications/pages/C/0500-cllector-s-remix.md) | C°llector S remix | Unknown / needs review | uncategorized | AOL 4.0 | ogh | 1.5 MB | [local](../../../../files/aol/aol-4-0/0500-cllector-s-remix.zip) | 0 |

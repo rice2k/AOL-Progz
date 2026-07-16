@@ -1,5 +1,7 @@
 # HookShot RoomBuster v4
 
+
+
 A room-entry or room-disruption category associated with repeatedly trying to enter full rooms or interact with room state. Filename/catalog cues suggest: room buster vocabulary.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
@@ -10,10 +12,18 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | --- | --- |
 | Archive ID | prog-0914-hookshot-roombuster-v4 |
 | Catalog number | 914 |
-| Name | HookShot RoomBuster v4 |
+| Best known name | HookShot RoomBuster v4 |
+| Best name source | catalog |
+| Catalog label | HookShot RoomBuster v4 |
+| Archive filename | hookbust4.zip |
+| File size | 2.4 MB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Room buster |
 | Category | room buster |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.4 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookbust4.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookbust4.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookbust4.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookbust4.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookbust4.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -51,8 +66,33 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | [http://www.easyvb.com/vbdownloads/runtime](http://www.easyvb.com/vbdownloads/runtime) | OCXReg.txt | archive text |
 | [http://members.aol.com/ron2222](http://members.aol.com/ron2222) | file_id.diz | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| buster's | hookshot roombuster v4.0 beta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [room buster](../../../categories/room-buster.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

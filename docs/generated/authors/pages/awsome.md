@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 848 | [godpnt](../../applications/pages/G/0848-godpnt.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | AwSoMe | [local](../../../../files/aol/aol-4-0/0848-godpnt.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 848 | [godpnt](../../applications/pages/G/0848-godpnt.md) | godpnt | Unknown / needs review | uncategorized | AOL 4.0 | AwSoMe | 3.0 MB | [local](../../../../files/aol/aol-4-0/0848-godpnt.zip) | 0 |

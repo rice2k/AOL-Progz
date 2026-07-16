@@ -1,4 +1,6 @@
-# MeTaL
+# Metal
+
+Catalog label: **MeTaL**.
 
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-1249-metal |
 | Catalog number | 1249 |
-| Name | MeTaL |
+| Best known name | Metal |
+| Best name source | archive filename |
+| Catalog label | MeTaL |
+| Archive filename | metal.zip |
+| File size | 1.9 MB |
 | Author | OiL |
+| Catalog author | OiL |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.9 MB |
+| Matched web download links | 5 |
+| Matched mirror leads | 5 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/metal.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/metal.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/metal.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/metal.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/metal.zip)
+- Matched web download leads: 5 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,43 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| LensHell AIM progs | heavy metal scroller v3.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip](http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip) |
+| LensHell faders | metal fader | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/metal.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/metal.zip) | [http://lenshellarchive.com/Progs/aolfaders/metal.zip](http://lenshellarchive.com/Progs/aolfaders/metal.zip) |
+| AIM | Metallica Afterlife | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip) | [http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip](http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip) |
+| AIM | Metallica Final | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip) | [http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip](http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip) |
+| AIM | Metallica Immortal | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip) | [http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip](http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | osamadies.zip | [http://www.angelfire.com/rock2/metalhellz/osamadies.zip](http://www.angelfire.com/rock2/metalhellz/osamadies.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/rock2/metalhellz/osamadies.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/rock2/metalhellz/osamadies.zip) | [files/external/angelfire-com/osamadies.zip](../../../../../files/external/angelfire-com/osamadies.zip) | ready |
+| AIM | aimmetallicaafterlife.zip | [http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip](http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip) | unknown | candidate |
+| AIM | aimmetallicafinal.zip | [http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip](http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip) | unknown | candidate |
+| AIM | aimmetallicaimmortal.zip | [http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip](http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip) | unknown | candidate |
+| LensHell AIM progs | heavymetal.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip](http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

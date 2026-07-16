@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 264 | [blizah coms](../../applications/pages/B/0264-blizah-coms.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Blizah | [local](../../../../files/aol/aol-4-0/0264-blizah-coms.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 264 | [blizah coms](../../applications/pages/B/0264-blizah-coms.md) | blizah coms | Unknown / needs review | uncategorized | AOL 4.0 | Blizah | 2.2 MB | [local](../../../../files/aol/aol-4-0/0264-blizah-coms.zip) | 0 |

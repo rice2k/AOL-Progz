@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 822 | [Gay Program By TeMpEr](../../applications/pages/G/0822-gay-program-by-temper.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | TeMpEr | [local](../../../../files/aol/aol-4-0/0822-gay-program-by-temper.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 822 | [Gay Program By TeMpEr](../../applications/pages/G/0822-gay-program-by-temper.md) | Gay Program By TeMpEr | Unknown / needs review | uncategorized | AOL 4.0 | TeMpEr | 1.4 MB | [local](../../../../files/aol/aol-4-0/0822-gay-program-by-temper.zip) | 0 |

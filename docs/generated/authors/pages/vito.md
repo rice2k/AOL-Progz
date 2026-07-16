@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 79 | [alQaeda-ol](../../applications/pages/A/0079-alqaeda-ol.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | vito | [local](../../../../files/aol/aol-4-0/0079-alqaeda-ol.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 79 | [alQaeda-ol](../../applications/pages/A/0079-alqaeda-ol.md) | alQaeda-ol | Unknown / needs review | uncategorized | AOL 4.0 | vito | 1.3 MB | [local](../../../../files/aol/aol-4-0/0079-alqaeda-ol.zip) | 0 |

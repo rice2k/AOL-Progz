@@ -2,7 +2,7 @@
 
 **Catalog entries:** 2
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 195 | [Bait That Shizzle](../../applications/pages/B/0195-bait-that-shizzle.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | CøMP | [local](../../../../files/aol/aol-4-0/0195-bait-that-shizzle.zip) | 0 |
-| 2089 | [x╣](../../applications/pages/X/2089-x.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | CøMP | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 195 | [Bait That Shizzle Baiter](../../applications/pages/B/0195-bait-that-shizzle-baiter.md) | Bait That Shizzle | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 4-5 | CøMP | 1.8 MB | [local](../../../../files/aol/aol-4-0/0195-bait-that-shizzle.zip) | 0 |
+| 2089 | [X 1](../../applications/pages/X/2089-x-1.md) | x╣ | Unknown / needs review | uncategorized | AOL 4.0 | CøMP | unknown | remote-only | 0 |

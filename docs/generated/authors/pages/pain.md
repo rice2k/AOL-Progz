@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 314 | [bust](../../applications/pages/B/0314-bust.md) | Room buster | room buster | AOL | AOL 4.0 | pain | [local](../../../../files/aol/aol-4-0/0314-bust.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 314 | [Aggression](../../applications/pages/B/0314-aggression.md) | bust | Room buster | room buster | AOL 4.0 | pain | 499 KB | [local](../../../../files/aol/aol-4-0/0314-bust.zip) | 0 |

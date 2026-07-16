@@ -251,17 +251,70 @@ function compactRows(rows, max = 250) {
   return rows.slice(0, max);
 }
 
+function enrichmentFor(program) {
+  return programEnrichment.perProgram?.[program.id] || {};
+}
+
+function displayName(program) {
+  return clean(enrichmentFor(program).bestName) || clean(program.name) || "Unknown program";
+}
+
+function displayAuthor(program) {
+  const catalogAuthor = clean(program.author);
+  const inferredAuthor = clean(enrichmentFor(program).inferredAuthor);
+  if (catalogAuthor && inferredAuthor && catalogAuthor.toLowerCase() !== inferredAuthor.toLowerCase()) {
+    return `${catalogAuthor}; inferred: ${inferredAuthor}`;
+  }
+  return catalogAuthor || inferredAuthor || "unknown";
+}
+
+function displayVersion(program) {
+  const catalogVersion = versionLabel(program);
+  const inferredVersion = clean(enrichmentFor(program).inferredAolVersion);
+  if (inferredVersion && catalogVersion === "Mixed/unknown") return inferredVersion;
+  if (inferredVersion && inferredVersion.toLowerCase() !== catalogVersion.toLowerCase()) {
+    return `${catalogVersion}; inferred: ${inferredVersion}`;
+  }
+  return catalogVersion;
+}
+
+function fileSizeLabel(program) {
+  return clean(enrichmentFor(program).fileSize) || clean(program.download?.sizeLabel) || "unknown";
+}
+
+function archiveFileName(program) {
+  return clean(enrichmentFor(program).archiveFilename) || path.posix.basename(clean(program.file) || clean(program.download?.path) || "");
+}
+
+function joinedWebLinks(items, labelKey = "label", urlKey = "url") {
+  const links = (items || [])
+    .filter((item) => clean(item[urlKey] || item.originalUrl || item.waybackUrl))
+    .map((item) => link(clean(item[labelKey]) || clean(item[urlKey] || item.originalUrl || item.waybackUrl), item[urlKey] || item.originalUrl || item.waybackUrl));
+  return links.length ? links.join("<br>") : "unknown";
+}
+
+function joinedMirrorLinks(items) {
+  const links = [];
+  for (const item of items || []) {
+    if (item.originalUrl) links.push(link(item.originalUrl, item.originalUrl));
+    if (item.waybackUrl) links.push(link(`${item.label || "mirror"} Wayback`, item.waybackUrl));
+    if (item.localPath) links.push(localLink("docs/generated/applications/all-program-downloads.md", item.localPath, item.localPath));
+  }
+  return links.length ? links.join("<br>") : "unknown";
+}
+
 function appTable(fromDoc, items) {
   return table(
-    ["#", "Actual name", "Prog type", "Category", "Platform", "AOL/version bucket", "Author", "File", "Shots"],
+    ["#", "Best known name", "Catalog label", "Prog type", "Category", "AOL/version", "Author", "Size", "File", "Shots"],
     sortByName(items).map((program) => [
       String(program.index),
-      localLink(fromDoc, program.name, appDocPaths.get(program.id)),
+      localLink(fromDoc, displayName(program), appDocPaths.get(program.id)),
+      program.name,
       programType(program),
       program.category || "uncategorized",
-      program.platform || "unknown",
-      versionLabel(program),
-      program.author || "unknown",
+      displayVersion(program),
+      displayAuthor(program),
+      fileSizeLabel(program),
       program.download?.path ? localLink(fromDoc, "local", program.download.path) : program.download?.status || "remote-only",
       String(program.screenshotCount || 0),
     ]),
@@ -272,31 +325,72 @@ function programInventoryTable(fromDoc, items) {
   return table(
     [
       "#",
-      "Actual name",
+      "Best known name",
+      "Catalog label",
       "Archive filename",
+      "Size",
       "Prog type",
       "Category",
       "AOL/version",
       "Author",
       "Local file",
+      "Raw download",
       "Source URL",
+      "Web download leads",
       "Embedded URLs",
       "Screens",
     ],
     items.map((program) => {
       const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
+      const enrichment = enrichmentFor(program);
       return [
         String(program.index),
-        localLink(fromDoc, program.name, appDocPaths.get(program.id)),
-        path.posix.basename(clean(program.file) || clean(program.download?.path) || ""),
+        localLink(fromDoc, displayName(program), appDocPaths.get(program.id)),
+        program.name,
+        archiveFileName(program),
+        fileSizeLabel(program),
         programType(program),
         program.category || "uncategorized",
-        versionLabel(program),
-        program.author || "unknown",
+        displayVersion(program),
+        displayAuthor(program),
         program.download?.path ? localLink(fromDoc, program.download.path, program.download.path) : program.download?.status || "remote-only",
+        program.download?.rawUrl ? link("raw", program.download.rawUrl) : "unknown",
         program.download?.originalUrl ? link(program.download.originalUrl, program.download.originalUrl) : "",
+        enrichment.webDownloadLinks?.length ? String(enrichment.webDownloadLinks.length) : "",
         embedded.length ? embedded.map((item) => link(item.url, item.url)).join("<br>") : "",
         String(program.screenshotCount || 0),
+      ];
+    }),
+  );
+}
+
+function programDownloadTable(fromDoc, items) {
+  return table(
+    [
+      "#",
+      "Best known name",
+      "Catalog label",
+      "Archive filename",
+      "Size",
+      "Local file",
+      "Raw source download",
+      "Original source page",
+      "Matched web download links",
+      "Mirror leads",
+    ],
+    items.map((program) => {
+      const enrichment = enrichmentFor(program);
+      return [
+        String(program.index),
+        localLink(fromDoc, displayName(program), appDocPaths.get(program.id)),
+        program.name,
+        archiveFileName(program),
+        fileSizeLabel(program),
+        program.download?.path ? localLink(fromDoc, program.download.path, program.download.path) : program.download?.status || "remote-only",
+        program.download?.rawUrl ? link(program.download.rawUrl, program.download.rawUrl) : "unknown",
+        program.download?.originalUrl ? link(program.download.originalUrl, program.download.originalUrl) : "unknown",
+        joinedWebLinks(enrichment.webDownloadLinks || [], "label", "url"),
+        joinedMirrorLinks(enrichment.mirrorLinks || []),
       ];
     }),
   );
@@ -319,6 +413,7 @@ const webResources = readJson("data/web-resources.json", { pages: [], links: [] 
 const webAssets = readJson("data/web-assets.json", { assets: [] });
 const externalDownloads = readJson("data/external-downloads.json", { downloads: [], mirrorGroups: [] });
 const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
+const programEnrichment = readJson("data/program-enrichment.json", { perProgram: {} });
 
 const userSuppliedLinks = [
   ["AOL Underground Proggies Archive", "GitHub archive", "https://github.com/ssstonebraker/aolunderground-proggies"],
@@ -456,7 +551,7 @@ mkdirSync(generatedDir, { recursive: true });
 const appDocPaths = new Map();
 for (const program of programs) {
   const bucket = firstBucket(program);
-  const fileName = `${String(program.index).padStart(4, "0")}-${slugify(program.name).slice(0, 80)}.md`;
+  const fileName = `${String(program.index).padStart(4, "0")}-${slugify(displayName(program)).slice(0, 80)}.md`;
   appDocPaths.set(program.id, `${generatedRoot}/applications/pages/${bucket}/${fileName}`);
 }
 
@@ -473,15 +568,24 @@ for (const program of programs) {
 for (const program of programs) {
   const doc = appDocPaths.get(program.id);
   const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
+  const enrichment = enrichmentFor(program);
   const tags = appTags(program, embedded);
   const screenshots = program.screenshots || [];
   const metadataRows = [
     ["Archive ID", program.id],
     ["Catalog number", String(program.index)],
-    ["Name", program.name],
-    ["Author", program.author || "unknown"],
+    ["Best known name", displayName(program)],
+    ["Best name source", enrichment.bestNameSource || "catalog"],
+    ["Catalog label", program.name],
+    ["Archive filename", archiveFileName(program)],
+    ["File size", fileSizeLabel(program)],
+    ["Author", displayAuthor(program)],
+    ["Catalog author", program.author || "unknown"],
+    ["Inferred author", enrichment.inferredAuthor || "unknown"],
     ["Platform", program.platform || "unknown"],
-    ["AOL/version bucket", versionLabel(program)],
+    ["AOL/version bucket", displayVersion(program)],
+    ["Catalog AOL/version bucket", versionLabel(program)],
+    ["Inferred AOL version", enrichment.inferredAolVersion || "unknown"],
     ["Prog type", programType(program)],
     ["Category", program.category || "uncategorized"],
     ["Visual Basic", program.visualBasic || "unknown"],
@@ -490,6 +594,10 @@ for (const program of programs) {
     ["Archive password metadata", program.password ? "recorded in source catalog" : "not recorded"],
     ["Download status", program.download?.status || "unknown"],
     ["Local mirrored size", program.download?.sizeLabel || "unknown"],
+    ["Matched web download links", String(enrichment.webDownloadLinks?.length || 0)],
+    ["Matched mirror leads", String(enrichment.mirrorLinks?.length || 0)],
+    ["Web research mentions", String(enrichment.webMentions?.length || 0)],
+    ["Web image leads", String(enrichment.webImageLinks?.length || 0)],
   ];
 
   const sourceLinks = [
@@ -501,6 +609,10 @@ for (const program of programs) {
       ? `- Source repository URL: ${link(program.download.originalUrl, program.download.originalUrl)}`
       : "",
     program.download?.rawUrl ? `- Raw source URL: ${link(program.download.rawUrl, program.download.rawUrl)}` : "",
+    enrichment.webDownloadLinks?.length
+      ? `- Matched web download leads: ${enrichment.webDownloadLinks.length} link(s) listed below`
+      : "",
+    enrichment.mirrorLinks?.length ? `- Matched mirror leads: ${enrichment.mirrorLinks.length} link(s) listed below` : "",
   ].filter(Boolean);
 
   const screenshotBlock = screenshots.length
@@ -546,10 +658,96 @@ for (const program of programs) {
         "No readable original URLs were found inside the mirrored archive text during the current scan.",
       ].join("\n");
 
+  const webMentionBlock = enrichment.webMentions?.length
+    ? [
+        "### Source Mentions",
+        "",
+        table(
+          ["Source", "Evidence", "URL", "Notes"],
+          enrichment.webMentions.map((item) => [
+            item.sourceName || "web source",
+            item.label || item.kind || "mention",
+            link(item.url || item.originalUrl || item.sourceUrl, item.url || item.originalUrl || item.sourceUrl),
+            [item.inferredAuthor ? `author: ${item.inferredAuthor}` : "", item.inferredAolVersion ? `AOL/version: ${item.inferredAolVersion}` : "", item.summary || ""]
+              .filter(Boolean)
+              .join("<br>"),
+          ]),
+        ),
+      ].join("\n")
+    : "### Source Mentions\n\nNo specific old-page program mention is matched to this entry yet.";
+
+  const webDownloadBlock = enrichment.webDownloadLinks?.length
+    ? [
+        "### Matched Web Download Links",
+        "",
+        "These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.",
+        "",
+        table(
+          ["Source", "Label", "URL", "Original URL"],
+          enrichment.webDownloadLinks.map((item) => [
+            item.sourceName || "web source",
+            item.label || "download",
+            link(item.url || item.originalUrl, item.url || item.originalUrl),
+            item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+          ]),
+        ),
+      ].join("\n")
+    : "### Matched Web Download Links\n\nNo additional old-page download links are matched to this entry yet.";
+
+  const mirrorBlock = enrichment.mirrorLinks?.length
+    ? [
+        "### Mirror Leads",
+        "",
+        table(
+          ["Source", "Label", "Original URL", "Wayback URL", "Local recovered file", "Status"],
+          enrichment.mirrorLinks.map((item) => [
+            item.sourceName || "mirror source",
+            item.label || "mirror",
+            item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+            item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
+            item.localPath ? localLink(doc, item.localPath, item.localPath) : "",
+            item.status || "",
+          ]),
+        ),
+      ].join("\n")
+    : "### Mirror Leads\n\nNo external mirror leads are matched to this entry yet.";
+
+  const webImageBlock = enrichment.webImageLinks?.length
+    ? [
+        "### Web Image Leads",
+        "",
+        table(
+          ["Source", "Label", "Image URL", "Original URL"],
+          enrichment.webImageLinks.map((item) => [
+            item.sourceName || "web source",
+            item.label || "image",
+            link(item.url || item.originalUrl, item.url || item.originalUrl),
+            item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+          ]),
+        ),
+      ].join("\n")
+    : "### Web Image Leads\n\nNo extra web-image leads are matched to this entry yet.";
+
+  const webResearchBlock = [
+    "## Web Research",
+    "",
+    "This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.",
+    "",
+    webMentionBlock,
+    "",
+    webDownloadBlock,
+    "",
+    mirrorBlock,
+    "",
+    webImageBlock,
+  ].join("\n");
+
   writeDoc(
     doc,
     [
-      `# ${clean(program.name) || "Unknown program"}`,
+      `# ${displayName(program)}`,
+      "",
+      displayName(program) !== clean(program.name) ? `Catalog label: **${md(program.name)}**.` : "",
       "",
       appPurpose(program),
       "",
@@ -575,11 +773,14 @@ for (const program of programs) {
       "",
       urlBlock,
       "",
+      webResearchBlock,
+      "",
       "## Related Indexes",
       "",
       `- Category: ${localLink(doc, program.category || "uncategorized", `${generatedRoot}/categories/${slugify(program.category)}.md`)}`,
       `- Version bucket: ${localLink(doc, versionLabel(program), `${generatedRoot}/versions/${versionSlug(program)}.md`)}`,
       `- Applications index: ${localLink(doc, "all applications", `${generatedRoot}/applications/all-applications.md`)}`,
+      `- Download map: ${localLink(doc, "all program download links", `${generatedRoot}/applications/all-program-downloads.md`)}`,
     ].join("\n"),
   );
 }
@@ -596,6 +797,9 @@ writeDoc(
     "- [Generated documentation hub](generated/README.md)",
     "- [All applications](generated/applications/all-applications.md)",
     "- [Detailed all-progs inventory](generated/applications/all-programs-detailed.md)",
+    "- [All program download links](generated/applications/all-program-downloads.md)",
+    "- [Web research mentions](generated/applications/web-research-mentions.md)",
+    "- [Enrichment report](generated/applications/enrichment-report.md)",
     "- [Master link index](generated/sources/all-links.md)",
     "- [Links you supplied](generated/sources/user-supplied-links.md)",
     "- [Categories](generated/categories/README.md)",
@@ -632,6 +836,10 @@ writeDoc(
         ["Applications with source screenshots", String(catalog.summary?.screenshotPrograms || 0)],
         ["Mirrored source screenshots", String(catalog.summary?.screenshotFiles || 0)],
         ["Programs with embedded URLs", String(urlIndex.programsWithUrls || 0)],
+        ["Programs with improved best-known names", String(programEnrichment.programsWithImprovedNames || 0)],
+        ["Programs with web download leads", String(programEnrichment.programsWithWebDownloadLinks || 0)],
+        ["Programs with web research mentions", String(programEnrichment.programsWithWebMentions || 0)],
+        ["Programs with mirror leads", String(programEnrichment.programsWithMirrorLinks || 0)],
         ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
         ["Crawled unique links", String(webResources.linkCount || 0)],
         ["Crawled download links", String(webResources.downloadCount || 0)],
@@ -647,6 +855,9 @@ writeDoc(
     "",
     "- [Applications](applications/README.md)",
     "- [Detailed all-progs inventory](applications/all-programs-detailed.md)",
+    "- [All program download links](applications/all-program-downloads.md)",
+    "- [Web research mentions](applications/web-research-mentions.md)",
+    "- [Enrichment report](applications/enrichment-report.md)",
     "- [Categories](categories/README.md)",
     "- [AOL versions](versions/README.md)",
     "- [Tags](tags/README.md)",
@@ -686,6 +897,9 @@ writeDoc(
     "## Complete List",
     "",
     "- [Detailed all-progs inventory](all-programs-detailed.md)",
+    "- [All program download links](all-program-downloads.md)",
+    "- [Web research mentions](web-research-mentions.md)",
+    "- [Enrichment report](enrichment-report.md)",
     "- [Compact all applications table](all-applications.md)",
   ].join("\n"),
 );
@@ -700,9 +914,99 @@ writeDoc(
   [
     "# Detailed All-Progs Inventory",
     "",
-    "This is the complete GitHub-readable inventory of the main catalog. It lists the actual catalog name, archive filename, inferred prog type, category, AOL/version bucket, author metadata, local mirrored file, original source URL, embedded URLs found inside readable archive text, and screenshot count.",
+    "This is the complete GitHub-readable inventory of the main catalog. It lists the best-known name, original catalog label, archive filename, size, inferred prog type, category, AOL/version bucket, author metadata, local mirrored file, raw download URL, original source URL, web-download lead count, embedded URLs found inside readable archive text, and screenshot count.",
     "",
     programInventoryTable(`${generatedRoot}/applications/all-programs-detailed.md`, programs),
+  ].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/applications/all-program-downloads.md`,
+  [
+    "# All Program Download Links",
+    "",
+    "This page lists every main catalog entry with its local mirrored file when present, raw source download URL, original source page, matched old-page download links, and mirror leads. Old-page links are provenance/recovery leads and may be dead, duplicated, or only available through Wayback.",
+    "",
+    programDownloadTable(`${generatedRoot}/applications/all-program-downloads.md`, programs),
+  ].join("\n"),
+);
+
+const webMentionRows = [];
+for (const program of programs) {
+  const enrichment = enrichmentFor(program);
+  for (const mention of enrichment.webMentions || []) {
+    webMentionRows.push([
+      localLink(`${generatedRoot}/applications/web-research-mentions.md`, displayName(program), appDocPaths.get(program.id)),
+      program.name,
+      mention.sourceName || "web source",
+      mention.label || mention.kind || "mention",
+      mention.url || mention.originalUrl ? link(mention.url || mention.originalUrl, mention.url || mention.originalUrl) : "",
+      [mention.inferredAuthor ? `author: ${mention.inferredAuthor}` : "", mention.inferredAolVersion ? `AOL/version: ${mention.inferredAolVersion}` : "", mention.summary || ""]
+        .filter(Boolean)
+        .join("<br>"),
+    ]);
+  }
+}
+
+writeDoc(
+  `${generatedRoot}/applications/web-research-mentions.md`,
+  [
+    "# Web Research Mentions",
+    "",
+    "Program-level mentions extracted from source pages such as AOLUnderground.com and other crawled resources. These are source evidence rows; they do not replace the original catalog labels unless the archive filename also supports the improved name.",
+    "",
+    table(["Program", "Catalog label", "Source", "Evidence", "URL", "Notes"], webMentionRows),
+  ].join("\n"),
+);
+
+const enrichmentRows = programs
+  .filter((program) => {
+    const enrichment = enrichmentFor(program);
+    return (
+      clean(enrichment.bestName) !== clean(program.name) ||
+      enrichment.inferredAuthor ||
+      enrichment.inferredAolVersion ||
+      enrichment.webDownloadLinks?.length ||
+      enrichment.webMentions?.length ||
+      enrichment.mirrorLinks?.length
+    );
+  })
+  .map((program) => {
+    const enrichment = enrichmentFor(program);
+    return [
+      localLink(`${generatedRoot}/applications/enrichment-report.md`, displayName(program), appDocPaths.get(program.id)),
+      program.name,
+      enrichment.bestNameSource || "catalog",
+      enrichment.inferredAuthor || "",
+      enrichment.inferredAolVersion || "",
+      fileSizeLabel(program),
+      String(enrichment.webDownloadLinks?.length || 0),
+      String(enrichment.webMentions?.length || 0),
+      String(enrichment.mirrorLinks?.length || 0),
+    ];
+  });
+
+writeDoc(
+  `${generatedRoot}/applications/enrichment-report.md`,
+  [
+    "# Program Metadata Enrichment Report",
+    "",
+    `Generated from archive filenames, local file sizes, crawled source pages, old-page download links, and mirror lists. Improved names: **${programEnrichment.programsWithImprovedNames || 0}**. Programs with web downloads: **${programEnrichment.programsWithWebDownloadLinks || 0}**. Programs with source mentions: **${programEnrichment.programsWithWebMentions || 0}**. Programs with mirror leads: **${programEnrichment.programsWithMirrorLinks || 0}**.`,
+    "",
+    table(
+      [
+        "Best known name",
+        "Catalog label",
+        "Best-name source",
+        "Inferred author",
+        "Inferred AOL/version",
+        "Size",
+        "Web downloads",
+        "Source mentions",
+        "Mirror leads",
+      ],
+      enrichmentRows,
+    ),
   ].join("\n"),
 );
 
@@ -848,6 +1152,7 @@ writeDoc(
     "- [Embedded archive URLs](embedded-archive-urls.md)",
     "- [External mirror groups](mirror-groups.md)",
     "- [Missing candidates and recovered mirrors](missing-candidates.md)",
+    `- ${localLink(`${generatedRoot}/sources/README.md`, "Program web-research mentions", `${generatedRoot}/applications/web-research-mentions.md`)}`,
     `- ${localLink(`${generatedRoot}/sources/README.md`, "Methodus2000 source report", "docs/sources/methodus2000.md")}`,
   ].join("\n"),
 );

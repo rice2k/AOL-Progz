@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 818 | [gagstic](../../applications/pages/G/0818-gagstic.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | spade | [local](../../../../files/aol/aol-4-0/0818-gagstic.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 818 | [gagstic](../../applications/pages/G/0818-gagstic.md) | gagstic | Unknown / needs review | uncategorized | AOL 4.0 | spade | 1.7 MB | [local](../../../../files/aol/aol-4-0/0818-gagstic.zip) | 0 |

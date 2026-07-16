@@ -1,5 +1,7 @@
 # shiznit idle²·º
 
+
+
 A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. Filename/catalog cues suggest: idling or away automation.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | --- | --- |
 | Archive ID | prog-1689-shiznit-idle2o |
 | Catalog number | 1689 |
-| Name | shiznit idle²·º |
+| Best known name | shiznit idle²·º |
+| Best name source | catalog |
+| Catalog label | shiznit idle²·º |
+| Archive filename | shiznit2.zip |
+| File size | unknown |
 | Author | Cloud |
+| Catalog author | Cloud |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/shiznit2.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/shiznit2.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/shiznit2.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/shiznit2.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/shiznit2.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,33 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| idler's | shiznit idle²·º | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/shiznit2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/shiznit2.zip) | [http://lenshellarchive.com/Progs/aolidlers/shiznit2.zip](http://lenshellarchive.com/Progs/aolidlers/shiznit2.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [idler or bot](../../../categories/idler-or-bot.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

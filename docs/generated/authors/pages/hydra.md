@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 310 | [burger](../../applications/pages/B/0310-burger.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | hydra | [local](../../../../files/aol/aol-4-0/0310-burger.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 310 | [burger](../../applications/pages/B/0310-burger.md) | burger | Unknown / needs review | uncategorized | AOL 4.0 | hydra | 909 KB | [local](../../../../files/aol/aol-4-0/0310-burger.zip) | 0 |

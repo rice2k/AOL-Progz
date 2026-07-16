@@ -1,5 +1,7 @@
 # Mav-Spy 4
 
+
+
 Source code, Visual Basic material, controls, modules, tutorials, or development support files.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | --- | --- |
 | Archive ID | prog-1234-mav-spy-4 |
 | Catalog number | 1234 |
-| Name | Mav-Spy 4 |
+| Best known name | Mav-Spy 4 |
+| Best name source | catalog |
+| Catalog label | Mav-Spy 4 |
+| Archive filename | mav-spy.zip |
+| File size | 135 KB |
 | Author | Mavness |
+| Catalog author | Mavness |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | Tools |
+| Catalog AOL/version bucket | Tools |
+| Inferred AOL version | unknown |
 | Prog type | All-in-one prog suite |
 | Category | development or source |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 135 KB |
+| Matched web download links | 0 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -73,8 +87,29 @@ The catalog places this entry in the **Tools** bucket. That is an archive/source
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+No additional old-page download links are matched to this entry yet.
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [development or source](../../../categories/development-or-source.md)
 - Version bucket: [Tools](../../../versions/tools.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

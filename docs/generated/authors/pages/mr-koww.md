@@ -2,8 +2,8 @@
 
 **Catalog entries:** 3
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 934 | [Hypêr Línkêr ²](../../applications/pages/H/0934-hyper-linker-2.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Mr Koww | [local](../../../../files/aol/aol-4-0/0934-hyper-linker-2.zip) | 0 |
-| 1482 | [PornIdler](../../applications/pages/P/1482-pornidler.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Mr Koww | [local](../../../../files/aol/aol-4-0/1482-pornidler.zip) | 0 |
-| 1483 | [PornIdler](../../applications/pages/P/1483-pornidler.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Mr Koww | [local](../../../../files/aol/aol-4-0/1483-pornidler.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 934 | [Hypêr Línkêr ²](../../applications/pages/H/0934-hyper-linker-2.md) | Hypêr Línkêr ² | Unknown / needs review | uncategorized | AOL 4.0 | Mr Koww | 1.5 MB | [local](../../../../files/aol/aol-4-0/0934-hyper-linker-2.zip) | 0 |
+| 1482 | [PornIdler](../../applications/pages/P/1482-pornidler.md) | PornIdler | Unknown / needs review | uncategorized | AOL 4.0 | Mr Koww | 2.1 MB | [local](../../../../files/aol/aol-4-0/1482-pornidler.zip) | 0 |
+| 1483 | [PornIdler](../../applications/pages/P/1483-pornidler.md) | PornIdler | Unknown / needs review | uncategorized | AOL 4.0 | Mr Koww | 2.0 MB | [local](../../../../files/aol/aol-4-0/1483-pornidler.zip) | 0 |

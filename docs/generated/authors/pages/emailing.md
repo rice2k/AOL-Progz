@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 34 | [533idle v3.1](../../applications/pages/0-9-symbols/0034-533idle-v3-1.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | emailing | [local](../../../../files/aol/aol-4-0/0034-533idle-v3-1.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 34 | [533idle v3.1](../../applications/pages/0-9-symbols/0034-533idle-v3-1.md) | 533idle v3.1 | Unknown / needs review | uncategorized | AOL 4.0 | emailing | 45 KB | [local](../../../../files/aol/aol-4-0/0034-533idle-v3-1.zip) | 0 |

@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 566 | [DFMMV1](../../applications/pages/D/0566-dfmmv1.md) | Unknown / needs review | uncategorized | AOL | AOL 2.5 | CHeMiCaL | [local](../../../../files/aol/aol-2-5/0566-dfmmv1.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 566 | [DFMMV1](../../applications/pages/D/0566-dfmmv1.md) | DFMMV1 | Unknown / needs review | uncategorized | AOL 2.5 | CHeMiCaL | 451 KB | [local](../../../../files/aol/aol-2-5/0566-dfmmv1.zip) | 0 |

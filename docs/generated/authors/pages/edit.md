@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 640 | [editstoolz1.1](../../applications/pages/E/0640-editstoolz1-1.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | edit | [local](../../../../files/aol/aol-4-0/0640-editstoolz1-1.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 640 | [editstoolz1.1](../../applications/pages/E/0640-editstoolz1-1.md) | editstoolz1.1 | Unknown / needs review | uncategorized | AOL 4.0 | edit | 749 KB | [local](../../../../files/aol/aol-4-0/0640-editstoolz1-1.zip) | 0 |

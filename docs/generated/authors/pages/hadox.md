@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 796 | [Fu3](../../applications/pages/F/0796-fu3.md) | Unknown / needs review | uncategorized | AOL | AOL 6.0 | Hadox | [local](../../../../files/aol/aol-6-0/0796-fu3.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 796 | [Fu 3beta](../../applications/pages/F/0796-fu-3beta.md) | Fu3 | Unknown / needs review | uncategorized | AOL 6.0 | Hadox | 2.2 MB | [local](../../../../files/aol/aol-6-0/0796-fu3.zip) | 0 |

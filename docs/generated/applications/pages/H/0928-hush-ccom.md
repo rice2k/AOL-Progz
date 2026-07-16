@@ -1,5 +1,7 @@
 # hush ccom
 
+
+
 A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | --- | --- |
 | Archive ID | prog-0928-hush-ccom |
 | Catalog number | 928 |
-| Name | hush ccom |
+| Best known name | hush ccom |
+| Best name source | catalog |
+| Catalog label | hush ccom |
+| Archive filename | hushccom.zip |
+| File size | 2.3 MB |
 | Author | DeV |
+| Catalog author | DeV |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | C-Com / command list |
 | Category | chat or IM tool |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.3 MB |
+| Matched web download links | 0 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -46,8 +60,29 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+No additional old-page download links are matched to this entry yet.
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [chat or IM tool](../../../categories/chat-or-im-tool.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

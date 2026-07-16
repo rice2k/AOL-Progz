@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 765 | [FedEx](../../applications/pages/F/0765-fedex.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Dr. J | [local](../../../../files/aol/aol-4-0/0765-fedex.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 765 | [Fedex](../../applications/pages/F/0765-fedex.md) | FedEx | Unknown / needs review | uncategorized | AOL 4.0 | Dr. J | 771 KB | [local](../../../../files/aol/aol-4-0/0765-fedex.zip) | 0 |

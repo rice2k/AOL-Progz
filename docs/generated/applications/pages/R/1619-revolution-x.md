@@ -1,5 +1,7 @@
 # Revolution_X
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-1619-revolution-x |
 | Catalog number | 1619 |
-| Name | Revolution_X |
+| Best known name | Revolution_X |
+| Best name source | catalog |
+| Catalog label | Revolution_X |
+| Archive filename | revolutionx.zip |
+| File size | unknown |
 | Author | Hackers |
+| Catalog author | Hackers |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 6.0 |
+| Catalog AOL/version bucket | AOL 6.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip)
+- Matched web download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,37 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/revolutionx.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip) | [http://www.oogle.net/downloads/progs/revolutionx.zip](http://www.oogle.net/downloads/progs/revolutionx.zip) |
+| Section 2 | Revolution X | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/revolutionx.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/revolutionx.zip) | [http://www.cybernyse.com/downlowdz/revolutionx.zip](http://www.cybernyse.com/downlowdz/revolutionx.zip) |
+| prog's/misc n-z | revolution_x | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip) | [http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip](http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| c-coms | revolutionxccom.zip | [http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip](http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 6.0](../../../versions/aol-6-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

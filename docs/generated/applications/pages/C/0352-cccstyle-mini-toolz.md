@@ -1,5 +1,7 @@
 # CCCSTyle Mini Toolz
 
+
+
 A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | --- | --- |
 | Archive ID | prog-0352-cccstyle-mini-toolz |
 | Catalog number | 352 |
-| Name | CCCSTyle Mini Toolz |
+| Best known name | CCCSTyle Mini Toolz |
+| Best name source | catalog |
+| Catalog label | CCCSTyle Mini Toolz |
+| Archive filename | cccstyle.zip |
+| File size | 464 KB |
 | Author | zero |
+| Catalog author | zero |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Visual Basic | VB4-32 |
@@ -22,6 +32,10 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 464 KB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -51,8 +66,33 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | [http://www.flufffycow.interspeed.net/web/top.html](http://www.flufffycow.interspeed.net/web/top.html) | index.html | archive text |
 | [http://www.flufffycow.interspeed.net/web/main.html](http://www.flufffycow.interspeed.net/web/main.html) | index.html | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| c-coms | cccstyle mini toolz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip) | [http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip](http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [all-in-one prog](../../../categories/all-in-one-prog.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

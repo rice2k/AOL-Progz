@@ -1,5 +1,7 @@
 # ccom[public]
 
+
+
 A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | --- | --- |
 | Archive ID | prog-0355-ccompublic |
 | Catalog number | 355 |
-| Name | ccom[public] |
+| Best known name | ccom[public] |
+| Best name source | catalog |
+| Catalog label | ccom[public] |
+| Archive filename | ccompublic.zip |
+| File size | 2.7 MB |
 | Author | suck ass |
+| Catalog author | suck ass |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | C-Com / command list |
 | Category | chat or IM tool |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.7 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ccompublic.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ccompublic.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ccompublic.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ccompublic.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ccompublic.zip)
+- Matched web download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,35 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| c-coms | / . . \ ccoms beta 1 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip) | [http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip](http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | ccompublic.zip | [http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip](http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip) | [files/external/lenshellarchive-com/ccompublic.zip](../../../../../files/external/lenshellarchive-com/ccompublic.zip) | ready |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [chat or IM tool](../../../categories/chat-or-im-tool.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

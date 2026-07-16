@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 85 | [Anal Predator](../../applications/pages/A/0085-anal-predator.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Myke | [local](../../../../files/aol/aol-4-0/0085-anal-predator.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 85 | [Anal Predator](../../applications/pages/A/0085-anal-predator.md) | Anal Predator | Unknown / needs review | uncategorized | AOL 4.0 | Myke | 1.3 MB | [local](../../../../files/aol/aol-4-0/0085-anal-predator.zip) | 0 |

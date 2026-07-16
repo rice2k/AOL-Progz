@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1281 | [momentum](../../applications/pages/M/1281-momentum.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | enertia | [local](../../../../files/aol/aol-4-0/1281-momentum.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1281 | [momentum](../../applications/pages/M/1281-momentum.md) | momentum | Unknown / needs review | uncategorized | AOL 4.0 | enertia | 1.7 MB | [local](../../../../files/aol/aol-4-0/1281-momentum.zip) | 0 |

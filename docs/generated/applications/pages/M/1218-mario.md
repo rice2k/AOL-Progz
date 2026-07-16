@@ -1,4 +1,6 @@
-# mario
+# Mario
+
+Catalog label: **mario**.
 
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-1218-mario |
 | Catalog number | 1218 |
-| Name | mario |
+| Best known name | Mario |
+| Best name source | archive filename |
+| Catalog label | mario |
+| Archive filename | mario.zip |
+| File size | 22 B |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
+| Matched web download links | 6 |
+| Matched mirror leads | 2 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip)
+- Matched web download leads: 6 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,41 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/marioonlinev5.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip) | [http://www.oogle.net/downloads/progs/marioonlinev5.zip](http://www.oogle.net/downloads/progs/marioonlinev5.zip) |
+| Section 2 | Mario Online v3 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario3.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario3.zip) | [http://www.cybernyse.com/downlowdz/mario3.zip](http://www.cybernyse.com/downlowdz/mario3.zip) |
+| Section 2 | Mario Online v4 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario4.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario4.zip) | [http://www.cybernyse.com/downlowdz/mario4.zip](http://www.cybernyse.com/downlowdz/mario4.zip) |
+| Section 2 | Mario Online v5 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip) | [http://www.cybernyse.com/downlowdz/marioonlinev5.zip](http://www.cybernyse.com/downlowdz/marioonlinev5.zip) |
+| Visual Basic Section | mario2kv2 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mario2000v2.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mario2000v2.zip) | [http://lenshellarchive.com/VBfiles/mario2000v2.zip](http://lenshellarchive.com/VBfiles/mario2000v2.zip) |
+| prog's/misc n-z | super mario world | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/mario.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/mario.zip) | [http://lenshellarchive.com/Progs/aolprogs/mario.zip](http://lenshellarchive.com/Progs/aolprogs/mario.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Aol 4.0/5.0 Progs | marioonlinev5.zip | [http://www.oogle.net/downloads/progs/marioonlinev5.zip](http://www.oogle.net/downloads/progs/marioonlinev5.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip) | unknown | candidate |
+| Section 2 | marioonlinev5.zip | [http://www.cybernyse.com/downlowdz/marioonlinev5.zip](http://www.cybernyse.com/downlowdz/marioonlinev5.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

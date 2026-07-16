@@ -37,4 +37,7 @@ Every main catalog entry has a generated detail page with metadata, category not
 ## Complete List
 
 - [Detailed all-progs inventory](all-programs-detailed.md)
+- [All program download links](all-program-downloads.md)
+- [Web research mentions](web-research-mentions.md)
+- [Enrichment report](enrichment-report.md)
 - [Compact all applications table](all-applications.md)

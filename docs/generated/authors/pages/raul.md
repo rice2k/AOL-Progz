@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1303 | [MPlayerX-CeeLo](../../applications/pages/M/1303-mplayerx-ceelo.md) | Media / file utility | uncategorized | AOL | Mixed/unknown | Raúl | [local](../../../../files/aol/mixed/1303-mplayerx-ceelo.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1303 | [MPlayerX-CeeLo](../../applications/pages/M/1303-mplayerx-ceelo.md) | MPlayerX-CeeLo | Media / file utility | uncategorized | AOL 7 | Raúl | 3.8 MB | [local](../../../../files/aol/mixed/1303-mplayerx-ceelo.zip) | 0 |

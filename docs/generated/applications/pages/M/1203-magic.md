@@ -1,4 +1,6 @@
-# magic
+# Magic
+
+Catalog label: **magic**.
 
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-1203-magic |
 | Catalog number | 1203 |
-| Name | magic |
+| Best known name | Magic |
+| Best name source | archive filename |
+| Catalog label | magic |
+| Archive filename | magic.zip |
+| File size | 781 KB |
 | Author | h4ck-n-dr0 |
+| Catalog author | h4ck-n-dr0 |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB4-32 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 781 KB |
+| Matched web download links | 4 |
+| Matched mirror leads | 4 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip)
+- Matched web download leads: 4 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 
 ## AOL Version Context
 
@@ -50,8 +66,41 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | --- | --- | --- |
 | [http://www.lenshell.com](http://www.lenshell.com) | magic.txt | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| LensHell AIM progs | magic b00t | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) |
+| buster's | magic roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip) | [http://lenshellarchive.com/Progs/aolbusters/magic.zip](http://lenshellarchive.com/Progs/aolbusters/magic.zip) |
+| Section 2 | Magic Toolz 5.0 Beta | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolz.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolz.zip) | [http://www.cybernyse.com/downlowdz/magictoolz.zip](http://www.cybernyse.com/downlowdz/magictoolz.zip) |
+| Section 2 | Magic Toolz 6.0 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip) | [http://www.cybernyse.com/downlowdz/magictoolzfinal.zip](http://www.cybernyse.com/downlowdz/magictoolzfinal.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | hellhound.zip | [http://www.angelfire.com/rpg2/shadowsworkshop/rpgmaker95/magic/hellhound.zip](http://www.angelfire.com/rpg2/shadowsworkshop/rpgmaker95/magic/hellhound.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/rpg2/shadowsworkshop/rpgmaker95/magic/hellhound.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/rpg2/shadowsworkshop/rpgmaker95/magic/hellhound.zip) | [files/external/angelfire-com/hellhound.zip](../../../../../files/external/angelfire-com/hellhound.zip) | ready |
+| ProgzRescue Angelfire files | magicsquare.zip | [http://www.angelfire.com/rebellion2/mcguivre/programmed_files/magicsquare.zip](http://www.angelfire.com/rebellion2/mcguivre/programmed_files/magicsquare.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/rebellion2/mcguivre/programmed_files/magicsquare.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/rebellion2/mcguivre/programmed_files/magicsquare.zip) | [files/external/angelfire-com/magicsquare.zip](../../../../../files/external/angelfire-com/magicsquare.zip) | ready |
+| LensHell AIM progs | magicboot.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) | unknown | candidate |
+| Section 2 | magictoolzfinal.zip | [http://www.cybernyse.com/downlowdz/magictoolzfinal.zip](http://www.cybernyse.com/downlowdz/magictoolzfinal.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 871 | [gta's nauti tools](../../applications/pages/G/0871-gtas-nauti-tools.md) | All-in-one prog suite | all-in-one prog | AOL | AOL 4.0 | gta+ | [local](../../../../files/aol/aol-4-0/0871-gtas-nauti-tools.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 871 | [gta's nauti tools](../../applications/pages/G/0871-gtas-nauti-tools.md) | gta's nauti tools | All-in-one prog suite | all-in-one prog | AOL 4.0 | gta+ | 1.7 MB | [local](../../../../files/aol/aol-4-0/0871-gtas-nauti-tools.zip) | 0 |

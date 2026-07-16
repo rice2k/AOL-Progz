@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 414 | [ciig idle -[-beta-]-](../../applications/pages/C/0414-ciig-idle-beta.md) | Idler / AFK bot | idler or bot | AOL | AOL 4.0 | haX0r | [local](../../../../files/aol/aol-4-0/0414-ciig-idle-beta.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 414 | [ciig idle -[-beta-]-](../../applications/pages/C/0414-ciig-idle-beta.md) | ciig idle -[-beta-]- | Idler / AFK bot | idler or bot | AOL 4.0 | haX0r | 32 KB | [local](../../../../files/aol/aol-4-0/0414-ciig-idle-beta.zip) | 0 |

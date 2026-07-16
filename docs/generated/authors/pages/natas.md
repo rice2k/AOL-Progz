@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2086 | [XRAY](../../applications/pages/X/2086-xray.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Natas | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2086 | [Xrayportscan](../../applications/pages/X/2086-xrayportscan.md) | XRAY | Unknown / needs review | uncategorized | AOL 4.0 | Natas | unknown | remote-only | 0 |

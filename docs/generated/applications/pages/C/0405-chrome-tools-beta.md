@@ -1,5 +1,7 @@
 # chrome tools beta
 
+
+
 A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | --- | --- |
 | Archive ID | prog-0405-chrome-tools-beta |
 | Catalog number | 405 |
-| Name | chrome tools beta |
+| Best known name | chrome tools beta |
+| Best name source | catalog |
+| Catalog label | chrome tools beta |
+| Archive filename | chrometools.zip |
+| File size | 842 KB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Visual Basic | VB4-32 |
@@ -22,6 +32,10 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 842 KB |
+| Matched web download links | 3 |
+| Matched mirror leads | 2 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip)
+- Matched web download leads: 3 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,38 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc a-m | chrome 1.2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip) | [http://lenshellarchive.com/Progs/aolprogs/chrome.zip](http://lenshellarchive.com/Progs/aolprogs/chrome.zip) |
+| Progs Section 1 | Chrome 1.2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chrome.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chrome.zip) | [http://www.cybernyse.com/chrome.zip](http://www.cybernyse.com/chrome.zip) |
+| prog's/misc a-m | chrome tools beta | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrometools.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrometools.zip) | [http://lenshellarchive.com/Progs/aolprogs/chrometools.zip](http://lenshellarchive.com/Progs/aolprogs/chrometools.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| prog's/misc a-m | chrome.zip | [http://lenshellarchive.com/Progs/aolprogs/chrome.zip](http://lenshellarchive.com/Progs/aolprogs/chrome.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip) | unknown | candidate |
+| Progs Section 1 | chrome.zip | [http://www.cybernyse.com/chrome.zip](http://www.cybernyse.com/chrome.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chrome.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chrome.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [all-in-one prog](../../../categories/all-in-one-prog.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

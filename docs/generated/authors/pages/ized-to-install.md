@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 103 | [anti](../../applications/pages/A/0103-anti.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | IZED TO INSTALL | [local](../../../../files/aol/aol-4-0/0103-anti.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 103 | [Momosidler](../../applications/pages/A/0103-momosidler.md) | anti | Unknown / needs review | uncategorized | AOL 4.0 | IZED TO INSTALL | 38 KB | [local](../../../../files/aol/aol-4-0/0103-anti.zip) | 0 |

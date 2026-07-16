@@ -1,5 +1,7 @@
 # Matt's Punta
 
+
+
 A disruptive disconnect/booting category from AOL chat-room history. Preserved as historical vocabulary only. Filename/catalog cues suggest: punter/booter vocabulary.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
@@ -10,10 +12,18 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | --- | --- |
 | Archive ID | prog-1233-matts-punta |
 | Catalog number | 1233 |
-| Name | Matt's Punta |
+| Best known name | Matt's Punta |
+| Best name source | catalog |
+| Catalog label | Matt's Punta |
+| Archive filename | mattspunta.zip |
+| File size | 404 KB |
 | Author | Alpha |
+| Catalog author | Alpha |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Punter / booter |
 | Category | punter |
 | Visual Basic | VB4-32 |
@@ -22,6 +32,10 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 404 KB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mattspunta.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mattspunta.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mattspunta.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mattspunta.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mattspunta.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,33 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| punter's | matt's weed punta | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/mattspunta.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/mattspunta.zip) | [http://lenshellarchive.com/Progs/aolpunters/mattspunta.zip](http://lenshellarchive.com/Progs/aolpunters/mattspunta.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [punter](../../../categories/punter.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

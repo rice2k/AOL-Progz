@@ -1,29 +1,29 @@
 # Applications: J
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1065 | [J█Do ╟╟╪mz Ver╣.▓](pages/J/1065-jdo-mz-ver.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Kypnotik | [local](../../../files/aol/aol-4-0/1065-jdo-mz-ver.zip) | 0 |
-| 1041 | [j00b Scroller By Sinac](pages/J/1041-j00b-scroller-by-sinac.md) | Scroller / macro | scroller or macro | AOL | AOL 4.0 | Sinac | [local](../../../files/aol/aol-4-0/1041-j00b-scroller-by-sinac.zip) | 0 |
-| 1042 | [Jabronixer](pages/J/1042-jabronixer.md) | Fader / text styler | fader or text tool | AOL | AOL 5.0 | unknown | [local](../../../files/aol/aol-5-0/1042-jabronixer.zip) | 0 |
-| 1043 | [Jackals' Idler](pages/J/1043-jackals-idler.md) | Idler / AFK bot | idler or bot | AOL | AOL 9.0 | unknown | [local](../../../files/aol/aol-9-0/1043-jackals-idler.zip) | 0 |
-| 1044 | [jacked](pages/J/1044-jacked.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | s: qb and dank | [local](../../../files/aol/aol-4-0/1044-jacked.zip) | 0 |
-| 1045 | [JackTheBongRipper](pages/J/1045-jackthebongripper.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | who | [local](../../../files/aol/aol-4-0/1045-jackthebongripper.zip) | 0 |
-| 1046 | [JaiJeN](pages/J/1046-jaijen.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | CpRiDe | [local](../../../files/aol/aol-4-0/1046-jaijen.zip) | 0 |
-| 1047 | [JAMMIN](pages/J/1047-jammin.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | phazz | [local](../../../files/aol/aol-4-0/1047-jammin.zip) | 0 |
-| 1048 | [jarule](pages/J/1048-jarule.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | fifa | [local](../../../files/aol/aol-4-0/1048-jarule.zip) | 0 |
-| 1049 | [jarule2](pages/J/1049-jarule2.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | fifa | [local](../../../files/aol/aol-4-0/1049-jarule2.zip) | 0 |
-| 1050 | [Jeb Tools](pages/J/1050-jeb-tools.md) | All-in-one prog suite | all-in-one prog | AOL | AOL 4.0 | unknown | [local](../../../files/aol/aol-4-0/1050-jeb-tools.zip) | 0 |
-| 1051 | [JEEP](pages/J/1051-jeep.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | JeeP | [local](../../../files/aol/aol-4-0/1051-jeep.zip) | 0 |
-| 1052 | [jeeto.ccoms](pages/J/1052-jeeto-ccoms.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | ryan :.whoa | [local](../../../files/aol/aol-4-0/1052-jeeto-ccoms.zip) | 0 |
-| 1053 | [jelemim](pages/J/1053-jelemim.md) | Chat / IM utility | chat or IM tool | AOL | AOL 4.0 | unknown | [local](../../../files/aol/aol-4-0/1053-jelemim.zip) | 0 |
-| 1054 | [Jewbert Scroller](pages/J/1054-jewbert-scroller.md) | Scroller / macro | scroller or macro | AOL | AOL 4.0 | Latex | [local](../../../files/aol/aol-4-0/1054-jewbert-scroller.zip) | 0 |
-| 1055 | [jewtank](pages/J/1055-jewtank.md) | Unknown / needs review | uncategorized | AIM | Mixed/unknown | unknown | [local](../../../files/aim/mixed/1055-jewtank.zip) | 0 |
-| 1056 | [jinc idle](pages/J/1056-jinc-idle.md) | Idler / AFK bot | idler or bot | AOL | AOL 4.0 | unknown | [local](../../../files/aol/aol-4-0/1056-jinc-idle.zip) | 0 |
-| 1057 | [jokebox](pages/J/1057-jokebox.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | unknown | [local](../../../files/aol/aol-4-0/1057-jokebox.zip) | 0 |
-| 1058 | [jokebox](pages/J/1058-jokebox.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | speeL | [local](../../../files/aol/aol-4-0/1058-jokebox.zip) | 0 |
-| 1059 | [judgement night 4.0 final](pages/J/1059-judgement-night-4-0-final.md) | Unknown / needs review | uncategorized | AOL | AOL 6.0 | step | [local](../../../files/aol/aol-6-0/1059-judgement-night-4-0-final.zip) | 0 |
-| 1060 | [JudgementDay](pages/J/1060-judgementday.md) | Account / TOS utility | account or TOS tool | AOL | AOL 4.0 | Nautica | [local](../../../files/aol/aol-4-0/1060-judgementday.zip) | 0 |
-| 1061 | [Judgment Day²](pages/J/1061-judgment-day2.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | ZIP | [local](../../../files/aol/aol-4-0/1061-judgment-day2.zip) | 0 |
-| 1062 | [Juggalo T 2](pages/J/1062-juggalo-t-2.md) | All-in-one prog suite | account or TOS tool | AOL | AOL 4.0 | CpRide | [local](../../../files/aol/aol-4-0/1062-juggalo-t-2.zip) | 0 |
-| 1063 | [Juggalo Toolz 1](pages/J/1063-juggalo-toolz-1.md) | All-in-one prog suite | all-in-one prog | AOL | AOL 4.0 | BLIssID | [local](../../../files/aol/aol-4-0/1063-juggalo-toolz-1.zip) | 0 |
-| 1064 | [juvenile upchat1](pages/J/1064-juvenile-upchat1.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Chr0me | [local](../../../files/aol/aol-4-0/1064-juvenile-upchat1.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1065 | [J█Do ╟╟╪mz Ver╣.▓](pages/J/1065-jdo-mz-ver.md) | J█Do ╟╟╪mz Ver╣.▓ | Unknown / needs review | uncategorized | AOL 4.0 | Kypnotik | 864 KB | [local](../../../files/aol/aol-4-0/1065-jdo-mz-ver.zip) | 0 |
+| 1041 | [j00b Scroller By Sinac](pages/J/1041-j00b-scroller-by-sinac.md) | j00b Scroller By Sinac | Scroller / macro | scroller or macro | AOL 4.0 | Sinac | 729 KB | [local](../../../files/aol/aol-4-0/1041-j00b-scroller-by-sinac.zip) | 0 |
+| 1042 | [Jabroni Xer Yr 2k](pages/J/1042-jabroni-xer-yr-2k.md) | Jabronixer | Fader / text styler | fader or text tool | AOL 5.0 | unknown | 22 B | [local](../../../files/aol/aol-5-0/1042-jabronixer.zip) | 0 |
+| 1043 | [Jackal's Idler Win XP Yr 05](pages/J/1043-jackals-idler-win-xp-yr-05.md) | Jackals' Idler | Idler / AFK bot | idler or bot | AOL 9.0 | unknown | 22 B | [local](../../../files/aol/aol-9-0/1043-jackals-idler.zip) | 0 |
+| 1044 | [jacked](pages/J/1044-jacked.md) | jacked | Unknown / needs review | uncategorized | AOL 4.0 | s: qb and dank | 779 KB | [local](../../../files/aol/aol-4-0/1044-jacked.zip) | 0 |
+| 1045 | [JackTheBongRipper](pages/J/1045-jackthebongripper.md) | JackTheBongRipper | Unknown / needs review | uncategorized | AOL 4.0 | who | 1.8 MB | [local](../../../files/aol/aol-4-0/1045-jackthebongripper.zip) | 0 |
+| 1046 | [JaiJeN](pages/J/1046-jaijen.md) | JaiJeN | Unknown / needs review | uncategorized | AOL 4.0 | CpRiDe | 2.1 MB | [local](../../../files/aol/aol-4-0/1046-jaijen.zip) | 0 |
+| 1047 | [JAMMIN](pages/J/1047-jammin.md) | JAMMIN | Unknown / needs review | uncategorized | AOL 4.0 | phazz | 1.5 MB | [local](../../../files/aol/aol-4-0/1047-jammin.zip) | 0 |
+| 1048 | [jarule](pages/J/1048-jarule.md) | jarule | Unknown / needs review | uncategorized | AOL 4.0 | fifa | 2.8 MB | [local](../../../files/aol/aol-4-0/1048-jarule.zip) | 0 |
+| 1049 | [jarule2](pages/J/1049-jarule2.md) | jarule2 | Unknown / needs review | uncategorized | AOL 4.0 | fifa | 3.1 MB | [local](../../../files/aol/aol-4-0/1049-jarule2.zip) | 0 |
+| 1050 | [Jeb Tools](pages/J/1050-jeb-tools.md) | Jeb Tools | All-in-one prog suite | all-in-one prog | AOL 4.0 | unknown | 1.9 MB | [local](../../../files/aol/aol-4-0/1050-jeb-tools.zip) | 0 |
+| 1051 | [Jeep 40](pages/J/1051-jeep-40.md) | JEEP | Unknown / needs review | uncategorized | AOL 4.0 | JeeP | 11 KB | [local](../../../files/aol/aol-4-0/1051-jeep.zip) | 0 |
+| 1052 | [jeeto.ccoms](pages/J/1052-jeeto-ccoms.md) | jeeto.ccoms | Unknown / needs review | uncategorized | AOL 4.0 | ryan :.whoa | 1.5 MB | [local](../../../files/aol/aol-4-0/1052-jeeto-ccoms.zip) | 0 |
+| 1053 | [Jele's Mass IM And 5.0](pages/J/1053-jeles-mass-im-and-5-0.md) | jelemim | Chat / IM utility | chat or IM tool | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1053-jelemim.zip) | 0 |
+| 1054 | [Jewbert Scroller](pages/J/1054-jewbert-scroller.md) | Jewbert Scroller | Scroller / macro | scroller or macro | AOL 4.0 | Latex | 1.3 MB | [local](../../../files/aol/aol-4-0/1054-jewbert-scroller.zip) | 0 |
+| 1055 | [jewtank](pages/J/1055-jewtank.md) | jewtank | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 2.7 MB | [local](../../../files/aim/mixed/1055-jewtank.zip) | 0 |
+| 1056 | [jinc idle](pages/J/1056-jinc-idle.md) | jinc idle | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 760 KB | [local](../../../files/aol/aol-4-0/1056-jinc-idle.zip) | 0 |
+| 1057 | [Jokeboxfinal](pages/J/1057-jokeboxfinal.md) | jokebox | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 454 KB | [local](../../../files/aol/aol-4-0/1057-jokebox.zip) | 0 |
+| 1058 | [jokebox](pages/J/1058-jokebox.md) | jokebox | Unknown / needs review | uncategorized | AOL 4.0 | speeL | 731 KB | [local](../../../files/aol/aol-4-0/1058-jokebox.zip) | 0 |
+| 1059 | [Judgement Night 4.0 Final Yr 01](pages/J/1059-judgement-night-4-0-final-yr-01.md) | judgement night 4.0 final | Unknown / needs review | uncategorized | AOL 6.0 | step | 18 MB | [local](../../../files/aol/aol-6-0/1059-judgement-night-4-0-final.zip) | 0 |
+| 1060 | [JudgementDay](pages/J/1060-judgementday.md) | JudgementDay | Account / TOS utility | account or TOS tool | AOL 4.0; inferred: AOL 4-5 | Nautica | 4.2 MB | [local](../../../files/aol/aol-4-0/1060-judgementday.zip) | 0 |
+| 1061 | [Judgement Day%b 2 And 9.0 Win 98-xp Yr 04](pages/J/1061-judgement-dayb-2-and-9-0-win-98-xp-yr-04.md) | Judgment Day² | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 8.0 | ZIP | 1.8 MB | [local](../../../files/aol/aol-4-0/1061-judgment-day2.zip) | 0 |
+| 1062 | [Juggalo T 2](pages/J/1062-juggalo-t-2.md) | Juggalo T 2 | All-in-one prog suite | account or TOS tool | AOL 4.0; inferred: AOL 4-5 | CpRide | 3.0 MB | [local](../../../files/aol/aol-4-0/1062-juggalo-t-2.zip) | 0 |
+| 1063 | [Juggalo Toolz 1](pages/J/1063-juggalo-toolz-1.md) | Juggalo Toolz 1 | All-in-one prog suite | all-in-one prog | AOL 4.0 | BLIssID | 1.0 MB | [local](../../../files/aol/aol-4-0/1063-juggalo-toolz-1.zip) | 0 |
+| 1064 | [juvenile upchat1](pages/J/1064-juvenile-upchat1.md) | juvenile upchat1 | Unknown / needs review | uncategorized | AOL 4.0 | Chr0me | 1.4 MB | [local](../../../files/aol/aol-4-0/1064-juvenile-upchat1.zip) | 0 |

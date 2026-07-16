@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1214 | [MaNa Idler](../../applications/pages/M/1214-mana-idler.md) | Idler / AFK bot | idler or bot | AOL | AOL 4.0 | Alpha & A | [local](../../../../files/aol/aol-4-0/1214-mana-idler.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1214 | [MaNa Idler](../../applications/pages/M/1214-mana-idler.md) | MaNa Idler | Idler / AFK bot | idler or bot | AOL 4.0 | Alpha & A | 842 KB | [local](../../../../files/aol/aol-4-0/1214-mana-idler.zip) | 0 |

@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1528 | [PT](../../applications/pages/P/1528-pt.md) | Unknown / needs review | uncategorized | AOL | AOL 2.5 | pen | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1528 | [Pen](../../applications/pages/P/1528-pen.md) | PT | Unknown / needs review | uncategorized | AOL 2.5 | pen | unknown | remote-only | 0 |

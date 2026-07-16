@@ -1,5 +1,7 @@
 # Ravyn's Linker
 
+
+
 A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Filename/catalog cues suggest: linking/chat link workflows.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | --- | --- |
 | Archive ID | prog-1585-ravyns-linker |
 | Catalog number | 1585 |
-| Name | Ravyn's Linker |
+| Best known name | Ravyn's Linker |
+| Best name source | catalog |
+| Catalog label | Ravyn's Linker |
+| Archive filename | ravynslinker.zip |
+| File size | 1.5 MB |
 | Author | Clear Water |
+| Catalog author | Clear Water |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Linker / chat linker |
 | Category | chat or IM tool |
 | Visual Basic | VB5 |
@@ -22,6 +32,10 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.5 MB |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -51,8 +66,33 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | [http://angelfire.com/realm/blackrose1](http://angelfire.com/realm/blackrose1) | Ravyn's Linker.exe | archive text |
 | [http://www.microsoft.com](http://www.microsoft.com) | Ravyn's Linker.exe | archive text |
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc n-z | ravyn's linker | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/ravynslinker.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/ravynslinker.zip) | [http://lenshellarchive.com/Progs/aolprogs/ravynslinker.zip](http://lenshellarchive.com/Progs/aolprogs/ravynslinker.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [chat or IM tool](../../../categories/chat-or-im-tool.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

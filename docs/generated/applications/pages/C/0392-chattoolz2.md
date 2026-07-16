@@ -1,5 +1,7 @@
 # chattoolz2
 
+
+
 A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | --- | --- |
 | Archive ID | prog-0392-chattoolz2 |
 | Catalog number | 392 |
-| Name | chattoolz2 |
+| Best known name | chattoolz2 |
+| Best name source | catalog |
+| Catalog label | chattoolz2 |
+| Archive filename | chat toolz2.0 beta yr2k.zip |
+| File size | 22 B |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Chat / IM utility |
 | Category | chat or IM tool |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
+| Matched web download links | 4 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat toolz2.0 beta yr2k.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip)
+- Matched web download leads: 4 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,38 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Progs Section 1 | Chat Toolz 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chattoolz2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chattoolz2.zip) | [http://www.cybernyse.com/chattoolz2.zip](http://www.cybernyse.com/chattoolz2.zip) |
+| LensHell AIM progs | chat toolz2.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) |
+| prog's/misc a-m | chat toolz2.0 beta | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) |
+| Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/chattoolz2.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip) | [http://www.oogle.net/downloads/progs/chattoolz2.zip](http://www.oogle.net/downloads/progs/chattoolz2.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| prog's/misc a-m | chattoolz2beta.zip | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [chat or IM tool](../../../categories/chat-or-im-tool.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

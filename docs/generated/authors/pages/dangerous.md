@@ -2,7 +2,7 @@
 
 **Catalog entries:** 2
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 956 | [idelism▌](../../applications/pages/I/0956-idelism.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | dangerous | [local](../../../../files/aol/aol-4-0/0956-idelism.zip) | 0 |
-| 1097 | [lameXer](../../applications/pages/L/1097-lamexer.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | dangerous | [local](../../../../files/aol/aol-4-0/1097-lamexer.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 956 | [Idelismbuild 1](../../applications/pages/I/0956-idelismbuild-1.md) | idelism▌ | Unknown / needs review | uncategorized | AOL 4.0 | dangerous | 1.7 MB | [local](../../../../files/aol/aol-4-0/0956-idelism.zip) | 0 |
+| 1097 | [lameXer](../../applications/pages/L/1097-lamexer.md) | lameXer | Unknown / needs review | uncategorized | AOL 4.0 | dangerous | 1.4 MB | [local](../../../../files/aol/aol-4-0/1097-lamexer.zip) | 0 |

@@ -39,4 +39,5 @@ This section records original sites, Wayback captures, GitHub mirrors, source pa
 - [Embedded archive URLs](embedded-archive-urls.md)
 - [External mirror groups](mirror-groups.md)
 - [Missing candidates and recovered mirrors](missing-candidates.md)
+- [Program web-research mentions](../applications/web-research-mentions.md)
 - [Methodus2000 source report](../../sources/methodus2000.md)

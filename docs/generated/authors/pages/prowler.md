@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1150 | [liquid](../../applications/pages/L/1150-liquid.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | prowler | [local](../../../../files/aol/aol-4-0/1150-liquid.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1150 | [Liquidcoms](../../applications/pages/L/1150-liquidcoms.md) | liquid | Unknown / needs review | uncategorized | AOL 4.0 | prowler | 1.7 MB | [local](../../../../files/aol/aol-4-0/1150-liquid.zip) | 0 |

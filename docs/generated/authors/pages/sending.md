@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 869 | [Green](../../applications/pages/G/0869-green.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | sending | [local](../../../../files/aol/aol-4-0/0869-green.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 869 | [Soilentgreen](../../applications/pages/G/0869-soilentgreen.md) | Green | Unknown / needs review | uncategorized | AOL 4.0 | sending | 630 KB | [local](../../../../files/aol/aol-4-0/0869-green.zip) | 0 |

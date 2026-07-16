@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 935 | [HYSTERIA](../../applications/pages/H/0935-hysteria.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | click | [local](../../../../files/aol/aol-4-0/0935-hysteria.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 935 | [HYSTERIA](../../applications/pages/H/0935-hysteria.md) | HYSTERIA | Unknown / needs review | uncategorized | AOL 4.0 | click | 2.0 MB | [local](../../../../files/aol/aol-4-0/0935-hysteria.zip) | 0 |

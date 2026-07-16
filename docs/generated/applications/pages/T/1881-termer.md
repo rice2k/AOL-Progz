@@ -1,5 +1,7 @@
 # TERMER
 
+
+
 Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
@@ -10,10 +12,18 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | --- | --- |
 | Archive ID | prog-1881-termer |
 | Catalog number | 1881 |
-| Name | TERMER |
+| Best known name | TERMER |
+| Best name source | catalog |
+| Catalog label | TERMER |
+| Archive filename | stolen termer.zip |
+| File size | unknown |
 | Author | ThiEf |
+| Catalog author | ThiEf |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 3.0 |
+| Catalog AOL/version bucket | AOL 3.0 |
+| Inferred AOL version | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Visual Basic | unknown |
@@ -22,6 +32,10 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
+| Matched web download links | 1 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/stolen termer.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/stolen%20termer.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/stolen%20termer.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/stolen%20termer.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/stolen%20termer.zip)
+- Matched web download leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,33 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| termer's | stolen termer | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/stolen.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/stolen.zip) | [http://lenshellarchive.com/Progs/aoltermers/stolen.zip](http://lenshellarchive.com/Progs/aoltermers/stolen.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [account or TOS tool](../../../categories/account-or-tos-tool.md)
 - Version bucket: [AOL 3.0](../../../versions/aol-3-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

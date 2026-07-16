@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 510 | [dank tank](../../applications/pages/D/0510-dank-tank.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | klopin | [local](../../../../files/aol/aol-4-0/0510-dank-tank.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 510 | [dank tank](../../applications/pages/D/0510-dank-tank.md) | dank tank | Unknown / needs review | uncategorized | AOL 4.0 | klopin | 633 KB | [local](../../../../files/aol/aol-4-0/0510-dank-tank.zip) | 0 |

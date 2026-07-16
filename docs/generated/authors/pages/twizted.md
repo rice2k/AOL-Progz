@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1469 | [poanot](../../applications/pages/P/1469-poanot.md) | Unknown / needs review | uncategorized | AOL | Mixed/unknown | twizted | [local](../../../../files/aol/mixed/1469-poanot.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1469 | [poanot](../../applications/pages/P/1469-poanot.md) | poanot | Unknown / needs review | uncategorized | Mixed/unknown | twizted | 15 KB | [local](../../../../files/aol/mixed/1469-poanot.zip) | 0 |

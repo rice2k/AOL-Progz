@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2054 | [X ²k](../../applications/pages/X/2054-x-2k.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | kapix | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2054 | [X 2k](../../applications/pages/X/2054-x-2k.md) | X ²k | Unknown / needs review | uncategorized | AOL 4.0 | kapix | unknown | remote-only | 0 |

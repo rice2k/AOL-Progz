@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1884 | [termish v1.87](../../applications/pages/T/1884-termish-v1-87.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | me chillin second version | remote-only | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1884 | [termish v1.87](../../applications/pages/T/1884-termish-v1-87.md) | termish v1.87 | Unknown / needs review | uncategorized | AOL 4.0 | me chillin second version | unknown | remote-only | 0 |

@@ -1,4 +1,6 @@
-# alien
+# Alien
+
+Catalog label: **alien**.
 
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0067-alien |
 | Catalog number | 67 |
-| Name | alien |
+| Best known name | Alien |
+| Best name source | archive filename |
+| Catalog label | alien |
+| Archive filename | alien.zip |
+| File size | 1.7 MB |
 | Author | nocturnal |
+| Catalog author | nocturnal |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 2 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alien.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alien.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alien.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alien.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alien.zip)
+- Matched web download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,39 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| ADOBE PLUG-INS | Alien Skin | [https://web.archive.org/web/20010220180159/http://server39.hypermart.net/wipeout/AlienSkin.zip](https://web.archive.org/web/20010220180159/http://server39.hypermart.net/wipeout/AlienSkin.zip) | [http://server39.hypermart.net/wipeout/AlienSkin.zip](http://server39.hypermart.net/wipeout/AlienSkin.zip) |
+| c-coms | alien toolz 1.1 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/alien.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/alien.zip) | [http://lenshellarchive.com/Progs/aolccoms/alien.zip](http://lenshellarchive.com/Progs/aolccoms/alien.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| ADOBE PLUG-INS | AlienSkin.zip | [http://server39.hypermart.net/wipeout/AlienSkin.zip](http://server39.hypermart.net/wipeout/AlienSkin.zip) | [https://web.archive.org/web/20010220180159/http://server39.hypermart.net/wipeout/AlienSkin.zip](https://web.archive.org/web/20010220180159/http://server39.hypermart.net/wipeout/AlienSkin.zip) | unknown | candidate |
+
+### Web Image Leads
+
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| FONTS | alienator.jpg | [https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/alienator.jpg](https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/alienator.jpg) | [http://wipeout.hypermart.net/fonts/alienator.jpg](http://wipeout.hypermart.net/fonts/alienator.jpg) |
+| LensHellArchive Games | aliensmallicon.gif | [https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/aliensmallicon.gif](https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/aliensmallicon.gif) | [http://lenshellarchive.com/images/aliensmallicon.gif](http://lenshellarchive.com/images/aliensmallicon.gif) |
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

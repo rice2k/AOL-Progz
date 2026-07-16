@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 842 | [Global](../../applications/pages/G/0842-global.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | RuNe n' FrY | [local](../../../../files/aol/aol-4-0/0842-global.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 842 | [Global Domination](../../applications/pages/G/0842-global-domination.md) | Global | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 5.0 | RuNe n' FrY | 2.1 MB | [local](../../../../files/aol/aol-4-0/0842-global.zip) | 0 |

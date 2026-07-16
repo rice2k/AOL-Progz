@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 630 | [Earth Siege](../../applications/pages/E/0630-earth-siege.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | Hyper | [local](../../../../files/aol/aol-4-0/0630-earth-siege.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 630 | [Earth Siege](../../applications/pages/E/0630-earth-siege.md) | Earth Siege | Unknown / needs review | uncategorized | AOL 4.0 | Hyper | 2.6 MB | [local](../../../../files/aol/aol-4-0/0630-earth-siege.zip) | 0 |

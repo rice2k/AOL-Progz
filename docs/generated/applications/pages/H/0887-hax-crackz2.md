@@ -1,5 +1,7 @@
 # HaX CrAcKz2
 
+
+
 The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | --- | --- |
 | Archive ID | prog-0887-hax-crackz2 |
 | Catalog number | 887 |
-| Name | HaX CrAcKz2 |
+| Best known name | HaX CrAcKz2 |
+| Best name source | catalog |
+| Catalog label | HaX CrAcKz2 |
+| Archive filename | hax cracks 2 aol7.zip |
+| File size | 1.4 MB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
-| AOL/version bucket | Mixed/unknown |
+| AOL/version bucket | AOL 7 |
+| Catalog AOL/version bucket | Mixed/unknown |
+| Inferred AOL version | AOL 7 |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB6 |
@@ -22,6 +32,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,8 @@ The catalog metadata and filename do not identify a confident single function ye
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/hax cracks 2 aol7.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/hax%20cracks%202%20aol7.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/hax%20cracks%202%20aol7.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/hax%20cracks%202%20aol7.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/hax%20cracks%202%20aol7.zip)
+- Matched web download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +62,36 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| cracker's | hax cracks 2 | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/hax2.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/hax2.zip) | [http://lenshellarchive.com/Progs/aolcrackers/hax2.zip](http://lenshellarchive.com/Progs/aolcrackers/hax2.zip) |
+| cracker's | i will crack (7.0 version) | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracks.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracks.zip) | [http://lenshellarchive.com/Progs/aolcrackers/cracks.zip](http://lenshellarchive.com/Progs/aolcrackers/cracks.zip) |
+
+### Mirror Leads
+
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| cracker's | cracks.zip | [http://lenshellarchive.com/Progs/aolcrackers/cracks.zip](http://lenshellarchive.com/Progs/aolcrackers/cracks.zip) | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracks.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracks.zip) | unknown | candidate |
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [uncategorized](../../../categories/uncategorized.md)
 - Version bucket: [Mixed/unknown](../../../versions/mixedunknown.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

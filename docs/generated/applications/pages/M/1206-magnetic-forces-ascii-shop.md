@@ -1,5 +1,7 @@
 # Magnetic Forces Ascii Shop
 
+
+
 A macro, ASCII art, canned-command, or repeated-text utility for chat/profile output. Filename/catalog cues suggest: scrolling, macros, or ASCII text.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
@@ -10,10 +12,18 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | --- | --- |
 | Archive ID | prog-1206-magnetic-forces-ascii-shop |
 | Catalog number | 1206 |
-| Name | Magnetic Forces Ascii Shop |
+| Best known name | Magnetic Forces Ascii Shop |
+| Best name source | catalog |
+| Catalog label | Magnetic Forces Ascii Shop |
+| Archive filename | magnetic.zip |
+| File size | 632 KB |
 | Author | unknown |
+| Catalog author | unknown |
+| Inferred author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Catalog AOL/version bucket | AOL 4.0 |
+| Inferred AOL version | unknown |
 | Prog type | Scroller / macro |
 | Category | scroller or macro |
 | Visual Basic | VB4-32 |
@@ -22,6 +32,10 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 632 KB |
+| Matched web download links | 2 |
+| Matched mirror leads | 0 |
+| Web research mentions | 0 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -33,6 +47,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 - Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magnetic.zip`
 - Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magnetic.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magnetic.zip)
 - Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magnetic.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magnetic.zip)
+- Matched web download leads: 2 link(s) listed below
 
 ## AOL Version Context
 
@@ -46,8 +61,34 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 No readable original URLs were found inside the mirrored archive text during the current scan.
 
+## Web Research
+
+This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Source Mentions
+
+No specific old-page program mention is matched to this entry yet.
+
+### Matched Web Download Links
+
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| prog's/misc a-m | magnetic forces ascii shop | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/magnetic.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/magnetic.zip) | [http://lenshellarchive.com/Progs/aolprogs/magnetic.zip](http://lenshellarchive.com/Progs/aolprogs/magnetic.zip) |
+| Section 2 | Magnetic Forces Ascii Shop | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magnetic.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magnetic.zip) | [http://www.cybernyse.com/downlowdz/magnetic.zip](http://www.cybernyse.com/downlowdz/magnetic.zip) |
+
+### Mirror Leads
+
+No external mirror leads are matched to this entry yet.
+
+### Web Image Leads
+
+No extra web-image leads are matched to this entry yet.
+
 ## Related Indexes
 
 - Category: [scroller or macro](../../../categories/scroller-or-macro.md)
 - Version bucket: [AOL 4.0](../../../versions/aol-4-0.md)
 - Applications index: [all applications](../../all-applications.md)
+- Download map: [all program download links](../../all-program-downloads.md)

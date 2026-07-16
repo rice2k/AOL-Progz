@@ -2,6 +2,6 @@
 
 **Catalog entries:** 1
 
-| # | Actual name | Prog type | Category | Platform | AOL/version bucket | Author | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1249 | [MeTaL](../../applications/pages/M/1249-metal.md) | Unknown / needs review | uncategorized | AOL | AOL 4.0 | OiL | [local](../../../../files/aol/aol-4-0/1249-metal.zip) | 0 |
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1249 | [Metal](../../applications/pages/M/1249-metal.md) | MeTaL | Unknown / needs review | uncategorized | AOL 4.0 | OiL | 1.9 MB | [local](../../../../files/aol/aol-4-0/1249-metal.zip) | 0 |
