@@ -83,7 +83,6 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | URL | Found in | Source |
 | --- | --- | --- |
 | [http://www.ritman.com/lenshell](http://www.ritman.com/lenshell) | !ReadMe!.txt | archive text |
-| [http://www.ritman.com/lenshell/index.htm](http://www.ritman.com/lenshell/index.htm) | !ReadMe!.txt | archive text |
 
 ## Web Research
 

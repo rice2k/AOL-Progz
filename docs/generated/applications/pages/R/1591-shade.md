@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | unknown |
 | Source confidence | local + old-web lead |
-| Review priority | high (13) |
-| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence, web image lead needs screenshot match |
+| Review priority | high (11) |
+| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -111,9 +111,7 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| Tunnel of AOL CDs | f-shades.gif | [https://justinakapaste.com/wp-content/uploads/random/f-shades.gif](https://justinakapaste.com/wp-content/uploads/random/f-shades.gif) | [https://justinakapaste.com/wp-content/uploads/random/f-shades.gif](https://justinakapaste.com/wp-content/uploads/random/f-shades.gif) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

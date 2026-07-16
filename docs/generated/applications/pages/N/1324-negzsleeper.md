@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -61,7 +61,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1324-negzsleeper.zip](../../../../../files/aol/aol-4-0/1324-negzsleeper.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/negzsleeper.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/negzsleeper.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/negzsleeper.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/negzsleeper.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/negzsleeper.zip)
@@ -101,11 +102,16 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| AM/ | SLEEP.EXE | [http://am.net/lib/TOOLS/AM/SLEEP.EXE](http://am.net/lib/TOOLS/AM/SLEEP.EXE) | [http://am.net/lib/TOOLS/AM/SLEEP.EXE](http://am.net/lib/TOOLS/AM/SLEEP.EXE) |
 | LensHell idlers | sleeper | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/negzsleeper.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/negzsleeper.zip) | [http://lenshellarchive.com/Progs/aolidlers/negzsleeper.zip](http://lenshellarchive.com/Progs/aolidlers/negzsleeper.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Section 2 | sleep2.zip | [http://www.cybernyse.com/downlowdz/sleep2.zip](http://www.cybernyse.com/downlowdz/sleep2.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sleep2.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sleep2.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | sleep2.zip | [http://24.185.191.87/progz/sleep2.zip](http://24.185.191.87/progz/sleep2.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sleep2.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sleep2.zip) | unknown | candidate |
+| AM/ | sleep2.zip | [http://am.net/lib/TOOLS/AM/SLEEP.EXE](http://am.net/lib/TOOLS/AM/SLEEP.EXE) | [http://am.net/lib/TOOLS/AM/SLEEP.EXE](http://am.net/lib/TOOLS/AM/SLEEP.EXE) | unknown | candidate |
 
 ### Web Image Leads
 

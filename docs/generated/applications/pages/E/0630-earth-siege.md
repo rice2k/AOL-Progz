@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.6 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0630-earth-siege.zip](../../../../../files/aol/aol-4-0/0630-earth-siege.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/earthsiege.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/earthsiege.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/earthsiege.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/earthsiege.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/earthsiege.zip)
@@ -113,6 +113,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: Click-Online AOL 4/5 progz | earthsiege.zip | [http://click-online2000.com/progz/earthsiege.zip](http://click-online2000.com/progz/earthsiege.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/earthsiege.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/earthsiege.zip) | unknown | http-404 |
 | Web page: LensHell misc progs A-M | earthsiege.zip | [http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip](http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip) | unknown | http-404 |
+| Web page: Aol 4.0/5.0 Progs | earthsiege2.zip | [http://www.oogle.net/downloads/progs/earthsiege2.zip](http://www.oogle.net/downloads/progs/earthsiege2.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/earthsiege2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/earthsiege2.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

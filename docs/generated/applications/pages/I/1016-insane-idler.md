@@ -43,7 +43,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
 | Author confidence | catalog only |
@@ -62,6 +62,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 - Local mirrored archive: [files/aol/aol-4-0/1016-insane-idler.zip](../../../../../files/aol/aol-4-0/1016-insane-idler.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insane.zip)
@@ -105,7 +106,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell idlers | insane.zip | [http://lenshellarchive.com/Progs/aolidlers/insane.zip](http://lenshellarchive.com/Progs/aolidlers/insane.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insane.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insane.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

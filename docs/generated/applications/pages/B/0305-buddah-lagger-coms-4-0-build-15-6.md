@@ -45,18 +45,18 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (7) |
-| Manual review flags | category uncertain, type uncertain |
+| Review priority | high (9) |
+| Manual review flags | category uncertain, type uncertain, web image lead needs screenshot match |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -113,7 +113,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AOL Prog HeLLRaiSER Video | buddahlagger4.jpg?fit=263%2C153&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/buddahlagger4.jpg?fit=263%2C153&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/buddahlagger4.jpg?fit=263%2C153&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/buddahlagger4.jpg?fit=263%2C153&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/buddahlagger4.jpg?fit=263%2C153&amp;ssl=1) |
 
 ## Related Indexes
 

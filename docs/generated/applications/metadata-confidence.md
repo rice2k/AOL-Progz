@@ -11,20 +11,20 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | author | readme/archive text | 15 |
 | author | filename/source inferred | 8 |
 | author | manual source correction | 2 |
-| category | needs review | 1310 |
+| category | needs review | 1309 |
 | category | catalog/path inferred | 484 |
 | category | readme/archive text | 324 |
-| category | external ZIP text | 19 |
+| category | external ZIP text | 20 |
 | category | curated source clue | 2 |
 | version | catalog bucket | 1564 |
 | version | filename/source inferred | 335 |
 | version | unknown | 134 |
 | version | readme/archive text | 106 |
-| source | local + old-web lead | 1573 |
-| source | old-web lead | 425 |
-| source | local catalog mirror | 99 |
+| source | local + old-web lead | 1575 |
+| source | old-web lead | 423 |
+| source | local catalog mirror | 97 |
 | source | catalog metadata only | 28 |
-| source | external mirror | 14 |
+| source | external mirror | 16 |
 
 ## Per Program
 
@@ -65,7 +65,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [4sho Player3](pages/0-9-symbols/0033-4sho-player3.md) | 4sho Player3 | catalog only | needs review | filename/source inferred | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [533idle v3.1](pages/0-9-symbols/0034-533idle-v3-1.md) | 533idle v3.1 | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
 | [666 Idler And 9.0 Win XP](pages/0-9-symbols/0035-666-idler-and-9-0-win-xp.md) | 666 Idler | catalog only | catalog/path inferred | filename/source inferred | local + old-web lead | low (1) | no readable text evidence |
-| [9.Pr0 Collect](pages/0-9-symbols/0036-9-pr0-collect.md) | 9.Pr0 Collect | unknown | needs review | catalog bucket | local + old-web lead | high (10) | category uncertain<br>type uncertain<br>author unknown |
+| [9.Pr0 Collect](pages/0-9-symbols/0036-9-pr0-collect.md) | 9.Pr0 Collect | unknown | needs review | catalog bucket | local + old-web lead | high (12) | category uncertain<br>type uncertain<br>author unknown<br>web image lead needs screenshot match |
 | [[]D² Idle 1.1](pages/0-9-symbols/0037-d2-idle-1-1.md) | []D² Idle 1.1 | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [[E]P] ASCII Shop v1.03](pages/0-9-symbols/0038-ep-ascii-shop-v1-03.md) | [E]P] ASCII Shop v1.03 | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [A-Quard](pages/A/0039-a-quard.md) | A-Quard | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |
@@ -334,7 +334,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [BuDDaH lagger](pages/B/0302-buddah-lagger.md) | BuDDaH lagger | unknown | needs review | filename/source inferred | local catalog mirror | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead<br>no readable text evidence |
 | [Buddah Lagger 2.0 Win ALL Yr 04](pages/B/0303-buddah-lagger-2-0-win-all-yr-04.md) | BuDDaH lagger | unknown | needs review | filename/source inferred | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [BuDDaH lagger](pages/B/0304-buddah-lagger.md) | BuDDaH lagger | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
-| [BuDDaH Lagger coms 4.0 build 15.6](pages/B/0305-buddah-lagger-coms-4-0-build-15-6.md) | BuDDaH Lagger coms 4.0 build 15.6 | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
+| [BuDDaH Lagger coms 4.0 build 15.6](pages/B/0305-buddah-lagger-coms-4-0-build-15-6.md) | BuDDaH Lagger coms 4.0 build 15.6 | catalog only | needs review | catalog bucket | local + old-web lead | high (9) | category uncertain<br>type uncertain<br>web image lead needs screenshot match |
 | [BuDDaH Lagger4.0](pages/B/0306-buddah-lagger4-0.md) | BuDDaH Lagger4.0 | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [BuDDaH list orginiser v3.0](pages/B/0307-buddah-list-orginiser-v3-0.md) | BuDDaH list orginiser v3.0 | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [budsaver](pages/B/0308-budsaver.md) | budsaver | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
@@ -408,7 +408,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Chat Assassin](pages/C/0376-chat-assassin.md) | Chat Assassin | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | none (0) | none |
 | [Chat Assassin II](pages/C/0377-chat-assassin-ii.md) | Chat Assassin II | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [ChaT AssassiN III](pages/C/0378-chat-assassin-iii.md) | ChaT AssassiN III | catalog only | catalog/path inferred | filename/source inferred | local + old-web lead | low (1) | no readable text evidence |
-| [Chat Marrionette](pages/C/0379-chat-marrionette.md) | Chat Marrionette | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
+| [Chat Marrionette](pages/C/0379-chat-marrionette.md) | Chat Marrionette | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (3) | no readable text evidence<br>web image lead needs screenshot match |
 | [chat phucka' by fo0 beta](pages/C/0380-chat-phucka-by-fo0-beta.md) | chat phucka' by fo0 beta | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [chat room manager by spermie](pages/C/0381-chat-room-manager-by-spermie.md) | chat room manager by spermie | catalog only | readme/archive text | readme/archive text | local catalog mirror | low (2) | no old-web download or mirror lead |
 | [Chat Toolz 2.0 And 5.0 Yr 2k](pages/C/0382-chat-toolz-2-0-and-5-0-yr-2k.md) | Chat toolz2.o | unknown | readme/archive text | filename/source inferred | local + old-web lead | low (3) | author unknown |
@@ -602,7 +602,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [DieGod](pages/D/0570-diegod.md) | DieGod | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |
 | [Digilite 1.0.3](pages/D/0571-digilite-1-0-3.md) | digilite | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
 | [Digital Dynasty](pages/D/0572-digital-dynasty.md) | Digital Dynasty | catalog only | readme/archive text | readme/archive text | local + old-web lead | medium (4) | category uncertain |
-| [Digital impacT](pages/D/0573-digital-impact.md) | Digital impacT | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
+| [Digital impacT](pages/D/0573-digital-impact.md) | Digital impacT | catalog only | needs review | catalog bucket | local + old-web lead | high (10) | category uncertain<br>type uncertain<br>no readable text evidence<br>web image lead needs screenshot match |
 | [Digital Interuption](pages/D/0574-digital-interuption.md) | Digital Interuption | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [digital punter](pages/D/0575-digital-punter.md) | digital punter | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | no readable text evidence<br>sensitive historical category |
 | [digital punter](pages/D/0576-digital-punter.md) | digital punter | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (7) | author unknown<br>no readable text evidence<br>sensitive historical category |
@@ -772,7 +772,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [factorsfade](pages/F/0740-factorsfade.md) | factorsfade | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [Fada%b 9aol 7-9win ALLyr 2004](pages/F/0741-fadab-9aol-7-9win-allyr-2004.md) | Fada | unknown | needs review | catalog bucket | local catalog mirror | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead<br>no readable text evidence |
 | [Corn](pages/F/0742-corn.md) | FADE | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | none (0) | none |
-| [Fade 1](pages/F/0743-fade-1.md) | Fade | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (3) | no readable text evidence<br>web image lead needs screenshot match |
+| [Fade 1](pages/F/0743-fade-1.md) | Fade | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [Fade Dat Shintz And 5.0](pages/F/0744-fade-dat-shintz-and-5-0.md) | fadedat | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [Fadeda~1](pages/F/0745-fadeda1.md) | Fadeda~1 | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [FADER2](pages/F/0746-fader2.md) | FADER2 | catalog only | needs review | catalog bucket | local catalog mirror | high (9) | category uncertain<br>type uncertain<br>no old-web download or mirror lead |
@@ -864,7 +864,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Generation X](pages/G/0832-generation-x.md) | Generation X | catalog only | readme/archive text | readme/archive text | local + old-web lead | medium (4) | category uncertain |
 | [genocide](pages/G/0833-genocide.md) | genocide | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [genocide.remix](pages/G/0834-genocide-remix.md) | genocide.remix | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
-| [gespam](pages/G/0835-gespam.md) | gespam | catalog only | needs review | catalog bucket | local catalog mirror | high (9) | category uncertain<br>type uncertain<br>no old-web download or mirror lead |
+| [gespam](pages/G/0835-gespam.md) | gespam | catalog only | needs review | catalog bucket | local catalog mirror | medium (7) | category uncertain<br>type uncertain |
 | [Gestapo AOL ALL](pages/G/0836-gestapo-aol-all.md) | Gestapo | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [get-in 4.5](pages/G/0837-get-in-4-5.md) | get-in 4.5 | unknown | needs review | filename/source inferred | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [GET-IN Deluxe](pages/G/0838-get-in-deluxe.md) | GET-IN Deluxe | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
@@ -925,7 +925,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [HeatSpam](pages/H/0893-heatspam.md) | HeatSpam | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (7) | author unknown<br>no readable text evidence<br>sensitive historical category |
 | [heavy water final](pages/H/0894-heavy-water-final.md) | heavy water final | unknown | needs review | readme/archive text | local + old-web lead | high (10) | category uncertain<br>type uncertain<br>author unknown |
 | [HeLL RaSieR FiNaL](pages/H/0895-hell-rasier-final.md) | HeLL RaSieR FiNaL | catalog only | readme/archive text | readme/archive text | local + old-web lead | medium (4) | category uncertain |
-| [hell spitz 1.3[final]](pages/H/0896-hell-spitz-1-3final.md) | hell spitz 1.3[final] | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |
+| [hell spitz 1.3[final]](pages/H/0896-hell-spitz-1-3final.md) | hell spitz 1.3[final] | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (6) | category uncertain<br>matched external ZIP text to verify |
 | [HeLL sPiTz1.2](pages/H/0897-hell-spitz1-2.md) | HeLL sPiTz1.2 | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |
 | [HeLLs RevenGe](pages/H/0898-hells-revenge.md) | HeLLs RevenGe | catalog only | readme/archive text | readme/archive text | local + old-web lead | medium (4) | category uncertain |
 | [Hells Wasteland](pages/H/0899-hells-wasteland.md) | HellsWasteland | catalog only | catalog/path inferred | filename/source inferred | local + old-web lead | medium (4) | no readable text evidence<br>sensitive historical category |
@@ -957,7 +957,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [htmlfade](pages/H/0925-htmlfade.md) | htmlfade | catalog only | readme/archive text | unknown | local + old-web lead | medium (4) | category uncertain |
 | [hurricane mp3](pages/H/0926-hurricane-mp3.md) | hurricane mp3 | unknown | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>author unknown<br>no readable text evidence |
 | [Hush 70](pages/H/0927-hush-70.md) | hush | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
-| [hush ccom](pages/H/0928-hush-ccom.md) | hush ccom | catalog only | catalog/path inferred | catalog bucket | local catalog mirror | low (3) | no old-web download or mirror lead<br>no readable text evidence |
+| [hush ccom](pages/H/0928-hush-ccom.md) | hush ccom | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [hybriD mp3 playah](pages/H/0929-hybrid-mp3-playah.md) | hybriD mp3 playah | catalog only | needs review | unknown | local + old-web lead | medium (5) | category uncertain<br>no readable text evidence |
 | [Hydromm](pages/H/0930-hydromm.md) | hydro | filename/source inferred | needs review | filename/source inferred | local + old-web lead | high (16) | author conflict<br>category uncertain<br>type uncertain<br>no readable text evidence<br>web image lead needs screenshot match |
 | [Hydrophonix](pages/H/0931-hydrophonix.md) | hydrop | unknown | needs review | unknown | local + old-web lead | high (10) | category uncertain<br>type uncertain<br>author unknown |
@@ -968,7 +968,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [hî dîcE](pages/H/0936-hi-dice.md) | hî dîcE | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Hóòchy Linkèr](pages/H/0937-hoochy-linker.md) | Hóòchy Linkèr | unknown | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>author unknown<br>no readable text evidence |
 | [HΘúú ≡╤ Θ├«TH](pages/H/0938-huu-th.md) | HΘúú ≡╤ Θ├«TH | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
-| [i can scan by jake](pages/I/0939-i-can-scan-by-jake.md) | i can scan by jake | catalog only | needs review | catalog bucket | local catalog mirror | high (9) | category uncertain<br>type uncertain<br>no old-web download or mirror lead |
+| [i can scan by jake](pages/I/0939-i-can-scan-by-jake.md) | i can scan by jake | catalog only | needs review | catalog bucket | local catalog mirror | high (11) | category uncertain<br>type uncertain<br>no old-web download or mirror lead<br>web image lead needs screenshot match |
 | [i can't idle](pages/I/0940-i-cant-idle.md) | i can't idle | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [I V²~1](pages/I/0941-i-v21.md) | I V²~1 | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [I'll brb](pages/I/0942-ill-brb.md) | I'll brb | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
@@ -979,7 +979,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Ice toolz 1.0](pages/I/0947-ice-toolz-1-0.md) | Ice toolz 1.0 | catalog only | readme/archive text | filename/source inferred | local + old-web lead | none (0) | none |
 | [Icex 15](pages/I/0948-icex-15.md) | Ice X | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Icefader](pages/I/0949-icefader.md) | iCE3 | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
-| [Ice Drop MM](pages/I/0950-ice-drop-mm.md) | ICEDROP | catalog only | needs review | filename/source inferred | local catalog mirror | high (12) | category uncertain<br>type uncertain<br>no old-web download or mirror lead<br>no readable text evidence<br>web image lead needs screenshot match |
+| [Ice Drop MM](pages/I/0950-ice-drop-mm.md) | ICEDROP | catalog only | needs review | filename/source inferred | local catalog mirror | high (10) | category uncertain<br>type uncertain<br>no old-web download or mirror lead<br>no readable text evidence |
 | [ICEIDLE2](pages/I/0951-iceidle2.md) | ICEIDLE2 | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Icp 40](pages/I/0952-icp-40.md) | ICP40 | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [ICPFINAL](pages/I/0953-icpfinal.md) | ICPFINAL | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
@@ -1009,7 +1009,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Daysidle](pages/I/0977-daysidle.md) | idler | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [Neptune](pages/I/0978-neptune.md) | idler | catalog only | readme/archive text | catalog bucket | local + old-web lead | none (0) | none |
 | [idleroom 1.0](pages/I/0979-idleroom-1-0.md) | idleroom 1.0 | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
-| [idletech2](pages/I/0980-idletech2.md) | idletech2 | catalog only | needs review | catalog bucket | local + old-web lead | high (9) | category uncertain<br>type uncertain<br>web image lead needs screenshot match |
+| [idletech2](pages/I/0980-idletech2.md) | idletech2 | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
 | [idlewhore](pages/I/0981-idlewhore.md) | idlewhore | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [idlex 2 [private]](pages/I/0982-idlex-2-private.md) | idlex 2 [private] | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [idle│║║╣](pages/I/0983-idle.md) | idle│║║╣ | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
@@ -1053,7 +1053,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Insomnia Toolz V 1.0 Win 2k-xp](pages/I/1021-insomnia-toolz-v-1-0-win-2k-xp.md) | Insomnia Toolz v1.o | catalog only | catalog/path inferred | filename/source inferred | local + old-web lead | low (1) | no readable text evidence |
 | [INSULIN](pages/I/1022-insulin.md) | INSULIN | catalog only | needs review | filename/source inferred | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [INSUR~1](pages/I/1023-insur1.md) | INSUR~1 | unknown | readme/archive text | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>author unknown |
-| [integration](pages/I/1024-integration.md) | integration | catalog only | readme/archive text | readme/archive text | local + old-web lead | medium (4) | category uncertain |
+| [integration](pages/I/1024-integration.md) | integration | catalog only | readme/archive text | readme/archive text | local + old-web lead | medium (6) | category uncertain<br>web image lead needs screenshot match |
 | [Intellex X'er](pages/I/1025-intellex-xer.md) | intellex | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [intelligent linker](pages/I/1026-intelligent-linker.md) | intelligent linker | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
 | [InterBasicSetup](pages/I/1027-interbasicsetup.md) | InterBasicSetup | unknown | needs review | unknown | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
@@ -1232,7 +1232,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [MadMTMv 1.0](pages/M/1200-madmtmv-1-0.md) | MadMTMv 1.0 | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [mafiafader](pages/M/1201-mafiafader.md) | mafiafader | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
 | [MAGGOT Corpse](pages/M/1202-maggot-corpse.md) | MAGGOT Corpse | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
-| [Magic](pages/M/1203-magic.md) | magic | catalog only | needs review | catalog bucket | local + old-web lead | high (9) | category uncertain<br>type uncertain<br>web image lead needs screenshot match |
+| [Magic](pages/M/1203-magic.md) | magic | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
 | [MagicToolz](pages/M/1204-magictoolz.md) | MagicToolz | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
 | [MagicToolz](pages/M/1205-magictoolz.md) | MagicToolz | catalog only | needs review | catalog bucket | local catalog mirror | high (10) | category uncertain<br>type uncertain<br>no old-web download or mirror lead<br>no readable text evidence |
 | [Magnetic Forces Ascii Shop](pages/M/1206-magnetic-forces-ascii-shop.md) | Magnetic Forces Ascii Shop | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
@@ -1317,7 +1317,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Mortality Room Cycler](pages/M/1285-mortality-room-cycler.md) | Mortality Room Cycler | catalog only | needs review | catalog bucket | local + old-web lead | medium (7) | category uncertain<br>type uncertain |
 | [Mortality Room Cycler7.0](pages/M/1286-mortality-room-cycler7-0.md) | Mortality Room Cycler7.0 | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |
 | [Mortality Room Tools](pages/M/1287-mortality-room-tools.md) | Mortality Room Tools | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
-| [Mortality RoomBuster](pages/M/1288-mortality-roombuster.md) | Mortality RoomBuster | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | medium (6) | no readable text evidence<br>web image lead needs screenshot match<br>sensitive historical category |
+| [Mortality RoomBuster](pages/M/1288-mortality-roombuster.md) | Mortality RoomBuster | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | no readable text evidence<br>sensitive historical category |
 | [motherbust](pages/M/1289-motherbust.md) | motherbust | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Mario Online Beta Yr 2k](pages/M/1290-mario-online-beta-yr-2k.md) | mov2 | unknown | needs review | filename/source inferred | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Mo 13](pages/M/1291-mo-13.md) | mov2 | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
@@ -1398,7 +1398,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Nyte Lag](pages/N/1366-nyte-lag.md) | Nyte Lag | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [N° Bßs φdlΘr](pages/N/1367-n-bs-dlr.md) | N° Bßs φdlΘr | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [N° Bßs φdlΘr 2.0](pages/N/1368-n-bs-dlr-2-0.md) | N° Bßs φdlΘr 2.0 | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
-| [Nùclear](pages/N/1369-nuclear.md) | Nùclear | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
+| [Nùclear](pages/N/1369-nuclear.md) | Nùclear | unknown | needs review | catalog bucket | local + old-web lead | high (13) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence<br>web image lead needs screenshot match |
 | [o2scan](pages/O/1370-o2scan.md) | o2scan | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |
 | [Oblivian Idler And 5.0](pages/O/1371-oblivian-idler-and-5-0.md) | oblivian | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [OCF3FINL](pages/O/1372-ocf3finl.md) | OCF3FINL | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
@@ -1483,7 +1483,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Pick Some Bud Idler](pages/P/1451-pick-some-bud-idler.md) | Pick Some Bud Idler | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [Pimp](pages/P/1452-pimp.md) | PIMP | catalog only | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>type uncertain<br>no readable text evidence |
 | [Pinda Idle v2 by nas](pages/P/1453-pinda-idle-v2-by-nas.md) | Pinda Idle v2 by nas | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
-| [Faltoser](pages/P/1454-faltoser.md) | PKZIP | catalog only | readme/archive text | unknown | local catalog mirror | medium (6) | category uncertain<br>no old-web download or mirror lead |
+| [Faltoser](pages/P/1454-faltoser.md) | PKZIP | catalog only | readme/archive text | unknown | local + old-web lead | medium (4) | category uncertain |
 | [Planet Asia vers. 0.0.1](pages/P/1455-planet-asia-vers-0-0-1.md) | Planet Asia vers. 0.0.1 | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [plasma](pages/P/1456-plasma.md) | plasma | catalog only | needs review | catalog bucket | local + old-web lead | high (9) | category uncertain<br>type uncertain<br>matched external ZIP text to verify |
 | [Platinum idler](pages/P/1457-platinum-idler.md) | Platinum idler | catalog only | readme/archive text | catalog bucket | local + old-web lead | none (0) | none |
@@ -1620,7 +1620,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Raw Socket - IP Stealer v 1.0](pages/R/1588-raw-socket-ip-stealer-v-1-0.md) | Raw Socket - IP Stealer v 1.0 | catalog only | needs review | unknown | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Rawkmmer](pages/R/1589-rawkmmer.md) | Rawk | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Razor Edge Idle](pages/R/1590-razor-edge-idle.md) | Razor Edge Idle | catalog only | catalog/path inferred | catalog bucket | local + old-web lead | low (1) | no readable text evidence |
-| [Shade](pages/R/1591-shade.md) | README | unknown | needs review | unknown | local + old-web lead | high (13) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence<br>web image lead needs screenshot match |
+| [Shade](pages/R/1591-shade.md) | README | unknown | needs review | unknown | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Reality](pages/R/1592-reality.md) | Reality | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [rebel c²](pages/R/1593-rebel-c2.md) | rebel c² | unknown | needs review | catalog bucket | local catalog mirror | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead<br>no readable text evidence |
 | [Rebel's Toolkit](pages/R/1594-rebels-toolkit.md) | Rebel's Toolkit | catalog only | needs review | catalog bucket | external mirror | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>web image lead needs screenshot match |
@@ -1724,7 +1724,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Shroom Punter](pages/S/1692-shroom-punter.md) | Shroompunt | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | medium (7) | author unknown<br>no readable text evidence<br>sensitive historical category |
 | [shutemdown](pages/S/1693-shutemdown.md) | shutemdown | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [shutup](pages/S/1694-shutup.md) | shutup | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
-| [Sick Scroll](pages/S/1695-sick-scroll.md) | Sick Scroll | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (5) | main local file missing |
+| [Sick Scroll](pages/S/1695-sick-scroll.md) | Sick Scroll | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (7) | main local file missing<br>web image lead needs screenshot match |
 | [sieu 2k](pages/S/1696-sieu-2k.md) | sieu 2k | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [sigfader](pages/S/1697-sigfader.md) | sigfader | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [sigfader](pages/S/1698-sigfader.md) | sigfader | unknown | needs review | catalog bucket | catalog metadata only | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead |
@@ -1758,7 +1758,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [SLAMFNL](pages/S/1726-slamfnl.md) | SLAMFNL | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [I Slapded Dat Shit 2](pages/S/1727-i-slapded-dat-shit-2.md) | Slap | unknown | needs review | filename/source inferred | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [SLASHED](pages/S/1728-slashed.md) | SLASHED | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
-| [sleepdatidle](pages/S/1729-sleepdatidle.md) | sleepdatidle | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
+| [sleepdatidle](pages/S/1729-sleepdatidle.md) | sleepdatidle | catalog only | needs review | catalog bucket | old-web lead | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>web image lead needs screenshot match |
 | [Slim Shady Xphaderx](pages/S/1730-slim-shady-xphaderx.md) | slim | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [slimshaypunta](pages/S/1731-slimshaypunta.md) | slimshaypunta | unknown | needs review | unknown | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [Slipsidler](pages/S/1732-slipsidler.md) | Slipsidler | unknown | catalog/path inferred | catalog bucket | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
@@ -1822,7 +1822,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Spite MassMailer v0.1.1](pages/S/1790-spite-massmailer-v0-1-1.md) | Spite MassMailer v0.1.1 | catalog only | needs review | filename/source inferred | catalog metadata only | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead |
 | [Spite MassMailer░╖╣](pages/S/1791-spite-massmailer.md) | Spite MassMailer░╖╣ | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [SPITFIRE](pages/S/1792-spitfire.md) | SPITFIRE | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
-| [spizam](pages/S/1793-spizam.md) | spizam | catalog only | needs review | catalog bucket | old-web lead | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>web image lead needs screenshot match |
+| [spizam](pages/S/1793-spizam.md) | spizam | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [spobby](pages/S/1794-spobby.md) | spobby | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Unibombers X'er And 5.0](pages/S/1795-unibombers-xer-and-5-0.md) | SpynesXer | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [Sleek](pages/S/1796-sleek.md) | SS | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
@@ -1849,7 +1849,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [STOLEN COMS](pages/S/1817-stolen-coms.md) | STOLEN COMS | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [stolen html](pages/S/1818-stolen-html.md) | stolen html | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Stolen3](pages/S/1819-stolen3.md) | Stolen3 | catalog only | needs review | catalog bucket | catalog metadata only | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead |
-| [StoneCold](pages/S/1820-stonecold.md) | StoneCold | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
+| [StoneCold](pages/S/1820-stonecold.md) | StoneCold | unknown | needs review | catalog bucket | old-web lead | high (17) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>web image lead needs screenshot match |
 | [stoned](pages/S/1821-stoned.md) | stoned | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [stoolz501](pages/S/1822-stoolz501.md) | stoolz501 | catalog only | needs review | unknown | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [storage](pages/S/1823-storage.md) | storage | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
@@ -1857,7 +1857,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Str8 Up Fake Server](pages/S/1825-str8-up-fake-server.md) | Str8 Up Fake Server | unknown | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>author unknown |
 | [Str8 Up iDLe 1.0](pages/S/1826-str8-up-idle-1-0.md) | Str8 Up iDLe 1.0 | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (5) | main local file missing |
 | [Str8 Up iDLe 2.5](pages/S/1827-str8-up-idle-2-5.md) | Str8 Up iDLe 2.5 | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (5) | main local file missing |
-| [Str8 Up iDLe 3.0](pages/S/1828-str8-up-idle-3-0.md) | Str8 Up iDLe 3.0 | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (5) | main local file missing |
+| [Str8 Up iDLe 3.0](pages/S/1828-str8-up-idle-3-0.md) | Str8 Up iDLe 3.0 | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (7) | main local file missing<br>web image lead needs screenshot match |
 | [Straight](pages/S/1829-straight.md) | Straight | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [streetidle](pages/S/1830-streetidle.md) | streetidle | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [Stxu](pages/S/1831-stxu.md) | stxu | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
@@ -1884,7 +1884,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Swiftmm](pages/S/1852-swiftmm.md) | Swift | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [SwiftPlayer](pages/S/1853-swiftplayer.md) | SwiftPlayer | catalog only | needs review | unknown | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [swkscan](pages/S/1854-swkscan.md) | swkscan | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
-| [Swíft Idlér](pages/S/1855-swift-idler.md) | Swíft Idlér | catalog only | needs review | catalog bucket | old-web lead | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>web image lead needs screenshot match |
+| [Swíft Idlér](pages/S/1855-swift-idler.md) | Swíft Idlér | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [synful](pages/S/1856-synful.md) | synful | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Syntek Idle2-2](pages/S/1857-syntek-idle2-2.md) | Syntek Idle2-2 | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Syphon beta 3](pages/S/1858-syphon-beta-3.md) | Syphon beta 3 | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
@@ -1951,7 +1951,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Toad](pages/T/1919-toad.md) | TOAD | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [toad13](pages/T/1920-toad13.md) | toad13 | unknown | needs review | unknown | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [toadv2b2](pages/T/1921-toadv2b2.md) | toadv2b2 | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
-| [toaster²](pages/T/1922-toaster2.md) | toaster² | unknown | needs review | unknown | catalog metadata only | high (17) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead<br>web image lead needs screenshot match |
+| [toaster²](pages/T/1922-toaster2.md) | toaster² | unknown | needs review | unknown | catalog metadata only | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead |
 | [tokez_ro](pages/T/1923-tokez-ro.md) | tokez_ro | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [tOn Corp](pages/T/1924-ton-corp.md) | tOn Corp | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [TONEDAWG IDLE](pages/T/1925-tonedawg-idle.md) | TONEDAWG IDLE | unknown | catalog/path inferred | catalog bucket | external mirror | high (8) | main local file missing<br>author unknown |
@@ -1962,7 +1962,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [toschk50](pages/T/1930-toschk50.md) | toschk50 | catalog only | needs review | catalog bucket | catalog metadata only | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead |
 | [Tosd](pages/T/1931-tosd.md) | tosd | catalog only | needs review | catalog bucket | catalog metadata only | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead |
 | [Ktt 3 TOS Tools](pages/T/1932-ktt-3-tos-tools.md) | toser | catalog only | catalog/path inferred | catalog bucket | old-web lead | high (8) | main local file missing<br>sensitive historical category |
-| [TotalChaos](pages/T/1933-totalchaos.md) | TotalChaos | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
+| [TotalChaos](pages/T/1933-totalchaos.md) | TotalChaos | unknown | needs review | catalog bucket | old-web lead | high (17) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>web image lead needs screenshot match |
 | [Toxic](pages/T/1934-toxic.md) | toxic | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [Toxic1.0](pages/T/1935-toxic1-0.md) | Toxic1.0 | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Toy Machine](pages/T/1936-toy-machine.md) | Toy Machine | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
@@ -1987,7 +1987,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [type zero](pages/T/1955-type-zero.md) | type zero | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [Typo](pages/T/1956-typo.md) | Typo | unknown | needs review | catalog bucket | catalog metadata only | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead |
 | [Typo](pages/T/1957-typo.md) | TyPo | unknown | needs review | catalog bucket | local catalog mirror | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead<br>no readable text evidence |
-| [Uccom Elite 4.0 Beta 3.0](pages/U/1958-uccom-elite-4-0-beta-3-0.md) | Uccom Elite 4.0 Beta 3.0 | catalog only | needs review | unknown | catalog metadata only | high (16) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead<br>web image lead needs screenshot match |
+| [Uccom Elite 4.0 Beta 3.0](pages/U/1958-uccom-elite-4-0-beta-3-0.md) | Uccom Elite 4.0 Beta 3.0 | catalog only | needs review | unknown | catalog metadata only | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead |
 | [uhOH!1.2setup](pages/U/1959-uhoh1-2setup.md) | uhOH!1.2setup | catalog only | needs review | unknown | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [uhOH!1.3setup](pages/U/1960-uhoh1-3setup.md) | uhOH!1.3setup | catalog only | needs review | unknown | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [ultima-coms final²](pages/U/1961-ultima-coms-final2.md) | ultima-coms final² | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
@@ -2008,8 +2008,8 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Unwritten](pages/U/1976-unwritten.md) | Unwritten | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Dot Com%b 9 Linker](pages/U/1977-dot-comb-9-linker.md) | Up-Date Checker | unknown | catalog/path inferred | filename/source inferred | local catalog mirror | medium (4) | author unknown<br>no old-web download or mirror lead<br>no readable text evidence |
 | [UpchatTools](pages/U/1978-upchattools.md) | UpchatTools | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
-| [update](pages/U/1979-update.md) | update | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | medium (7) | author unknown<br>no readable text evidence<br>sensitive historical category |
-| [upload tools](pages/U/1980-upload-tools.md) | upload tools | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (5) | main local file missing |
+| [update](pages/U/1979-update.md) | update | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | high (9) | author unknown<br>no readable text evidence<br>web image lead needs screenshot match<br>sensitive historical category |
+| [upload tools](pages/U/1980-upload-tools.md) | upload tools | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (7) | main local file missing<br>web image lead needs screenshot match |
 | [Ups](pages/U/1981-ups.md) | UpS | unknown | needs review | catalog bucket | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Usaf 10](pages/U/1982-usaf-10.md) | usa | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [uwtserv](pages/U/1983-uwtserv.md) | uwtserv | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
@@ -2029,14 +2029,14 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [Viking](pages/V/1997-viking.md) | Viking | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [Viking Toolz](pages/V/1998-viking-toolz.md) | Viking Toolz | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (5) | main local file missing |
 | [Ville](pages/V/1999-ville.md) | ville | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
-| [Visionrecruiter](pages/V/2000-visionrecruiter.md) | vision | catalog only | needs review | catalog bucket | old-web lead | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>web image lead needs screenshot match |
+| [Visionrecruiter](pages/V/2000-visionrecruiter.md) | vision | catalog only | needs review | catalog bucket | external mirror | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>web image lead needs screenshot match |
 | [vision_updated](pages/V/2001-vision-updated.md) | vision_updated | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [visualfade](pages/V/2002-visualfade.md) | visualfade | unknown | needs review | catalog bucket | catalog metadata only | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>no old-web download or mirror lead |
 | [voicemeiser2setup](pages/V/2003-voicemeiser2setup.md) | voicemeiser2setup | catalog only | needs review | unknown | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [voltage](pages/V/2004-voltage.md) | voltage | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [vortex](pages/V/2005-vortex.md) | vortex | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Vortex II](pages/V/2006-vortex-ii.md) | Vortex II | catalog only | needs review | catalog bucket | catalog metadata only | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead |
-| [vírtúál tánk²](pages/V/2007-virtual-tank2.md) | vírtúál tánk² | catalog only | needs review | catalog bucket | catalog metadata only | high (16) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead<br>web image lead needs screenshot match |
+| [vírtúál tánk²](pages/V/2007-virtual-tank2.md) | vírtúál tánk² | catalog only | needs review | catalog bucket | catalog metadata only | high (14) | main local file missing<br>category uncertain<br>type uncertain<br>no old-web download or mirror lead |
 | [w0o0o0f](pages/W/2008-w0o0o0f.md) | w0o0o0f | unknown | needs review | catalog bucket | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
 | [Wordpad](pages/W/2009-wordpad.md) | w0rd | catalog only | needs review | unknown | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [w1ck3d TooLz](pages/W/2010-w1ck3d-toolz.md) | w1ck3d TooLz | catalog only | catalog/path inferred | catalog bucket | old-web lead | medium (5) | main local file missing |
@@ -2157,7 +2157,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [áccessories² · clone](pages/0-9-symbols/2125-accessories2-clone.md) | áccessories² · clone | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Aoblunted C-Com](pages/0-9-symbols/2126-aoblunted-c-com.md) | åòblunted | unknown | catalog/path inferred | filename/source inferred | local + old-web lead | medium (4) | author unknown<br>no readable text evidence |
 | [êVêr¥da¥ Atrcit¥](pages/0-9-symbols/2127-everda-atrcit.md) | êVêr¥da¥ Atrcit¥ | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
-| [ímport.dreamz[Angel]](pages/0-9-symbols/2128-import-dreamzangel.md) | ímport.dreamz[Angel] | unknown | needs review | unknown | old-web lead | high (15) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown |
+| [ímport.dreamz[Angel]](pages/0-9-symbols/2128-import-dreamzangel.md) | ímport.dreamz[Angel] | unknown | external ZIP text | unknown | external mirror | high (17) | main local file missing<br>category uncertain<br>type uncertain<br>author unknown<br>matched external ZIP text to verify |
 | [úegacy ╣╖░](pages/0-9-symbols/2129-uegacy.md) | úegacy ╣╖░ | catalog only | needs review | catalog bucket | old-web lead | high (12) | main local file missing<br>category uncertain<br>type uncertain |
 | [Link Dat H 0 And 5.0](pages/0-9-symbols/2130-link-dat-h-0-and-5-0.md) | úe±k dGt h° ¼ h bre- | unknown | needs review | filename/source inferred | local + old-web lead | high (8) | category uncertain<br>author unknown<br>no readable text evidence |
 | [ƒalse reality²](pages/0-9-symbols/2131-alse-reality2.md) | ƒalse reality² | unknown | catalog/path inferred | filename/source inferred | catalog metadata only | high (8) | main local file missing<br>author unknown<br>no old-web download or mirror lead |

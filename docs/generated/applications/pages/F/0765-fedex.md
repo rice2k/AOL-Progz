@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 771 KB |
-| Matched web download links | 2 |
-| Matched mirror leads | 2 |
+| Matched web download links | 3 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -61,8 +61,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0765-fedex.zip](../../../../../files/aol/aol-4-0/0765-fedex.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fedex.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fedex.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fedex.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fedex.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fedex.zip)
@@ -107,6 +107,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell misc progs A-M | fed ex | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fedex.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fedex.zip) | [http://lenshellarchive.com/Progs/aolprogs/fedex.zip](http://lenshellarchive.com/Progs/aolprogs/fedex.zip) |
+| Downloads.txt | http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe | [http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe](http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe) | [http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe](http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe) |
 | .. | Setup_File_Print_FedEx_Kinkos.exe | [http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe](http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe) | [http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe](http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe) |
 
 ### Mirror Leads
@@ -114,6 +115,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: LensHell misc progs A-M | fedex.zip | [http://lenshellarchive.com/Progs/aolprogs/fedex.zip](http://lenshellarchive.com/Progs/aolprogs/fedex.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fedex.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fedex.zip) | unknown | http-404 |
+| .. | FPFKSetup.exe | [http://am.net/lib/TOOLS/FPFKSetup.exe](http://am.net/lib/TOOLS/FPFKSetup.exe) | [http://am.net/lib/TOOLS/FPFKSetup.exe](http://am.net/lib/TOOLS/FPFKSetup.exe) | unknown | candidate |
+| Downloads.txt | FPFKSetup.exe | [http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe](http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe) | [http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe](http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe) | unknown | candidate |
 | .. | Setup_File_Print_FedEx_Kinkos.exe | [http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe](http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe) | [http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe](http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe) | unknown | candidate |
 
 ### Web Image Leads

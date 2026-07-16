@@ -1,6 +1,6 @@
 # Tag: has-external-zip-text-evidence
 
-**Count:** 48
+**Count:** 50
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -42,6 +42,8 @@
 | 807 | [Future Comz And 5.0 Yr 01](../applications/pages/F/0807-future-comz-and-5-0-yr-01.md) | Futur Comz | C-Com / command list | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0807-futur-comz.zip) | 0 |
 | 812 | [Gadget](../applications/pages/G/0812-gadget.md) | Gadget | All-in-one prog suite | uncategorized | AOL 4.0 | kryo | 4.4 MB | [local](../../../files/aol/aol-4-0/0812-gadget.zip) | 0 |
 | 852 | [Golden](../applications/pages/G/0852-golden.md) | GOLD | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 1.3 MB | [local](../../../files/aol/aol-4-0/0852-gold.zip) | 0 |
+| 896 | [hell spitz 1.3[final]](../applications/pages/H/0896-hell-spitz-1-3final.md) | hell spitz 1.3[final] | All-in-one prog suite | uncategorized | AOL 4.0 | KyPnoTiK | 3.3 MB | [local](../../../files/aol/aol-4-0/0896-hell-spitz-1-3final.zip) | 0 |
+| 2128 | [ímport.dreamz[Angel]](../applications/pages/0-9-symbols/2128-import-dreamzangel.md) | ímport.dreamz[Angel] | Unknown / needs review | uncategorized | Mixed/unknown | unknown | unknown | remote-only | 0 |
 | 1249 | [Metal](../applications/pages/M/1249-metal.md) | MeTaL | AOL/AIM chat utility | uncategorized | AOL 4.0 | OiL | 1.9 MB | [local](../../../files/aol/aol-4-0/1249-metal.zip) | 0 |
 | 1456 | [plasma](../applications/pages/P/1456-plasma.md) | plasma | Unknown / needs review | uncategorized | AOL 4.0 | Chr0me | 1.3 MB | [local](../../../files/aol/aol-4-0/1456-plasma.zip) | 0 |
 | 1606 | [Remixed Audio²](../applications/pages/R/1606-remixed-audio2.md) | Remixed Audio² | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |

@@ -45,14 +45,14 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched web download links | 8 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 5 |
+| Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (6) |
-| Manual review flags | no readable text evidence, web image lead needs screenshot match, sensitive historical category |
-| Next research action | Match the web image lead to the correct program page or screenshot entry. |
+| Review priority | medium (4) |
+| Manual review flags | no readable text evidence, sensitive historical category |
+| Next research action | Review metadata when more source evidence is found. |
 
 ## Tags
 
@@ -119,13 +119,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| Murder Sty Wrote Room Buster | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1) |
-| Murder Sty Wrote Room Buster | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1) |
-| AOL Scam Sites | Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1) |
-| Murder Sty Wrote Room Buster | Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1) |
-| Murder Sty Wrote Room Buster | Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

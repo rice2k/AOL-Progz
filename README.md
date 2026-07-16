@@ -11,22 +11,22 @@ scene links.**
     <img alt="Catalog: 2,139 apps" src="https://img.shields.io/badge/catalog-2%2C139%20apps-18D5D1?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/sources/recovered-files.md">
-    <img alt="Recovered files: 2,364" src="https://img.shields.io/badge/recovered%20files-2%2C364-64DC8A?style=for-the-badge&labelColor=101820">
+    <img alt="Recovered files: 2,635" src="https://img.shields.io/badge/recovered%20files-2%2C635-64DC8A?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/statistics.md">
-    <img alt="Local archive size: 2.2 GB" src="https://img.shields.io/badge/local%20archive-2.2%20GB-FFD34D?style=for-the-badge&labelColor=101820">
+    <img alt="GitHub archive size: 3.2 GB" src="https://img.shields.io/badge/github%20archive-3.2%20GB-FFD34D?style=for-the-badge&labelColor=101820">
   </a>
 </p>
 
 <p align="center">
   <a href="docs/generated/sources/all-links.md">
-    <img alt="Master links: 28,564 URLs" src="https://img.shields.io/badge/master%20links-28%2C564%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
+    <img alt="Master links: 33,838 URLs" src="https://img.shields.io/badge/master%20links-33%2C838%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/sources/original-download-urls.md">
-    <img alt="Original URLs: 9,621" src="https://img.shields.io/badge/original%20URLs-9%2C621-FF5B8F?style=for-the-badge&labelColor=101820">
+    <img alt="Original URLs: 12,844" src="https://img.shields.io/badge/original%20URLs-12%2C844-FF5B8F?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/applications/all-program-downloads.md">
-    <img alt="Web download matches: 2,009" src="https://img.shields.io/badge/web%20matches-2%2C009-BB8CFF?style=for-the-badge&labelColor=101820">
+    <img alt="Web download matches: 2,010" src="https://img.shields.io/badge/web%20matches-2%2C010-BB8CFF?style=for-the-badge&labelColor=101820">
   </a>
 </p>
 
@@ -59,6 +59,7 @@ scene links.**
 | [Original download URLs](docs/generated/sources/original-download-urls.md) | Deduped original and Wayback download URLs with source, status, local file, and matched program page where known. |
 | [Recovered files](docs/generated/sources/recovered-files.md) | Main catalog files, recovered external files, runtime files, utilities, and web images with local paths and SHA1 hashes when available. |
 | [Links you supplied](docs/generated/sources/user-supplied-links.md) | The priority source links from the request, preserved as their own page. |
+| [Archive.org AOL/AIM software](docs/generated/sources/archiveorg-aol-aim-software.md) | AOL, AOL Gold, AOL Desktop Gold, AIM, DeadAIM, and AOL/AIM-themed Winamp-skin items collected from Archive.org search and metadata APIs. |
 | [Sources and old-school links](docs/generated/sources/README.md) | Curated source notes, crawled pages, mirror groups, missing candidates, Methodus2000, FreeProgz, LensHell, RiceJerry, LolToolz, and more. |
 | [Top source sites](docs/generated/sources/top-source-sites.md) | Source pages ranked by links, download leads, recovery attempts, recovered files, image attempts, and recovered images. |
 | [Source deep dives](docs/generated/sources/source-deep-dives.md) | Old-school source families grouped by pages, links, downloads, recoveries, image leads, and top pages. |
@@ -68,6 +69,7 @@ scene links.**
 | [DLL/OCX runtime files](docs/generated/sources/runtime-files.md) | Recovered and attempted Visual Basic/Windows support files that old progs commonly needed. |
 | [DeadAIM and AIM enhancers](docs/generated/sources/deadaim-aim-enhancers.md) | AIM-specific utilities and enhancer leads kept separate from classic AOL prog categories. |
 | [AOL utilities](docs/generated/sources/aol-utilities.md) | AOL client installers and AOL-specific utilities such as Format SN, Master AOL, and AOL file downloaders. |
+| [Winamp skins and media extras](docs/generated/sources/winamp-skins.md) | AOL/AIM-adjacent Winamp skins and media extras kept separate from executable prog/app categories. |
 | [Recovered missing candidates](docs/generated/sources/missing-ready.md) | Old-web candidate files that are not matched to the main catalog yet but do have recovered local mirrors. |
 | [Plain CSV/JSON exports](docs/generated/exports/README.md) | Spreadsheet-ready catalog, recovered-file, and original/download URL exports. |
 | [Categories](docs/generated/categories/README.md) | Punters, room busters, faders, idlers, C-Coms/chat tools, mailers, source packs, all-in-one progs, and uncategorized items. |
@@ -83,6 +85,12 @@ scene links.**
 | Area | Count |
 | --- | ---: |
 | Main catalog applications | 2,139 |
+| GitHub working-tree size | 3.2 GB |
+| Git object store size | 3.9 GB |
+| Files directory size | 2.9 GB |
+| Data directory size | 190.2 MB |
+| Docs directory size | 68.8 MB |
+| Assets directory size | 17.3 MB |
 | Mirrored main files | 1,672 |
 | Mirrored archive size | 2.2 GB |
 | Catalog author strings | 810 |
@@ -90,30 +98,39 @@ scene links.**
 | Programs with embedded URLs | 170 |
 | URLs found in readable archive text | 234 |
 | Programs with improved best-known names | 519 |
-| Programs with matched web download leads | 2,009 |
-| High-priority review entries | 1,288 |
-| Medium-priority review entries | 658 |
+| Programs with matched web download leads | 2,010 |
+| High-priority review entries | 1,287 |
+| Medium-priority review entries | 659 |
 | Low-priority coverage-gap entries | 158 |
 | No-review entries | 35 |
-| Deduped original/download URLs | 9,621 |
+| Deduped original/download URLs | 12,844 |
 | Archive-text author clues | 15 |
 | Archive-text purpose clues | 324 |
 | Archive-text AOL/version clues | 106 |
 | Author conflicts flagged | 12 |
-| Matched old-web download links | 2,800 |
-| Programs with mirror leads | 803 |
-| Matched external mirror leads | 1,217 |
+| Matched old-web download links | 2,880 |
+| Programs with mirror leads | 979 |
+| Matched external mirror leads | 1,510 |
 | Strong source-page program mentions | 7 |
-| Crawled source pages | 1,200 |
-| Fetched source pages | 1,056 |
-| Unique crawled links | 16,796 |
-| Crawled download links | 5,147 |
-| Missing candidates from old-web sources | 2,365 |
-| Missing candidates with local recovery | 306 |
-| Recovered external files | 526 |
-| Local recovered file records | 2,364 |
-| External mirror groups | 1,686 |
-| Recovered web images | 166 |
+| Crawled source pages | 1,500 |
+| Fetched source pages | 1,349 |
+| Unique crawled links | 19,890 |
+| Crawled download links | 6,253 |
+| Missing candidates from old-web sources | 3,105 |
+| Missing candidates with local recovery | 334 |
+| Recovered external files | 578 |
+| Local recovered file records | 2,635 |
+| External ZIPs with readable text | 214 |
+| Runtime DLL/OCX leads | 42 |
+| DeadAIM/AIM enhancer leads | 7 |
+| AOL utility/client leads | 98 |
+| Winamp skin/media leads | 2 |
+| External mirror groups | 1,791 |
+| Recovered web images | 168 |
+| Archive.org AOL/AIM software items | 173 |
+| Archive.org imported version files | 42 |
+| Archive.org imported file size | 205 MB |
+| Archive.org preview images mirrored | 217 |
 | Unknown author gaps | 955 |
 | Uncategorized gaps | 1,596 |
 | Unknown prog type gaps | 1,259 |
@@ -131,6 +148,10 @@ The site includes:
 - Local downloadable archive files under `files/` when the source blob can be
   mirrored within normal GitHub file-size limits.
 - Screenshot-aware program cards when source screenshots are available.
+- Archive.org AOL/AIM version research covering classic AOL installers, AOL
+  Gold and AOL Desktop Gold leads, AIM installers, DeadAIM, and related Winamp
+  skins, with small selected files mirrored locally and oversized CD images kept
+  as source links.
 - Old-school source links and Wayback links for AOLUnderground, JustinAKAPaste,
   HyPeR, Plozee, Kadeklizem, Aciddr0p, Koin, Rexflex, DarcFX, ProgzRescue,
   Digital5k, AM.NET, Click-Online, ColtPro, DeadAIM, AIMFilez, Prig3k,
@@ -159,6 +180,8 @@ The site includes:
   ProgStation, AimThings, CoolKid/Text2k, AM.NET, Click-Online, ColtPro,
   DeadAIM, AIMFilez, Digital5k, Hadez, Prig3k, Dope2k, and related Wayback
   captures.
+- Recovered Archive.org preview images and old-web image leads for screenshots
+  and visual evidence where a program/app screenshot or media asset is available.
 - Missing-candidate reports comparing old download links against the main
   catalog, with mirror URLs and recovered local files where available.
 

@@ -36,13 +36,11 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://knk.tierranet.com](http://knk.tierranet.com) | [EqUaLizeR](../applications/pages/E/0676-equalizer.md) | file_id.diz | archive text |
 | [http://knk.tierranet.com/knk](http://knk.tierranet.com/knk) | [EqUaLizeR](../applications/pages/E/0676-equalizer.md) | file_id.diz | archive text |
 | [http://knk.tierranet.com/knk4o](http://knk.tierranet.com/knk4o) | [EqUaLizeR](../applications/pages/E/0676-equalizer.md) | file_id.diz | archive text |
-| [http://lenshell.com](http://lenshell.com) | [GlobalLinka](../applications/pages/G/0843-globallinka.md) | GlobalLinka.exe | archive text |
 | [http://members.aol.com/ron2222](http://members.aol.com/ron2222) | [HookShot RoomBuster v4](../applications/pages/H/0914-hookshot-roombuster-v4.md) | file_id.diz | archive text |
 | [http://members.tripod.com/~TheAbbotWu/phat.html](http://members.tripod.com/~TheAbbotWu/phat.html) | [cuntpunt](../applications/pages/C/0492-cuntpunt.md) | READ ME.txt | archive text |
 | [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) | [ANTI](../applications/pages/A/0100-antierror.md) | AutoTag.txt | archive text |
 | [http://members.xoom.com/BLSpecies](http://members.xoom.com/BLSpecies) | [bls](../applications/pages/B/0270-blood-lust-species.md) | Upgrades/blsug.txt | archive text |
 | [http://members.xoom.com/Gizmo_Crew](http://members.xoom.com/Gizmo_Crew) | [blinkmm](../applications/pages/B/0259-blinkmm.md) | blinkmm.exe | archive text |
-| [http://members.xoom.com/Gizmo_Crew/index.html](http://members.xoom.com/Gizmo_Crew/index.html) | [blinkmm](../applications/pages/B/0259-blinkmm.md) | blinkmm.exe | archive text |
 | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98) | [fssetup](../applications/pages/F/0794-fssetup.md) | README!.txt | archive text |
 | [http://members.xoom.com/thepatmaster/ColFad.htm](http://members.xoom.com/thepatmaster/ColFad.htm) | [CFader40](../applications/pages/C/0365-cfader40.md) | About CFader40 READ ME.txt | archive text |
 | [http://members.xoom.com/thepatmaster/index.htm](http://members.xoom.com/thepatmaster/index.htm) | [CFader40](../applications/pages/C/0365-cfader40.md) | About CFader40 READ ME.txt | archive text |
@@ -177,7 +175,6 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.rangerweb.net](http://www.rangerweb.net) | [aocoms3](../applications/pages/A/0121-aocoms3.md) | readme.nfo | archive text |
 | [http://www.react.devil.ru](http://www.react.devil.ru) | [Filter Make](../applications/pages/F/0769-filter-make.md) | RASFull/output/chat.txt | archive text |
 | [http://www.ritman.com/lenshell](http://www.ritman.com/lenshell) | [DieGod](../applications/pages/D/0570-diegod.md) | !ReadMe!.txt | archive text |
-| [http://www.ritman.com/lenshell/index.htm](http://www.ritman.com/lenshell/index.htm) | [DieGod](../applications/pages/D/0570-diegod.md) | !ReadMe!.txt | archive text |
 | [http://www.rylan.tk](http://www.rylan.tk) | [RatTrap](../applications/pages/R/1584-rattrap.md) | Info.txt | archive text |
 | [http://www.saberzrealm.net](http://www.saberzrealm.net) | [punt toolz 1.0](../applications/pages/P/1535-punt-toolz-1-0.md) | read me !.txt | archive text |
 | [http://www.shock69.cjb.net](http://www.shock69.cjb.net) | [Media8.0](../applications/pages/M/1243-media8-0.md) | README_SOURCE.txt | archive text |
@@ -268,6 +265,7 @@ URLs found inside safely readable archive text are listed here as provenance clu
 | [http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) | [g0ne](../applications/pages/G/0811-gone.md) | g0ne.txt | archive text |
 | [http://www.progworld.com](http://www.progworld.com) | [Global](../applications/pages/G/0842-global-domination.md) | progworld.html | archive text |
 | [http://progz.simplenet.com](http://progz.simplenet.com) | [Global](../applications/pages/G/0842-global-domination.md) | Progworld.nfo | archive text |
+| [http://lenshell.com](http://lenshell.com) | [GlobalLinka](../applications/pages/G/0843-globallinka.md) | GlobalLinka.exe | archive text |
 | [http://www.skywalkersrelm.com](http://www.skywalkersrelm.com) | [godzilla](../applications/pages/G/0849-godzilla.md) | readme.txt | archive text |
 | [http://www.kamzdomain.com](http://www.kamzdomain.com) | [Gpf](../applications/pages/G/0862-gpf.md) | README~1.TXT | archive text |
 | [http://come.to/xVeXoRx](http://come.to/xVeXoRx) | [GRAFIX](../applications/pages/G/0864-grafix.md) | IMPORTANT!!!.txt | archive text |

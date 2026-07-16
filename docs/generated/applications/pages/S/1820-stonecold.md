@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 2 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | old-web lead |
-| Review priority | high (15) |
-| Manual review flags | main local file missing, category uncertain, type uncertain, author unknown |
+| Review priority | high (17) |
+| Manual review flags | main local file missing, category uncertain, type uncertain, author unknown, web image lead needs screenshot match |
 | Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
@@ -113,7 +113,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AOL Warez Audio Group | stonecoldstunner.jpg?fit=360%2C106&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/stonecoldstunner.jpg?fit=360%2C106&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/stonecoldstunner.jpg?fit=360%2C106&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/stonecoldstunner.jpg?fit=360%2C106&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/stonecoldstunner.jpg?fit=360%2C106&amp;ssl=1) |
 
 ## Related Indexes
 

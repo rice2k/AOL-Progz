@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -62,6 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/1018-insomnia.zip](../../../../../files/aol/aol-4-0/1018-insomnia.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insomnia.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insomnia.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insomnia.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insomnia.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/insomnia.zip)
@@ -105,7 +106,12 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell idlers | insomnia.zip | [http://lenshellarchive.com/Progs/aolidlers/insomnia.zip](http://lenshellarchive.com/Progs/aolidlers/insomnia.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insomnia.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insomnia.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | insomniatoolz1.zip | [http://lenshellarchive.com/Progs/aolprogs/insomniatoolz1.zip](http://lenshellarchive.com/Progs/aolprogs/insomniatoolz1.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomniatoolz1.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomniatoolz1.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | insomnia15.zip | [http://lenshellarchive.com/Progs/aolprogs/insomnia15.zip](http://lenshellarchive.com/Progs/aolprogs/insomnia15.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia15.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia15.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | insomnia16.zip | [http://lenshellarchive.com/Progs/aolprogs/insomnia16.zip](http://lenshellarchive.com/Progs/aolprogs/insomnia16.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia16.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia16.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

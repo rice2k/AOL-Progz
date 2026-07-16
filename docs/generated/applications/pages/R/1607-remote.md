@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 6 |
-| Matched mirror leads | 5 |
+| Matched web download links | 8 |
+| Matched mirror leads | 7 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -61,8 +61,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 6 link(s) listed below
-- Matched mirror leads: 5 link(s) listed below
+- Old-web / Wayback download leads: 8 link(s) listed below
+- Matched mirror leads: 7 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remote.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remote.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remote.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remote.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remote.zip)
@@ -104,10 +104,12 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Progs Section 1 | AO Rem0te 3.2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aoremote32.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aoremote32.zip) | [http://www.cybernyse.com/aoremote32.zip](http://www.cybernyse.com/aoremote32.zip) |
 | found-geocities-silicon-valley-files.txt | http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip | [http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip](http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip) | [http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip](http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip) |
+| Misc/ | RDPRemoteEnabler.exe | [http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe](http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe) | [http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe](http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe) |
 | LensHell AIM progs | remote aim away (0.9.5) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/remoteaim095.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/remoteaim095.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/remoteaim095.zip](http://lenshellarchive.com/Progs/aimprogs/misc/remoteaim095.zip) |
 | LensHell idlers | remote idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/remote.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/remote.zip) | [http://lenshellarchive.com/Progs/aolidlers/remote.zip](http://lenshellarchive.com/Progs/aolidlers/remote.zip) |
 | Section 2 | Remote Idle | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/remoteidle.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/remoteidle.zip) | [http://www.cybernyse.com/downlowdz/remoteidle.zip](http://www.cybernyse.com/downlowdz/remoteidle.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Remote Idle | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/remoteidle.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/remoteidle.zip) | [http://24.185.191.87/progz/remoteidle.zip](http://24.185.191.87/progz/remoteidle.zip) |
+| Symantec/ | VPREMOTE.exe | [http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe](http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe) | [http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe](http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe) |
 
 ### Mirror Leads
 
@@ -118,6 +120,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | remoteidle.zip | [http://24.185.191.87/progz/remoteidle.zip](http://24.185.191.87/progz/remoteidle.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/remoteidle.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/remoteidle.zip) | unknown | candidate |
 | Progs Section 1 | aoremote32.zip | [http://www.cybernyse.com/aoremote32.zip](http://www.cybernyse.com/aoremote32.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aoremote32.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aoremote32.zip) | unknown | candidate |
 | found-geocities-silicon-valley-files.txt | ntremotedatetime.zip | [http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip](http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip) | [http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip](http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip) | unknown | candidate |
+| Misc/ | RDPRemoteEnabler.exe | [http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe](http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe) | [http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe](http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe) | unknown | candidate |
+| Symantec/ | VPREMOTE.exe | [http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe](http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe) | [http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe](http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe) | unknown | candidate |
 
 ### Web Image Leads
 

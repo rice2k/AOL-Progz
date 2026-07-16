@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
 | Matched web download links | 10 |
-| Matched mirror leads | 6 |
+| Matched mirror leads | 7 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
 | Author confidence | catalog only |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/1150-liquid.zip](../../../../../files/aol/aol-4-0/1150-liquid.zip)
 - Old-web / Wayback download leads: 10 link(s) listed below
-- Matched mirror leads: 6 link(s) listed below
+- Matched mirror leads: 7 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/liquidcoms.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/liquidcoms.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/liquidcoms.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/liquidcoms.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/liquidcoms.zip)
@@ -117,7 +117,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Aol 4.0/5.0 Progs | liquidsoulbeta.zip | [http://www.oogle.net/downloads/progs/liquidsoulbeta.zip](http://www.oogle.net/downloads/progs/liquidsoulbeta.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip) | unknown | candidate |
+| Web page: Aol 4.0/5.0 Progs | liquidcoms.zip | [http://www.oogle.net/downloads/progs/liquidcoms.zip](http://www.oogle.net/downloads/progs/liquidcoms.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip) | unknown | http-404 |
+| Web page: Aol 4.0/5.0 Progs | liquidsoulbeta.zip | [http://www.oogle.net/downloads/progs/liquidsoulbeta.zip](http://www.oogle.net/downloads/progs/liquidsoulbeta.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip) | unknown | http-404 |
 | Section 2 | liquidsoulbeta.zip | [http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip](http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | liquidsoulbeta.zip | [http://24.185.191.87/progz/liquidsoulbeta.zip](http://24.185.191.87/progz/liquidsoulbeta.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidsoulbeta.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidsoulbeta.zip) | unknown | candidate |
 | LensHell AIM progs | liquidwater.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/liquidwater.zip](http://lenshellarchive.com/Progs/aimprogs/misc/liquidwater.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/liquidwater.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/liquidwater.zip) | unknown | candidate |

@@ -110,7 +110,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Aol 4.0/5.0 Progs | ieeto.zip | [http://www.oogle.net/downloads/progs/ieeto.zip](http://www.oogle.net/downloads/progs/ieeto.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/ieeto.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/ieeto.zip) | unknown | candidate |
+| Web page: Aol 4.0/5.0 Progs | ieeto.zip | [http://www.oogle.net/downloads/progs/ieeto.zip](http://www.oogle.net/downloads/progs/ieeto.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/ieeto.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/ieeto.zip) | unknown | http-404 |
 | Progs Section 1 | ieeto.zip | [http://www.cybernyse.com/ieeto.zip](http://www.cybernyse.com/ieeto.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/ieeto.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/ieeto.zip) | unknown | candidate |
 
 ### Web Image Leads

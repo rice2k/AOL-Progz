@@ -122,7 +122,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: LensHell misc progs A-M | efatalimpactv1.zip | [http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) | unknown | http-404 |
-| LensHell mailers and servers | impact.zip | [http://lenshellarchive.com/Progs/aolmmservers/impact.zip](http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | unknown | candidate |
+| Web page: LensHell mailers and servers | impact.zip | [http://lenshellarchive.com/Progs/aolmmservers/impact.zip](http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

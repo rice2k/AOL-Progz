@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (10) |
-| Manual review flags | category uncertain, type uncertain, author unknown |
+| Review priority | high (12) |
+| Manual review flags | category uncertain, type uncertain, author unknown, web image lead needs screenshot match |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -116,7 +116,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Marco Squad [TAG] [Macro Group] (1999) | 9procollect.jpg?fit=238%2C542&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/9procollect.jpg?fit=238%2C542&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/9procollect.jpg?fit=238%2C542&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/9procollect.jpg?fit=238%2C542&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/9procollect.jpg?fit=238%2C542&amp;ssl=1) |
 
 ## Related Indexes
 

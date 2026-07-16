@@ -42,10 +42,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 4 |
-| Matched mirror leads | 3 |
+| Matched web download links | 6 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 2 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
@@ -61,8 +61,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/access.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/access.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/access.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/access.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/access.zip)
@@ -103,6 +103,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell busters | access roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip) | [http://lenshellarchive.com/Progs/aolbusters/access.zip](http://lenshellarchive.com/Progs/aolbusters/access.zip) |
+| Misc/ | accessenum12.zip | [http://am.net/lib/TOOLS/Misc/accessenum12.zip](http://am.net/lib/TOOLS/Misc/accessenum12.zip) | [http://am.net/lib/TOOLS/Misc/accessenum12.zip](http://am.net/lib/TOOLS/Misc/accessenum12.zip) |
+| Passwords/ | accesspv.zip | [http://am.net/lib/TOOLS/Passwords/accesspv.zip](http://am.net/lib/TOOLS/Passwords/accesspv.zip) | [http://am.net/lib/TOOLS/Passwords/accesspv.zip](http://am.net/lib/TOOLS/Passwords/accesspv.zip) |
 | LensHell Visual Basic | accessv1 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip) | [http://lenshellarchive.com/VBfiles/accessv1.zip](http://lenshellarchive.com/VBfiles/accessv1.zip) |
 | Progs Section 1 | All Access 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/allaccess2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/allaccess2.zip) | [http://www.cybernyse.com/allaccess2.zip](http://www.cybernyse.com/allaccess2.zip) |
 | LensHell AIM progs | leet link advanced access absolute edition | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip](http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip) |
@@ -113,12 +115,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: buster's | access.zip | [http://lenshellarchive.com/Progs/aolbusters/access.zip](http://lenshellarchive.com/Progs/aolbusters/access.zip) | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip) | unknown | http-404 |
 | Web page: Visual Basic Section | accessv1.zip | [http://lenshellarchive.com/VBfiles/accessv1.zip](http://lenshellarchive.com/VBfiles/accessv1.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip) | unknown | http-404 |
+| Misc/ | accessenum12.zip | [http://am.net/lib/TOOLS/Misc/accessenum12.zip](http://am.net/lib/TOOLS/Misc/accessenum12.zip) | [http://am.net/lib/TOOLS/Misc/accessenum12.zip](http://am.net/lib/TOOLS/Misc/accessenum12.zip) | unknown | candidate |
+| Passwords/ | accesspv.zip | [http://am.net/lib/TOOLS/Passwords/accesspv.zip](http://am.net/lib/TOOLS/Passwords/accesspv.zip) | [http://am.net/lib/TOOLS/Passwords/accesspv.zip](http://am.net/lib/TOOLS/Passwords/accesspv.zip) | unknown | candidate |
 | Progs Section 1 | allaccess2.zip | [http://www.cybernyse.com/allaccess2.zip](http://www.cybernyse.com/allaccess2.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/allaccess2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/allaccess2.zip) | unknown | candidate |
 
 ### Web Image Leads
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
+| Notion | https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png) | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png) |
 | Load More | Leech-Access.png?fit=1024%2C1024&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1) |
 
 ## Related Indexes

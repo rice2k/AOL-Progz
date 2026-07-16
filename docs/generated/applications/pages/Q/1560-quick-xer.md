@@ -43,7 +43,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Download status | ready |
 | Local mirrored size | 605 KB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -62,6 +62,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 - Local mirrored archive: [files/aol/aol-4-0/1560-quick-xer.zip](../../../../../files/aol/aol-4-0/1560-quick-xer.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ghostly.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ghostly.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ghostly.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ghostly.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ghostly.zip)
@@ -105,7 +106,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell xers | ghostly.zip | [http://lenshellarchive.com/Progs/aolxers/ghostly.zip](http://lenshellarchive.com/Progs/aolxers/ghostly.zip) | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/ghostly.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/ghostly.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

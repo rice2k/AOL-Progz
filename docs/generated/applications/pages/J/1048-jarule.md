@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.8 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/1048-jarule.zip](../../../../../files/aol/aol-4-0/1048-jarule.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jarule.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jarule.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jarule.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jarule.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jarule.zip)
@@ -110,6 +110,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Hadez progs | jaruleplat.zip | [http://dnx-online.net/~hadez/files/jaruleplat.zip](http://dnx-online.net/~hadez/files/jaruleplat.zip) | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/jaruleplat.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/jaruleplat.zip) | unknown | http-404 |
+| Web page: LensHell termers | jarule.zip | [http://lenshellarchive.com/Progs/aoltermers/jarule.zip](http://lenshellarchive.com/Progs/aoltermers/jarule.zip) | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/jarule.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/jarule.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

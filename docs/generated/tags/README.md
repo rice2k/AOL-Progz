@@ -6,15 +6,15 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | --- | --- | --- |
 | #duplicate-metadata | 2139 | [open](duplicate-metadata.md) |
 | #aol | 2119 | [open](aol.md) |
-| #has-old-web-downloads | 2009 | [open](has-old-web-downloads.md) |
+| #has-old-web-downloads | 2010 | [open](has-old-web-downloads.md) |
 | #needs-manual-review | 1946 | [open](needs-manual-review.md) |
 | #aol-4-0 | 1746 | [open](aol-4-0.md) |
 | #file-ready | 1672 | [open](file-ready.md) |
 | #uncategorized | 1596 | [open](uncategorized.md) |
-| #review-high-priority | 1288 | [open](review-high-priority.md) |
+| #review-high-priority | 1287 | [open](review-high-priority.md) |
 | #compile-native | 865 | [open](compile-native.md) |
 | #vb6 | 739 | [open](vb6.md) |
-| #review-medium-priority | 658 | [open](review-medium-priority.md) |
+| #review-medium-priority | 659 | [open](review-medium-priority.md) |
 | #file-remote-only | 467 | [open](file-remote-only.md) |
 | #has-readme-purpose-clues | 324 | [open](has-readme-purpose-clues.md) |
 | #vb5 | 317 | [open](vb5.md) |
@@ -32,7 +32,7 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | #chat-or-im-tool | 67 | [open](chat-or-im-tool.md) |
 | #aol-5-0 | 57 | [open](aol-5-0.md) |
 | #account-or-tos-tool | 51 | [open](account-or-tos-tool.md) |
-| #has-external-zip-text-evidence | 48 | [open](has-external-zip-text-evidence.md) |
+| #has-external-zip-text-evidence | 50 | [open](has-external-zip-text-evidence.md) |
 | #fader-or-text-tool | 44 | [open](fader-or-text-tool.md) |
 | #room-buster | 43 | [open](room-buster.md) |
 | #aol-6-0 | 39 | [open](aol-6-0.md) |

@@ -1,19 +1,19 @@
 window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
-  "generatedAt": "2026-07-16T14:33:17.807Z",
+  "generatedAt": "2026-07-16T19:48:49.365Z",
   "sourceListCount": 3,
-  "candidateCount": 18448,
-  "downloadCount": 1783,
-  "readyCount": 526,
-  "mirrorGroupCount": 1686,
+  "candidateCount": 19596,
+  "downloadCount": 2186,
+  "readyCount": 578,
+  "mirrorGroupCount": 1791,
   "byStatus": {
-    "ready": 526,
+    "ready": 578,
     "invalid-archive": 8,
     "empty-file": 1,
-    "http-404": 1224,
+    "http-404": 1559,
     "failed": 5,
-    "html-replay": 12,
+    "html-replay": 14,
     "too-large": 1,
-    "out-of-scope": 6
+    "out-of-scope": 20
   },
   "sourceLists": [
     {
@@ -2964,6 +2964,69 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 10
     },
     {
+      "key": "aimclone-zip",
+      "name": "aimclone.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimclone.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimclone.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimclone.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimclone.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/md2/mdlax1/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/md2/mdlax1/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/de3/bladecon/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de3/bladecon/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 9
+    },
+    {
       "key": "chatscan3-zip",
       "name": "chatscan3.zip",
       "mirrors": [
@@ -3216,63 +3279,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "localFiles": [],
       "readyCount": 0,
       "totalMirrors": 9
-    },
-    {
-      "key": "aimclone-zip",
-      "name": "aimclone.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimclone.zip",
-          "sourceList": "Web page: AIM",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://24.185.191.87/progz/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimclone.zip",
-          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/md2/mdlax1/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/md2/mdlax1/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/de3/bladecon/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de3/bladecon/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 8
     },
     {
       "key": "buster-zip",
@@ -6736,6 +6742,39 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
+      "key": "aim187-zip",
+      "name": "aim187.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/aim187.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/aim187.zip",
+          "sourceList": "Web page: Oogle AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aim187.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aim187.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aim187.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aim187.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aim187.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aim187.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
       "key": "aimaimhell2000v2-zip",
       "name": "aimaimhell2000v2.zip",
       "mirrors": [
@@ -6761,6 +6800,72 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimhell2000v2.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimhell2000v2.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "aimchange-zip",
+      "name": "aimchange.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimchange.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimchange.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/clone/stem/files/aimchange.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/stem/files/aimchange.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/anime2/z64codes/aimchange.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/anime2/z64codes/aimchange.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ak5/darkmessenger/files/aimchange.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ak5/darkmessenger/files/aimchange.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "aimfuck-zip",
+      "name": "aimfuck.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimfuck.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimfuck.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfuck.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfuck.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ult/netcrashxx/aimfuck.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ult/netcrashxx/aimfuck.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego2/evilden/aimfuck.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego2/evilden/aimfuck.zip",
+          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -9034,6 +9139,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "4shoplayer3-zip",
+      "name": "4shoplayer3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/4shoplayer3.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/4shoplayer3.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/4shoplayer3.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/4shoplayer3.zip",
+          "sourceList": "Web page: Yahoo Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/4shoplayer3.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/4shoplayer3.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "7z2107-exe",
       "name": "7z2107.exe",
       "mirrors": [
@@ -9200,25 +9332,52 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "aim187-zip",
-      "name": "aim187.zip",
+      "key": "aicrackse2-zip",
+      "name": "aicrackse2.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/aim187.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/aim187.zip",
-          "sourceList": "Web page: Oogle AIM progs",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
+          "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aim187.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aim187.zip",
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aicrackse2.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aicrackse2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aim3k-zip",
+      "name": "aim3k.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aim3k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aim3k.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://24.185.191.87/progz/aim187.zip",
-          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aim187.zip",
+          "originalUrl": "http://24.185.191.87/progz/aim3k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aim3k.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aim3k.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aim3k.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -9416,6 +9575,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "aimboss14-zip",
+      "name": "aimboss14.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimboss14.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimboss14.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "aimbulletscroller-zip",
       "name": "aimbulletscroller.zip",
       "mirrors": [
@@ -9497,25 +9683,110 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "aimchange-zip",
-      "name": "aimchange.zip",
+      "key": "aimcloner-zip",
+      "name": "aimcloner.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.angelfire.com/clone/stem/files/aimchange.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/stem/files/aimchange.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcloner.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcloner.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/clone/stem/files/aimcloner.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/stem/files/aimcloner.zip",
           "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/anime2/z64codes/aimchange.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/anime2/z64codes/aimchange.zip",
+          "originalUrl": "http://www.angelfire.com/nc3/acydice5371/aimcloner.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nc3/acydice5371/aimcloner.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimcreate11-zip",
+      "name": "aimcreate11.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
+          "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ak5/darkmessenger/files/aimchange.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ak5/darkmessenger/files/aimchange.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcreate11.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcreate11.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/lost_silence/aimcreate11.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate11.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/angelfire-com/aimcreate11.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimcreate21-zip",
+      "name": "aimcreate21.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcreate21.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcreate21.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/lost_silence/aimcreate21.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate21.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/angelfire-com/aimcreate21.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimdistortion2-zip",
+      "name": "aimdistortion2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimdistortion2.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimdistortion2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdistortion2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdistortion2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdistortion2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdistortion2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -9578,25 +9849,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "aimfuck-zip",
-      "name": "aimfuck.zip",
+      "key": "aimexploit-zip",
+      "name": "aimexploit.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimfuck.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimfuck.zip",
+          "originalUrl": "http://aimthings.com/aimfilez/aimexploit.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimexploit.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
           "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ult/netcrashxx/aimfuck.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ult/netcrashxx/aimfuck.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ego2/evilden/aimfuck.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego2/evilden/aimfuck.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimexploit.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimexploit.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -9930,6 +10201,35 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aol25-zip",
+      "name": "aol25.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
+          "sourceList": "Web page: LensHell AOL AIM Yahoo clients",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://archive.org/download/aol25_199506/AOL25.ZIP",
+          "waybackUrl": "https://archive.org/download/aol25_199506/AOL25.ZIP",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/gray/files/aol25.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/files/aol25.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol25-ed90d8ba.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -11164,6 +11464,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "du-zip",
+      "name": "du.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Misc/du.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/Misc/du.zip",
+          "sourceList": "Web page: Misc/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/du.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/du.zip",
+          "sourceList": "Web page: found-geocities-silicon-valley-files.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.geocities.com/SiliconValley/2926/zzz/du.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/2926/zzz/du.zip",
+          "sourceList": "Web page: found-geocities-silicon-valley-files.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "earthsiege-zip",
       "name": "earthsiege.zip",
       "mirrors": [
@@ -11815,8 +12142,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/gta-a4cff9ab.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -12062,8 +12391,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/igneous-dcd98435.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -12953,6 +13284,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.angelfire.com/empire/chatten.nu/basgames/nibbles.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/empire/chatten.nu/basgames/nibbles.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "notepad2-zip",
+      "name": "notepad2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.flos-freeware.ch/zip/notepad2.zip",
+          "waybackUrl": "http://www.flos-freeware.ch/zip/notepad2.zip",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/notepad2.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/notepad2.zip",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/indie/barnprogram3/programs/notepad2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/indie/barnprogram3/programs/notepad2.zip",
           "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
@@ -15308,6 +15666,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "10botbooter-zip",
+      "name": "10botbooter.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/10botbooter.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/10botbooter.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/10botbooter.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/10botbooter.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "123buddylink-zip",
+      "name": "123buddylink.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/123buddylink.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/123buddylink.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/123buddylink.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/123buddylink.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "1im-zip",
       "name": "1im.zip",
       "mirrors": [
@@ -15455,27 +15855,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "4shoplayer3-zip",
-      "name": "4shoplayer3.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/4shoplayer3.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/4shoplayer3.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/4shoplayer3.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/4shoplayer3.zip",
-          "sourceList": "Web page: Yahoo Progs",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "5-zip",
       "name": "5.zip",
       "mirrors": [
@@ -15518,6 +15897,90 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "7z423-exe",
+      "name": "7z423.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/7zip/7z423.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/7zip/7z423.exe",
+          "sourceList": "Web page: 7zip/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://easynews.dl.sourceforge.net/sourceforge/sevenzip/7z423.exe",
+          "waybackUrl": "http://easynews.dl.sourceforge.net/sourceforge/sevenzip/7z423.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "7z465-exe",
+      "name": "7z465.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/7zip/7z465.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/7zip/7z465.exe",
+          "sourceList": "Web page: 7zip/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://superb-east.dl.sourceforge.net/sourceforge/sevenzip/7z465.exe",
+          "waybackUrl": "http://superb-east.dl.sourceforge.net/sourceforge/sevenzip/7z465.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "7za423-zip",
+      "name": "7za423.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/7zip/7za423.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/7zip/7za423.zip",
+          "sourceList": "Web page: 7zip/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://easynews.dl.sourceforge.net/sourceforge/sevenzip/7za423.zip",
+          "waybackUrl": "http://easynews.dl.sourceforge.net/sourceforge/sevenzip/7za423.zip",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "7zip-exe",
+      "name": "7zip.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/7zip/7zip.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/7zip/7zip.exe",
+          "sourceList": "Web page: 7zip/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://c0026362.cdn1.cloudfiles.rackspacecloud.com/7zip.exe",
+          "waybackUrl": "http://c0026362.cdn1.cloudfiles.rackspacecloud.com/7zip.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "800x600-grandes-exitos-zip",
       "name": "800x600-grandes-exitos.zip",
       "mirrors": [
@@ -15552,6 +16015,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.geocities.com/SiliconValley/Drive/6778/90VB.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.geocities.com/SiliconValley/Drive/6778/90VB.zip",
           "sourceList": "ProgzRescue Geocities SiliconValley files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aawsepersonal-exe",
+      "name": "aawsepersonal.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Anti-Spyware/aawsepersonal.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Anti-Spyware/aawsepersonal.exe",
+          "sourceList": "Web page: Anti-Spyware/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.net-security.org/dl/software/aawsepersonal.exe",
+          "waybackUrl": "http://www.net-security.org/dl/software/aawsepersonal.exe",
+          "sourceList": "Web page: Downloads.txt",
           "status": "candidate"
         }
       ],
@@ -15646,6 +16130,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "acidrein-zip",
+      "name": "acidrein.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/acidrein.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/acidrein.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/acidrein.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/acidrein.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "acidtoolz3-zip",
+      "name": "acidtoolz3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/acidtoolz3.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/acidtoolz3.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/acidtoolz3.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/acidtoolz3.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "acronyms-zip",
       "name": "acronyms.zip",
       "mirrors": [
@@ -15703,6 +16229,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/clone/irnbadboy/programs/ynf/activeskin.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/irnbadboy/programs/ynf/activeskin.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "addictionsfinal-zip",
+      "name": "addictionsfinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/addictionsfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/addictionsfinal.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/addictionsfinal.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/addictionsfinal.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -15816,6 +16363,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "advancedbeta-zip",
+      "name": "advancedbeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/advancedbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/advancedbeta.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/advancedbeta.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/advancedbeta.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "afk-zip",
       "name": "afk.zip",
       "mirrors": [
@@ -15921,27 +16489,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aicrackse2-zip",
-      "name": "aicrackse2.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
-          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
-          "sourceList": "Web page: Aim Crackers",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "aim2-zip",
       "name": "aim2.zip",
       "mirrors": [
@@ -15955,27 +16502,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/vt/aimrb6/aim2.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/vt/aimrb6/aim2.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "aim3k-zip",
-      "name": "aim3k.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aim3k.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aim3k.zip",
-          "sourceList": "Web page: AIM",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://24.185.191.87/progz/aim3k.zip",
-          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aim3k.zip",
-          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -16005,6 +16531,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aim47booterv45-zip",
+      "name": "aim47booterv45.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aim47booterv45.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aim47booterv45.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aim47booterv45.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aim47booterv45.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "aimabominationv2-zip",
       "name": "aimabominationv2.zip",
       "mirrors": [
@@ -16018,6 +16565,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/aimabominationv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimabominationv2.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaddictions-zip",
+      "name": "aimaddictions.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictions.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictions.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimaddictions.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimaddictions.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaddictionse-zip",
+      "name": "aimaddictionse.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictionse.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictionse.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimaddictionse.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimaddictionse.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -16320,6 +16909,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aimattak-zip",
+      "name": "aimattak.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimattak.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimattak.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimattak.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimattak.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "aimaztopdawg-zip",
       "name": "aimaztopdawg.zip",
       "mirrors": [
@@ -16333,6 +16943,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/aimaztopdawg.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaztopdawg.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimbattletank-zip",
+      "name": "aimbattletank.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimbattletank.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimbattletank.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimbattletank.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimbattletank.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -16425,19 +17056,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimboss14-zip",
-      "name": "aimboss14.zip",
+      "key": "aimbomb-zip",
+      "name": "aimbomb.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimbomb.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimbomb.zip",
           "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
-          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
-          "sourceList": "Web page: Aim Crackers",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimbomb.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimbomb.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimboss-zip",
+      "name": "aimboss.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimboss.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimboss.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -16698,6 +17350,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aimcensus-zip",
+      "name": "aimcensus.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcensus.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcensus.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcensus.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcensus.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "aimchange-exe",
       "name": "aimchange.exe",
       "mirrors": [
@@ -16805,27 +17478,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimcloner-zip",
-      "name": "aimcloner.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.angelfire.com/clone/stem/files/aimcloner.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/stem/files/aimcloner.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/nc3/acydice5371/aimcloner.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nc3/acydice5371/aimcloner.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "aimcrcv1-zip",
       "name": "aimcrcv1.zip",
       "mirrors": [
@@ -16844,52 +17496,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "aimcreate11-zip",
-      "name": "aimcreate11.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ego/lost_silence/aimcreate11.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate11.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/angelfire-com/aimcreate11.zip"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 2
-    },
-    {
-      "key": "aimcreate21-zip",
-      "name": "aimcreate21.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ego/lost_silence/aimcreate21.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate21.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/angelfire-com/aimcreate21.zip"
-      ],
-      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -17019,27 +17625,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimdistortion2-zip",
-      "name": "aimdistortion2.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdistortion2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdistortion2.zip",
-          "sourceList": "Web page: AIM",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://24.185.191.87/progz/aimdistortion2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdistortion2.zip",
-          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "aimdistortionfinal-zip",
       "name": "aimdistortionfinal.zip",
       "mirrors": [
@@ -17074,6 +17659,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/aimendlesscommandsv1.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimendlesscommandsv1.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimer1-zip",
+      "name": "aimer1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimer1.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/aimer1.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimer1.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimer1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimer2-zip",
+      "name": "aimer2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimer2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/aimer2.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimer2.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimer2.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -17166,27 +17793,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimexploit-zip",
-      "name": "aimexploit.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://aimthings.com/aimfilez/aimexploit.zip",
-          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimexploit.zip",
-          "sourceList": "Web page: Aim Filez",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "aimfader-zip",
       "name": "aimfader.zip",
       "mirrors": [
@@ -17210,6 +17816,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aimfadersuite-zip",
+      "name": "aimfadersuite.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/faders/aimfadersuite.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/aimfadersuite.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfadersuite.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfadersuite.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "aimfatboy-zip",
       "name": "aimfatboy.zip",
       "mirrors": [
@@ -17223,6 +17850,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/aimfatboy.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimfatboy.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimfilter-zip",
+      "name": "aimfilter.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfilter.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfilter.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/clone/stem/files/aimfilter.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/stem/files/aimfilter.zip",
+          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -17286,6 +17934,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/alt2/papers/progs/aimforge.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/alt2/papers/progs/aimforge.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimfrysc-zip",
+      "name": "aimfrysc.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimfrysc.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimfrysc.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfrysc.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimfrysc.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -17399,6 +18068,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aimgroupv100-zip",
+      "name": "aimgroupv100.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimgroupv100.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimgroupv100.zip",
+          "sourceList": "Web page: LensHell misc progs A-M",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimgroupv100.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimgroupv100.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "aimhallucination10-zip",
       "name": "aimhallucination10.zip",
       "mirrors": [
@@ -17433,6 +18123,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/aimhappyprogv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimhappyprogv2.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimhell2000v3-zip",
+      "name": "aimhell2000v3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimhell2000v3.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimhell2000v3.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimhell2000v3.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimhell2000v3.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -17561,6 +18272,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/aiminfinitybeta.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aiminfinitybeta.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aiminvader35-zip",
+      "name": "aiminvader35.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aiminvader35.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aiminvader35.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aiminvader35.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aiminvader35.zip",
+          "sourceList": "Web page: AIM",
           "status": "candidate"
         }
       ],
@@ -18978,6 +19710,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "am-zip",
+      "name": "AM.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/AM/AM.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/AM/AM.zip",
+          "sourceList": "Web page: AM/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/email/1936/archivos/apuntes/am.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/email/1936/archivos/apuntes/am.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "amazing-zip",
       "name": "amazing.zip",
       "mirrors": [
@@ -19213,24 +19966,26 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aol25-zip",
-      "name": "aol25.zip",
+      "key": "aol20-zip",
+      "name": "aol20.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol20.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol20.zip",
           "sourceList": "Web page: LensHell AOL AIM Yahoo clients",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ego/gray/files/aol25.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/files/aol25.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "https://archive.org/download/aol-20/AOL20.ZIP",
+          "waybackUrl": "https://archive.org/download/aol-20/AOL20.ZIP",
+          "sourceList": "Archive.org: AOL client/version",
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/archive-org/aol20-b81863db.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -22757,6 +23512,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "domaincs-exe",
+      "name": "domaincs.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/domaincs.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/domaincs.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.onlytools.com/domainic/domaincs.exe",
+          "waybackUrl": "http://www.onlytools.com/domainic/domaincs.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "dopewars-zip",
       "name": "dopewars.zip",
       "mirrors": [
@@ -22959,27 +23735,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.cybernyse.com/dt2.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dt2.zip",
           "sourceList": "Web page: Progs Section 1",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "du-zip",
-      "name": "du.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/du.zip",
-          "waybackUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/du.zip",
-          "sourceList": "Web page: found-geocities-silicon-valley-files.txt",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.geocities.com/SiliconValley/2926/zzz/du.zip",
-          "waybackUrl": "http://www.geocities.com/SiliconValley/2926/zzz/du.zip",
-          "sourceList": "Web page: found-geocities-silicon-valley-files.txt",
           "status": "candidate"
         }
       ],
@@ -23515,6 +24270,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "ez-gpo-v2-01-zip",
+      "name": "EZ_GPO_v2.01.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/EZ_GPO_v2.01.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/EZ_GPO_v2.01.zip",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.terranovum.com/docs/energystar/EZ_GPO/EZ_GPO_v2.01.zip",
+          "waybackUrl": "http://www.terranovum.com/docs/energystar/EZ_GPO/EZ_GPO_v2.01.zip",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "ez-save31-setup-exe",
+      "name": "EZ_Save31_SETUP.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/EZ_Save31_SETUP.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/EZ_Save31_SETUP.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.energystar.gov/ia/products/power_mgt/EZ_Save31_SETUP.exe",
+          "waybackUrl": "http://www.energystar.gov/ia/products/power_mgt/EZ_Save31_SETUP.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "fade8-zip",
       "name": "fade8.zip",
       "mirrors": [
@@ -23677,6 +24474,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/headroom/344/ff/FF3.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/headroom/344/ff/FF3.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "fiddler2setup-exe",
+      "name": "Fiddler2Setup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
+          "sourceList": "Web page: Microsoft/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "fiddler4setup-exe",
+      "name": "fiddler4setup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
+          "sourceList": "Web page: Microsoft/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
+          "sourceList": "Web page: ..",
           "status": "candidate"
         }
       ],
@@ -24026,6 +24865,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "fpfksetup-exe",
+      "name": "FPFKSetup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/FPFKSetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/FPFKSetup.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe",
+          "waybackUrl": "http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "fractal-zip",
       "name": "fractal.zip",
       "mirrors": [
@@ -24102,6 +24962,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/frogger.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/frogger.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "frui-exe",
+      "name": "frui.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/frui.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/frui.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.freshdiagnose.com/files/frui.exe",
+          "waybackUrl": "http://www.freshdiagnose.com/files/frui.exe",
+          "sourceList": "Web page: Downloads.txt",
           "status": "candidate"
         }
       ],
@@ -24543,6 +25424,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/wy/emulation/ghostbusters_2.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/wy/emulation/ghostbusters_2.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "giantantispyware-exe",
+      "name": "GIANTAntiSpyware.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Anti-Spyware/GIANTAntiSpyware.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Anti-Spyware/GIANTAntiSpyware.exe",
+          "sourceList": "Web page: Anti-Spyware/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://software-files.download.com/software/10336361/10317350/3/GIANTAntiSpyware.exe?lop=link&ptype=3002&ontid=8022&siteId=4",
+          "waybackUrl": "http://software-files.download.com/software/10336361/10317350/3/GIANTAntiSpyware.exe?lop=link&ptype=3002&ontid=8022&siteId=4",
+          "sourceList": "Web page: Downloads.txt",
           "status": "candidate"
         }
       ],
@@ -25790,6 +26692,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/linux/macrovb/download/instalar.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/linux/macrovb/download/instalar.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "installspeedfan440-exe",
+      "name": "installspeedfan440.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.almico.com/installspeedfan440.exe",
+          "waybackUrl": "http://www.almico.com/installspeedfan440.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/installspeedfan440.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/installspeedfan440.exe",
+          "sourceList": "Web page: ..",
           "status": "candidate"
         }
       ],
@@ -28078,6 +29001,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "nirext-zip",
+      "name": "nirext.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.nirsoft.net/utils/nirext.zip",
+          "waybackUrl": "http://www.nirsoft.net/utils/nirext.zip",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/nirext.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/nirext.zip",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "nocdcrack-zip",
       "name": "nocdcrack.zip",
       "mirrors": [
@@ -28112,27 +29056,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/false/1549/HTMLobj-108/nonstopscroll.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/false/1549/HTMLobj-108/nonstopscroll.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "notepad2-zip",
-      "name": "notepad2.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://am.net/lib/TOOLS/notepad2.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/notepad2.zip",
-          "sourceList": "Web page: ..",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/indie/barnprogram3/programs/notepad2.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/indie/barnprogram3/programs/notepad2.zip",
-          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -28427,6 +29350,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/rnb/darksyde/booterz/overloader.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/rnb/darksyde/booterz/overloader.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "pacl400-exe",
+      "name": "pacl400.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://download.powerarchiver.com/pacl400.exe",
+          "waybackUrl": "http://download.powerarchiver.com/pacl400.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/PowerArchiver/pacl400.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/PowerArchiver/pacl400.exe",
+          "sourceList": "Web page: PowerArchiver/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "pacl401-exe",
+      "name": "pacl401.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://sjc.dl.powerarchiver.com/pacl401.exe",
+          "waybackUrl": "http://sjc.dl.powerarchiver.com/pacl401.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/PowerArchiver/pacl401.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/PowerArchiver/pacl401.exe",
+          "sourceList": "Web page: PowerArchiver/",
           "status": "candidate"
         }
       ],
@@ -28922,6 +29887,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "pkreader-exe",
+      "name": "pkreader.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://download.pkzip.com/pub/pkware/products/win/pkreader.exe",
+          "waybackUrl": "http://download.pkzip.com/pub/pkware/products/win/pkreader.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/pkreader.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/pkreader.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "plasma-zip",
       "name": "plasma.zip",
       "mirrors": [
@@ -29124,6 +30110,69 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/mech/rekcah/toolz/network/portscan.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mech/rekcah/toolz/network/portscan.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "powarc1102-exe",
+      "name": "powarc1102.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://dl.powerarchiver.com/2009/powarc1102.exe",
+          "waybackUrl": "http://dl.powerarchiver.com/2009/powarc1102.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/PowerArchiver/powarc1102.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/PowerArchiver/powarc1102.exe",
+          "sourceList": "Web page: PowerArchiver/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "powarc911-exe",
+      "name": "powarc911.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.powerarchiver.com/download/powarc911.exe",
+          "waybackUrl": "http://www.powerarchiver.com/download/powarc911.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/PowerArchiver/powarc911.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/PowerArchiver/powarc911.exe",
+          "sourceList": "Web page: PowerArchiver/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "powarc951-exe",
+      "name": "powarc951.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://sjc.dl.powerarchiver.com/powarc951.exe",
+          "waybackUrl": "http://sjc.dl.powerarchiver.com/powarc951.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/PowerArchiver/powarc951.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/PowerArchiver/powarc951.exe",
+          "sourceList": "Web page: PowerArchiver/",
           "status": "candidate"
         }
       ],
@@ -29443,6 +30492,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/psy2kscroller.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/psy2kscroller.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "ptfb2110-exe",
+      "name": "ptfb2110.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.tlhouse.co.uk/PTFBPro/ptfb2110.exe",
+          "waybackUrl": "http://www.tlhouse.co.uk/PTFBPro/ptfb2110.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/ptfb2110.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/ptfb2110.exe",
+          "sourceList": "Web page: ..",
           "status": "candidate"
         }
       ],
@@ -30994,6 +32064,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "skypesetup-exe",
+      "name": "SkypeSetup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://download.skype.com/SkypeSetup.exe",
+          "waybackUrl": "http://download.skype.com/SkypeSetup.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/SkypeSetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/SkypeSetup.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "slashersaim-zip",
       "name": "slashersaim.zip",
       "mirrors": [
@@ -31473,6 +32564,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.geocities.com/SiliconValley/Server/7338/sproing.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.geocities.com/SiliconValley/Server/7338/sproing.zip",
           "sourceList": "ProgzRescue Geocities SiliconValley files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "spybotsd13-exe",
+      "name": "spybotsd13.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://software-files.download.com/software/10289035/10122137/3/spybotsd13.exe?ptype=3001&ontid=8022&siteId=4",
+          "waybackUrl": "http://software-files.download.com/software/10289035/10122137/3/spybotsd13.exe?ptype=3001&ontid=8022&siteId=4",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Anti-Spyware/spybotsd13.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Anti-Spyware/spybotsd13.exe",
+          "sourceList": "Web page: Anti-Spyware/",
           "status": "candidate"
         }
       ],
@@ -33105,6 +34217,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "vbdecompiler-zip",
+      "name": "vbdecompiler.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programming/vb/vbdecompiler.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programming/vb/vbdecompiler.zip",
+          "sourceList": "Web page: vb",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/hiphop2/azzkicker/miscdownloads/vbdecompiler.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/hiphop2/azzkicker/miscdownloads/vbdecompiler.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "vbhelp1-zip",
       "name": "vbhelp1.zip",
       "mirrors": [
@@ -33336,6 +34469,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "volumouse-setup-exe",
+      "name": "volumouse_setup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.nirsoft.net/utils/volumouse_setup.exe",
+          "waybackUrl": "http://www.nirsoft.net/utils/volumouse_setup.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/volumouse_setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/volumouse_setup.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "vr-zip",
       "name": "vr.zip",
       "mirrors": [
@@ -33546,6 +34700,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "wima6481-exe",
+      "name": "wima6481.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://america.winimage.com/download/wima6481.exe",
+          "waybackUrl": "http://america.winimage.com/download/wima6481.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/WinImage/wima6481.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/WinImage/wima6481.exe",
+          "sourceList": "Web page: WinImage/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "win95-zip",
       "name": "win95.zip",
       "mirrors": [
@@ -33643,6 +34818,69 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/solo/933/winhellraise.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/solo/933/winhellraise.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "winima70-exe",
+      "name": "winima70.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://ourworld.compuserve.com/homepages/gvollant/winima70.exe",
+          "waybackUrl": "http://ourworld.compuserve.com/homepages/gvollant/winima70.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/WinImage/winima70.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/WinImage/winima70.exe",
+          "sourceList": "Web page: WinImage/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "winima81-exe",
+      "name": "winima81.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://america.winimage.com/download/winima81.exe",
+          "waybackUrl": "http://america.winimage.com/download/winima81.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/WinImage/winima81.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/WinImage/winima81.exe",
+          "sourceList": "Web page: WinImage/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "winima85-exe",
+      "name": "winima85.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.winimage.com/download/winima85.exe",
+          "waybackUrl": "http://www.winimage.com/download/winima85.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/WinImage/winima85.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/WinImage/winima85.exe",
+          "sourceList": "Web page: WinImage/",
           "status": "candidate"
         }
       ],
@@ -33853,6 +35091,69 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/macro/170/roms/snes/worms.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/macro/170/roms/snes/worms.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "wrar342-exe",
+      "name": "wrar342.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://files10.rarlab.com/rar/wrar342.exe",
+          "waybackUrl": "http://files10.rarlab.com/rar/wrar342.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/wrar342.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wrar342.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "wrar350-exe",
+      "name": "wrar350.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://files6.rarlab.com/rar/wrar350.exe",
+          "waybackUrl": "http://files6.rarlab.com/rar/wrar350.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/wrar350.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wrar350.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "wrar380-exe",
+      "name": "wrar380.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.rarsoft.com/rar/wrar380.exe",
+          "waybackUrl": "http://www.rarsoft.com/rar/wrar380.exe",
+          "sourceList": "Web page: Downloads.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/wrar380.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wrar380.exe",
+          "sourceList": "Web page: ..",
           "status": "candidate"
         }
       ],
@@ -34386,6 +35687,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "20220529-151140-iso",
+      "name": "20220529_151140.iso",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/20220529-151140/20220529_151140.iso",
+          "waybackUrl": "https://archive.org/download/20220529-151140/20220529_151140.iso",
+          "sourceList": "Archive.org: AOL browser/utility",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/20220529-151140-6e0a8dc6.iso"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "35mmnegtub-zip",
       "name": "35mmnegtub.zip",
       "mirrors": [
@@ -34585,6 +35903,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/adult-b49c4372.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aim-1-0-10-solaris-tar-gz",
+      "name": "AIM_1.0.10_Solaris.tar.gz",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aim_1.0.10_solaris/AIM_1.0.10_Solaris.tar.gz",
+          "waybackUrl": "https://archive.org/download/aim_1.0.10_solaris/AIM_1.0.10_Solaris.tar.gz",
+          "sourceList": "Archive.org: AIM client",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aim-1-0-10-solaris-tar-7cfea848.gz"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -34998,6 +36333,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "aim10-exe",
+      "name": "aim10.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aim10/aim10.exe",
+          "waybackUrl": "https://archive.org/download/aim10/aim10.exe",
+          "sourceList": "Archive.org: AIM client",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aim10-5a34b21e.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "aim4-exe",
       "name": "aim4.exe",
       "mirrors": [
@@ -35078,6 +36430,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/am-net/aim48-bec466e3.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aim5-0-iso",
+      "name": "aim5.0.iso",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aim5.0/aim5.0.iso",
+          "waybackUrl": "https://archive.org/download/aim5.0/aim5.0.iso",
+          "sourceList": "Archive.org: AIM client",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aim5-0-4811e16c.iso"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -35423,6 +36792,74 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "america-online-for-ms-dos-img",
+      "name": "America online For ms-dos.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20ms-dos.img",
+          "waybackUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20ms-dos.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/america20online20for20ms-dos-40f21d0f.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "america-online-for-windows-3-0-or-later-img",
+      "name": "America online For windows 3.0 or later.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20windows%203.0%20or%20later.img",
+          "waybackUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20windows%203.0%20or%20later.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/america20online20for20windows203-020or20later-8c1e3282.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "americaonlineversion30forwindows1996-disk1of1-img",
+      "name": "AmericaOnlineVersion30ForWindows1996.disk1of1.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.img",
+          "waybackUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/americaonlineversion30forwindows1996-disk1of1-ff2208dd.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "americaonlineversion30forwindows1996-disk1of1-zip",
+      "name": "AmericaOnlineVersion30ForWindows1996.disk1of1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.zip",
+          "waybackUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.zip",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/americaonlineversion30forwindows1996-disk1of1-d5282b28.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "amex-zip",
       "name": "amex.zip",
       "mirrors": [
@@ -35542,6 +36979,380 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "aol-16-bit-setup-exe",
+      "name": "AOL 16 BIT SETUP.EXE",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-16-bit-setup/AOL%2016%20BIT%20SETUP.EXE",
+          "waybackUrl": "https://archive.org/download/aol-16-bit-setup/AOL%2016%20BIT%20SETUP.EXE",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol201620bit20setup-05b87a9a.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-2-5-img",
+      "name": "AOL 2.5.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol250g/AOL%202.5.img",
+          "waybackUrl": "https://archive.org/download/aol250g/AOL%202.5.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol202-5-754d804a.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-2-5i-german-iso",
+      "name": "AOL 2.5I (German).iso",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/disc-image-aol-2.5i-german/AOL%202.5I%20(German).iso",
+          "waybackUrl": "https://archive.org/download/disc-image-aol-2.5i-german/AOL%202.5I%20(German).iso",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol202-5i20german-8033b8f4.iso"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-instant-messenger-2-exe",
+      "name": "AOL Instant Messenger 2.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-instant-messenger-2/AOL%20Instant%20Messenger%202.exe",
+          "waybackUrl": "https://archive.org/download/aol-instant-messenger-2/AOL%20Instant%20Messenger%202.exe",
+          "sourceList": "Archive.org: AIM client",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol20instant20messenger202-de274db0.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-program-disc-2-6-ima",
+      "name": "AOL PROGRAM DISC 2.6.ima",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.ima",
+          "waybackUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.ima",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol20program20disc202-6-0b19e140.ima"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-program-disc-2-6-zip",
+      "name": "AOL PROGRAM DISC 2.6.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.zip",
+          "waybackUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.zip",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol20program20disc202-6-364b5982.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-setup-disk-img",
+      "name": "AOL Setup Disk.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol_setup_disk/AOL%20Setup%20Disk.img",
+          "waybackUrl": "https://archive.org/download/aol_setup_disk/AOL%20Setup%20Disk.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol20setup20disk-6ba1df22.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-v3-0-img",
+      "name": "AOL v3.0.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-v-3.0/AOL%20v3.0.img",
+          "waybackUrl": "https://archive.org/download/aol-v-3.0/AOL%20v3.0.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol20v3-0-ba6f556f.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-1-5-for-dos-img",
+      "name": "aol_1.5_for_dos.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.img",
+          "waybackUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol-1-5-for-dos-d30ac1f1.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-1-5-for-dos-zip",
+      "name": "aol_1.5_for_dos.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.zip",
+          "waybackUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.zip",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol-1-5-for-dos-fc6982d4.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-1995-00001115-windows-v25-for-windows-and-macintosh-iso",
+      "name": "AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh.iso",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh.iso",
+          "waybackUrl": "https://archive.org/download/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh.iso",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol-1995-00001115-windows-v25-for-windows-and-macintosh-ae37aad8.iso"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-2-0-zip",
+      "name": "aol_2.0.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol_2.0/aol_2.0.zip",
+          "waybackUrl": "https://archive.org/download/aol_2.0/aol_2.0.zip",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol-2-0-dacd5d30.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-instant-messanger-amp-wsz",
+      "name": "AOL_Instant_Messanger_Amp.wsz",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/winampskin_AOL_Instant_Messenger_Amp/AOL_Instant_Messanger_Amp.wsz",
+          "waybackUrl": "https://archive.org/download/winampskin_AOL_Instant_Messenger_Amp/AOL_Instant_Messanger_Amp.wsz",
+          "sourceList": "Archive.org: Winamp skin",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol-instant-messanger-amp-28ae6ca4.wsz"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol-instant-messenger-4-8-2540-exe",
+      "name": "AOL_Instant_Messenger_4.8.2540.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-instant-messenger-4.8.2540/AOL_Instant_Messenger_4.8.2540.exe",
+          "waybackUrl": "https://archive.org/download/aol-instant-messenger-4.8.2540/AOL_Instant_Messenger_4.8.2540.exe",
+          "sourceList": "Archive.org: AIM client",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol-instant-messenger-4-8-2540-c6286f94.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol20-ima",
+      "name": "AOL20.IMA",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-20/AOL20.IMA",
+          "waybackUrl": "https://archive.org/download/aol-20/AOL20.IMA",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol20-ac265163.ima"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol25-ima",
+      "name": "AOL25.IMA",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol25_199506/AOL25.IMA",
+          "waybackUrl": "https://archive.org/download/aol25_199506/AOL25.IMA",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol25-26096065.ima"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol25-img",
+      "name": "aol25.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol25/aol25.img",
+          "waybackUrl": "https://archive.org/download/aol25/aol25.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol25-66eea066.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol30-ima",
+      "name": "AOL30.IMA",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol30_1996-08/AOL30.IMA",
+          "waybackUrl": "https://archive.org/download/aol30_1996-08/AOL30.IMA",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol30-f51209b9.ima"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol30-zip",
+      "name": "AOL30.ZIP",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol30_1996-08/AOL30.ZIP",
+          "waybackUrl": "https://archive.org/download/aol30_1996-08/AOL30.ZIP",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol30-456098bb.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol30installger-img",
+      "name": "AOL30INSTALLGER.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-30-german-floppy/AOL30INSTALLGER.img",
+          "waybackUrl": "https://archive.org/download/aol-30-german-floppy/AOL30INSTALLGER.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol30installger-25341445.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol30isdnger-img",
+      "name": "AOL30ISDNGER.img",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-30-german-floppy/AOL30ISDNGER.img",
+          "waybackUrl": "https://archive.org/download/aol-30-german-floppy/AOL30ISDNGER.img",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol30isdnger-7845a722.img"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aol40br-iso",
+      "name": "AOL40BR.iso",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-40-br/AOL40BR.iso",
+          "waybackUrl": "https://archive.org/download/aol-40-br/AOL40BR.iso",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aol40br-bdcfb4ec.iso"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "aol7setup-exe",
       "name": "aol7setup.exe",
       "mirrors": [
@@ -35605,6 +37416,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/aimfilez-com/aolcommunicator-85109c9c.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aoldnld-1-5-exe",
+      "name": "AOLDNLD_1_5.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aoldnld-1-5/AOLDNLD_1_5.exe",
+          "waybackUrl": "https://archive.org/download/aoldnld-1-5/AOLDNLD_1_5.exe",
+          "sourceList": "Archive.org: AOL browser/utility",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/aoldnld-1-5-dce60764.exe"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -37089,6 +38917,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "deadaim-4-1-1-zip",
+      "name": "DeadAim 4.1.1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/doors98-dead-aim-4.1.1/DeadAim%204.1.1.zip",
+          "waybackUrl": "https://archive.org/download/doors98-dead-aim-4.1.1/DeadAim%204.1.1.zip",
+          "sourceList": "Archive.org: DeadAIM / AIM enhancer",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/deadaim204-1-1-c9210077.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "deadaim-4-zip",
       "name": "deadaim_4.zip",
       "mirrors": [
@@ -37101,6 +38946,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/deadaim-4.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "deadaim-rar",
+      "name": "DeadAIM.rar",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/deadaim/DeadAIM.rar",
+          "waybackUrl": "https://archive.org/download/deadaim/DeadAIM.rar",
+          "sourceList": "Archive.org: DeadAIM / AIM enhancer",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/deadaim-e8bf5d21.rar"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -38126,6 +39988,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "goodkrymes-zip",
+      "name": "goodkrymes.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/goodkrymes.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/goodkrymes.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/goodkrymes-acf85812.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "googleplex-zip",
       "name": "googleplex.zip",
       "mirrors": [
@@ -38228,6 +40107,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "hellspitz13-zip",
+      "name": "hellspitz13.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hellspitz13.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hellspitz13.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/hellspitz13-0a068f36.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "hotmailhack-zip",
       "name": "hotmailhack.zip",
       "mirrors": [
@@ -38240,6 +40136,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/hotmailhack.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "hpcoms1-zip",
+      "name": "hpcoms1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hpcoms1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hpcoms1.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/hpcoms1-5cab6e6c.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "hushccom-zip",
+      "name": "hushccom.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hushccom.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hushccom.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/hushccom-ee96ae2e.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -38296,6 +40226,108 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "importdreamz-zip",
+      "name": "importdreamz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/importdreamz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/importdreamz.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/importdreamz-2b606ca6.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "importtuner-zip",
+      "name": "importtuner.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/importtuner.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/importtuner.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/importtuner-ed13ac26.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "incccom-zip",
+      "name": "incccom.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/incccom.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/incccom.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/incccom-c7d3a8fe.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "install-aol-4-0-68k-hqx",
+      "name": "Install AOL 4.0 (68K).hqx",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol_4.0_mac_68k/Install%20AOL%204.0%20(68K).hqx",
+          "waybackUrl": "https://archive.org/download/aol_4.0_mac_68k/Install%20AOL%204.0%20(68K).hqx",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/install20aol204-02068k-7a3f0e7e.hqx"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "install-aol-desktop-exe",
+      "name": "Install_AOL_Desktop.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/install-aol-desktop/Install_AOL_Desktop.exe",
+          "waybackUrl": "https://archive.org/download/install-aol-desktop/Install_AOL_Desktop.exe",
+          "sourceList": "Archive.org: AOL Desktop Gold",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/install-aol-desktop-21154404.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "install-aol-uk-3-o-i-hqx",
+      "name": "install_aol_uk_3.o.i.hqx",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol_uk_3.0i_mac/install_aol_uk_3.o.i.hqx",
+          "waybackUrl": "https://archive.org/download/aol_uk_3.0i_mac/install_aol_uk_3.o.i.hqx",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/install-aol-uk-3-o-i-1a925aa1.hqx"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "instantidler52-exe",
       "name": "InstantIdler52.exe",
       "mirrors": [
@@ -38325,6 +40357,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/interface.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "intricate-zip",
+      "name": "intricate.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/intricate.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/intricate.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/intricate-a6d5c94c.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -39690,6 +41739,57 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "setup-exe",
+      "name": "Setup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe",
+          "waybackUrl": "https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/setup-18e227a8.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "setup32-exe",
+      "name": "SETUP32.EXE",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/aol-setup-32/SETUP32.EXE",
+          "waybackUrl": "https://archive.org/download/aol-setup-32/SETUP32.EXE",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/setup32-2b19b572.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "setup323-exe",
+      "name": "SETUP323.EXE",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/setup-323/SETUP323.EXE",
+          "waybackUrl": "https://archive.org/download/setup-323/SETUP323.EXE",
+          "sourceList": "Archive.org: AOL client/version",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/setup323-5183b6d5.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "setupaol60-9x-exe",
       "name": "setupaol60_9x.exe",
       "mirrors": [
@@ -40110,6 +42210,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/text-cricket-5c7ec3a4.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "the-aol-music-player-wsz",
+      "name": "The_AOL_Music_Player.wsz",
+      "mirrors": [
+        {
+          "originalUrl": "https://archive.org/download/winampskin_The_AOL_Music_Player/The_AOL_Music_Player.wsz",
+          "waybackUrl": "https://archive.org/download/winampskin_The_AOL_Music_Player/The_AOL_Music_Player.wsz",
+          "sourceList": "Archive.org: Winamp skin",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/archive-org/the-aol-music-player-67eb1eeb.wsz"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -61846,6 +63963,5070 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv2.zip",
       "localPath": "",
       "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayv3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv3.zip",
+      "name": "gayv3.zip",
+      "discoveredText": "gay v.3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayv4.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv4.zip",
+      "name": "gayv4.zip",
+      "discoveredText": "gay v.4",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv4.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayol7.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayol7.zip",
+      "name": "gayol7.zip",
+      "discoveredText": "gayol7 beta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayol7.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/crackers/generalcrack.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/crackers/generalcrack.zip",
+      "name": "generalcrack.zip",
+      "discoveredText": "general crack v1.2",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/crackers/generalcrack.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/generationx.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/generationx.zip",
+      "name": "generationx.zip",
+      "discoveredText": "generation x",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/generationx.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/genoremix.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genoremix.zip",
+      "name": "genoremix.zip",
+      "discoveredText": "genocide remix",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genoremix.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/genocide.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genocide.zip",
+      "name": "genocide.zip",
+      "discoveredText": "genocide¹",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genocide.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/genozide.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/genozide.zip",
+      "name": "genozide.zip",
+      "discoveredText": "genozide bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/genozide.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/genpr.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/genpr.zip",
+      "name": "genpr.zip",
+      "discoveredText": "genpr",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/genpr.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/geocities.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/geocities.zip",
+      "name": "geocities.zip",
+      "discoveredText": "geocities frame removal code",
+      "downloadUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/geocities.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/gr2a.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/gr2a.zip",
+      "name": "gr2a.zip",
+      "discoveredText": "german reset²",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/gr2a.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/gestapo.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/gestapo.zip",
+      "name": "gestapo.zip",
+      "discoveredText": "gestapo",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/gestapo.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: APPLICATIONS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/apps.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/getright.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/getright.zip",
+      "name": "getright.zip",
+      "discoveredText": "Get Right",
+      "downloadUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/getright.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/getthat.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/getthat.zip",
+      "name": "getthat.zip",
+      "discoveredText": "get that",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/getthat.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/getin450.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/getin450.zip",
+      "name": "getin450.zip",
+      "discoveredText": "get-in 4.50",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/getin450.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/getin.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/getin.zip",
+      "name": "getin.zip",
+      "discoveredText": "get-in deluxe",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/getin.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/getright.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/getright.zip",
+      "name": "getright.zip",
+      "discoveredText": "getright.zip",
+      "downloadUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/getright.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/ghettoidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ghettoidle.zip",
+      "name": "ghettoidle.zip",
+      "discoveredText": "ghetto idle¹·¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ghettoidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip",
+      "name": "ghostbuster.zip",
+      "discoveredText": "ghost buster",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/GhostTool3.2.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/GhostTool3.2.zip",
+      "name": "GhostTool3.2.zip",
+      "discoveredText": "Ghost Tool 3.2",
+      "downloadUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/GhostTool3.2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/ghosttool62.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ghosttool62.zip",
+      "name": "ghosttool62.zip",
+      "discoveredText": "ghost tool 6.2",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ghosttool62.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/ghostly.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/ghostly.zip",
+      "name": "ghostly.zip",
+      "discoveredText": "ghostly x'er",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/ghostly.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/ginxidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ginxidler.zip",
+      "name": "ginxidler.zip",
+      "discoveredText": "ginx untamed idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ginxidler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/global.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/global.zip",
+      "name": "global.zip",
+      "discoveredText": "global domination",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/global.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/globallinka.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/globallinka.zip",
+      "name": "globallinka.zip",
+      "discoveredText": "global linka v²·º",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/globallinka.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/glue3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/glue3.zip",
+      "name": "glue3.zip",
+      "discoveredText": "glue3 bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/glue3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/glum2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/glum2.zip",
+      "name": "glum2.zip",
+      "discoveredText": "glum²",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/glum2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gme1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gme1.zip",
+      "name": "gme1.zip",
+      "discoveredText": "gme¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gme1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gofetch.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gofetch.zip",
+      "name": "gofetch.zip",
+      "discoveredText": "go fetch",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gofetch.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gofetchremix.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gofetchremix.zip",
+      "name": "gofetchremix.zip",
+      "discoveredText": "go fetch remix",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gofetchremix.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/god1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/god1.zip",
+      "name": "god1.zip",
+      "discoveredText": "god punta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/god1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/godzilla.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/godzilla.zip",
+      "name": "godzilla.zip",
+      "discoveredText": "godzilla",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/godzilla.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/goldmm.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/goldmm.zip",
+      "name": "goldmm.zip",
+      "discoveredText": "gold mmer",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/goldmm.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/goldencloak.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/goldencloak.zip",
+      "name": "goldencloak.zip",
+      "discoveredText": "golden cloak 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/goldencloak.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/golden.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip",
+      "name": "golden.zip",
+      "discoveredText": "golden xer",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/goodkrymes.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/goodkrymes.zip",
+      "name": "goodkrymes.zip",
+      "discoveredText": "good krymes",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/goodkrymes.zip",
+      "localPath": "files/external/lenshellarchive-com/goodkrymes-acf85812.zip",
+      "status": "ready",
+      "size": 124906,
+      "sha1": "0b0237aff21de98b62ac048d4619c7a0af75802d"
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/googlechat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/googlechat.zip",
+      "name": "googlechat.zip",
+      "discoveredText": "google chat",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/googlechat.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/goozies.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/goozies.zip",
+      "name": "goozies.zip",
+      "discoveredText": "goozies lil server [final]",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/goozies.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/gotboot.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/gotboot.zip",
+      "name": "gotboot.zip",
+      "discoveredText": "got boot",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/gotboot.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/gotareset.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/gotareset.zip",
+      "name": "gotareset.zip",
+      "discoveredText": "gotareset",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/gotareset.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gotcha.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gotcha.zip",
+      "name": "gotcha.zip",
+      "discoveredText": "gotcha",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gotcha.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gn.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip",
+      "name": "gn.zip",
+      "discoveredText": "gothic nightmares",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip",
+      "name": "gotochatv1.zip",
+      "discoveredText": "gotochat version 1",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/gpf.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/gpf.zip",
+      "name": "gpf.zip",
+      "discoveredText": "gpf punter 5.21",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/gpf.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: APPLICATIONS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/apps.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/grabit_pro.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip",
+      "name": "grabit_pro.zip",
+      "discoveredText": "Grab It Pro",
+      "downloadUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/grabit.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip",
+      "name": "grabit.zip",
+      "discoveredText": "grabit ip grabber",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/grabit_pro.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip",
+      "name": "grabit_pro.zip",
+      "discoveredText": "grabit_pro.zip",
+      "downloadUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/grafik.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grafik.zip",
+      "name": "grafik.zip",
+      "discoveredText": "grafik horrors",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grafik.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/grafix.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/grafix.zip",
+      "name": "grafix.zip",
+      "discoveredText": "grafix mail punter",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/grafix.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/grainofkokane.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/grainofkokane.zip",
+      "name": "grainofkokane.zip",
+      "discoveredText": "grain of kokane",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/grainofkokane.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/grserv.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/grserv.zip",
+      "name": "grserv.zip",
+      "discoveredText": "grand royal server",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/grserv.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gravity1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gravity1.zip",
+      "name": "gravity1.zip",
+      "discoveredText": "gravity",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gravity1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gravity2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gravity2.zip",
+      "name": "gravity2.zip",
+      "discoveredText": "gravity 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gravity2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gravity.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gravity.zip",
+      "name": "gravity.zip",
+      "discoveredText": "gravity im ignorer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gravity.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/milenko.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/milenko.zip",
+      "name": "milenko.zip",
+      "discoveredText": "great milenko resetor",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/milenko.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gespam.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gespam.zip",
+      "name": "gespam.zip",
+      "discoveredText": "green eggs and spam",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gespam.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/greenjello.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/greenjello.zip",
+      "name": "greenjello.zip",
+      "discoveredText": "green jello macro killa",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/greenjello.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell runtime files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/files.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/grid.zip",
+      "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/grid.zip",
+      "name": "grid.zip",
+      "discoveredText": "grid.vbx",
+      "downloadUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/grid.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/gta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gta.zip",
+      "name": "gta.zip",
+      "discoveredText": "gta's nauti tools",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gta.zip",
+      "localPath": "files/external/lenshellarchive-com/gta-a4cff9ab.zip",
+      "status": "ready",
+      "size": 356936,
+      "sha1": "27d3479f98ceea9cfc54c3b6cfd5c72a7cbd4a9d"
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/guardian.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/guardian.zip",
+      "name": "guardian.zip",
+      "discoveredText": "guardian",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/guardian.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/gundampwc.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/gundampwc.zip",
+      "name": "gundampwc.zip",
+      "discoveredText": "gundam 2.0",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/gundampwc.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/gwapitoslapper.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/gwapitoslapper.zip",
+      "name": "gwapitoslapper.zip",
+      "discoveredText": "gwapito slapper",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/gwapitoslapper.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/h2olink.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/h2olink.zip",
+      "name": "h2olink.zip",
+      "discoveredText": "h2o linker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/h2olink.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/h2o.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/h2o.zip",
+      "name": "h2o.zip",
+      "discoveredText": "h2o toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/h2o.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hackerstoolz1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hackerstoolz1.zip",
+      "name": "hackerstoolz1.zip",
+      "discoveredText": "hackers toolz 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hackerstoolz1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip",
+      "name": "haggardtoolz.zip",
+      "discoveredText": "haggard toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/hty.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/hty.zip",
+      "name": "hty.zip",
+      "discoveredText": "haggard toolz | yahoo",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/hty.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hakkoripstealer.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hakkoripstealer.zip",
+      "name": "hakkoripstealer.zip",
+      "discoveredText": "hakkor ip stealer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hakkoripstealer.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/baked.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/baked.zip",
+      "name": "baked.zip",
+      "discoveredText": "half baked 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/baked.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/hallphader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/hallphader.zip",
+      "name": "hallphader.zip",
+      "discoveredText": "hallucinationz phader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/hallphader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/h3f.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/h3f.zip",
+      "name": "h3f.zip",
+      "discoveredText": "hallucinogenic 3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/h3f.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hammerspam.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hammerspam.zip",
+      "name": "hammerspam.zip",
+      "discoveredText": "hammer spammer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hammerspam.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/handicap.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/handicap.zip",
+      "name": "handicap.zip",
+      "discoveredText": "handicap idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/handicap.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/handicapd.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/handicapd.zip",
+      "name": "handicapd.zip",
+      "discoveredText": "handicapd - color spy",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/handicapd.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/namealert.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/namealert.zip",
+      "name": "namealert.zip",
+      "discoveredText": "handle greeting",
+      "downloadUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/namealert.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hardscrolled.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hardscrolled.zip",
+      "name": "hardscrolled.zip",
+      "discoveredText": "hard scrolledº.¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hardscrolled.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/hardcorehell.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/hardcorehell.zip",
+      "name": "hardcorehell.zip",
+      "discoveredText": "hardcore hell",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/hardcorehell.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hardware.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hardware.zip",
+      "name": "hardware.zip",
+      "discoveredText": "hardware tank v1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hardware.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/havocfader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/havocfader.zip",
+      "name": "havocfader.zip",
+      "discoveredText": "havoc fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/havocfader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/havok.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip",
+      "name": "havok.zip",
+      "discoveredText": "havok",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/hax2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/hax2.zip",
+      "name": "hax2.zip",
+      "discoveredText": "hax cracks 2",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/hax2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/hax3.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/hax3.zip",
+      "name": "hax3.zip",
+      "discoveredText": "hax cracks 3",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/hax3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/haxorv302.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/haxorv302.zip",
+      "name": "haxorv302.zip",
+      "discoveredText": "hax0r v3.0.2",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/haxorv302.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hazy.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hazy.zip",
+      "name": "hazy.zip",
+      "discoveredText": "hazy's auto up chater",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hazy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/heartattack.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/heartattack.zip",
+      "name": "heartattack.zip",
+      "discoveredText": "heartattack crack",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/heartattack.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/heatspam.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/heatspam.zip",
+      "name": "heatspam.zip",
+      "discoveredText": "heat spammer ²·º",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/heatspam.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip",
+      "name": "heavymetal.zip",
+      "discoveredText": "heavy metal scroller v3.0",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/heavymetal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hwf.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hwf.zip",
+      "name": "hwf.zip",
+      "discoveredText": "heavy water final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hwf.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/hellbooterv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/hellbooterv1.zip",
+      "name": "hellbooterv1.zip",
+      "discoveredText": "hell booter v1",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/hellbooterv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hellonearth.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellonearth.zip",
+      "name": "hellonearth.zip",
+      "discoveredText": "hell on earth",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellonearth.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/hellpunter.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/hellpunter.zip",
+      "name": "hellpunter.zip",
+      "discoveredText": "hell punter",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/hellpunter.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/hellpuntp077.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/hellpuntp077.zip",
+      "name": "hellpuntp077.zip",
+      "discoveredText": "hell punter: project p077",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/hellpuntp077.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hellspitz12.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellspitz12.zip",
+      "name": "hellspitz12.zip",
+      "discoveredText": "hell spitz 1.2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellspitz12.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hellspitz13.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hellspitz13.zip",
+      "name": "hellspitz13.zip",
+      "discoveredText": "hell spitz 1.3[final]",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hellspitz13.zip",
+      "localPath": "files/external/lenshellarchive-com/hellspitz13-0a068f36.zip",
+      "status": "ready",
+      "size": 295003,
+      "sha1": "a9be0089ff3eda804ad5cf445e73ce4aa89e2460"
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hellsrev.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellsrev.zip",
+      "name": "hellsrev.zip",
+      "discoveredText": "hell's revenge beta 2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellsrev.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hellr30.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellr30.zip",
+      "name": "hellr30.zip",
+      "discoveredText": "hellraiser 3.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellr30.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hellrais.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellrais.zip",
+      "name": "hellrais.zip",
+      "discoveredText": "hellraiser final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellrais.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hellsaudio.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hellsaudio.zip",
+      "name": "hellsaudio.zip",
+      "discoveredText": "hells audio",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hellsaudio.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wasteland.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/wasteland.zip",
+      "name": "wasteland.zip",
+      "discoveredText": "hells wasteland",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/wasteland.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/hexen2bas.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hexen2bas.zip",
+      "name": "hexen2bas.zip",
+      "discoveredText": "hexen 2 bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hexen2bas.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/waidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/waidler.zip",
+      "name": "waidler.zip",
+      "discoveredText": "hexen's win32asm idler example",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/waidler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/hf2k2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/hf2k2.zip",
+      "name": "hf2k2.zip",
+      "discoveredText": "hf2k2",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/hf2k2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip",
+      "name": "hit3chidler.zip",
+      "discoveredText": "hi t3ch idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hider.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip",
+      "name": "hider.zip",
+      "discoveredText": "hider",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/hiderfnl.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip",
+      "name": "hiderfnl.zip",
+      "discoveredText": "hiderfinal bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/highdice.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/highdice.zip",
+      "name": "highdice.zip",
+      "discoveredText": "high dice 1.o",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/highdice.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hightimesv5.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hightimesv5.zip",
+      "name": "hightimesv5.zip",
+      "discoveredText": "high times v 5.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hightimesv5.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/highway.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/highway.zip",
+      "name": "highway.zip",
+      "discoveredText": "highway to prison",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/highway.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/hitman2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/hitman2.zip",
+      "name": "hitman2.zip",
+      "discoveredText": "hit-man2",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/hitman2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hiv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hiv1.zip",
+      "name": "hiv1.zip",
+      "discoveredText": "hiv toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hiv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/hiwind2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiwind2.zip",
+      "name": "hiwind2.zip",
+      "discoveredText": "hiwind2 bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiwind2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/hixaim2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hixaim2.zip",
+      "name": "hixaim2.zip",
+      "discoveredText": "hixaim2 bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hixaim2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hobo102.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hobo102.zip",
+      "name": "hobo102.zip",
+      "discoveredText": "hobo collector v1.02",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hobo102.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/hoboidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/hoboidle.zip",
+      "name": "hoboidle.zip",
+      "discoveredText": "hobo idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/hoboidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/holy.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/holy.zip",
+      "name": "holy.zip",
+      "discoveredText": "holy fucking shit termer 3.2",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/holy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/homertoolzv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/homertoolzv1.zip",
+      "name": "homertoolzv1.zip",
+      "discoveredText": "homer toolz v1.0",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/homertoolzv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/homobugger.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/homobugger.zip",
+      "name": "homobugger.zip",
+      "discoveredText": "homo bugger",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/homobugger.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hoochylinker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hoochylinker.zip",
+      "name": "hoochylinker.zip",
+      "discoveredText": "hoochy linker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hoochylinker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/hoodlum.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/hoodlum.zip",
+      "name": "hoodlum.zip",
+      "discoveredText": "hoodlum x'er",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/hoodlum.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip",
+      "name": "hook5beta.zip",
+      "discoveredText": "hookshot roombuster 5.0 beta 1",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip",
+      "name": "hookbustbeta.zip",
+      "discoveredText": "hookshot roombuster v3.0 beta",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip",
+      "name": "hookfinal.zip",
+      "discoveredText": "hookshot roombuster v3.0 final",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip",
+      "name": "hookbust31.zip",
+      "discoveredText": "hookshot roombuster v3.1 beta",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip",
+      "name": "hookbust4.zip",
+      "discoveredText": "hookshot roombuster v4.0 beta",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip",
+      "name": "hookbust42.zip",
+      "discoveredText": "hookshot roombuster v4.0 beta 2",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip",
+      "name": "hookbust43.zip",
+      "discoveredText": "hookshot roombuster v4.0 beta 3",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/horrificscroll.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/horrificscroll.zip",
+      "name": "horrificscroll.zip",
+      "discoveredText": "horrific scroll",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/horrificscroll.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/horrific11.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/horrific11.zip",
+      "name": "horrific11.zip",
+      "discoveredText": "horrific scroll ¹·¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/horrific11.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/horrificscroll2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/horrificscroll2.zip",
+      "name": "horrificscroll2.zip",
+      "discoveredText": "horrific scroll ²",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/horrificscroll2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tagitup.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/tagitup.zip",
+      "name": "tagitup.zip",
+      "discoveredText": "hostil's tag-it-up",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/tagitup.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/faders/hotprogzfader.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/hotprogzfader.zip",
+      "name": "hotprogzfader.zip",
+      "discoveredText": "hot progz aim fader",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/hotprogzfader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/htmledit.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/htmledit.zip",
+      "name": "htmledit.zip",
+      "discoveredText": "html editor",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/htmledit.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/htmlfade.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/htmlfade.zip",
+      "name": "htmlfade.zip",
+      "discoveredText": "html fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/htmlfade.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: APPLICATIONS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/apps.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/fader.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/fader.zip",
+      "name": "fader.zip",
+      "discoveredText": "Html Fader",
+      "downloadUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/fader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/htmlgrabber.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/htmlgrabber.zip",
+      "name": "htmlgrabber.zip",
+      "discoveredText": "html grabber",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/htmlgrabber.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/htmlthief.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/htmlthief.zip",
+      "name": "htmlthief.zip",
+      "discoveredText": "html source thief",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/htmlthief.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/.zip",
+      "name": ".zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/2kfader.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/2kfader.zip",
+      "name": "2kfader.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/2kfader.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/2kfader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/adidastoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/adidastoolz.zip",
+      "name": "adidastoolz.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/adidastoolz.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/adidastoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Oogle AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/aim187.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/aim187.zip",
+      "name": "aim187.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/aim187.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/aim187.zip",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2518
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/audiostyle.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/audiostyle.zip",
+      "name": "audiostyle.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/audiostyle.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/audiostyle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/blindidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip",
+      "name": "blindidle.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/blindidle.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blindidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/blizacoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blizacoms.zip",
+      "name": "blizacoms.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/blizacoms.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/blizacoms.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/brain.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/brain.zip",
+      "name": "brain.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/brain.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/brain.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/braindamagev22.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/braindamagev22.zip",
+      "name": "braindamagev22.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/braindamagev22.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/braindamagev22.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Oogle AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/byrdtoolz45.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/byrdtoolz45.zip",
+      "name": "byrdtoolz45.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/byrdtoolz45.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/byrdtoolz45.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/cafe.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/cafe.zip",
+      "name": "cafe.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/cafe.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/cafe.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/chatcom2.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chatcom2.zip",
+      "name": "chatcom2.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/chatcom2.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chatcom2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/chatfix.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chatfix.zip",
+      "name": "chatfix.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/chatfix.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chatfix.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/chattoolz2.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip",
+      "name": "chattoolz2.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/chattoolz2.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/co2coms.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/co2coms.zip",
+      "name": "co2coms.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/co2coms.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/co2coms.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Oogle AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/demolishingaim20.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/demolishingaim20.zip",
+      "name": "demolishingaim20.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/demolishingaim20.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/demolishingaim20.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/dertytoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dertytoolz.zip",
+      "name": "dertytoolz.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/dertytoolz.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dertytoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/devastation.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/devastation.zip",
+      "name": "devastation.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/devastation.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/devastation.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/dimorphic.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dimorphic.zip",
+      "name": "dimorphic.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/dimorphic.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dimorphic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/dreamcatcher.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dreamcatcher.zip",
+      "name": "dreamcatcher.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/dreamcatcher.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dreamcatcher.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/earthsiege2.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/earthsiege2.zip",
+      "name": "earthsiege2.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/earthsiege2.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/earthsiege2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/enervate.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/enervate.zip",
+      "name": "enervate.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/enervate.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/enervate.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/eod2.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/eod2.zip",
+      "name": "eod2.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/eod2.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/eod2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/eyeofrahv15.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/eyeofrahv15.zip",
+      "name": "eyeofrahv15.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/eyeofrahv15.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/eyeofrahv15.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-7.0-revision-4114.540-32-bit",
+      "originalUrl": "https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe",
+      "waybackUrl": "https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe",
+      "downloadUrl": "https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe",
+      "name": "Setup.exe",
+      "discoveredText": "AOL 7.0 - AOL 7.0 (Revision 4114.540 32-Bit) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-7.0-revision-4114.540-32-bit",
+      "archiveOrgTitle": "AOL 7.0 (Revision 4114.540 32-Bit)",
+      "archiveOrgPage": "https://archive.org/details/aol-7.0-revision-4114.540-32-bit",
+      "expectedSha1": "82a40d39e11a43dd182e4a0dd19e7abdab978121",
+      "localPath": "files/external/archive-org/setup-18e227a8.exe",
+      "status": "ready",
+      "size": 41027232,
+      "sha1": "82a40d39e11a43dd182e4a0dd19e7abdab978121"
+    },
+    {
+      "sourceList": "Archive.org: AOL browser/utility",
+      "sourceListUrl": "https://archive.org/details/aoldnld-1-5",
+      "originalUrl": "https://archive.org/download/aoldnld-1-5/AOLDNLD_1_5.exe",
+      "waybackUrl": "https://archive.org/download/aoldnld-1-5/AOLDNLD_1_5.exe",
+      "downloadUrl": "https://archive.org/download/aoldnld-1-5/AOLDNLD_1_5.exe",
+      "name": "AOLDNLD_1_5.exe",
+      "discoveredText": "AOL Explorer 1.5 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aoldnld-1-5",
+      "archiveOrgTitle": "AOL Explorer 1.5",
+      "archiveOrgPage": "https://archive.org/details/aoldnld-1-5",
+      "expectedSha1": "7b8d23808d539893f0ded74dfedc0989c7cfe8b4",
+      "localPath": "files/external/archive-org/aoldnld-1-5-dce60764.exe",
+      "status": "ready",
+      "size": 407904,
+      "sha1": "7b8d23808d539893f0ded74dfedc0989c7cfe8b4"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aolprogramdisc2.6",
+      "originalUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.ima",
+      "waybackUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.ima",
+      "downloadUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.ima",
+      "name": "AOL PROGRAM DISC 2.6.ima",
+      "discoveredText": "AOL PROGRAM DISC 2.6 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aolprogramdisc2.6",
+      "archiveOrgTitle": "AOL PROGRAM DISC 2.6",
+      "archiveOrgPage": "https://archive.org/details/aolprogramdisc2.6",
+      "expectedSha1": "db361d4a486f233d05756297acc1821094a5e592",
+      "localPath": "files/external/archive-org/aol20program20disc202-6-0b19e140.ima",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "db361d4a486f233d05756297acc1821094a5e592"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aolprogramdisc2.6",
+      "originalUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.zip",
+      "waybackUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.zip",
+      "downloadUrl": "https://archive.org/download/aolprogramdisc2.6/AOL%20PROGRAM%20DISC%202.6.zip",
+      "name": "AOL PROGRAM DISC 2.6.zip",
+      "discoveredText": "AOL PROGRAM DISC 2.6 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aolprogramdisc2.6",
+      "archiveOrgTitle": "AOL PROGRAM DISC 2.6",
+      "archiveOrgPage": "https://archive.org/details/aolprogramdisc2.6",
+      "expectedSha1": "ee93b6c65ed120bb1b74a51895830961178f0f58",
+      "localPath": "files/external/archive-org/aol20program20disc202-6-364b5982.zip",
+      "status": "ready",
+      "size": 1376001,
+      "sha1": "ee93b6c65ed120bb1b74a51895830961178f0f58"
+    },
+    {
+      "sourceList": "Archive.org: DeadAIM / AIM enhancer",
+      "sourceListUrl": "https://archive.org/details/deadaim",
+      "originalUrl": "https://archive.org/download/deadaim/DeadAIM.rar",
+      "waybackUrl": "https://archive.org/download/deadaim/DeadAIM.rar",
+      "downloadUrl": "https://archive.org/download/deadaim/DeadAIM.rar",
+      "name": "DeadAIM.rar",
+      "discoveredText": "DeadAIM for AOL Instant Messenger - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "deadaim",
+      "archiveOrgTitle": "DeadAIM for AOL Instant Messenger",
+      "archiveOrgPage": "https://archive.org/details/deadaim",
+      "expectedSha1": "970656e11340419224134b8b782e606fd9465a76",
+      "localPath": "files/external/archive-org/deadaim-e8bf5d21.rar",
+      "status": "ready",
+      "size": 429948,
+      "sha1": "970656e11340419224134b8b782e606fd9465a76"
+    },
+    {
+      "sourceList": "Archive.org: AOL Desktop Gold",
+      "sourceListUrl": "https://archive.org/details/install-aol-desktop",
+      "originalUrl": "https://archive.org/download/install-aol-desktop/Install_AOL_Desktop.exe",
+      "waybackUrl": "https://archive.org/download/install-aol-desktop/Install_AOL_Desktop.exe",
+      "downloadUrl": "https://archive.org/download/install-aol-desktop/Install_AOL_Desktop.exe",
+      "name": "Install_AOL_Desktop.exe",
+      "discoveredText": "AOL Desktop Gold - AOL Desktop Gold - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "install-aol-desktop",
+      "archiveOrgTitle": "AOL Desktop Gold",
+      "archiveOrgPage": "https://archive.org/details/install-aol-desktop",
+      "expectedSha1": "09e117a09e2cac202df0d40773e051f5e38fc5b7",
+      "localPath": "files/external/archive-org/install-aol-desktop-21154404.exe",
+      "status": "ready",
+      "size": 2591000,
+      "sha1": "09e117a09e2cac202df0d40773e051f5e38fc5b7"
+    },
+    {
+      "sourceList": "Archive.org: Winamp skin",
+      "sourceListUrl": "https://archive.org/details/winampskin_The_AOL_Music_Player",
+      "originalUrl": "https://archive.org/download/winampskin_The_AOL_Music_Player/The_AOL_Music_Player.wsz",
+      "waybackUrl": "https://archive.org/download/winampskin_The_AOL_Music_Player/The_AOL_Music_Player.wsz",
+      "downloadUrl": "https://archive.org/download/winampskin_The_AOL_Music_Player/The_AOL_Music_Player.wsz",
+      "name": "The_AOL_Music_Player.wsz",
+      "discoveredText": "Winamp Skin: The_AOL_Music_Player - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "winampskin_The_AOL_Music_Player",
+      "archiveOrgTitle": "Winamp Skin: The_AOL_Music_Player",
+      "archiveOrgPage": "https://archive.org/details/winampskin_The_AOL_Music_Player",
+      "expectedSha1": "f49971ac753bd86e85e966aa132698db41565a35",
+      "localPath": "files/external/archive-org/the-aol-music-player-67eb1eeb.wsz",
+      "status": "ready",
+      "size": 24261,
+      "sha1": "f49971ac753bd86e85e966aa132698db41565a35"
+    },
+    {
+      "sourceList": "Archive.org: AOL browser/utility",
+      "sourceListUrl": "https://archive.org/details/20220529-151140",
+      "originalUrl": "https://archive.org/download/20220529-151140/20220529_151140.iso",
+      "waybackUrl": "https://archive.org/download/20220529-151140/20220529_151140.iso",
+      "downloadUrl": "https://archive.org/download/20220529-151140/20220529_151140.iso",
+      "name": "20220529_151140.iso",
+      "discoveredText": "AOL explorer - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "20220529-151140",
+      "archiveOrgTitle": "AOL explorer",
+      "archiveOrgPage": "https://archive.org/details/20220529-151140",
+      "expectedSha1": "7a8d0b669445e9cf47b0e7f006a1af7ff043ba26",
+      "localPath": "files/external/archive-org/20220529-151140-6e0a8dc6.iso",
+      "status": "ready",
+      "size": 778240,
+      "sha1": "7a8d0b669445e9cf47b0e7f006a1af7ff043ba26"
+    },
+    {
+      "sourceList": "Archive.org: AIM client",
+      "sourceListUrl": "https://archive.org/details/aim5.0",
+      "originalUrl": "https://archive.org/download/aim5.0/aim5.0.iso",
+      "waybackUrl": "https://archive.org/download/aim5.0/aim5.0.iso",
+      "downloadUrl": "https://archive.org/download/aim5.0/aim5.0.iso",
+      "name": "aim5.0.iso",
+      "discoveredText": "AIM 5.0 - AIM Messenger 5.0 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aim5.0",
+      "archiveOrgTitle": "AIM Messenger 5.0",
+      "archiveOrgPage": "https://archive.org/details/aim5.0",
+      "expectedSha1": "68d6f9bbd7ec14b68a72cba59eee26366f8e5e26",
+      "localPath": "files/external/archive-org/aim5-0-4811e16c.iso",
+      "status": "ready",
+      "size": 2557952,
+      "sha1": "68d6f9bbd7ec14b68a72cba59eee26366f8e5e26"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/AOLFORDOSANDWINDOWS",
+      "originalUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20ms-dos.img",
+      "waybackUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20ms-dos.img",
+      "downloadUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20ms-dos.img",
+      "name": "America online For ms-dos.img",
+      "discoveredText": "AOL FOR WINDOWS AND DOS - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "AOLFORDOSANDWINDOWS",
+      "archiveOrgTitle": "AOL FOR WINDOWS AND DOS",
+      "archiveOrgPage": "https://archive.org/details/AOLFORDOSANDWINDOWS",
+      "expectedSha1": "c778c837cb5fd35cbf6f8034e7db8119cffefffd",
+      "localPath": "files/external/archive-org/america20online20for20ms-dos-40f21d0f.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "c778c837cb5fd35cbf6f8034e7db8119cffefffd"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/AOLFORDOSANDWINDOWS",
+      "originalUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20windows%203.0%20or%20later.img",
+      "waybackUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20windows%203.0%20or%20later.img",
+      "downloadUrl": "https://archive.org/download/AOLFORDOSANDWINDOWS/America%20online%20For%20windows%203.0%20or%20later.img",
+      "name": "America online For windows 3.0 or later.img",
+      "discoveredText": "AOL FOR WINDOWS AND DOS - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "AOLFORDOSANDWINDOWS",
+      "archiveOrgTitle": "AOL FOR WINDOWS AND DOS",
+      "archiveOrgPage": "https://archive.org/details/AOLFORDOSANDWINDOWS",
+      "expectedSha1": "20a6dfc484522eb0dbd58495ffefe42a094bd85e",
+      "localPath": "files/external/archive-org/america20online20for20windows203-020or20later-8c1e3282.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "20a6dfc484522eb0dbd58495ffefe42a094bd85e"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol_1.5_for_dos",
+      "originalUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.img",
+      "waybackUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.img",
+      "downloadUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.img",
+      "name": "aol_1.5_for_dos.img",
+      "discoveredText": "AOL 1.5 - AOL 1.5 for DOS / Geoworks - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol_1.5_for_dos",
+      "archiveOrgTitle": "AOL 1.5 for DOS / Geoworks",
+      "archiveOrgPage": "https://archive.org/details/aol_1.5_for_dos",
+      "expectedSha1": "560dfa1b76b15a6f365ef189b31285f04d7842df",
+      "localPath": "files/external/archive-org/aol-1-5-for-dos-d30ac1f1.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "560dfa1b76b15a6f365ef189b31285f04d7842df"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol_1.5_for_dos",
+      "originalUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.zip",
+      "waybackUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.zip",
+      "downloadUrl": "https://archive.org/download/aol_1.5_for_dos/aol_1.5_for_dos.zip",
+      "name": "aol_1.5_for_dos.zip",
+      "discoveredText": "AOL 1.5 - AOL 1.5 for DOS / Geoworks - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol_1.5_for_dos",
+      "archiveOrgTitle": "AOL 1.5 for DOS / Geoworks",
+      "archiveOrgPage": "https://archive.org/details/aol_1.5_for_dos",
+      "expectedSha1": "6625043168665be883c33b6a84dd44e91b7ede0d",
+      "localPath": "files/external/archive-org/aol-1-5-for-dos-fc6982d4.zip",
+      "status": "ready",
+      "size": 908388,
+      "sha1": "6625043168665be883c33b6a84dd44e91b7ede0d"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol25",
+      "originalUrl": "https://archive.org/download/aol25/aol25.img",
+      "waybackUrl": "https://archive.org/download/aol25/aol25.img",
+      "downloadUrl": "https://archive.org/download/aol25/aol25.img",
+      "name": "aol25.img",
+      "discoveredText": "AOL 2.5 - America Online 2.5 for Windows disk - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol25",
+      "archiveOrgTitle": "America Online 2.5 for Windows disk",
+      "archiveOrgPage": "https://archive.org/details/aol25",
+      "expectedSha1": "74a00eabac156c0117f0f12cdc1e5799b882c996",
+      "localPath": "files/external/archive-org/aol25-66eea066.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "74a00eabac156c0117f0f12cdc1e5799b882c996"
+    },
+    {
+      "sourceList": "Archive.org: AIM client",
+      "sourceListUrl": "https://archive.org/details/aol-instant-messenger-2",
+      "originalUrl": "https://archive.org/download/aol-instant-messenger-2/AOL%20Instant%20Messenger%202.exe",
+      "waybackUrl": "https://archive.org/download/aol-instant-messenger-2/AOL%20Instant%20Messenger%202.exe",
+      "downloadUrl": "https://archive.org/download/aol-instant-messenger-2/AOL%20Instant%20Messenger%202.exe",
+      "name": "AOL Instant Messenger 2.exe",
+      "discoveredText": "AIM 2 - AOL Instant Messenger 2 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-instant-messenger-2",
+      "archiveOrgTitle": "AOL Instant Messenger 2",
+      "archiveOrgPage": "https://archive.org/details/aol-instant-messenger-2",
+      "expectedSha1": "cabe9a7af13bedb6b0ba28ac7346de2ee7e08735",
+      "localPath": "files/external/archive-org/aol20instant20messenger202-de274db0.exe",
+      "status": "ready",
+      "size": 1552022,
+      "sha1": "cabe9a7af13bedb6b0ba28ac7346de2ee7e08735"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol_2.0",
+      "originalUrl": "https://archive.org/download/aol_2.0/aol_2.0.zip",
+      "waybackUrl": "https://archive.org/download/aol_2.0/aol_2.0.zip",
+      "downloadUrl": "https://archive.org/download/aol_2.0/aol_2.0.zip",
+      "name": "aol_2.0.zip",
+      "discoveredText": "AOL 2.0 - AOL - America Online For Windows Version 2.0 floppy - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol_2.0",
+      "archiveOrgTitle": "AOL - America Online For Windows Version 2.0 floppy",
+      "archiveOrgPage": "https://archive.org/details/aol_2.0",
+      "expectedSha1": "a2c2d99bd6e7d47ed7ab9cc37793ff29b3455bc1",
+      "localPath": "files/external/archive-org/aol-2-0-dacd5d30.zip",
+      "status": "ready",
+      "size": 1270484,
+      "sha1": "a2c2d99bd6e7d47ed7ab9cc37793ff29b3455bc1"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-20",
+      "originalUrl": "https://archive.org/download/aol-20/AOL20.IMA",
+      "waybackUrl": "https://archive.org/download/aol-20/AOL20.IMA",
+      "downloadUrl": "https://archive.org/download/aol-20/AOL20.IMA",
+      "name": "AOL20.IMA",
+      "discoveredText": "AOL 2.0 - America Online 2.0 for Windows - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-20",
+      "archiveOrgTitle": "America Online 2.0 for Windows",
+      "archiveOrgPage": "https://archive.org/details/aol-20",
+      "expectedSha1": "9b595839ad1a3f808d82d7c06b1d96342f4eef00",
+      "localPath": "files/external/archive-org/aol20-ac265163.ima",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "9b595839ad1a3f808d82d7c06b1d96342f4eef00"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-20",
+      "originalUrl": "https://archive.org/download/aol-20/AOL20.ZIP",
+      "waybackUrl": "https://archive.org/download/aol-20/AOL20.ZIP",
+      "downloadUrl": "https://archive.org/download/aol-20/AOL20.ZIP",
+      "name": "AOL20.ZIP",
+      "discoveredText": "AOL 2.0 - America Online 2.0 for Windows - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-20",
+      "archiveOrgTitle": "America Online 2.0 for Windows",
+      "archiveOrgPage": "https://archive.org/details/aol-20",
+      "expectedSha1": "4ce452084d011796a7d4f9366e4a92a07cda2213",
+      "localPath": "files/external/archive-org/aol20-b81863db.zip",
+      "status": "ready",
+      "size": 1345420,
+      "sha1": "4ce452084d011796a7d4f9366e4a92a07cda2213"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh",
+      "originalUrl": "https://archive.org/download/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh.iso",
+      "waybackUrl": "https://archive.org/download/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh.iso",
+      "downloadUrl": "https://archive.org/download/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh.iso",
+      "name": "AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh.iso",
+      "discoveredText": "AOL 1995 - AOL 1995 00001115 WINDOWS V25 For Windows and Macintosh.iso - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh",
+      "archiveOrgTitle": "AOL 1995 00001115 WINDOWS V25 For Windows and Macintosh.iso",
+      "archiveOrgPage": "https://archive.org/details/AOL_1995_00001115_WINDOWS_V25_For_Windows_and_Macintosh",
+      "expectedSha1": "054455280d70b496073f9b52c0bb42f7baf0b42d",
+      "localPath": "files/external/archive-org/aol-1995-00001115-windows-v25-for-windows-and-macintosh-ae37aad8.iso",
+      "status": "ready",
+      "size": 8007680,
+      "sha1": "054455280d70b496073f9b52c0bb42f7baf0b42d"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol250g",
+      "originalUrl": "https://archive.org/download/aol250g/AOL%202.5.img",
+      "waybackUrl": "https://archive.org/download/aol250g/AOL%202.5.img",
+      "downloadUrl": "https://archive.org/download/aol250g/AOL%202.5.img",
+      "name": "AOL 2.5.img",
+      "discoveredText": "AOL 2.5 - AOL - America Online For Windows Version 2.5 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol250g",
+      "archiveOrgTitle": "AOL - America Online For Windows Version 2.5",
+      "archiveOrgPage": "https://archive.org/details/aol250g",
+      "expectedSha1": "c1c358b3d1e0ff7f220609c3effb2dd39bf9c717",
+      "localPath": "files/external/archive-org/aol202-5-754d804a.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "c1c358b3d1e0ff7f220609c3effb2dd39bf9c717"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/disc-image-aol-2.5i-german",
+      "originalUrl": "https://archive.org/download/disc-image-aol-2.5i-german/AOL%202.5I%20(German).iso",
+      "waybackUrl": "https://archive.org/download/disc-image-aol-2.5i-german/AOL%202.5I%20(German).iso",
+      "downloadUrl": "https://archive.org/download/disc-image-aol-2.5i-german/AOL%202.5I%20(German).iso",
+      "name": "AOL 2.5I (German).iso",
+      "discoveredText": "AOL 2.5 - Disc Image | AOL 2.5I (German) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "disc-image-aol-2.5i-german",
+      "archiveOrgTitle": "Disc Image | AOL 2.5I (German)",
+      "archiveOrgPage": "https://archive.org/details/disc-image-aol-2.5i-german",
+      "expectedSha1": "17633da4897a8397f4ce8f60c0f81800cb6ea7e3",
+      "localPath": "files/external/archive-org/aol202-5i20german-8033b8f4.iso",
+      "status": "ready",
+      "size": 2033664,
+      "sha1": "17633da4897a8397f4ce8f60c0f81800cb6ea7e3"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol25_199506",
+      "originalUrl": "https://archive.org/download/aol25_199506/AOL25.IMA",
+      "waybackUrl": "https://archive.org/download/aol25_199506/AOL25.IMA",
+      "downloadUrl": "https://archive.org/download/aol25_199506/AOL25.IMA",
+      "name": "AOL25.IMA",
+      "discoveredText": "AOL 2.5 - America Online Version 2.5 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol25_199506",
+      "archiveOrgTitle": "America Online Version 2.5",
+      "archiveOrgPage": "https://archive.org/details/aol25_199506",
+      "expectedSha1": "c1c358b3d1e0ff7f220609c3effb2dd39bf9c717",
+      "localPath": "files/external/archive-org/aol25-26096065.ima",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "c1c358b3d1e0ff7f220609c3effb2dd39bf9c717"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol25_199506",
+      "originalUrl": "https://archive.org/download/aol25_199506/AOL25.ZIP",
+      "waybackUrl": "https://archive.org/download/aol25_199506/AOL25.ZIP",
+      "downloadUrl": "https://archive.org/download/aol25_199506/AOL25.ZIP",
+      "name": "AOL25.ZIP",
+      "discoveredText": "AOL 2.5 - America Online Version 2.5 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol25_199506",
+      "archiveOrgTitle": "America Online Version 2.5",
+      "archiveOrgPage": "https://archive.org/details/aol25_199506",
+      "expectedSha1": "e020fb4806abef928361de11466804db5844661b",
+      "localPath": "files/external/archive-org/aol25-ed90d8ba.zip",
+      "status": "ready",
+      "size": 1370194,
+      "sha1": "e020fb4806abef928361de11466804db5844661b"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-16-bit-setup",
+      "originalUrl": "https://archive.org/download/aol-16-bit-setup/AOL%2016%20BIT%20SETUP.EXE",
+      "waybackUrl": "https://archive.org/download/aol-16-bit-setup/AOL%2016%20BIT%20SETUP.EXE",
+      "downloadUrl": "https://archive.org/download/aol-16-bit-setup/AOL%2016%20BIT%20SETUP.EXE",
+      "name": "AOL 16 BIT SETUP.EXE",
+      "discoveredText": "AOL 3.0 - AOL 3.0 installer 16bit v3.0.0.38 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-16-bit-setup",
+      "archiveOrgTitle": "AOL 3.0 installer 16bit v3.0.0.38",
+      "archiveOrgPage": "https://archive.org/details/aol-16-bit-setup",
+      "expectedSha1": "124057edc404adbdecf3a428289e264a43f26f09",
+      "localPath": "files/external/archive-org/aol201620bit20setup-05b87a9a.exe",
+      "status": "ready",
+      "size": 1455027,
+      "sha1": "124057edc404adbdecf3a428289e264a43f26f09"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol_setup_disk",
+      "originalUrl": "https://archive.org/download/aol_setup_disk/AOL%20Setup%20Disk.img",
+      "waybackUrl": "https://archive.org/download/aol_setup_disk/AOL%20Setup%20Disk.img",
+      "downloadUrl": "https://archive.org/download/aol_setup_disk/AOL%20Setup%20Disk.img",
+      "name": "AOL Setup Disk.img",
+      "discoveredText": "AOL 2.5 - AOL 2.5I Setup Disk - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol_setup_disk",
+      "archiveOrgTitle": "AOL 2.5I Setup Disk",
+      "archiveOrgPage": "https://archive.org/details/aol_setup_disk",
+      "expectedSha1": "691b780ba7518399c39139ac595e61b24b3b9942",
+      "localPath": "files/external/archive-org/aol20setup20disk-6ba1df22.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "691b780ba7518399c39139ac595e61b24b3b9942"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/AmericaOnlineVersion30ForWindows1996",
+      "originalUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.img",
+      "waybackUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.img",
+      "downloadUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.img",
+      "name": "AmericaOnlineVersion30ForWindows1996.disk1of1.img",
+      "discoveredText": "AOL 3.0 - America Online Version 3.0 for Windows (1996) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "AmericaOnlineVersion30ForWindows1996",
+      "archiveOrgTitle": "America Online Version 3.0 for Windows (1996)",
+      "archiveOrgPage": "https://archive.org/details/AmericaOnlineVersion30ForWindows1996",
+      "expectedSha1": "3d2ef1dd4010a4bf29dc1fa661c0ccb1e39be558",
+      "localPath": "files/external/archive-org/americaonlineversion30forwindows1996-disk1of1-ff2208dd.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "3d2ef1dd4010a4bf29dc1fa661c0ccb1e39be558"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/AmericaOnlineVersion30ForWindows1996",
+      "originalUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.zip",
+      "waybackUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.zip",
+      "downloadUrl": "https://archive.org/download/AmericaOnlineVersion30ForWindows1996/AmericaOnlineVersion30ForWindows1996.disk1of1.zip",
+      "name": "AmericaOnlineVersion30ForWindows1996.disk1of1.zip",
+      "discoveredText": "AOL 3.0 - America Online Version 3.0 for Windows (1996) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "AmericaOnlineVersion30ForWindows1996",
+      "archiveOrgTitle": "America Online Version 3.0 for Windows (1996)",
+      "archiveOrgPage": "https://archive.org/details/AmericaOnlineVersion30ForWindows1996",
+      "expectedSha1": "7d17ecb6600fbd88768376b3f5ffbbd1547ce9c1",
+      "localPath": "files/external/archive-org/americaonlineversion30forwindows1996-disk1of1-d5282b28.zip",
+      "status": "ready",
+      "size": 1397512,
+      "sha1": "7d17ecb6600fbd88768376b3f5ffbbd1547ce9c1"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol30_1996-08",
+      "originalUrl": "https://archive.org/download/aol30_1996-08/AOL30.IMA",
+      "waybackUrl": "https://archive.org/download/aol30_1996-08/AOL30.IMA",
+      "downloadUrl": "https://archive.org/download/aol30_1996-08/AOL30.IMA",
+      "name": "AOL30.IMA",
+      "discoveredText": "AOL 3.0 - America Online Version 3.0 (August 1996) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol30_1996-08",
+      "archiveOrgTitle": "America Online Version 3.0 (August 1996)",
+      "archiveOrgPage": "https://archive.org/details/aol30_1996-08",
+      "expectedSha1": "3d2ef1dd4010a4bf29dc1fa661c0ccb1e39be558",
+      "localPath": "files/external/archive-org/aol30-f51209b9.ima",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "3d2ef1dd4010a4bf29dc1fa661c0ccb1e39be558"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol30_1996-08",
+      "originalUrl": "https://archive.org/download/aol30_1996-08/AOL30.ZIP",
+      "waybackUrl": "https://archive.org/download/aol30_1996-08/AOL30.ZIP",
+      "downloadUrl": "https://archive.org/download/aol30_1996-08/AOL30.ZIP",
+      "name": "AOL30.ZIP",
+      "discoveredText": "AOL 3.0 - America Online Version 3.0 (August 1996) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol30_1996-08",
+      "archiveOrgTitle": "America Online Version 3.0 (August 1996)",
+      "archiveOrgPage": "https://archive.org/details/aol30_1996-08",
+      "expectedSha1": "b2819e0d53352959c4c06c5d51466266cd1d1e2c",
+      "localPath": "files/external/archive-org/aol30-456098bb.zip",
+      "status": "ready",
+      "size": 1399046,
+      "sha1": "b2819e0d53352959c4c06c5d51466266cd1d1e2c"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-setup-32",
+      "originalUrl": "https://archive.org/download/aol-setup-32/SETUP32.EXE",
+      "waybackUrl": "https://archive.org/download/aol-setup-32/SETUP32.EXE",
+      "downloadUrl": "https://archive.org/download/aol-setup-32/SETUP32.EXE",
+      "name": "SETUP32.EXE",
+      "discoveredText": "AOL Setup32 EXE - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-setup-32",
+      "archiveOrgTitle": "AOL Setup32 EXE",
+      "archiveOrgPage": "https://archive.org/details/aol-setup-32",
+      "expectedSha1": "668400973e5326d65b6bfdbe5ab1887bb23d2b81",
+      "localPath": "files/external/archive-org/setup32-2b19b572.exe",
+      "status": "ready",
+      "size": 6729752,
+      "sha1": "668400973e5326d65b6bfdbe5ab1887bb23d2b81"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-v-3.0",
+      "originalUrl": "https://archive.org/download/aol-v-3.0/AOL%20v3.0.img",
+      "waybackUrl": "https://archive.org/download/aol-v-3.0/AOL%20v3.0.img",
+      "downloadUrl": "https://archive.org/download/aol-v-3.0/AOL%20v3.0.img",
+      "name": "AOL v3.0.img",
+      "discoveredText": "AOL 3.0 - AOL v3.0 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-v-3.0",
+      "archiveOrgTitle": "AOL v3.0",
+      "archiveOrgPage": "https://archive.org/details/aol-v-3.0",
+      "expectedSha1": "577926ad5d75dfa4fd03a3b559537a0ec15871de",
+      "localPath": "files/external/archive-org/aol20v3-0-ba6f556f.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "577926ad5d75dfa4fd03a3b559537a0ec15871de"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-30-german-floppy",
+      "originalUrl": "https://archive.org/download/aol-30-german-floppy/AOL30INSTALLGER.img",
+      "waybackUrl": "https://archive.org/download/aol-30-german-floppy/AOL30INSTALLGER.img",
+      "downloadUrl": "https://archive.org/download/aol-30-german-floppy/AOL30INSTALLGER.img",
+      "name": "AOL30INSTALLGER.img",
+      "discoveredText": "AOL 3.0 - AOL 3.0 ISDN/Install Floppy disk (German) (1996) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-30-german-floppy",
+      "archiveOrgTitle": "AOL 3.0 ISDN/Install Floppy disk (German) (1996)",
+      "archiveOrgPage": "https://archive.org/details/aol-30-german-floppy",
+      "expectedSha1": "84506e4b598358f629aa11d51dfa91fdf253515d",
+      "localPath": "files/external/archive-org/aol30installger-25341445.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "84506e4b598358f629aa11d51dfa91fdf253515d"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-30-german-floppy",
+      "originalUrl": "https://archive.org/download/aol-30-german-floppy/AOL30ISDNGER.img",
+      "waybackUrl": "https://archive.org/download/aol-30-german-floppy/AOL30ISDNGER.img",
+      "downloadUrl": "https://archive.org/download/aol-30-german-floppy/AOL30ISDNGER.img",
+      "name": "AOL30ISDNGER.img",
+      "discoveredText": "AOL 3.0 - AOL 3.0 ISDN/Install Floppy disk (German) (1996) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-30-german-floppy",
+      "archiveOrgTitle": "AOL 3.0 ISDN/Install Floppy disk (German) (1996)",
+      "archiveOrgPage": "https://archive.org/details/aol-30-german-floppy",
+      "expectedSha1": "6efea98428e562f7cf6129639224b62e49849f0e",
+      "localPath": "files/external/archive-org/aol30isdnger-7845a722.img",
+      "status": "ready",
+      "size": 1474560,
+      "sha1": "6efea98428e562f7cf6129639224b62e49849f0e"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol_uk_3.0i_mac",
+      "originalUrl": "https://archive.org/download/aol_uk_3.0i_mac/install_aol_uk_3.o.i.hqx",
+      "waybackUrl": "https://archive.org/download/aol_uk_3.0i_mac/install_aol_uk_3.o.i.hqx",
+      "downloadUrl": "https://archive.org/download/aol_uk_3.0i_mac/install_aol_uk_3.o.i.hqx",
+      "name": "install_aol_uk_3.o.i.hqx",
+      "discoveredText": "AOL 3.0 - AOL UK v3.0i for Macintosh - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol_uk_3.0i_mac",
+      "archiveOrgTitle": "AOL UK v3.0i for Macintosh",
+      "archiveOrgPage": "https://archive.org/details/aol_uk_3.0i_mac",
+      "expectedSha1": "af46f3bd07bc674c5d5621dab39c89807bcff0d0",
+      "localPath": "files/external/archive-org/install-aol-uk-3-o-i-1a925aa1.hqx",
+      "status": "ready",
+      "size": 18834231,
+      "sha1": "af46f3bd07bc674c5d5621dab39c89807bcff0d0"
+    },
+    {
+      "sourceList": "Archive.org: AIM client",
+      "sourceListUrl": "https://archive.org/details/aim10",
+      "originalUrl": "https://archive.org/download/aim10/aim10.exe",
+      "waybackUrl": "https://archive.org/download/aim10/aim10.exe",
+      "downloadUrl": "https://archive.org/download/aim10/aim10.exe",
+      "name": "aim10.exe",
+      "discoveredText": "AIM 1.0 - AOL Instant Messenger 1.0 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aim10",
+      "archiveOrgTitle": "AOL Instant Messenger 1.0",
+      "archiveOrgPage": "https://archive.org/details/aim10",
+      "expectedSha1": "c8bf70f9c64b23661c983959f25ff536825bad51",
+      "localPath": "files/external/archive-org/aim10-5a34b21e.exe",
+      "status": "ready",
+      "size": 1472047,
+      "sha1": "c8bf70f9c64b23661c983959f25ff536825bad51"
+    },
+    {
+      "sourceList": "Archive.org: AIM client",
+      "sourceListUrl": "https://archive.org/details/aim_1.0.10_solaris",
+      "originalUrl": "https://archive.org/download/aim_1.0.10_solaris/AIM_1.0.10_Solaris.tar.gz",
+      "waybackUrl": "https://archive.org/download/aim_1.0.10_solaris/AIM_1.0.10_Solaris.tar.gz",
+      "downloadUrl": "https://archive.org/download/aim_1.0.10_solaris/AIM_1.0.10_Solaris.tar.gz",
+      "name": "AIM_1.0.10_Solaris.tar.gz",
+      "discoveredText": "AIM 1.0.10 - AOL Instant Messenger AIM 1.0.10 Solaris - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aim_1.0.10_solaris",
+      "archiveOrgTitle": "AOL Instant Messenger AIM 1.0.10 Solaris",
+      "archiveOrgPage": "https://archive.org/details/aim_1.0.10_solaris",
+      "expectedSha1": "d8ec69384813c1da817fe061cbe5ae3503ef92d4",
+      "localPath": "files/external/archive-org/aim-1-0-10-solaris-tar-7cfea848.gz",
+      "status": "ready",
+      "size": 15153644,
+      "sha1": "d8ec69384813c1da817fe061cbe5ae3503ef92d4"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol_4.0_mac_68k",
+      "originalUrl": "https://archive.org/download/aol_4.0_mac_68k/Install%20AOL%204.0%20(68K).hqx",
+      "waybackUrl": "https://archive.org/download/aol_4.0_mac_68k/Install%20AOL%204.0%20(68K).hqx",
+      "downloadUrl": "https://archive.org/download/aol_4.0_mac_68k/Install%20AOL%204.0%20(68K).hqx",
+      "name": "Install AOL 4.0 (68K).hqx",
+      "discoveredText": "AOL 4.0 - AOL 4.0 for Macintosh (68k) - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol_4.0_mac_68k",
+      "archiveOrgTitle": "AOL 4.0 for Macintosh (68k)",
+      "archiveOrgPage": "https://archive.org/details/aol_4.0_mac_68k",
+      "expectedSha1": "dc6002f9b70c8f3e77ce46ac543f43b7ee56f331",
+      "localPath": "files/external/archive-org/install20aol204-02068k-7a3f0e7e.hqx",
+      "status": "ready",
+      "size": 16307307,
+      "sha1": "dc6002f9b70c8f3e77ce46ac543f43b7ee56f331"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/setup-323",
+      "originalUrl": "https://archive.org/download/setup-323/SETUP323.EXE",
+      "waybackUrl": "https://archive.org/download/setup-323/SETUP323.EXE",
+      "downloadUrl": "https://archive.org/download/setup-323/SETUP323.EXE",
+      "name": "SETUP323.EXE",
+      "discoveredText": "AOL 4.0 - AOL 4.0 Installer - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "setup-323",
+      "archiveOrgTitle": "AOL 4.0 Installer",
+      "archiveOrgPage": "https://archive.org/details/setup-323",
+      "expectedSha1": "1fe3fde0005e0de907987fa4695dc8945c2187d0",
+      "localPath": "files/external/archive-org/setup323-5183b6d5.exe",
+      "status": "ready",
+      "size": 15873073,
+      "sha1": "1fe3fde0005e0de907987fa4695dc8945c2187d0"
+    },
+    {
+      "sourceList": "Archive.org: AOL client/version",
+      "sourceListUrl": "https://archive.org/details/aol-40-br",
+      "originalUrl": "https://archive.org/download/aol-40-br/AOL40BR.iso",
+      "waybackUrl": "https://archive.org/download/aol-40-br/AOL40BR.iso",
+      "downloadUrl": "https://archive.org/download/aol-40-br/AOL40BR.iso",
+      "name": "AOL40BR.iso",
+      "discoveredText": "AOL 40 - America Online Brasil 4.0 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-40-br",
+      "archiveOrgTitle": "America Online Brasil 4.0",
+      "archiveOrgPage": "https://archive.org/details/aol-40-br",
+      "expectedSha1": "fcfe131dff4636f1b09eb998d778bc4ebbd7ca20",
+      "localPath": "files/external/archive-org/aol40br-bdcfb4ec.iso",
+      "status": "ready",
+      "size": 46426112,
+      "sha1": "fcfe131dff4636f1b09eb998d778bc4ebbd7ca20"
+    },
+    {
+      "sourceList": "Archive.org: AIM client",
+      "sourceListUrl": "https://archive.org/details/aol-instant-messenger-4.8.2540",
+      "originalUrl": "https://archive.org/download/aol-instant-messenger-4.8.2540/AOL_Instant_Messenger_4.8.2540.exe",
+      "waybackUrl": "https://archive.org/download/aol-instant-messenger-4.8.2540/AOL_Instant_Messenger_4.8.2540.exe",
+      "downloadUrl": "https://archive.org/download/aol-instant-messenger-4.8.2540/AOL_Instant_Messenger_4.8.2540.exe",
+      "name": "AOL_Instant_Messenger_4.8.2540.exe",
+      "discoveredText": "AIM 4.8 - AOL Instant Messenger 4.8 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "aol-instant-messenger-4.8.2540",
+      "archiveOrgTitle": "AOL Instant Messenger 4.8",
+      "archiveOrgPage": "https://archive.org/details/aol-instant-messenger-4.8.2540",
+      "expectedSha1": "79e9ec3c23fa2e4f3ff2401d13884109c674ec21",
+      "localPath": "files/external/archive-org/aol-instant-messenger-4-8-2540-c6286f94.exe",
+      "status": "ready",
+      "size": 2599528,
+      "sha1": "79e9ec3c23fa2e4f3ff2401d13884109c674ec21"
+    },
+    {
+      "sourceList": "Archive.org: DeadAIM / AIM enhancer",
+      "sourceListUrl": "https://archive.org/details/doors98-dead-aim-4.1.1",
+      "originalUrl": "https://archive.org/download/doors98-dead-aim-4.1.1/DeadAim%204.1.1.zip",
+      "waybackUrl": "https://archive.org/download/doors98-dead-aim-4.1.1/DeadAim%204.1.1.zip",
+      "downloadUrl": "https://archive.org/download/doors98-dead-aim-4.1.1/DeadAim%204.1.1.zip",
+      "name": "DeadAim 4.1.1.zip",
+      "discoveredText": "DeadAIM 4.1.1 - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "doors98-dead-aim-4.1.1",
+      "archiveOrgTitle": "DeadAIM 4.1.1",
+      "archiveOrgPage": "https://archive.org/details/doors98-dead-aim-4.1.1",
+      "expectedSha1": "11b05fcc7da1d723d4c286a1e454bb91c362ac14",
+      "localPath": "files/external/archive-org/deadaim204-1-1-c9210077.zip",
+      "status": "ready",
+      "size": 504864,
+      "sha1": "11b05fcc7da1d723d4c286a1e454bb91c362ac14"
+    },
+    {
+      "sourceList": "Archive.org: Winamp skin",
+      "sourceListUrl": "https://archive.org/details/winampskin_AOL_Instant_Messenger_Amp",
+      "originalUrl": "https://archive.org/download/winampskin_AOL_Instant_Messenger_Amp/AOL_Instant_Messanger_Amp.wsz",
+      "waybackUrl": "https://archive.org/download/winampskin_AOL_Instant_Messenger_Amp/AOL_Instant_Messanger_Amp.wsz",
+      "downloadUrl": "https://archive.org/download/winampskin_AOL_Instant_Messenger_Amp/AOL_Instant_Messanger_Amp.wsz",
+      "name": "AOL_Instant_Messanger_Amp.wsz",
+      "discoveredText": "Winamp Skin: AOL Instant Messenger Amp - Small selected files can be imported into GitHub; large CD images remain linked at Archive.org.",
+      "archiveOrgIdentifier": "winampskin_AOL_Instant_Messenger_Amp",
+      "archiveOrgTitle": "Winamp Skin: AOL Instant Messenger Amp",
+      "archiveOrgPage": "https://archive.org/details/winampskin_AOL_Instant_Messenger_Amp",
+      "expectedSha1": "12e881736c6bd9ef4f056a26c16ebbb76d24a37d",
+      "localPath": "files/external/archive-org/aol-instant-messanger-amp-28ae6ca4.wsz",
+      "status": "ready",
+      "size": 45498,
+      "sha1": "12e881736c6bd9ef4f056a26c16ebbb76d24a37d"
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/ChromeCanarySetup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/ChromeCanarySetup.exe",
+      "name": "ChromeCanarySetup.exe",
+      "discoveredText": "ChromeCanarySetup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/ChromeCanarySetup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "4fb345116cc32439b156b3dfef73140670d523e2"
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/ChromeSetup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/ChromeSetup.exe",
+      "name": "ChromeSetup.exe",
+      "discoveredText": "ChromeSetup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/ChromeSetup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "d7f086bf2873e9ffb7dda698f9d33b827a1a81df"
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/ChromeStandaloneSetup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/ChromeStandaloneSetup.exe",
+      "name": "ChromeStandaloneSetup.exe",
+      "discoveredText": "ChromeStandaloneSetup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/ChromeStandaloneSetup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleAdsEditorSetup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleAdsEditorSetup.exe",
+      "name": "GoogleAdsEditorSetup.exe",
+      "discoveredText": "GoogleAdsEditorSetup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/GoogleAdsEditorSetup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "85da57aad5fd714a3d0ca1717bf70cf0d4106ee2"
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/googleappssyncsetup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/googleappssyncsetup.exe",
+      "name": "googleappssyncsetup.exe",
+      "discoveredText": "googleappssyncsetup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/googleappssyncsetup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "d0aeb031e7b4bb2b2fc7e45150bd693097fae0bf"
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/googlecalendarsync.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/googlecalendarsync.exe",
+      "name": "googlecalendarsync.exe",
+      "discoveredText": "googlecalendarsync.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/googlecalendarsync.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "759cd1bc9aefb2d2c62b6085419bd67811033f7f"
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleChromeEnterpriseBundle64.zip",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleChromeEnterpriseBundle64.zip",
+      "name": "GoogleChromeEnterpriseBundle64.zip",
+      "discoveredText": "GoogleChromeEnterpriseBundle64.zip",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/GoogleChromeEnterpriseBundle64.zip",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/googledrivefilestream.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/googledrivefilestream.exe",
+      "name": "googledrivefilestream.exe",
+      "discoveredText": "googledrivefilestream.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/googledrivefilestream.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
+      "name": "GoogleDriveFSSetup.exe",
+      "discoveredText": "GoogleDriveFSSetup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleEarthWin_EARD.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleEarthWin_EARD.exe",
+      "name": "GoogleEarthWin_EARD.exe",
+      "discoveredText": "GoogleEarthWin_EARD.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/GoogleEarthWin_EARD.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "2ea8da150f70100df939305ef5b5a317717d8383"
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleVoiceAndVideoSetup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleVoiceAndVideoSetup.exe",
+      "name": "GoogleVoiceAndVideoSetup.exe",
+      "discoveredText": "GoogleVoiceAndVideoSetup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/GoogleVoiceAndVideoSetup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/gpautobackup_setup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/gpautobackup_setup.exe",
+      "name": "gpautobackup_setup.exe",
+      "discoveredText": "gpautobackup_setup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/gpautobackup_setup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "0572c1015dc4d9a01113f86efd5b02e2662dde60"
+    },
+    {
+      "sourceList": "Web page: Downloads.txt",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Downloads.txt",
+      "originalUrl": "http://desktop.google.com/download/earth/GoogleEarth.exe?Submit=I%27m+pretty+sure+I%27m+good.++Download+GoogleEarth.exe",
+      "waybackUrl": "http://desktop.google.com/download/earth/GoogleEarth.exe?Submit=I%27m+pretty+sure+I%27m+good.++Download+GoogleEarth.exe",
+      "name": "GoogleEarth.exe",
+      "discoveredText": "http://desktop.google.com/download/earth/GoogleEarth.exe?Submit=I%27m+pretty+sure+I%27m+good.++Download+GoogleEarth.exe",
+      "downloadUrl": "http://desktop.google.com/download/earth/GoogleEarth.exe?Submit=I%27m+pretty+sure+I%27m+good.++Download+GoogleEarth.exe",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Oogle AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/fatboy.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/fatboy.zip",
+      "name": "fatboy.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/fatboy.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/fatboy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/finaldestination.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip",
+      "name": "finaldestination.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/finaldestination.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Oogle AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/furyaim.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/furyaim.zip",
+      "name": "furyaim.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/furyaim.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/furyaim.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/global.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/global.zip",
+      "name": "global.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/global.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/global.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Oogle AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/hell2000v3.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/hell2000v3.zip",
+      "name": "hell2000v3.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/hell2000v3.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/hell2000v3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/hush.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/hush.zip",
+      "name": "hush.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/hush.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/hush.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/idletech2.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/idletech2.zip",
+      "name": "idletech2.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/idletech2.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/idletech2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/ieeto.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/ieeto.zip",
+      "name": "ieeto.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/ieeto.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/ieeto.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/juggalotoolz2.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip",
+      "name": "juggalotoolz2.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/juggalotoolz2.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/lethal.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip",
+      "name": "lethal.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/lethal.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/liquidcoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip",
+      "name": "liquidcoms.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/liquidcoms.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
+      "name": "liquidsoulbeta.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/marioonlinev5.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip",
+      "name": "marioonlinev5.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/marioonlinev5.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/neon.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/neon.zip",
+      "name": "neon.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/neon.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/neon.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/nuked.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/nuked.zip",
+      "name": "nuked.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/nuked.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/nuked.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/oracle.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/oracle.zip",
+      "name": "oracle.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/oracle.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/oracle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 3.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol3progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/pentoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/pentoolz.zip",
+      "name": "pentoolz.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/pentoolz.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/pentoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/phaze.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/phaze.zip",
+      "name": "phaze.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/phaze.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/phaze.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/progzone.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/progzone.zip",
+      "name": "progzone.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/progzone.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/progzone.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/prophecy3.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/prophecy3.zip",
+      "name": "prophecy3.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/prophecy3.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/prophecy3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/revolutionx.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip",
+      "name": "revolutionx.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/revolutionx.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/sb.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sb.zip",
+      "name": "sb.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/sb.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sb.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Oogle AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/siv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/siv1.zip",
+      "name": "siv1.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/siv1.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/siv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/sleepyhollow.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sleepyhollow.zip",
+      "name": "sleepyhollow.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/sleepyhollow.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sleepyhollow.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/thorn.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip",
+      "name": "thorn.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/thorn.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/toad.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/toad.zip",
+      "name": "toad.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/toad.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/toad.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/tortuga3.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/tortuga3.zip",
+      "name": "tortuga3.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/tortuga3.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/tortuga3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/x2x.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/x2x.zip",
+      "name": "x2x.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/x2x.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/x2x.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aol 4.0/5.0 Progs",
+      "sourceListUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
+      "originalUrl": "http://www.oogle.net/downloads/progs/yoyov2.zip",
+      "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/yoyov2.zip",
+      "name": "yoyov2.zip",
+      "discoveredText": "http://www.oogle.net/downloads/progs/yoyov2.zip",
+      "downloadUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/yoyov2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hurricanemp3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hurricanemp3.zip",
+      "name": "hurricanemp3.zip",
+      "discoveredText": "hurricane mp3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hurricanemp3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hushccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hushccom.zip",
+      "name": "hushccom.zip",
+      "discoveredText": "hush",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hushccom.zip",
+      "localPath": "files/external/lenshellarchive-com/hushccom-ee96ae2e.zip",
+      "status": "ready",
+      "size": 987502,
+      "sha1": "199f722800dd0fc7a596cc0fa430967310483562"
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/hush70.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/hush70.zip",
+      "name": "hush70.zip",
+      "discoveredText": "hush",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/hush70.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hpcoms1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hpcoms1.zip",
+      "name": "hpcoms1.zip",
+      "discoveredText": "hush puppies beta",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hpcoms1.zip",
+      "localPath": "files/external/lenshellarchive-com/hpcoms1-5cab6e6c.zip",
+      "status": "ready",
+      "size": 1289490,
+      "sha1": "98e6861a7a6e0bb7beceab789f3420b1abaa80e4"
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hybridmp3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hybridmp3.zip",
+      "name": "hybridmp3.zip",
+      "discoveredText": "hybrid mp3 playah",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hybridmp3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/hydra.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hydra.zip",
+      "name": "hydra.zip",
+      "discoveredText": "hydra bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hydra.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip",
+      "name": "hydromm.zip",
+      "discoveredText": "hydro chronic massmailer",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/hydrophonix.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/hydrophonix.zip",
+      "name": "hydrophonix.zip",
+      "discoveredText": "hydrophonix 1.2",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/hydrophonix.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hyperlinker2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker2.zip",
+      "name": "hyperlinker2.zip",
+      "discoveredText": "hyper linker ²",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip",
+      "name": "hyperlinker3.zip",
+      "discoveredText": "hyper linker ³",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/hyper.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/hyper.zip",
+      "name": "hyper.zip",
+      "discoveredText": "hyper phader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/hyper.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hypno.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hypno.zip",
+      "name": "hypno.zip",
+      "discoveredText": "hypno-lagger¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hypno.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hysteria.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hysteria.zip",
+      "name": "hysteria.zip",
+      "discoveredText": "hysteria",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hysteria.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/icc.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/icc.zip",
+      "name": "icc.zip",
+      "discoveredText": "i can crack 5.0.7",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/icc.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/icc511.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/icc511.zip",
+      "name": "icc511.zip",
+      "discoveredText": "i can crack 5.1.1",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/icc511.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/icc512.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/icc512.zip",
+      "name": "icc512.zip",
+      "discoveredText": "i can crack 5.1.2",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/icc512.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/icantidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/icantidle.zip",
+      "name": "icantidle.zip",
+      "discoveredText": "i can't idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/icantidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ics.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ics.zip",
+      "name": "ics.zip",
+      "discoveredText": "i can't scroll",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ics.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/woodyprog.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/woodyprog.zip",
+      "name": "woodyprog.zip",
+      "discoveredText": "i got a woody",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/woodyprog.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/igotawoody.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/igotawoody.zip",
+      "name": "igotawoody.zip",
+      "discoveredText": "i got a woody im punter",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/igotawoody.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell antis",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/slap.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/slap.zip",
+      "name": "slap.zip",
+      "discoveredText": "i slapded dat shit 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/slap.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cracke54.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracke54.zip",
+      "name": "cracke54.zip",
+      "discoveredText": "i will crack (5.0 version)",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracke54.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cracks.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracks.zip",
+      "name": "cracks.zip",
+      "discoveredText": "i will crack (7.0 version)",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracks.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/ibrb.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ibrb.zip",
+      "name": "ibrb.zip",
+      "discoveredText": "i'll brb idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ibrb.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/imidling.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imidling.zip",
+      "name": "imidling.zip",
+      "discoveredText": "i'm idling",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imidling.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/icefader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/icefader.zip",
+      "name": "icefader.zip",
+      "discoveredText": "ice fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/icefader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/iceidle21.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/iceidle21.zip",
+      "name": "iceidle21.zip",
+      "discoveredText": "ice idle v2.1",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/iceidle21.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/icetoolz1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/icetoolz1.zip",
+      "name": "icetoolz1.zip",
+      "discoveredText": "ice toolz 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/icetoolz1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/icex.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/icex.zip",
+      "name": "icex.zip",
+      "discoveredText": "ice x 1.5",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/icex.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/icondrop.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/icondrop.zip",
+      "name": "icondrop.zip",
+      "discoveredText": "Icon Drop",
+      "downloadUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/icondrop.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/icondropv12.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/icondropv12.zip",
+      "name": "icondropv12.zip",
+      "discoveredText": "icon drop v1.2",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/icondropv12.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell miscellaneous files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/misc.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/iconedit.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/iconedit.zip",
+      "name": "iconedit.zip",
+      "discoveredText": "icon edit 2",
+      "downloadUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/iconedit.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell miscellaneous files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/misc.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/iconmaker.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/iconmaker.zip",
+      "name": "iconmaker.zip",
+      "discoveredText": "icon maker",
+      "downloadUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/iconmaker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/icp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/icp.zip",
+      "name": "icp.zip",
+      "discoveredText": "icp final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/icp.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/icp40.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/icp40.zip",
+      "name": "icp40.zip",
+      "discoveredText": "icp punter",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/icp40.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idelismbuild1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idelismbuild1.zip",
+      "name": "idelismbuild1.zip",
+      "discoveredText": "idelism [build]¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idelismbuild1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idle2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle2.zip",
+      "name": "idle2.zip",
+      "discoveredText": "ideology 2",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idl3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idl3.zip",
+      "name": "idl3.zip",
+      "discoveredText": "idl3",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idl3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/systemtoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/systemtoolz.zip",
+      "name": "systemtoolz.zip",
+      "discoveredText": "idle bot",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/systemtoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idledat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idledat.zip",
+      "name": "idledat.zip",
+      "discoveredText": "idle dat",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idledat.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idlebot.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlebot.zip",
+      "name": "idlebot.zip",
+      "discoveredText": "idle dat wh0re",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlebot.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idledis.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idledis.zip",
+      "name": "idledis.zip",
+      "discoveredText": "idle dis",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idledis.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idreamz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idreamz.zip",
+      "name": "idreamz.zip",
+      "discoveredText": "idle dreamz",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idreamz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/idlefordrugs.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/idlefordrugs.zip",
+      "name": "idlefordrugs.zip",
+      "discoveredText": "idle for drugs",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/idlefordrugs.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idle2000.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle2000.zip",
+      "name": "idle2000.zip",
+      "discoveredText": "idle in ²ººº",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle2000.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idlemachine.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlemachine.zip",
+      "name": "idlemachine.zip",
+      "discoveredText": "idle machinery",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlemachine.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idlemax.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlemax.zip",
+      "name": "idlemax.zip",
+      "discoveredText": "idle max beta",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlemax.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idlemax2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlemax2.zip",
+      "name": "idlemax2.zip",
+      "discoveredText": "idle max v0.2",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlemax2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idleordie.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleordie.zip",
+      "name": "idleordie.zip",
+      "discoveredText": "idle or die",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleordie.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idleordiev2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleordiev2.zip",
+      "name": "idleordiev2.zip",
+      "discoveredText": "idle or die v2",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleordiev2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/idleroom1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/idleroom1.zip",
+      "name": "idleroom1.zip",
+      "discoveredText": "idle room",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/idleroom1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idletech2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletech2.zip",
+      "name": "idletech2.zip",
+      "discoveredText": "idle tech 2",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletech2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idletoolz1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletoolz1.zip",
+      "name": "idletoolz1.zip",
+      "discoveredText": "idle toolz 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletoolz1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/utopia2012.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/utopia2012.zip",
+      "name": "utopia2012.zip",
+      "discoveredText": "idle utopia 2012",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/utopia2012.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/idlewhoreaim.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/idlewhoreaim.zip",
+      "name": "idlewhoreaim.zip",
+      "discoveredText": "idle whore (aim)",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/idlewhoreaim.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idlewhore.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlewhore.zip",
+      "name": "idlewhore.zip",
+      "discoveredText": "idle whore¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlewhore.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idleaway.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleaway.zip",
+      "name": "idleaway.zip",
+      "discoveredText": "idle.away",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleaway.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idled.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idled.zip",
+      "name": "idled.zip",
+      "discoveredText": "idle'd",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idled.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idleology1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleology1.zip",
+      "name": "idleology1.zip",
+      "discoveredText": "idle`ology¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleology1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idle13.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle13.zip",
+      "name": "idle13.zip",
+      "discoveredText": "idle¹·³",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle13.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idle3001.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle3001.zip",
+      "name": "idle3001.zip",
+      "discoveredText": "idle³ºº¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle3001.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idle30012.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle30012.zip",
+      "name": "idle30012.zip",
+      "discoveredText": "idle³ºº¹ v²",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle30012.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idleisim.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleisim.zip",
+      "name": "idleisim.zip",
+      "discoveredText": "idleisim",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idleisim.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/idler.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/idler.zip",
+      "name": "idler.zip",
+      "discoveredText": "idler",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/idler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/idlerexbynegz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/idlerexbynegz.zip",
+      "name": "idlerexbynegz.zip",
+      "discoveredText": "idler example",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/idlerexbynegz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idlex2private.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlex2private.zip",
+      "name": "idlex2private.zip",
+      "discoveredText": "idlex 2 [private]",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlex2private.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idlizm.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlizm.zip",
+      "name": "idlizm.zip",
+      "discoveredText": "ìdlízm¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idlizm.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/idol.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/idol.zip",
+      "name": "idol.zip",
+      "discoveredText": "idols room buster",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/idol.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/ieetcrackv2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/ieetcrackv2.zip",
+      "name": "ieetcrackv2.zip",
+      "discoveredText": "ieet crack v2.0 public",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/ieetcrackv2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ieetosaver.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ieetosaver.zip",
+      "name": "ieetosaver.zip",
+      "discoveredText": "ieeto pr saver",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ieetosaver.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/igneous.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/igneous.zip",
+      "name": "igneous.zip",
+      "discoveredText": "igneous c-com",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/igneous.zip",
+      "localPath": "files/external/lenshellarchive-com/igneous-dcd98435.zip",
+      "status": "ready",
+      "size": 76539,
+      "sha1": "44f547736e0d0a6e27ef2318b8f6b693540fffa8"
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/ignore2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/ignore2.zip",
+      "name": "ignore2.zip",
+      "discoveredText": "ignore² thousand",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/ignore2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ihs.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ihs.zip",
+      "name": "ihs.zip",
+      "discoveredText": "ihs",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ihs.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip",
+      "name": "paraphernalia.zip",
+      "discoveredText": "illegal paraphernalia v1.0",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/illeqal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/illeqal.zip",
+      "name": "illeqal.zip",
+      "discoveredText": "illeqal busta",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/illeqal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/imignore.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imignore.zip",
+      "name": "imignore.zip",
+      "discoveredText": "im answer-ignorer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imignore.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/imlink.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imlink.zip",
+      "name": "imlink.zip",
+      "discoveredText": "im link sender",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imlink.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/logger1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/logger1.zip",
+      "name": "logger1.zip",
+      "discoveredText": "im logger¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/logger1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/imspam.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/imspam.zip",
+      "name": "imspam.zip",
+      "discoveredText": "im spammør¹",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/imspam.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/imtoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imtoolz.zip",
+      "name": "imtoolz.zip",
+      "discoveredText": "im toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imtoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/mouseover.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/mouseover.zip",
+      "name": "mouseover.zip",
+      "discoveredText": "image mouseover",
+      "downloadUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/mouseover.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/imagerotate.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/imagerotate.zip",
+      "name": "imagerotate.zip",
+      "discoveredText": "image rotate",
+      "downloadUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/imagerotate.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/immaturity3pub.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/immaturity3pub.zip",
+      "name": "immaturity3pub.zip",
+      "discoveredText": "immaturity 3.0.0 [public]",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/immaturity3pub.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip",
+      "name": "immortalitybeta.zip",
+      "discoveredText": "immortality termer beta1",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/imortal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imortal.zip",
+      "name": "imortal.zip",
+      "discoveredText": "imortal idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/imortal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/impact.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip",
+      "name": "impact.zip",
+      "discoveredText": "impact aol40 server",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/asciishop.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/asciishop.zip",
+      "name": "asciishop.zip",
+      "discoveredText": "impact ascii bronze edition",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/asciishop.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/imp2000.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imp2000.zip",
+      "name": "imp2000.zip",
+      "discoveredText": "imperial 2000",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/imp2000.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/implosion.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/implosion.zip",
+      "name": "implosion.zip",
+      "discoveredText": "implosion",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/implosion.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/importtuner.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/importtuner.zip",
+      "name": "importtuner.zip",
+      "discoveredText": "import tuner beta",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/importtuner.zip",
+      "localPath": "files/external/lenshellarchive-com/importtuner-ed13ac26.zip",
+      "status": "ready",
+      "size": 75738,
+      "sha1": "194ef5a86807a2f7631870602f41f5ca5d7c4cf5"
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/importdreamz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/importdreamz.zip",
+      "name": "importdreamz.zip",
+      "discoveredText": "import.dreamz",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/importdreamz.zip",
+      "localPath": "files/external/lenshellarchive-com/importdreamz-2b606ca6.zip",
+      "status": "ready",
+      "size": 2614480,
+      "sha1": "c2fcd29ea306cfb7f91e898e2861bb16e3d23e82"
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/impulsev21.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impulsev21.zip",
+      "name": "impulsev21.zip",
+      "discoveredText": "impulse app server v2.1",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impulsev21.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/impulse1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/impulse1.zip",
+      "name": "impulse1.zip",
+      "discoveredText": "impulse¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/impulse1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/inflames.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/inflames.zip",
+      "name": "inflames.zip",
+      "discoveredText": "in flames",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/inflames.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/incccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/incccom.zip",
+      "name": "incccom.zip",
+      "discoveredText": "incubus ccoms",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/incccom.zip",
+      "localPath": "files/external/lenshellarchive-com/incccom-c7d3a8fe.zip",
+      "status": "ready",
+      "size": 214333,
+      "sha1": "096ed84bc8b1acec05ffb6ffa37e821d05bb4042"
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/incubusfinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/incubusfinal.zip",
+      "name": "incubusfinal.zip",
+      "discoveredText": "incubus final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/incubusfinal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/incidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/incidle.zip",
+      "name": "incidle.zip",
+      "discoveredText": "incubus idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/incidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/incubuspunt.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/incubuspunt.zip",
+      "name": "incubuspunt.zip",
+      "discoveredText": "incubus punter",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/incubuspunt.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/incubusgold.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/incubusgold.zip",
+      "name": "incubusgold.zip",
+      "discoveredText": "incubus toolz gold",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/incubusgold.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/independent.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/independent.zip",
+      "name": "independent.zip",
+      "discoveredText": "independent idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/independent.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/invasion.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/invasion.zip",
+      "name": "invasion.zip",
+      "discoveredText": "indian invasion",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/invasion.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/indifference.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/indifference.zip",
+      "name": "indifference.zip",
+      "discoveredText": "indifference lagger",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/indifference.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/beta1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/beta1.zip",
+      "name": "beta1.zip",
+      "discoveredText": "infernal regions beta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/beta1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cracker.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracker.zip",
+      "name": "cracker.zip",
+      "discoveredText": "infinity 2 crack",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/infinimm.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/infinimm.zip",
+      "name": "infinimm.zip",
+      "discoveredText": "infinity mm'er",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/infinimm.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/is.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/is.zip",
+      "name": "is.zip",
+      "discoveredText": "info-scroller",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/is.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/information.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/information.zip",
+      "name": "information.zip",
+      "discoveredText": "information",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/information.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/infuego.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/infuego.zip",
+      "name": "infuego.zip",
+      "discoveredText": "infuego idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/infuego.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/insane.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insane.zip",
+      "name": "insane.zip",
+      "discoveredText": "insane idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insane.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/igbust.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/igbust.zip",
+      "name": "igbust.zip",
+      "discoveredText": "insane room buster gold",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/igbust.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/insomnia.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insomnia.zip",
+      "name": "insomnia.zip",
+      "discoveredText": "insomnia idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insomnia.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/insomniatoolz1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomniatoolz1.zip",
+      "name": "insomniatoolz1.zip",
+      "discoveredText": "insomnia toolz v1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomniatoolz1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/insomnia15.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia15.zip",
+      "name": "insomnia15.zip",
+      "discoveredText": "insomnia toolz v1.5",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia15.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/insomnia16.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia16.zip",
+      "name": "insomnia16.zip",
+      "discoveredText": "insomnia toolz v1.6",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insomnia16.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/instinct.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/instinct.zip",
+      "name": "instinct.zip",
+      "discoveredText": "instinct",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/instinct.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/instructions.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/instructions.zip",
+      "name": "instructions.zip",
+      "discoveredText": "Instructions",
+      "downloadUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/instructions.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/insulin.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insulin.zip",
+      "name": "insulin.zip",
+      "discoveredText": "insulin",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insulin.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/insurrection.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insurrection.zip",
+      "name": "insurrection.zip",
+      "discoveredText": "insurrection",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/insurrection.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/Insync-0.9.16.17211.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/Insync-0.9.16.17211.exe",
+      "name": "Insync-0.9.16.17211.exe",
+      "discoveredText": "Insync-0.9.16.17211.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/Insync-0.9.16.17211.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0,
+      "sha1": "ba2c43c1362593a61b3fe36bcadf5f60650d7ecf"
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/integra.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/integra.zip",
+      "name": "integra.zip",
+      "discoveredText": "integra",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/integra.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/intellex.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/intellex.zip",
+      "name": "intellex.zip",
+      "discoveredText": "intellex x'er",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/intellex.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/intelligent.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/intelligent.zip",
+      "name": "intelligent.zip",
+      "discoveredText": "intelligent linker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/intelligent.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tpdtank.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/tpdtank.zip",
+      "name": "tpdtank.zip",
+      "discoveredText": "intensity tank",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/tpdtank.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/interbasic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/interbasic.zip",
+      "name": "interbasic.zip",
+      "discoveredText": "interbasic 1.0 beta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/interbasic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/error.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/error.zip",
+      "name": "error.zip",
+      "discoveredText": "internal error",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/error.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/intern20.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/intern20.zip",
+      "name": "intern20.zip",
+      "discoveredText": "internal error 2",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/intern20.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/interror3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/interror3.zip",
+      "name": "interror3.zip",
+      "discoveredText": "internal error 3",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/interror3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/iphj.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/iphj.zip",
+      "name": "iphj.zip",
+      "discoveredText": "internet protocol highjacker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/iphj.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/servers/intrepid2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/servers/intrepid2.zip",
+      "name": "intrepid2.zip",
+      "discoveredText": "intrepid aim server v2",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/servers/intrepid2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/intricate.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/intricate.zip",
+      "name": "intricate.zip",
+      "discoveredText": "intricate chat coms",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/intricate.zip",
+      "localPath": "files/external/lenshellarchive-com/intricate-a6d5c94c.zip",
+      "status": "ready",
+      "size": 532658,
+      "sha1": "ef2a463bf62ef05cc89917996e46738564540047"
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/invariant.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/invariant.zip",
+      "name": "invariant.zip",
+      "discoveredText": "invariant idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/invariant.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/invizolinker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/invizolinker.zip",
+      "name": "invizolinker.zip",
+      "discoveredText": "invizo linker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/invizolinker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/invizov2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/invizov2.zip",
+      "name": "invizov2.zip",
+      "discoveredText": "invizo linker v2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/invizov2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/ipgrabberv10.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/miscprogs/ipgrabberv10.zip",
+      "name": "ipgrabberv10.zip",
+      "discoveredText": "ip grabber v1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/miscprogs/ipgrabberv10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/tutorials/ipgrabberv10.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/tutorials/ipgrabberv10.zip",
+      "name": "ipgrabberv10.zip",
+      "discoveredText": "ip grabber v1.0 by trip source",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/tutorials/ipgrabberv10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/ipserve.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ipserve.zip",
+      "name": "ipserve.zip",
+      "discoveredText": "ip serve",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ipserve.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ipsniffer2000.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ipsniffer2000.zip",
+      "name": "ipsniffer2000.zip",
+      "discoveredText": "ip sniffer 2000",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ipsniffer2000.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/ipstealutilities.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ipstealutilities.zip",
+      "name": "ipstealutilities.zip",
+      "discoveredText": "ip stealer utilities",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ipstealutilities.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/iptpx.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/iptpx.zip",
+      "name": "iptpx.zip",
+      "discoveredText": "ip thief pro x",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/iptpx.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/iplayerfinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/iplayerfinal.zip",
+      "name": "iplayerfinal.zip",
+      "discoveredText": "iplayer final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/iplayerfinal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: iPhone Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/iphone.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/iphoneprogs/ipswbeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120842/http://lenshellarchive.com/Progs/iphoneprogs/ipswbeta.zip",
+      "name": "ipswbeta.zip",
+      "discoveredText": "ipsw manager (beta 2.0.0)",
+      "downloadUrl": "https://web.archive.org/web/20111002120842/http://lenshellarchive.com/Progs/iphoneprogs/ipswbeta.zip",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2204
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/iraqiannuke.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/iraqiannuke.zip",
+      "name": "iraqiannuke.zip",
+      "discoveredText": "iraqian nuke",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/iraqiannuke.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/it05format.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/it05format.zip",
+      "name": "it05format.zip",
+      "discoveredText": "it 05 format",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/it05format.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/itank.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/itank.zip",
+      "name": "itank.zip",
+      "discoveredText": "itank",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/itank.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/itankremix.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/itankremix.zip",
+      "name": "itankremix.zip",
+      "discoveredText": "itank (remix)",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/itankremix.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/jcomz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/jcomz.zip",
+      "name": "jcomz.zip",
+      "discoveredText": "j-comz ccom example",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/jcomz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/joobscroller.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/joobscroller.zip",
+      "name": "joobscroller.zip",
+      "discoveredText": "j00b scroller",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/joobscroller.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/jarule.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/jarule.zip",
+      "name": "jarule.zip",
+      "discoveredText": "ja rule dat acc",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/jarule.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell termers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/jarule2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/jarule2.zip",
+      "name": "jarule2.zip",
+      "discoveredText": "ja rule dat acc 2 beta",
+      "downloadUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/jarule2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/jabronixer.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/jabronixer.zip",
+      "name": "jabronixer.zip",
+      "discoveredText": "jabroni xer",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/jabronixer.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/jackbong.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jackbong.zip",
+      "name": "jackbong.zip",
+      "discoveredText": "jack the bong ripper",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jackbong.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/jackalbox.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jackalbox.zip",
+      "name": "jackalbox.zip",
+      "discoveredText": "jackal in the box",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jackalbox.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip",
+      "name": "jackalsidler.zip",
+      "discoveredText": "jackal's idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ji2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ji2.zip",
+      "name": "ji2.zip",
+      "discoveredText": "jacked i-case 2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ji2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/jag.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/jag.zip",
+      "name": "jag.zip",
+      "discoveredText": "jag spawner",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/jag.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/jaijen.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/jaijen.zip",
+      "name": "jaijen.zip",
+      "discoveredText": "jai jen punter",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/jaijen.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/jamesbond.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jamesbond.zip",
+      "name": "jamesbond.zip",
+      "discoveredText": "james bond toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jamesbond.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/jammin.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jammin.zip",
+      "name": "jammin.zip",
+      "discoveredText": "jammin",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/jammin.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/picasa25.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/picasa25.exe",
+      "name": "picasa25.exe",
+      "discoveredText": "picasa25.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/picasa25.exe",
+      "localPath": "",
+      "status": "out-of-scope",
       "size": 0
     }
   ]

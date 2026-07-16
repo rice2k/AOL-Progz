@@ -166,6 +166,24 @@ const pages = [
       "Live directory with AIM 4.x/5.x installers, AOL 1.x/2.x/6/7/8/9 setup files, file sizes, and dates. Used for AOL/AIM version download leads.",
   },
   {
+    name: "Archive.org AOL creator software search",
+    url: "https://archive.org/search?query=creator%3A%22AOL%22&page=3&and%5B%5D=mediatype%3A%22software%22",
+    kind: "Archive.org software search",
+    notes: "User-supplied Internet Archive search for AOL-created software items and client-version leads.",
+  },
+  {
+    name: "Archive.org AOL software search",
+    url: "https://archive.org/search?query=aol&page=2&and%5B%5D=mediatype%3A%22software%22",
+    kind: "Archive.org software search",
+    notes: "User-supplied Internet Archive search for AOL software items, AOL Gold, client CDs, and utility leads.",
+  },
+  {
+    name: "Archive.org AIM AOL software search",
+    url: "https://archive.org/search?query=AIM+aol&page=2&and%5B%5D=mediatype%3A%22software%22",
+    kind: "Archive.org software search",
+    notes: "User-supplied Internet Archive search for AIM/AOL software items, DeadAIM, and related utility leads.",
+  },
+  {
     name: "darcfx submissions repository",
     url: "https://github.com/darcfx/darcfx-submissions",
     kind: "GitHub source repository",

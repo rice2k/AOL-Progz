@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
-| Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched web download links | 6 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
 | Author confidence | catalog only |
@@ -61,8 +61,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0451-config.zip](../../../../../files/aol/mixed/0451-config.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip)
@@ -102,7 +102,11 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| AIM | aimconfig12.zip | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig12.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig12.zip) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig12.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig12.zip) |
+| AIM | aimconfig13.zip | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig13.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig13.zip) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig13.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimconfig13.zip) |
+| APC/ | APC_Device_IP_Configuration_Wizard.exe | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) |
 | Aim Filez | Bot Config | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip) | [http://aimthings.com/aimfilez/BotConfig.zip](http://aimthings.com/aimfilez/BotConfig.zip) |
+| HP/ | HPDriverConfigurationUtility.zip | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) |
 | LensHell misc progs N-Z | pc access v 3.0 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip) | [http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip](http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip) |
 
 ### Mirror Leads
@@ -110,6 +114,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Aim Filez | BotConfig.zip | [http://aimthings.com/aimfilez/BotConfig.zip](http://aimthings.com/aimfilez/BotConfig.zip) | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip) | unknown | http-404 |
+| APC/ | APC_Device_IP_Configuration_Wizard.exe | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | unknown | candidate |
+| HP/ | HPDriverConfigurationUtility.zip | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, statSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 
@@ -385,6 +385,32 @@ function formatBytes(bytes) {
   return `${size.toFixed(unit === 0 ? 0 : 1)} ${units[unit]}`;
 }
 
+function directorySize(relativePath, options = {}) {
+  const base = path.join(rootDir, relativePath);
+  if (!existsSync(base)) return 0;
+  const exclude = new Set(options.exclude || []);
+  let total = 0;
+  const stack = [base];
+  while (stack.length) {
+    const current = stack.pop();
+    let stat;
+    try {
+      stat = statSync(current);
+    } catch {
+      continue;
+    }
+    if (stat.isDirectory()) {
+      for (const entry of readdirSync(current, { withFileTypes: true })) {
+        if (exclude.has(entry.name)) continue;
+        stack.push(path.join(current, entry.name));
+      }
+    } else {
+      total += stat.size;
+    }
+  }
+  return total;
+}
+
 function archiveFileName(program) {
   return clean(enrichmentFor(program).archiveFilename) || path.posix.basename(clean(program.file) || clean(program.download?.path) || "");
 }
@@ -501,13 +527,19 @@ function nextResearchAction(program, review = reviewProfile(program)) {
 function runtimeDownloadKind(item) {
   const value = `${item.sourceList || ""} ${item.discoveredText || ""} ${item.name || ""} ${item.originalUrl || ""}`.toLowerCase();
   const file = String(item.name || item.originalUrl || "").toLowerCase();
+  if (/archive\.org/.test(value) && /winamp skin/.test(value)) return "Winamp skin";
   if (/\.(dll|ocx|vbx)(?:$|[?#])/.test(file) || /\b(msvbvm|comdlg|riched|chatocx|chatscan|msinet|mswinsck|vb5chat|vb40032|vb40016)\b/.test(value)) {
     return "DLL/OCX runtime";
   }
   if (/\bdeadaim\b|jdennis\.net\/deadaim/.test(value)) return "DeadAIM / AIM enhancer";
-  if (/\b(aimplus|aim\s*pluss|aimster|aimcreat|aim\s*creation|aimfilez|aimthings)\b/.test(value)) return "AIM utility or enhancer";
+  if (/\b(aimplus|aim\s*pluss|aimster|aimcreat|aim\s*creation)\b/.test(value)) return "AIM utility or enhancer";
   if (/\b(format\s*sn|masteraol|aolfiledownloader|aol\s*file\s*downloader)\b/.test(value)) return "AOL utility";
-  if (/\b(aim44|aim\d|aim\s+\d|aol30german|aolp\d|setupaol|aolsetup|aol\dsetup)\b/.test(value)) return "AOL/AIM client installer";
+  if (
+    /archive\.org/.test(value) ||
+    /\b(aim44|aim\d|aim\s+\d|aol30german|aolp\d|setupaol|aolsetup|aol\dsetup)\b/.test(value)
+  ) {
+    return "AOL/AIM client installer";
+  }
   return "other";
 }
 
@@ -516,7 +548,12 @@ function isRuntimeDownload(item) {
 }
 
 function isDeadAimOrAimEnhancer(item) {
-  return /AIM/.test(runtimeDownloadKind(item)) || runtimeDownloadKind(item) === "DeadAIM / AIM enhancer";
+  const kind = runtimeDownloadKind(item);
+  return kind === "DeadAIM / AIM enhancer" || kind === "AIM utility or enhancer";
+}
+
+function isWinampSkinDownload(item) {
+  return runtimeDownloadKind(item) === "Winamp skin";
 }
 
 function isAolUtilityDownload(item) {
@@ -683,7 +720,7 @@ function isClientOrRuntimeDownload(item) {
   const value = `${item.sourceList || ""} ${item.discoveredText || ""} ${item.name || ""} ${item.originalUrl || ""}`.toLowerCase();
   const source = String(item.sourceList || "").toLowerCase();
   const file = String(item.name || item.originalUrl || "").toLowerCase();
-  if (/aol client and aim version directory|user-supplied dnx acp|user-supplied coltpro|user-supplied aol utility|aim versions|missing files/.test(source)) {
+  if (/archive\.org|aol client and aim version directory|user-supplied dnx acp|user-supplied coltpro|user-supplied aol utility|aim versions|missing files/.test(source)) {
     return true;
   }
   if (/\.(dll|ocx|vbx)(?:$|[?#])/.test(file)) return true;
@@ -701,6 +738,7 @@ const externalDownloads = readJson("data/external-downloads.json", { downloads: 
 const externalArchiveText = readJson("data/external-archive-text.json", { records: [], byLocalPath: {} });
 const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
 const programEnrichment = readJson("data/program-enrichment.json", { perProgram: {} });
+const archiveOrgSoftware = readJson("data/archiveorg-software.json", { items: [] });
 const externalDownloadByUrl = new Map((externalDownloads.downloads || []).map((item) => [canonicalUrl(item.originalUrl), item]));
 
 function recoveryForUrl(url) {
@@ -759,6 +797,9 @@ const userSuppliedLinks = [
   ["Methodus2000 base wildcard", "Wayback wildcard", "https://web.archive.org/web/*/http://methodus2000.com/"],
   ["Digital5k AOL progz article", "scene history article", "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html"],
   ["AOL client and AIM version directory", "AOL/AIM client download directory", "https://am.net/lib/TOOLS/AOL/"],
+  ["Archive.org AOL creator software search", "Archive.org software search", "https://archive.org/search?query=creator%3A%22AOL%22&page=3&and%5B%5D=mediatype%3A%22software%22"],
+  ["Archive.org AOL software search", "Archive.org software search", "https://archive.org/search?query=aol&page=2&and%5B%5D=mediatype%3A%22software%22"],
+  ["Archive.org AIM AOL software search", "Archive.org software search", "https://archive.org/search?query=AIM+aol&page=2&and%5B%5D=mediatype%3A%22software%22"],
   ["Click-Online AOL 4/5 progz", "AOL 4/5 prog list", "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm"],
   ["Click-Online root", "old prog/resource site", "https://web.archive.org/web/20021120062315/http://click-online2000.com/"],
   ["ColtPro root", "old prog/resource site", "https://web.archive.org/web/20010923065731/http://www.coltpro.net/"],
@@ -903,6 +944,24 @@ function buildMasterLinks() {
     add({ url: asset.url, label: asset.text, kind: "web image URL", source: asset.pageName, context: asset.status });
     add({ url: asset.originalUrl, label: asset.text, kind: "web image original URL", source: asset.pageName, context: asset.status });
   }
+  for (const item of archiveOrgSoftware.items || []) {
+    add({ url: item.itemUrl, label: item.title, kind: "Archive.org software item", source: "Archive.org AOL/AIM software", context: item.category || item.version || "" });
+    add({ url: item.metadataUrl, label: `${item.title} metadata`, kind: "Archive.org metadata API", source: "Archive.org AOL/AIM software", context: item.identifier || "" });
+    for (const file of item.files || []) {
+      if (file.downloadUrl) {
+        add({
+          url: file.downloadUrl,
+          label: file.name,
+          kind: file.importCandidate ? "Archive.org import candidate" : "Archive.org file",
+          source: item.title,
+          context: [item.category, item.version, file.sizeLabel].filter(Boolean).join("; "),
+        });
+      }
+    }
+    for (const image of item.images || []) {
+      add({ url: image.url, label: image.name, kind: "Archive.org preview image", source: item.title, context: image.sizeLabel || "" });
+    }
+  }
 
   return [...links.values()].map((item) => ({
     ...item,
@@ -1028,6 +1087,24 @@ function recoveredFileRecords() {
       detailPage: "",
     });
   }
+  for (const item of archiveOrgSoftware.items || []) {
+    for (const image of item.images || []) {
+      if (!image.localPath) continue;
+      rows.push({
+        kind: "Archive.org preview image",
+        name: `${item.title}: ${image.name}`,
+        status: "ready",
+        size: image.sizeLabel || formatBytes(image.size),
+        bytes: image.size || "",
+        sha1: "",
+        localPath: image.localPath,
+        source: item.itemUrl || "",
+        originalUrl: image.url || "",
+        waybackUrl: image.url || "",
+        detailPage: "",
+      });
+    }
+  }
   return uniqueBy(rows, (item) => `${item.kind}|${item.localPath}|${item.originalUrl}`).sort((a, b) => a.kind.localeCompare(b.kind) || a.name.localeCompare(b.name));
 }
 
@@ -1120,6 +1197,28 @@ function originalDownloadRecords() {
       detailPage: "",
     });
   }
+  for (const item of archiveOrgSoftware.items || []) {
+    add({
+      name: item.title || item.identifier,
+      kind: "Archive.org item page",
+      status: item.storageNote || "",
+      source: "Archive.org AOL/AIM software",
+      url: item.itemUrl,
+      localPath: "",
+      detailPage: `${generatedRoot}/sources/archiveorg-aol-aim-software.md`,
+    });
+    for (const file of item.files || []) {
+      add({
+        name: file.name || item.title || item.identifier,
+        kind: file.importCandidate ? "Archive.org import candidate" : "Archive.org file URL",
+        status: file.importCandidate ? "candidate" : "linked",
+        source: item.title || item.identifier,
+        url: file.downloadUrl,
+        localPath: "",
+        detailPage: `${generatedRoot}/sources/archiveorg-aol-aim-software.md`,
+      });
+    }
+  }
   for (const candidate of missingCandidates.candidates || []) {
     for (const mirror of candidate.mirrors || []) {
       add({
@@ -1200,6 +1299,7 @@ function sourceFamily(pageOrRow) {
   if (/loltoolz|ricejerry/.test(value)) return "RiceJerry / LoLToolz";
   if (/click-online/.test(value)) return "Click-Online";
   if (/aimfilez|aim files/.test(value)) return "AIMFilez";
+  if (/archive\.org|internet archive/.test(value)) return "Internet Archive";
   if (/aol-progz\.com/.test(value)) return "AOL-Progz.com";
   if (/justinakapaste|digital5k|plozee/.test(value)) return "Modern context/archive articles";
   if (/progzrescue|github/.test(value)) return "GitHub / ProgzRescue";
@@ -1273,6 +1373,128 @@ function lensHellCategoryRows() {
       ];
     })
     .sort((a, b) => Number(b[2]) - Number(a[2]) || a[0].localeCompare(b[0]));
+}
+
+function archiveOrgItemRows(fromDoc) {
+  return (archiveOrgSoftware.items || []).map((item) => {
+    const importFiles = (item.files || []).filter((file) => file.importCandidate);
+    const oversized = (item.files || []).filter((file) => Number(file.size || 0) >= 50 * 1024 * 1024);
+    const images = item.images || [];
+    return [
+      item.title || item.identifier,
+      item.category || "",
+      item.version || "",
+      item.date || "",
+      item.creator || "",
+      item.itemSizeLabel || formatBytes(item.itemSize),
+      String(importFiles.length),
+      String(oversized.length),
+      String(images.length),
+      item.storageNote || "",
+      item.itemUrl ? link(item.itemUrl, item.itemUrl) : "",
+      item.metadataUrl ? link("metadata", item.metadataUrl) : "",
+    ];
+  });
+}
+
+function archiveOrgVersionSummaryRows() {
+  const grouped = groupBy(archiveOrgSoftware.items || [], (item) => item.version || "unknown");
+  const versionRank = (label) => {
+    const text = String(label || "");
+    if (/unknown/i.test(text)) return 9999;
+    const match = text.match(/(\d+(?:\.\d+)?)/);
+    return match ? Number(match[1]) : 9000;
+  };
+  return [...grouped.entries()]
+    .map(([version, items]) => {
+      const categories = uniqueBy(items.map((item) => item.category || "uncategorized"), (item) => item).sort();
+      const importFiles = items.flatMap((item) => (item.files || []).filter((file) => file.importCandidate));
+      const oversized = items.flatMap((item) => (item.files || []).filter((file) => Number(file.size || 0) >= 50 * 1024 * 1024));
+      const years = uniqueBy(
+        items
+          .map((item) => String(item.date || "").match(/\d{4}/)?.[0])
+          .filter(Boolean),
+        (item) => item,
+      ).sort();
+      const samples = items
+        .slice(0, 5)
+        .map((item) => (item.itemUrl ? link(item.title || item.identifier, item.itemUrl) : item.title || item.identifier))
+        .join("<br>");
+      return [
+        version,
+        categories.join("<br>"),
+        String(items.length),
+        String(importFiles.length),
+        String(oversized.length),
+        years.length ? `${years[0]}${years.length > 1 ? `-${years[years.length - 1]}` : ""}` : "unknown",
+        samples,
+      ];
+    })
+    .sort((a, b) => versionRank(a[0]) - versionRank(b[0]) || a[0].localeCompare(b[0]));
+}
+
+function archiveOrgImportRows(fromDoc) {
+  const externalByArchiveUrl = new Map(
+    (externalDownloads.downloads || [])
+      .filter((item) => item.archiveOrgIdentifier || /archive\.org/i.test(`${item.sourceList || ""} ${item.originalUrl || ""}`))
+      .map((item) => [canonicalUrl(item.originalUrl), item]),
+  );
+  return (archiveOrgSoftware.items || [])
+    .flatMap((item) =>
+      (item.files || [])
+        .filter((file) => file.importCandidate)
+        .map((file) => {
+          const recovered = externalByArchiveUrl.get(canonicalUrl(file.downloadUrl)) || {};
+          return [
+            item.title || item.identifier,
+            item.category || "",
+            item.version || "",
+            file.name || "",
+            file.kind || "",
+            file.sizeLabel || formatBytes(file.size),
+            recovered.status || "candidate",
+            recovered.sha1 || file.sha1 || "",
+            recovered.localPath ? localLink(fromDoc, recovered.localPath, recovered.localPath) : "not recovered",
+            file.downloadUrl ? link(file.downloadUrl, file.downloadUrl) : "",
+          ];
+        }),
+    )
+    .sort((a, b) => a[0].localeCompare(b[0]) || a[3].localeCompare(b[3]));
+}
+
+function archiveOrgLinkedFileRows() {
+  return (archiveOrgSoftware.items || [])
+    .flatMap((item) =>
+      (item.files || [])
+        .filter((file) => !file.importCandidate && Number(file.size || 0) >= 50 * 1024 * 1024)
+        .map((file) => [
+          item.title || item.identifier,
+          item.category || "",
+          item.version || "",
+          file.name || "",
+          file.kind || "",
+          file.sizeLabel || formatBytes(file.size),
+          item.storageNote || "",
+          file.downloadUrl ? link(file.downloadUrl, file.downloadUrl) : "",
+        ]),
+    )
+    .sort((a, b) => Number((b[5].match(/\d+/) || [0])[0]) - Number((a[5].match(/\d+/) || [0])[0]) || a[0].localeCompare(b[0]));
+}
+
+function archiveOrgImageRows(fromDoc) {
+  return (archiveOrgSoftware.items || [])
+    .flatMap((item) =>
+      (item.images || []).map((image) => [
+        item.title || item.identifier,
+        item.category || "",
+        item.version || "",
+        image.name || "",
+        image.sizeLabel || formatBytes(image.size),
+        image.localPath ? localLink(fromDoc, image.localPath, image.localPath) : "",
+        image.url ? link(image.url, image.url) : "",
+      ]),
+    )
+    .sort((a, b) => a[0].localeCompare(b[0]) || a[3].localeCompare(b[3]));
 }
 
 const tagMap = new Map();
@@ -1615,8 +1837,10 @@ writeDoc(
     "- [LensHell category report](generated/sources/lenshell-categories.md)",
     "- [Recovered missing candidates](generated/sources/missing-ready.md)",
     "- [Runtime files](generated/sources/runtime-files.md)",
+    "- [Archive.org AOL/AIM software](generated/sources/archiveorg-aol-aim-software.md)",
     "- [DeadAIM and AIM enhancers](generated/sources/deadaim-aim-enhancers.md)",
     "- [AOL utilities](generated/sources/aol-utilities.md)",
+    "- [Winamp skins and media extras](generated/sources/winamp-skins.md)",
     "- [Categories](generated/categories/README.md)",
     "- [Prog type index](generated/categories/type-index.md)",
     "- [AOL version buckets](generated/versions/README.md)",
@@ -1712,8 +1936,10 @@ writeDoc(
     "- [LensHell category report](sources/lenshell-categories.md)",
     "- [Recovered missing candidates](sources/missing-ready.md)",
     "- [Runtime files](sources/runtime-files.md)",
+    "- [Archive.org AOL/AIM software](sources/archiveorg-aol-aim-software.md)",
     "- [DeadAIM and AIM enhancers](sources/deadaim-aim-enhancers.md)",
     "- [AOL utilities](sources/aol-utilities.md)",
+    "- [Winamp skins and media extras](sources/winamp-skins.md)",
     "- [Plain CSV/JSON exports](exports/README.md)",
     "- [Screenshots](screenshots/README.md)",
     "- [Statistics](statistics.md)",
@@ -2275,10 +2501,12 @@ writeDoc(
     "- [Recovered files](recovered-files.md)",
     "- [External download recovery status](external-downloads.md)",
     "- [External ZIP text evidence](external-archive-text.md)",
+    "- [Archive.org AOL/AIM software](archiveorg-aol-aim-software.md)",
     "- [AOL/AIM client and runtime downloads](aol-aim-client-downloads.md)",
     "- [DLL/OCX runtime files](runtime-files.md)",
     "- [DeadAIM and AIM enhancers](deadaim-aim-enhancers.md)",
     "- [AOL utilities](aol-utilities.md)",
+    "- [Winamp skins and media extras](winamp-skins.md)",
     "- [Resource and directory links](resource-links.md)",
     "- [LoLToolz AIM progs source report](loltoolz-aim-progs.md)",
     "- [Embedded archive URLs](embedded-archive-urls.md)",
@@ -2353,7 +2581,26 @@ writeDoc(
   ].join("\n"),
 );
 
-const sourceStatsRows = sourceSiteRows();
+const archiveOrgReadyDownloads = (externalDownloads.downloads || []).filter((item) =>
+  /archive\.org/i.test(`${item.sourceList || ""} ${item.originalUrl || ""}`),
+);
+const sourceStatsRows = [
+  ...sourceSiteRows(),
+  {
+    name: "Internet Archive AOL/AIM software",
+    kind: "software metadata/download source",
+    status: archiveOrgSoftware.itemCount ? "ok" : "not collected",
+    host: "archive.org",
+    links: (archiveOrgSoftware.items || []).reduce((sum, item) => sum + (item.files?.length || 0) + (item.images?.length || 0) + 2, 0),
+    downloads: (archiveOrgSoftware.items || []).reduce((sum, item) => sum + (item.files?.length || 0), 0),
+    externalAttempts: archiveOrgReadyDownloads.length,
+    recoveredDownloads: archiveOrgReadyDownloads.filter((item) => item.status === "ready").length,
+    imageAttempts: archiveOrgSoftware.imageCount || 0,
+    recoveredImages: archiveOrgSoftware.localImageCount || 0,
+    localPath: "docs/generated/sources/archiveorg-aol-aim-software.md",
+    url: "https://archive.org/search?query=aol&and%5B%5D=mediatype%3A%22software%22",
+  },
+];
 writeDoc(
   `${generatedRoot}/sources/top-source-sites.md`,
   [
@@ -2415,6 +2662,53 @@ writeDoc(
   ].join("\n"),
 );
 
+writeDoc(
+  `${generatedRoot}/sources/archiveorg-aol-aim-software.md`,
+  [
+    "# Archive.org AOL/AIM Software",
+    "",
+    "AOL, AOL Gold, AOL Desktop Gold, AIM, DeadAIM, and AOL/AIM-themed Winamp-skin items collected from Internet Archive search and metadata APIs. Small selected files are imported through the external-download manifest; large CD images stay as source links with sizes so GitHub does not become a giant ISO mirror.",
+    "",
+    `**Items tracked:** ${archiveOrgSoftware.itemCount || archiveOrgSoftware.items?.length || 0}`,
+    "",
+    `**Import candidates:** ${archiveOrgSoftware.importCandidateCount || 0} (${archiveOrgSoftware.importCandidateSizeLabel || formatBytes(archiveOrgSoftware.importCandidateBytes) || "unknown"})`,
+    "",
+    `**Preview images mirrored:** ${archiveOrgSoftware.localImageCount || 0} of ${archiveOrgSoftware.imageCount || 0}`,
+    "",
+    "## Version Summary",
+    "",
+    table(
+      ["Version", "Categories", "Items", "Import files", "Large link-only files", "Years", "Sample items"],
+      archiveOrgVersionSummaryRows(),
+    ),
+    "",
+    "## AOL/AIM Version Items",
+    "",
+    table(
+      ["Item", "Category", "Version", "Date", "Creator", "Item size", "Import files", "Oversized files", "Preview images", "Storage note", "Archive.org", "Metadata"],
+      archiveOrgItemRows(`${generatedRoot}/sources/archiveorg-aol-aim-software.md`),
+    ),
+    "",
+    "## Imported Or Importable Files",
+    "",
+    table(
+      ["Item", "Category", "Version", "File", "Kind", "Size", "Recovery status", "SHA1", "Local file", "Archive.org download URL"],
+      archiveOrgImportRows(`${generatedRoot}/sources/archiveorg-aol-aim-software.md`),
+    ),
+    "",
+    "## Large Link-Only Files",
+    "",
+    table(["Item", "Category", "Version", "File", "Kind", "Size", "Reason", "Archive.org download URL"], archiveOrgLinkedFileRows()),
+    "",
+    "## Preview Images And Screenshots",
+    "",
+    table(
+      ["Item", "Category", "Version", "Image", "Size", "Local image", "Archive.org image URL"],
+      archiveOrgImageRows(`${generatedRoot}/sources/archiveorg-aol-aim-software.md`),
+    ),
+  ].join("\n"),
+);
+
 const historicalSourceRows = [
   [
     "FreeProgz",
@@ -2451,6 +2745,12 @@ const historicalSourceRows = [
     "Wayback recovery URL lists",
     "Large recovered URL lists that feed mirror grouping, missing-candidate detection, and external-file recovery.",
     "https://github.com/raysuelzer/ProgzRescue",
+  ],
+  [
+    "Internet Archive AOL/AIM software",
+    "versioned client/download source",
+    "AOL, AOL Gold, AOL Desktop Gold, AIM, DeadAIM, and Winamp-skin software records with file sizes, source URLs, preview images, and local import candidates.",
+    "https://archive.org/search?query=aol&and%5B%5D=mediatype%3A%22software%22",
   ],
   [
     "AM.NET AOL tools directory",
@@ -2810,6 +3110,18 @@ writeDoc(
   ].join("\n"),
 );
 
+const winampSkinDownloads = (externalDownloads.downloads || []).filter(isWinampSkinDownload);
+writeDoc(
+  `${generatedRoot}/sources/winamp-skins.md`,
+  [
+    "# Winamp Skins And Media Extras",
+    "",
+    "AOL/AIM-adjacent Winamp skins and media extras found during Archive.org and old-web recovery. These are kept apart from progs because they are companion customization files rather than AOL client tools.",
+    "",
+    externalDownloadTable(`${generatedRoot}/sources/winamp-skins.md`, winampSkinDownloads),
+  ].join("\n"),
+);
+
 writeDoc(
   `${generatedRoot}/sources/resource-links.md`,
   [
@@ -3155,6 +3467,13 @@ writeDoc(
 );
 
 progress("statistics and glossary");
+const repoWorkingTreeSize = directorySize(".", { exclude: [".git"] });
+const gitObjectStoreSize = directorySize(".git");
+const filesDirectorySize = directorySize("files");
+const assetsDirectorySize = directorySize("assets");
+const docsDirectorySize = directorySize("docs");
+const dataDirectorySize = directorySize("data");
+
 writeDoc(
   `${generatedRoot}/screenshots/web-images.md`,
   [
@@ -3207,6 +3526,12 @@ writeDoc(
     table(
       ["Metric", "Value"],
       [
+        ["GitHub working-tree size", formatBytes(repoWorkingTreeSize)],
+        ["Git object store size", formatBytes(gitObjectStoreSize)],
+        ["files/ directory size", formatBytes(filesDirectorySize)],
+        ["assets/ directory size", formatBytes(assetsDirectorySize)],
+        ["docs/ directory size", formatBytes(docsDirectorySize)],
+        ["data/ directory size", formatBytes(dataDirectorySize)],
         ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
         ["Crawled links", String(webResources.linkCount || 0)],
         ["Crawled download links", String(webResources.downloadCount || 0)],
@@ -3228,6 +3553,12 @@ writeDoc(
         ["Runtime DLL/OCX leads", String(runtimeDownloads.length)],
         ["DeadAIM/AIM enhancer leads", String(aimEnhancerDownloads.length)],
         ["AOL utility/client leads", String(aolUtilityDownloads.length)],
+        ["Winamp skin/media leads", String(winampSkinDownloads.length)],
+        ["Archive.org AOL/AIM software items", String(archiveOrgSoftware.itemCount || archiveOrgSoftware.items?.length || 0)],
+        ["Archive.org import candidates", String(archiveOrgSoftware.importCandidateCount || 0)],
+        ["Archive.org import candidate size", archiveOrgSoftware.importCandidateSizeLabel || formatBytes(archiveOrgSoftware.importCandidateBytes)],
+        ["Archive.org preview images", String(archiveOrgSoftware.imageCount || 0)],
+        ["Archive.org local preview images", String(archiveOrgSoftware.localImageCount || 0)],
       ],
     ),
   ].join("\n"),

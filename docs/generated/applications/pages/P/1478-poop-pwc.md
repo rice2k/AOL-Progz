@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.6 MB |
-| Matched web download links | 2 |
+| Matched web download links | 3 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -61,7 +61,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1478-poop-pwc.zip](../../../../../files/aol/aol-4-0/1478-poop-pwc.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
 - Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aicrackse2.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aicrackse2.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aicrackse2.zip)
@@ -108,6 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | LensHell AIM progs | ai-crack se² | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip) | [http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip](http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip) |
 | Aim Crackers | Aicrackse2 | [https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip](https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip) | [http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip](http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip) |
+| AIM | aicrackse2.zip | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aicrackse2.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aicrackse2.zip) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aicrackse2.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aicrackse2.zip) |
 
 ### Mirror Leads
 

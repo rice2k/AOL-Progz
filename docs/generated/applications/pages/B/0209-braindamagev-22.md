@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.2 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0209-bd22.zip](../../../../../files/aol/aol-4-0/0209-bd22.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/braindamagev22.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/braindamagev22.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/braindamagev22.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/braindamagev22.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/braindamagev22.zip)
@@ -111,6 +111,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: c-coms | bd22.zip | [http://lenshellarchive.com/Progs/aolccoms/bd22.zip](http://lenshellarchive.com/Progs/aolccoms/bd22.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip) | [files/external/lenshellarchive-com/bd22-029aaaae.zip](../../../../../files/external/lenshellarchive-com/bd22-029aaaae.zip) | ready |
+| Web page: Aol 4.0/5.0 Progs | braindamagev22.zip | [http://www.oogle.net/downloads/progs/braindamagev22.zip](http://www.oogle.net/downloads/progs/braindamagev22.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/braindamagev22.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/braindamagev22.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

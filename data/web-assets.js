@@ -1,12 +1,12 @@
 window.AOL_PROGZ_WEB_ASSETS = {
-  "generatedAt": "2026-07-16T14:40:41.623Z",
-  "assetCount": 893,
-  "readyCount": 166,
+  "generatedAt": "2026-07-16T19:02:22.325Z",
+  "assetCount": 895,
+  "readyCount": 168,
   "byStatus": {
-    "http-404": 689,
-    "ready": 166,
-    "failed": 22,
-    "not-image": 16
+    "http-404": 697,
+    "ready": 168,
+    "not-image": 19,
+    "failed": 11
   },
   "assets": [
     {
@@ -180,7 +180,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "http://www.aol-progz.com/index.shtml",
       "pageUrl": "https://web.archive.org/web/20010301094602/http://www.aol-progz.com/index.shtml",
       "localPath": "",
-      "status": "failed",
+      "status": "not-image",
       "size": 0
     },
     {
@@ -898,7 +898,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "AimThings",
       "pageUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1008,7 +1008,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "AimThings",
       "pageUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1019,7 +1019,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "AimThings",
       "pageUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1261,7 +1261,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1283,7 +1283,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1316,7 +1316,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1338,7 +1338,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1360,7 +1360,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1382,7 +1382,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1404,7 +1404,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1426,7 +1426,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -9601,7 +9601,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "RiceJerry links",
       "pageUrl": "https://web.archive.org/web/20010223212351/http://www.8op.com:80/ricejerry/links.html",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -9647,7 +9647,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "Home",
       "pageUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/aaa.html",
       "localPath": "",
-      "status": "failed",
+      "status": "not-image",
       "size": 0
     },
     {
@@ -9704,7 +9704,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "ProgStation AIM",
       "pageUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net:80/aim.html",
       "localPath": "",
-      "status": "failed",
+      "status": "not-image",
       "size": 0
     },
     {
@@ -9959,6 +9959,28 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "localPath": "assets/web-resources/aolunderground-com/icon-loader.svg",
       "status": "ready",
       "size": 1005
+    },
+    {
+      "text": "loveaol.png",
+      "url": "http://justinakapaste.com/images/loveaol.png",
+      "originalUrl": "http://justinakapaste.com/images/loveaol.png",
+      "type": "image",
+      "pageName": "http://justinakapaste.com/category/aolers-rip/",
+      "pageUrl": "http://justinakapaste.com/category/aolers-rip/",
+      "localPath": "assets/web-resources/justinakapaste-com/loveaol.png",
+      "status": "ready",
+      "size": 1917
+    },
+    {
+      "text": "running-man.gif",
+      "url": "http://justinakapaste.com/images/running-man.gif",
+      "originalUrl": "http://justinakapaste.com/images/running-man.gif",
+      "type": "image",
+      "pageName": "Digital5k.com | JustinAKAPaste.com (AOLForever)",
+      "pageUrl": "http://justinakapaste.com/2014/01/aol-progz-a-digital-throw-back-to-aol-1995/",
+      "localPath": "assets/web-resources/justinakapaste-com/running-man.gif",
+      "status": "ready",
+      "size": 2586597
     }
   ]
 };

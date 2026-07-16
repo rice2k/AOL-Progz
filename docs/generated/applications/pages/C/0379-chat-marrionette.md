@@ -45,14 +45,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | catalog only |
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | low (1) |
-| Manual review flags | no readable text evidence |
-| Next research action | Review metadata when more source evidence is found. |
+| Review priority | low (3) |
+| Manual review flags | no readable text evidence, web image lead needs screenshot match |
+| Next research action | Match the web image lead to the correct program page or screenshot entry. |
 
 ## Tags
 
@@ -109,7 +109,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| CCCSTyle Mini Toolz | Chat-Marrionette.png?fit=75%2C35&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Chat-Marrionette.png?fit=75%2C35&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Chat-Marrionette.png?fit=75%2C35&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Chat-Marrionette.png?fit=75%2C35&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Chat-Marrionette.png?fit=75%2C35&amp;ssl=1) |
 
 ## Related Indexes
 

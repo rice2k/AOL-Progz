@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 5 |
 | Matched mirror leads | 5 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 2 |
 | Author confidence | catalog only |
 | Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
@@ -127,6 +127,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
 | AOL Logos | aol-communications-red-green-small-22501.jpg?fit=600%2C399&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1) |
+| StackQL MCP Server | platform-windows%20macos%20linux-brightgreen?style=flat-square | [https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square](https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square) | [https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square](https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square) |
 
 ## Related Indexes
 

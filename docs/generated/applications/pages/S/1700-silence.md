@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 1 |
-| Matched mirror leads | 6 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 6 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip)
@@ -117,8 +117,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | ProgzRescue Angelfire files | aimcreate11.zip | [http://www.angelfire.com/ego/lost_silence/aimcreate11.zip](http://www.angelfire.com/ego/lost_silence/aimcreate11.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate11.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate11.zip) | [files/external/angelfire-com/aimcreate11.zip](../../../../../files/external/angelfire-com/aimcreate11.zip) | ready |
 | ProgzRescue Angelfire files | aimcreate21.zip | [http://www.angelfire.com/ego/lost_silence/aimcreate21.zip](http://www.angelfire.com/ego/lost_silence/aimcreate21.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate21.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate21.zip) | [files/external/angelfire-com/aimcreate21.zip](../../../../../files/external/angelfire-com/aimcreate21.zip) | ready |
 | ProgzRescue Angelfire files | crackwhore.zip | [http://www.angelfire.com/ego/lost_silence/crackwhore.zip](http://www.angelfire.com/ego/lost_silence/crackwhore.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip) | [files/external/angelfire-com/crackwhore.zip](../../../../../files/external/angelfire-com/crackwhore.zip) | ready |
-| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | unknown | http-404 |
-| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | unknown | http-404 |
 | Aim Crackers | crackwhore.zip | [http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | [https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | unknown | http-404 |
 
 ### Web Image Leads

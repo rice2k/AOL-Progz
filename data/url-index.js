@@ -1,5 +1,5 @@
 window.AOL_PROGZ_URL_INDEX = {
-  "generatedAt": "2026-07-15T18:05:01.491Z",
+  "generatedAt": "2026-07-16T19:03:12.896Z",
   "scannedPrograms": 1672,
   "programsWithUrls": 170,
   "perProgram": {
@@ -3332,11 +3332,6 @@ window.AOL_PROGZ_URL_INDEX = {
       "urls": [
         {
           "url": "http://members.xoom.com/Gizmo_Crew",
-          "foundIn": "blinkmm.exe",
-          "source": "archive text"
-        },
-        {
-          "url": "http://members.xoom.com/Gizmo_Crew/index.html",
           "foundIn": "blinkmm.exe",
           "source": "archive text"
         }
@@ -7355,11 +7350,6 @@ window.AOL_PROGZ_URL_INDEX = {
       "urls": [
         {
           "url": "http://www.ritman.com/lenshell",
-          "foundIn": "!ReadMe!.txt",
-          "source": "archive text"
-        },
-        {
-          "url": "http://www.ritman.com/lenshell/index.htm",
           "foundIn": "!ReadMe!.txt",
           "source": "archive text"
         }
@@ -21842,6 +21832,24 @@ window.AOL_PROGZ_URL_INDEX = {
       "sourcePath": "programming/misc/icons/100aol/DFX.htm",
       "line": 64,
       "source": "repository text"
+    },
+    {
+      "url": "http://knk.tierranet.com",
+      "sourcePath": "programming/misc/icons/608icons/file_id.diz",
+      "line": 16,
+      "source": "repository text"
+    },
+    {
+      "url": "http://knk.tierranet.com/knk",
+      "sourcePath": "programming/misc/icons/608icons/file_id.diz",
+      "line": 22,
+      "source": "repository text"
+    },
+    {
+      "url": "http://knk.tierranet.com/knk4o",
+      "sourcePath": "programming/misc/icons/608icons/file_id.diz",
+      "line": 23,
+      "source": "repository text"
     }
   ],
   "global": [
@@ -22069,13 +22077,6 @@ window.AOL_PROGZ_URL_INDEX = {
       "foundIn": "file_id.diz"
     },
     {
-      "url": "http://lenshell.com",
-      "source": "archive text",
-      "programId": "prog-0843-globallinka",
-      "programName": "GlobalLinka",
-      "foundIn": "GlobalLinka.exe"
-    },
-    {
       "url": "http://members.aol.com/ron2222",
       "source": "archive text",
       "programId": "prog-0914-hookshot-roombuster-v4",
@@ -22105,13 +22106,6 @@ window.AOL_PROGZ_URL_INDEX = {
     },
     {
       "url": "http://members.xoom.com/Gizmo_Crew",
-      "source": "archive text",
-      "programId": "prog-0259-blinkmm",
-      "programName": "blinkmm",
-      "foundIn": "blinkmm.exe"
-    },
-    {
-      "url": "http://members.xoom.com/Gizmo_Crew/index.html",
       "source": "archive text",
       "programId": "prog-0259-blinkmm",
       "programName": "blinkmm",
@@ -23037,13 +23031,6 @@ window.AOL_PROGZ_URL_INDEX = {
     },
     {
       "url": "http://www.ritman.com/lenshell",
-      "source": "archive text",
-      "programId": "prog-0570-diegod",
-      "programName": "DieGod",
-      "foundIn": "!ReadMe!.txt"
-    },
-    {
-      "url": "http://www.ritman.com/lenshell/index.htm",
       "source": "archive text",
       "programId": "prog-0570-diegod",
       "programName": "DieGod",

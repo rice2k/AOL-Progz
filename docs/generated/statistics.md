@@ -89,24 +89,36 @@
 
 | Metric | Value |
 | --- | --- |
-| Crawled source pages | 1200 |
-| Crawled links | 16796 |
-| Crawled download links | 5147 |
-| Recovered external files | 526 |
-| Local recovered file records | 2364 |
-| External ZIPs scanned for text | 384 |
-| External ZIPs with readable text | 208 |
+| GitHub working-tree size | 3.2 GB |
+| Git object store size | 3.9 GB |
+| files/ directory size | 2.9 GB |
+| assets/ directory size | 17.3 MB |
+| docs/ directory size | 68.8 MB |
+| data/ directory size | 190.2 MB |
+| Crawled source pages | 1500 |
+| Crawled links | 19890 |
+| Crawled download links | 6253 |
+| Recovered external files | 578 |
+| Local recovered file records | 2635 |
+| External ZIPs scanned for text | 402 |
+| External ZIPs with readable text | 214 |
 | External ZIPs with author clues | 69 |
-| External ZIPs with version clues | 7 |
-| External ZIPs with purpose clues | 155 |
-| Missing candidates | 2365 |
-| Recovered missing candidates | 306 |
-| Master deduped link index | 28564 |
-| Deduped original/download URLs | 9621 |
+| External ZIPs with version clues | 8 |
+| External ZIPs with purpose clues | 159 |
+| Missing candidates | 3105 |
+| Recovered missing candidates | 334 |
+| Master deduped link index | 33838 |
+| Deduped original/download URLs | 12844 |
 | Programs needing manual review | 1946 |
-| High-priority review entries | 1288 |
-| Medium-priority review entries | 658 |
+| High-priority review entries | 1287 |
+| Medium-priority review entries | 659 |
 | Low-priority coverage-gap entries | 158 |
 | Runtime DLL/OCX leads | 42 |
-| DeadAIM/AIM enhancer leads | 172 |
-| AOL utility/client leads | 32 |
+| DeadAIM/AIM enhancer leads | 7 |
+| AOL utility/client leads | 98 |
+| Winamp skin/media leads | 2 |
+| Archive.org AOL/AIM software items | 173 |
+| Archive.org import candidates | 42 |
+| Archive.org import candidate size | 205 MB |
+| Archive.org preview images | 217 |
+| Archive.org local preview images | 217 |

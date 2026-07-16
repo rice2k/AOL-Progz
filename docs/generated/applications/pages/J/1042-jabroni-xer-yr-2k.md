@@ -43,7 +43,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 - Local mirrored archive: [files/aol/aol-5-0/1042-jabronixer.zip](../../../../../files/aol/aol-5-0/1042-jabronixer.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/jabroni xer for aol 5.0 yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/jabroni%20xer%20for%20aol%205.0%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/jabroni%20xer%20for%20aol%205.0%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/jabroni%20xer%20for%20aol%205.0%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/jabroni%20xer%20for%20aol%205.0%20yr2k.zip)
@@ -109,6 +109,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell xers | jabronixer.zip | [http://lenshellarchive.com/Progs/aolxers/jabronixer.zip](http://lenshellarchive.com/Progs/aolxers/jabronixer.zip) | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/jabronixer.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/jabronixer.zip) | unknown | http-404 |
 | Progs Section 1 | jabronix.zip | [http://www.cybernyse.com/jabronix.zip](http://www.cybernyse.com/jabronix.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/jabronix.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/jabronix.zip) | unknown | candidate |
 
 ### Web Image Leads

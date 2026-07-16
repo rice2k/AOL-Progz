@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.6 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | readme/archive text |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0503-c-cms-v.zip](../../../../../files/aol/aol-4-0/0503-c-cms-v.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/co2coms.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/co2coms.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/co2coms.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/co2coms.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/co2coms.zip)
@@ -119,6 +119,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: c-coms | co2coms.zip | [http://lenshellarchive.com/Progs/aolccoms/co2coms.zip](http://lenshellarchive.com/Progs/aolccoms/co2coms.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/co2coms.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/co2coms.zip) | [files/external/lenshellarchive-com/co2coms-6c3ab2e6.zip](../../../../../files/external/lenshellarchive-com/co2coms-6c3ab2e6.zip) | ready |
+| Web page: Aol 4.0/5.0 Progs | co2coms.zip | [http://www.oogle.net/downloads/progs/co2coms.zip](http://www.oogle.net/downloads/progs/co2coms.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/co2coms.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/co2coms.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

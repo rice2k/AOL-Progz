@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 7 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 7 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/tortuga.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/tortuga.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/tortuga.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/tortuga.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/tortuga.zip)
@@ -115,6 +115,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Click-Online AOL 4/5 progz | tortuga.zip | [http://click-online2000.com/progz/tortuga.zip](http://click-online2000.com/progz/tortuga.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/tortuga.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/tortuga.zip) | unknown | http-404 |
+| Web page: Aol 4.0/5.0 Progs | tortuga3.zip | [http://www.oogle.net/downloads/progs/tortuga3.zip](http://www.oogle.net/downloads/progs/tortuga3.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/tortuga3.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/tortuga3.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

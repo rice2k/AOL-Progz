@@ -43,7 +43,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Download status | ready |
 | Local mirrored size | 3.9 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -62,7 +62,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 - Local mirrored archive: [files/aol/mixed/0606-dreamcatcher.zip](../../../../../files/aol/mixed/0606-dreamcatcher.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/dreamcatcher for aol 5.0 yr2k password=NYTS DA MAN.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/dreamcatcher%20for%20aol%205.0%20yr2k%20password%3DNYTS%20DA%20MAN.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/dreamcatcher%20for%20aol%205.0%20yr2k%20password%3DNYTS%20DA%20MAN.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/dreamcatcher%20for%20aol%205.0%20yr2k%20password%3DNYTS%20DA%20MAN.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/dreamcatcher%20for%20aol%205.0%20yr2k%20password%3DNYTS%20DA%20MAN.zip)
@@ -112,6 +112,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Click-Online AOL 4/5 progz | dreamcatcher.zip | [http://click-online2000.com/progz/dreamcatcher.zip](http://click-online2000.com/progz/dreamcatcher.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/dreamcatcher.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/dreamcatcher.zip) | unknown | http-404 |
+| Web page: Aol 4.0/5.0 Progs | dreamcatcher.zip | [http://www.oogle.net/downloads/progs/dreamcatcher.zip](http://www.oogle.net/downloads/progs/dreamcatcher.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dreamcatcher.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dreamcatcher.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

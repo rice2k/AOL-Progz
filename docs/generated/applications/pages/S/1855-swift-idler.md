@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | old-web lead |
-| Review priority | high (14) |
-| Manual review flags | main local file missing, category uncertain, type uncertain, web image lead needs screenshot match |
+| Review priority | high (12) |
+| Manual review flags | main local file missing, category uncertain, type uncertain |
 | Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
@@ -109,9 +109,7 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| AOL Disks by numb | Swift-Idler.png?fit=205%2C65&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

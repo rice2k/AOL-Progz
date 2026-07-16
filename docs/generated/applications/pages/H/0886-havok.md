@@ -43,7 +43,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Download status | ready |
 | Local mirrored size | 1.8 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 3 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -62,7 +62,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 - Local mirrored archive: [files/aol/aol-4-0/0886-havok.zip](../../../../../files/aol/aol-4-0/0886-havok.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip)
@@ -115,6 +115,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell misc progs A-M | havok.zip | [http://lenshellarchive.com/Progs/aolprogs/havok.zip](http://lenshellarchive.com/Progs/aolprogs/havok.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip) | unknown | http-404 |
 | AIM | aimproghavoksaimprog.zip | [http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimproghavoksaimprog.zip | [http://24.185.191.87/progz/aimproghavoksaimprog.zip](http://24.185.191.87/progz/aimproghavoksaimprog.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip) | unknown | candidate |
 | Macintosh | Mac%20Havok%20Gold%20Palette.hqx | [http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) | unknown | candidate |

@@ -83,7 +83,6 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | URL | Found in | Source |
 | --- | --- | --- |
 | [http://members.xoom.com/Gizmo_Crew](http://members.xoom.com/Gizmo_Crew) | blinkmm.exe | archive text |
-| [http://members.xoom.com/Gizmo_Crew/index.html](http://members.xoom.com/Gizmo_Crew/index.html) | blinkmm.exe | archive text |
 
 ## Web Research
 

@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (11) |
-| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence |
+| Review priority | high (13) |
+| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence, web image lead needs screenshot match |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -111,7 +111,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AIM 5.5 AdKill | Nuclear32.png?fit=689%2C427&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/Nuclear32.png?fit=689%2C427&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/Nuclear32.png?fit=689%2C427&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/Nuclear32.png?fit=689%2C427&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/Nuclear32.png?fit=689%2C427&amp;ssl=1) |
 
 ## Related Indexes
 

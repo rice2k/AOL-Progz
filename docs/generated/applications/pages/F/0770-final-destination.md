@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0770-final-destination.zip](../../../../../files/aol/aol-4-0/0770-final-destination.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip)
@@ -121,6 +121,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: LensHell misc progs A-M | finaldestination.zip | [http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) | unknown | http-404 |
+| Web page: Aol 4.0/5.0 Progs | finaldestination.zip | [http://www.oogle.net/downloads/progs/finaldestination.zip](http://www.oogle.net/downloads/progs/finaldestination.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

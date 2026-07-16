@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 4 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/revolutionx.zip)
@@ -111,6 +111,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: Aol 4.0/5.0 Progs | revolutionx.zip | [http://www.oogle.net/downloads/progs/revolutionx.zip](http://www.oogle.net/downloads/progs/revolutionx.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip) | unknown | http-404 |
 | LensHell c-coms | revolutionxccom.zip | [http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip](http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip) | unknown | candidate |
 
 ### Web Image Leads

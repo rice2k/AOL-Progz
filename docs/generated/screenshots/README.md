@@ -1,6 +1,6 @@
 # Screenshots And Recovered Web Images
 
-The main catalog currently has 6 application entries with mirrored source screenshots. The web-resource crawl has 166 ready image assets from old pages.
+The main catalog currently has 6 application entries with mirrored source screenshots. The web-resource crawl has 168 ready image assets from old pages.
 
 ## Application Screenshot Coverage
 

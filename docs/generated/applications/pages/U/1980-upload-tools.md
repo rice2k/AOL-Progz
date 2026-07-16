@@ -45,13 +45,13 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | catalog only |
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | old-web lead |
-| Review priority | medium (5) |
-| Manual review flags | main local file missing |
+| Review priority | medium (7) |
+| Manual review flags | main local file missing, web image lead needs screenshot match |
 | Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
@@ -109,7 +109,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| CCCSTyle Mini Toolz | uploadtools.jpg?fit=282%2C229&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uploadtools.jpg?fit=282%2C229&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uploadtools.jpg?fit=282%2C229&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uploadtools.jpg?fit=282%2C229&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uploadtools.jpg?fit=282%2C229&amp;ssl=1) |
 
 ## Related Indexes
 

@@ -43,7 +43,7 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 1 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 
 - Local mirrored archive: [files/aol/aol-4-0/0893-heatspam.zip](../../../../../files/aol/aol-4-0/0893-heatspam.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/heat spammer %b2%b7%ba.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/heat%20spammer%20%25b2%25b7%25ba.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/heat%20spammer%20%25b2%25b7%25ba.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/heat%20spammer%20%25b2%25b7%25ba.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/heat%20spammer%20%25b2%25b7%25ba.zip)
@@ -109,6 +109,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | spammer.zip | [http://www.angelfire.com/sc/syicodog/images/spammer.zip](http://www.angelfire.com/sc/syicodog/images/spammer.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/sc/syicodog/images/spammer.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/sc/syicodog/images/spammer.zip) | [files/external/angelfire-com/spammer.zip](../../../../../files/external/angelfire-com/spammer.zip) | ready |
+| Web page: LensHell misc progs A-M | heatspam.zip | [http://lenshellarchive.com/Progs/aolprogs/heatspam.zip](http://lenshellarchive.com/Progs/aolprogs/heatspam.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/heatspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/heatspam.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

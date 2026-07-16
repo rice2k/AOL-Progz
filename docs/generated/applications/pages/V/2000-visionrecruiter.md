@@ -43,13 +43,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 9 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
-| Source confidence | old-web lead |
+| Source confidence | external mirror |
 | Review priority | high (14) |
 | Manual review flags | main local file missing, category uncertain, type uncertain, web image lead needs screenshot match |
 | Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
@@ -62,6 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 9 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/visionrecruiter.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/visionrecruiter.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/visionrecruiter.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/visionrecruiter.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/visionrecruiter.zip)
@@ -105,7 +106,17 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Archive.org: AOL client/version | Setup.exe | [https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe](https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe) | [https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe](https://archive.org/download/aol-7.0-revision-4114.540-32-bit/Setup.exe) | [files/external/archive-org/setup-18e227a8.exe](../../../../../files/external/archive-org/setup-18e227a8.exe) | ready |
+| LensHell AOL AIM Yahoo clients | setup325.zip | [http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip](http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip) | [https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip](https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip) | unknown | http-404 |
+| LensHell AOL AIM Yahoo clients | setup325.zip | [http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip](http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip) | [https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip](https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip) | unknown | http-404 |
+| AOL client and AIM version directory | setup325.zip | [http://am.net/lib/TOOLS/AOL/aol7setup.exe](http://am.net/lib/TOOLS/AOL/aol7setup.exe) | [http://am.net/lib/TOOLS/AOL/aol7setup.exe](http://am.net/lib/TOOLS/AOL/aol7setup.exe) | unknown | ready |
+| AOL client and AIM version directory | setup325.zip | [http://am.net/lib/TOOLS/AOL/aol8setup.exe](http://am.net/lib/TOOLS/AOL/aol8setup.exe) | [http://am.net/lib/TOOLS/AOL/aol8setup.exe](http://am.net/lib/TOOLS/AOL/aol8setup.exe) | unknown | ready |
+| AOL client and AIM version directory | setup325.zip | [http://am.net/lib/TOOLS/AOL/aol9setup.exe](http://am.net/lib/TOOLS/AOL/aol9setup.exe) | [http://am.net/lib/TOOLS/AOL/aol9setup.exe](http://am.net/lib/TOOLS/AOL/aol9setup.exe) | unknown | ready |
+| AOL client and AIM version directory | setup325.zip | [http://am.net/lib/TOOLS/AOL/aolsetup.exe](http://am.net/lib/TOOLS/AOL/aolsetup.exe) | [http://am.net/lib/TOOLS/AOL/aolsetup.exe](http://am.net/lib/TOOLS/AOL/aolsetup.exe) | unknown | ready |
+| Archive.org: AOL client/version | setup325.zip | [https://archive.org/download/aol-setup-32/SETUP32.EXE](https://archive.org/download/aol-setup-32/SETUP32.EXE) | [https://archive.org/download/aol-setup-32/SETUP32.EXE](https://archive.org/download/aol-setup-32/SETUP32.EXE) | unknown | ready |
+| Archive.org: AOL client/version | setup325.zip | [https://archive.org/download/setup-323/SETUP323.EXE](https://archive.org/download/setup-323/SETUP323.EXE) | [https://archive.org/download/setup-323/SETUP323.EXE](https://archive.org/download/setup-323/SETUP323.EXE) | unknown | ready |
 
 ### Web Image Leads
 

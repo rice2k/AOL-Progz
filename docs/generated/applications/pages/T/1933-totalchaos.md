@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | old-web lead |
-| Review priority | high (15) |
-| Manual review flags | main local file missing, category uncertain, type uncertain, author unknown |
+| Review priority | high (17) |
+| Manual review flags | main local file missing, category uncertain, type uncertain, author unknown, web image lead needs screenshot match |
 | Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
@@ -109,7 +109,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| StackQL MCP Server | total?label=github%20downloads | [https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads](https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads) | [https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads](https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads) |
 
 ## Related Indexes
 

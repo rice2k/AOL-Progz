@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 0 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 3 |
+| Web image leads | 4 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
@@ -113,6 +113,7 @@ No external mirror leads are matched to this entry yet.
 | --- | --- | --- | --- |
 | aol star | AOL-Invoke-List.png?fit=1408%2C768&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1) |
 | Rampage Toolz (Read Me) | AOL-Invoke-List.png?fit=75%2C41&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1) |
+| RonEGrant AOL CEO | invoke.jpg?fit=191%2C233&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/invoke.jpg?fit=191%2C233&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/invoke.jpg?fit=191%2C233&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/invoke.jpg?fit=191%2C233&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/invoke.jpg?fit=191%2C233&amp;ssl=1) |
 | Y! Birthday Cracker | winvoke.jpg?fit=64%2C75&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1) |
 
 ## Related Indexes

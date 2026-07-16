@@ -42,26 +42,27 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
-| Matched web download links | 0 |
-| Matched mirror leads | 0 |
+| Matched web download links | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | readme/archive text |
 | AOL/version confidence | unknown |
-| Source confidence | local catalog mirror |
-| Review priority | medium (6) |
-| Manual review flags | category uncertain, no old-web download or mirror lead |
+| Source confidence | local + old-web lead |
+| Review priority | medium (4) |
+| Manual review flags | category uncertain |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1454-pkzip.zip](../../../../../files/aol/mixed/1454-pkzip.zip)
-- Old-web / Wayback download leads: not matched yet
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/faltoser.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/faltoser.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/faltoser.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/faltoser.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/faltoser.zip)
@@ -101,11 +102,18 @@ No specific old-page program mention is matched to this entry yet.
 
 ### Matched Web Download Links
 
-No additional old-page download links are matched to this entry yet.
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| Downloads.txt | http://download.pkzip.com/pub/pkware/products/win/pkreader.exe | [http://download.pkzip.com/pub/pkware/products/win/pkreader.exe](http://download.pkzip.com/pub/pkware/products/win/pkreader.exe) | [http://download.pkzip.com/pub/pkware/products/win/pkreader.exe](http://download.pkzip.com/pub/pkware/products/win/pkreader.exe) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Downloads.txt | pkreader.exe | [http://download.pkzip.com/pub/pkware/products/win/pkreader.exe](http://download.pkzip.com/pub/pkware/products/win/pkreader.exe) | [http://download.pkzip.com/pub/pkware/products/win/pkreader.exe](http://download.pkzip.com/pub/pkware/products/win/pkreader.exe) | unknown | candidate |
+| .. | pkreader.exe | [http://am.net/lib/TOOLS/pkreader.exe](http://am.net/lib/TOOLS/pkreader.exe) | [http://am.net/lib/TOOLS/pkreader.exe](http://am.net/lib/TOOLS/pkreader.exe) | unknown | candidate |
 
 ### Web Image Leads
 

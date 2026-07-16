@@ -43,16 +43,16 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 2.3 MB |
 | Matched web download links | 0 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
-| Source confidence | local catalog mirror |
-| Review priority | low (3) |
-| Manual review flags | no old-web download or mirror lead, no readable text evidence |
-| Next research action | Search source link directories and Wayback for an original download URL. |
+| Source confidence | local + old-web lead |
+| Review priority | low (1) |
+| Manual review flags | no readable text evidence |
+| Next research action | Review metadata when more source evidence is found. |
 
 ## Tags
 
@@ -62,6 +62,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 - Local mirrored archive: [files/aol/aol-4-0/0928-hush-ccom.zip](../../../../../files/aol/aol-4-0/0928-hush-ccom.zip)
 - Old-web / Wayback download leads: not matched yet
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hushccom.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hushccom.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hushccom.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hushccom.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hushccom.zip)
@@ -101,7 +102,9 @@ No additional old-page download links are matched to this entry yet.
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell c-coms | hushccom.zip | [http://lenshellarchive.com/Progs/aolccoms/hushccom.zip](http://lenshellarchive.com/Progs/aolccoms/hushccom.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hushccom.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/hushccom.zip) | [files/external/lenshellarchive-com/hushccom-ee96ae2e.zip](../../../../../files/external/lenshellarchive-com/hushccom-ee96ae2e.zip) | ready |
 
 ### Web Image Leads
 

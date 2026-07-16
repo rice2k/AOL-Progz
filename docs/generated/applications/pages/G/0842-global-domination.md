@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.1 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
 | Author confidence | catalog only |
@@ -62,6 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0842-global.zip](../../../../../files/aol/aol-4-0/0842-global.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/global domination for aol 5.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/global%20domination%20for%20aol%205.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/global%20domination%20for%20aol%205.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/global%20domination%20for%20aol%205.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/global%20domination%20for%20aol%205.0.zip)
@@ -116,7 +117,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell misc progs A-M | global.zip | [http://lenshellarchive.com/Progs/aolprogs/global.zip](http://lenshellarchive.com/Progs/aolprogs/global.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/global.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/global.zip) | unknown | http-404 |
+| Web page: Aol 4.0/5.0 Progs | global.zip | [http://www.oogle.net/downloads/progs/global.zip](http://www.oogle.net/downloads/progs/global.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/global.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/global.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

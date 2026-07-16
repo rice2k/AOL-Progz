@@ -7,6 +7,7 @@ const listDir = path.join(rootDir, "data", "external-url-lists");
 const manifestPath = path.join(rootDir, "data", "external-downloads.json");
 const manifestJsPath = path.join(rootDir, "data", "external-downloads.js");
 const webResourcesPath = path.join(rootDir, "data", "web-resources.json");
+const archiveOrgPath = path.join(rootDir, "data", "archiveorg-software.json");
 const limit = Number(process.env.AOL_EXTERNAL_DOWNLOAD_LIMIT || 50);
 const maxMb = Number(process.env.AOL_EXTERNAL_MAX_MB || 50);
 const timeoutMs = Number(process.env.AOL_EXTERNAL_TIMEOUT_MS || 25000);
@@ -124,7 +125,8 @@ const directDownloads = [
 
 const likelyPattern =
   /(aol|aim|prog|proggie|progz|toolz|punter|punt|booter|boot|fader|fade|mmer|mail|tos|term|idler|idle|phish|fish|crack|cracker|buster|room|chat|macro|scroll|hell|ccom|c-com|x'er|xer|server|vb|ocx|dll)/i;
-const extensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx)(?:$|[?#])/i;
+const extensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx|iso|img|ima|wsz|bin|cue)(?:$|[?#])/i;
+const archiveOrgExtensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx|iso|img|ima|wsz|bin|cue)(?:$|[?#])/i;
 
 function slugify(value) {
   return String(value || "")
@@ -214,9 +216,35 @@ function parseWebResourceCandidates() {
     .filter((candidate) => extensionPattern.test(candidate.originalUrl));
 }
 
+function parseArchiveOrgCandidates() {
+  if (!existsSync(archiveOrgPath)) return [];
+  const data = JSON.parse(readFileSync(archiveOrgPath, "utf8"));
+  const candidates = [];
+  for (const item of data.items || []) {
+    for (const file of item.files || []) {
+      if (!file.importCandidate || !file.downloadUrl || !archiveOrgExtensionPattern.test(file.name || file.downloadUrl)) continue;
+      candidates.push({
+        sourceList: `Archive.org: ${item.category || "AOL/AIM software"}`,
+        sourceListUrl: item.itemUrl,
+        originalUrl: file.downloadUrl,
+        waybackUrl: file.downloadUrl,
+        downloadUrl: file.downloadUrl,
+        name: file.name,
+        discoveredText: [item.version, item.title, item.storageNote].filter(Boolean).join(" - "),
+        archiveOrgIdentifier: item.identifier,
+        archiveOrgTitle: item.title,
+        archiveOrgPage: item.itemUrl,
+        expectedSha1: file.sha1 || "",
+      });
+    }
+  }
+  return candidates;
+}
+
 function candidatePriority(candidate) {
   const value = `${candidate.originalUrl} ${candidate.name} ${candidate.sourceList}`.toLowerCase();
   if (/methodus|netbus/.test(value)) return 0;
+  if (/archive\.org/.test(value)) return 1;
   if (/freeprogz|oogle|lenshell|loltoolz|ricejerry|progstation|aol-progz|aimthings/.test(value)) return 1;
   if (candidate.sourceList?.startsWith("Web page:")) return 2;
   return 5;
@@ -247,6 +275,7 @@ function githubRawUrl(url) {
 }
 
 function downloadUrlFor(candidate) {
+  if (candidate.downloadUrl) return candidate.downloadUrl;
   return githubRawUrl(candidate.originalUrl) || githubRawUrl(candidate.waybackUrl) || candidate.waybackUrl;
 }
 
@@ -256,6 +285,8 @@ function isOutOfScope(candidate) {
   } ${candidate.name || ""}`.toLowerCase();
   return (
     /releases\.stackql\.io|github\.com\/mcp\/stackql/.test(value) ||
+    /am\.net\/lib\/tools\/google\//.test(value) ||
+    /web page:\s*google\//.test(value) ||
     /ottorockit\/media\/01-|\/images\/gradpics\.zip|dutchmarine\/fotos\d*\.zip/.test(value)
   );
 }
@@ -318,7 +349,7 @@ function isGithubMirror(item) {
 
 function restoreExpectedLocalPaths(downloads) {
   for (const item of downloads) {
-    if (item.status !== "ready" || !item.localPath || isGithubMirror(item)) continue;
+  if (item.status !== "ready" || !item.localPath || isGithubMirror(item)) continue;
     let expected = "";
     try {
       expected = targetFor(item);
@@ -390,8 +421,12 @@ async function downloadFile(candidate) {
   const target = path.join(rootDir, localPath);
   if (existsSync(target) && statSync(target).size > 0) {
     const validation = validateLocalDownload(localPath);
+    const sha1 = validation.ok ? sha1File(localPath) : "";
+    if (validation.ok && candidate.expectedSha1 && sha1 && sha1.toLowerCase() !== candidate.expectedSha1.toLowerCase()) {
+      return { ...candidate, downloadUrl, localPath: "", status: "sha1-mismatch", size: validation.size, sha1 };
+    }
     return validation.ok
-      ? { ...candidate, downloadUrl, localPath, status: "ready", size: validation.size }
+      ? { ...candidate, downloadUrl, localPath, status: "ready", size: validation.size, sha1 }
       : { ...candidate, downloadUrl, localPath: "", status: validation.status, size: validation.size };
   }
 
@@ -424,6 +459,15 @@ async function downloadFile(candidate) {
     await new Promise((resolve) => out.end(resolve));
     await import("node:fs").then(({ renameSync }) => renameSync(temp, target));
     const validation = validateLocalDownload(localPath);
+    const sha1 = validation.ok ? sha1File(localPath) : "";
+    if (validation.ok && candidate.expectedSha1 && sha1 && sha1.toLowerCase() !== candidate.expectedSha1.toLowerCase()) {
+      try {
+        await import("node:fs").then(({ unlinkSync }) => unlinkSync(target));
+      } catch {
+        // The manifest status is enough if cleanup fails.
+      }
+      return { ...candidate, downloadUrl, localPath: "", status: "sha1-mismatch", size: validation.size, sha1 };
+    }
     if (!validation.ok) {
       try {
         await import("node:fs").then(({ unlinkSync }) => unlinkSync(target));
@@ -432,7 +476,7 @@ async function downloadFile(candidate) {
       }
       return { ...candidate, downloadUrl, localPath: "", status: validation.status, size: validation.size };
     }
-    return { ...candidate, downloadUrl, localPath, status: "ready", size };
+    return { ...candidate, downloadUrl, localPath, status: "ready", size, sha1 };
   } catch (error) {
     return { ...candidate, downloadUrl, localPath: "", status: error.name === "AbortError" ? "timeout" : "failed", size };
   } finally {
@@ -518,6 +562,7 @@ function buildMirrorGroups(downloads, candidates) {
 
 async function main() {
   const allCandidates = [...directDownloads, ...parseWebResourceCandidates()];
+  allCandidates.push(...parseArchiveOrgCandidates());
   for (const list of urlLists) {
     const text = await fetchList(list);
     allCandidates.push(...parseCandidates(list, text));

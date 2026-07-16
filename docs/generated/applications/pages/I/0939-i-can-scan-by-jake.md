@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 0 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local catalog mirror |
-| Review priority | high (9) |
-| Manual review flags | category uncertain, type uncertain, no old-web download or mirror lead |
+| Review priority | high (11) |
+| Manual review flags | category uncertain, type uncertain, no old-web download or mirror lead, web image lead needs screenshot match |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -109,7 +109,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Make AOL Great Again | icanscan.jpg?fit=360%2C213&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/icanscan.jpg?fit=360%2C213&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/icanscan.jpg?fit=360%2C213&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/icanscan.jpg?fit=360%2C213&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/icanscan.jpg?fit=360%2C213&amp;ssl=1) |
 
 ## Related Indexes
 

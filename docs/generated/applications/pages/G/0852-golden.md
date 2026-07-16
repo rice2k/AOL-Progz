@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 11 |
+| Matched mirror leads | 12 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0852-gold.zip](../../../../../files/aol/aol-4-0/0852-gold.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 11 link(s) listed below
+- Matched mirror leads: 12 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip)
@@ -118,6 +118,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | ProgzRescue Angelfire files | emailform.zip | [http://www.angelfire.com/80s/golden/emailform.zip](http://www.angelfire.com/80s/golden/emailform.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/emailform.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/emailform.zip) | [files/external/angelfire-com/emailform.zip](../../../../../files/external/angelfire-com/emailform.zip) | ready |
 | ProgzRescue Angelfire files | mail555.zip | [http://www.angelfire.com/80s/golden/mail555.zip](http://www.angelfire.com/80s/golden/mail555.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/mail555.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/mail555.zip) | [files/external/angelfire-com/mail555.zip](../../../../../files/external/angelfire-com/mail555.zip) | ready |
 | ProgzRescue Angelfire files | vb.zip | [http://www.angelfire.com/80s/golden/vb.zip](http://www.angelfire.com/80s/golden/vb.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/vb.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/vb.zip) | [files/external/angelfire-com/vb.zip](../../../../../files/external/angelfire-com/vb.zip) | ready |
+| Web page: LensHell xers | golden.zip | [http://lenshellarchive.com/Progs/aolxers/golden.zip](http://lenshellarchive.com/Progs/aolxers/golden.zip) | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip) | unknown | http-404 |
 | LensHell runtime files | vb40016.zip | [http://lenshellarchive.com/Progs/vbxdll/vb40016.zip](http://lenshellarchive.com/Progs/vbxdll/vb40016.zip) | [https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip](https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip) | unknown | candidate |
 | Missing Files | vb40016.zip | [http://www.aimfilez.com/files/missing/vb40016.dll](http://www.aimfilez.com/files/missing/vb40016.dll) | [https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll](https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll) | unknown | ready |
 | Missing Files | vb40016.zip | [http://www.aimfilez.com/files/missing/vb40032.dll](http://www.aimfilez.com/files/missing/vb40032.dll) | [https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll](https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll) | unknown | ready |

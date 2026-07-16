@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 4 |
+| Matched web download links | 5 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
@@ -61,7 +61,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-5-0/0803-fusion.zip](../../../../../files/aol/aol-5-0/0803-fusion.zip)
-- Old-web / Wayback download leads: 4 link(s) listed below
+- Old-web / Wayback download leads: 5 link(s) listed below
 - Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion x for aol 5.0 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip)
@@ -105,6 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Titan Spaceports progs | Cold Fusion 1.0 | [https://web.archive.org/web/20010504044037/http://members.tripod.com/dlmatrix/CFOmg.zip](https://web.archive.org/web/20010504044037/http://members.tripod.com/dlmatrix/CFOmg.zip) | [http://members.tripod.com/dlmatrix/CFOmg.zip](http://members.tripod.com/dlmatrix/CFOmg.zip) |
 | Titan Spaceports progs | Cold Fusion 3 Macro Theif | [https://web.archive.org/web/20010504044037/http://members.xoom.com/matrixdl/theif.zip](https://web.archive.org/web/20010504044037/http://members.xoom.com/matrixdl/theif.zip) | [http://members.xoom.com/matrixdl/theif.zip](http://members.xoom.com/matrixdl/theif.zip) |
 | LensHell c-coms | fusion x | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip) | [http://lenshellarchive.com/Progs/aolccoms/fusion.zip](http://lenshellarchive.com/Progs/aolccoms/fusion.zip) |
+| NetTools/ | fusion40.exe | [http://am.net/lib/TOOLS/NetTools/fusion40.exe](http://am.net/lib/TOOLS/NetTools/fusion40.exe) | [http://am.net/lib/TOOLS/NetTools/fusion40.exe](http://am.net/lib/TOOLS/NetTools/fusion40.exe) |
 | Progs Section 1 | I2 Fusion ToolBox | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip) | [http://www.cybernyse.com/i2fusiontoolbox.zip](http://www.cybernyse.com/i2fusiontoolbox.zip) |
 
 ### Mirror Leads

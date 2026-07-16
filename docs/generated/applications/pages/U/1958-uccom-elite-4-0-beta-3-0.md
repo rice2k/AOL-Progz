@@ -45,13 +45,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 0 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | unknown |
 | Source confidence | catalog metadata only |
-| Review priority | high (16) |
-| Manual review flags | main local file missing, category uncertain, type uncertain, no old-web download or mirror lead, web image lead needs screenshot match |
+| Review priority | high (14) |
+| Manual review flags | main local file missing, category uncertain, type uncertain, no old-web download or mirror lead |
 | Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
@@ -105,9 +105,7 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| Y! Birthday Cracker | uccom4.jpg?fit=274%2C350&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

@@ -108,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| LensHell misc progs A-M | indifference.zip | [http://lenshellarchive.com/Progs/aolprogs/indifference.zip](http://lenshellarchive.com/Progs/aolprogs/indifference.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/indifference.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/indifference.zip) | unknown | candidate |
+| Web page: LensHell misc progs A-M | indifference.zip | [http://lenshellarchive.com/Progs/aolprogs/indifference.zip](http://lenshellarchive.com/Progs/aolprogs/indifference.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/indifference.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/indifference.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

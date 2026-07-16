@@ -43,7 +43,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 4 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 - Local mirrored archive: [files/aol/aol-4-0/0392-chattoolz2.zip](../../../../../files/aol/aol-4-0/0392-chattoolz2.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat toolz2.0 beta yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip)
@@ -113,12 +113,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: LensHell AIM progs | chattoolz2.zip | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) | unknown | http-404 |
 | Web page: prog's/misc a-m | chattoolz2beta.zip | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | unknown | http-404 |
+| Web page: Aol 4.0/5.0 Progs | chattoolz2.zip | [http://www.oogle.net/downloads/progs/chattoolz2.zip](http://www.oogle.net/downloads/progs/chattoolz2.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip) | unknown | http-404 |
 
 ### Web Image Leads
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
-| Make AOL Great Again | ChatToolz2-1.png?fit=180%2C75&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1) |
+| AIM Screen Name Idle | ChatToolz2-1.png?fit=180%2C75&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1) |
 
 ## Related Indexes
 

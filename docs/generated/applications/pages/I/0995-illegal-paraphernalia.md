@@ -108,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| LensHell busters | paraphernalia.zip | [http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip](http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip) | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip) | unknown | candidate |
+| Web page: LensHell busters | paraphernalia.zip | [http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip](http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip) | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/paraphernalia.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.6 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | readme/archive text |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0863-grabit.zip](../../../../../files/aol/aol-4-0/0863-grabit.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/grabit.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/grabit.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/grabit.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/grabit.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/grabit.zip)
@@ -114,8 +114,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| APPLICATIONS | grabit_pro.zip | [http://server38.hypermart.net/progstation/grabit_pro.zip](http://server38.hypermart.net/progstation/grabit_pro.zip) | [https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip](https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip) | unknown | candidate |
-| http://progstation.hypermart.net/ | grabit_pro.zip | [http://progstation.hypermart.net/grabit_pro.zip](http://progstation.hypermart.net/grabit_pro.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip) | unknown | candidate |
+| Web page: APPLICATIONS | grabit_pro.zip | [http://server38.hypermart.net/progstation/grabit_pro.zip](http://server38.hypermart.net/progstation/grabit_pro.zip) | [https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip](https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | grabit.zip | [http://lenshellarchive.com/Progs/aolprogs/grabit.zip](http://lenshellarchive.com/Progs/aolprogs/grabit.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip) | unknown | http-404 |
+| Web page: http://progstation.hypermart.net/ | grabit_pro.zip | [http://progstation.hypermart.net/grabit_pro.zip](http://progstation.hypermart.net/grabit_pro.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip) | unknown | http-404 |
 
 ### Web Image Leads
 
