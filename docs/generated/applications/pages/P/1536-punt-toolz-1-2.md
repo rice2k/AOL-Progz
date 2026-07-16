@@ -2,7 +2,7 @@
 
 
 
-A disruptive disconnect/booting category from AOL chat-room history. Preserved as historical vocabulary only. Filename/catalog cues suggest: punter/booter vocabulary.
+A disruptive disconnect/booting category from AOL chat-room history. Preserved as historical vocabulary only. Filename/catalog cues suggest: punter/booter vocabulary. Readable archive text also suggests: All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
 
@@ -19,13 +19,20 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | File size | 452 KB |
 | Author | SaBeR |
 | Catalog author | SaBeR |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0 |
+| AOL/version bucket | AOL 4.0; archive text: AOL 6.0, AOL 2.56 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | AOL 6.0, AOL 2.56 |
 | Prog type | All-in-one prog suite |
 | Category | punter |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility |
+| Archive text files reviewed | read me !.txt |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -39,19 +46,20 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#punter](../../../tags/punter.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#punter](../../../tags/punter.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1536-punt-toolz-1-2.zip](../../../../../files/aol/aol-4-0/1536-punt-toolz-1-2.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip)
-- Matched web download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punttoolz12.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+Readable archive text also mentions: **AOL 6.0, AOL 2.56**.
 
 ## Screenshots
 
@@ -70,6 +78,14 @@ These URLs were found in safely readable archive text. They are recorded as prov
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| read me !.txt | none | All-in-one prog suite<br>Punter / booter<br>Media / file utility<br>AOL/AIM chat utility | AOL 6.0<br>AOL 2.56 | read me !.txt mentions AOL 6.0, AOL 2.56.<br>read me !.txt has vocabulary for All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility. |
 
 ### Source Mentions
 

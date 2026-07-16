@@ -4,4 +4,4 @@
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 869 | [Soilentgreen](../../applications/pages/G/0869-soilentgreen.md) | Green | Unknown / needs review | uncategorized | AOL 4.0 | sending | 630 KB | [local](../../../../files/aol/aol-4-0/0869-green.zip) | 0 |
+| 869 | [Soilentgreen](../../applications/pages/G/0869-soilentgreen.md) | Green | Room buster | uncategorized | AOL 4.0; archive text: AOL 2.5 | sending | 630 KB | [local](../../../../files/aol/aol-4-0/0869-green.zip) | 0 |

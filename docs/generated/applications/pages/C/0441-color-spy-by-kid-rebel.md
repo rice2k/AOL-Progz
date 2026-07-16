@@ -2,7 +2,7 @@
 
 
 
-A text effect utility, usually for color fades, styled text, profile text, room text, or IM formatting.
+A text effect utility, usually for color fades, styled text, profile text, room text, or IM formatting. Readable archive text also suggests: Media / file utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -19,13 +19,20 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | File size | 1.3 MB |
 | Author | Team |
 | Catalog author | Team |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | Media / file utility |
+| Archive text files reviewed | Color Spy/Read Me File.txt |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -39,19 +46,20 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#mixedunknown](../../../tags/mixedunknown.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0441-color-spy-by-kid-rebel.zip](../../../../../files/aol/mixed/0441-color-spy-by-kid-rebel.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip)
-- Matched web download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/handicapd.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Mixed/unknown** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -64,6 +72,14 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| Color Spy/Read Me File.txt | none | Media / file utility | none | Color Spy/Read Me File.txt has vocabulary for Media / file utility. |
 
 ### Source Mentions
 

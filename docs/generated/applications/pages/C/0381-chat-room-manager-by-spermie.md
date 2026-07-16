@@ -2,7 +2,7 @@
 
 
 
-A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Filename/catalog cues suggest: room buster vocabulary.
+A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Filename/catalog cues suggest: room buster vocabulary. Readable archive text also suggests: Source / developer file, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -19,13 +19,20 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | File size | 1.4 MB |
 | Author | spermie |
 | Catalog author | spermie |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0; inferred: AOL 7-9 |
+| AOL/version bucket | AOL 4.0; inferred: AOL 7-9; archive text: AOL 7.0, AOL 9.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 7-9 |
+| Archive-text AOL/version mentions | AOL 7.0, AOL 9.0 |
 | Prog type | Chat / IM utility |
 | Category | chat or IM tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | Source / developer file, AOL/AIM chat utility |
+| Archive text files reviewed | chat room manager/READ ME!!!.txt<br>aciddr0p.netReadMe.txt |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -39,18 +46,20 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0381-chat-room-manager-by-spermie.zip](../../../../../files/aol/aol-4-0/0381-chat-room-manager-by-spermie.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager aol7-9.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager aol7-9.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatroommanager%20aol7-9.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+Readable archive text also mentions: **AOL 7.0, AOL 9.0**.
 
 ## Screenshots
 
@@ -67,6 +76,14 @@ These URLs were found in safely readable archive text. They are recorded as prov
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| chat room manager/READ ME!!!.txt<br>aciddr0p.netReadMe.txt | none | Source / developer file<br>AOL/AIM chat utility | AOL 7.0<br>AOL 9.0 | chat room manager/READ ME!!!.txt mentions AOL 7.0, AOL 9.0.<br>chat room manager/READ ME!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Source Mentions
 

@@ -2,7 +2,7 @@
 
 
 
-A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only.
+A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Readable archive text also suggests: Fader / text styler, Scroller / macro.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -19,13 +19,20 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | File size | 4.1 MB |
 | Author | myke |
 | Catalog author | myke |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | chat or IM tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | Fader / text styler, Scroller / macro |
+| Archive text files reviewed | presets/audio class.ini<br>presets/hmmm.ini<br>presets/inward.ini<br>presets/inward2.ini<br>presets/lexy =).ini<br>presets/myke.ini<br>presets/punt.ini<br>presets/punt2.ini<br>read me.txt<br>aciddr0p.netReadMe.txt |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -39,19 +46,21 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0357-ccompublic.zip](../../../../../files/aol/aol-4-0/0357-ccompublic.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip)
+- Old-web / Wayback download leads: not matched yet
 - Matched mirror leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wccomsbeta3aol4-5.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -64,6 +73,14 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| presets/audio class.ini<br>presets/hmmm.ini<br>presets/inward.ini<br>presets/inward2.ini<br>presets/lexy =).ini<br>presets/myke.ini<br>presets/punt.ini<br>presets/punt2.ini<br>read me.txt<br>aciddr0p.netReadMe.txt | none | Fader / text styler<br>Scroller / macro | none | presets/audio class.ini has vocabulary for Fader / text styler, Scroller / macro.<br>presets/hmmm.ini has vocabulary for Scroller / macro.<br>presets/inward.ini has vocabulary for Scroller / macro.<br>presets/inward2.ini has vocabulary for Scroller / macro.<br>presets/lexy =).ini has vocabulary for Scroller / macro.<br>presets/myke.ini has vocabulary for Scroller / macro.<br>presets/punt.ini has vocabulary for Fader / text styler, Scroller / macro.<br>presets/punt2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Source Mentions
 

@@ -4,7 +4,7 @@
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 9 | [-Le- idler](../applications/pages/0-9-symbols/0009-le-idler.md) | -Le- idler | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0009-le-idler.zip) | 0 |
+| 9 | [-Le- idler](../applications/pages/0-9-symbols/0009-le-idler.md) | -Le- idler | Idler / AFK bot | idler or bot | AOL 4.0; archive text: AOL 7.0, AOL 9.1 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0009-le-idler.zip) | 0 |
 | 10 | [-spitfire- idle 1.2 beta](../applications/pages/0-9-symbols/0010-spitfire-idle-1-2-beta.md) | -spitfire- idle 1.2 beta | Idler / AFK bot | idler or bot | AOL 4.0 | Spitfire | 1.6 MB | [local](../../../files/aol/aol-4-0/0010-spitfire-idle-1-2-beta.zip) | 0 |
 | 11 | [-spitfire- idle v2.0 beta](../applications/pages/0-9-symbols/0011-spitfire-idle-v2-0-beta.md) | -spitfire- idle v2.0 beta | Idler / AFK bot | idler or bot | AOL 4.0 | Spitfire | 1.8 MB | [local](../../../files/aol/aol-4-0/0011-spitfire-idle-v2-0-beta.zip) | 0 |
 | 2120 | [«-»UFG Idle«-»](../applications/pages/0-9-symbols/2120-ufg-idle.md) | «-»UFG Idle«-» | Idler / AFK bot | idler or bot | AOL 4.0 | aCe | unknown | remote-only | 0 |
@@ -112,7 +112,7 @@
 | 1226 | [Mass Konfusion Idle](../applications/pages/M/1226-mass-konfusion-idle.md) | masskonfusion | Idler / AFK bot | idler or bot | AOL 5.0 | unknown | 22 B | [local](../../../files/aol/aol-5-0/1226-masskonfusion.zip) | 0 |
 | 1246 | [MenaCe' idle 2.0](../applications/pages/M/1246-menace-idle-2-0.md) | MenaCe' idle 2.0 | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 1.3 MB | [local](../../../files/aol/aol-4-0/1246-menace-idle-2-0.zip) | 0 |
 | 1251 | [metal╣ idle](../applications/pages/M/1251-metal-idle.md) | metal╣ idle | Idler / AFK bot | idler or bot | AOL 4.0 | silence | 1.4 MB | [local](../../../files/aol/aol-4-0/1251-metal-idle.zip) | 0 |
-| 1255 | [Metroid Idler Win ALL Yr 04](../applications/pages/M/1255-metroid-idler-win-all-yr-04.md) | Metroid Idler | Idler / AFK bot | idler or bot | AOL 4.0; inferred: AOL 7.0-9.0 | ZIP | 1.5 MB | [local](../../../files/aol/aol-4-0/1255-metroid-idler.zip) | 0 |
+| 1255 | [Metroid Idler Win ALL Yr 04](../applications/pages/M/1255-metroid-idler-win-all-yr-04.md) | Metroid Idler | Idler / AFK bot | idler or bot | AOL 4.0; inferred: AOL 7.0-9.0; archive text: AOL 7, AOL 9 | ZIP | 1.5 MB | [local](../../../files/aol/aol-4-0/1255-metroid-idler.zip) | 0 |
 | 1256 | [Metroid Idler V 2 Win ALL Yr 04](../applications/pages/M/1256-metroid-idler-v-2-win-all-yr-04.md) | Metroid Idler v² | Idler / AFK bot | idler or bot | AOL 4.0; inferred: AOL 7.0-9.0 | ZIP | 1.5 MB | [local](../../../files/aol/aol-4-0/1256-metroid-idler-v2.zip) | 0 |
 | 1260 | [Micro Idler And 5.0](../applications/pages/M/1260-micro-idler-and-5-0.md) | Microidle | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1260-microidle.zip) | 0 |
 | 1314 | [mystikidler](../applications/pages/M/1314-mystikidler.md) | mystikidler | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1314-mystikidler.zip) | 0 |

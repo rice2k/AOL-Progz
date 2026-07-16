@@ -1,6 +1,6 @@
 window.AOL_PROGZ_MISSING_CANDIDATES = {
-  "generatedAt": "2026-07-15T19:19:37.994Z",
-  "candidateCount": 1262,
+  "generatedAt": "2026-07-16T04:32:12.963Z",
+  "candidateCount": 1272,
   "readyCandidateCount": 181,
   "candidates": [
     {
@@ -710,7 +710,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "remoteidle",
       "fileName": "remoteidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/remoteidle.zip",
@@ -1019,7 +1019,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "astroidlevel",
       "fileName": "astroidlevel.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.angelfire.com/mt/snowscorpionstudios/astroidlevel.zip",
@@ -4365,7 +4365,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "botz",
       "fileName": "botz2.zip",
-      "category": "unknown",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/botz2.zip",
@@ -5306,7 +5306,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "blindidle",
       "fileName": "blindidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/blindidle.zip",
@@ -5562,7 +5562,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cryofade",
       "fileName": "cryofade.zip",
-      "category": "fader",
+      "category": "room buster",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/cryofade.zip",
@@ -6076,7 +6076,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ieeto",
       "fileName": "ieeto.zip",
-      "category": "unknown",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.oogle.net/downloads/progs/ieeto.zip",
@@ -6357,7 +6357,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "liquidsoulbeta",
       "fileName": "liquidsoulbeta.zip",
-      "category": "unknown",
+      "category": "room buster",
       "mirrors": [
         {
           "url": "http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
@@ -6409,7 +6409,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "marioonline",
       "fileName": "marioonlinev5.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://www.oogle.net/downloads/progs/marioonlinev5.zip",
@@ -7108,6 +7108,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "skinz",
+      "fileName": "1337skinz.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/1337skinz.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/1337skinz.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "yrs",
       "fileName": "13yrs.zip",
       "category": "unknown",
@@ -7186,7 +7205,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dfxapi",
       "fileName": "3dfxapi3.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/3dfxapi3.zip",
@@ -7338,7 +7357,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "abbot",
       "fileName": "abbotaim.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/abbotaim.zip",
@@ -7414,7 +7433,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "activeskin",
       "fileName": "activeskin.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/activeskin.zip",
@@ -7737,7 +7756,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "assimilation",
       "fileName": "aimassimilation.zip",
-      "category": "AIM",
+      "category": "mass mailer/server",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/aimassimilation.zip",
@@ -8307,7 +8326,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "flooder",
       "fileName": "aimflooder.zip",
-      "category": "AIM",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/aimflooder.zip",
@@ -9675,7 +9694,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "alienskin",
       "fileName": "AlienSkin.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://server39.hypermart.net/wipeout/AlienSkin.zip",
@@ -9808,7 +9827,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "amxidler",
       "fileName": "amxidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/amxidler.zip",
@@ -10074,7 +10093,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "chatbot",
       "fileName": "aol8chatbot.zip",
-      "category": "chat/macro",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip",
@@ -10226,7 +10245,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "quickbuddy",
       "fileName": "aolquickbuddy.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/aolquickbuddy.zip",
@@ -10682,7 +10701,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "away-k",
       "fileName": "away2k.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/away2k.zip",
@@ -10834,7 +10853,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "bbl-idle",
       "fileName": "bbl2idle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/bbl2idle.zip",
@@ -10853,7 +10872,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "bdas",
       "fileName": "bdas2.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/bdas2.zip",
@@ -10891,7 +10910,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "bedtime",
       "fileName": "bedtime.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/bedtime.zip",
@@ -11062,7 +11081,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "blazeidle",
       "fileName": "blazeidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/blazeidle.zip",
@@ -11081,7 +11100,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "blazeidler",
       "fileName": "blazeidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/blazeidler.zip",
@@ -11138,7 +11157,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "blizacoms",
       "fileName": "blizacoms.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://www.oogle.net/downloads/progs/blizacoms.zip",
@@ -11195,7 +11214,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "blue",
       "fileName": "blue.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/blue.zip",
@@ -11480,7 +11499,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "brbidler",
       "fileName": "brbidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/brbidler.zip",
@@ -11518,7 +11537,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "buddahidle",
       "fileName": "buddahidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/buddahidle.zip",
@@ -11575,7 +11594,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "buddy",
       "fileName": "buddy.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://server39.hypermart.net/wipeout/buddy.zip",
@@ -11587,6 +11606,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "VISUAL BASIC"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "buddyblaster",
+      "fileName": "buddyblaster.zip",
+      "category": "mass mailer/server",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/buddyblaster.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/buddyblaster.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -12012,7 +12050,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "chaos",
       "fileName": "chaos232.zip",
-      "category": "unknown",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/chaos232.zip",
@@ -12297,7 +12335,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cheezy",
       "fileName": "cheezy.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/cheezy.zip",
@@ -12392,7 +12430,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "chronicidle",
       "fileName": "chronicidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip",
@@ -12430,7 +12468,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cinemablue",
       "fileName": "cinemablue.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
@@ -12449,7 +12487,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cinemagreen",
       "fileName": "cinemagreen.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip",
@@ -12525,7 +12563,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cloc",
       "fileName": "cloc.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/cloc.zip",
@@ -12544,7 +12582,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cloneridle",
       "fileName": "cloneridle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip",
@@ -12582,7 +12620,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cmdialog",
       "fileName": "cmdialog.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/cmdialog.zip",
@@ -12618,9 +12656,28 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "codezap",
+      "fileName": "codezap.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/codezap.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/codezap.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "coldlayout",
       "fileName": "coldlayout.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/coldlayout.zip",
@@ -12791,7 +12848,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cookiemonster",
       "fileName": "cookiemonster.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/cookiemonster.zip",
@@ -13133,7 +13190,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "crapidleremix",
       "fileName": "crapidleremix.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/crapidleremix.zip",
@@ -13171,7 +13228,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "crazyhobo",
       "fileName": "crazyhobo.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/crazyhobo.zip",
@@ -13266,7 +13323,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cs",
       "fileName": "cs.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/cs.zip",
@@ -13492,6 +13549,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "darkzoid",
+      "fileName": "darkzoid.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/darkzoid.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/darkzoid.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "dbpush",
       "fileName": "dbpush.zip",
       "category": "unknown",
@@ -13589,7 +13665,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "deadmassim",
       "fileName": "deadmassim.zip",
-      "category": "AIM",
+      "category": "mass mailer/server",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/deadmassim.zip",
@@ -13874,7 +13950,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "digitalidle",
       "fileName": "digitalidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/digitalidle.zip",
@@ -14007,7 +14083,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dltech",
       "fileName": "dltech.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/dltech.zip",
@@ -14254,7 +14330,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dupekill",
       "fileName": "dupekill.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/dupekill.zip",
@@ -14368,7 +14444,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "echobotsource",
       "fileName": "echobotsource.zip",
-      "category": "unknown",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/echobotsource.zip",
@@ -14425,7 +14501,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "editor",
       "fileName": "editor.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://members.xoom.com/matrixdl/editor.zip",
@@ -14615,7 +14691,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "elixant",
       "fileName": "elixant.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/elixant.zip",
@@ -14824,7 +14900,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "espidlez",
       "fileName": "espidlez.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/espidlez.zip",
@@ -14881,7 +14957,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "eternity",
       "fileName": "eternity3.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/eternity3.zip",
@@ -15318,7 +15394,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "firecatasciishop",
       "fileName": "firecatasciishop.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/firecatasciishop.zip",
@@ -15432,7 +15508,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "fluxidle",
       "fileName": "fluxidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/fluxidle.zip",
@@ -15736,7 +15812,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "frubal",
       "fileName": "frubal420.zip",
-      "category": "unknown",
+      "category": "AIM",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/frubal420.zip",
@@ -16000,6 +16076,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "glitchx",
+      "fileName": "glitchx.zip",
+      "category": "punter/booter",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/glitchx.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/glitchx.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "glue",
       "fileName": "glue3.zip",
       "category": "unknown",
@@ -16185,6 +16280,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "prog's/misc a-m"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "hackzoid",
+      "fileName": "hackzoid.zip",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/hackzoid.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/hackzoid.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -16439,7 +16553,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "hit-chidler",
       "fileName": "hit3chidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/hit3chidler.zip",
@@ -16458,7 +16572,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "hiwind",
       "fileName": "hiwind2.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/hiwind2.zip",
@@ -16648,7 +16762,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "htmlonly",
       "fileName": "htmlonly.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip",
@@ -16952,7 +17066,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "idlefordrugs",
       "fileName": "idlefordrugs.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/idlefordrugs.zip",
@@ -16971,7 +17085,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "idlerexbynegz",
       "fileName": "idlerexbynegz.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/idlerexbynegz.zip",
@@ -16990,7 +17104,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "idlestuffz",
       "fileName": "idlestuffz.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/idlestuffz.zip",
@@ -17066,7 +17180,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "imidling",
       "fileName": "imidling.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/imidling.zip",
@@ -17085,7 +17199,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "imout",
       "fileName": "imout.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/imout.zip",
@@ -17275,7 +17389,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "infosidle",
       "fileName": "iNfOsIDLE.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://members.xoom.com/infosworld2/iNfOsIDLE.zip",
@@ -17541,7 +17655,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "jackalsidler",
       "fileName": "jackalsidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/jackalsidler.zip",
@@ -17674,7 +17788,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "jolt",
       "fileName": "jolt32.zip",
-      "category": "unknown",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/jolt32.zip",
@@ -17731,7 +17845,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "juvenile",
       "fileName": "juvenile.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/juvenile.zip",
@@ -17769,7 +17883,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "kamehamehaidle",
       "fileName": "kamehamehaidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/kamehamehaidle.zip",
@@ -17997,7 +18111,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "knoxidle",
       "fileName": "knoxidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/knoxidle.zip",
@@ -18149,7 +18263,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "krelixidle",
       "fileName": "krelixidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/krelixidle.zip",
@@ -18947,7 +19061,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mastaidle",
       "fileName": "mastaidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/mastaidle.zip",
@@ -18985,7 +19099,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mattsidler",
       "fileName": "mattsidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/mattsidler.zip",
@@ -19004,7 +19118,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mbar",
       "fileName": "mbar.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/mbar.zip",
@@ -19175,7 +19289,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "metroididle",
       "fileName": "metroididle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/metroididle.zip",
@@ -19194,7 +19308,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "metroididler",
       "fileName": "metroididlerv2.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/metroididlerv2.zip",
@@ -19517,7 +19631,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mountainlayout",
       "fileName": "mountainlayout.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/mountainlayout.zip",
@@ -19745,7 +19859,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "msstdfmt",
       "fileName": "msstdfmt.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/msstdfmt.zip",
@@ -19859,7 +19973,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "murder",
       "fileName": "murder32.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/murder32.zip",
@@ -19935,7 +20049,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "name",
       "fileName": "name32.zip",
-      "category": "unknown",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/name32.zip",
@@ -20315,7 +20429,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "nyc",
       "fileName": "nyc.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/nyc.zip",
@@ -20410,7 +20524,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "oleaut",
       "fileName": "oleaut32.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/oleaut32.zip",
@@ -20429,7 +20543,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "olepro",
       "fileName": "olepro32.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/olepro32.zip",
@@ -20562,7 +20676,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "outlawzidler",
       "fileName": "outlawzidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/outlawzidler.zip",
@@ -20600,7 +20714,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "overxposure",
       "fileName": "overxposure.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/yahooprogs/misc/overxposure.zip",
@@ -20771,7 +20885,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "pen-ridle",
       "fileName": "pen0ridle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/pen0ridle.zip",
@@ -20809,7 +20923,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "percnt",
       "fileName": "percnt2.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/percnt2.zip",
@@ -20923,7 +21037,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "phishdatidle",
       "fileName": "phishdatidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/phishdatidle.zip",
@@ -20959,6 +21073,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "phreakchat",
+      "fileName": "phreakchat.zip",
+      "category": "room buster",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/phreakchat.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/phreakchat.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "phrosty",
       "fileName": "phrosty1.zip",
       "category": "unknown",
@@ -20980,7 +21113,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "pibet",
       "fileName": "pibet2.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/pibet2.zip",
@@ -21303,7 +21436,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "psychic",
       "fileName": "psychic22.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/psychic22.zip",
@@ -21417,7 +21550,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "raeophobic",
       "fileName": "raeophobic.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/raeophobic.zip",
@@ -21474,7 +21607,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "raspbeta",
       "fileName": "raspbeta6.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip",
@@ -21512,7 +21645,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "redsparks",
       "fileName": "redsparks.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/redsparks.zip",
@@ -21759,7 +21892,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "rose",
       "fileName": "rose.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/rose.zip",
@@ -22061,6 +22194,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "shadowbot",
+      "fileName": "shadowbot.zip",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/shadowbot.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/shadowbot.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "shithead",
       "fileName": "shithead1.zip",
       "category": "unknown",
@@ -22196,7 +22348,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "simpleidle",
       "fileName": "simpleidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip",
@@ -22215,7 +22367,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "simplelayout",
       "fileName": "simplelayout.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/simplelayout.zip",
@@ -22234,7 +22386,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "sirvb",
       "fileName": "sirvb6.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/sirvb6.zip",
@@ -22291,7 +22443,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "sleekgray",
       "fileName": "sleekgray.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/sleekgray.zip",
@@ -22443,7 +22595,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "smileybot",
       "fileName": "smileybot16.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/smileybot16.zip",
@@ -22728,7 +22880,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "spacelayout",
       "fileName": "spacelayout.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/spacelayout.zip",
@@ -22956,7 +23108,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "stealthafk",
       "fileName": "stealthafk.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/stealthafk.zip",
@@ -23070,7 +23222,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "suicidle",
       "fileName": "suicidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/suicidle.zip",
@@ -23317,7 +23469,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "tentacles",
       "fileName": "tentacles.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/tentacles.zip",
@@ -23431,7 +23583,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "thermalidle",
       "fileName": "thermalidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/thermalidle.zip",
@@ -23526,7 +23678,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "timmya",
       "fileName": "timmya.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/timmya.zip",
@@ -23545,7 +23697,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "tncidle",
       "fileName": "tncidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/tncidle.zip",
@@ -23733,9 +23885,28 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "tronix",
+      "fileName": "tronix.zip",
+      "category": "mass mailer/server",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/tronix.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/tronix.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "truedesigns",
       "fileName": "truedesignsv5.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/truedesignsv5.zip",
@@ -23773,7 +23944,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ugly-green",
       "fileName": "Ugly%20Green.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip",
@@ -23849,7 +24020,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "uniidle",
       "fileName": "uniidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolidlers/uniidle.zip",
@@ -24343,7 +24514,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "visasciisource",
       "fileName": "visasciisource.zip",
-      "category": "unknown",
+      "category": "chat/macro",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/visasciisource.zip",
@@ -24419,7 +24590,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "vtechidle",
       "fileName": "vtechidle.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/vtechidle.zip",
@@ -24438,7 +24609,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "waidler",
       "fileName": "waidler.zip",
-      "category": "idler",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/waidler.zip",
@@ -24457,7 +24628,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "war",
       "fileName": "war.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/war.zip",
@@ -24628,7 +24799,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "webby",
       "fileName": "webby.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://www.lilbudbot.com/aimthings/layouts/webby.zip",
@@ -24894,7 +25065,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "winzipgenbot",
       "fileName": "winzipgenbot.zip",
-      "category": "AIM",
+      "category": "idler/bot",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/winzipgenbot.zip",
@@ -25343,6 +25514,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Yahoo Progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "zerocrush",
+      "fileName": "zerocrush.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com/loltoolz/downloads/zerocrush.zip",
+          "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/zerocrush.zip",
+          "source": "LoLToolz AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "LoLToolz AIM progs"
       ],
       "mirrorCount": 1,
       "readyCount": 0

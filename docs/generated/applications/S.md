@@ -43,7 +43,7 @@
 | 1682 | [sFg 2.0 by coz aka tyler](pages/S/1682-sfg-2-0-by-coz-aka-tyler.md) | sFg 2.0 by coz aka tyler | Unknown / needs review | uncategorized | AOL 4.0 | coz | unknown | remote-only | 0 |
 | 1683 | [shallow ccomz](pages/S/1683-shallow-ccomz.md) | shallow ccomz | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1684 | [shark bait²·º](pages/S/1684-shark-bait2o.md) | shark bait²·º | Unknown / needs review | uncategorized | AOL 4.0 | txt | unknown | remote-only | 0 |
-| 1685 | [AOMess 4](pages/S/1685-aomess-4.md) | Sheep | Unknown / needs review | uncategorized | AOL 2.5 | RiDDLeR; inferred: Lynx | unknown | remote-only | 0 |
+| 1685 | [AOMess 4](pages/S/1685-aomess-4.md) | Sheep | Unknown / needs review | uncategorized | AOL 2.5 | Lynx; catalog listed RiDDLeR | unknown | remote-only | 0 |
 | 1686 | [SHHIdle](pages/S/1686-shhidle.md) | SHHIdle | Unknown / needs review | uncategorized | AOL 4.0 | MaRZ | unknown | remote-only | 0 |
 | 1687 | [Shibâm Attention](pages/S/1687-shibam-attention.md) | Shibâm Attention | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1688 | [shit idler by muska](pages/S/1688-shit-idler-by-muska.md) | shit idler by muska | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | unknown | remote-only | 0 |

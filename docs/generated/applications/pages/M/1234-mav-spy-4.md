@@ -19,13 +19,20 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | File size | 135 KB |
 | Author | Mavness |
 | Catalog author | Mavness |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | Tools |
 | Catalog AOL/version bucket | Tools |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | development or source |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB6 |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -44,13 +51,15 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1234-mav-spy-4.zip](../../../../../files/aol/mixed/1234-mav-spy-4.zip)
-- Original source path: `programming/vb/Visual-Basic-Tools/mav-spy.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/Visual-Basic-Tools/mav-spy.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/Visual-Basic-Tools/mav-spy.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/Visual-Basic-Tools/mav-spy.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/Visual-Basic-Tools/mav-spy.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programming/vb/Visual-Basic-Tools/mav-spy.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/Visual-Basic-Tools/mav-spy.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/Visual-Basic-Tools/mav-spy.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/Visual-Basic-Tools/mav-spy.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/Visual-Basic-Tools/mav-spy.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Tools** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -90,6 +99,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

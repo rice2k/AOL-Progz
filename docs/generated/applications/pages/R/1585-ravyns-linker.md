@@ -19,13 +19,20 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | File size | 1.5 MB |
 | Author | Clear Water |
 | Catalog author | Clear Water |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Linker / chat linker |
 | Category | chat or IM tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -39,19 +46,20 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1585-ravyns-linker.zip](../../../../../files/aol/aol-4-0/1585-ravyns-linker.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip)
-- Matched web download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ravynslinker.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -69,6 +77,10 @@ These URLs were found in safely readable archive text. They are recorded as prov
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

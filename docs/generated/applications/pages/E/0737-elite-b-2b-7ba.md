@@ -19,13 +19,20 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | File size | 1.3 MB |
 | Author | MoNu |
 | Catalog author | MoNu |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0; inferred: AOL 6-7 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 6-7 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -44,13 +51,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0737-eite-2o.zip](../../../../../files/aol/aol-4-0/0737-eite-2o.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite %b2%b7%ba for aol 6-7 password=FuckPakis.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite %b2%b7%ba for aol 6-7 password=FuckPakis.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elite%20%25b2%25b7%25ba%20for%20aol%206-7%20password%3DFuckPakis.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

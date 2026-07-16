@@ -19,13 +19,20 @@ The catalog metadata and filename do not identify a confident single function ye
 | File size | 22 B |
 | Author | unknown |
 | Catalog author | unknown |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0; inferred: AOL 4-5 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4-5 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -44,13 +51,15 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/2090-y2.zip](../../../../../files/aol/aol-4-0/2090-y2.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%b2idle v1 (dif. than above) aol4-5 yr2k.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%b2idle v1 (dif. than above) aol4-5 yr2k.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/y%25b2idle%20v1%20(dif.%20than%20above)%20aol4-5%20yr2k.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

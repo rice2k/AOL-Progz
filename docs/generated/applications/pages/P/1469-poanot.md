@@ -19,13 +19,20 @@ The catalog metadata and filename do not identify a confident single function ye
 | File size | 15 KB |
 | Author | twizted |
 | Catalog author | twizted |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -39,19 +46,20 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1469-poanot.zip](../../../../../files/aol/mixed/1469-poanot.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip)
-- Matched web download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/poarevnotify.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Mixed/unknown** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -64,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

@@ -2,11 +2,11 @@
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1065 | [J█Do ╟╟╪mz Ver╣.▓](pages/J/1065-jdo-mz-ver.md) | J█Do ╟╟╪mz Ver╣.▓ | Unknown / needs review | uncategorized | AOL 4.0 | Kypnotik | 864 KB | [local](../../../files/aol/aol-4-0/1065-jdo-mz-ver.zip) | 0 |
+| 1065 | [J█Do ╟╟╪mz Ver╣.▓](pages/J/1065-jdo-mz-ver.md) | J█Do ╟╟╪mz Ver╣.▓ | C-Com / command list | uncategorized | AOL 4.0 | Kypnotik | 864 KB | [local](../../../files/aol/aol-4-0/1065-jdo-mz-ver.zip) | 0 |
 | 1041 | [j00b Scroller By Sinac](pages/J/1041-j00b-scroller-by-sinac.md) | j00b Scroller By Sinac | Scroller / macro | scroller or macro | AOL 4.0 | Sinac | 729 KB | [local](../../../files/aol/aol-4-0/1041-j00b-scroller-by-sinac.zip) | 0 |
 | 1042 | [Jabroni Xer Yr 2k](pages/J/1042-jabroni-xer-yr-2k.md) | Jabronixer | Fader / text styler | fader or text tool | AOL 5.0 | unknown | 22 B | [local](../../../files/aol/aol-5-0/1042-jabronixer.zip) | 0 |
 | 1043 | [Jackal's Idler Win XP Yr 05](pages/J/1043-jackals-idler-win-xp-yr-05.md) | Jackals' Idler | Idler / AFK bot | idler or bot | AOL 9.0 | unknown | 22 B | [local](../../../files/aol/aol-9-0/1043-jackals-idler.zip) | 0 |
-| 1044 | [jacked](pages/J/1044-jacked.md) | jacked | Unknown / needs review | uncategorized | AOL 4.0 | s: qb and dank | 779 KB | [local](../../../files/aol/aol-4-0/1044-jacked.zip) | 0 |
+| 1044 | [jacked](pages/J/1044-jacked.md) | jacked | Scroller / macro | uncategorized | AOL 4.0 | qb and dank; catalog listed s: qb and dank | 779 KB | [local](../../../files/aol/aol-4-0/1044-jacked.zip) | 0 |
 | 1045 | [JackTheBongRipper](pages/J/1045-jackthebongripper.md) | JackTheBongRipper | Unknown / needs review | uncategorized | AOL 4.0 | who | 1.8 MB | [local](../../../files/aol/aol-4-0/1045-jackthebongripper.zip) | 0 |
 | 1046 | [JaiJeN](pages/J/1046-jaijen.md) | JaiJeN | Unknown / needs review | uncategorized | AOL 4.0 | CpRiDe | 2.1 MB | [local](../../../files/aol/aol-4-0/1046-jaijen.zip) | 0 |
 | 1047 | [JAMMIN](pages/J/1047-jammin.md) | JAMMIN | Unknown / needs review | uncategorized | AOL 4.0 | phazz | 1.5 MB | [local](../../../files/aol/aol-4-0/1047-jammin.zip) | 0 |
@@ -21,7 +21,7 @@
 | 1056 | [jinc idle](pages/J/1056-jinc-idle.md) | jinc idle | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 760 KB | [local](../../../files/aol/aol-4-0/1056-jinc-idle.zip) | 0 |
 | 1057 | [Jokeboxfinal](pages/J/1057-jokeboxfinal.md) | jokebox | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 454 KB | [local](../../../files/aol/aol-4-0/1057-jokebox.zip) | 0 |
 | 1058 | [jokebox](pages/J/1058-jokebox.md) | jokebox | Unknown / needs review | uncategorized | AOL 4.0 | speeL | 731 KB | [local](../../../files/aol/aol-4-0/1058-jokebox.zip) | 0 |
-| 1059 | [Judgement Night 4.0 Final Yr 01](pages/J/1059-judgement-night-4-0-final-yr-01.md) | judgement night 4.0 final | Unknown / needs review | uncategorized | AOL 6.0 | step | 18 MB | [local](../../../files/aol/aol-6-0/1059-judgement-night-4-0-final.zip) | 0 |
+| 1059 | [Judgement Night 4.0 Final Yr 01](pages/J/1059-judgement-night-4-0-final-yr-01.md) | judgement night 4.0 final | Fader / text styler | uncategorized | AOL 6.0; archive text: AOL 4.0, AOL 5.0, AOL 6.0 | step | 18 MB | [local](../../../files/aol/aol-6-0/1059-judgement-night-4-0-final.zip) | 0 |
 | 1060 | [JudgementDay](pages/J/1060-judgementday.md) | JudgementDay | Account / TOS utility | account or TOS tool | AOL 4.0; inferred: AOL 4-5 | Nautica | 4.2 MB | [local](../../../files/aol/aol-4-0/1060-judgementday.zip) | 0 |
 | 1061 | [Judgement Day%b 2 And 9.0 Win 98-xp Yr 04](pages/J/1061-judgement-dayb-2-and-9-0-win-98-xp-yr-04.md) | Judgment Day² | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 8.0 | ZIP | 1.8 MB | [local](../../../files/aol/aol-4-0/1061-judgment-day2.zip) | 0 |
 | 1062 | [Juggalo T 2](pages/J/1062-juggalo-t-2.md) | Juggalo T 2 | All-in-one prog suite | account or TOS tool | AOL 4.0; inferred: AOL 4-5 | CpRide | 3.0 MB | [local](../../../files/aol/aol-4-0/1062-juggalo-t-2.zip) | 0 |

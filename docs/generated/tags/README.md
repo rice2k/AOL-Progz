@@ -6,12 +6,14 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | --- | --- | --- |
 | #duplicate-metadata | 2139 | [open](duplicate-metadata.md) |
 | #aol | 2119 | [open](aol.md) |
+| #has-old-web-downloads | 2007 | [open](has-old-web-downloads.md) |
 | #aol-4-0 | 1746 | [open](aol-4-0.md) |
 | #file-ready | 1672 | [open](file-ready.md) |
 | #uncategorized | 1596 | [open](uncategorized.md) |
 | #compile-native | 865 | [open](compile-native.md) |
 | #vb6 | 739 | [open](vb6.md) |
 | #file-remote-only | 467 | [open](file-remote-only.md) |
+| #has-readme-purpose-clues | 324 | [open](has-readme-purpose-clues.md) |
 | #vb5 | 317 | [open](vb5.md) |
 | #compile-p-code | 314 | [open](compile-p-code.md) |
 | #vb4-32 | 285 | [open](vb4-32.md) |
@@ -19,6 +21,7 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | #has-embedded-urls | 170 | [open](has-embedded-urls.md) |
 | #idler-or-bot | 170 | [open](idler-or-bot.md) |
 | #vb3 | 144 | [open](vb3.md) |
+| #has-readme-aol-version-clues | 106 | [open](has-readme-aol-version-clues.md) |
 | #all-in-one-prog | 79 | [open](all-in-one-prog.md) |
 | #compile-na | 77 | [open](compile-na.md) |
 | #non-vb | 77 | [open](non-vb.md) |
@@ -36,10 +39,12 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | #aim | 20 | [open](aim.md) |
 | #mass-mailer | 19 | [open](mass-mailer.md) |
 | #aol-7-0 | 16 | [open](aol-7-0.md) |
+| #has-archive-text-author | 15 | [open](has-archive-text-author.md) |
 | #aol-8-0 | 8 | [open](aol-8-0.md) |
 | #has-screenshots | 6 | [open](has-screenshots.md) |
 | #aol-9-0 | 3 | [open](aol-9-0.md) |
 | #development-or-source | 3 | [open](development-or-source.md) |
+| #has-manual-purpose-clues | 2 | [open](has-manual-purpose-clues.md) |
 | #screen-name-tool | 2 | [open](screen-name-tool.md) |
 | #tools | 1 | [open](tools.md) |
 | #vb4-16 | 1 | [open](vb4-16.md) |

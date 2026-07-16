@@ -19,13 +19,20 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | File size | 2.5 MB |
 | Author | Peoples Connection |
 | Catalog author | Peoples Connection |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0; inferred: AOL 9 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 9 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Room buster |
 | Category | room buster |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -44,13 +51,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0317-bust-a-room-stellar-2008.zip](../../../../../files/aol/aol-4-0/0317-bust-a-room-stellar-2008.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust -a- room 6 aol9 yr2008 xp vista.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust -a- room 6 aol9 yr2008 xp vista.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/bust%20-a-%20room%206%20aol9%20yr2008%20xp%20vista.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

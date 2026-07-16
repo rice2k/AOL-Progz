@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Fader / text styler, Source / developer file, Scroller / macro, AOL/AIM chat utility, All-in-one prog suite, Mass mailer / server.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -19,13 +19,20 @@ The catalog metadata and filename do not identify a confident single function ye
 | File size | 1.4 MB |
 | Author | xyr0x |
 | Catalog author | xyr0x |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
-| Prog type | Unknown / needs review |
+| Archive-text AOL/version mentions | unknown |
+| Prog type | Fader / text styler |
 | Category | uncategorized |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | Fader / text styler, Source / developer file, Scroller / macro, AOL/AIM chat utility, All-in-one prog suite, Mass mailer / server |
+| Archive text files reviewed | eFatalImpact v 0.1/Bin/eFatalImpact.html<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html<br>eFatalImpact v 0.1/Read Me Before use!.txt<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt<br>eFatalImpact v 0.1/Recovery/ReadMe.txt |
 | Visual Basic | VB6 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -39,20 +46,21 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0641-efatalimpact-v-0-1.zip](../../../../../files/aol/mixed/0641-efatalimpact-v-0-1.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip)
-- Matched web download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
 - Matched mirror leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Mixed/unknown** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -73,6 +81,14 @@ These URLs were found in safely readable archive text. They are recorded as prov
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| eFatalImpact v 0.1/Bin/eFatalImpact.html<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html<br>eFatalImpact v 0.1/Read Me Before use!.txt<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt<br>eFatalImpact v 0.1/Recovery/ReadMe.txt | none | Fader / text styler<br>Source / developer file<br>Scroller / macro<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Mass mailer / server | none | eFatalImpact v 0.1/Bin/eFatalImpact.html has vocabulary for Fader / text styler, Source / developer file.<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html has vocabulary for Fader / text styler, Scroller / macro, AOL/AIM chat utility.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server. |
 
 ### Source Mentions
 

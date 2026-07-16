@@ -37,10 +37,11 @@ function inferCategory(text) {
   if (/punt|boot|nuke|disconnect/.test(value)) return "punter/booter";
   if (/room|buster/.test(value)) return "room buster";
   if (/fade|fader/.test(value)) return "fader";
-  if (/idle|afk/.test(value)) return "idler";
-  if (/mail|mmer|spam/.test(value)) return "mass mailer/server";
+  if (/idle|afk|away|auto[-\s]?respond|bot/.test(value)) return "idler/bot";
+  if (/mail|mmer|mass\s*im|spam|blast/.test(value)) return "mass mailer/server";
   if (/phish|fish|pass|crack|netbus|trojan/.test(value)) return "hazardous/account or remote-control context";
-  if (/chat|ccom|c-com|macro|scroll/.test(value)) return "chat/macro";
+  if (/chat|ccom|c-com|macro|scroll|ascii|flood/.test(value)) return "chat/macro";
+  if (/skin|profile|buddy/.test(value)) return "AIM";
   if (/aim/.test(value)) return "AIM";
   return "unknown";
 }
@@ -65,7 +66,7 @@ function main() {
     const existing = candidates.get(key) || {
       key,
       fileName,
-      category: inferCategory(`${fileName} ${item.text || ""} ${item.originalUrl || ""}`),
+      category: inferCategory(`${fileName} ${item.text || ""} ${item.description || ""} ${item.originalUrl || ""}`),
       mirrors: [],
       readyLocalFiles: [],
       sourcePages: new Set(),

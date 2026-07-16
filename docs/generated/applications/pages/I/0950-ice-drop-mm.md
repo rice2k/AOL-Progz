@@ -19,13 +19,20 @@ The catalog metadata and filename do not identify a confident single function ye
 | File size | 472 KB |
 | Author | CooLzie |
 | Catalog author | CooLzie |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 3.0; inferred: AOL 30 |
 | Catalog AOL/version bucket | AOL 3.0 |
 | Inferred AOL version | AOL 30 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -44,13 +51,15 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-3-0/0950-icedrop.zip](../../../../../files/aol/aol-3-0/0950-icedrop.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_[AOL30].zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_[AOL30].zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/Ice_Drop_MM_%5BAOL30%5D.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 3.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

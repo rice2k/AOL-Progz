@@ -20,7 +20,7 @@ These are filenames or program leads discovered from external old-web sources an
 | booter | punter/booter | 2 | 1 | [files/external/angelfire-com/booter1.zip](../../../files/external/angelfire-com/booter1.zip) |
 | dead | AIM | 2 | 1 | [files/external/angelfire-com/deadaim-4.zip](../../../files/external/angelfire-com/deadaim-4.zip) |
 | cracksource | hazardous/account or remote-control context | 2 | 1 | [files/external/angelfire-com/cracksource.zip](../../../files/external/angelfire-com/cracksource.zip) |
-| remoteidle | idler | 2 | 1 | [files/external/angelfire-com/remoteidle.zip](../../../files/external/angelfire-com/remoteidle.zip) |
+| remoteidle | idler/bot | 2 | 1 | [files/external/angelfire-com/remoteidle.zip](../../../files/external/angelfire-com/remoteidle.zip) |
 | vbrun-sp | unknown | 2 | 1 | [files/external/angelfire-com/vbrun60sp5.zip](../../../files/external/angelfire-com/vbrun60sp5.zip) |
 | winsck | unknown | 2 | 1 | [files/external/angelfire-com/winsck.zip](../../../files/external/angelfire-com/winsck.zip) |
 | mmnegtub | AIM | 1 | 1 | [files/external/angelfire-com/35mmnegtub.zip](../../../files/external/angelfire-com/35mmnegtub.zip) |
@@ -35,7 +35,7 @@ These are filenames or program leads discovered from external old-web sources an
 | r | AIM | 1 | 1 | [files/external/angelfire-com/aimr2.zip](../../../files/external/angelfire-com/aimr2.zip) |
 | sm | AIM | 1 | 1 | [files/external/angelfire-com/aimsm.zip](../../../files/external/angelfire-com/aimsm.zip) |
 | antimacro | chat/macro | 1 | 1 | [files/external/angelfire-com/antimacro.zip](../../../files/external/angelfire-com/antimacro.zip) |
-| astroidlevel | idler | 1 | 1 | [files/external/angelfire-com/astroidlevel.zip](../../../files/external/angelfire-com/astroidlevel.zip) |
+| astroidlevel | idler/bot | 1 | 1 | [files/external/angelfire-com/astroidlevel.zip](../../../files/external/angelfire-com/astroidlevel.zip) |
 | auto | AIM | 1 | 1 | [files/external/angelfire-com/autoaim4.zip](../../../files/external/angelfire-com/autoaim4.zip) |
 | bar-room-brawl | room buster | 1 | 1 | [files/external/angelfire-com/bar-room-brawl.zip](../../../files/external/angelfire-com/bar-room-brawl.zip) |
 | bens-megasound | unknown | 1 | 1 | [files/external/angelfire-com/bens-megasound.zip](../../../files/external/angelfire-com/bens-megasound.zip) |
@@ -198,7 +198,7 @@ These are filenames or program leads discovered from external old-web sources an
 | utopia | AIM | 3 | 0 | unknown |
 | prodigy | AIM | 3 | 0 | unknown |
 | blackice | unknown | 3 | 0 | unknown |
-| botz | unknown | 3 | 0 | unknown |
+| botz | idler/bot | 3 | 0 | unknown |
 | dimorphic | unknown | 3 | 0 | unknown |
 | enervate | unknown | 3 | 0 | unknown |
 | leetlink | AIM | 3 | 0 | unknown |
@@ -233,7 +233,7 @@ These are filenames or program leads discovered from external old-web sources an
 | inker | unknown | 2 | 0 | unknown |
 | audioassault | chat/macro | 2 | 0 | unknown |
 | audiostyle | unknown | 2 | 0 | unknown |
-| blindidle | idler | 2 | 0 | unknown |
+| blindidle | idler/bot | 2 | 0 | unknown |
 | brutoc | unknown | 2 | 0 | unknown |
 | buddahlag | chat/macro | 2 | 0 | unknown |
 | cafe | unknown | 2 | 0 | unknown |
@@ -243,7 +243,7 @@ These are filenames or program leads discovered from external old-web sources an
 | clonecd | unknown | 2 | 0 | unknown |
 | coffee | unknown | 2 | 0 | unknown |
 | cp | chat/macro | 2 | 0 | unknown |
-| cryofade | fader | 2 | 0 | unknown |
+| cryofade | room buster | 2 | 0 | unknown |
 | ct | chat/macro | 2 | 0 | unknown |
 | cutehtml | unknown | 2 | 0 | unknown |
 | decadelite | unknown | 2 | 0 | unknown |
@@ -263,7 +263,7 @@ These are filenames or program leads discovered from external old-web sources an
 | getright | unknown | 2 | 0 | unknown |
 | grabit-pro | unknown | 2 | 0 | unknown |
 | hax | hazardous/account or remote-control context | 2 | 0 | unknown |
-| ieeto | unknown | 2 | 0 | unknown |
+| ieeto | idler/bot | 2 | 0 | unknown |
 | imperialccoms | chat/macro | 2 | 0 | unknown |
 | invader | punter/booter | 2 | 0 | unknown |
 | ipgrabber | unknown | 2 | 0 | unknown |
@@ -274,9 +274,9 @@ These are filenames or program leads discovered from external old-web sources an
 | kronic | unknown | 2 | 0 | unknown |
 | lightning | unknown | 2 | 0 | unknown |
 | linksender | unknown | 2 | 0 | unknown |
-| liquidsoulbeta | unknown | 2 | 0 | unknown |
+| liquidsoulbeta | room buster | 2 | 0 | unknown |
 | liquidwater | AIM | 2 | 0 | unknown |
-| marioonline | unknown | 2 | 0 | unknown |
+| marioonline | chat/macro | 2 | 0 | unknown |
 | midget | chat/macro | 2 | 0 | unknown |
 | mocks | unknown | 2 | 0 | unknown |
 | neology | unknown | 2 | 0 | unknown |
@@ -304,11 +304,12 @@ These are filenames or program leads discovered from external old-web sources an
 | xm-wa | unknown | 2 | 0 | unknown |
 | botbooter | punter/booter | 1 | 0 | unknown |
 | buddylink | AIM | 1 | 0 | unknown |
+| skinz | AIM | 1 | 0 | unknown |
 | yrs | unknown | 1 | 0 | unknown |
 | coolbutton | unknown | 1 | 0 | unknown |
 | kchatlink | chat/macro | 1 | 0 | unknown |
 | anticrack | hazardous/account or remote-control context | 1 | 0 | unknown |
-| dfxapi | unknown | 1 | 0 | unknown |
+| dfxapi | AIM | 1 | 0 | unknown |
 | dlabel | unknown | 1 | 0 | unknown |
 | dsmax | unknown | 1 | 0 | unknown |
 | kbuster | room buster | 1 | 0 | unknown |
@@ -316,11 +317,11 @@ These are filenames or program leads discovered from external old-web sources an
 | shoelitefinal | unknown | 1 | 0 | unknown |
 | digitcombos | hazardous/account or remote-control context | 1 | 0 | unknown |
 | liteiiipro | unknown | 1 | 0 | unknown |
-| abbot | AIM | 1 | 0 | unknown |
+| abbot | idler/bot | 1 | 0 | unknown |
 | acidfader | fader | 1 | 0 | unknown |
 | acidrein | AIM | 1 | 0 | unknown |
 | actcndy | unknown | 1 | 0 | unknown |
-| activeskin | unknown | 1 | 0 | unknown |
+| activeskin | AIM | 1 | 0 | unknown |
 | addictionsfinal | punter/booter | 1 | 0 | unknown |
 | adiosamigos | unknown | 1 | 0 | unknown |
 | adobe | unknown | 1 | 0 | unknown |
@@ -337,7 +338,7 @@ These are filenames or program leads discovered from external old-web sources an
 | works | AIM | 1 | 0 | unknown |
 | aker | AIM | 1 | 0 | unknown |
 | aoanarchistutilities | AIM | 1 | 0 | unknown |
-| assimilation | AIM | 1 | 0 | unknown |
+| assimilation | mass mailer/server | 1 | 0 | unknown |
 | attak | punter/booter | 1 | 0 | unknown |
 | aztopdawg | AIM | 1 | 0 | unknown |
 | battletank | AIM | 1 | 0 | unknown |
@@ -367,7 +368,7 @@ These are filenames or program leads discovered from external old-web sources an
 | evil | AIM | 1 | 0 | unknown |
 | fadersuite | fader | 1 | 0 | unknown |
 | flash | AIM | 1 | 0 | unknown |
-| flooder | AIM | 1 | 0 | unknown |
+| flooder | chat/macro | 1 | 0 | unknown |
 | frysc | punter/booter | 1 | 0 | unknown |
 | fudo | AIM | 1 | 0 | unknown |
 | genocidalrage | AIM | 1 | 0 | unknown |
@@ -439,14 +440,14 @@ These are filenames or program leads discovered from external old-web sources an
 | ajsmp-player | AIM | 1 | 0 | unknown |
 | alarmclock | unknown | 1 | 0 | unknown |
 | alf | unknown | 1 | 0 | unknown |
-| alienskin | unknown | 1 | 0 | unknown |
+| alienskin | AIM | 1 | 0 | unknown |
 | allaccess | unknown | 1 | 0 | unknown |
 | alpha-kbuster | room buster | 1 | 0 | unknown |
 | alterimage | unknown | 1 | 0 | unknown |
 | amcmsgbox | unknown | 1 | 0 | unknown |
 | americaonfireplatinum | unknown | 1 | 0 | unknown |
 | amerikaencryptline | unknown | 1 | 0 | unknown |
-| amxidler | idler | 1 | 0 | unknown |
+| amxidler | idler/bot | 1 | 0 | unknown |
 | annoypunter | punter/booter | 1 | 0 | unknown |
 | anomaly | chat/macro | 1 | 0 | unknown |
 | answerdat | unknown | 1 | 0 | unknown |
@@ -460,7 +461,7 @@ These are filenames or program leads discovered from external old-web sources an
 | aob | chat/macro | 1 | 0 | unknown |
 | aoh-b | unknown | 1 | 0 | unknown |
 | fix | unknown | 1 | 0 | unknown |
-| chatbot | chat/macro | 1 | 0 | unknown |
+| chatbot | idler/bot | 1 | 0 | unknown |
 | ex | unknown | 1 | 0 | unknown |
 | plus | AIM | 1 | 0 | unknown |
 | sendchat | chat/macro | 1 | 0 | unknown |
@@ -468,7 +469,7 @@ These are filenames or program leads discovered from external old-web sources an
 | ac | hazardous/account or remote-control context | 1 | 0 | unknown |
 | macros | chat/macro | 1 | 0 | unknown |
 | sjeb-s | unknown | 1 | 0 | unknown |
-| quickbuddy | unknown | 1 | 0 | unknown |
+| quickbuddy | AIM | 1 | 0 | unknown |
 | aonet | chat/macro | 1 | 0 | unknown |
 | aophader | fader | 1 | 0 | unknown |
 | aorem-te | unknown | 1 | 0 | unknown |
@@ -492,7 +493,7 @@ These are filenames or program leads discovered from external old-web sources an
 | autoreconnect | unknown | 1 | 0 | unknown |
 | autorunmaker | unknown | 1 | 0 | unknown |
 | autositebackup | unknown | 1 | 0 | unknown |
-| away-k | AIM | 1 | 0 | unknown |
+| away-k | idler/bot | 1 | 0 | unknown |
 | badmojo | unknown | 1 | 0 | unknown |
 | bait | unknown | 1 | 0 | unknown |
 | banner-exchange-v-b | unknown | 1 | 0 | unknown |
@@ -500,10 +501,10 @@ These are filenames or program leads discovered from external old-web sources an
 | banshee | punter/booter | 1 | 0 | unknown |
 | basfiles | unknown | 1 | 0 | unknown |
 | basic | unknown | 1 | 0 | unknown |
-| bbl-idle | idler | 1 | 0 | unknown |
-| bdas | unknown | 1 | 0 | unknown |
+| bbl-idle | idler/bot | 1 | 0 | unknown |
+| bdas | chat/macro | 1 | 0 | unknown |
 | beatbox | unknown | 1 | 0 | unknown |
-| bedtime | idler | 1 | 0 | unknown |
+| bedtime | idler/bot | 1 | 0 | unknown |
 | beyonddestiny | unknown | 1 | 0 | unknown |
 | bgfade | fader | 1 | 0 | unknown |
 | biestly | unknown | 1 | 0 | unknown |
@@ -512,14 +513,14 @@ These are filenames or program leads discovered from external old-web sources an
 | bl | room buster | 1 | 0 | unknown |
 | blackrosebas | unknown | 1 | 0 | unknown |
 | blackultra | unknown | 1 | 0 | unknown |
-| blazeidle | idler | 1 | 0 | unknown |
-| blazeidler | idler | 1 | 0 | unknown |
+| blazeidle | idler/bot | 1 | 0 | unknown |
+| blazeidler | idler/bot | 1 | 0 | unknown |
 | blc | unknown | 1 | 0 | unknown |
 | bleem | unknown | 1 | 0 | unknown |
-| blizacoms | unknown | 1 | 0 | unknown |
+| blizacoms | chat/macro | 1 | 0 | unknown |
 | blizsvr | unknown | 1 | 0 | unknown |
 | blkmgc | unknown | 1 | 0 | unknown |
-| blue | AIM | 1 | 0 | unknown |
+| blue | idler/bot | 1 | 0 | unknown |
 | blueicepxer | room buster | 1 | 0 | unknown |
 | bluemurder | unknown | 1 | 0 | unknown |
 | bmr | room buster | 1 | 0 | unknown |
@@ -534,12 +535,13 @@ These are filenames or program leads discovered from external old-web sources an
 | borg | unknown | 1 | 0 | unknown |
 | bproom | room buster | 1 | 0 | unknown |
 | brbas | unknown | 1 | 0 | unknown |
-| brbidler | idler | 1 | 0 | unknown |
+| brbidler | idler/bot | 1 | 0 | unknown |
 | bru | unknown | 1 | 0 | unknown |
-| buddahidle | idler | 1 | 0 | unknown |
+| buddahidle | idler/bot | 1 | 0 | unknown |
 | buddahpwgen | unknown | 1 | 0 | unknown |
 | buddha | unknown | 1 | 0 | unknown |
-| buddy | unknown | 1 | 0 | unknown |
+| buddy | AIM | 1 | 0 | unknown |
+| buddyblaster | mass mailer/server | 1 | 0 | unknown |
 | buddykill | punter/booter | 1 | 0 | unknown |
 | buddymax | AIM | 1 | 0 | unknown |
 | bulletftp | unknown | 1 | 0 | unknown |
@@ -562,7 +564,7 @@ These are filenames or program leads discovered from external old-web sources an
 | cfomg | unknown | 1 | 0 | unknown |
 | ch | chat/macro | 1 | 0 | unknown |
 | chamberbomb | punter/booter | 1 | 0 | unknown |
-| chaos | unknown | 1 | 0 | unknown |
+| chaos | idler/bot | 1 | 0 | unknown |
 | chaosmp | unknown | 1 | 0 | unknown |
 | chaoticmayhem | unknown | 1 | 0 | unknown |
 | chatamp | chat/macro | 1 | 0 | unknown |
@@ -577,24 +579,25 @@ These are filenames or program leads discovered from external old-web sources an
 | chatsp | mass mailer/server | 1 | 0 | unknown |
 | chat-beta | chat/macro | 1 | 0 | unknown |
 | chazt | AIM | 1 | 0 | unknown |
-| cheezy | idler | 1 | 0 | unknown |
+| cheezy | idler/bot | 1 | 0 | unknown |
 | chex | unknown | 1 | 0 | unknown |
 | chickilla | punter/booter | 1 | 0 | unknown |
 | chip-kid | unknown | 1 | 0 | unknown |
 | chronicbas | unknown | 1 | 0 | unknown |
-| chronicidle | idler | 1 | 0 | unknown |
+| chronicidle | idler/bot | 1 | 0 | unknown |
 | chronik | unknown | 1 | 0 | unknown |
-| cinemablue | AIM | 1 | 0 | unknown |
-| cinemagreen | AIM | 1 | 0 | unknown |
+| cinemablue | idler/bot | 1 | 0 | unknown |
+| cinemagreen | idler/bot | 1 | 0 | unknown |
 | citrus | room buster | 1 | 0 | unknown |
 | clearhaze | chat/macro | 1 | 0 | unknown |
 | cleptobust | room buster | 1 | 0 | unknown |
-| cloc | unknown | 1 | 0 | unknown |
-| cloneridle | idler | 1 | 0 | unknown |
+| cloc | AIM | 1 | 0 | unknown |
+| cloneridle | idler/bot | 1 | 0 | unknown |
 | clonetech | unknown | 1 | 0 | unknown |
-| cmdialog | unknown | 1 | 0 | unknown |
+| cmdialog | chat/macro | 1 | 0 | unknown |
 | cobain-st | AIM | 1 | 0 | unknown |
-| coldlayout | AIM | 1 | 0 | unknown |
+| codezap | AIM | 1 | 0 | unknown |
+| coldlayout | idler/bot | 1 | 0 | unknown |
 | collapsecrush | punter/booter | 1 | 0 | unknown |
 | cology-source | hazardous/account or remote-control context | 1 | 0 | unknown |
 | colorcarnage | unknown | 1 | 0 | unknown |
@@ -603,7 +606,7 @@ These are filenames or program leads discovered from external old-web sources an
 | comdlg | unknown | 1 | 0 | unknown |
 | comillusionb | chat/macro | 1 | 0 | unknown |
 | conspericy | unknown | 1 | 0 | unknown |
-| cookiemonster | AIM | 1 | 0 | unknown |
+| cookiemonster | idler/bot | 1 | 0 | unknown |
 | coolfonts | unknown | 1 | 0 | unknown |
 | coolghost | unknown | 1 | 0 | unknown |
 | coolsendchat | chat/macro | 1 | 0 | unknown |
@@ -621,14 +624,14 @@ These are filenames or program leads discovered from external old-web sources an
 | crackofdawn | hazardous/account or remote-control context | 1 | 0 | unknown |
 | cracks | hazardous/account or remote-control context | 1 | 0 | unknown |
 | crackzilla | hazardous/account or remote-control context | 1 | 0 | unknown |
-| crapidleremix | idler | 1 | 0 | unknown |
+| crapidleremix | idler/bot | 1 | 0 | unknown |
 | crappyscroller | chat/macro | 1 | 0 | unknown |
-| crazyhobo | AIM | 1 | 0 | unknown |
+| crazyhobo | idler/bot | 1 | 0 | unknown |
 | creep | unknown | 1 | 0 | unknown |
 | crimsons | punter/booter | 1 | 0 | unknown |
 | critikism | mass mailer/server | 1 | 0 | unknown |
 | cruel | unknown | 1 | 0 | unknown |
-| cs | AIM | 1 | 0 | unknown |
+| cs | idler/bot | 1 | 0 | unknown |
 | cyclonemm | unknown | 1 | 0 | unknown |
 | d-k | punter/booter | 1 | 0 | unknown |
 | dacracks | hazardous/account or remote-control context | 1 | 0 | unknown |
@@ -640,12 +643,13 @@ These are filenames or program leads discovered from external old-web sources an
 | darknova | unknown | 1 | 0 | unknown |
 | darkshadow | punter/booter | 1 | 0 | unknown |
 | darkside-r | unknown | 1 | 0 | unknown |
+| darkzoid | AIM | 1 | 0 | unknown |
 | dbpush | unknown | 1 | 0 | unknown |
 | dbttip | unknown | 1 | 0 | unknown |
 | dcom | unknown | 1 | 0 | unknown |
 | dcsystray | unknown | 1 | 0 | unknown |
 | deadair | unknown | 1 | 0 | unknown |
-| deadmassim | AIM | 1 | 0 | unknown |
+| deadmassim | mass mailer/server | 1 | 0 | unknown |
 | deathby | AIM | 1 | 0 | unknown |
 | deathcom | unknown | 1 | 0 | unknown |
 | decript | AIM | 1 | 0 | unknown |
@@ -660,14 +664,14 @@ These are filenames or program leads discovered from external old-web sources an
 | destroyer | chat/macro | 1 | 0 | unknown |
 | destructionfinal | unknown | 1 | 0 | unknown |
 | digitaldynastyfinal | unknown | 1 | 0 | unknown |
-| digitalidle | idler | 1 | 0 | unknown |
+| digitalidle | idler/bot | 1 | 0 | unknown |
 | digitalintake | chat/macro | 1 | 0 | unknown |
 | digitalinteruption | unknown | 1 | 0 | unknown |
 | digitek | unknown | 1 | 0 | unknown |
 | dist-k | unknown | 1 | 0 | unknown |
 | ditto | punter/booter | 1 | 0 | unknown |
 | dive | unknown | 1 | 0 | unknown |
-| dltech | idler | 1 | 0 | unknown |
+| dltech | idler/bot | 1 | 0 | unknown |
 | dogbar | unknown | 1 | 0 | unknown |
 | dotcom | unknown | 1 | 0 | unknown |
 | downloadacceleratorpro | unknown | 1 | 0 | unknown |
@@ -680,16 +684,16 @@ These are filenames or program leads discovered from external old-web sources an
 | dsk | unknown | 1 | 0 | unknown |
 | ds | AIM | 1 | 0 | unknown |
 | duff | unknown | 1 | 0 | unknown |
-| dupekill | unknown | 1 | 0 | unknown |
+| dupekill | chat/macro | 1 | 0 | unknown |
 | dwf | punter/booter | 1 | 0 | unknown |
 | dwkdfade | fader | 1 | 0 | unknown |
 | dwsbc | unknown | 1 | 0 | unknown |
 | earth | unknown | 1 | 0 | unknown |
 | easycracking | hazardous/account or remote-control context | 1 | 0 | unknown |
-| echobotsource | unknown | 1 | 0 | unknown |
+| echobotsource | idler/bot | 1 | 0 | unknown |
 | ectasy | AIM | 1 | 0 | unknown |
 | ec-cracker | hazardous/account or remote-control context | 1 | 0 | unknown |
-| editor | unknown | 1 | 0 | unknown |
+| editor | AIM | 1 | 0 | unknown |
 | eelitetalker | unknown | 1 | 0 | unknown |
 | effex | unknown | 1 | 0 | unknown |
 | eggs | unknown | 1 | 0 | unknown |
@@ -699,7 +703,7 @@ These are filenames or program leads discovered from external old-web sources an
 | elitespammer | mass mailer/server | 1 | 0 | unknown |
 | elitespam | mass mailer/server | 1 | 0 | unknown |
 | elitetalker | unknown | 1 | 0 | unknown |
-| elixant | AIM | 1 | 0 | unknown |
+| elixant | idler/bot | 1 | 0 | unknown |
 | emailw-subject | mass mailer/server | 1 | 0 | unknown |
 | emp-b | unknown | 1 | 0 | unknown |
 | emp-beta | unknown | 1 | 0 | unknown |
@@ -710,10 +714,10 @@ These are filenames or program leads discovered from external old-web sources an
 | enterim | unknown | 1 | 0 | unknown |
 | envyfinal | unknown | 1 | 0 | unknown |
 | eses | unknown | 1 | 0 | unknown |
-| espidlez | idler | 1 | 0 | unknown |
+| espidlez | idler/bot | 1 | 0 | unknown |
 | espxplister | unknown | 1 | 0 | unknown |
 | eternalccoms | chat/macro | 1 | 0 | unknown |
-| eternity | idler | 1 | 0 | unknown |
+| eternity | idler/bot | 1 | 0 | unknown |
 | evil-snmaker | AIM | 1 | 0 | unknown |
 | excollect | unknown | 1 | 0 | unknown |
 | exodusocx | unknown | 1 | 0 | unknown |
@@ -736,13 +740,13 @@ These are filenames or program leads discovered from external old-web sources an
 | finalelement | unknown | 1 | 0 | unknown |
 | finalpeace | unknown | 1 | 0 | unknown |
 | fir-z-chatscan | chat/macro | 1 | 0 | unknown |
-| firecatasciishop | unknown | 1 | 0 | unknown |
+| firecatasciishop | chat/macro | 1 | 0 | unknown |
 | firstinline | punter/booter | 1 | 0 | unknown |
 | flashforge | unknown | 1 | 0 | unknown |
 | flashforge-b-d | unknown | 1 | 0 | unknown |
 | flatbtn | unknown | 1 | 0 | unknown |
 | floodassault | punter/booter | 1 | 0 | unknown |
-| fluxidle | idler | 1 | 0 | unknown |
+| fluxidle | idler/bot | 1 | 0 | unknown |
 | fly | AIM | 1 | 0 | unknown |
 | flyman | unknown | 1 | 0 | unknown |
 | fonts | unknown | 1 | 0 | unknown |
@@ -758,7 +762,7 @@ These are filenames or program leads discovered from external old-web sources an
 | frootfliy | unknown | 1 | 0 | unknown |
 | froz-nh-ll | unknown | 1 | 0 | unknown |
 | frozenhell | unknown | 1 | 0 | unknown |
-| frubal | unknown | 1 | 0 | unknown |
+| frubal | AIM | 1 | 0 | unknown |
 | ftx | unknown | 1 | 0 | unknown |
 | fuji | chat/macro | 1 | 0 | unknown |
 | future | chat/macro | 1 | 0 | unknown |
@@ -772,6 +776,7 @@ These are filenames or program leads discovered from external old-web sources an
 | getthat | AIM | 1 | 0 | unknown |
 | ghost | punter/booter | 1 | 0 | unknown |
 | ginspar | unknown | 1 | 0 | unknown |
+| glitchx | punter/booter | 1 | 0 | unknown |
 | glue | unknown | 1 | 0 | unknown |
 | goozies | unknown | 1 | 0 | unknown |
 | gothicwithdll | unknown | 1 | 0 | unknown |
@@ -782,6 +787,7 @@ These are filenames or program leads discovered from external old-web sources an
 | h-s | unknown | 1 | 0 | unknown |
 | h-olink | unknown | 1 | 0 | unknown |
 | hackers | unknown | 1 | 0 | unknown |
+| hackzoid | idler/bot | 1 | 0 | unknown |
 | halfbaked | unknown | 1 | 0 | unknown |
 | hardcorehell | AIM | 1 | 0 | unknown |
 | heavymetal | chat/macro | 1 | 0 | unknown |
@@ -795,8 +801,8 @@ These are filenames or program leads discovered from external old-web sources an
 | hfade | fader | 1 | 0 | unknown |
 | hiderfnl | unknown | 1 | 0 | unknown |
 | hippo | punter/booter | 1 | 0 | unknown |
-| hit-chidler | idler | 1 | 0 | unknown |
-| hiwind | unknown | 1 | 0 | unknown |
+| hit-chidler | idler/bot | 1 | 0 | unknown |
+| hiwind | chat/macro | 1 | 0 | unknown |
 | hix | AIM | 1 | 0 | unknown |
 | holyzccom | chat/macro | 1 | 0 | unknown |
 | homer | AIM | 1 | 0 | unknown |
@@ -806,7 +812,7 @@ These are filenames or program leads discovered from external old-web sources an
 | hot-fader | fader | 1 | 0 | unknown |
 | hpcoms | chat/macro | 1 | 0 | unknown |
 | htechfinal | unknown | 1 | 0 | unknown |
-| htmlonly | AIM | 1 | 0 | unknown |
+| htmlonly | idler/bot | 1 | 0 | unknown |
 | hty | unknown | 1 | 0 | unknown |
 | hurricanemp | unknown | 1 | 0 | unknown |
 | hwf | unknown | 1 | 0 | unknown |
@@ -822,14 +828,14 @@ These are filenames or program leads discovered from external old-web sources an
 | icqinvinsible | unknown | 1 | 0 | unknown |
 | icqwebaware | unknown | 1 | 0 | unknown |
 | icyhot | unknown | 1 | 0 | unknown |
-| idlefordrugs | idler | 1 | 0 | unknown |
-| idlerexbynegz | idler | 1 | 0 | unknown |
-| idlestuffz | idler | 1 | 0 | unknown |
+| idlefordrugs | idler/bot | 1 | 0 | unknown |
+| idlerexbynegz | idler/bot | 1 | 0 | unknown |
+| idlestuffz | idler/bot | 1 | 0 | unknown |
 | imagerotate | unknown | 1 | 0 | unknown |
 | imagescroll | chat/macro | 1 | 0 | unknown |
 | imap | unknown | 1 | 0 | unknown |
-| imidling | idler | 1 | 0 | unknown |
-| imout | idler | 1 | 0 | unknown |
+| imidling | idler/bot | 1 | 0 | unknown |
+| imout | idler/bot | 1 | 0 | unknown |
 | impact | unknown | 1 | 0 | unknown |
 | implosion | punter/booter | 1 | 0 | unknown |
 | importtuner | chat/macro | 1 | 0 | unknown |
@@ -839,7 +845,7 @@ These are filenames or program leads discovered from external old-web sources an
 | info-t-lzwithdll | unknown | 1 | 0 | unknown |
 | info-t-lzwithoutdll | unknown | 1 | 0 | unknown |
 | information | unknown | 1 | 0 | unknown |
-| infosidle | idler | 1 | 0 | unknown |
+| infosidle | idler/bot | 1 | 0 | unknown |
 | instinct | punter/booter | 1 | 0 | unknown |
 | intrepid | AIM | 1 | 0 | unknown |
 | invaderispec | punter/booter | 1 | 0 | unknown |
@@ -853,19 +859,19 @@ These are filenames or program leads discovered from external old-web sources an
 | itankremix | unknown | 1 | 0 | unknown |
 | jabronix | unknown | 1 | 0 | unknown |
 | jackalbox | unknown | 1 | 0 | unknown |
-| jackalsidler | idler | 1 | 0 | unknown |
+| jackalsidler | idler/bot | 1 | 0 | unknown |
 | jag | unknown | 1 | 0 | unknown |
 | jcomz | chat/macro | 1 | 0 | unknown |
 | jd-k | unknown | 1 | 0 | unknown |
 | jeeperscreeper | hazardous/account or remote-control context | 1 | 0 | unknown |
 | jinxout | unknown | 1 | 0 | unknown |
 | jittertext | unknown | 1 | 0 | unknown |
-| jolt | unknown | 1 | 0 | unknown |
+| jolt | idler/bot | 1 | 0 | unknown |
 | jscan | unknown | 1 | 0 | unknown |
 | judgeday | unknown | 1 | 0 | unknown |
-| juvenile | idler | 1 | 0 | unknown |
+| juvenile | idler/bot | 1 | 0 | unknown |
 | kajone | AIM | 1 | 0 | unknown |
-| kamehamehaidle | idler | 1 | 0 | unknown |
+| kamehamehaidle | idler/bot | 1 | 0 | unknown |
 | kang | unknown | 1 | 0 | unknown |
 | kaos | unknown | 1 | 0 | unknown |
 | kaosforever | unknown | 1 | 0 | unknown |
@@ -877,7 +883,7 @@ These are filenames or program leads discovered from external old-web sources an
 | kire | unknown | 1 | 0 | unknown |
 | kiregood | unknown | 1 | 0 | unknown |
 | kitno | punter/booter | 1 | 0 | unknown |
-| knoxidle | idler | 1 | 0 | unknown |
+| knoxidle | idler/bot | 1 | 0 | unknown |
 | knucklesafter | unknown | 1 | 0 | unknown |
 | knuck-f | unknown | 1 | 0 | unknown |
 | korn | AIM | 1 | 0 | unknown |
@@ -885,7 +891,7 @@ These are filenames or program leads discovered from external old-web sources an
 | krayola | unknown | 1 | 0 | unknown |
 | kreater-b | unknown | 1 | 0 | unknown |
 | kreater | unknown | 1 | 0 | unknown |
-| krelixidle | idler | 1 | 0 | unknown |
+| krelixidle | idler/bot | 1 | 0 | unknown |
 | kungfoo | unknown | 1 | 0 | unknown |
 | kurupt | unknown | 1 | 0 | unknown |
 | lagem | unknown | 1 | 0 | unknown |
@@ -927,10 +933,10 @@ These are filenames or program leads discovered from external old-web sources an
 | magic-final | unknown | 1 | 0 | unknown |
 | malfunction | unknown | 1 | 0 | unknown |
 | malicioushate | punter/booter | 1 | 0 | unknown |
-| mastaidle | idler | 1 | 0 | unknown |
+| mastaidle | idler/bot | 1 | 0 | unknown |
 | matrixcracker | hazardous/account or remote-control context | 1 | 0 | unknown |
-| mattsidler | idler | 1 | 0 | unknown |
-| mbar | unknown | 1 | 0 | unknown |
+| mattsidler | idler/bot | 1 | 0 | unknown |
+| mbar | chat/macro | 1 | 0 | unknown |
 | mclcrack | hazardous/account or remote-control context | 1 | 0 | unknown |
 | mcspammer | mass mailer/server | 1 | 0 | unknown |
 | mdma | mass mailer/server | 1 | 0 | unknown |
@@ -939,8 +945,8 @@ These are filenames or program leads discovered from external old-web sources an
 | meditating | mass mailer/server | 1 | 0 | unknown |
 | messageman | unknown | 1 | 0 | unknown |
 | metamorphic | unknown | 1 | 0 | unknown |
-| metroididle | idler | 1 | 0 | unknown |
-| metroididler | idler | 1 | 0 | unknown |
+| metroididle | idler/bot | 1 | 0 | unknown |
+| metroididler | idler/bot | 1 | 0 | unknown |
 | midgetpwl | hazardous/account or remote-control context | 1 | 0 | unknown |
 | millenniumfmm | mass mailer/server | 1 | 0 | unknown |
 | minixpee | unknown | 1 | 0 | unknown |
@@ -957,7 +963,7 @@ These are filenames or program leads discovered from external old-web sources an
 | morphex | unknown | 1 | 0 | unknown |
 | mortalityrt | room buster | 1 | 0 | unknown |
 | mothership | punter/booter | 1 | 0 | unknown |
-| mountainlayout | AIM | 1 | 0 | unknown |
+| mountainlayout | idler/bot | 1 | 0 | unknown |
 | mousebanner | unknown | 1 | 0 | unknown |
 | mouseover | unknown | 1 | 0 | unknown |
 | mouseoverlink | unknown | 1 | 0 | unknown |
@@ -969,17 +975,17 @@ These are filenames or program leads discovered from external old-web sources an
 | msdxm | unknown | 1 | 0 | unknown |
 | msgbox | unknown | 1 | 0 | unknown |
 | msinet | unknown | 1 | 0 | unknown |
-| msstdfmt | unknown | 1 | 0 | unknown |
+| msstdfmt | chat/macro | 1 | 0 | unknown |
 | msvbvm-dll | unknown | 1 | 0 | unknown |
 | msvcp | unknown | 1 | 0 | unknown |
 | mswinsck | unknown | 1 | 0 | unknown |
 | mtb | unknown | 1 | 0 | unknown |
 | multi | unknown | 1 | 0 | unknown |
-| murder | unknown | 1 | 0 | unknown |
+| murder | chat/macro | 1 | 0 | unknown |
 | mxt | AIM | 1 | 0 | unknown |
 | n-assist | unknown | 1 | 0 | unknown |
 | n-k | unknown | 1 | 0 | unknown |
-| name | unknown | 1 | 0 | unknown |
+| name | idler/bot | 1 | 0 | unknown |
 | namealert | unknown | 1 | 0 | unknown |
 | napolean | unknown | 1 | 0 | unknown |
 | napster | unknown | 1 | 0 | unknown |
@@ -999,22 +1005,22 @@ These are filenames or program leads discovered from external old-web sources an
 | nitz | chat/macro | 1 | 0 | unknown |
 | nogi | mass mailer/server | 1 | 0 | unknown |
 | numberpwlists | hazardous/account or remote-control context | 1 | 0 | unknown |
-| nyc | AIM | 1 | 0 | unknown |
+| nyc | idler/bot | 1 | 0 | unknown |
 | nyte | unknown | 1 | 0 | unknown |
 | nytes-s | unknown | 1 | 0 | unknown |
 | oc | unknown | 1 | 0 | unknown |
 | oda | unknown | 1 | 0 | unknown |
-| oleaut | unknown | 1 | 0 | unknown |
-| olepro | unknown | 1 | 0 | unknown |
+| oleaut | chat/macro | 1 | 0 | unknown |
+| olepro | chat/macro | 1 | 0 | unknown |
 | ontop | unknown | 1 | 0 | unknown |
 | operationzero | unknown | 1 | 0 | unknown |
 | opticalphader | fader | 1 | 0 | unknown |
 | oralsacrafice | AIM | 1 | 0 | unknown |
 | osirismp | chat/macro | 1 | 0 | unknown |
 | osw | unknown | 1 | 0 | unknown |
-| outlawzidler | idler | 1 | 0 | unknown |
+| outlawzidler | idler/bot | 1 | 0 | unknown |
 | outrage | unknown | 1 | 0 | unknown |
-| overxposure | idler | 1 | 0 | unknown |
+| overxposure | idler/bot | 1 | 0 | unknown |
 | oxide | AIM | 1 | 0 | unknown |
 | oxsccoms | chat/macro | 1 | 0 | unknown |
 | p-p | punter/booter | 1 | 0 | unknown |
@@ -1023,18 +1029,19 @@ These are filenames or program leads discovered from external old-web sources an
 | paraphernalia | room buster | 1 | 0 | unknown |
 | passwords | hazardous/account or remote-control context | 1 | 0 | unknown |
 | patrycidebeta | unknown | 1 | 0 | unknown |
-| pen-ridle | idler | 1 | 0 | unknown |
+| pen-ridle | idler/bot | 1 | 0 | unknown |
 | percent | unknown | 1 | 0 | unknown |
-| percnt | unknown | 1 | 0 | unknown |
+| percnt | chat/macro | 1 | 0 | unknown |
 | pest | unknown | 1 | 0 | unknown |
 | pezcorefisher | hazardous/account or remote-control context | 1 | 0 | unknown |
 | phade | fader | 1 | 0 | unknown |
 | phazerphade | fader | 1 | 0 | unknown |
 | phblogource | unknown | 1 | 0 | unknown |
-| phishdatidle | idler | 1 | 0 | unknown |
+| phishdatidle | idler/bot | 1 | 0 | unknown |
 | phorgotten | hazardous/account or remote-control context | 1 | 0 | unknown |
+| phreakchat | room buster | 1 | 0 | unknown |
 | phrosty | unknown | 1 | 0 | unknown |
-| pibet | idler | 1 | 0 | unknown |
+| pibet | idler/bot | 1 | 0 | unknown |
 | playcd | unknown | 1 | 0 | unknown |
 | plugingalaxy | unknown | 1 | 0 | unknown |
 | pmanswering | unknown | 1 | 0 | unknown |
@@ -1051,18 +1058,18 @@ These are filenames or program leads discovered from external old-web sources an
 | projektkrak | hazardous/account or remote-control context | 1 | 0 | unknown |
 | prozac | room buster | 1 | 0 | unknown |
 | psy-kscroller | chat/macro | 1 | 0 | unknown |
-| psychic | idler | 1 | 0 | unknown |
+| psychic | idler/bot | 1 | 0 | unknown |
 | pulsarpunt | punter/booter | 1 | 0 | unknown |
 | punker | unknown | 1 | 0 | unknown |
 | punkmp | unknown | 1 | 0 | unknown |
 | qb | unknown | 1 | 0 | unknown |
 | quickchange | AIM | 1 | 0 | unknown |
-| raeophobic | idler | 1 | 0 | unknown |
+| raeophobic | idler/bot | 1 | 0 | unknown |
 | rainbow | unknown | 1 | 0 | unknown |
 | rapidhacker | unknown | 1 | 0 | unknown |
-| raspbeta | unknown | 1 | 0 | unknown |
+| raspbeta | chat/macro | 1 | 0 | unknown |
 | ravage | unknown | 1 | 0 | unknown |
-| redsparks | AIM | 1 | 0 | unknown |
+| redsparks | idler/bot | 1 | 0 | unknown |
 | remixbeta | chat/macro | 1 | 0 | unknown |
 | resurection | punter/booter | 1 | 0 | unknown |
 | revokescroller | chat/macro | 1 | 0 | unknown |
@@ -1075,7 +1082,7 @@ These are filenames or program leads discovered from external old-web sources an
 | ritmancounter | unknown | 1 | 0 | unknown |
 | riven | unknown | 1 | 0 | unknown |
 | roomie | room buster | 1 | 0 | unknown |
-| rose | AIM | 1 | 0 | unknown |
+| rose | idler/bot | 1 | 0 | unknown |
 | rotext | unknown | 1 | 0 | unknown |
 | safety | unknown | 1 | 0 | unknown |
 | salem | unknown | 1 | 0 | unknown |
@@ -1091,6 +1098,7 @@ These are filenames or program leads discovered from external old-web sources an
 | secrettext | AIM | 1 | 0 | unknown |
 | setting | unknown | 1 | 0 | unknown |
 | setuprt | unknown | 1 | 0 | unknown |
+| shadowbot | idler/bot | 1 | 0 | unknown |
 | shithead | unknown | 1 | 0 | unknown |
 | shockp | chat/macro | 1 | 0 | unknown |
 | siegebust | room buster | 1 | 0 | unknown |
@@ -1098,12 +1106,12 @@ These are filenames or program leads discovered from external old-web sources an
 | silentbutterfly | unknown | 1 | 0 | unknown |
 | silenterrorz | punter/booter | 1 | 0 | unknown |
 | silverdeath | punter/booter | 1 | 0 | unknown |
-| simpleidle | idler | 1 | 0 | unknown |
-| simplelayout | AIM | 1 | 0 | unknown |
-| sirvb | unknown | 1 | 0 | unknown |
+| simpleidle | idler/bot | 1 | 0 | unknown |
+| simplelayout | idler/bot | 1 | 0 | unknown |
+| sirvb | chat/macro | 1 | 0 | unknown |
 | sky-c | unknown | 1 | 0 | unknown |
 | slamfinal | unknown | 1 | 0 | unknown |
-| sleekgray | AIM | 1 | 0 | unknown |
+| sleekgray | idler/bot | 1 | 0 | unknown |
 | sleep | unknown | 1 | 0 | unknown |
 | sleepysetup | unknown | 1 | 0 | unknown |
 | smacksource | mass mailer/server | 1 | 0 | unknown |
@@ -1111,7 +1119,7 @@ These are filenames or program leads discovered from external old-web sources an
 | small | AIM | 1 | 0 | unknown |
 | smilehell | AIM | 1 | 0 | unknown |
 | smileyboot | punter/booter | 1 | 0 | unknown |
-| smileybot | AIM | 1 | 0 | unknown |
+| smileybot | idler/bot | 1 | 0 | unknown |
 | smileyunit | unknown | 1 | 0 | unknown |
 | snakebite | fader | 1 | 0 | unknown |
 | snexo | AIM | 1 | 0 | unknown |
@@ -1126,7 +1134,7 @@ These are filenames or program leads discovered from external old-web sources an
 | sourcemacro | chat/macro | 1 | 0 | unknown |
 | sp-ce | unknown | 1 | 0 | unknown |
 | sp-imblocker | unknown | 1 | 0 | unknown |
-| spacelayout | AIM | 1 | 0 | unknown |
+| spacelayout | idler/bot | 1 | 0 | unknown |
 | spamzilla | mass mailer/server | 1 | 0 | unknown |
 | spaz | unknown | 1 | 0 | unknown |
 | speedycrack | hazardous/account or remote-control context | 1 | 0 | unknown |
@@ -1138,13 +1146,13 @@ These are filenames or program leads discovered from external old-web sources an
 | ssspls | unknown | 1 | 0 | unknown |
 | standard | punter/booter | 1 | 0 | unknown |
 | stealer | unknown | 1 | 0 | unknown |
-| stealthafk | idler | 1 | 0 | unknown |
+| stealthafk | idler/bot | 1 | 0 | unknown |
 | stereotype | chat/macro | 1 | 0 | unknown |
 | stkit | unknown | 1 | 0 | unknown |
 | stonecolds | unknown | 1 | 0 | unknown |
 | stupidcunt | hazardous/account or remote-control context | 1 | 0 | unknown |
 | subprorape | AIM | 1 | 0 | unknown |
-| suicidle | idler | 1 | 0 | unknown |
+| suicidle | idler/bot | 1 | 0 | unknown |
 | superfree | unknown | 1 | 0 | unknown |
 | supersub | unknown | 1 | 0 | unknown |
 | swflash | unknown | 1 | 0 | unknown |
@@ -1157,19 +1165,19 @@ These are filenames or program leads discovered from external old-web sources an
 | tameclone | AIM | 1 | 0 | unknown |
 | tankbank | unknown | 1 | 0 | unknown |
 | tekronbeta | chat/macro | 1 | 0 | unknown |
-| tentacles | AIM | 1 | 0 | unknown |
+| tentacles | idler/bot | 1 | 0 | unknown |
 | terranova | unknown | 1 | 0 | unknown |
 | thedynastysetup | unknown | 1 | 0 | unknown |
 | theend | punter/booter | 1 | 0 | unknown |
 | theessence | punter/booter | 1 | 0 | unknown |
 | theif | chat/macro | 1 | 0 | unknown |
-| thermalidle | idler | 1 | 0 | unknown |
+| thermalidle | idler/bot | 1 | 0 | unknown |
 | three-final | hazardous/account or remote-control context | 1 | 0 | unknown |
 | thumper | unknown | 1 | 0 | unknown |
 | thunder | punter/booter | 1 | 0 | unknown |
 | timeout | unknown | 1 | 0 | unknown |
-| timmya | idler | 1 | 0 | unknown |
-| tncidle | idler | 1 | 0 | unknown |
+| timmya | idler/bot | 1 | 0 | unknown |
+| tncidle | idler/bot | 1 | 0 | unknown |
 | toc-sock | unknown | 1 | 0 | unknown |
 | tocsock | unknown | 1 | 0 | unknown |
 | topsitespro | unknown | 1 | 0 | unknown |
@@ -1179,13 +1187,14 @@ These are filenames or program leads discovered from external old-web sources an
 | toxicsource | unknown | 1 | 0 | unknown |
 | toyboat | chat/macro | 1 | 0 | unknown |
 | tpdtank | unknown | 1 | 0 | unknown |
-| truedesigns | AIM | 1 | 0 | unknown |
+| tronix | mass mailer/server | 1 | 0 | unknown |
+| truedesigns | idler/bot | 1 | 0 | unknown |
 | tsad | unknown | 1 | 0 | unknown |
-| ugly-green | AIM | 1 | 0 | unknown |
+| ugly-green | idler/bot | 1 | 0 | unknown |
 | ultraflood | punter/booter | 1 | 0 | unknown |
 | ultralinker | unknown | 1 | 0 | unknown |
 | ultrapunt | punter/booter | 1 | 0 | unknown |
-| uniidle | idler | 1 | 0 | unknown |
+| uniidle | idler/bot | 1 | 0 | unknown |
 | unrestricted | AIM | 1 | 0 | unknown |
 | untamed | punter/booter | 1 | 0 | unknown |
 | untamedfade | fader | 1 | 0 | unknown |
@@ -1211,13 +1220,13 @@ These are filenames or program leads discovered from external old-web sources an
 | vbwfind | unknown | 1 | 0 | unknown |
 | vc | AIM | 1 | 0 | unknown |
 | vdaddin | unknown | 1 | 0 | unknown |
-| visasciisource | unknown | 1 | 0 | unknown |
+| visasciisource | chat/macro | 1 | 0 | unknown |
 | visdata | unknown | 1 | 0 | unknown |
 | vkbaspack | unknown | 1 | 0 | unknown |
 | voter | unknown | 1 | 0 | unknown |
-| vtechidle | idler | 1 | 0 | unknown |
-| waidler | idler | 1 | 0 | unknown |
-| war | AIM | 1 | 0 | unknown |
+| vtechidle | idler/bot | 1 | 0 | unknown |
+| waidler | idler/bot | 1 | 0 | unknown |
+| war | idler/bot | 1 | 0 | unknown |
 | warnrate | punter/booter | 1 | 0 | unknown |
 | warnwar | AIM | 1 | 0 | unknown |
 | warp | unknown | 1 | 0 | unknown |
@@ -1226,7 +1235,7 @@ These are filenames or program leads discovered from external old-web sources an
 | watermenu | unknown | 1 | 0 | unknown |
 | wavcode | unknown | 1 | 0 | unknown |
 | wblind | unknown | 1 | 0 | unknown |
-| webby | AIM | 1 | 0 | unknown |
+| webby | idler/bot | 1 | 0 | unknown |
 | webskillz | unknown | 1 | 0 | unknown |
 | websters | hazardous/account or remote-control context | 1 | 0 | unknown |
 | weedboot | punter/booter | 1 | 0 | unknown |
@@ -1240,7 +1249,7 @@ These are filenames or program leads discovered from external old-web sources an
 | windowz | unknown | 1 | 0 | unknown |
 | winontop | unknown | 1 | 0 | unknown |
 | winpunt | punter/booter | 1 | 0 | unknown |
-| winzipgenbot | AIM | 1 | 0 | unknown |
+| winzipgenbot | idler/bot | 1 | 0 | unknown |
 | winzipkey | unknown | 1 | 0 | unknown |
 | winzipkeygen | unknown | 1 | 0 | unknown |
 | wog | punter/booter | 1 | 0 | unknown |
@@ -1264,5 +1273,6 @@ These are filenames or program leads discovered from external old-web sources an
 | ymsg | unknown | 1 | 0 | unknown |
 | youvegotmail | punter/booter | 1 | 0 | unknown |
 | ypunter | punter/booter | 1 | 0 | unknown |
+| zerocrush | chat/macro | 1 | 0 | unknown |
 | zig | unknown | 1 | 0 | unknown |
 | zonk | chat/macro | 1 | 0 | unknown |

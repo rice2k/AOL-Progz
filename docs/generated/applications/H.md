@@ -2,17 +2,17 @@
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 876 | [Hackers Toolz 1.0 And 8.0](pages/H/0876-hackers-toolz-1-0-and-8-0.md) | Hacker's Toolz 1.0 | All-in-one prog suite | all-in-one prog | AOL 4.0; inferred: AOL 7.0 | Oogle | 3.5 MB | [local](../../../files/aol/aol-4-0/0876-hackers-toolz-1-0.zip) | 0 |
+| 876 | [Hackers Toolz 1.0 And 8.0](pages/H/0876-hackers-toolz-1-0-and-8-0.md) | Hacker's Toolz 1.0 | All-in-one prog suite | all-in-one prog | AOL 4.0; inferred: AOL 7.0; archive text: AOL 7, AOL 8, AOL 8.0, AOL 6.0 | Jordan; catalog listed Oogle | 3.5 MB | [local](../../../files/aol/aol-4-0/0876-hackers-toolz-1-0.zip) | 0 |
 | 877 | [Haggard Toolz 1.4.0.1](pages/H/0877-haggard-toolz-1-4-0-1.md) | Haggard Toolz 1.4.0.1 | All-in-one prog suite | all-in-one prog | AOL 6.0 | HEX***...Get your copy today | 1.4 MB | [local](../../../files/aol/aol-6-0/0877-haggard-toolz-1-4-0-1.zip) | 0 |
-| 878 | [HAKGUARD](pages/H/0878-hakguard.md) | HAKGUARD | Unknown / needs review | uncategorized | AOL 4.0 | StormKa0s | 2.0 MB | [local](../../../files/aol/aol-4-0/0878-hakguard.zip) | 0 |
+| 878 | [HAKGUARD](pages/H/0878-hakguard.md) | HAKGUARD | Scroller / macro | uncategorized | AOL 4.0 | StormKa0s | 2.0 MB | [local](../../../files/aol/aol-4-0/0878-hakguard.zip) | 0 |
 | 879 | [hakkor ip stealer](pages/H/0879-hakkor-ip-stealer.md) | hakkor ip stealer | Unknown / needs review | uncategorized | Mixed/unknown | Hakkor | 1.9 MB | [local](../../../files/aol/mixed/0879-hakkor-ip-stealer.zip) | 0 |
-| 880 | [hallucinogenic3](pages/H/0880-hallucinogenic3.md) | hallucinogenic3 | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 3.9 MB | [local](../../../files/aol/aol-4-0/0880-hallucinogenic3.zip) | 0 |
+| 880 | [hallucinogenic3](pages/H/0880-hallucinogenic3.md) | hallucinogenic3 | Fader / text styler | uncategorized | AOL 4.0 | unknown | 3.9 MB | [local](../../../files/aol/aol-4-0/0880-hallucinogenic3.zip) | 0 |
 | 881 | [Hammer Spammer And 5.0](pages/H/0881-hammer-spammer-and-5-0.md) | Hammerspam | Mass mailer / server | mass mailer | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0881-hammerspam.zip) | 0 |
 | 882 | [Handicap Idle And 5.0](pages/H/0882-handicap-idle-and-5-0.md) | Handicap | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0882-handicap.zip) | 0 |
 | 883 | [HaRD SCrOLLeD B¥ TiGre](pages/H/0883-hard-scrolled-b-tigre.md) | HaRD SCrOLLeD B¥ TiGre | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 3.3 MB | [local](../../../files/aol/aol-4-0/0883-hard-scrolled-b-tigre.zip) | 0 |
-| 884 | [Hardware](pages/H/0884-hardware.md) | Hardware | Unknown / needs review | uncategorized | AOL 4.0 | Single | 1.3 MB | [local](../../../files/aol/aol-4-0/0884-hardware.zip) | 0 |
+| 884 | [Hardware](pages/H/0884-hardware.md) | Hardware | Idler / AFK bot | uncategorized | AOL 4.0 | Single | 1.3 MB | [local](../../../files/aol/aol-4-0/0884-hardware.zip) | 0 |
 | 885 | [HAVOCF~1](pages/H/0885-havocf1.md) | HAVOCF~1 | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 21 KB | [local](../../../files/aol/aol-4-0/0885-havocf1.zip) | 0 |
-| 886 | [Havok](pages/H/0886-havok.md) | havok | All-in-one Prog | all-in-one prog | AOL 4.0 | JePP | 1.8 MB | [local](../../../files/aol/aol-4-0/0886-havok.zip) | 0 |
+| 886 | [Havok](pages/H/0886-havok.md) | havok | Source / developer file | all-in-one prog | AOL 4.0 | JePP | 1.8 MB | [local](../../../files/aol/aol-4-0/0886-havok.zip) | 0 |
 | 887 | [HaX CrAcKz2](pages/H/0887-hax-crackz2.md) | HaX CrAcKz2 | Unknown / needs review | uncategorized | AOL 7 | unknown | 1.4 MB | [local](../../../files/aol/mixed/0887-hax-crackz2.zip) | 0 |
 | 888 | [hax0r3](pages/H/0888-hax0r3.md) | hax0r3 | Unknown / needs review | uncategorized | AOL 4.0 | solid | 1.6 MB | [local](../../../files/aol/aol-4-0/0888-hax0r3.zip) | 0 |
 | 889 | [HaXCrAcKz3](pages/H/0889-haxcrackz3.md) | HaXCrAcKz3 | Unknown / needs review | uncategorized | AOL 5-8 | unknown | 1.4 MB | [local](../../../files/aol/mixed/0889-haxcrackz3.zip) | 0 |
@@ -21,12 +21,12 @@
 | 892 | [HeartAttack_Crack_By_Iaoz[public]ver1](pages/H/0892-heartattack-crack-by-iaozpublicver1.md) | HeartAttack_Crack_By_Iaoz[public]ver1 | Unknown / needs review | uncategorized | AOL 4.0 | Iaoz | 7.8 MB | [local](../../../files/aol/aol-4-0/0892-heartattack-crack-by-iaozpublicver1.zip) | 0 |
 | 893 | [HeatSpam](pages/H/0893-heatspam.md) | HeatSpam | Mass mailer / server | mass mailer | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0893-heatspam.zip) | 0 |
 | 894 | [heavy water final](pages/H/0894-heavy-water-final.md) | heavy water final | Unknown / needs review | uncategorized | AOL 5.0 | unknown | 5.8 MB | [local](../../../files/aol/mixed/0894-heavy-water-final.zip) | 0 |
-| 895 | [HeLL RaSieR FiNaL](pages/H/0895-hell-rasier-final.md) | HeLL RaSieR FiNaL | All-in-one prog suite | uncategorized | AOL 4.0 | ChRoNoS | 1.6 MB | [local](../../../files/aol/aol-4-0/0895-hell-rasier-final.zip) | 0 |
+| 895 | [HeLL RaSieR FiNaL](pages/H/0895-hell-rasier-final.md) | HeLL RaSieR FiNaL | All-in-one prog suite | uncategorized | AOL 4.0; archive text: AOL 30 | ChRoNoS | 1.6 MB | [local](../../../files/aol/aol-4-0/0895-hell-rasier-final.zip) | 0 |
 | 896 | [hell spitz 1.3[final]](pages/H/0896-hell-spitz-1-3final.md) | hell spitz 1.3[final] | All-in-one prog suite | uncategorized | AOL 4.0 | KyPnoTiK | 3.3 MB | [local](../../../files/aol/aol-4-0/0896-hell-spitz-1-3final.zip) | 0 |
 | 897 | [HeLL sPiTz1.2](pages/H/0897-hell-spitz1-2.md) | HeLL sPiTz1.2 | All-in-one prog suite | uncategorized | AOL 4.0 | KyPnoTiK | 2.5 MB | [local](../../../files/aol/aol-4-0/0897-hell-spitz1-2.zip) | 0 |
-| 898 | [HeLLs RevenGe](pages/H/0898-hells-revenge.md) | HeLLs RevenGe | Unknown / needs review | uncategorized | AOL 4.0 | DeviL | 3.7 MB | [local](../../../files/aol/aol-4-0/0898-hells-revenge.zip) | 0 |
+| 898 | [HeLLs RevenGe](pages/H/0898-hells-revenge.md) | HeLLs RevenGe | Media / file utility | uncategorized | AOL 4.0; archive text: AOL 4.0 | DeviL | 3.7 MB | [local](../../../files/aol/aol-4-0/0898-hells-revenge.zip) | 0 |
 | 899 | [Hells Wasteland](pages/H/0899-hells-wasteland.md) | HellsWasteland | Account / TOS utility | account or TOS tool | AOL 6.0 | sleeper | 593 KB | [local](../../../files/aol/aol-6-0/0899-hellswasteland.zip) | 0 |
-| 900 | [Hellr 30](pages/H/0900-hellr-30.md) | HELLX | Unknown / needs review | uncategorized | AOL 3.0 | ChRoNoS | 1.2 MB | [local](../../../files/aol/aol-3-0/0900-hellx.zip) | 0 |
+| 900 | [Hellr 30](pages/H/0900-hellr-30.md) | HELLX | Account / TOS utility | uncategorized | AOL 3.0; archive text: AOL 30 | ChRoNoS | 1.2 MB | [local](../../../files/aol/aol-3-0/0900-hellx.zip) | 0 |
 | 936 | [hî dîcE](pages/H/0936-hi-dice.md) | hî dîcE | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 25 KB | [local](../../../files/aol/aol-4-0/0936-hi-dice.zip) | 0 |
 | 901 | [Hi T 3ch Idler And 9.0 Win XP Yr 05](pages/H/0901-hi-t-3ch-idler-and-9-0-win-xp-yr-05.md) | HI_T3CH | Idler / AFK bot | idler or bot | AOL 4.0; inferred: AOL 8.0 | As:?l:=c58W13K00B | 1.5 MB | [local](../../../files/aol/aol-4-0/0901-hi-t3ch.zip) | 0 |
 | 902 | [Hightimesv 5](pages/H/0902-hightimesv-5.md) | high | Unknown / needs review | uncategorized | AOL 4.0 | Liquid | 790 KB | [local](../../../files/aol/aol-4-0/0902-high.zip) | 0 |
@@ -50,18 +50,18 @@
 | 918 | [Horrific Scroll ²](pages/H/0918-horrific-scroll-2.md) | Horrific Scroll ² | Scroller / macro | scroller or macro | AOL 4.0 | Phazz | 29 KB | [local](../../../files/aol/aol-4-0/0918-horrific-scroll-2.zip) | 0 |
 | 920 | [hpbeta1](pages/H/0920-hpbeta1.md) | hpbeta1 | Unknown / needs review | uncategorized | AOL 5.0; inferred: AOL 4-5 | unknown | 22 B | [local](../../../files/aol/aol-5-0/0920-hpbeta1.zip) | 0 |
 | 921 | [HPhader](pages/H/0921-hphader.md) | HPhader | Unknown / needs review | uncategorized | AOL 4.0 | NiNJa | 958 KB | [local](../../../files/aol/aol-4-0/0921-hphader.zip) | 0 |
-| 922 | [html grabber](pages/H/0922-html-grabber.md) | html grabber | Unknown / needs review | uncategorized | Mixed/unknown | trip | 2.0 MB | [local](../../../files/aol/mixed/0922-html-grabber.zip) | 0 |
+| 922 | [html grabber](pages/H/0922-html-grabber.md) | html grabber | Source / developer file | uncategorized | Mixed/unknown | trip | 2.0 MB | [local](../../../files/aol/mixed/0922-html-grabber.zip) | 0 |
 | 923 | [HTML Thief](pages/H/0923-html-thief.md) | HTML Thief | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 1.6 MB | [local](../../../files/aol/mixed/0923-html-thief.zip) | 0 |
 | 924 | [HTMLEDIT](pages/H/0924-htmledit.md) | HTMLEDIT | Unknown / needs review | uncategorized | Mixed/unknown | Hobo | 1.4 MB | [local](../../../files/aol/mixed/0924-htmledit.zip) | 0 |
-| 925 | [htmlfade](pages/H/0925-htmlfade.md) | htmlfade | Unknown / needs review | uncategorized | Mixed/unknown | Half Life | 6.8 KB | [local](../../../files/aol/mixed/0925-htmlfade.zip) | 0 |
+| 925 | [htmlfade](pages/H/0925-htmlfade.md) | htmlfade | All-in-one prog suite | uncategorized | Mixed/unknown | Half Life | 6.8 KB | [local](../../../files/aol/mixed/0925-htmlfade.zip) | 0 |
 | 926 | [hurricane mp3](pages/H/0926-hurricane-mp3.md) | hurricane mp3 | Media / file utility | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0926-hurricane-mp3.zip) | 0 |
 | 927 | [Hush 70](pages/H/0927-hush-70.md) | hush | Unknown / needs review | uncategorized | AOL 4.0 | DeV | 1.9 MB | [local](../../../files/aol/aol-4-0/0927-hush.zip) | 0 |
 | 928 | [hush ccom](pages/H/0928-hush-ccom.md) | hush ccom | C-Com / command list | chat or IM tool | AOL 4.0 | DeV | 2.3 MB | [local](../../../files/aol/aol-4-0/0928-hush-ccom.zip) | 0 |
 | 929 | [hybriD mp3 playah](pages/H/0929-hybrid-mp3-playah.md) | hybriD mp3 playah | Media / file utility | uncategorized | Mixed/unknown | champs | 3.3 MB | [local](../../../files/aol/mixed/0929-hybrid-mp3-playah.zip) | 0 |
-| 930 | [Hydromm](pages/H/0930-hydromm.md) | hydro | Unknown / needs review | uncategorized | AOL 4.0; inferred: 3.0 | X6725; inferred: Chronie | 693 KB | [local](../../../files/aol/aol-4-0/0930-hydro.zip) | 0 |
+| 930 | [Hydromm](pages/H/0930-hydromm.md) | hydro | Unknown / needs review | uncategorized | AOL 4.0; inferred: 3.0 | Chronie; catalog listed X6725 | 693 KB | [local](../../../files/aol/aol-4-0/0930-hydro.zip) | 0 |
 | 931 | [Hydrophonix](pages/H/0931-hydrophonix.md) | hydrop | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 3.0 MB | [local](../../../files/aol/mixed/0931-hydrop.zip) | 0 |
 | 932 | [Hyper Linker %b 3 And 5.0](pages/H/0932-hyper-linker-b-3-and-5-0.md) | Hyper Linker ¦ | Linker / chat linker | chat or IM tool | AOL 4.0 | unknown | 529 KB | [local](../../../files/aol/mixed/0932-hyper-linker.zip) | 0 |
-| 934 | [Hypêr Línkêr ²](pages/H/0934-hyper-linker-2.md) | Hypêr Línkêr ² | Unknown / needs review | uncategorized | AOL 4.0 | Mr Koww | 1.5 MB | [local](../../../files/aol/aol-4-0/0934-hyper-linker-2.zip) | 0 |
+| 934 | [Hypêr Línkêr ²](pages/H/0934-hyper-linker-2.md) | Hypêr Línkêr ² | Fader / text styler | uncategorized | AOL 4.0; archive text: AOL 4.0, AOL 5.0, AOL 6.0 | Mr Koww | 1.5 MB | [local](../../../files/aol/aol-4-0/0934-hyper-linker-2.zip) | 0 |
 | 933 | [hypno-£àGGéR](pages/H/0933-hypno-agger.md) | hypno-£àGGéR | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 8-9 | EpiDemiK. hypnotiZe iNc | 1.4 MB | [local](../../../files/aol/aol-4-0/0933-hypno-agger.zip) | 0 |
-| 935 | [HYSTERIA](pages/H/0935-hysteria.md) | HYSTERIA | Unknown / needs review | uncategorized | AOL 4.0 | click | 2.0 MB | [local](../../../files/aol/aol-4-0/0935-hysteria.zip) | 0 |
+| 935 | [HYSTERIA](pages/H/0935-hysteria.md) | HYSTERIA | Account / TOS utility | uncategorized | AOL 4.0 | click | 2.0 MB | [local](../../../files/aol/aol-4-0/0935-hysteria.zip) | 0 |
 | 938 | [HΘúú ≡╤ Θ├«TH](pages/H/0938-huu-th.md) | HΘúú ≡╤ Θ├«TH | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 23 KB | [local](../../../files/aol/aol-4-0/0938-huu-th.zip) | 0 |

@@ -1,7 +1,10 @@
-# Author: Kai
+# Author: kai
 
-**Catalog entries:** 1
+**Catalog entries:** 4
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1039 | [Itank](../../applications/pages/I/1039-itank.md) | itank | Unknown / needs review | uncategorized | AOL 4.0 | Kai | 947 KB | [local](../../../../files/aol/aol-4-0/1039-itank.zip) | 0 |
+| 1627 | [rice 2k](../../applications/pages/R/1627-rice-2k.md) | rice 2k | Unknown / needs review | uncategorized | AOL 4.0 | kai | unknown | remote-only | 0 |
+| 1772 | [spamsock3](../../applications/pages/S/1772-spamsock3.md) | spamsock3 | Unknown / needs review | uncategorized | AOL 4.0 | kai | unknown | remote-only | 0 |
+| 1773 | [spamsock3](../../applications/pages/S/1773-spamsock3.md) | spamsock3 | Unknown / needs review | uncategorized | AOL 4.0 | kai | unknown | remote-only | 0 |
+| 1774 | [spamsock3](../../applications/pages/S/1774-spamsock3.md) | spamsock3 | Unknown / needs review | uncategorized | AOL 4.0 | kai | unknown | remote-only | 0 |

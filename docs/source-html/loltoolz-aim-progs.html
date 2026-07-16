@@ -1,0 +1,471 @@
+<script type="text/javascript">
+        var gk_isXlsx = false;
+        var gk_xlsxFileLookup = {};
+        var gk_fileData = {};
+        function filledCell(cell) {
+          return cell !== '' && cell != null;
+        }
+        function loadFileData(filename) {
+        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
+            try {
+                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
+                var firstSheetName = workbook.SheetNames[0];
+                var worksheet = workbook.Sheets[firstSheetName];
+
+                // Convert sheet to JSON to filter blank rows
+                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
+                // Filter out blank rows (rows where all cells are empty, null, or undefined)
+                var filteredData = jsonData.filter(row => row.some(filledCell));
+
+                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
+                var headerRowIndex = filteredData.findIndex((row, index) =>
+                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
+                );
+                // Fallback
+                if (headerRowIndex === -1 || headerRowIndex > 25) {
+                  headerRowIndex = 0;
+                }
+
+                // Convert filtered JSON back to CSV
+                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
+                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
+                return csv;
+            } catch (e) {
+                console.error(e);
+                return "";
+            }
+        }
+        return gk_fileData[filename] || "";
+        }
+        </script><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>███▓▒░ LoLToolz.com ░▒▓███ - AIM Progs</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body style="background-color: #1c212f; color: #ffffff; margin: 0;">
+    <div style="text-align: center;">
+        <img src="digital.jpg" alt="LoLToolz.com Banner">
+    </div>
+    <div style="display: flex; justify-content: center;">
+        <table style="width: 80%; background-color: #424d6c; border-spacing: 2px;">
+            <tr>
+                <td style="width: 200px; background-color: #30384f; height: 24px;">
+                    <p style="text-align: left; margin: 0;">
+                        <span style="font-family: Webdings; color: lightblue; font-size: 12px;">6</span>
+                        <span style="color: lightblue; font-size: 12px;">:: Navigation ::</span>
+                    </p>
+                </td>
+                <td style="background-color: #30384f;"></td>
+            </tr>
+            <tr>
+                <td style="vertical-align: top; background-color: #1c212f;">
+                    <table style="width: 200px; border-spacing: 2px;">
+                        <tr>
+                            <td colspan="2" style="background-color: #1c212f; height: 22px;">
+                                <p style="text-align: left; margin: 0;">
+                                    <span style="font-family: Webdings; color: lightblue; font-size: 12px;">6</span>
+                                    <span style="font-family: Verdana; font-size: 12px; color: #bfc7d0;">Main Menu</span>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="index.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Root</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="old.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:News Archive</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="staff.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:LoLToolz Staff</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="contact.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Contact</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="http://pub.alxnet.com/guestbook?id=2133013" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Guestbook</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="hosted.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Highlighted Sites</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="background-color: #1c212f; height: 22px;">
+                                <p style="text-align: left; margin: 0;">
+                                    <span style="font-family: Webdings; color: lightblue; font-size: 12px;">6</span>
+                                    <span style="font-size: 12px;">Downloads</span>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="aim.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Aim Progs</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="aolbuddy.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Aim Buddy Icons</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="aol.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Aol Progs</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="apps.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Applications</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="mp3.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Audio Files</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="bunker.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Bunker of Binaries</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="otherdl.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Other Downloads</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="background-color: #1c212f; height: 22px;">
+                                <p style="text-align: left; margin: 0;">
+                                    <span style="font-family: Webdings; color: lightblue; font-size: 12px;">6</span>
+                                    <span style="font-family: Verdana; font-size: 12px; color: #bfc7d0;">LoLToolz Prog</span>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="about.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:About</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="info.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Download</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="stats.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Statistics</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="sc.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Source Code</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="ss.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Screen Shots</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="skins.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Skins</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="background-color: #1c212f; height: 22px;">
+                                <p style="text-align: left; margin: 0;">
+                                    <span style="font-family: Webdings; color: lightblue; font-size: 12px;">6</span>
+                                    <span style="font-family: Verdana; font-size: 12px; color: #bfc7d0;">Miscellaneous</span>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="aboutme.htm" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:About</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="link.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Links</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="linkus.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Link Us</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="images.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Rice2k Images</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="lamers.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Lamers</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="xtra.html" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:More Stuff</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" style="background-color: #1c212f; height: 22px;">
+                                <p style="text-align: left; margin: 0;">
+                                    <span style="font-family: Webdings; color: lightblue; font-size: 12px;">6</span>
+                                    <span style="font-family: Verdana; font-size: 12px; color: #bfc7d0;">Text Linkage</span>
+                                </p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010208185345/http://www.aol-progz.com/index.shtml" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:AOL-Progz.com</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010215040947/http://www.a-x-o.com/" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:A-X-O</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010223212351/http://coolkid.text2k.net/" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:CoolKid.text2k.net</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010223212351/http://www.freeprogz.com/" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Freeprogz.com</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010405215412/http://no-skill.net/hamsterstyle/index.shtml" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Hamsterstyle.com</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010215040947/http://www.a-x-o.com/~ironblood/index2.html" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:IronBlood Progz</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010223212351/http://lenshell.com/" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:LensHell.com</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010223212351/http://www.methodus2000.com/methodustoolz/index.htm" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Methodus2000</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/*/http://www.namek.org/*" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Namek.org</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010223212351/http://oogle.net/" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Oogle.net</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010223212351/http://www9.50megs.com/malcome3/" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:ProgStation</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="width: 10px; background-color: #262d40; text-align: center; font-size: 12px;">»</td>
+                            <td style="width: 180px; background-color: #262d40;">
+                                <a href="https://web.archive.org/web/20010223212351/http://solo5.abac.com/phat/progs.htm" target="_blank" style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-decoration: none; display: block; padding: 4px;" onmouseover="this.style.backgroundColor='#30384F'; this.style.cursor='pointer';" onmouseout="this.style.backgroundColor='#262d40';">:Phat Progs</a>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td style="vertical-align: top; background-color: #262d40; width: 100%;">
+                    <table style="width: 600px; margin: 0 auto; border-spacing: 0;">
+                        <tr>
+                            <td style="background-color: #282c40; vertical-align: top; padding: 20px;">
+                                <div style="width: 90%; margin: 0 auto;">
+                                    <table style="width: 100%; border: 1px solid #485070;">
+                                        <tr style="background-color: #485070;">
+                                            <td>
+                                                <table style="width: 100%; border-spacing: 2px;">
+                                                    <tr>
+                                                        <td style="width: 50%; background-color: #303850; text-align: left; padding: 10px;">
+                                                            <span style="font-family: Webdings; color: #888888; font-size: 12px;">6</span>
+                                                        </td>
+                                                        <td style="width: 50%; background-color: #303850; text-align: right; padding: 10px;">
+                                                            <span style="font-family: Webdings; color: #888888; font-size: 12px;">02r</span>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td colspan="2" style="background-color: #262d40; padding: 20px;">
+                                                            <p style="font-family: Verdana; font-size: 14px; text-align: center; line-height: 1.8;">
+                                                                <b>AIM Progs</b><br>
+                                                                <img src="bar2.jpg" alt="Divider" style="margin: 10px 0;">
+                                                            </p>
+                                                            <p style="font-family: Verdana; font-size: 12px; color: #bfc7d0; text-align: left;">
+                                                                Yo, welcome to the AIM Progs section of LoLToolz! These 1337 tools are for hackin’ up your AOL Instant Messenger game. From buddy list mods to chatroom phreaks, we got the phattest progs in the underground scene. Download at your own risk, don’t get busted by the lamers! Stay 1337, yo!
+                                                            </p>
+                                                            <table style="width: 100%; border-spacing: 0; margin-top: 20px;">
+                                                                <tr style="background-color: #30384f;">
+                                                                    <th style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px; text-align: left;">Program Name</th>
+                                                                    <th style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px; text-align: left;">Version</th>
+                                                                    <th style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px; text-align: left;">Description</th>
+                                                                    <th style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px; text-align: left;">Size</th>
+                                                                    <th style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px; text-align: left;">Download</th>
+                                                                </tr>
+                                                                <tr style="background-color: #1c212f;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">PhreakChat</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v2.1</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">1337 chatroom hack, crash lamers and own the room!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">250 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/phreakchat.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #262d40;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">BuddyBlaster</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v1.3</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Spam your buddy list with dope ASCII art, yo!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">180 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/buddyblaster.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #1c212f;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">HackZoid</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v3.0</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Steal away messages and flex on your crew!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">320 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/hackzoid.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #262d40;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">1337Skinz</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v1.5</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Phat skin switcher for AIM, mad styles!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">450 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/1337skinz.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #1c212f;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">ShadowBot</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v2.4</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Auto-respond bot, troll your buddies!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">200 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/shadowbot.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #262d40;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">ZeroCrush</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v1.8</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Flood chats with 1337 text, own the scene!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">280 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/zerocrush.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #1c212f;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">GlitchX</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v2.0</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Fake disconnects to dodge lamersphere!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">150 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/glitchx.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #262d40;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">DarkZoid</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v1.9</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Stealth mode for AIM, stay invisible!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">220 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/darkzoid.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #1c212f;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">CodeZap</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v2.2</td>
+                                                                <td><td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Zap profiles with dope hacks, 1337 style!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">300 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/codezap.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                                <tr style="background-color: #262d40;">
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Tronix</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">v1.7</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">Mass IM blaster, spam the underground!</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;">260 KB</td>
+                                                                    <td style="font-family: Verdana; font-size: 12px; color: #bfc7d0; padding: 8px;"><a href="downloads/tronix.zip" style="color: #0077cc; text-decoration: none;">Download</a></td>
+                                                                </tr>
+                                                            </table>
+                                                            <img src="bar2.jpg" alt="Divider" style="margin: 10px 0;">
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div style="text-align: center;">
+        <table style="width: 80%; background-color: #424d6c; border-spacing: 2px; margin: 0 auto;">
+            <tr>
+                <td style="width: 50%; background-color: #30384f; text-align: center;">
+                    <p style="font-family: Tahoma; font-size: 12px; color: #c0c8d0; margin: 0;">
+                        © 2000-2025 LoLToolz.com · All Your Rights Are Belong To Us 🔥
+                    </p>
+                <td style="font-family: Tahoma; font-size: 12px;" color="#c0c8d0;" margin="0;">
+                        Hosted by <a href="https://8op.com/" target="_blank" style="color: #c0c8d0; text-decoration: underline;">8op.com</a>
+                    </td>
+                </tr>
+                <td style="width: 50%; background-color: #30384f; text-align: right;">
+                    <marquee behavior="scroll" style="font-family: monospace; font-size: 12px; color: #c0c8d;">
+0;">
+                        💻 You snooze, you lose! Updates inside ➡️ Bookmark ☠ LoLToolz.com ☠ now! 😊
+                    </marquee>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

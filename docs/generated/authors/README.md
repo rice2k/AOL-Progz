@@ -1,12 +1,12 @@
 # Authors
 
-Author names are preserved exactly as the source catalog recorded them when present. Many entries have no reliable author metadata.
+Author pages use the best available evidence in this order: manual correction, readable archive text, filename inference, then the old catalog field. Many entries still have no reliable author metadata.
 
 | Author | Count | Page |
 | --- | --- | --- |
 | JDE | 15 | [open](pages/jde.md) |
 | zero | 14 | [open](pages/zero.md) |
-| z0ne | 13 | [open](pages/z0ne.md) |
+| z0ne | 12 | [open](pages/z0ne.md) |
 | ZIP | 10 | [open](pages/zip.md) |
 | Alpha | 9 | [open](pages/alpha.md) |
 | CpRide | 9 | [open](pages/cpride.md) |
@@ -20,7 +20,6 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | spermie | 6 | [open](pages/spermie.md) |
 | Chr0me | 5 | [open](pages/chr0me.md) |
 | flux | 5 | [open](pages/flux.md) |
-| GenOziDe | 5 | [open](pages/genozide.md) |
 | InCuBuS | 5 | [open](pages/incubus.md) |
 | Negz | 5 | [open](pages/negz.md) |
 | Phazz | 5 | [open](pages/phazz.md) |
@@ -36,6 +35,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | Faygo | 4 | [open](pages/faygo.md) |
 | Festa | 4 | [open](pages/festa.md) |
 | fifa | 4 | [open](pages/fifa.md) |
+| GenOziDe | 4 | [open](pages/genozide.md) |
 | kai | 4 | [open](pages/kai.md) |
 | kain | 4 | [open](pages/kain.md) |
 | Kaos | 4 | [open](pages/kaos.md) |
@@ -147,7 +147,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | nxt | 2 | [open](pages/nxt.md) |
 | Nyte | 2 | [open](pages/nyte.md) |
 | Oh2 | 2 | [open](pages/oh2.md) |
-| Oogle | 2 | [open](pages/oogle.md) |
+| Oogle (Justin Tunney) | 2 | [open](pages/oogle-justin-tunney.md) |
 | oracle | 2 | [open](pages/oracle.md) |
 | Oxygen | 2 | [open](pages/oxygen.md) |
 | peenoy | 2 | [open](pages/peenoy.md) |
@@ -258,13 +258,14 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | c0mp | 1 | [open](pages/c0mp.md) |
 | c7z7 | 1 | [open](pages/c7z7.md) |
 | CaCaMan | 1 | [open](pages/cacaman.md) |
+| Cali | 1 | [open](pages/cali.md) |
 | CAM0 | 1 | [open](pages/cam0.md) |
 | Can Designs | 1 | [open](pages/can-designs.md) |
 | Cane | 1 | [open](pages/cane.md) |
 | canon | 1 | [open](pages/canon.md) |
 | Carbøn | 1 | [open](pages/carbn.md) |
 | carnage | 1 | [open](pages/carnage.md) |
-| CDBurn(01 | 1 | [open](pages/cdburn01.md) |
+| CDBurn(01,02,03,04,05) | 1 | [open](pages/cdburn0102030405.md) |
 | Ced | 1 | [open](pages/ced.md) |
 | chaim | 1 | [open](pages/chaim.md) |
 | champs | 1 | [open](pages/champs.md) |
@@ -277,6 +278,8 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | chr0me | 1 | [open](pages/chr0me.md) |
 | Chr0me iCe | 1 | [open](pages/chr0me-ice.md) |
 | chris | 1 | [open](pages/chris.md) |
+| Chris + Logik | 1 | [open](pages/chris-logik.md) |
+| Chronie | 1 | [open](pages/chronie.md) |
 | cigz | 1 | [open](pages/cigz.md) |
 | CiNDy | 1 | [open](pages/cindy.md) |
 | clear water | 1 | [open](pages/clear-water.md) |
@@ -334,6 +337,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | Dratek | 1 | [open](pages/dratek.md) |
 | DuKSiZ | 1 | [open](pages/duksiz.md) |
 | Dyce | 1 | [open](pages/dyce.md) |
+| ed | 1 | [open](pages/ed.md) |
 | Edge | 1 | [open](pages/edge.md) |
 | edit | 1 | [open](pages/edit.md) |
 | een a Shattering NightMare | 1 | [open](pages/een-a-shattering-nightmare.md) |
@@ -364,7 +368,6 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | flj19 | 1 | [open](pages/flj19.md) |
 | fluid Kript | 1 | [open](pages/fluid-kript.md) |
 | fo0 | 1 | [open](pages/fo0.md) |
-| FON | 1 | [open](pages/fon.md) |
 | font . color=# | 1 | [open](pages/font-color.md) |
 | font . color=#cc0000 | 1 | [open](pages/font-colorcc0000.md) |
 | font color | 1 | [open](pages/font-color.md) |
@@ -393,6 +396,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | glitch | 1 | [open](pages/glitch.md) |
 | God | 1 | [open](pages/god.md) |
 | GoD | 1 | [open](pages/god.md) |
+| GonGy (James Farmer) | 1 | [open](pages/gongy-james-farmer.md) |
 | GostLy | 1 | [open](pages/gostly.md) |
 | gozer | 1 | [open](pages/gozer.md) |
 | Gozer | 1 | [open](pages/gozer.md) |
@@ -447,6 +451,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | jake | 1 | [open](pages/jake.md) |
 | James | 1 | [open](pages/james.md) |
 | James and Brian. Have fun | 1 | [open](pages/james-and-brian-have-fun.md) |
+| James Farmer (GonGy) | 1 | [open](pages/james-farmer-gongy.md) |
 | JANGEADOR 2000 | 1 | [open](pages/jangeador-2000.md) |
 | JDE Productions | 1 | [open](pages/jde-productions.md) |
 | JeeP | 1 | [open](pages/jeep.md) |
@@ -454,10 +459,10 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | JeQ | 1 | [open](pages/jeq.md) |
 | jinc | 1 | [open](pages/jinc.md) |
 | jogging | 1 | [open](pages/jogging.md) |
+| Jordan | 1 | [open](pages/jordan.md) |
 | Josh | 1 | [open](pages/josh.md) |
 | Jumpman | 1 | [open](pages/jumpman.md) |
 | Juno | 1 | [open](pages/juno.md) |
-| Kai | 1 | [open](pages/kai.md) |
 | KaoS | 1 | [open](pages/kaos.md) |
 | KAoS | 1 | [open](pages/kaos.md) |
 | kaos 99 | 1 | [open](pages/kaos-99.md) |
@@ -467,6 +472,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | kemo | 1 | [open](pages/kemo.md) |
 | Kevin Meek AKA Alpha | 1 | [open](pages/kevin-meek-aka-alpha.md) |
 | KiD | 1 | [open](pages/kid.md) |
+| Kid -9 WinXP Yr06 | 1 | [open](pages/kid-9-winxp-yr06.md) |
 | KiNG | 1 | [open](pages/king.md) |
 | KiRe | 1 | [open](pages/kire.md) |
 | klopin | 1 | [open](pages/klopin.md) |
@@ -503,6 +509,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | LoSt | 1 | [open](pages/lost.md) |
 | Lover Boy @ Free Field | 1 | [open](pages/lover-boy-free-field.md) |
 | lynx | 1 | [open](pages/lynx.md) |
+| Lynx | 1 | [open](pages/lynx.md) |
 | MaaS | 1 | [open](pages/maas.md) |
 | mack | 1 | [open](pages/mack.md) |
 | MadMTM | 1 | [open](pages/madmtm.md) |
@@ -579,6 +586,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | ogh | 1 | [open](pages/ogh.md) |
 | OiL | 1 | [open](pages/oil.md) |
 | one | 1 | [open](pages/one.md) |
+| Oogle | 1 | [open](pages/oogle.md) |
 | OpiuM | 1 | [open](pages/opium.md) |
 | optic | 1 | [open](pages/optic.md) |
 | oracle 'n kai | 1 | [open](pages/oracle-n-kai.md) |
@@ -629,19 +637,19 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | prophet | 1 | [open](pages/prophet.md) |
 | prowler | 1 | [open](pages/prowler.md) |
 | punt | 1 | [open](pages/punt.md) |
+| qb and dank | 1 | [open](pages/qb-and-dank.md) |
 | Qremlin | 1 | [open](pages/qremlin.md) |
 | RadiaL | 1 | [open](pages/radial.md) |
 | RaheeL | 1 | [open](pages/raheel.md) |
 | Raider | 1 | [open](pages/raider.md) |
 | Ranger | 1 | [open](pages/ranger.md) |
 | ratm | 1 | [open](pages/ratm.md) |
-| Raúl | 1 | [open](pages/raul.md) |
+| Raul Martinez | 1 | [open](pages/raul-martinez.md) |
 | razid | 1 | [open](pages/razid.md) |
 | ReapeR aka carnage | 1 | [open](pages/reaper-aka-carnage.md) |
 | Revolution_X | 1 | [open](pages/revolution-x.md) |
 | reza | 1 | [open](pages/reza.md) |
 | rice | 1 | [open](pages/rice.md) |
-| RiDDLeR | 1 | [open](pages/riddler.md) |
 | Right | 1 | [open](pages/right.md) |
 | RiVeN | 1 | [open](pages/riven.md) |
 | romeo | 1 | [open](pages/romeo.md) |
@@ -657,7 +665,6 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | s email acct | 1 | [open](pages/s-email-acct.md) |
 | s welcome | 1 | [open](pages/s-welcome.md) |
 | s: platinum 'n Hustla | 1 | [open](pages/s-platinum-n-hustla.md) |
-| s: qb and dank | 1 | [open](pages/s-qb-and-dank.md) |
 | s: rerun and seph | 1 | [open](pages/s-rerun-and-seph.md) |
 | s}R. Ierusalimsch | 1 | [open](pages/sr-ierusalimsch.md) |
 | saaa | 1 | [open](pages/saaa.md) |
@@ -753,7 +760,6 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | the | 1 | [open](pages/the.md) |
 | the Krew at L | 1 | [open](pages/the-krew-at-l.md) |
 | ThiEf | 1 | [open](pages/thief.md) |
-| This product is from FON | 1 | [open](pages/this-product-is-from-fon.md) |
 | timebomb | 1 | [open](pages/timebomb.md) |
 | Todd Osborne in Microsoft C | 1 | [open](pages/todd-osborne-in-microsoft-c.md) |
 | Top | 1 | [open](pages/top.md) |
@@ -794,9 +800,8 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | Wolve | 1 | [open](pages/wolve.md) |
 | Wood | 1 | [open](pages/wood.md) |
 | WurM | 1 | [open](pages/wurm.md) |
-| X6725 | 1 | [open](pages/x6725.md) |
 | xer | 1 | [open](pages/xer.md) |
-| xèró and slush | 1 | [open](pages/xero-and-slush.md) |
+| Xero And Slush | 1 | [open](pages/xero-and-slush.md) |
 | XnicovX | 1 | [open](pages/xnicovx.md) |
 | xpire | 1 | [open](pages/xpire.md) |
 | xpt | 1 | [open](pages/xpt.md) |
@@ -804,6 +809,7 @@ Author names are preserved exactly as the source catalog recorded them when pres
 | Xxphr0z3nxX | 1 | [open](pages/xxphr0z3nxx.md) |
 | XxWizardxX and WiZaRd666 | 1 | [open](pages/xxwizardxx-and-wizard666.md) |
 | YoKe | 1 | [open](pages/yoke.md) |
+| Z0ne For Yr09 | 1 | [open](pages/z0ne-for-yr09.md) |
 | zel | 1 | [open](pages/zel.md) |
 | Zer0 | 1 | [open](pages/zer0.md) |
 | Zeve Salman | 1 | [open](pages/zeve-salman.md) |

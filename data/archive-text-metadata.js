@@ -1,0 +1,30583 @@
+window.AOL_PROGZ_ARCHIVE_TEXT_METADATA = {
+  "generatedAt": "2026-07-16T03:33:23.857Z",
+  "programCount": 2139,
+  "scannedPrograms": 1672,
+  "programsWithTextFiles": 499,
+  "programsWithAuthorCandidates": 15,
+  "programsWithPurposeSignals": 324,
+  "programsWithAolVersionMentions": 106,
+  "perProgram": {
+    "prog-0001-411": {
+      "programId": "prog-0001-411",
+      "programName": "! 411 !",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0001-411.zip",
+      "localSize": 119086,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0002-ufg-linker-2ooo": {
+      "programId": "prog-0002-ufg-linker-2ooo",
+      "programName": "(^'\u000f»UFG Linker ²ººº",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0002-ufg-linker-2ooo.zip",
+      "localSize": 40830,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0003-upchat-4-o": {
+      "programId": "prog-0003-upchat-4-o",
+      "programName": "+UPchat 4.o+",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0003-upchat-4-o.zip",
+      "localSize": 1337285,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0004-new-breed": {
+      "programId": "prog-0004-new-breed",
+      "programName": "- -New Breed- -",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0004-new-breed.zip",
+      "localSize": 4131257,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ  FIRST ! ! !.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ  FIRST ! ! !.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0005-in-flames": {
+      "programId": "prog-0005-in-flames",
+      "programName": "- [ In Flames ] -",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0005-in-flames.zip",
+      "localSize": 2054497,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0006-mxer-xer": {
+      "programId": "prog-0006-mxer-xer",
+      "programName": "-[Mxer Xer]-",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0006-mxer-xer.zip",
+      "localSize": 1717721,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0007-eep-bsess-2-0": {
+      "programId": "prog-0007-eep-bsess-2-0",
+      "programName": "-eep -bsess 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0007-eep-bsess-2-0.zip",
+      "localSize": 1002927,
+      "textFileCount": 1,
+      "textFiles": [
+        "OCXs/Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0008-le-anti": {
+      "programId": "prog-0008-le-anti",
+      "programName": "-Le- anti",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0008-le-anti.zip",
+      "localSize": 1488847,
+      "textFileCount": 2,
+      "textFiles": [
+        "leanme.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.1"
+      ],
+      "notes": [
+        "leanme.txt mentions AOL 7.0, AOL 9.1.",
+        "leanme.txt has vocabulary for AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0009-le-idler": {
+      "programId": "prog-0009-le-idler",
+      "programName": "-Le- idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0009-le-idler.zip",
+      "localSize": 1512841,
+      "textFileCount": 1,
+      "textFiles": [
+        "leanme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.1"
+      ],
+      "notes": [
+        "leanme.txt mentions AOL 7.0, AOL 9.1.",
+        "leanme.txt has vocabulary for Idler / AFK bot, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0010-spitfire-idle-1-2-beta": {
+      "programId": "prog-0010-spitfire-idle-1-2-beta",
+      "programName": "-spitfire- idle 1.2 beta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0010-spitfire-idle-1-2-beta.zip",
+      "localSize": 1711365,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0011-spitfire-idle-v2-0-beta": {
+      "programId": "prog-0011-spitfire-idle-v2-0-beta",
+      "programName": "-spitfire- idle v2.0 beta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0011-spitfire-idle-v2-0-beta.zip",
+      "localSize": 1864507,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0012-ss-ggs": {
+      "programId": "prog-0012-ss-ggs",
+      "programName": "-ss GGs",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0012-ss-ggs.zip",
+      "localSize": 4430381,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for C-Com / command list."
+      ]
+    },
+    "prog-0013-01": {
+      "programId": "prog-0013-01",
+      "programName": "01",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0013-01.zip",
+      "localSize": 1493563,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 5",
+        "AOL 6",
+        "AOL 4"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 5, AOL 6, AOL 4.",
+        "readme.txt has vocabulary for Idler / AFK bot, Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-0014-0sw": {
+      "programId": "prog-0014-0sw",
+      "programName": "0sw",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0014-0sw.zip",
+      "localSize": 1201932,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0015-1337crack2": {
+      "programId": "prog-0015-1337crack2",
+      "programName": "1337crack2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0015-1337crack2.zip",
+      "localSize": 2791435,
+      "textFileCount": 2,
+      "textFiles": [
+        "scrwz leet pwl.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 000",
+        "AOL 0000",
+        "AOL 0003",
+        "AOL 0005",
+        "AOL 0006",
+        "AOL 0007",
+        "AOL 0008",
+        "AOL 0009",
+        "AOL 001",
+        "AOL 0016"
+      ],
+      "notes": [
+        "scrwz leet pwl.txt mentions AOL 000, AOL 0000, AOL 0003, AOL 0005, AOL 0006, AOL 0007, AOL 0008, AOL 0009, AOL 001, AOL 0016.",
+        "scrwz leet pwl.txt has vocabulary for All-in-one prog suite, Fader / text styler, Idler / AFK bot, Punter / booter, C-Com / command list.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0016-139": {
+      "programId": "prog-0016-139",
+      "programName": "139",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0016-139.zip",
+      "localSize": 1001284,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0017-1800collect": {
+      "programId": "prog-0017-1800collect",
+      "programName": "1800collect",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0017-1800collect.zip",
+      "localSize": 1802075,
+      "textFileCount": 1,
+      "textFiles": [
+        "collect/collect.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0018-187-reset": {
+      "programId": "prog-0018-187-reset",
+      "programName": "187 Reset",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0018-187-reset.zip",
+      "localSize": 2814426,
+      "textFileCount": 2,
+      "textFiles": [
+        "read me.txt",
+        "187 reset/read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0019-1im": {
+      "programId": "prog-0019-1im",
+      "programName": "1im",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0019-1im.zip",
+      "localSize": 430040,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0020-2000": {
+      "programId": "prog-0020-2000",
+      "programName": "2000",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0020-2000.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0021-2001-server-toolz-chillz": {
+      "programId": "prog-0021-2001-server-toolz-chillz",
+      "programName": "2001 Server Toolz - Chillz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0021-2001-server-toolz-chillz.zip",
+      "localSize": 1400953,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0022-2001-server-toolz-2-0-chillz": {
+      "programId": "prog-0022-2001-server-toolz-2-0-chillz",
+      "programName": "2001 Server Toolz 2.0 - Chillz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0022-2001-server-toolz-2-0-chillz.zip",
+      "localSize": 1444159,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0023-2dope": {
+      "programId": "prog-0023-2dope",
+      "programName": "2dope",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0023-2dope.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0024-2pacmmer": {
+      "programId": "prog-0024-2pacmmer",
+      "programName": "2pacmmer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0024-2pacmmer.zip",
+      "localSize": 51196,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0025-3-6-idle": {
+      "programId": "prog-0025-3-6-idle",
+      "programName": "3-6 Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0025-3-6-idle.zip",
+      "localSize": 1428875,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0026-3-0-anticrack-by-ando-install": {
+      "programId": "prog-0026-3-0-anticrack-by-ando-install",
+      "programName": "3.0 AntiCrack By ßãñdö Install",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0026-3-0-anticrack-by-ando-install.zip",
+      "localSize": 1042518,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me Newbie.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 5.0",
+        "AOL 8.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Read Me Newbie.txt mentions AOL 5.0, AOL 8.0, AOL 9.0.",
+        "Read Me Newbie.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0027-3dmaze": {
+      "programId": "prog-0027-3dmaze",
+      "programName": "3DMaze",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0027-3dmaze.zip",
+      "localSize": 2487854,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0028-3k": {
+      "programId": "prog-0028-3k",
+      "programName": "3k",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0028-3k.zip",
+      "localSize": 3056743,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0029-420pwc": {
+      "programId": "prog-0029-420pwc",
+      "programName": "420pwc",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0029-420pwc.zip",
+      "localSize": 1029511,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0030-420sups": {
+      "programId": "prog-0030-420sups",
+      "programName": "420SUPS",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0030-420sups.zip",
+      "localSize": 578710,
+      "textFileCount": 1,
+      "textFiles": [
+        "IRUNIN.INI"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 30"
+      ],
+      "notes": [
+        "IRUNIN.INI mentions AOL 30.",
+        "IRUNIN.INI has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0031-4im": {
+      "programId": "prog-0031-4im",
+      "programName": "4im",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0031-4im.zip",
+      "localSize": 856064,
+      "textFileCount": 1,
+      "textFiles": [
+        "4im/Settings.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "4im/Settings.ini has vocabulary for Fader / text styler, Scroller / macro, Account / TOS utility."
+      ]
+    },
+    "prog-0032-4sho-player-2": {
+      "programId": "prog-0032-4sho-player-2",
+      "programName": "4Sho Player ²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0032-4sho-player-2.zip",
+      "localSize": 2422195,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0033-4sho-player3": {
+      "programId": "prog-0033-4sho-player3",
+      "programName": "4sho Player3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0033-4sho-player3.zip",
+      "localSize": 1892685,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0034-533idle-v3-1": {
+      "programId": "prog-0034-533idle-v3-1",
+      "programName": "533idle v3.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0034-533idle-v3-1.zip",
+      "localSize": 46552,
+      "textFileCount": 1,
+      "textFiles": [
+        "533%.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0035-666-idler": {
+      "programId": "prog-0035-666-idler",
+      "programName": "666 Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0035-666-idler.zip",
+      "localSize": 1426265,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0036-9-pr0-collect": {
+      "programId": "prog-0036-9-pr0-collect",
+      "programName": "9.Pr0 Collect",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0036-9-pr0-collect.zip",
+      "localSize": 2614896,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0037-d2-idle-1-1": {
+      "programId": "prog-0037-d2-idle-1-1",
+      "programName": "[]D² Idle 1.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0037-d2-idle-1-1.zip",
+      "localSize": 1492390,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0038-ep-ascii-shop-v1-03": {
+      "programId": "prog-0038-ep-ascii-shop-v1-03",
+      "programName": "[E]P] ASCII Shop v1.03",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0038-ep-ascii-shop-v1-03.zip",
+      "localSize": 376276,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0039-a-quard": {
+      "programId": "prog-0039-a-quard",
+      "programName": "A-Quard",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0039-a-quard.zip",
+      "localSize": 34374,
+      "textFileCount": 1,
+      "textFiles": [
+        "~~iRead!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "~~iRead!.txt has vocabulary for Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0040-a2idle": {
+      "programId": "prog-0040-a2idle",
+      "programName": "a2idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0040-a2idle.zip",
+      "localSize": 1469588,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0041-aanti98": {
+      "programId": "prog-0041-aanti98",
+      "programName": "aanti98",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0041-aanti98.zip",
+      "localSize": 71153,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0042-abomin": {
+      "programId": "prog-0042-abomin",
+      "programName": "abomin",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0042-abomin.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0043-abuse-me-v2": {
+      "programId": "prog-0043-abuse-me-v2",
+      "programName": "AbuSe Me V2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0043-abuse-me-v2.zip",
+      "localSize": 2334550,
+      "textFileCount": 1,
+      "textFiles": [
+        "about abuse me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0044-abx-beta-final-2-by-oxidine": {
+      "programId": "prog-0044-abx-beta-final-2-by-oxidine",
+      "programName": "ABX Beta Final 2 By Oxidine",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0044-abx-beta-final-2-by-oxidine.zip",
+      "localSize": 9221131,
+      "textFileCount": 1,
+      "textFiles": [
+        "pwc.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0045-abyss": {
+      "programId": "prog-0045-abyss",
+      "programName": "Abyss",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0045-abyss.zip",
+      "localSize": 2275988,
+      "textFileCount": 1,
+      "textFiles": [
+        "Abyss.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0046-accom2": {
+      "programId": "prog-0046-accom2",
+      "programName": "accom2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0046-accom2.zip",
+      "localSize": 2378570,
+      "textFileCount": 1,
+      "textFiles": [
+        "accom2 read.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Linker / chat linker",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "accom2 read.txt has vocabulary for Idler / AFK bot, C-Com / command list, Scroller / macro, Linker / chat linker, Mass mailer / server."
+      ]
+    },
+    "prog-0047-acid": {
+      "programId": "prog-0047-acid",
+      "programName": "ACID",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0047-acid.zip",
+      "localSize": 137101,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0048-acid-fader": {
+      "programId": "prog-0048-acid-fader",
+      "programName": "Acid Fader",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0048-acid-fader.zip",
+      "localSize": 74304,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0049-acid-snow": {
+      "programId": "prog-0049-acid-snow",
+      "programName": "Acid Snow",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0049-acid-snow.zip",
+      "localSize": 1529294,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read_me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0",
+        "AOL 6"
+      ],
+      "notes": [
+        "Read_me.txt mentions AOL 4.0, AOL 5.0, AOL 6.",
+        "Read_me.txt has vocabulary for All-in-one prog suite, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0050-acid-fin": {
+      "programId": "prog-0050-acid-fin",
+      "programName": "ACID_FIN",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0050-acid-fin.zip",
+      "localSize": 1203844,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0051-acididle": {
+      "programId": "prog-0051-acididle",
+      "programName": "AcidIdle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0051-acididle.zip",
+      "localSize": 1399432,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0052-acidlag": {
+      "programId": "prog-0052-acidlag",
+      "programName": "acidlag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0052-acidlag.zip",
+      "localSize": 1392298,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0053-acidlagger": {
+      "programId": "prog-0053-acidlagger",
+      "programName": "acidlagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0053-acidlagger.zip",
+      "localSize": 1450147,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0054-acidtox": {
+      "programId": "prog-0054-acidtox",
+      "programName": "acidtox",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0054-acidtox.zip",
+      "localSize": 1422997,
+      "textFileCount": 2,
+      "textFiles": [
+        "MadJester - Must Read.txt",
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite.",
+        "Read Me.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0055-ac2-idle": {
+      "programId": "prog-0055-ac2-idle",
+      "programName": "ac² idlè",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0055-ac2-idle.zip",
+      "localSize": 2124309,
+      "textFileCount": 1,
+      "textFiles": [
+        "ac� inf�.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ac� inf�.txt has vocabulary for All-in-one prog suite, Fader / text styler, Idler / AFK bot, Scroller / macro."
+      ]
+    },
+    "prog-0056-added-1-0": {
+      "programId": "prog-0056-added-1-0",
+      "programName": "Added 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0056-added-1-0.zip",
+      "localSize": 3027788,
+      "textFileCount": 1,
+      "textFiles": [
+        "Added 1.0/Description.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Added 1.0/Description.txt mentions AOL 9.0."
+      ]
+    },
+    "prog-0057-adidastoolz": {
+      "programId": "prog-0057-adidastoolz",
+      "programName": "adidastoolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0057-adidastoolz.zip",
+      "localSize": 2952128,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0058-advert": {
+      "programId": "prog-0058-advert",
+      "programName": "advert",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0058-advert.zip",
+      "localSize": 2240598,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0059-advertiser": {
+      "programId": "prog-0059-advertiser",
+      "programName": "advertiser",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0059-advertiser.zip",
+      "localSize": 725710,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0060-aethyals-server-assistant": {
+      "programId": "prog-0060-aethyals-server-assistant",
+      "programName": "Aethyal's Server Assistant",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0060-aethyals-server-assistant.zip",
+      "localSize": 2490753,
+      "textFileCount": 1,
+      "textFiles": [
+        "Aethyal's Server Assistant/ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Room buster",
+        "Mass mailer / server",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 8.0"
+      ],
+      "notes": [
+        "Aethyal's Server Assistant/ReadMe.txt mentions AOL 8.0.",
+        "Aethyal's Server Assistant/ReadMe.txt has vocabulary for All-in-one prog suite, Room buster, Mass mailer / server, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0061-afc": {
+      "programId": "prog-0061-afc",
+      "programName": "afc",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0061-afc.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0062-afk": {
+      "programId": "prog-0062-afk",
+      "programName": "afk",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0062-afk.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0063-aimism": {
+      "programId": "prog-0063-aimism",
+      "programName": "Aimism",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0063-aimism.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0064-akira-coms": {
+      "programId": "prog-0064-akira-coms",
+      "programName": "Akira Coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0064-akira-coms.zip",
+      "localSize": 1974527,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0065-akira-coms2-beta2": {
+      "programId": "prog-0065-akira-coms2-beta2",
+      "programName": "Akira Coms² Beta²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0065-akira-coms2-beta2.zip",
+      "localSize": 1650683,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0066-alarm-clock": {
+      "programId": "prog-0066-alarm-clock",
+      "programName": "Alarm Clock",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0066-alarm-clock.zip",
+      "localSize": 3757046,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0067-alien": {
+      "programId": "prog-0067-alien",
+      "programName": "alien",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0067-alien.zip",
+      "localSize": 1794515,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0068-alien30": {
+      "programId": "prog-0068-alien30",
+      "programName": "alien30",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0068-alien30.zip",
+      "localSize": 284472,
+      "textFileCount": 1,
+      "textFiles": [
+        "MadJester - Must Read.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0069-aligator6": {
+      "programId": "prog-0069-aligator6",
+      "programName": "aligator6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0069-aligator6.zip",
+      "localSize": 3285062,
+      "textFileCount": 3,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt",
+        "_conflicts/conflict.txt",
+        "_conflicts/aciddr0p.netReadMe.txt.from_aligator_b36e8c3f"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note.",
+        "_conflicts/aciddr0p.netReadMe.txt.from_aligator_b36e8c3f includes a mirror/download-source note."
+      ]
+    },
+    "prog-0070-alive-v1": {
+      "programId": "prog-0070-alive-v1",
+      "programName": "alive v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0070-alive-v1.zip",
+      "localSize": 1758812,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0071-alive2": {
+      "programId": "prog-0071-alive2",
+      "programName": "Alive2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0071-alive2.zip",
+      "localSize": 1909423,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0072-alpha-ccoms-v2": {
+      "programId": "prog-0072-alpha-ccoms-v2",
+      "programName": "Alpha Ccoms v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0072-alpha-ccoms-v2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0073-alpha-toser": {
+      "programId": "prog-0073-alpha-toser",
+      "programName": "alpha toser",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0073-alpha-toser.zip",
+      "localSize": 2874718,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0074-alpha21": {
+      "programId": "prog-0074-alpha21",
+      "programName": "Alpha2~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0074-alpha21.zip",
+      "localSize": 883418,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0075-alpha3k-buster": {
+      "programId": "prog-0075-alpha3k-buster",
+      "programName": "alpha3k buster",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0075-alpha3k-buster.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0076-alpha3k-mp3-player": {
+      "programId": "prog-0076-alpha3k-mp3-player",
+      "programName": "Alpha3k mp3 player",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0076-alpha3k-mp3-player.zip",
+      "localSize": 2739954,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0077-alpha3k-mp3-player-2": {
+      "programId": "prog-0077-alpha3k-mp3-player-2",
+      "programName": "Alpha3k mp3 player 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0077-alpha3k-mp3-player-2.zip",
+      "localSize": 2764428,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0078-alphah1": {
+      "programId": "prog-0078-alphah1",
+      "programName": "Alphah~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0078-alphah1.zip",
+      "localSize": 751729,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0079-alqaeda-ol": {
+      "programId": "prog-0079-alqaeda-ol",
+      "programName": "alQaeda-ol",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0079-alqaeda-ol.zip",
+      "localSize": 1402933,
+      "textFileCount": 1,
+      "textFiles": [
+        "vito.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 8.0"
+      ],
+      "notes": [
+        "vito.txt mentions AOL 7.0, AOL 8.0.",
+        "vito.txt has vocabulary for Idler / AFK bot, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0080-america-onfire-platinum": {
+      "programId": "prog-0080-america-onfire-platinum",
+      "programName": "America Onfire Platinum",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0080-america-onfire-platinum.zip",
+      "localSize": 3014978,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0081-american-idle": {
+      "programId": "prog-0081-american-idle",
+      "programName": "American Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0081-american-idle.zip",
+      "localSize": 1468938,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0082-amex-first-program": {
+      "programId": "prog-0082-amex-first-program",
+      "programName": "amex first program",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0082-amex-first-program.zip",
+      "localSize": 745073,
+      "textFileCount": 1,
+      "textFiles": [
+        "Amex first program.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Amex first program.txt has vocabulary for C-Com / command list."
+      ]
+    },
+    "prog-0083-amplimax": {
+      "programId": "prog-0083-amplimax",
+      "programName": "amplimax",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0083-amplimax.zip",
+      "localSize": 2895835,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0084-amx": {
+      "programId": "prog-0084-amx",
+      "programName": "amx",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0084-amx.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0085-anal-predator": {
+      "programId": "prog-0085-anal-predator",
+      "programName": "Anal Predator",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0085-anal-predator.zip",
+      "localSize": 1381017,
+      "textFileCount": 3,
+      "textFiles": [
+        "dos32.bas",
+        "scroll.frm",
+        "scroller.vbp"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "dos32.bas has vocabulary for Fader / text styler, Scroller / macro, Screen-name utility, Source / developer file, AOL/AIM chat utility.",
+        "scroll.frm has vocabulary for Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility.",
+        "scroller.vbp has vocabulary for All-in-one prog suite, Scroller / macro, Source / developer file."
+      ]
+    },
+    "prog-0086-anal-rapage-im-answerer": {
+      "programId": "prog-0086-anal-rapage-im-answerer",
+      "programName": "Anal Rapage IM Answerer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0086-anal-rapage-im-answerer.zip",
+      "localSize": 2084458,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0087-anarchy": {
+      "programId": "prog-0087-anarchy",
+      "programName": "Anarchy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0087-anarchy.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0088-anarki": {
+      "programId": "prog-0088-anarki",
+      "programName": "Anarki",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0088-anarki.zip",
+      "localSize": 821138,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0089-anarki4": {
+      "programId": "prog-0089-anarki4",
+      "programName": "Anarki~4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0089-anarki4.zip",
+      "localSize": 1098217,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0090-ancient-tech": {
+      "programId": "prog-0090-ancient-tech",
+      "programName": "Ancient Tech",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0090-ancient-tech.zip",
+      "localSize": 1675800,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0091-and-one-final": {
+      "programId": "prog-0091-and-one-final",
+      "programName": "and one final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0091-and-one-final.zip",
+      "localSize": 6562118,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0092-anexbust": {
+      "programId": "prog-0092-anexbust",
+      "programName": "anexbust",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0092-anexbust.zip",
+      "localSize": 1406009,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0093-anger-management": {
+      "programId": "prog-0093-anger-management",
+      "programName": "Anger management",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0093-anger-management.zip",
+      "localSize": 1407007,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0094-animatrix-idle-by-spermie": {
+      "programId": "prog-0094-animatrix-idle-by-spermie",
+      "programName": "animatrix idle by spermie",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0094-animatrix-idle-by-spermie.zip",
+      "localSize": 1531236,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0095-anime-inc-linker": {
+      "programId": "prog-0095-anime-inc-linker",
+      "programName": "Anime Inc - Linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0095-anime-inc-linker.zip",
+      "localSize": 432024,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0096-annihilation": {
+      "programId": "prog-0096-annihilation",
+      "programName": "annihilation",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0096-annihilation.zip",
+      "localSize": 8482359,
+      "textFileCount": 2,
+      "textFiles": [
+        "skins/default.ini",
+        "ann.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0097-annoyerz": {
+      "programId": "prog-0097-annoyerz",
+      "programName": "AnNoYeRz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0097-annoyerz.zip",
+      "localSize": 1483197,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0098-answerpro": {
+      "programId": "prog-0098-answerpro",
+      "programName": "AnswerPro",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0098-answerpro.zip",
+      "localSize": 1506833,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0099-anthrax": {
+      "programId": "prog-0099-anthrax",
+      "programName": "Anthrax",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0099-anthrax.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0100-anti": {
+      "programId": "prog-0100-anti",
+      "programName": "ANTI",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0100-anti.zip",
+      "localSize": 83212,
+      "textFileCount": 2,
+      "textFiles": [
+        "AutoTag.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0101-anti": {
+      "programId": "prog-0101-anti",
+      "programName": "anti",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0101-anti.zip",
+      "localSize": 963651,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0102-anti": {
+      "programId": "prog-0102-anti",
+      "programName": "anti",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0102-anti.zip",
+      "localSize": 963626,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0103-anti": {
+      "programId": "prog-0103-anti",
+      "programName": "anti",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0103-anti.zip",
+      "localSize": 38412,
+      "textFileCount": 2,
+      "textFiles": [
+        "ANTI/README.TXT",
+        "ANTI/LICENSE.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [
+        "AOL 5.0"
+      ],
+      "notes": [
+        "ANTI/README.TXT mentions AOL 5.0.",
+        "ANTI/README.TXT has vocabulary for Idler / AFK bot.",
+        "ANTI/LICENSE.TXT has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-0104-anti": {
+      "programId": "prog-0104-anti",
+      "programName": "ANTI",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0104-anti.zip",
+      "localSize": 327512,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0105-anti-lag-by-k1d": {
+      "programId": "prog-0105-anti-lag-by-k1d",
+      "programName": "Anti Lag by k1d",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0105-anti-lag-by-k1d.zip",
+      "localSize": 3037544,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0106-anti-lamer-t00lz": {
+      "programId": "prog-0106-anti-lamer-t00lz",
+      "programName": "aNti laMer t00Lz ¦+¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0106-anti-lamer-t00lz.zip",
+      "localSize": 1944293,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0107-anti-punt": {
+      "programId": "prog-0107-anti-punt",
+      "programName": "Anti PUNT",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0107-anti-punt.zip",
+      "localSize": 27834,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0108-anti-freeze-2-o": {
+      "programId": "prog-0108-anti-freeze-2-o",
+      "programName": "Anti-Freeze 2.o",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0108-anti-freeze-2-o.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0109-anti4": {
+      "programId": "prog-0109-anti4",
+      "programName": "anti4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0109-anti4.zip",
+      "localSize": 716906,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0110-anti-lag": {
+      "programId": "prog-0110-anti-lag",
+      "programName": "Anti_Lag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0110-anti-lag.zip",
+      "localSize": 1721126,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0111-antilag": {
+      "programId": "prog-0111-antilag",
+      "programName": "Antilag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0111-antilag.zip",
+      "localSize": 1613570,
+      "textFileCount": 2,
+      "textFiles": [
+        "Antilag/Description.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Screen-name utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Antilag/Description.txt mentions AOL 9.0.",
+        "Antilag/Description.txt has vocabulary for Screen-name utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0112-antiv1-0": {
+      "programId": "prog-0112-antiv1-0",
+      "programName": "ANTIV1_0",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0112-antiv1-0.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0113-ao-5-0-upchat": {
+      "programId": "prog-0113-ao-5-0-upchat",
+      "programName": "AO-5.0 Upchat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0113-ao-5-0-upchat.zip",
+      "localSize": 100709,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0114-ao-idle-2k3": {
+      "programId": "prog-0114-ao-idle-2k3",
+      "programName": "Ao-Idle 2k3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0114-ao-idle-2k3.zip",
+      "localSize": 1525724,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0115-aolinker-by-miguel": {
+      "programId": "prog-0115-aolinker-by-miguel",
+      "programName": "ao`linker - by miguel",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0115-aolinker-by-miguel.zip",
+      "localSize": 1401779,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 8.0"
+      ],
+      "notes": [
+        "READ ME!!!.txt mentions AOL 7.0, AOL 8.0."
+      ]
+    },
+    "prog-0116-aoascii-shop": {
+      "programId": "prog-0116-aoascii-shop",
+      "programName": "AoAsCii Shop",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0116-aoascii-shop.zip",
+      "localSize": 445517,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0117-aoascii-shop-2": {
+      "programId": "prog-0117-aoascii-shop-2",
+      "programName": "AoAsCii Shop 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0117-aoascii-shop-2.zip",
+      "localSize": 518305,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0118-aoassasins-ima": {
+      "programId": "prog-0118-aoassasins-ima",
+      "programName": "Aoassasins IMA",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0118-aoassasins-ima.zip",
+      "localSize": 416117,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0119-aoassasins-toolz": {
+      "programId": "prog-0119-aoassasins-toolz",
+      "programName": "Aoassasins Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0119-aoassasins-toolz.zip",
+      "localSize": 892357,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0120-aoassasins-toolz-v2": {
+      "programId": "prog-0120-aoassasins-toolz-v2",
+      "programName": "Aoassasins Toolz v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0120-aoassasins-toolz-v2.zip",
+      "localSize": 1036820,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0121-aocoms3": {
+      "programId": "prog-0121-aocoms3",
+      "programName": "aocoms3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0121-aocoms3.zip",
+      "localSize": 744212,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.nfo"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.nfo has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0122-aocrack": {
+      "programId": "prog-0122-aocrack",
+      "programName": "aocrack",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0122-aocrack.zip",
+      "localSize": 1896458,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0123-aodirc-0-6-0": {
+      "programId": "prog-0123-aodirc-0-6-0",
+      "programName": "aodirc 0.6.0",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0123-aodirc-0-6-0.zip",
+      "localSize": 2093131,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0124-aodirc-v0-5-85": {
+      "programId": "prog-0124-aodirc-v0-5-85",
+      "programName": "aodirc v0.5.85",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0124-aodirc-v0-5-85.zip",
+      "localSize": 2995632,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0125-aodirc0615": {
+      "programId": "prog-0125-aodirc0615",
+      "programName": "aodirc0615",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0125-aodirc0615.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0126-aoevil": {
+      "programId": "prog-0126-aoevil",
+      "programName": "AOEVIL",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0126-aoevil.zip",
+      "localSize": 508862,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0127-aofader": {
+      "programId": "prog-0127-aofader",
+      "programName": "AoFader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0127-aofader.zip",
+      "localSize": 754914,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0128-aohell-95-v3-0": {
+      "programId": "prog-0128-aohell-95-v3-0",
+      "programName": "AOHell 95 v3.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0128-aohell-95-v3-0.zip",
+      "localSize": 1177853,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0129-aol-5-update-closer": {
+      "programId": "prog-0129-aol-5-update-closer",
+      "programName": "AOL 5 Update Closer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0129-aol-5-update-closer.zip",
+      "localSize": 1390654,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0130-aol-7-idle": {
+      "programId": "prog-0130-aol-7-idle",
+      "programName": "aol 7 idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0130-aol-7-idle.zip",
+      "localSize": 1397265,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0131-aol-account-cracker-1-2-4": {
+      "programId": "prog-0131-aol-account-cracker-1-2-4",
+      "programName": "AOL Account Cracker 1.2.4",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0131-aol-account-cracker-1-2-4.zip",
+      "localSize": 1524441,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0132-aol-easy-talk": {
+      "programId": "prog-0132-aol-easy-talk",
+      "programName": "Aol Easy Talk",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0132-aol-easy-talk.zip",
+      "localSize": 1460111,
+      "textFileCount": 1,
+      "textFiles": [
+        "Disclaimer Important Read Before Useing Prog.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0133-aol-file-downloader-v5-0": {
+      "programId": "prog-0133-aol-file-downloader-v5-0",
+      "programName": "AOL File Downloader v5.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0133-aol-file-downloader-v5-0.zip",
+      "localSize": 2907440,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0134-aol-fun": {
+      "programId": "prog-0134-aol-fun",
+      "programName": "AOL FUN",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0134-aol-fun.zip",
+      "localSize": 1477018,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0135-aol-fun-2-0": {
+      "programId": "prog-0135-aol-fun-2-0",
+      "programName": "AOL FUN 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0135-aol-fun-2-0.zip",
+      "localSize": 2138379,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0136-aol-guilt": {
+      "programId": "prog-0136-aol-guilt",
+      "programName": "AoL Guilt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0136-aol-guilt.zip",
+      "localSize": 1728355,
+      "textFileCount": 1,
+      "textFiles": [
+        "aolguilt.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0137-aol-idle-toolz": {
+      "programId": "prog-0137-aol-idle-toolz",
+      "programName": "AoL IdLe TooLz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0137-aol-idle-toolz.zip",
+      "localSize": 116768,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0138-aol-idle-toolz-ver2": {
+      "programId": "prog-0138-aol-idle-toolz-ver2",
+      "programName": "AoL Idle TooLz Ver2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0138-aol-idle-toolz-ver2.zip",
+      "localSize": 122306,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0139-aol-proggy": {
+      "programId": "prog-0139-aol-proggy",
+      "programName": "AOL proggy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0139-aol-proggy.zip",
+      "localSize": 1484032,
+      "textFileCount": 1,
+      "textFiles": [
+        "Rev Toolz/Read Me First.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Rev Toolz/Read Me First.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0140-aol7roombuster": {
+      "programId": "prog-0140-aol7roombuster",
+      "programName": "aol7roombuster",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0140-aol7roombuster.zip",
+      "localSize": 1493744,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME!.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0141-aoltools": {
+      "programId": "prog-0141-aoltools",
+      "programName": "AOLTOOLS",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0141-aoltools.zip",
+      "localSize": 1719948,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for All-in-one prog suite, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0142-aolvoicechat": {
+      "programId": "prog-0142-aolvoicechat",
+      "programName": "AOLVoiceChat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0142-aolvoicechat.zip",
+      "localSize": 2606442,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0143-aonetwork": {
+      "programId": "prog-0143-aonetwork",
+      "programName": "aonetwork",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0143-aonetwork.zip",
+      "localSize": 4376170,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0144-aophish": {
+      "programId": "prog-0144-aophish",
+      "programName": "aophish",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0144-aophish.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0145-aopunk-v1-0": {
+      "programId": "prog-0145-aopunk-v1-0",
+      "programName": "AOPuNk v1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0145-aopunk-v1-0.zip",
+      "localSize": 2260863,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0146-aowidler": {
+      "programId": "prog-0146-aowidler",
+      "programName": "AoWIdler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0146-aowidler.zip",
+      "localSize": 1514255,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0147-apesh25": {
+      "programId": "prog-0147-apesh25",
+      "programName": "APESH25",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0147-apesh25.zip",
+      "localSize": 1745126,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0148-apoc": {
+      "programId": "prog-0148-apoc",
+      "programName": "apoc",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0148-apoc.zip",
+      "localSize": 258845,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0149-app-sender": {
+      "programId": "prog-0149-app-sender",
+      "programName": "App Sender",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0149-app-sender.zip",
+      "localSize": 1790771,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0150-aquard2k2": {
+      "programId": "prog-0150-aquard2k2",
+      "programName": "aquard2k2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0150-aquard2k2.zip",
+      "localSize": 325170,
+      "textFileCount": 2,
+      "textFiles": [
+        "Read Me.txt",
+        "more info.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "GonGy (James Farmer)",
+          "sourceFile": "more info.txt",
+          "pattern": "creator"
+        }
+      ],
+      "preferredAuthor": "GonGy (James Farmer)",
+      "purposeSignals": [
+        "Fader / text styler"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "more info.txt includes archive-text author clue(s): GonGy (James Farmer).",
+        "more info.txt has vocabulary for Fader / text styler."
+      ]
+    },
+    "prog-0151-aquard3": {
+      "programId": "prog-0151-aquard3",
+      "programName": "aquard3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0151-aquard3.zip",
+      "localSize": 222382,
+      "textFileCount": 2,
+      "textFiles": [
+        "Readme.txt",
+        "Read Me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "James Farmer (GonGy)",
+          "sourceFile": "Readme.txt",
+          "pattern": "creator"
+        }
+      ],
+      "preferredAuthor": "James Farmer (GonGy)",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Readme.txt includes archive-text author clue(s): James Farmer (GonGy).",
+        "Readme.txt has vocabulary for Fader / text styler, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0152-aquariumv2": {
+      "programId": "prog-0152-aquariumv2",
+      "programName": "Aquariumv2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0152-aquariumv2.zip",
+      "localSize": 772794,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.txt has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-0153-arctic": {
+      "programId": "prog-0153-arctic",
+      "programName": "Arctic",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0153-arctic.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0154-arctic-punter2": {
+      "programId": "prog-0154-arctic-punter2",
+      "programName": "Arctic Punter²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0154-arctic-punter2.zip",
+      "localSize": 2030174,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0155-argon": {
+      "programId": "prog-0155-argon",
+      "programName": "argon",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0155-argon.zip",
+      "localSize": 3506800,
+      "textFileCount": 2,
+      "textFiles": [
+        "argon termer password=85203/Liquidinfo.txt",
+        "Liquidinfo.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "argon termer password=85203/Liquidinfo.txt has vocabulary for AOL/AIM chat utility.",
+        "Liquidinfo.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0156-armag": {
+      "programId": "prog-0156-armag",
+      "programName": "armag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0156-armag.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0157-armatech": {
+      "programId": "prog-0157-armatech",
+      "programName": "armatech",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0157-armatech.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0158-armatech-xp": {
+      "programId": "prog-0158-armatech-xp",
+      "programName": "armatech xp",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0158-armatech-xp.zip",
+      "localSize": 8188848,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0159-armegedon-beta1-by-google": {
+      "programId": "prog-0159-armegedon-beta1-by-google",
+      "programName": "Armegedon Beta1 By Google",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0159-armegedon-beta1-by-google.zip",
+      "localSize": 1528800,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0160-ascii": {
+      "programId": "prog-0160-ascii",
+      "programName": "ascii",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0160-ascii.zip",
+      "localSize": 1148063,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-0161-ascii-creator-by-krepe": {
+      "programId": "prog-0161-ascii-creator-by-krepe",
+      "programName": "ascii creator by_krepe",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0161-ascii-creator-by-krepe.zip",
+      "localSize": 1400822,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0162-ascii-shop": {
+      "programId": "prog-0162-ascii-shop",
+      "programName": "ASCII SHOP",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0162-ascii-shop.zip",
+      "localSize": 1391420,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0163-asciishop": {
+      "programId": "prog-0163-asciishop",
+      "programName": "asciishop",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0163-asciishop.zip",
+      "localSize": 99956,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0164-asn": {
+      "programId": "prog-0164-asn",
+      "programName": "ASN",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0164-asn.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0165-ass-idler": {
+      "programId": "prog-0165-ass-idler",
+      "programName": "Ass Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0165-ass-idler.zip",
+      "localSize": 1524253,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0166-asshole-toolz": {
+      "programId": "prog-0166-asshole-toolz",
+      "programName": "asshole toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0166-asshole-toolz.zip",
+      "localSize": 7501975,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0167-assist": {
+      "programId": "prog-0167-assist",
+      "programName": "assist",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0167-assist.zip",
+      "localSize": 1471976,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0168-asteel1": {
+      "programId": "prog-0168-asteel1",
+      "programName": "Asteel~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0168-asteel1.zip",
+      "localSize": 771799,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0169-astronomicon-2-0": {
+      "programId": "prog-0169-astronomicon-2-0",
+      "programName": "Astronomicon 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0169-astronomicon-2-0.zip",
+      "localSize": 161016,
+      "textFileCount": 1,
+      "textFiles": [
+        "Notice.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0170-atomic-c-coms": {
+      "programId": "prog-0170-atomic-c-coms",
+      "programName": "Atomic C-Coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0170-atomic-c-coms.zip",
+      "localSize": 1181246,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0171-atomicfader": {
+      "programId": "prog-0171-atomicfader",
+      "programName": "AtomicFader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0171-atomicfader.zip",
+      "localSize": 30905,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0172-atos30": {
+      "programId": "prog-0172-atos30",
+      "programName": "atos30",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0172-atos30.zip",
+      "localSize": 1367708,
+      "textFileCount": 2,
+      "textFiles": [
+        "advisory termer/read me or die.txt",
+        "read me or die.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "advisory termer/read me or die.txt has vocabulary for Account / TOS utility, Media / file utility.",
+        "read me or die.txt has vocabulary for Account / TOS utility, Media / file utility."
+      ]
+    },
+    "prog-0173-atoyz10": {
+      "programId": "prog-0173-atoyz10",
+      "programName": "atoyz10",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0173-atoyz10.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0174-atrocity": {
+      "programId": "prog-0174-atrocity",
+      "programName": "atrocity",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0174-atrocity.zip",
+      "localSize": 4871842,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0175-audio-packets-beta": {
+      "programId": "prog-0175-audio-packets-beta",
+      "programName": "audio packets beta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0175-audio-packets-beta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0176-audio-x": {
+      "programId": "prog-0176-audio-x",
+      "programName": "audio x",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0176-audio-x.zip",
+      "localSize": 944641,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0177-audio-assault": {
+      "programId": "prog-0177-audio-assault",
+      "programName": "audio-assault",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0177-audio-assault.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0178-audio-assault2": {
+      "programId": "prog-0178-audio-assault2",
+      "programName": "audio-assault²",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0178-audio-assault2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0179-audio-style": {
+      "programId": "prog-0179-audio-style",
+      "programName": "audio.style",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0179-audio-style.zip",
+      "localSize": 2380880,
+      "textFileCount": 3,
+      "textFiles": [
+        "styles.txt",
+        "read me or die!.txt",
+        "info.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Fader / text styler"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me or die!.txt has vocabulary for C-Com / command list.",
+        "info.ini has vocabulary for Fader / text styler."
+      ]
+    },
+    "prog-0180-audiotech-system-by-spermie": {
+      "programId": "prog-0180-audiotech-system-by-spermie",
+      "programName": "audiotech system by spermie",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0180-audiotech-system-by-spermie.zip",
+      "localSize": 1943387,
+      "textFileCount": 2,
+      "textFiles": [
+        "audiotech system/READ ME!!!.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Screen-name utility",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 9.0",
+        "AOL 4",
+        "AOL 9"
+      ],
+      "notes": [
+        "audiotech system/READ ME!!!.txt mentions AOL 4.0, AOL 9.0, AOL 4, AOL 9.",
+        "audiotech system/READ ME!!!.txt has vocabulary for C-Com / command list, Screen-name utility, Media / file utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0181-aurora": {
+      "programId": "prog-0181-aurora",
+      "programName": "Aurora",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0181-aurora.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0182-aurora-mmer": {
+      "programId": "prog-0182-aurora-mmer",
+      "programName": "Aurora MMer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0182-aurora-mmer.zip",
+      "localSize": 1632820,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-0183-auto-x-2000": {
+      "programId": "prog-0183-auto-x-2000",
+      "programName": "Auto X 2000",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0183-auto-x-2000.zip",
+      "localSize": 764948,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Room buster",
+        "Screen-name utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadME.txt has vocabulary for Room buster, Screen-name utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0184-auto-flasher": {
+      "programId": "prog-0184-auto-flasher",
+      "programName": "auto_flasher",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0184-auto-flasher.zip",
+      "localSize": 1397598,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0185-autolink": {
+      "programId": "prog-0185-autolink",
+      "programName": "autolink",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0185-autolink.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0186-avakadavra-toolz-1-o": {
+      "programId": "prog-0186-avakadavra-toolz-1-o",
+      "programName": "avakadavra toolz 1.o",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0186-avakadavra-toolz-1-o.zip",
+      "localSize": 2983736,
+      "textFileCount": 1,
+      "textFiles": [
+        "AVAKADAVRATOOLZ1.0/AVAKADAVRA TOOLZ1.0/READ ME!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0187-avie-dl-later": {
+      "programId": "prog-0187-avie-dl-later",
+      "programName": "AviE dl later",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0187-avie-dl-later.zip",
+      "localSize": 1402458,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0188-avie-mmer": {
+      "programId": "prog-0188-avie-mmer",
+      "programName": "AviE MMer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0188-avie-mmer.zip",
+      "localSize": 1414831,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0189-away2k-beta2": {
+      "programId": "prog-0189-away2k-beta2",
+      "programName": "AwAy2k Beta2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0189-away2k-beta2.zip",
+      "localSize": 727831,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0190-axis-link": {
+      "programId": "prog-0190-axis-link",
+      "programName": "axis-link",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0190-axis-link.zip",
+      "localSize": 1411482,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0191-anti-lag-by-kid": {
+      "programId": "prog-0191-anti-lag-by-kid",
+      "programName": "àñtì-làg by [kìD]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0191-anti-lag-by-kid.zip",
+      "localSize": 1500834,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0192-b0z0": {
+      "programId": "prog-0192-b0z0",
+      "programName": "b0z0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0192-b0z0.zip",
+      "localSize": 1408747,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0193-badass-scroller": {
+      "programId": "prog-0193-badass-scroller",
+      "programName": "BaDaSs ScRoLLeR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0193-badass-scroller.zip",
+      "localSize": 1526158,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0194-bahamut4": {
+      "programId": "prog-0194-bahamut4",
+      "programName": "bahamut4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0194-bahamut4.zip",
+      "localSize": 928510,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0195-bait-that-shizzle": {
+      "programId": "prog-0195-bait-that-shizzle",
+      "programName": "Bait That Shizzle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0195-bait-that-shizzle.zip",
+      "localSize": 1846453,
+      "textFileCount": 2,
+      "textFiles": [
+        "Read Me.txt",
+        "scroll.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "notes": [
+        "Read Me.txt mentions AOL 4.0, AOL 5.0.",
+        "Read Me.txt has vocabulary for Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0196-bakedv1": {
+      "programId": "prog-0196-bakedv1",
+      "programName": "bakedv1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0196-bakedv1.zip",
+      "localSize": 1480327,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0197-balance": {
+      "programId": "prog-0197-balance",
+      "programName": "Balance",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0197-balance.zip",
+      "localSize": 1024469,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0198-bandos-x5-5x-setup": {
+      "programId": "prog-0198-bandos-x5-5x-setup",
+      "programName": "BaNdO's x5.5x setup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0198-bandos-x5-5x-setup.zip",
+      "localSize": 4257984,
+      "textFileCount": 2,
+      "textFiles": [
+        "~Read Me Newbie~.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "~Read Me Newbie~.txt mentions AOL 7.0, AOL 9.0.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0199-barron-toolz": {
+      "programId": "prog-0199-barron-toolz",
+      "programName": "Barron Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0199-barron-toolz.zip",
+      "localSize": 752491,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0200-barronscom": {
+      "programId": "prog-0200-barronscom",
+      "programName": "barronscom",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0200-barronscom.zip",
+      "localSize": 23897,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0201-basikmp3public": {
+      "programId": "prog-0201-basikmp3public",
+      "programName": "BasikMP3[Public]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0201-basikmp3public.zip",
+      "localSize": 2486414,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0202-bawk2-0": {
+      "programId": "prog-0202-bawk2-0",
+      "programName": "bawk2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0202-bawk2-0.zip",
+      "localSize": 2525472,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0203-bbe-101": {
+      "programId": "prog-0203-bbe-101",
+      "programName": "bbe 101",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0203-bbe-101.zip",
+      "localSize": 1714293,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.doc"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.doc has vocabulary for Fader / text styler, Idler / AFK bot, Media / file utility."
+      ]
+    },
+    "prog-0204-bbl": {
+      "programId": "prog-0204-bbl",
+      "programName": "bbl",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0204-bbl.zip",
+      "localSize": 1197931,
+      "textFileCount": 1,
+      "textFiles": [
+        "!!!!README!!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "!!!!README!!!!!.txt has vocabulary for All-in-one prog suite, Fader / text styler, Idler / AFK bot, Media / file utility."
+      ]
+    },
+    "prog-0205-bbl": {
+      "programId": "prog-0205-bbl",
+      "programName": "bbl ¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0205-bbl.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0206-bblidle": {
+      "programId": "prog-0206-bblidle",
+      "programName": "bblidle│.╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0206-bblidle.zip",
+      "localSize": 139020,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0207-bblidle": {
+      "programId": "prog-0207-bblidle",
+      "programName": "bblidle│╖╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0207-bblidle.zip",
+      "localSize": 1692534,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0208-bbl2": {
+      "programId": "prog-0208-bbl2",
+      "programName": "bbl²",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0208-bbl2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0209-bd22": {
+      "programId": "prog-0209-bd22",
+      "programName": "bd22",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0209-bd22.zip",
+      "localSize": 2289401,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0210-beatbox-by-negz": {
+      "programId": "prog-0210-beatbox-by-negz",
+      "programName": "BeatBOx_by Negz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0210-beatbox-by-negz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0211-beback1": {
+      "programId": "prog-0211-beback1",
+      "programName": "Beback1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0211-beback1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0212-bedtimefix1": {
+      "programId": "prog-0212-bedtimefix1",
+      "programName": "bedtimefix[1]",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0212-bedtimefix1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0213-berserk1public": {
+      "programId": "prog-0213-berserk1public",
+      "programName": "berserk1[public]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0213-berserk1public.zip",
+      "localSize": 2805615,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0214-beta": {
+      "programId": "prog-0214-beta",
+      "programName": "beta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0214-beta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0215-beta-v2": {
+      "programId": "prog-0215-beta-v2",
+      "programName": "Beta v²",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0215-beta-v2.zip",
+      "localSize": 348146,
+      "textFileCount": 2,
+      "textFiles": [
+        "README~1.TXT",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0216-beta-zero": {
+      "programId": "prog-0216-beta-zero",
+      "programName": "Beta Zero",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0216-beta-zero.zip",
+      "localSize": 1563080,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0217-beta122": {
+      "programId": "prog-0217-beta122",
+      "programName": "beta122",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0217-beta122.zip",
+      "localSize": 572064,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0218-beta2": {
+      "programId": "prog-0218-beta2",
+      "programName": "Beta2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0218-beta2.zip",
+      "localSize": 1520426,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0219-beta5": {
+      "programId": "prog-0219-beta5",
+      "programName": "beta5",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0219-beta5.zip",
+      "localSize": 54455,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0220-beta2": {
+      "programId": "prog-0220-beta2",
+      "programName": "beta²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0220-beta2.zip",
+      "localSize": 499307,
+      "textFileCount": 1,
+      "textFiles": [
+        "read_this.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro",
+        "Mass mailer / server",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read_this.txt has vocabulary for Scroller / macro, Mass mailer / server, AOL/AIM chat utility.",
+        "read_this.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0221-beyond-destiny": {
+      "programId": "prog-0221-beyond-destiny",
+      "programName": "Beyond Destiny",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0221-beyond-destiny.zip",
+      "localSize": 2130311,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0222-bf2": {
+      "programId": "prog-0222-bf2",
+      "programName": "bf2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0222-bf2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0223-biack-assassin1": {
+      "programId": "prog-0223-biack-assassin1",
+      "programName": "bIack assassin1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0223-biack-assassin1.zip",
+      "localSize": 2803240,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0224-bidle151": {
+      "programId": "prog-0224-bidle151",
+      "programName": "bidle151",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0224-bidle151.zip",
+      "localSize": 1428406,
+      "textFileCount": 4,
+      "textFiles": [
+        "WaV Online.1.nfo",
+        "WaV Online.2.nfo",
+        "WaV Online.3.nfo",
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "WaV Online.1.nfo has vocabulary for Media / file utility.",
+        "WaV Online.2.nfo has vocabulary for Media / file utility.",
+        "WaV Online.3.nfo has vocabulary for Media / file utility.",
+        "readme.txt has vocabulary for Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0225-biestlytoolzsetup": {
+      "programId": "prog-0225-biestlytoolzsetup",
+      "programName": "biestlytoolzsetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0225-biestlytoolzsetup.zip",
+      "localSize": 3060710,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0226-bio-hazard": {
+      "programId": "prog-0226-bio-hazard",
+      "programName": "BiO hAzArD",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0226-bio-hazard.zip",
+      "localSize": 5740829,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0227-bio2": {
+      "programId": "prog-0227-bio2",
+      "programName": "bio2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0227-bio2.zip",
+      "localSize": 1812550,
+      "textFileCount": 1,
+      "textFiles": [
+        "mp3 player by reza/ReadMe!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7",
+        "AOL 9",
+        "AOL 8"
+      ],
+      "notes": [
+        "mp3 player by reza/ReadMe!.txt mentions AOL 7, AOL 9, AOL 8.",
+        "mp3 player by reza/ReadMe!.txt has vocabulary for Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0228-biobea1": {
+      "programId": "prog-0228-biobea1",
+      "programName": "BIOBEA~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0228-biobea1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0229-biohazard2": {
+      "programId": "prog-0229-biohazard2",
+      "programName": "biohazard²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0229-biohazard2.zip",
+      "localSize": 2499737,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0230-biosphere": {
+      "programId": "prog-0230-biosphere",
+      "programName": "BioSphere",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0230-biosphere.zip",
+      "localSize": 1271305,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0231-bish": {
+      "programId": "prog-0231-bish",
+      "programName": "Bish",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0231-bish.zip",
+      "localSize": 177931,
+      "textFileCount": 1,
+      "textFiles": [
+        "Phish a Bish/Read.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Phish a Bish/Read.txt has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-0232-bish-2": {
+      "programId": "prog-0232-bish-2",
+      "programName": "bish 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0232-bish-2.zip",
+      "localSize": 71761,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0233-bish-error": {
+      "programId": "prog-0233-bish-error",
+      "programName": "bish error",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0233-bish-error.zip",
+      "localSize": 660291,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0234-bizkitxer": {
+      "programId": "prog-0234-bizkitxer",
+      "programName": "BizkitXer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0234-bizkitxer.zip",
+      "localSize": 1591031,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for C-Com / command list, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0235-bkanti8": {
+      "programId": "prog-0235-bkanti8",
+      "programName": "bkanti8",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0235-bkanti8.zip",
+      "localSize": 528658,
+      "textFileCount": 2,
+      "textFiles": [
+        "readme.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Room buster",
+        "Punter / booter",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 95"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 95.",
+        "readme.txt has vocabulary for Room buster, Punter / booter, AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0236-black-out-comz-1": {
+      "programId": "prog-0236-black-out-comz-1",
+      "programName": "black out comz 1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0236-black-out-comz-1.zip",
+      "localSize": 2270658,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0237-black-out-comz-1-beta": {
+      "programId": "prog-0237-black-out-comz-1-beta",
+      "programName": "black out comz 1 beta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0237-black-out-comz-1-beta.zip",
+      "localSize": 2270398,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0238-blackdragongold": {
+      "programId": "prog-0238-blackdragongold",
+      "programName": "blackdragongold",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0238-blackdragongold.zip",
+      "localSize": 1035943,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0239-blackice-pwsd": {
+      "programId": "prog-0239-blackice-pwsd",
+      "programName": "blackice pwsd",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0239-blackice-pwsd.zip",
+      "localSize": 3213870,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0240-blackidle1-0": {
+      "programId": "prog-0240-blackidle1-0",
+      "programName": "Blackidle1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0240-blackidle1-0.zip",
+      "localSize": 1398152,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0241-blackmagicfinal": {
+      "programId": "prog-0241-blackmagicfinal",
+      "programName": "blackmagicfinal",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0241-blackmagicfinal.zip",
+      "localSize": 4072566,
+      "textFileCount": 3,
+      "textFiles": [
+        "READTHIS.txt",
+        "aciddr0p.netReadMe.txt",
+        "passwords.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 8",
+        "AOL 7"
+      ],
+      "notes": [
+        "READTHIS.txt mentions AOL 8, AOL 7.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note.",
+        "passwords.txt has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-0242-blacknum": {
+      "programId": "prog-0242-blacknum",
+      "programName": "BlackNum",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0242-blacknum.zip",
+      "localSize": 746716,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0243-blackout": {
+      "programId": "prog-0243-blackout",
+      "programName": "BlackouT",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0243-blackout.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0244-blackout2": {
+      "programId": "prog-0244-blackout2",
+      "programName": "blackout2",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/0244-blackout2.zip",
+      "localSize": 2283559,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0245-blackportal": {
+      "programId": "prog-0245-blackportal",
+      "programName": "blackportal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0245-blackportal.zip",
+      "localSize": 1349725,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0246-blackrose": {
+      "programId": "prog-0246-blackrose",
+      "programName": "blackrose",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0246-blackrose.zip",
+      "localSize": 1598448,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0247-blackrose": {
+      "programId": "prog-0247-blackrose",
+      "programName": "blackrose",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0247-blackrose.zip",
+      "localSize": 1603578,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0248-blackshadow": {
+      "programId": "prog-0248-blackshadow",
+      "programName": "blackshadow",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0248-blackshadow.zip",
+      "localSize": 808267,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0249-blank-idle": {
+      "programId": "prog-0249-blank-idle",
+      "programName": "blank idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0249-blank-idle.zip",
+      "localSize": 120711,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0250-blank-idle-2-00": {
+      "programId": "prog-0250-blank-idle-2-00",
+      "programName": "blank idle 2.00",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0250-blank-idle-2-00.zip",
+      "localSize": 978963,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0251-blank-idle-2-00remix": {
+      "programId": "prog-0251-blank-idle-2-00remix",
+      "programName": "blank idle 2.00[remix]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0251-blank-idle-2-00remix.zip",
+      "localSize": 907171,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0252-blaze-idle": {
+      "programId": "prog-0252-blaze-idle",
+      "programName": "BlaZe iDle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0252-blaze-idle.zip",
+      "localSize": 1437635,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0253-blaze-idler": {
+      "programId": "prog-0253-blaze-idler",
+      "programName": "Blaze Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0253-blaze-idler.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0254-blazed-toolz-1-0": {
+      "programId": "prog-0254-blazed-toolz-1-0",
+      "programName": "Blazed toolz 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0254-blazed-toolz-1-0.zip",
+      "localSize": 991509,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0255-blazin": {
+      "programId": "prog-0255-blazin",
+      "programName": "Blazin",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0255-blazin.zip",
+      "localSize": 1108460,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.txt has vocabulary for Mass mailer / server, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0256-blind-idle": {
+      "programId": "prog-0256-blind-idle",
+      "programName": "Blind Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0256-blind-idle.zip",
+      "localSize": 1731471,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0257-blindcoms": {
+      "programId": "prog-0257-blindcoms",
+      "programName": "blindcoms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0257-blindcoms.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0258-blindingpoint": {
+      "programId": "prog-0258-blindingpoint",
+      "programName": "blindingpoint",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0258-blindingpoint.zip",
+      "localSize": 1057892,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0259-blinkmm": {
+      "programId": "prog-0259-blinkmm",
+      "programName": "blinkmm",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0259-blinkmm.zip",
+      "localSize": 808914,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0260-bliss98": {
+      "programId": "prog-0260-bliss98",
+      "programName": "bliss98",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0260-bliss98.zip",
+      "localSize": 3719468,
+      "textFileCount": 3,
+      "textFiles": [
+        "READ NOW!.txt",
+        "AoBliss98/MadJester - Must Read.txt",
+        "__MACOSX/AoBliss98/._MadJester - Must Read.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "AOL/AIM chat utility",
+        "Account / TOS utility",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility.",
+        "AoBliss98/MadJester - Must Read.txt has vocabulary for Account / TOS utility, Source / developer file."
+      ]
+    },
+    "prog-0261-blitz": {
+      "programId": "prog-0261-blitz",
+      "programName": "Blitz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0261-blitz.zip",
+      "localSize": 546423,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0262-blitz1im": {
+      "programId": "prog-0262-blitz1im",
+      "programName": "blitz1im",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0262-blitz1im.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0263-blitzhit": {
+      "programId": "prog-0263-blitzhit",
+      "programName": "BLITZHIT",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0263-blitzhit.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0264-blizah-coms": {
+      "programId": "prog-0264-blizah-coms",
+      "programName": "blizah coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0264-blizah-coms.zip",
+      "localSize": 2342627,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0265-blizahcoms": {
+      "programId": "prog-0265-blizahcoms",
+      "programName": "blizahcoms",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0265-blizahcoms.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0266-blizahphader": {
+      "programId": "prog-0266-blizahphader",
+      "programName": "blizahphader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0266-blizahphader.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0267-blizzard-server-v4": {
+      "programId": "prog-0267-blizzard-server-v4",
+      "programName": "blizzard server v4�",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0267-blizzard-server-v4.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0268-blood-runs-cold": {
+      "programId": "prog-0268-blood-runs-cold",
+      "programName": "Blood Runs Cold",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0268-blood-runs-cold.zip",
+      "localSize": 2429535,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0269-blood-runs-cold-v2": {
+      "programId": "prog-0269-blood-runs-cold-v2",
+      "programName": "Blood Runs Cold v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0269-blood-runs-cold-v2.zip",
+      "localSize": 3077132,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0270-bls": {
+      "programId": "prog-0270-bls",
+      "programName": "bls",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0270-bls.zip",
+      "localSize": 2357687,
+      "textFileCount": 4,
+      "textFiles": [
+        "Upgrades/blsug.txt",
+        "!README!.TXT",
+        "irunin.ini",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0"
+      ],
+      "notes": [
+        "Upgrades/blsug.txt has vocabulary for Media / file utility.",
+        "!README!.TXT mentions AOL 4.0.",
+        "!README!.TXT has vocabulary for Account / TOS utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0271-blue-xer": {
+      "programId": "prog-0271-blue-xer",
+      "programName": "blue x'er",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0271-blue-xer.zip",
+      "localSize": 1156558,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0272-bluecros": {
+      "programId": "prog-0272-bluecros",
+      "programName": "BLUECROS",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0272-bluecros.zip",
+      "localSize": 667273,
+      "textFileCount": 1,
+      "textFiles": [
+        "irunin.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "irunin.ini has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0273-blueice": {
+      "programId": "prog-0273-blueice",
+      "programName": "Blueice",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0273-blueice.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0274-blueice": {
+      "programId": "prog-0274-blueice",
+      "programName": "BLUEICE",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0274-blueice.zip",
+      "localSize": 483591,
+      "textFileCount": 3,
+      "textFiles": [
+        "ReadMe.txt",
+        "MadJester - Must Read.txt",
+        "Ericz Text File.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Mass mailer / server"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for All-in-one prog suite, Mass mailer / server.",
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0275-blueink": {
+      "programId": "prog-0275-blueink",
+      "programName": "blueink",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0275-blueink.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0276-bluelightning": {
+      "programId": "prog-0276-bluelightning",
+      "programName": "BlueLightning",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0276-bluelightning.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0277-blunt-idler": {
+      "programId": "prog-0277-blunt-idler",
+      "programName": "Blunt Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0277-blunt-idler.zip",
+      "localSize": 1453676,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0278-blunted-coms": {
+      "programId": "prog-0278-blunted-coms",
+      "programName": "blunted-coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0278-blunted-coms.zip",
+      "localSize": 3094474,
+      "textFileCount": 17,
+      "textFiles": [
+        "arrows.ini",
+        "arrows2.ini",
+        "Blunted.ini",
+        "default.ini",
+        "default2.ini",
+        "default3.ini",
+        "ghost.ini",
+        "ghost1.ini",
+        "ghost3.ini",
+        "hail.ini",
+        "lutes mom.ini",
+        "sook.ini",
+        "static.ini",
+        "static2.ini",
+        "taffy.ini",
+        "ultima.ini",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "arrows.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "arrows2.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "Blunted.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "default.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "default2.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "default3.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "ghost.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "ghost1.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "ghost3.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "hail.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "lutes mom.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "sook.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "static.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "static2.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "taffy.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "ultima.ini has vocabulary for Fader / text styler, Scroller / macro."
+      ]
+    },
+    "prog-0279-bluntz": {
+      "programId": "prog-0279-bluntz",
+      "programName": "Bluntz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0279-bluntz.zip",
+      "localSize": 645035,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0280-blux-toolz": {
+      "programId": "prog-0280-blux-toolz",
+      "programName": "BLUX_TOOLZ",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0280-blux-toolz.zip",
+      "localSize": 8365818,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0281-bmr-buster-pro": {
+      "programId": "prog-0281-bmr-buster-pro",
+      "programName": "BMR_Buster_Pro",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0281-bmr-buster-pro.zip",
+      "localSize": 1394340,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0282-bmsetup": {
+      "programId": "prog-0282-bmsetup",
+      "programName": "bmsetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0282-bmsetup.zip",
+      "localSize": 1635956,
+      "textFileCount": 1,
+      "textFiles": [
+        "READTHIS.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7"
+      ],
+      "notes": [
+        "READTHIS.txt mentions AOL 7.",
+        "READTHIS.txt has vocabulary for Fader / text styler, Idler / AFK bot, Punter / booter, C-Com / command list, Scroller / macro."
+      ]
+    },
+    "prog-0283-bodini": {
+      "programId": "prog-0283-bodini",
+      "programName": "bodini",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0283-bodini.zip",
+      "localSize": 4370689,
+      "textFileCount": 2,
+      "textFiles": [
+        "readme.txt",
+        "phatprogz.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Mass mailer / server.",
+        "phatprogz.txt has vocabulary for Media / file utility.",
+        "phatprogz.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0284-bois-ccom": {
+      "programId": "prog-0284-bois-ccom",
+      "programName": "Boi's Ccom",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0284-bois-ccom.zip",
+      "localSize": 45858,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0285-bombiraq": {
+      "programId": "prog-0285-bombiraq",
+      "programName": "bombiraq",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0285-bombiraq.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0286-bond40": {
+      "programId": "prog-0286-bond40",
+      "programName": "Bond40",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0286-bond40.zip",
+      "localSize": 2022253,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0287-bone-buster": {
+      "programId": "prog-0287-bone-buster",
+      "programName": "bone buster",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0287-bone-buster.zip",
+      "localSize": 1439723,
+      "textFileCount": 2,
+      "textFiles": [
+        "bonebuster.txt",
+        "aciddr0p.netReadMe2.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0288-boogyman": {
+      "programId": "prog-0288-boogyman",
+      "programName": "boogyman",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0288-boogyman.zip",
+      "localSize": 4350120,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Punter / booter."
+      ]
+    },
+    "prog-0289-booked": {
+      "programId": "prog-0289-booked",
+      "programName": "booked",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0289-booked.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0290-bootbot": {
+      "programId": "prog-0290-bootbot",
+      "programName": "BOOTBOT",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0290-bootbot.zip",
+      "localSize": 1496048,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0291-bootfin": {
+      "programId": "prog-0291-bootfin",
+      "programName": "BoOTFiN",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0291-bootfin.zip",
+      "localSize": 1057397,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0292-bot": {
+      "programId": "prog-0292-bot",
+      "programName": "Bot",
+      "scanned": true,
+      "localPath": "files/aol/aol-8-0/0292-bot.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0293-bot-city-2005": {
+      "programId": "prog-0293-bot-city-2005",
+      "programName": "Bot City 2005",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0293-bot-city-2005.zip",
+      "localSize": 2782415,
+      "textFileCount": 1,
+      "textFiles": [
+        "Info.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Info.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0294-boxfader2": {
+      "programId": "prog-0294-boxfader2",
+      "programName": "BoXFaDeR2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0294-boxfader2.zip",
+      "localSize": 3404614,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ!.txt has vocabulary for Fader / text styler, Source / developer file."
+      ]
+    },
+    "prog-0295-boos-idler": {
+      "programId": "prog-0295-boos-idler",
+      "programName": "boºs idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0295-boos-idler.zip",
+      "localSize": 750498,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0296-braindamage2": {
+      "programId": "prog-0296-braindamage2",
+      "programName": "BrainDamage2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0296-braindamage2.zip",
+      "localSize": 2187768,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0297-break": {
+      "programId": "prog-0297-break",
+      "programName": "break",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0297-break.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0298-breakdown-recruiter-idle": {
+      "programId": "prog-0298-breakdown-recruiter-idle",
+      "programName": "Breakdown Recruiter Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0298-breakdown-recruiter-idle.zip",
+      "localSize": 911436,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0299-brhymes": {
+      "programId": "prog-0299-brhymes",
+      "programName": "brhymes",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0299-brhymes.zip",
+      "localSize": 1397890,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0300-brysanti": {
+      "programId": "prog-0300-brysanti",
+      "programName": "brysanti",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0300-brysanti.zip",
+      "localSize": 503643,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0301-btchr1b2": {
+      "programId": "prog-0301-btchr1b2",
+      "programName": "btchr1b2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0301-btchr1b2.zip",
+      "localSize": 1790842,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0302-buddah-lagger": {
+      "programId": "prog-0302-buddah-lagger",
+      "programName": "BuDDaH lagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0302-buddah-lagger.zip",
+      "localSize": 1546622,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0303-buddah-lagger": {
+      "programId": "prog-0303-buddah-lagger",
+      "programName": "BuDDaH lagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0303-buddah-lagger.zip",
+      "localSize": 1530761,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0304-buddah-lagger": {
+      "programId": "prog-0304-buddah-lagger",
+      "programName": "BuDDaH lagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0304-buddah-lagger.zip",
+      "localSize": 1465188,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0305-buddah-lagger-coms-4-0-build-15-6": {
+      "programId": "prog-0305-buddah-lagger-coms-4-0-build-15-6",
+      "programName": "BuDDaH Lagger coms 4.0 build 15.6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0305-buddah-lagger-coms-4-0-build-15-6.zip",
+      "localSize": 2906374,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0306-buddah-lagger4-0": {
+      "programId": "prog-0306-buddah-lagger4-0",
+      "programName": "BuDDaH Lagger4.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0306-buddah-lagger4-0.zip",
+      "localSize": 1475162,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0307-buddah-list-orginiser-v3-0": {
+      "programId": "prog-0307-buddah-list-orginiser-v3-0",
+      "programName": "BuDDaH list orginiser v3.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0307-buddah-list-orginiser-v3-0.zip",
+      "localSize": 2339116,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0308-budsaver": {
+      "programId": "prog-0308-budsaver",
+      "programName": "budsaver",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0308-budsaver.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0309-bunk-error1": {
+      "programId": "prog-0309-bunk-error1",
+      "programName": "bunk error1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0309-bunk-error1.zip",
+      "localSize": 1452991,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0310-burger": {
+      "programId": "prog-0310-burger",
+      "programName": "burger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0310-burger.zip",
+      "localSize": 930455,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0311-burn10": {
+      "programId": "prog-0311-burn10",
+      "programName": "burn10",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0311-burn10.zip",
+      "localSize": 788596,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0312-burndes-aol-6-0-lister": {
+      "programId": "prog-0312-burndes-aol-6-0-lister",
+      "programName": "Burndes Aol 6.0 Lister",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0312-burndes-aol-6-0-lister.zip",
+      "localSize": 3518798,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0313-burndes-lister": {
+      "programId": "prog-0313-burndes-lister",
+      "programName": "Burndes Lister",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0313-burndes-lister.zip",
+      "localSize": 3505446,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0314-bust": {
+      "programId": "prog-0314-bust",
+      "programName": "bust",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0314-bust.zip",
+      "localSize": 510480,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0315-bust": {
+      "programId": "prog-0315-bust",
+      "programName": "BUST",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0315-bust.zip",
+      "localSize": 608231,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0316-bust-a-room-4-0": {
+      "programId": "prog-0316-bust-a-room-4-0",
+      "programName": "Bust A Room 4.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0316-bust-a-room-4-0.zip",
+      "localSize": 2628957,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt",
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Room buster",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note.",
+        "Read Me.txt mentions AOL 9.0.",
+        "Read Me.txt has vocabulary for Fader / text styler, Room buster, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0317-bust-a-room-stellar-2008": {
+      "programId": "prog-0317-bust-a-room-stellar-2008",
+      "programName": "Bust A Room Stellar 2008",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0317-bust-a-room-stellar-2008.zip",
+      "localSize": 2638168,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0318-bust-v3-for-aol-7": {
+      "programId": "prog-0318-bust-v3-for-aol-7",
+      "programName": "bust v3 for aol 7",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0318-bust-v3-for-aol-7.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0319-bust-v3-5-for-aol-7": {
+      "programId": "prog-0319-bust-v3-5-for-aol-7",
+      "programName": "bust v3.5 for aol 7",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0319-bust-v3-5-for-aol-7.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0320-bust-v4-0-for-aol-6-7v2": {
+      "programId": "prog-0320-bust-v4-0-for-aol-6-7v2",
+      "programName": "bust v4.0 for AOL 6-7v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0320-bust-v4-0-for-aol-6-7v2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0321-bust-v5-0-for-aol-5-7": {
+      "programId": "prog-0321-bust-v5-0-for-aol-5-7",
+      "programName": "Bust v5.0 for AOL 5-7",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0321-bust-v5-0-for-aol-5-7.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0322-bust5": {
+      "programId": "prog-0322-bust5",
+      "programName": "bust5",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0322-bust5.zip",
+      "localSize": 531204,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0323-busta-bust": {
+      "programId": "prog-0323-busta-bust",
+      "programName": "busta bust",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0323-busta-bust.zip",
+      "localSize": 1430636,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0324-bustcontrol": {
+      "programId": "prog-0324-bustcontrol",
+      "programName": "bustcontrol",
+      "scanned": true,
+      "localPath": "files/aol/aol-8-0/0324-bustcontrol.zip",
+      "localSize": 1397855,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0325-buster": {
+      "programId": "prog-0325-buster",
+      "programName": "Buster",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0325-buster.zip",
+      "localSize": 1548011,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0326-buster": {
+      "programId": "prog-0326-buster",
+      "programName": "buster",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0326-buster.zip",
+      "localSize": 2823569,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0327-bustit": {
+      "programId": "prog-0327-bustit",
+      "programName": "BustIt",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0327-bustit.zip",
+      "localSize": 52669,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0328-bustwh1": {
+      "programId": "prog-0328-bustwh1",
+      "programName": "BUSTWH~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0328-bustwh1.zip",
+      "localSize": 1477912,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0329-busynote": {
+      "programId": "prog-0329-busynote",
+      "programName": "busynote╣╖║",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0329-busynote.zip",
+      "localSize": 1485956,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0330-byrdtoolz-v4-5": {
+      "programId": "prog-0330-byrdtoolz-v4-5",
+      "programName": "ByrdToolz v4.5",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0330-byrdtoolz-v4-5.zip",
+      "localSize": 1876921,
+      "textFileCount": 2,
+      "textFiles": [
+        "Punter.html",
+        "PUNTER!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Punter / booter",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Punter.html has vocabulary for Source / developer file.",
+        "PUNTER!!!!.txt has vocabulary for Punter / booter, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0331-c-link": {
+      "programId": "prog-0331-c-link",
+      "programName": "c link",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0331-c-link.zip",
+      "localSize": 1414932,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for Fader / text styler, Scroller / macro, Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0332-c-chatembeta3": {
+      "programId": "prog-0332-c-chatembeta3",
+      "programName": "c-chatem[beta3]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0332-c-chatembeta3.zip",
+      "localSize": 4099159,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0333-c-com": {
+      "programId": "prog-0333-c-com",
+      "programName": "c-com",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0333-c-com.zip",
+      "localSize": 72548,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0334-c-comz": {
+      "programId": "prog-0334-c-comz",
+      "programName": "c-comz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0334-c-comz.zip",
+      "localSize": 1486896,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0335-c-spam": {
+      "programId": "prog-0335-c-spam",
+      "programName": "C-Spam",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0335-c-spam.zip",
+      "localSize": 1829036,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "PuNkDuDe",
+          "sourceFile": "READ ME.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "PuNkDuDe",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME.txt includes archive-text author clue(s): PuNkDuDe.",
+        "READ ME.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0336-c0m7": {
+      "programId": "prog-0336-c0m7",
+      "programName": "c0m7",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0336-c0m7.zip",
+      "localSize": 2688767,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0"
+      ],
+      "notes": [
+        "Read me.txt mentions AOL 7.0.",
+        "Read me.txt has vocabulary for C-Com / command list, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0337-c0m7-beta2": {
+      "programId": "prog-0337-c0m7-beta2",
+      "programName": "c0m7 beta²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0337-c0m7-beta2.zip",
+      "localSize": 2812349,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0"
+      ],
+      "notes": [
+        "Read me.txt mentions AOL 7.0.",
+        "Read me.txt has vocabulary for C-Com / command list, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0338-c0m7-final": {
+      "programId": "prog-0338-c0m7-final",
+      "programName": "c0m7 final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0338-c0m7-final.zip",
+      "localSize": 3330223,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0"
+      ],
+      "notes": [
+        "Read me.txt mentions AOL 7.0.",
+        "Read me.txt has vocabulary for C-Com / command list, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0339-c0ol-c-chat": {
+      "programId": "prog-0339-c0ol-c-chat",
+      "programName": "c0oL c-chat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0339-c0ol-c-chat.zip",
+      "localSize": 1482441,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0340-c1-0-collector-by-p-d-install": {
+      "programId": "prog-0340-c1-0-collector-by-p-d-install",
+      "programName": "c1.0 Collector By _p-d+ Install",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0340-c1-0-collector-by-p-d-install.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0341-c12": {
+      "programId": "prog-0341-c12",
+      "programName": "C12",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0341-c12.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0342-cak": {
+      "programId": "prog-0342-cak",
+      "programName": "cak",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0342-cak.zip",
+      "localSize": 3088253,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0343-calipunt": {
+      "programId": "prog-0343-calipunt",
+      "programName": "CaLiPunt",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0343-calipunt.zip",
+      "localSize": 864215,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0344-canuck": {
+      "programId": "prog-0344-canuck",
+      "programName": "CANUCK",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0344-canuck.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0345-case-it-by-miguel": {
+      "programId": "prog-0345-case-it-by-miguel",
+      "programName": "case it¦ - by miguel",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0345-case-it-by-miguel.zip",
+      "localSize": 1407428,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 8.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "READ ME!!!.txt mentions AOL 8.0, AOL 9.0."
+      ]
+    },
+    "prog-0346-case-it2-by-miguel": {
+      "programId": "prog-0346-case-it2-by-miguel",
+      "programName": "case it² - by miguel",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0346-case-it2-by-miguel.zip",
+      "localSize": 1401249,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 8.0"
+      ],
+      "notes": [
+        "READ ME!!!.txt mentions AOL 8.0."
+      ]
+    },
+    "prog-0347-caser2": {
+      "programId": "prog-0347-caser2",
+      "programName": "Caser2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0347-caser2.zip",
+      "localSize": 1418579,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0348-caso-coms": {
+      "programId": "prog-0348-caso-coms",
+      "programName": "caso coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0348-caso-coms.zip",
+      "localSize": 2560914,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0349-cazy-wazy-fade": {
+      "programId": "prog-0349-cazy-wazy-fade",
+      "programName": "cazy wazy fade",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0349-cazy-wazy-fade.zip",
+      "localSize": 790293,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0350-cbz-xer": {
+      "programId": "prog-0350-cbz-xer",
+      "programName": "cbz Xer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0350-cbz-xer.zip",
+      "localSize": 23168,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0351-cc2": {
+      "programId": "prog-0351-cc2",
+      "programName": "Cc2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0351-cc2.zip",
+      "localSize": 1613134,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0352-cccstyle-mini-toolz": {
+      "programId": "prog-0352-cccstyle-mini-toolz",
+      "programName": "CCCSTyle Mini Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0352-cccstyle-mini-toolz.zip",
+      "localSize": 474774,
+      "textFileCount": 1,
+      "textFiles": [
+        "index.html"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0353-cchat": {
+      "programId": "prog-0353-cchat",
+      "programName": "CCHAT",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0353-cchat.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0354-ccom8": {
+      "programId": "prog-0354-ccom8",
+      "programName": "ccom8",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0354-ccom8.zip",
+      "localSize": 1787146,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0355-ccompublic": {
+      "programId": "prog-0355-ccompublic",
+      "programName": "ccom[public]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0355-ccompublic.zip",
+      "localSize": 2827559,
+      "textFileCount": 2,
+      "textFiles": [
+        "read me.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0356-ccompublic": {
+      "programId": "prog-0356-ccompublic",
+      "programName": "ccom[public]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0356-ccompublic.zip",
+      "localSize": 2765081,
+      "textFileCount": 7,
+      "textFiles": [
+        "read me.txt",
+        "presets/audio class myke.ini",
+        "presets/audio class.ini",
+        "presets/myke.ini",
+        "presets/punt.ini",
+        "presets/punt2.ini",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro",
+        "Fader / text styler"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "presets/audio class myke.ini has vocabulary for Scroller / macro.",
+        "presets/audio class.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "presets/myke.ini has vocabulary for Scroller / macro.",
+        "presets/punt.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "presets/punt2.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0357-ccompublic": {
+      "programId": "prog-0357-ccompublic",
+      "programName": "ccom[public]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0357-ccompublic.zip",
+      "localSize": 4341441,
+      "textFileCount": 10,
+      "textFiles": [
+        "presets/audio class.ini",
+        "presets/hmmm.ini",
+        "presets/inward.ini",
+        "presets/inward2.ini",
+        "presets/lexy =).ini",
+        "presets/myke.ini",
+        "presets/punt.ini",
+        "presets/punt2.ini",
+        "read me.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "presets/audio class.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "presets/hmmm.ini has vocabulary for Scroller / macro.",
+        "presets/inward.ini has vocabulary for Scroller / macro.",
+        "presets/inward2.ini has vocabulary for Scroller / macro.",
+        "presets/lexy =).ini has vocabulary for Scroller / macro.",
+        "presets/myke.ini has vocabulary for Scroller / macro.",
+        "presets/punt.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "presets/punt2.ini has vocabulary for Fader / text styler, Scroller / macro.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0358-cdw": {
+      "programId": "prog-0358-cdw",
+      "programName": "CDW",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0358-cdw.zip",
+      "localSize": 1264074,
+      "textFileCount": 3,
+      "textFiles": [
+        "AoWizard/CDW.INI",
+        "__MACOSX/AoWizard/._CDW.INI",
+        "CDW.INI"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0359-ceedeeplayer": {
+      "programId": "prog-0359-ceedeeplayer",
+      "programName": "CeeDeePlayer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0359-ceedeeplayer.zip",
+      "localSize": 26378,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0360-celluoid-dreams": {
+      "programId": "prog-0360-celluoid-dreams",
+      "programName": "celluoid.dreams",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0360-celluoid-dreams.zip",
+      "localSize": 1650715,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0361-celluoid-dreams": {
+      "programId": "prog-0361-celluoid-dreams",
+      "programName": "celluoid.dreams",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0361-celluoid-dreams.zip",
+      "localSize": 1648562,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0362-celtic": {
+      "programId": "prog-0362-celtic",
+      "programName": "Celtic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0362-celtic.zip",
+      "localSize": 2829055,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me!.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0363-cf2": {
+      "programId": "prog-0363-cf2",
+      "programName": "CF2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0363-cf2.zip",
+      "localSize": 2491454,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0364-cf3": {
+      "programId": "prog-0364-cf3",
+      "programName": "Cf3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0364-cf3.zip",
+      "localSize": 2706280,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0365-cfader40": {
+      "programId": "prog-0365-cfader40",
+      "programName": "CFader40",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0365-cfader40.zip",
+      "localSize": 1479475,
+      "textFileCount": 2,
+      "textFiles": [
+        "About CFader40 READ ME.txt",
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4"
+      ],
+      "notes": [
+        "About CFader40 READ ME.txt mentions AOL 4.",
+        "About CFader40 READ ME.txt has vocabulary for Fader / text styler, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0366-cfinal": {
+      "programId": "prog-0366-cfinal",
+      "programName": "cfinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0366-cfinal.zip",
+      "localSize": 816537,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0367-cgagem": {
+      "programId": "prog-0367-cgagem",
+      "programName": "cgagem",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0367-cgagem.zip",
+      "localSize": 1922988,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0368-chain-lightning-pwsd": {
+      "programId": "prog-0368-chain-lightning-pwsd",
+      "programName": "Chain Lightning PWSD",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0368-chain-lightning-pwsd.zip",
+      "localSize": 1332137,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0369-cham": {
+      "programId": "prog-0369-cham",
+      "programName": "cham",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0369-cham.zip",
+      "localSize": 1435885,
+      "textFileCount": 1,
+      "textFiles": [
+        "cham.info"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0370-chamber2": {
+      "programId": "prog-0370-chamber2",
+      "programName": "CHAMBER2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0370-chamber2.zip",
+      "localSize": 232356,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0371-chamberbombz4": {
+      "programId": "prog-0371-chamberbombz4",
+      "programName": "chamberbombz4",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0371-chamberbombz4.zip",
+      "localSize": 10105,
+      "textFileCount": 1,
+      "textFiles": [
+        "contact.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0372-chamberfinal": {
+      "programId": "prog-0372-chamberfinal",
+      "programName": "chamberfinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0372-chamberfinal.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0373-chambomb": {
+      "programId": "prog-0373-chambomb",
+      "programName": "chambomb",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0373-chambomb.zip",
+      "localSize": 277497,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0374-champs-3k": {
+      "programId": "prog-0374-champs-3k",
+      "programName": "Champs 3k",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0374-champs-3k.zip",
+      "localSize": 1596998,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0375-chaos-xer-2": {
+      "programId": "prog-0375-chaos-xer-2",
+      "programName": "Chaos Xer 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0375-chaos-xer-2.zip",
+      "localSize": 1150115,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0376-chat-assassin": {
+      "programId": "prog-0376-chat-assassin",
+      "programName": "Chat Assassin",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0376-chat-assassin.zip",
+      "localSize": 107271,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0377-chat-assassin-ii": {
+      "programId": "prog-0377-chat-assassin-ii",
+      "programName": "Chat Assassin II",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0377-chat-assassin-ii.zip",
+      "localSize": 778194,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0378-chat-assassin-iii": {
+      "programId": "prog-0378-chat-assassin-iii",
+      "programName": "ChaT AssassiN III",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0378-chat-assassin-iii.zip",
+      "localSize": 448487,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0379-chat-marrionette": {
+      "programId": "prog-0379-chat-marrionette",
+      "programName": "Chat Marrionette",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0379-chat-marrionette.zip",
+      "localSize": 1448581,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0380-chat-phucka-by-fo0-beta": {
+      "programId": "prog-0380-chat-phucka-by-fo0-beta",
+      "programName": "chat phucka' by fo0 beta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0380-chat-phucka-by-fo0-beta.zip",
+      "localSize": 1571897,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0381-chat-room-manager-by-spermie": {
+      "programId": "prog-0381-chat-room-manager-by-spermie",
+      "programName": "chat room manager by spermie",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0381-chat-room-manager-by-spermie.zip",
+      "localSize": 1450215,
+      "textFileCount": 2,
+      "textFiles": [
+        "chat room manager/READ ME!!!.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "chat room manager/READ ME!!!.txt mentions AOL 7.0, AOL 9.0.",
+        "chat room manager/READ ME!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0382-chat-toolz2-o": {
+      "programId": "prog-0382-chat-toolz2-o",
+      "programName": "Chat toolz2.o",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0382-chat-toolz2-o.zip",
+      "localSize": 892594,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read me.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0383-chat-destroy": {
+      "programId": "prog-0383-chat-destroy",
+      "programName": "Chat-Destroy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0383-chat-destroy.zip",
+      "localSize": 732567,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0384-chatant": {
+      "programId": "prog-0384-chatant",
+      "programName": "chatant",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0384-chatant.zip",
+      "localSize": 756941,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0385-chatbattle": {
+      "programId": "prog-0385-chatbattle",
+      "programName": "chatbattle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0385-chatbattle.zip",
+      "localSize": 2713156,
+      "textFileCount": 1,
+      "textFiles": [
+        "commands.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "commands.txt has vocabulary for C-Com / command list, Account / TOS utility."
+      ]
+    },
+    "prog-0386-chatgather1": {
+      "programId": "prog-0386-chatgather1",
+      "programName": "chatgather1",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0386-chatgather1.zip",
+      "localSize": 1409263,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0387-chatlogger": {
+      "programId": "prog-0387-chatlogger",
+      "programName": "ChatLogger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0387-chatlogger.zip",
+      "localSize": 1539500,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0388-chatriot": {
+      "programId": "prog-0388-chatriot",
+      "programName": "Chatriot",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0388-chatriot.zip",
+      "localSize": 1446731,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0389-chatspam": {
+      "programId": "prog-0389-chatspam",
+      "programName": "chatspam",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/0389-chatspam.zip",
+      "localSize": 1388052,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0390-chattool": {
+      "programId": "prog-0390-chattool",
+      "programName": "CHATTOOL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0390-chattool.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0391-chattoolz1-0": {
+      "programId": "prog-0391-chattoolz1-0",
+      "programName": "ChatToolz1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0391-chattoolz1-0.zip",
+      "localSize": 26879,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0392-chattoolz2": {
+      "programId": "prog-0392-chattoolz2",
+      "programName": "chattoolz2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0392-chattoolz2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0393-cheap-idle-by-tacoboy": {
+      "programId": "prog-0393-cheap-idle-by-tacoboy",
+      "programName": "Cheap Idle by tacoboy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0393-cheap-idle-by-tacoboy.zip",
+      "localSize": 745188,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Idler / AFK bot, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0394-cheater": {
+      "programId": "prog-0394-cheater",
+      "programName": "Cheater",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0394-cheater.zip",
+      "localSize": 746209,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0395-cheetov2": {
+      "programId": "prog-0395-cheetov2",
+      "programName": "cheetov2",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0395-cheetov2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0396-cheezypoofz-talker-shoppe": {
+      "programId": "prog-0396-cheezypoofz-talker-shoppe",
+      "programName": "cheezypoofz talker shoppe",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0396-cheezypoofz-talker-shoppe.zip",
+      "localSize": 805057,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0397-cheezypoofzidle1-0": {
+      "programId": "prog-0397-cheezypoofzidle1-0",
+      "programName": "cheezypoofzidle1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0397-cheezypoofzidle1-0.zip",
+      "localSize": 26090,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0398-cherryv2": {
+      "programId": "prog-0398-cherryv2",
+      "programName": "CHERRYv2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0398-cherryv2.zip",
+      "localSize": 53586,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0399-chex-by-z0ne": {
+      "programId": "prog-0399-chex-by-z0ne",
+      "programName": "Chex by z0ne",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0399-chex-by-z0ne.zip",
+      "localSize": 1462677,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0400-chilled": {
+      "programId": "prog-0400-chilled",
+      "programName": "CHILLED",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0400-chilled.zip",
+      "localSize": 4669578,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0401-chillen-like-a-villian-final": {
+      "programId": "prog-0401-chillen-like-a-villian-final",
+      "programName": "Chillen like a Villian Final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0401-chillen-like-a-villian-final.zip",
+      "localSize": 45989,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0402-chillin2k": {
+      "programId": "prog-0402-chillin2k",
+      "programName": "chillin2k",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0402-chillin2k.zip",
+      "localSize": 1119937,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0403-chillz-attn-bot": {
+      "programId": "prog-0403-chillz-attn-bot",
+      "programName": "Chillz Attn Bot",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0403-chillz-attn-bot.zip",
+      "localSize": 1404604,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0404-christmas-98": {
+      "programId": "prog-0404-christmas-98",
+      "programName": "Christmas 98",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0404-christmas-98.zip",
+      "localSize": 1945561,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0405-chrome-tools-beta": {
+      "programId": "prog-0405-chrome-tools-beta",
+      "programName": "chrome tools beta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0405-chrome-tools-beta.zip",
+      "localSize": 862109,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0406-chronic": {
+      "programId": "prog-0406-chronic",
+      "programName": "chronic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0406-chronic.zip",
+      "localSize": 2265052,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0407-chronic": {
+      "programId": "prog-0407-chronic",
+      "programName": "chronic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0407-chronic.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0408-chronic": {
+      "programId": "prog-0408-chronic",
+      "programName": "chronic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0408-chronic.zip",
+      "localSize": 1844925,
+      "textFileCount": 1,
+      "textFiles": [
+        "commands.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "commands.txt has vocabulary for Idler / AFK bot, C-Com / command list, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0409-chronic-3001": {
+      "programId": "prog-0409-chronic-3001",
+      "programName": "Chronic 3001",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0409-chronic-3001.zip",
+      "localSize": 1393652,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Punter / booter, Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0410-chrnic-idle-4": {
+      "programId": "prog-0410-chrnic-idle-4",
+      "programName": "chr°nic idle 4▓║",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0410-chrnic-idle-4.zip",
+      "localSize": 1372549,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0411-ci2": {
+      "programId": "prog-0411-ci2",
+      "programName": "ci2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0411-ci2.zip",
+      "localSize": 2060161,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0412-cia-by-budz": {
+      "programId": "prog-0412-cia-by-budz",
+      "programName": "CIA by budz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0412-cia-by-budz.zip",
+      "localSize": 1565646,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0413-cidle": {
+      "programId": "prog-0413-cidle",
+      "programName": "cidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0413-cidle.zip",
+      "localSize": 493759,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0414-ciig-idle-beta": {
+      "programId": "prog-0414-ciig-idle-beta",
+      "programName": "ciig idle   -[-beta-]-",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0414-ciig-idle-beta.zip",
+      "localSize": 33268,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0415-cikness-1-0": {
+      "programId": "prog-0415-cikness-1-0",
+      "programName": "cikness 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0415-cikness-1-0.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0416-citadel": {
+      "programId": "prog-0416-citadel",
+      "programName": "CITADEL",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0416-citadel.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0417-ckthon2": {
+      "programId": "prog-0417-ckthon2",
+      "programName": "ckthon2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0417-ckthon2.zip",
+      "localSize": 1736446,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0418-classic-idle-iii": {
+      "programId": "prog-0418-classic-idle-iii",
+      "programName": "Classic Idle III",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0418-classic-idle-iii.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0419-classicalanarchy": {
+      "programId": "prog-0419-classicalanarchy",
+      "programName": "ClassicalAnarchy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0419-classicalanarchy.zip",
+      "localSize": 1416112,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-0420-clear-haze1-1-0": {
+      "programId": "prog-0420-clear-haze1-1-0",
+      "programName": "Clear-Haze(1-1-0)",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0420-clear-haze1-1-0.zip",
+      "localSize": 169340,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0421-clepto": {
+      "programId": "prog-0421-clepto",
+      "programName": "clepto!!",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0421-clepto.zip",
+      "localSize": 533125,
+      "textFileCount": 1,
+      "textFiles": [
+        "AutoTag.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0422-clicktoolz1": {
+      "programId": "prog-0422-clicktoolz1",
+      "programName": "clicktoolz1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0422-clicktoolz1.zip",
+      "localSize": 566942,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0423-client": {
+      "programId": "prog-0423-client",
+      "programName": "Client",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0423-client.zip",
+      "localSize": 4403257,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0424-clink3": {
+      "programId": "prog-0424-clink3",
+      "programName": "clink3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0424-clink3.zip",
+      "localSize": 1783263,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.txt.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "CDBurn(01,02,03,04,05)",
+          "sourceFile": "README.txt.txt",
+          "pattern": "author"
+        }
+      ],
+      "preferredAuthor": "CDBurn(01,02,03,04,05)",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Punter / booter",
+        "Linker / chat linker",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4",
+        "AOL 5"
+      ],
+      "notes": [
+        "README.txt.txt includes archive-text author clue(s): CDBurn(01,02,03,04,05).",
+        "README.txt.txt mentions AOL 4, AOL 5.",
+        "README.txt.txt has vocabulary for Idler / AFK bot, Punter / booter, Linker / chat linker, Account / TOS utility, Source / developer file."
+      ]
+    },
+    "prog-0425-cloneaol": {
+      "programId": "prog-0425-cloneaol",
+      "programName": "cloneaol",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0425-cloneaol.zip",
+      "localSize": 270367,
+      "textFileCount": 2,
+      "textFiles": [
+        "clone.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 95",
+        "AOL 3"
+      ],
+      "notes": [
+        "clone.txt mentions AOL 95, AOL 3.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0426-cloner": {
+      "programId": "prog-0426-cloner",
+      "programName": "CLONER",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0426-cloner.zip",
+      "localSize": 755285,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0427-cloner-idle": {
+      "programId": "prog-0427-cloner-idle",
+      "programName": "Cloner Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0427-cloner-idle.zip",
+      "localSize": 486477,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0428-clonetechsetup": {
+      "programId": "prog-0428-clonetechsetup",
+      "programName": "clonetechsetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0428-clonetechsetup.zip",
+      "localSize": 1968123,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0429-cnt223": {
+      "programId": "prog-0429-cnt223",
+      "programName": "cnt223",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/0429-cnt223.zip",
+      "localSize": 3566154,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt",
+        "_conflicts/conflict.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note.",
+        "_conflicts/conflict.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0430-co-clear": {
+      "programId": "prog-0430-co-clear",
+      "programName": "Co-Clear",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0430-co-clear.zip",
+      "localSize": 732078,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0431-codegennapi": {
+      "programId": "prog-0431-codegennapi",
+      "programName": "CodeGennAPI",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0431-codegennapi.zip",
+      "localSize": 1405757,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0432-codiene-1o": {
+      "programId": "prog-0432-codiene-1o",
+      "programName": "Codiene 1·º",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0432-codiene-1o.zip",
+      "localSize": 389176,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0433-coke": {
+      "programId": "prog-0433-coke",
+      "programName": "coke",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0433-coke.zip",
+      "localSize": 1649902,
+      "textFileCount": 1,
+      "textFiles": [
+        "File_id.diz"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "File_id.diz has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0434-cold": {
+      "programId": "prog-0434-cold",
+      "programName": "COLD",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0434-cold.zip",
+      "localSize": 453222,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0435-cold-breeze": {
+      "programId": "prog-0435-cold-breeze",
+      "programName": "Cold Breeze",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0435-cold-breeze.zip",
+      "localSize": 1055479,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0436-cold-ccoms": {
+      "programId": "prog-0436-cold-ccoms",
+      "programName": "CoLd CcOmS",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0436-cold-ccoms.zip",
+      "localSize": 1652339,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0437-cold-ccomsco": {
+      "programId": "prog-0437-cold-ccomsco",
+      "programName": "Cold ccoms┬╣ΓÇó",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0437-cold-ccomsco.zip",
+      "localSize": 1659851,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0438-collapse-mp3-player": {
+      "programId": "prog-0438-collapse-mp3-player",
+      "programName": "collapse mp3 player",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0438-collapse-mp3-player.zip",
+      "localSize": 2278385,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0439-collect-1-5": {
+      "programId": "prog-0439-collect-1-5",
+      "programName": "collect 1.5",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0439-collect-1-5.zip",
+      "localSize": 2995207,
+      "textFileCount": 1,
+      "textFiles": [
+        "Collect 1.5/Description.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Collect 1.5/Description.txt mentions AOL 9.0.",
+        "Collect 1.5/Description.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0440-collectorfinal": {
+      "programId": "prog-0440-collectorfinal",
+      "programName": "CollectorFinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0440-collectorfinal.zip",
+      "localSize": 1920867,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0441-color-spy-by-kid-rebel": {
+      "programId": "prog-0441-color-spy-by-kid-rebel",
+      "programName": "color spy by kiD & rebeL",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0441-color-spy-by-kid-rebel.zip",
+      "localSize": 1372826,
+      "textFileCount": 1,
+      "textFiles": [
+        "Color Spy/Read Me File.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Color Spy/Read Me File.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0442-colorful-sex-fader": {
+      "programId": "prog-0442-colorful-sex-fader",
+      "programName": "Colorful Sex Fader",
+      "scanned": true,
+      "localPath": "files/aol/aol-8-0/0442-colorful-sex-fader.zip",
+      "localSize": 1470759,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0443-com-illusion-beta2": {
+      "programId": "prog-0443-com-illusion-beta2",
+      "programName": "com illusion beta²",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0443-com-illusion-beta2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0444-com-six": {
+      "programId": "prog-0444-com-six",
+      "programName": "com-six",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0444-com-six.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0445-com-six": {
+      "programId": "prog-0445-com-six",
+      "programName": "com-six",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0445-com-six.zip",
+      "localSize": 6651902,
+      "textFileCount": 2,
+      "textFiles": [
+        "com-six/read now.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "com-six/read now.txt has vocabulary for C-Com / command list, Media / file utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0446-comic-coms-masta-inc-production": {
+      "programId": "prog-0446-comic-coms-masta-inc-production",
+      "programName": "comic com's masta inc. production",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0446-comic-coms-masta-inc-production.zip",
+      "localSize": 2204315,
+      "textFileCount": 1,
+      "textFiles": [
+        "comic read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "comic read me.txt has vocabulary for C-Com / command list."
+      ]
+    },
+    "prog-0447-compact-mp3": {
+      "programId": "prog-0447-compact-mp3",
+      "programName": "compact mp3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0447-compact-mp3.zip",
+      "localSize": 1761749,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0448-completion": {
+      "programId": "prog-0448-completion",
+      "programName": "completion",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0448-completion.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0449-comz": {
+      "programId": "prog-0449-comz",
+      "programName": "comz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0449-comz.zip",
+      "localSize": 83903,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0450-condom-linker": {
+      "programId": "prog-0450-condom-linker",
+      "programName": "Condom linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0450-condom-linker.zip",
+      "localSize": 1397815,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0451-config": {
+      "programId": "prog-0451-config",
+      "programName": "Config",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0451-config.zip",
+      "localSize": 3153121,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0452-confucktion-12": {
+      "programId": "prog-0452-confucktion-12",
+      "programName": "Confucktion ½",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0452-confucktion-12.zip",
+      "localSize": 1402662,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0453-constipated": {
+      "programId": "prog-0453-constipated",
+      "programName": "Constipated",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0453-constipated.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0454-contro1": {
+      "programId": "prog-0454-contro1",
+      "programName": "CONTRO1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0454-contro1.zip",
+      "localSize": 746826,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0455-convicted-criminalz": {
+      "programId": "prog-0455-convicted-criminalz",
+      "programName": "convicted criminalz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0455-convicted-criminalz.zip",
+      "localSize": 2717932,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0456-cools-cracker-helper": {
+      "programId": "prog-0456-cools-cracker-helper",
+      "programName": "cools cracker helper",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0456-cools-cracker-helper.zip",
+      "localSize": 1473229,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0457-corruption-of-the-mind-v2": {
+      "programId": "prog-0457-corruption-of-the-mind-v2",
+      "programName": "Corruption Of The Mind v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0457-corruption-of-the-mind-v2.zip",
+      "localSize": 1099818,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0458-covert": {
+      "programId": "prog-0458-covert",
+      "programName": "covert",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0458-covert.zip",
+      "localSize": 2283857,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0459-covert-opp": {
+      "programId": "prog-0459-covert-opp",
+      "programName": "covert opp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0459-covert-opp.zip",
+      "localSize": 1827104,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for Fader / text styler, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0460-cr0mbies-idler": {
+      "programId": "prog-0460-cr0mbies-idler",
+      "programName": "cr0mbies idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0460-cr0mbies-idler.zip",
+      "localSize": 1372038,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0461-cr4x-z0ne": {
+      "programId": "prog-0461-cr4x-z0ne",
+      "programName": "cr4x z0ne",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0461-cr4x-z0ne.zip",
+      "localSize": 2052018,
+      "textFileCount": 2,
+      "textFiles": [
+        "Cr4x Z0ne/Cr4x Z0ne/Read Me.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Cr4x Z0ne/Cr4x Z0ne/Read Me.txt has vocabulary for Account / TOS utility, Source / developer file, AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0462-cr4x-z0ne": {
+      "programId": "prog-0462-cr4x-z0ne",
+      "programName": "cr4x z0ne",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0462-cr4x-z0ne.zip",
+      "localSize": 1962940,
+      "textFileCount": 2,
+      "textFiles": [
+        "Cr4x Z0ne/Read Me.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Cr4x Z0ne/Read Me.txt has vocabulary for Account / TOS utility, Source / developer file, AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0463-cr4x3d-v2": {
+      "programId": "prog-0463-cr4x3d-v2",
+      "programName": "cr4x3d v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0463-cr4x3d-v2.zip",
+      "localSize": 3001005,
+      "textFileCount": 2,
+      "textFiles": [
+        "readme.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Account / TOS utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0464-cr4xorbetapublic-by-tempr": {
+      "programId": "prog-0464-cr4xorbetapublic-by-tempr",
+      "programName": "cr4xor[beta][public] by tempr",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0464-cr4xorbetapublic-by-tempr.zip",
+      "localSize": 2883406,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0465-crack": {
+      "programId": "prog-0465-crack",
+      "programName": "crack",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0465-crack.zip",
+      "localSize": 770226,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0466-crack": {
+      "programId": "prog-0466-crack",
+      "programName": "crack",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0466-crack.zip",
+      "localSize": 826890,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0467-crackdealer-by-iaoz": {
+      "programId": "prog-0467-crackdealer-by-iaoz",
+      "programName": "crackdealer╣ by iaoz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0467-crackdealer-by-iaoz.zip",
+      "localSize": 2741561,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0468-crackem": {
+      "programId": "prog-0468-crackem",
+      "programName": "crackem",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0468-crackem.zip",
+      "localSize": 961583,
+      "textFileCount": 2,
+      "textFiles": [
+        "info.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0"
+      ],
+      "notes": [
+        "info.txt mentions AOL 7.0.",
+        "info.txt has vocabulary for Mass mailer / server, Account / TOS utility, Source / developer file, AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0469-cracker5": {
+      "programId": "prog-0469-cracker5",
+      "programName": "cracker5",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0469-cracker5.zip",
+      "localSize": 1873040,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0470-cracker7": {
+      "programId": "prog-0470-cracker7",
+      "programName": "cracker7",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0470-cracker7.zip",
+      "localSize": 1872949,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0471-crackhead": {
+      "programId": "prog-0471-crackhead",
+      "programName": "crackhead",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0471-crackhead.zip",
+      "localSize": 528549,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0472-crackish-by-z0ne": {
+      "programId": "prog-0472-crackish-by-z0ne",
+      "programName": "Crackish by z0ne",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0472-crackish-by-z0ne.zip",
+      "localSize": 2788345,
+      "textFileCount": 3,
+      "textFiles": [
+        "Crackish/Description.txt",
+        "Crackish/Updates....txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Crackish/Description.txt mentions AOL 9.0.",
+        "Crackish/Description.txt has vocabulary for C-Com / command list, Account / TOS utility, Screen-name utility, AOL/AIM chat utility.",
+        "Crackish/Updates....txt has vocabulary for C-Com / command list, Screen-name utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0473-cracklab": {
+      "programId": "prog-0473-cracklab",
+      "programName": "cracklab",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0473-cracklab.zip",
+      "localSize": 1903857,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0474-crackpipe-linker": {
+      "programId": "prog-0474-crackpipe-linker",
+      "programName": "CrackPipe Linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0474-crackpipe-linker.zip",
+      "localSize": 1392960,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0475-crap-idleremix": {
+      "programId": "prog-0475-crap-idleremix",
+      "programName": "crap idle(remix)",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0475-crap-idleremix.zip",
+      "localSize": 1569141,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me slut!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me slut!.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-0476-crayon": {
+      "programId": "prog-0476-crayon",
+      "programName": "Crayon",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0476-crayon.zip",
+      "localSize": 845466,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0477-crb": {
+      "programId": "prog-0477-crb",
+      "programName": "CRB",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0477-crb.zip",
+      "localSize": 738282,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0478-cream-c-coms-by-festa": {
+      "programId": "prog-0478-cream-c-coms-by-festa",
+      "programName": "Cream C-Coms By Festa",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0478-cream-c-coms-by-festa.zip",
+      "localSize": 894708,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0479-cream-toolz-1-0": {
+      "programId": "prog-0479-cream-toolz-1-0",
+      "programName": "cream toolz 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0479-cream-toolz-1-0.zip",
+      "localSize": 1778774,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0480-creamkid-linker2": {
+      "programId": "prog-0480-creamkid-linker2",
+      "programName": "Creamkid Linker²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0480-creamkid-linker2.zip",
+      "localSize": 21847,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0481-creamkid-scroller": {
+      "programId": "prog-0481-creamkid-scroller",
+      "programName": "Creamkid Scroller",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0481-creamkid-scroller.zip",
+      "localSize": 22164,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0482-crisis-toolz": {
+      "programId": "prog-0482-crisis-toolz",
+      "programName": "Crisis toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0482-crisis-toolz.zip",
+      "localSize": 919621,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0483-crnic": {
+      "programId": "prog-0483-crnic",
+      "programName": "crnic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0483-crnic.zip",
+      "localSize": 80235,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0484-crucial-conflict": {
+      "programId": "prog-0484-crucial-conflict",
+      "programName": "crucial conflict",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0484-crucial-conflict.zip",
+      "localSize": 1005094,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0485-crusade": {
+      "programId": "prog-0485-crusade",
+      "programName": "CRUSADE",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0485-crusade.zip",
+      "localSize": 386492,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.TXT has vocabulary for Punter / booter, Mass mailer / server, Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0486-crusty-penis": {
+      "programId": "prog-0486-crusty-penis",
+      "programName": "Crusty Penis",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0486-crusty-penis.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0487-crusty-penis": {
+      "programId": "prog-0487-crusty-penis",
+      "programName": "Crusty Penis",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0487-crusty-penis.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0488-cryo": {
+      "programId": "prog-0488-cryo",
+      "programName": "cryo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0488-cryo.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0489-cryo-chamber": {
+      "programId": "prog-0489-cryo-chamber",
+      "programName": "Cryo Chamber",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0489-cryo-chamber.zip",
+      "localSize": 845282,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0490-cryptonite-2001": {
+      "programId": "prog-0490-cryptonite-2001",
+      "programName": "Cryptonite 2001",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0490-cryptonite-2001.zip",
+      "localSize": 1298979,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0491-cube": {
+      "programId": "prog-0491-cube",
+      "programName": "CUBE",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0491-cube.zip",
+      "localSize": 509648,
+      "textFileCount": 3,
+      "textFiles": [
+        "INSTALL.LOG",
+        "CUBE.TXT",
+        "CUBE.BAS"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "Source / developer file",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 3",
+        "AOL 4",
+        "AOL 4.0"
+      ],
+      "notes": [
+        "INSTALL.LOG has vocabulary for Punter / booter, Source / developer file.",
+        "CUBE.TXT has vocabulary for Punter / booter.",
+        "CUBE.BAS mentions AOL 3, AOL 4, AOL 4.0.",
+        "CUBE.BAS has vocabulary for Account / TOS utility, Screen-name utility, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0492-cuntpunt": {
+      "programId": "prog-0492-cuntpunt",
+      "programName": "cuntpunt",
+      "scanned": true,
+      "localPath": "files/aim/aol-2-5/0492-cuntpunt.zip",
+      "localSize": 501033,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0493-cupidle": {
+      "programId": "prog-0493-cupidle",
+      "programName": "cupidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0493-cupidle.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0494-curb-ified-idler": {
+      "programId": "prog-0494-curb-ified-idler",
+      "programName": "curb-ified - idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0494-curb-ified-idler.zip",
+      "localSize": 1368571,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-0495-cyanosis": {
+      "programId": "prog-0495-cyanosis",
+      "programName": "CYANOSIS",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0495-cyanosis.zip",
+      "localSize": 2083038,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0496-cyclone": {
+      "programId": "prog-0496-cyclone",
+      "programName": "cyclone",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0496-cyclone.zip",
+      "localSize": 1489780,
+      "textFileCount": 2,
+      "textFiles": [
+        "Progzonline.nfo",
+        "MadJester - Must Read.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Progzonline.nfo has vocabulary for All-in-one prog suite.",
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0497-cyclone2": {
+      "programId": "prog-0497-cyclone2",
+      "programName": "cyclone2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0497-cyclone2.zip",
+      "localSize": 1430629,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0498-cytex2": {
+      "programId": "prog-0498-cytex2",
+      "programName": "cytex2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0498-cytex2.zip",
+      "localSize": 1835906,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0499-cllector-s": {
+      "programId": "prog-0499-cllector-s",
+      "programName": "C°llector - S╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0499-cllector-s.zip",
+      "localSize": 1546036,
+      "textFileCount": 1,
+      "textFiles": [
+        "README!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0500-cllector-s-remix": {
+      "programId": "prog-0500-cllector-s-remix",
+      "programName": "C°llector S remix",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0500-cllector-s-remix.zip",
+      "localSize": 1549148,
+      "textFileCount": 1,
+      "textFiles": [
+        "!!README!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "!!README!!.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0501-cllectors": {
+      "programId": "prog-0501-cllectors",
+      "programName": "C°llectorS▓",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0501-cllectors.zip",
+      "localSize": 862826,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0502-cm-chmber": {
+      "programId": "prog-0502-cm-chmber",
+      "programName": "c°m-chßmber╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0502-cm-chmber.zip",
+      "localSize": 2716486,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme now.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Screen-name utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme now.txt has vocabulary for Fader / text styler, C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0503-c-cms-v": {
+      "programId": "prog-0503-c-cms-v",
+      "programName": "C°▓ C°ms V╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0503-c-cms-v.zip",
+      "localSize": 1696779,
+      "textFileCount": 1,
+      "textFiles": [
+        "C�� C�ms-Read Me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Carbøn",
+          "sourceFile": "C�� C�ms-Read Me.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "Carbøn",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "C�� C�ms-Read Me.txt includes archive-text author clue(s): Carbøn.",
+        "C�� C�ms-Read Me.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0504-cn-hv-yr-ttnt": {
+      "programId": "prog-0504-cn-hv-yr-ttnt",
+      "programName": "cαn ∩ hΓvΦ y°∙r αttΦnt∩≤±",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0504-cn-hv-yr-ttnt.zip",
+      "localSize": 745175,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0505-d3kfinal": {
+      "programId": "prog-0505-d3kfinal",
+      "programName": "D3kfinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0505-d3kfinal.zip",
+      "localSize": 1595597,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0506-d8bl-tlz": {
+      "programId": "prog-0506-d8bl-tlz",
+      "programName": "d8ßbl° t°°lz¦+¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0506-d8bl-tlz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0507-daily-idle-final": {
+      "programId": "prog-0507-daily-idle-final",
+      "programName": "Daily Idle Final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0507-daily-idle-final.zip",
+      "localSize": 115526,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0508-dailyidle": {
+      "programId": "prog-0508-dailyidle",
+      "programName": "dailyidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0508-dailyidle.zip",
+      "localSize": 745649,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0509-danger-zone": {
+      "programId": "prog-0509-danger-zone",
+      "programName": "Danger Zone",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0509-danger-zone.zip",
+      "localSize": 1508013,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0510-dank-tank": {
+      "programId": "prog-0510-dank-tank",
+      "programName": "dank tank",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0510-dank-tank.zip",
+      "localSize": 648689,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0511-dark-age-fader-1-0": {
+      "programId": "prog-0511-dark-age-fader-1-0",
+      "programName": "Dark Age Fader 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0511-dark-age-fader-1-0.zip",
+      "localSize": 1582199,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0512-dark-angelz": {
+      "programId": "prog-0512-dark-angelz",
+      "programName": "Dark Angelz",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0512-dark-angelz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0513-dark-diabl-tlz": {
+      "programId": "prog-0513-dark-diabl-tlz",
+      "programName": "Dark Diabl° T°°lz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0513-dark-diabl-tlz.zip",
+      "localSize": 214888,
+      "textFileCount": 1,
+      "textFiles": [
+        "Macros/homer.MCR"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0514-dark-ice-phader-x": {
+      "programId": "prog-0514-dark-ice-phader-x",
+      "programName": "Dark Ice Phader X",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0514-dark-ice-phader-x.zip",
+      "localSize": 1255375,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0515-dark-program": {
+      "programId": "prog-0515-dark-program",
+      "programName": "Dark Program",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0515-dark-program.zip",
+      "localSize": 4409205,
+      "textFileCount": 2,
+      "textFiles": [
+        "Read Me!.txt",
+        "password.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Read Me!.txt mentions AOL 7.0, AOL 9.0.",
+        "Read Me!.txt has vocabulary for All-in-one prog suite, Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0516-dark-program-v-2": {
+      "programId": "prog-0516-dark-program-v-2",
+      "programName": "Dark Program v.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0516-dark-program-v-2.zip",
+      "localSize": 4533584,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Read Me!.txt mentions AOL 7.0, AOL 9.0.",
+        "Read Me!.txt has vocabulary for All-in-one prog suite, Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0517-dark-side-clicker": {
+      "programId": "prog-0517-dark-side-clicker",
+      "programName": "DarK SiDE CLiCKeR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0517-dark-side-clicker.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0518-dark-tides-1-0": {
+      "programId": "prog-0518-dark-tides-1-0",
+      "programName": "DARK TIDES 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0518-dark-tides-1-0.zip",
+      "localSize": 577472,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0519-dark-toolz": {
+      "programId": "prog-0519-dark-toolz",
+      "programName": "Dark Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0519-dark-toolz.zip",
+      "localSize": 1467473,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0520-darkday": {
+      "programId": "prog-0520-darkday",
+      "programName": "DarkDay",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0520-darkday.zip",
+      "localSize": 1804608,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0521-darker-image-final": {
+      "programId": "prog-0521-darker-image-final",
+      "programName": "Darker Image Final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0521-darker-image-final.zip",
+      "localSize": 1951902,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0522-darklite": {
+      "programId": "prog-0522-darklite",
+      "programName": "DarkLite",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0522-darklite.zip",
+      "localSize": 1993001,
+      "textFileCount": 1,
+      "textFiles": [
+        "Liquidinfo.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Liquidinfo.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0523-darkwater": {
+      "programId": "prog-0523-darkwater",
+      "programName": "darkwater",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0523-darkwater.zip",
+      "localSize": 1601165,
+      "textFileCount": 2,
+      "textFiles": [
+        "MadJester - Must Read.txt",
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite.",
+        "Read Me.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0524-davidstoolsfinal": {
+      "programId": "prog-0524-davidstoolsfinal",
+      "programName": "davidstoolsfinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0524-davidstoolsfinal.zip",
+      "localSize": 2424967,
+      "textFileCount": 1,
+      "textFiles": [
+        "command list.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Room buster",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 5",
+        "AOL 4",
+        "AOL 3.0"
+      ],
+      "notes": [
+        "command list.txt mentions AOL 5, AOL 4, AOL 3.0.",
+        "command list.txt has vocabulary for All-in-one prog suite, Room buster, C-Com / command list, Scroller / macro, Account / TOS utility."
+      ]
+    },
+    "prog-0525-dazed-beta-2": {
+      "programId": "prog-0525-dazed-beta-2",
+      "programName": "dazed beta 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0525-dazed-beta-2.zip",
+      "localSize": 101956,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0526-db-idle": {
+      "programId": "prog-0526-db-idle",
+      "programName": "db idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0526-db-idle.zip",
+      "localSize": 7775226,
+      "textFileCount": 1,
+      "textFiles": [
+        "db remix/random.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0527-dch": {
+      "programId": "prog-0527-dch",
+      "programName": "DcH",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0527-dch.zip",
+      "localSize": 3250871,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0528-dead-man-1-0-for-aol-4-0": {
+      "programId": "prog-0528-dead-man-1-0-for-aol-4-0",
+      "programName": "DeAd MaN 1.0 For Aol 4.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0528-dead-man-1-0-for-aol-4-0.zip",
+      "localSize": 3126946,
+      "textFileCount": 3,
+      "textFiles": [
+        "Read Me.txt",
+        "progworld.html",
+        "Progworld.nfo"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Progworld.nfo has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0529-deadlock": {
+      "programId": "prog-0529-deadlock",
+      "programName": "Deadlock",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0529-deadlock.zip",
+      "localSize": 1516207,
+      "textFileCount": 1,
+      "textFiles": [
+        "deadlock.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0530-deadlyxer": {
+      "programId": "prog-0530-deadlyxer",
+      "programName": "deadlyXer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0530-deadlyxer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0531-death": {
+      "programId": "prog-0531-death",
+      "programName": "death",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0531-death.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0532-death-ripple2": {
+      "programId": "prog-0532-death-ripple2",
+      "programName": "Death Ripple²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0532-death-ripple2.zip",
+      "localSize": 1376791,
+      "textFileCount": 1,
+      "textFiles": [
+        "greetz.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0533-decade-tools-lite": {
+      "programId": "prog-0533-decade-tools-lite",
+      "programName": "Decade Tools Lite",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0533-decade-tools-lite.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0534-decadetools": {
+      "programId": "prog-0534-decadetools",
+      "programName": "decadetools",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/0534-decadetools.zip",
+      "localSize": 19328904,
+      "textFileCount": 1,
+      "textFiles": [
+        "INFO.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "INFO.txt has vocabulary for Mass mailer / server, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0535-decapi": {
+      "programId": "prog-0535-decapi",
+      "programName": "Decapi",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0535-decapi.zip",
+      "localSize": 1440396,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0536-decipherpublic": {
+      "programId": "prog-0536-decipherpublic",
+      "programName": "decipher(public)",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0536-decipherpublic.zip",
+      "localSize": 1918848,
+      "textFileCount": 2,
+      "textFiles": [
+        "opts.ini",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "opts.ini has vocabulary for AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0537-dedchek": {
+      "programId": "prog-0537-dedchek",
+      "programName": "dedchek",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0537-dedchek.zip",
+      "localSize": 495657,
+      "textFileCount": 1,
+      "textFiles": [
+        "dlinfo.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "dlinfo.txt has vocabulary for AOL/AIM chat utility.",
+        "dlinfo.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0538-deepfr1": {
+      "programId": "prog-0538-deepfr1",
+      "programName": "DEEPFR~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0538-deepfr1.zip",
+      "localSize": 836935,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0539-def-coms": {
+      "programId": "prog-0539-def-coms",
+      "programName": "def coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0539-def-coms.zip",
+      "localSize": 2998008,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0540-defcoms": {
+      "programId": "prog-0540-defcoms",
+      "programName": "defcoms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0540-defcoms.zip",
+      "localSize": 2292920,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Scroller / macro",
+        "Screen-name utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4",
+        "AOL 5"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 4, AOL 5.",
+        "readme.txt has vocabulary for C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0541-defcon": {
+      "programId": "prog-0541-defcon",
+      "programName": "DEFCON",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0541-defcon.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0542-defcon2": {
+      "programId": "prog-0542-defcon2",
+      "programName": "DEFCON2",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0542-defcon2.zip",
+      "localSize": 522684,
+      "textFileCount": 2,
+      "textFiles": [
+        "def.ini",
+        "defcon nt2/def.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "def.ini has vocabulary for Account / TOS utility, Media / file utility.",
+        "defcon nt2/def.ini has vocabulary for Account / TOS utility, Media / file utility."
+      ]
+    },
+    "prog-0543-demolishing-universe2": {
+      "programId": "prog-0543-demolishing-universe2",
+      "programName": "Demolishing Universe2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0543-demolishing-universe2.zip",
+      "localSize": 228234,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0544-demon-idle": {
+      "programId": "prog-0544-demon-idle",
+      "programName": "Demon idle╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0544-demon-idle.zip",
+      "localSize": 1562434,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0545-demon-resurrection2": {
+      "programId": "prog-0545-demon-resurrection2",
+      "programName": "Demon Resurrection²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0545-demon-resurrection2.zip",
+      "localSize": 1458862,
+      "textFileCount": 1,
+      "textFiles": [
+        "greetz.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "greetz.txt has vocabulary for Punter / booter."
+      ]
+    },
+    "prog-0546-descent": {
+      "programId": "prog-0546-descent",
+      "programName": "Descent",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0546-descent.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0547-desert-storm-2o": {
+      "programId": "prog-0547-desert-storm-2o",
+      "programName": "Desert storm ²·º",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0547-desert-storm-2o.zip",
+      "localSize": 849841,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0548-desert-fox-3": {
+      "programId": "prog-0548-desert-fox-3",
+      "programName": "desert_fox_3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0548-desert-fox-3.zip",
+      "localSize": 1114716,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0549-destiny": {
+      "programId": "prog-0549-destiny",
+      "programName": "Destiny",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0549-destiny.zip",
+      "localSize": 992918,
+      "textFileCount": 2,
+      "textFiles": [
+        "info.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 25",
+        "AOL 30",
+        "AOL 4.0",
+        "AOL 2.5"
+      ],
+      "notes": [
+        "info.txt mentions AOL 25, AOL 30, AOL 4.0, AOL 2.5.",
+        "info.txt has vocabulary for All-in-one prog suite, Mass mailer / server, Account / TOS utility, Screen-name utility, Media / file utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0550-destiny": {
+      "programId": "prog-0550-destiny",
+      "programName": "Destiny",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0550-destiny.zip",
+      "localSize": 838791,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0551-destiny": {
+      "programId": "prog-0551-destiny",
+      "programName": "Destiny",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0551-destiny.zip",
+      "localSize": 1023216,
+      "textFileCount": 2,
+      "textFiles": [
+        "info.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 25",
+        "AOL 30",
+        "AOL 4.0",
+        "AOL 2.5"
+      ],
+      "notes": [
+        "info.txt mentions AOL 25, AOL 30, AOL 4.0, AOL 2.5.",
+        "info.txt has vocabulary for All-in-one prog suite, Mass mailer / server, Account / TOS utility, Screen-name utility, Media / file utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0552-destiny": {
+      "programId": "prog-0552-destiny",
+      "programName": "Destiny",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0552-destiny.zip",
+      "localSize": 1002434,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt",
+        "info.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 25",
+        "AOL 30",
+        "AOL 4.0",
+        "AOL 2.5"
+      ],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note.",
+        "info.txt mentions AOL 25, AOL 30, AOL 4.0, AOL 2.5.",
+        "info.txt has vocabulary for All-in-one prog suite, Mass mailer / server, Account / TOS utility, Screen-name utility, Media / file utility."
+      ]
+    },
+    "prog-0553-destroy-aol-ver-1-o": {
+      "programId": "prog-0553-destroy-aol-ver-1-o",
+      "programName": "Destroy Aol ver 1.o",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0553-destroy-aol-ver-1-o.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0554-destroyer-c-com-1-2": {
+      "programId": "prog-0554-destroyer-c-com-1-2",
+      "programName": "destroyer c-com 1.2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0554-destroyer-c-com-1-2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0555-destruction": {
+      "programId": "prog-0555-destruction",
+      "programName": "Destruction",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0555-destruction.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0556-destruction-final": {
+      "programId": "prog-0556-destruction-final",
+      "programName": "Destruction FINAL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0556-destruction-final.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0557-destruction-scrambler": {
+      "programId": "prog-0557-destruction-scrambler",
+      "programName": "Destruction Scrambler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0557-destruction-scrambler.zip",
+      "localSize": 1660451,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0558-destruction-toolz-2-0-c-coms-by-google": {
+      "programId": "prog-0558-destruction-toolz-2-0-c-coms-by-google",
+      "programName": "Destruction Toolz 2.0 C-Coms By google",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0558-destruction-toolz-2-0-c-coms-by-google.zip",
+      "localSize": 1621888,
+      "textFileCount": 1,
+      "textFiles": [
+        "Chat Commands.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Chat Commands.txt has vocabulary for All-in-one prog suite, Fader / text styler, Idler / AFK bot, C-Com / command list, Scroller / macro."
+      ]
+    },
+    "prog-0559-destruction-toolz-2-0-final": {
+      "programId": "prog-0559-destruction-toolz-2-0-final",
+      "programName": "Destruction Toolz 2.0 Final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0559-destruction-toolz-2-0-final.zip",
+      "localSize": 1758624,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0560-detonator": {
+      "programId": "prog-0560-detonator",
+      "programName": "DETONATOR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0560-detonator.zip",
+      "localSize": 2506426,
+      "textFileCount": 1,
+      "textFiles": [
+        "IMPORTANT!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0561-devastation-v1": {
+      "programId": "prog-0561-devastation-v1",
+      "programName": "Devastation v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0561-devastation-v1.zip",
+      "localSize": 2308514,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0562-deveanze-toolz": {
+      "programId": "prog-0562-deveanze-toolz",
+      "programName": "DeVeaNze ToOLz",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0562-deveanze-toolz.zip",
+      "localSize": 4559819,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7",
+        "AOL 9"
+      ],
+      "notes": [
+        "Read Me!.txt mentions AOL 7, AOL 9.",
+        "Read Me!.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Scroller / macro, Media / file utility."
+      ]
+    },
+    "prog-0563-devious-v7-3": {
+      "programId": "prog-0563-devious-v7-3",
+      "programName": "devious v7.3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0563-devious-v7-3.zip",
+      "localSize": 4017722,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0564-devis73": {
+      "programId": "prog-0564-devis73",
+      "programName": "DEVIS~73",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0564-devis73.zip",
+      "localSize": 1093532,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0565-dfgftl-fntkt": {
+      "programId": "prog-0565-dfgftl-fntkt",
+      "programName": "dfgftßl fntßkT ¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0565-dfgftl-fntkt.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0566-dfmmv1": {
+      "programId": "prog-0566-dfmmv1",
+      "programName": "DFMMV1",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0566-dfmmv1.zip",
+      "localSize": 461572,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0567-diablo-v1-2": {
+      "programId": "prog-0567-diablo-v1-2",
+      "programName": "Diablo v1.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0567-diablo-v1-2.zip",
+      "localSize": 1634273,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0568-diablov2o": {
+      "programId": "prog-0568-diablov2o",
+      "programName": "Diablov²·º",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0568-diablov2o.zip",
+      "localSize": 2016761,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0569-diabolical-lagger": {
+      "programId": "prog-0569-diabolical-lagger",
+      "programName": "diabolical lagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0569-diabolical-lagger.zip",
+      "localSize": 1445818,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0570-diegod": {
+      "programId": "prog-0570-diegod",
+      "programName": "DieGod",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0570-diegod.zip",
+      "localSize": 4894701,
+      "textFileCount": 1,
+      "textFiles": [
+        "!ReadMe!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "!ReadMe!.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0571-digilite": {
+      "programId": "prog-0571-digilite",
+      "programName": "digilite",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0571-digilite.zip",
+      "localSize": 2972397,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0572-digital-dynasty": {
+      "programId": "prog-0572-digital-dynasty",
+      "programName": "Digital Dynasty",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0572-digital-dynasty.zip",
+      "localSize": 5739889,
+      "textFileCount": 2,
+      "textFiles": [
+        "SOURCE CODE FOR SELL!.txt",
+        "FREE PHISH.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "notes": [
+        "SOURCE CODE FOR SELL!.txt mentions AOL 4.0, AOL 5.0.",
+        "SOURCE CODE FOR SELL!.txt has vocabulary for Fader / text styler, Source / developer file, Media / file utility, AOL/AIM chat utility.",
+        "FREE PHISH.TXT mentions AOL 4.0, AOL 5.0.",
+        "FREE PHISH.TXT has vocabulary for Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0573-digital-impact": {
+      "programId": "prog-0573-digital-impact",
+      "programName": "Digital impacT",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0573-digital-impact.zip",
+      "localSize": 5931630,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0574-digital-interuption": {
+      "programId": "prog-0574-digital-interuption",
+      "programName": "Digital Interuption",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0574-digital-interuption.zip",
+      "localSize": 3335752,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0575-digital-punter": {
+      "programId": "prog-0575-digital-punter",
+      "programName": "digital punter",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0575-digital-punter.zip",
+      "localSize": 1507227,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0576-digital-punter": {
+      "programId": "prog-0576-digital-punter",
+      "programName": "digital punter",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0576-digital-punter.zip",
+      "localSize": 1510654,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0577-digital-shock-beta-1-2": {
+      "programId": "prog-0577-digital-shock-beta-1-2",
+      "programName": "digital shock beta 1.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0577-digital-shock-beta-1-2.zip",
+      "localSize": 2154059,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0578-digital-bust": {
+      "programId": "prog-0578-digital-bust",
+      "programName": "digital-bust",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0578-digital-bust.zip",
+      "localSize": 1478957,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0579-digits": {
+      "programId": "prog-0579-digits",
+      "programName": "digits",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0579-digits.zip",
+      "localSize": 1641832,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0580-dingo": {
+      "programId": "prog-0580-dingo",
+      "programName": "dingo",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0580-dingo.zip",
+      "localSize": 121942,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0581-dioxide": {
+      "programId": "prog-0581-dioxide",
+      "programName": "dioxide",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0581-dioxide.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0582-direct": {
+      "programId": "prog-0582-direct",
+      "programName": "DIRECT",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0582-direct.zip",
+      "localSize": 1178596,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0583-direct-3k-punter-3-0-for-aol-6": {
+      "programId": "prog-0583-direct-3k-punter-3-0-for-aol-6",
+      "programName": "Direct 3k punter 3.0 for aol 6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0583-direct-3k-punter-3-0-for-aol-6.zip",
+      "localSize": 1480027,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0584-direct3k": {
+      "programId": "prog-0584-direct3k",
+      "programName": "Direct3k",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0584-direct3k.zip",
+      "localSize": 1395406,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0585-dirtysou": {
+      "programId": "prog-0585-dirtysou",
+      "programName": "DIRTYSOU",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0585-dirtysou.zip",
+      "localSize": 436560,
+      "textFileCount": 3,
+      "textFiles": [
+        "DIRTYSOU.INI",
+        "README~1.TXT",
+        "ST4UNST.LOG"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ST4UNST.LOG has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0586-diskreet60": {
+      "programId": "prog-0586-diskreet60",
+      "programName": "diskreet60",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0586-diskreet60.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0587-diskspy": {
+      "programId": "prog-0587-diskspy",
+      "programName": "diskspy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0587-diskspy.zip",
+      "localSize": 1531042,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0588-dispersal-4-0": {
+      "programId": "prog-0588-dispersal-4-0",
+      "programName": "Dispersal 4.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0588-dispersal-4-0.zip",
+      "localSize": 833431,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0589-djiin-v2-o": {
+      "programId": "prog-0589-djiin-v2-o",
+      "programName": "Djiin v2.o",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0589-djiin-v2-o.zip",
+      "localSize": 1046061,
+      "textFileCount": 1,
+      "textFiles": [
+        "Readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Readme.txt has vocabulary for Punter / booter, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0590-dl-tech": {
+      "programId": "prog-0590-dl-tech",
+      "programName": "dl tech",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0590-dl-tech.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0591-dmz-tools-1": {
+      "programId": "prog-0591-dmz-tools-1",
+      "programName": "DMZ Tools 1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0591-dmz-tools-1.zip",
+      "localSize": 2561303,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0592-dn-alpha-idle-3": {
+      "programId": "prog-0592-dn-alpha-idle-3",
+      "programName": "dn alpha-idle 3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0592-dn-alpha-idle-3.zip",
+      "localSize": 3429313,
+      "textFileCount": 1,
+      "textFiles": [
+        "webtweek.reg"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0593-dn-alpha-idle-v4": {
+      "programId": "prog-0593-dn-alpha-idle-v4",
+      "programName": "dn alpha-idle v4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0593-dn-alpha-idle-v4.zip",
+      "localSize": 5750274,
+      "textFileCount": 3,
+      "textFiles": [
+        "webtweek.reg",
+        "dn alpha-idle v4/webtweek.reg",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0594-dn-profile-tagger-by-shorty": {
+      "programId": "prog-0594-dn-profile-tagger-by-shorty",
+      "programName": "dn profile tagger by shorty",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0594-dn-profile-tagger-by-shorty.zip",
+      "localSize": 1891344,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0595-docsanti": {
+      "programId": "prog-0595-docsanti",
+      "programName": "DocsAnti",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0595-docsanti.zip",
+      "localSize": 1051376,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0596-domination-final": {
+      "programId": "prog-0596-domination-final",
+      "programName": "domination¦ final¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0596-domination-final.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0597-domination-final": {
+      "programId": "prog-0597-domination-final",
+      "programName": "domination╣ final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0597-domination-final.zip",
+      "localSize": 3710357,
+      "textFileCount": 1,
+      "textFiles": [
+        "dnquotes.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "dnquotes.ini has vocabulary for All-in-one prog suite, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0598-donkey-raper": {
+      "programId": "prog-0598-donkey-raper",
+      "programName": "DONKEY RAPER",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0598-donkey-raper.zip",
+      "localSize": 1441507,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0599-door-kicker": {
+      "programId": "prog-0599-door-kicker",
+      "programName": "Door Kicker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0599-door-kicker.zip",
+      "localSize": 2779348,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0600-doorbell": {
+      "programId": "prog-0600-doorbell",
+      "programName": "Doorbell",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0600-doorbell.zip",
+      "localSize": 856170,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0601-dope-beta": {
+      "programId": "prog-0601-dope-beta",
+      "programName": "dope beta ╣.║│",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0601-dope-beta.zip",
+      "localSize": 1136432,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0602-dos-4-6-final": {
+      "programId": "prog-0602-dos-4-6-final",
+      "programName": "DoS 4.6 [Final]",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0602-dos-4-6-final.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0603-dos-v-4-5-final": {
+      "programId": "prog-0603-dos-v-4-5-final",
+      "programName": "DoS v 4.5 [Final]",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0603-dos-v-4-5-final.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0604-dotsetup": {
+      "programId": "prog-0604-dotsetup",
+      "programName": "dotsetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0604-dotsetup.zip",
+      "localSize": 907656,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0605-dragonidle": {
+      "programId": "prog-0605-dragonidle",
+      "programName": "DragonIdle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0605-dragonidle.zip",
+      "localSize": 2031793,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0606-dreamcatcher": {
+      "programId": "prog-0606-dreamcatcher",
+      "programName": "dreamcatcher",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0606-dreamcatcher.zip",
+      "localSize": 4072407,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0607-drool-1": {
+      "programId": "prog-0607-drool-1",
+      "programName": "Drool_~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0607-drool-1.zip",
+      "localSize": 1557225,
+      "textFileCount": 1,
+      "textFiles": [
+        "AutoTag.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0608-dropshop": {
+      "programId": "prog-0608-dropshop",
+      "programName": "dropshop",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0608-dropshop.zip",
+      "localSize": 307912,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0609-drtosmd": {
+      "programId": "prog-0609-drtosmd",
+      "programName": "DRTOSMD",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0609-drtosmd.zip",
+      "localSize": 761868,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0610-drug-bust-by-fed": {
+      "programId": "prog-0610-drug-bust-by-fed",
+      "programName": "drug bust▌ by fed",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0610-drug-bust-by-fed.zip",
+      "localSize": 1465227,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0611-drunk-assidle1": {
+      "programId": "prog-0611-drunk-assidle1",
+      "programName": "drunk ass`idle1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0611-drunk-assidle1.zip",
+      "localSize": 1570227,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0612-dsb2": {
+      "programId": "prog-0612-dsb2",
+      "programName": "dsb2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0612-dsb2.zip",
+      "localSize": 1281983,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0613-dsbusta": {
+      "programId": "prog-0613-dsbusta",
+      "programName": "DSbusta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0613-dsbusta.zip",
+      "localSize": 590694,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0614-dserver": {
+      "programId": "prog-0614-dserver",
+      "programName": "DSERVER",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0614-dserver.zip",
+      "localSize": 2226788,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0615-dtoolz1-8": {
+      "programId": "prog-0615-dtoolz1-8",
+      "programName": "dtoolz1.8",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0615-dtoolz1-8.zip",
+      "localSize": 4858606,
+      "textFileCount": 4,
+      "textFiles": [
+        "Dragon Toolz ReadME.txt",
+        "Brute Forcer.txt",
+        "Passwords.txt",
+        "WordList.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "ize",
+          "sourceFile": "WordList.txt",
+          "pattern": "authorize"
+        }
+      ],
+      "preferredAuthor": "ize",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "C-Com / command list",
+        "Source / developer file",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Fader / text styler",
+        "Punter / booter",
+        "Mass mailer / server",
+        "AOL/AIM chat utility",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Dragon Toolz ReadME.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file.",
+        "Brute Forcer.txt has vocabulary for All-in-one prog suite, C-Com / command list, Scroller / macro, Account / TOS utility.",
+        "Passwords.txt has vocabulary for All-in-one prog suite, Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility.",
+        "WordList.txt includes archive-text author clue(s): ize.",
+        "WordList.txt has vocabulary for All-in-one prog suite, Punter / booter, Scroller / macro, Mass mailer / server, Account / TOS utility."
+      ]
+    },
+    "prog-0616-dtp": {
+      "programId": "prog-0616-dtp",
+      "programName": "dtp",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0616-dtp.zip",
+      "localSize": 5194470,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0617-dubcd": {
+      "programId": "prog-0617-dubcd",
+      "programName": "dubcd",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0617-dubcd.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0618-dumbass-punter-v1-0": {
+      "programId": "prog-0618-dumbass-punter-v1-0",
+      "programName": "DUMBASS PUNTER v1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0618-dumbass-punter-v1-0.zip",
+      "localSize": 649673,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0619-dune-toser": {
+      "programId": "prog-0619-dune-toser",
+      "programName": "Dune ToSer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0619-dune-toser.zip",
+      "localSize": 2056674,
+      "textFileCount": 2,
+      "textFiles": [
+        "Read 1st.txt",
+        "bluntz anti 1.0/Read 1st.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0620-dupe-killer": {
+      "programId": "prog-0620-dupe-killer",
+      "programName": "Dupe Killer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0620-dupe-killer.zip",
+      "localSize": 2999214,
+      "textFileCount": 1,
+      "textFiles": [
+        "Dupekiller/Description.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0621-duracell": {
+      "programId": "prog-0621-duracell",
+      "programName": "duracell",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0621-duracell.zip",
+      "localSize": 351810,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0622-dycesbusta": {
+      "programId": "prog-0622-dycesbusta",
+      "programName": "dycesbusta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0622-dycesbusta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0623-dycesidler2000": {
+      "programId": "prog-0623-dycesidler2000",
+      "programName": "dycesidler2000",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0623-dycesidler2000.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0624-dycesspammer": {
+      "programId": "prog-0624-dycesspammer",
+      "programName": "dycesspammer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0624-dycesspammer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0625-dycezidler2001": {
+      "programId": "prog-0625-dycezidler2001",
+      "programName": "dycezidler2001",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0625-dycezidler2001.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0626-dynamic": {
+      "programId": "prog-0626-dynamic",
+      "programName": "Dynamic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0626-dynamic.zip",
+      "localSize": 1538465,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0627-diabolik-mp3-v-0-2": {
+      "programId": "prog-0627-diabolik-mp3-v-0-2",
+      "programName": "díábolík mp3 v.0.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0627-diabolik-mp3-v-0-2.zip",
+      "localSize": 3903852,
+      "textFileCount": 1,
+      "textFiles": [
+        "ds/READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ds/READ ME!!!.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0628-e-fex": {
+      "programId": "prog-0628-e-fex",
+      "programName": "e-fex",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0628-e-fex.zip",
+      "localSize": 912458,
+      "textFileCount": 1,
+      "textFiles": [
+        "MorFeuS's ReaLM.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MorFeuS's ReaLM.txt has vocabulary for AOL/AIM chat utility.",
+        "MorFeuS's ReaLM.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0629-emp3-v2-0-by-cloner": {
+      "programId": "prog-0629-emp3-v2-0-by-cloner",
+      "programName": "E=MP3 V2.0 By CLoNeR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0629-emp3-v2-0-by-cloner.zip",
+      "localSize": 2391636,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!!!!!!!!! YES NOW!!!!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME!!!!!!!!!!! YES NOW!!!!!!!.txt has vocabulary for Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-0630-earth-siege": {
+      "programId": "prog-0630-earth-siege",
+      "programName": "Earth Siege",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0630-earth-siege.zip",
+      "localSize": 2743056,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0631-earth-siege-v2": {
+      "programId": "prog-0631-earth-siege-v2",
+      "programName": "earth siege v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0631-earth-siege-v2.zip",
+      "localSize": 2648564,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0632-ec-cloner-v-1": {
+      "programId": "prog-0632-ec-cloner-v-1",
+      "programName": "eC cloner v.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0632-ec-cloner-v-1.zip",
+      "localSize": 1949864,
+      "textFileCount": 1,
+      "textFiles": [
+        "eC cloner v.1/Read Me.log"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "eC cloner v.1/Read Me.log has vocabulary for Account / TOS utility, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0633-ec-v-1-by-ex0r": {
+      "programId": "prog-0633-ec-v-1-by-ex0r",
+      "programName": "eC v.1 by ex0r",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0633-ec-v-1-by-ex0r.zip",
+      "localSize": 3829190,
+      "textFileCount": 2,
+      "textFiles": [
+        "read me!.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me!.txt has vocabulary for Account / TOS utility, Source / developer file.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0634-ech0": {
+      "programId": "prog-0634-ech0",
+      "programName": "ech0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0634-ech0.zip",
+      "localSize": 1495362,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0635-echo": {
+      "programId": "prog-0635-echo",
+      "programName": "echo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0635-echo.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0636-eclypse-1-0": {
+      "programId": "prog-0636-eclypse-1-0",
+      "programName": "Eclypse 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0636-eclypse-1-0.zip",
+      "localSize": 1552070,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0637-eclypse-1-0": {
+      "programId": "prog-0637-eclypse-1-0",
+      "programName": "Eclypse 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0637-eclypse-1-0.zip",
+      "localSize": 1503270,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0638-eclypse-1-2": {
+      "programId": "prog-0638-eclypse-1-2",
+      "programName": "Eclypse 1.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0638-eclypse-1-2.zip",
+      "localSize": 2655507,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0639-edfinal": {
+      "programId": "prog-0639-edfinal",
+      "programName": "edfinal",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0639-edfinal.zip",
+      "localSize": 6379642,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0640-editstoolz1-1": {
+      "programId": "prog-0640-editstoolz1-1",
+      "programName": "editstoolz1.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0640-editstoolz1-1.zip",
+      "localSize": 767360,
+      "textFileCount": 1,
+      "textFiles": [
+        "about.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "about.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0641-efatalimpact-v-0-1": {
+      "programId": "prog-0641-efatalimpact-v-0-1",
+      "programName": "eFatalImpact v 0.1",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0641-efatalimpact-v-0-1.zip",
+      "localSize": 1507068,
+      "textFileCount": 6,
+      "textFiles": [
+        "eFatalImpact v 0.1/Bin/eFatalImpact.html",
+        "eFatalImpact v 0.1/Documentation/eFatalImpact.html",
+        "eFatalImpact v 0.1/Read Me Before use!.txt",
+        "eFatalImpact v 0.1/Recovery/eFatalImpact.html",
+        "eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt",
+        "eFatalImpact v 0.1/Recovery/ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "Scroller / macro",
+        "AOL/AIM chat utility",
+        "All-in-one prog suite",
+        "Mass mailer / server"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "eFatalImpact v 0.1/Bin/eFatalImpact.html has vocabulary for Fader / text styler, Source / developer file.",
+        "eFatalImpact v 0.1/Documentation/eFatalImpact.html has vocabulary for Fader / text styler, Scroller / macro, AOL/AIM chat utility.",
+        "eFatalImpact v 0.1/Recovery/eFatalImpact.html has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server.",
+        "eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server."
+      ]
+    },
+    "prog-0642-ei-by-egar-beta-v-e-e": {
+      "programId": "prog-0642-ei-by-egar-beta-v-e-e",
+      "programName": "ei by egar beta v. e-e",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0642-ei-by-egar-beta-v-e-e.zip",
+      "localSize": 52046,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0643-ei-by-egar-beta": {
+      "programId": "prog-0643-ei-by-egar-beta",
+      "programName": "ei_by_egar__beta_",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0643-ei-by-egar-beta.zip",
+      "localSize": 44325,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0644-eii22": {
+      "programId": "prog-0644-eii22",
+      "programName": "eii22",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0644-eii22.zip",
+      "localSize": 1545679,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0645-eii2": {
+      "programId": "prog-0645-eii2",
+      "programName": "eii²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0645-eii2.zip",
+      "localSize": 1545791,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0646-electric-idle": {
+      "programId": "prog-0646-electric-idle",
+      "programName": "electric idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0646-electric-idle.zip",
+      "localSize": 753924,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0647-electric-idle": {
+      "programId": "prog-0647-electric-idle",
+      "programName": "electric idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0647-electric-idle.zip",
+      "localSize": 1214127,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0648-electricfader": {
+      "programId": "prog-0648-electricfader",
+      "programName": "ElectricFader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0648-electricfader.zip",
+      "localSize": 383899,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0649-electrik": {
+      "programId": "prog-0649-electrik",
+      "programName": "ELeCTRiK",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0649-electrik.zip",
+      "localSize": 1739129,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0650-elements-of-destruction": {
+      "programId": "prog-0650-elements-of-destruction",
+      "programName": "elements of destruction",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0650-elements-of-destruction.zip",
+      "localSize": 54411877,
+      "textFileCount": 4,
+      "textFiles": [
+        "Read me.txt",
+        "PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt",
+        "PV8 TOOLZ 1.0/macro/homer.MCR",
+        "_conflicts/conflict.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Scroller / macro",
+        "Media / file utility",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 5.0",
+        "AOL 6.0",
+        "AOL 4",
+        "AOL 5"
+      ],
+      "notes": [
+        "Read me.txt mentions AOL 5.0, AOL 6.0.",
+        "PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.",
+        "_conflicts/conflict.txt mentions AOL 4, AOL 5.",
+        "_conflicts/conflict.txt has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-0651-elite-gather-3": {
+      "programId": "prog-0651-elite-gather-3",
+      "programName": "elite gather 3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0651-elite-gather-3.zip",
+      "localSize": 919980,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0652-elite-gather-revised": {
+      "programId": "prog-0652-elite-gather-revised",
+      "programName": "elite gather revised",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0652-elite-gather-revised.zip",
+      "localSize": 1620413,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0653-elite-ip-spoofer-1-0": {
+      "programId": "prog-0653-elite-ip-spoofer-1-0",
+      "programName": "Elite IP Spoofer 1.0",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0653-elite-ip-spoofer-1-0.zip",
+      "localSize": 3323806,
+      "textFileCount": 2,
+      "textFiles": [
+        "EISv1.0/highanonymity.txt",
+        "EISv1.0/Needed Files.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "EISv1.0/Needed Files.txt has vocabulary for Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-0654-elite-talker1": {
+      "programId": "prog-0654-elite-talker1",
+      "programName": "elite talker1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0654-elite-talker1.zip",
+      "localSize": 1398786,
+      "textFileCount": 1,
+      "textFiles": [
+        "elite t/document.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "elite t/document.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0655-elitebusta": {
+      "programId": "prog-0655-elitebusta",
+      "programName": "EliteBusta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0655-elitebusta.zip",
+      "localSize": 1425323,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0656-eliteidler": {
+      "programId": "prog-0656-eliteidler",
+      "programName": "eliteidler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0656-eliteidler.zip",
+      "localSize": 114591,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0657-elites": {
+      "programId": "prog-0657-elites",
+      "programName": "elites",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0657-elites.zip",
+      "localSize": 1404869,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0658-elysiumultragate": {
+      "programId": "prog-0658-elysiumultragate",
+      "programName": "elysiumultragate",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0658-elysiumultragate.zip",
+      "localSize": 964258,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0659-em-pee20threeb": {
+      "programId": "prog-0659-em-pee20threeb",
+      "programName": "em-pee%20threeb",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0659-em-pee20threeb.zip",
+      "localSize": 3228163,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0660-emerica-toolz": {
+      "programId": "prog-0660-emerica-toolz",
+      "programName": "EmEricA TooLz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0660-emerica-toolz.zip",
+      "localSize": 745720,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0661-emoties": {
+      "programId": "prog-0661-emoties",
+      "programName": "EmoTies",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0661-emoties.zip",
+      "localSize": 1521324,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0662-emp": {
+      "programId": "prog-0662-emp",
+      "programName": "emp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0662-emp.zip",
+      "localSize": 759533,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0663-emperor-mass-mailer-beta-2": {
+      "programId": "prog-0663-emperor-mass-mailer-beta-2",
+      "programName": "emperor mass mailer beta ²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0663-emperor-mass-mailer-beta-2.zip",
+      "localSize": 1681972,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0664-empire-p": {
+      "programId": "prog-0664-empire-p",
+      "programName": "Empire p│",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0664-empire-p.zip",
+      "localSize": 2526257,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0665-empyreal": {
+      "programId": "prog-0665-empyreal",
+      "programName": "empyreal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0665-empyreal.zip",
+      "localSize": 1677061,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0666-empyreal-ftp": {
+      "programId": "prog-0666-empyreal-ftp",
+      "programName": "empyreal ftp",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0666-empyreal-ftp.zip",
+      "localSize": 1702475,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0667-emp": {
+      "programId": "prog-0667-emp",
+      "programName": "Emp¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0667-emp.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0668-emp": {
+      "programId": "prog-0668-emp",
+      "programName": "Emp¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0668-emp.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0669-endless": {
+      "programId": "prog-0669-endless",
+      "programName": "endless",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0669-endless.zip",
+      "localSize": 1400466,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0670-entity2": {
+      "programId": "prog-0670-entity2",
+      "programName": "entity2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0670-entity2.zip",
+      "localSize": 2118815,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadThis!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadThis!.txt has vocabulary for Mass mailer / server.",
+        "ReadThis!.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0671-envisions-phader": {
+      "programId": "prog-0671-envisions-phader",
+      "programName": "Envisions Phader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0671-envisions-phader.zip",
+      "localSize": 1641593,
+      "textFileCount": 3,
+      "textFiles": [
+        "file_id.diz",
+        "free.nfo",
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "free.nfo has vocabulary for All-in-one prog suite, Account / TOS utility, Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-0672-eod2": {
+      "programId": "prog-0672-eod2",
+      "programName": "EoD²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0672-eod2.zip",
+      "localSize": 3251592,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0673-eofader": {
+      "programId": "prog-0673-eofader",
+      "programName": "EOFader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0673-eofader.zip",
+      "localSize": 1488428,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0674-ep3ascii": {
+      "programId": "prog-0674-ep3ascii",
+      "programName": "ep3ascii",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0674-ep3ascii.zip",
+      "localSize": 5409189,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for C-Com / command list, Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-0675-epidemic": {
+      "programId": "prog-0675-epidemic",
+      "programName": "epidemic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0675-epidemic.zip",
+      "localSize": 1600348,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0676-equalizer": {
+      "programId": "prog-0676-equalizer",
+      "programName": "EqUaLizeR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0676-equalizer.zip",
+      "localSize": 858675,
+      "textFileCount": 1,
+      "textFiles": [
+        "file_id.diz"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "file_id.diz has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0677-eratica": {
+      "programId": "prog-0677-eratica",
+      "programName": "eratica",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0677-eratica.zip",
+      "localSize": 2169202,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0678-error": {
+      "programId": "prog-0678-error",
+      "programName": "ERROR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0678-error.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0679-error-booter-5-o": {
+      "programId": "prog-0679-error-booter-5-o",
+      "programName": "error booter 5.o",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0679-error-booter-5-o.zip",
+      "localSize": 68599,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0680-error-idler": {
+      "programId": "prog-0680-error-idler",
+      "programName": "Error Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0680-error-idler.zip",
+      "localSize": 877560,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0681-error-scroller": {
+      "programId": "prog-0681-error-scroller",
+      "programName": "Error_Scroller",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0681-error-scroller.zip",
+      "localSize": 1505879,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0682-errorme": {
+      "programId": "prog-0682-errorme",
+      "programName": "errorme",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0682-errorme.zip",
+      "localSize": 588537,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0683-errorr1": {
+      "programId": "prog-0683-errorr1",
+      "programName": "Errorr~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0683-errorr1.zip",
+      "localSize": 1719811,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0684-errortoolz": {
+      "programId": "prog-0684-errortoolz",
+      "programName": "ErrorToolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0684-errortoolz.zip",
+      "localSize": 2241199,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0685-errorv12": {
+      "programId": "prog-0685-errorv12",
+      "programName": "errorv12",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0685-errorv12.zip",
+      "localSize": 3845344,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0686-error": {
+      "programId": "prog-0686-error",
+      "programName": "error│",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0686-error.zip",
+      "localSize": 1482742,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0687-es": {
+      "programId": "prog-0687-es",
+      "programName": "Es",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0687-es.zip",
+      "localSize": 6510048,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0688-esmidle3": {
+      "programId": "prog-0688-esmidle3",
+      "programName": "ESMIDLE3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0688-esmidle3.zip",
+      "localSize": 954289,
+      "textFileCount": 1,
+      "textFiles": [
+        "esmreadme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "esmreadme.txt has vocabulary for Idler / AFK bot, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0689-esp-idlez": {
+      "programId": "prog-0689-esp-idlez",
+      "programName": "ESP Idlez",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0689-esp-idlez.zip",
+      "localSize": 883871,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0690-esp-xp-lister": {
+      "programId": "prog-0690-esp-xp-lister",
+      "programName": "ESP XP Lister",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0690-esp-xp-lister.zip",
+      "localSize": 1597585,
+      "textFileCount": 1,
+      "textFiles": [
+        "ESP XP Lister/READ.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 8"
+      ],
+      "notes": [
+        "ESP XP Lister/READ.txt mentions AOL 8.",
+        "ESP XP Lister/READ.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0691-et": {
+      "programId": "prog-0691-et",
+      "programName": "et",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0691-et.zip",
+      "localSize": 1623351,
+      "textFileCount": 1,
+      "textFiles": [
+        "read first.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read first.txt has vocabulary for Media / file utility.",
+        "read first.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0692-et-nas-v2": {
+      "programId": "prog-0692-et-nas-v2",
+      "programName": "Et-Nas-v2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0692-et-nas-v2.zip",
+      "localSize": 259274,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0693-eternal-dl": {
+      "programId": "prog-0693-eternal-dl",
+      "programName": "Eternal dL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0693-eternal-dl.zip",
+      "localSize": 1595137,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0694-eternal-linkage": {
+      "programId": "prog-0694-eternal-linkage",
+      "programName": "Eternal Linkage",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0694-eternal-linkage.zip",
+      "localSize": 1404129,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0695-eternal-v1": {
+      "programId": "prog-0695-eternal-v1",
+      "programName": "Eternal v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0695-eternal-v1.zip",
+      "localSize": 1672576,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0696-eternal-v": {
+      "programId": "prog-0696-eternal-v",
+      "programName": "eternal v▌",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0696-eternal-v.zip",
+      "localSize": 142670,
+      "textFileCount": 1,
+      "textFiles": [
+        "MorFeuS's ReaLM.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MorFeuS's ReaLM.txt has vocabulary for AOL/AIM chat utility.",
+        "MorFeuS's ReaLM.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0697-eternal-darkness20": {
+      "programId": "prog-0697-eternal-darkness20",
+      "programName": "Eternal_Darkness20",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0697-eternal-darkness20.zip",
+      "localSize": 3494189,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0698-eternaldarkness": {
+      "programId": "prog-0698-eternaldarkness",
+      "programName": "eternaldarkness",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/0698-eternaldarkness.zip",
+      "localSize": 2852162,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ_ME!!!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0699-eternity-by-cobra": {
+      "programId": "prog-0699-eternity-by-cobra",
+      "programName": "eternity by cobra",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0699-eternity-by-cobra.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0700-ethertoolz2-0": {
+      "programId": "prog-0700-ethertoolz2-0",
+      "programName": "EtherTooLz2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0700-ethertoolz2-0.zip",
+      "localSize": 2367292,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0701-eto-xer": {
+      "programId": "prog-0701-eto-xer",
+      "programName": "eto x'er",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0701-eto-xer.zip",
+      "localSize": 45885,
+      "textFileCount": 1,
+      "textFiles": [
+        "ETO x'r/READ ME .txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ETO x'r/READ ME .txt has vocabulary for C-Com / command list."
+      ]
+    },
+    "prog-0702-ett": {
+      "programId": "prog-0702-ett",
+      "programName": "ett",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0702-ett.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0703-ettu21": {
+      "programId": "prog-0703-ettu21",
+      "programName": "ettu21",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0703-ettu21.zip",
+      "localSize": 1479126,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0704-ettu23": {
+      "programId": "prog-0704-ettu23",
+      "programName": "ettu23",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0704-ettu23.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0705-ettu24": {
+      "programId": "prog-0705-ettu24",
+      "programName": "ettu24",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0705-ettu24.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0706-evenflow-linker-2-0": {
+      "programId": "prog-0706-evenflow-linker-2-0",
+      "programName": "Evenflow Linker 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0706-evenflow-linker-2-0.zip",
+      "localSize": 230839,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0707-evenflow-linker-2-5": {
+      "programId": "prog-0707-evenflow-linker-2-5",
+      "programName": "Evenflow Linker 2.5",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0707-evenflow-linker-2-5.zip",
+      "localSize": 256884,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0708-everyday-atrocity-v2": {
+      "programId": "prog-0708-everyday-atrocity-v2",
+      "programName": "everyday atrocity v²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0708-everyday-atrocity-v2.zip",
+      "localSize": 4663171,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0709-evil-death": {
+      "programId": "prog-0709-evil-death",
+      "programName": "EVIL DEATH",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0709-evil-death.zip",
+      "localSize": 3170983,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0710-evil-xer": {
+      "programId": "prog-0710-evil-xer",
+      "programName": "evil x'er",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0710-evil-xer.zip",
+      "localSize": 1688164,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0711-evilaimsnmakerbysource": {
+      "programId": "prog-0711-evilaimsnmakerbysource",
+      "programName": "EvilAimSnMakerBySource",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0711-evilaimsnmakerbysource.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0712-evilded-toolz-2": {
+      "programId": "prog-0712-evilded-toolz-2",
+      "programName": "EViLDeD ToOLz 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0712-evilded-toolz-2.zip",
+      "localSize": 2370058,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0713-evilz-empire": {
+      "programId": "prog-0713-evilz-empire",
+      "programName": "EviLz Empire",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0713-evilz-empire.zip",
+      "localSize": 3280960,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0714-evilz-idler-1-0": {
+      "programId": "prog-0714-evilz-idler-1-0",
+      "programName": "EviLz Idler 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0714-evilz-idler-1-0.zip",
+      "localSize": 1393430,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0715-ew2": {
+      "programId": "prog-0715-ew2",
+      "programName": "EW2",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0715-ew2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0716-ewire": {
+      "programId": "prog-0716-ewire",
+      "programName": "eWiRe",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0716-ewire.zip",
+      "localSize": 510875,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0717-ex-dial": {
+      "programId": "prog-0717-ex-dial",
+      "programName": "EX_DIAL",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0717-ex-dial.zip",
+      "localSize": 3197246,
+      "textFileCount": 2,
+      "textFiles": [
+        "FAC.LOG",
+        "PW.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "FAC.LOG has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-0718-excell-2-hell": {
+      "programId": "prog-0718-excell-2-hell",
+      "programName": "Excell 2 Hell",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0718-excell-2-hell.zip",
+      "localSize": 4868954,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for All-in-one prog suite, Fader / text styler, Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-0719-excollectbeta": {
+      "programId": "prog-0719-excollectbeta",
+      "programName": "eXcoLLectBeta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0719-excollectbeta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0720-exitfnl": {
+      "programId": "prog-0720-exitfnl",
+      "programName": "exitfnl",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0720-exitfnl.zip",
+      "localSize": 605298,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0721-exodus-owner-1-0": {
+      "programId": "prog-0721-exodus-owner-1-0",
+      "programName": "Exodus Owner 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0721-exodus-owner-1-0.zip",
+      "localSize": 1526370,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0722-exodus2": {
+      "programId": "prog-0722-exodus2",
+      "programName": "exodus2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0722-exodus2.zip",
+      "localSize": 4023296,
+      "textFileCount": 1,
+      "textFiles": [
+        "Exodus Read First.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "Scroller / macro",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 2.5",
+        "AOL 3.0",
+        "AOL 95",
+        "AOL 30"
+      ],
+      "notes": [
+        "Exodus Read First.txt mentions AOL 2.5, AOL 3.0, AOL 95, AOL 30.",
+        "Exodus Read First.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Room buster, Punter / booter, Scroller / macro."
+      ]
+    },
+    "prog-0723-exorci1": {
+      "programId": "prog-0723-exorci1",
+      "programName": "Exorci~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0723-exorci1.zip",
+      "localSize": 1772498,
+      "textFileCount": 2,
+      "textFiles": [
+        "Fac.log",
+        "PW.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Fac.log has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-0724-exotic": {
+      "programId": "prog-0724-exotic",
+      "programName": "EXOTIC",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0724-exotic.zip",
+      "localSize": 100921,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0725-exp2setupec": {
+      "programId": "prog-0725-exp2setupec",
+      "programName": "exp2setupec",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0725-exp2setupec.zip",
+      "localSize": 645796,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0726-exp2setupfc": {
+      "programId": "prog-0726-exp2setupfc",
+      "programName": "exp2setupfc",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0726-exp2setupfc.zip",
+      "localSize": 2189037,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0727-exp2setuprc": {
+      "programId": "prog-0727-exp2setuprc",
+      "programName": "exp2setuprc",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0727-exp2setuprc.zip",
+      "localSize": 2389302,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0728-expertlinker": {
+      "programId": "prog-0728-expertlinker",
+      "programName": "expertlinker",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0728-expertlinker.zip",
+      "localSize": 481992,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0729-explict": {
+      "programId": "prog-0729-explict",
+      "programName": "explict",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0729-explict.zip",
+      "localSize": 5938368,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0730-explosive": {
+      "programId": "prog-0730-explosive",
+      "programName": "explosive",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0730-explosive.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0731-expressions-linker": {
+      "programId": "prog-0731-expressions-linker",
+      "programName": "Expressions Linker",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0731-expressions-linker.zip",
+      "localSize": 1459351,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0732-eye": {
+      "programId": "prog-0732-eye",
+      "programName": "Eye",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0732-eye.zip",
+      "localSize": 9345911,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0733-ez-final": {
+      "programId": "prog-0733-ez-final",
+      "programName": "Ez-FINAL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0733-ez-final.zip",
+      "localSize": 1671652,
+      "textFileCount": 1,
+      "textFiles": [
+        "important(read).txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "important(read).txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0734-ez-rape-4-0": {
+      "programId": "prog-0734-ez-rape-4-0",
+      "programName": "Ez-rape 4.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0734-ez-rape-4-0.zip",
+      "localSize": 1470300,
+      "textFileCount": 1,
+      "textFiles": [
+        "info.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Pott",
+          "sourceFile": "info.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "Pott",
+      "purposeSignals": [
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4",
+        "AOL 5"
+      ],
+      "notes": [
+        "info.txt includes archive-text author clue(s): Pott.",
+        "info.txt mentions AOL 4, AOL 5.",
+        "info.txt has vocabulary for Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0735-ez-rape-4-0": {
+      "programId": "prog-0735-ez-rape-4-0",
+      "programName": "Ez-rape 4.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0735-ez-rape-4-0.zip",
+      "localSize": 1157476,
+      "textFileCount": 1,
+      "textFiles": [
+        "important(read).txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "important(read).txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0736-ezlink": {
+      "programId": "prog-0736-ezlink",
+      "programName": "EZLink°",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0736-ezlink.zip",
+      "localSize": 831644,
+      "textFileCount": 1,
+      "textFiles": [
+        "R e a d M e !.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4",
+        "AOL 5"
+      ],
+      "notes": [
+        "R e a d M e !.txt mentions AOL 4, AOL 5.",
+        "R e a d M e !.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0737-eite-2o": {
+      "programId": "prog-0737-eite-2o",
+      "programName": "é£ite ²·º",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0737-eite-2o.zip",
+      "localSize": 1403028,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0738-ex0r-p3-setup": {
+      "programId": "prog-0738-ex0r-p3-setup",
+      "programName": "ëx0r.p3 sëtüp",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0738-ex0r-p3-setup.zip",
+      "localSize": 1472667,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0739-f2": {
+      "programId": "prog-0739-f2",
+      "programName": "f2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0739-f2.zip",
+      "localSize": 3032578,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0740-factorsfade": {
+      "programId": "prog-0740-factorsfade",
+      "programName": "factorsfade",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0740-factorsfade.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0741-fada": {
+      "programId": "prog-0741-fada",
+      "programName": "Fada",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0741-fada.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0742-fade": {
+      "programId": "prog-0742-fade",
+      "programName": "FADE",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0742-fade.zip",
+      "localSize": 784006,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0743-fade": {
+      "programId": "prog-0743-fade",
+      "programName": "Fade",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0743-fade.zip",
+      "localSize": 1545981,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0744-fadedat": {
+      "programId": "prog-0744-fadedat",
+      "programName": "fadedat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0744-fadedat.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0745-fadeda1": {
+      "programId": "prog-0745-fadeda1",
+      "programName": "Fadeda~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0745-fadeda1.zip",
+      "localSize": 1582818,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0746-fader2": {
+      "programId": "prog-0746-fader2",
+      "programName": "FADER2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0746-fader2.zip",
+      "localSize": 887349,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0747-faim-xp": {
+      "programId": "prog-0747-faim-xp",
+      "programName": "FAIM XP",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0747-faim-xp.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0748-fakeprogee": {
+      "programId": "prog-0748-fakeprogee",
+      "programName": "fakeprogee",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0748-fakeprogee.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0749-fantasy-scroller": {
+      "programId": "prog-0749-fantasy-scroller",
+      "programName": "Fantasy Scroller",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0749-fantasy-scroller.zip",
+      "localSize": 743316,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0750-fast-proxy-by-pd-setup": {
+      "programId": "prog-0750-fast-proxy-by-pd-setup",
+      "programName": "Fast Proxy By ¯p±d÷ setup",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0750-fast-proxy-by-pd-setup.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0751-fast-proxy-by-pd-setup": {
+      "programId": "prog-0751-fast-proxy-by-pd-setup",
+      "programName": "Fast Proxy¦ By _p±d÷ setup",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/0751-fast-proxy-by-pd-setup.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0752-fast4": {
+      "programId": "prog-0752-fast4",
+      "programName": "fast4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0752-fast4.zip",
+      "localSize": 1525557,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0753-fatal": {
+      "programId": "prog-0753-fatal",
+      "programName": "fatal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0753-fatal.zip",
+      "localSize": 2112143,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0754-fatal": {
+      "programId": "prog-0754-fatal",
+      "programName": "FATAL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0754-fatal.zip",
+      "localSize": 527288,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0755-fatal": {
+      "programId": "prog-0755-fatal",
+      "programName": "fatal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0755-fatal.zip",
+      "localSize": 1310029,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0756-fatal-toolz": {
+      "programId": "prog-0756-fatal-toolz",
+      "programName": "Fatal Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0756-fatal-toolz.zip",
+      "localSize": 1196361,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0757-fatal2000": {
+      "programId": "prog-0757-fatal2000",
+      "programName": "Fatal2000",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0757-fatal2000.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0758-fatcrap": {
+      "programId": "prog-0758-fatcrap",
+      "programName": "fatcrap",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0758-fatcrap.zip",
+      "localSize": 2818242,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0759-fate0": {
+      "programId": "prog-0759-fate0",
+      "programName": "fate0",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0759-fate0.zip",
+      "localSize": 2924824,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0760-faterror": {
+      "programId": "prog-0760-faterror",
+      "programName": "faterror",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0760-faterror.zip",
+      "localSize": 744760,
+      "textFileCount": 1,
+      "textFiles": [
+        "MadJester - Must Read.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0761-fatex42": {
+      "programId": "prog-0761-fatex42",
+      "programName": "fatex42",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0761-fatex42.zip",
+      "localSize": 1631364,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0762-fatexs1": {
+      "programId": "prog-0762-fatexs1",
+      "programName": "fatexs1",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0762-fatexs1.zip",
+      "localSize": 386958,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0763-fear-toolz": {
+      "programId": "prog-0763-fear-toolz",
+      "programName": "Fear Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0763-fear-toolz.zip",
+      "localSize": 1443633,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0764-fear-x": {
+      "programId": "prog-0764-fear-x",
+      "programName": "Fear X",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0764-fear-x.zip",
+      "localSize": 8883541,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0765-fedex": {
+      "programId": "prog-0765-fedex",
+      "programName": "FedEx",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0765-fedex.zip",
+      "localSize": 789722,
+      "textFileCount": 2,
+      "textFiles": [
+        "FedExReadMe.txt",
+        "FedEx.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Punter / booter",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 95",
+        "AOL 2.5",
+        "AOL 3.0",
+        "AOL 4.5"
+      ],
+      "notes": [
+        "FedExReadMe.txt mentions AOL 4.0, AOL 95, AOL 2.5, AOL 3.0, AOL 4.5.",
+        "FedExReadMe.txt has vocabulary for Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility, Source / developer file.",
+        "FedEx.ini has vocabulary for Punter / booter, Scroller / macro, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0766-fierce-online": {
+      "programId": "prog-0766-fierce-online",
+      "programName": "Fierce Online",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0766-fierce-online.zip",
+      "localSize": 389176,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0767-fifthelement": {
+      "programId": "prog-0767-fifthelement",
+      "programName": "FifthElement",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0767-fifthelement.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0768-filesafe": {
+      "programId": "prog-0768-filesafe",
+      "programName": "filesafe",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0768-filesafe.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0769-filter-make": {
+      "programId": "prog-0769-filter-make",
+      "programName": "Filter Make",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0769-filter-make.zip",
+      "localSize": 9110914,
+      "textFileCount": 3,
+      "textFiles": [
+        "RASFull/output/chat.txt",
+        "RASFull/skins/default/skin.ini",
+        "RASFull/skins/default/Read Me!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "RASFull/output/chat.txt has vocabulary for Account / TOS utility, Source / developer file, AOL/AIM chat utility.",
+        "RASFull/skins/default/Read Me!.txt has vocabulary for Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0770-final-destination": {
+      "programId": "prog-0770-final-destination",
+      "programName": "Final Destination",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0770-final-destination.zip",
+      "localSize": 3103484,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0771-finalresults": {
+      "programId": "prog-0771-finalresults",
+      "programName": "Finalresults",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0771-finalresults.zip",
+      "localSize": 811922,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0772-finaltech": {
+      "programId": "prog-0772-finaltech",
+      "programName": "finaltech",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/0772-finaltech.zip",
+      "localSize": 2169663,
+      "textFileCount": 2,
+      "textFiles": [
+        "ReadMe.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for All-in-one prog suite, Account / TOS utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0773-finellxer1": {
+      "programId": "prog-0773-finellxer1",
+      "programName": "finellxer1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0773-finellxer1.zip",
+      "localSize": 1300127,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0774-finker-linker": {
+      "programId": "prog-0774-finker-linker",
+      "programName": "Finkêr Linkêr",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0774-finker-linker.zip",
+      "localSize": 1364954,
+      "textFileCount": 1,
+      "textFiles": [
+        "Fink�r Link�r Inf0.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Fink�r Link�r Inf0.txt has vocabulary for Linker / chat linker, Source / developer file."
+      ]
+    },
+    "prog-0775-fire": {
+      "programId": "prog-0775-fire",
+      "programName": "fire",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0775-fire.zip",
+      "localSize": 899458,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0776-fireemblem": {
+      "programId": "prog-0776-fireemblem",
+      "programName": "FireEmblem",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0776-fireemblem.zip",
+      "localSize": 541102,
+      "textFileCount": 2,
+      "textFiles": [
+        "ST4UNST.LOG",
+        "Options Read!!!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ST4UNST.LOG has vocabulary for Source / developer file.",
+        "Options Read!!!!!!.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0777-firetoolz-setup": {
+      "programId": "prog-0777-firetoolz-setup",
+      "programName": "firetoolz setup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0777-firetoolz-setup.zip",
+      "localSize": 986179,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0778-fl0ppity-to0lz": {
+      "programId": "prog-0778-fl0ppity-to0lz",
+      "programName": "Fl0pPiTy To0Lz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0778-fl0ppity-to0lz.zip",
+      "localSize": 1931241,
+      "textFileCount": 2,
+      "textFiles": [
+        "ReadThisBe4using.txt",
+        "DaWg.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0779-flame-scrolla": {
+      "programId": "prog-0779-flame-scrolla",
+      "programName": "Flame scrolla",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0779-flame-scrolla.zip",
+      "localSize": 2142882,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0780-flashole-v2-0": {
+      "programId": "prog-0780-flashole-v2-0",
+      "programName": "flashole v2.0",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0780-flashole-v2-0.zip",
+      "localSize": 2383841,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0781-flaws-pws-hexer": {
+      "programId": "prog-0781-flaws-pws-hexer",
+      "programName": "Flaw's PWS Hexer",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0781-flaws-pws-hexer.zip",
+      "localSize": 1428889,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0782-flem": {
+      "programId": "prog-0782-flem",
+      "programName": "flem╣╖║",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0782-flem.zip",
+      "localSize": 2249339,
+      "textFileCount": 2,
+      "textFiles": [
+        "flem.ini",
+        "Desktop.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "flem.ini has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-0783-flood": {
+      "programId": "prog-0783-flood",
+      "programName": "flood",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0783-flood.zip",
+      "localSize": 1404353,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0784-flowidle": {
+      "programId": "prog-0784-flowidle",
+      "programName": "flowidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0784-flowidle.zip",
+      "localSize": 1396795,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0785-fnlpc40": {
+      "programId": "prog-0785-fnlpc40",
+      "programName": "FNLPC40",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0785-fnlpc40.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0786-forever-idling": {
+      "programId": "prog-0786-forever-idling",
+      "programName": "Forever Idling",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0786-forever-idling.zip",
+      "localSize": 2645726,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0787-forsaken": {
+      "programId": "prog-0787-forsaken",
+      "programName": "FoRsAkEn",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0787-forsaken.zip",
+      "localSize": 873060,
+      "textFileCount": 1,
+      "textFiles": [
+        "inf0!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0788-frag-1": {
+      "programId": "prog-0788-frag-1",
+      "programName": "Frag 1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0788-frag-1.zip",
+      "localSize": 32093,
+      "textFileCount": 2,
+      "textFiles": [
+        "ReadMe.txt",
+        "Other Info.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0789-frag-link-sender-2-0": {
+      "programId": "prog-0789-frag-link-sender-2-0",
+      "programName": "Frag Link Sender 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0789-frag-link-sender-2-0.zip",
+      "localSize": 853090,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0790-freeprogz-fader": {
+      "programId": "prog-0790-freeprogz-fader",
+      "programName": "FreeProgz Fader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0790-freeprogz-fader.zip",
+      "localSize": 992563,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0791-freezev1": {
+      "programId": "prog-0791-freezev1",
+      "programName": "Freezev1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0791-freezev1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0792-freon": {
+      "programId": "prog-0792-freon",
+      "programName": "FREON",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0792-freon.zip",
+      "localSize": 227462,
+      "textFileCount": 1,
+      "textFiles": [
+        "ST5UNST.LOG"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ST5UNST.LOG has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0793-froz3n-h3ll": {
+      "programId": "prog-0793-froz3n-h3ll",
+      "programName": "froz3n h3ll",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0793-froz3n-h3ll.zip",
+      "localSize": 4244470,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0794-fssetup": {
+      "programId": "prog-0794-fssetup",
+      "programName": "fssetup",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0794-fssetup.zip",
+      "localSize": 418735,
+      "textFileCount": 2,
+      "textFiles": [
+        "README!.txt",
+        "fsinstall.dat"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "fsinstall.dat has vocabulary for All-in-one prog suite, Punter / booter, C-Com / command list, Scroller / macro, Account / TOS utility."
+      ]
+    },
+    "prog-0795-ft2": {
+      "programId": "prog-0795-ft2",
+      "programName": "ft2",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0795-ft2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0796-fu3": {
+      "programId": "prog-0796-fu3",
+      "programName": "Fu3",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0796-fu3.zip",
+      "localSize": 2310701,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Idler / AFK bot, Scroller / macro, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0797-fuct-idle-by-losi": {
+      "programId": "prog-0797-fuct-idle-by-losi",
+      "programName": "fuct idle╣ by losi",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0797-fuct-idle-by-losi.zip",
+      "localSize": 1668064,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0798-fugly": {
+      "programId": "prog-0798-fugly",
+      "programName": "FUGLY",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0798-fugly.zip",
+      "localSize": 2719022,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0799-fuji-coms": {
+      "programId": "prog-0799-fuji-coms",
+      "programName": "fuji coms¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0799-fuji-coms.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0800-funky-munkee-chat-phader": {
+      "programId": "prog-0800-funky-munkee-chat-phader",
+      "programName": "funky munkee chat phader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0800-funky-munkee-chat-phader.zip",
+      "localSize": 1403055,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0801-fuqed-cchat1-3": {
+      "programId": "prog-0801-fuqed-cchat1-3",
+      "programName": "fuqed cchat1.3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0801-fuqed-cchat1-3.zip",
+      "localSize": 847116,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0802-fuse-linker": {
+      "programId": "prog-0802-fuse-linker",
+      "programName": "fuse linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0802-fuse-linker.zip",
+      "localSize": 1698492,
+      "textFileCount": 1,
+      "textFiles": [
+        "fuse.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "fuse.txt has vocabulary for Linker / chat linker."
+      ]
+    },
+    "prog-0803-fusion": {
+      "programId": "prog-0803-fusion",
+      "programName": "fusion",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0803-fusion.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0804-fusion-spammer": {
+      "programId": "prog-0804-fusion-spammer",
+      "programName": "Fusion Spammer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0804-fusion-spammer.zip",
+      "localSize": 1492704,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0805-fusionidler": {
+      "programId": "prog-0805-fusionidler",
+      "programName": "FusionIdler",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0805-fusionidler.zip",
+      "localSize": 362499,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0806-fusionx": {
+      "programId": "prog-0806-fusionx",
+      "programName": "fusionx",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0806-fusionx.zip",
+      "localSize": 2034519,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0807-futur-comz": {
+      "programId": "prog-0807-futur-comz",
+      "programName": "Futur Comz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0807-futur-comz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0808-fya": {
+      "programId": "prog-0808-fya",
+      "programName": "fya",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0808-fya.zip",
+      "localSize": 1145650,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0809-fznsoulsv1": {
+      "programId": "prog-0809-fznsoulsv1",
+      "programName": "fznsoulsv1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0809-fznsoulsv1.zip",
+      "localSize": 4908232,
+      "textFileCount": 5,
+      "textFiles": [
+        "homer.MCR",
+        "guestpw.txt",
+        "yourmom.txt",
+        "proglang.txt",
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "AOL/AIM chat utility",
+        "Punter / booter",
+        "C-Com / command list",
+        "Screen-name utility",
+        "Source / developer file",
+        "All-in-one prog suite",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "yourmom.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility.",
+        "proglang.txt has vocabulary for Punter / booter, C-Com / command list, Screen-name utility, Source / developer file, AOL/AIM chat utility.",
+        "readme.txt has vocabulary for All-in-one prog suite, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0810-fm-sr-f": {
+      "programId": "prog-0810-fm-sr-f",
+      "programName": "F╠πmδ Sτr≤╠═π [Fφ±σ╬]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0810-fm-sr-f.zip",
+      "localSize": 2087262,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0811-g0ne": {
+      "programId": "prog-0811-g0ne",
+      "programName": "g0ne",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0811-g0ne.zip",
+      "localSize": 1420390,
+      "textFileCount": 1,
+      "textFiles": [
+        "g0ne.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "g0ne.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0812-gadget": {
+      "programId": "prog-0812-gadget",
+      "programName": "Gadget",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0812-gadget.zip",
+      "localSize": 4638774,
+      "textFileCount": 2,
+      "textFiles": [
+        "solar/message from HyPeR.txt",
+        "READ THIS NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ THIS NOW!.txt has vocabulary for All-in-one prog suite.",
+        "READ THIS NOW!.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0813-gag-da-fuck": {
+      "programId": "prog-0813-gag-da-fuck",
+      "programName": "GaG da Fuck",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0813-gag-da-fuck.zip",
+      "localSize": 1467476,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0814-gagematec": {
+      "programId": "prog-0814-gagematec",
+      "programName": "gagematec",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0814-gagematec.zip",
+      "localSize": 2417521,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0815-gagematec": {
+      "programId": "prog-0815-gagematec",
+      "programName": "gagematec",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0815-gagematec.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0816-gagematec2": {
+      "programId": "prog-0816-gagematec2",
+      "programName": "gagematec²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0816-gagematec2.zip",
+      "localSize": 2589771,
+      "textFileCount": 1,
+      "textFiles": [
+        "gagematec�/need help opening.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "gagematec�/need help opening.txt has vocabulary for Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0817-gagst0rm2": {
+      "programId": "prog-0817-gagst0rm2",
+      "programName": "GagSt0rm²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0817-gagst0rm2.zip",
+      "localSize": 2308857,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "read me.txt mentions AOL 9.0.",
+        "read me.txt has vocabulary for Idler / AFK bot, C-Com / command list, Account / TOS utility, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0818-gagstic": {
+      "programId": "prog-0818-gagstic",
+      "programName": "gagstic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0818-gagstic.zip",
+      "localSize": 1785129,
+      "textFileCount": 1,
+      "textFiles": [
+        "Settings.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Settings.ini has vocabulary for Fader / text styler, Scroller / macro."
+      ]
+    },
+    "prog-0819-gaimpublic": {
+      "programId": "prog-0819-gaimpublic",
+      "programName": "gAIMpublic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0819-gaimpublic.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0820-gangstaprogsappsender": {
+      "programId": "prog-0820-gangstaprogsappsender",
+      "programName": "GangstaProgsAppsender",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0820-gangstaprogsappsender.zip",
+      "localSize": 2408155,
+      "textFileCount": 1,
+      "textFiles": [
+        "Readme.doc"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Readme.doc has vocabulary for Fader / text styler, Source / developer file."
+      ]
+    },
+    "prog-0821-gater-fader2-0": {
+      "programId": "prog-0821-gater-fader2-0",
+      "programName": "Gater Fader2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0821-gater-fader2-0.zip",
+      "localSize": 2477592,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0822-gay-program-by-temper": {
+      "programId": "prog-0822-gay-program-by-temper",
+      "programName": "Gay Program By TeMpEr",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0822-gay-program-by-temper.zip",
+      "localSize": 1517396,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me!!!.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "TeMpEr",
+          "sourceFile": "Read Me!!!.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "TeMpEr",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 5.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Read Me!!!.txt includes archive-text author clue(s): TeMpEr.",
+        "Read Me!!!.txt mentions AOL 5.0, AOL 9.0."
+      ]
+    },
+    "prog-0823-gay-program-the-rebirth": {
+      "programId": "prog-0823-gay-program-the-rebirth",
+      "programName": "GaY ProGram The Rebirth",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0823-gay-program-the-rebirth.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0824-gay-program-ytempery-v-s-ldreamer": {
+      "programId": "prog-0824-gay-program-ytempery-v-s-ldreamer",
+      "programName": "GaY PrograM YTempeRY V.s LDreameR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0824-gay-program-ytempery-v-s-ldreamer.zip",
+      "localSize": 5193814,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0825-gay-scroll": {
+      "programId": "prog-0825-gay-scroll",
+      "programName": "Gay Scroll",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0825-gay-scroll.zip",
+      "localSize": 1394460,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0826-gay-v-1-by-romeo": {
+      "programId": "prog-0826-gay-v-1-by-romeo",
+      "programName": "gay v.1 by - romeo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0826-gay-v-1-by-romeo.zip",
+      "localSize": 1505435,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0827-gay-v-2-by-romeo": {
+      "programId": "prog-0827-gay-v-2-by-romeo",
+      "programName": "gay v.2 by romeo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0827-gay-v-2-by-romeo.zip",
+      "localSize": 1626974,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0828-gay-v-3": {
+      "programId": "prog-0828-gay-v-3",
+      "programName": "gay v.3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0828-gay-v-3.zip",
+      "localSize": 1485767,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0829-gay-v-4-by-team-alien": {
+      "programId": "prog-0829-gay-v-4-by-team-alien",
+      "programName": "gay v.4 by Team Alien",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0829-gay-v-4-by-team-alien.zip",
+      "localSize": 1496736,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0830-gayol7": {
+      "programId": "prog-0830-gayol7",
+      "programName": "Gayol7",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0830-gayol7.zip",
+      "localSize": 2784191,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0831-gayscroll": {
+      "programId": "prog-0831-gayscroll",
+      "programName": "gayscroll",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0831-gayscroll.zip",
+      "localSize": 21966,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0832-generation-x": {
+      "programId": "prog-0832-generation-x",
+      "programName": "Generation X",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0832-generation-x.zip",
+      "localSize": 2999447,
+      "textFileCount": 1,
+      "textFiles": [
+        "Generation X/Description.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Generation X/Description.txt mentions AOL 9.0.",
+        "Generation X/Description.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0833-genocide": {
+      "programId": "prog-0833-genocide",
+      "programName": "genocide",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0833-genocide.zip",
+      "localSize": 2833204,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0834-genocide-remix": {
+      "programId": "prog-0834-genocide-remix",
+      "programName": "genocide.remix",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0834-genocide-remix.zip",
+      "localSize": 2940274,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0835-gespam": {
+      "programId": "prog-0835-gespam",
+      "programName": "gespam",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0835-gespam.zip",
+      "localSize": 2470380,
+      "textFileCount": 2,
+      "textFiles": [
+        "coal mine.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0836-gestapo": {
+      "programId": "prog-0836-gestapo",
+      "programName": "Gestapo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0836-gestapo.zip",
+      "localSize": 588674,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0837-get-in-4-5": {
+      "programId": "prog-0837-get-in-4-5",
+      "programName": "get-in 4.5",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0837-get-in-4-5.zip",
+      "localSize": 1713388,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0838-get-in-deluxe": {
+      "programId": "prog-0838-get-in-deluxe",
+      "programName": "GET-IN Deluxe",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0838-get-in-deluxe.zip",
+      "localSize": 1455167,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0839-ghetto-idle": {
+      "programId": "prog-0839-ghetto-idle",
+      "programName": "GHeTTo idle╣╖╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0839-ghetto-idle.zip",
+      "localSize": 1809984,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0840-ghost-buster": {
+      "programId": "prog-0840-ghost-buster",
+      "programName": "ghost buster",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0840-ghost-buster.zip",
+      "localSize": 2049778,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0841-ginx-untamed-idler": {
+      "programId": "prog-0841-ginx-untamed-idler",
+      "programName": "GinX ùñtàméd Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0841-ginx-untamed-idler.zip",
+      "localSize": 1551146,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0842-global": {
+      "programId": "prog-0842-global",
+      "programName": "Global",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0842-global.zip",
+      "localSize": 2161853,
+      "textFileCount": 2,
+      "textFiles": [
+        "progworld.html",
+        "Progworld.nfo"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Progworld.nfo has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0843-globallinka": {
+      "programId": "prog-0843-globallinka",
+      "programName": "GlobalLinka",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0843-globallinka.zip",
+      "localSize": 923089,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0844-glum2": {
+      "programId": "prog-0844-glum2",
+      "programName": "glum²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0844-glum2.zip",
+      "localSize": 2575945,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me first.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Linker / chat linker",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me first.txt has vocabulary for Idler / AFK bot, Scroller / macro, Linker / chat linker, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0845-gme1": {
+      "programId": "prog-0845-gme1",
+      "programName": "gme1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0845-gme1.zip",
+      "localSize": 373287,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0846-gmmb12": {
+      "programId": "prog-0846-gmmb12",
+      "programName": "gmmb12",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0846-gmmb12.zip",
+      "localSize": 585919,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0847-go-fetch-remix": {
+      "programId": "prog-0847-go-fetch-remix",
+      "programName": "Go Fetch Remix",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0847-go-fetch-remix.zip",
+      "localSize": 1481743,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0848-godpnt": {
+      "programId": "prog-0848-godpnt",
+      "programName": "godpnt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0848-godpnt.zip",
+      "localSize": 3120559,
+      "textFileCount": 1,
+      "textFiles": [
+        "irunin.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 30"
+      ],
+      "notes": [
+        "irunin.ini mentions AOL 30.",
+        "irunin.ini has vocabulary for Punter / booter, Media / file utility."
+      ]
+    },
+    "prog-0849-godzilla": {
+      "programId": "prog-0849-godzilla",
+      "programName": "godzilla",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0849-godzilla.zip",
+      "localSize": 4993778,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0850-gofetch": {
+      "programId": "prog-0850-gofetch",
+      "programName": "gofetch",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/0850-gofetch.zip",
+      "localSize": 1394232,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0851-gold": {
+      "programId": "prog-0851-gold",
+      "programName": "Gold",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0851-gold.zip",
+      "localSize": 2856806,
+      "textFileCount": 1,
+      "textFiles": [
+        "ST5UNST.LOG"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ST5UNST.LOG has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0852-gold": {
+      "programId": "prog-0852-gold",
+      "programName": "GOLD",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0852-gold.zip",
+      "localSize": 1408799,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0853-golden-cloak": {
+      "programId": "prog-0853-golden-cloak",
+      "programName": "Golden Cloak",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0853-golden-cloak.zip",
+      "localSize": 1515162,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0854-good-krymes": {
+      "programId": "prog-0854-good-krymes",
+      "programName": "good krymes",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0854-good-krymes.zip",
+      "localSize": 2194681,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0855-goodbye": {
+      "programId": "prog-0855-goodbye",
+      "programName": "Goodbye",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0855-goodbye.zip",
+      "localSize": 1470441,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0856-googlechat": {
+      "programId": "prog-0856-googlechat",
+      "programName": "GoogleChat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0856-googlechat.zip",
+      "localSize": 1539109,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0857-got-bo0t": {
+      "programId": "prog-0857-got-bo0t",
+      "programName": "GOT_BO0T",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0857-got-bo0t.zip",
+      "localSize": 11349,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0858-gotareset": {
+      "programId": "prog-0858-gotareset",
+      "programName": "GotaReset",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0858-gotareset.zip",
+      "localSize": 2778380,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0859-gotcha": {
+      "programId": "prog-0859-gotcha",
+      "programName": "gotcha",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0859-gotcha.zip",
+      "localSize": 1634169,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0860-gothic": {
+      "programId": "prog-0860-gothic",
+      "programName": "GOTHIC",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0860-gothic.zip",
+      "localSize": 2082995,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0861-gotochat": {
+      "programId": "prog-0861-gotochat",
+      "programName": "gotochat",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0861-gotochat.zip",
+      "localSize": 1001947,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0862-gpf": {
+      "programId": "prog-0862-gpf",
+      "programName": "Gpf",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0862-gpf.zip",
+      "localSize": 1448625,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0863-grabit": {
+      "programId": "prog-0863-grabit",
+      "programName": "grabit",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0863-grabit.zip",
+      "localSize": 1703744,
+      "textFileCount": 1,
+      "textFiles": [
+        "info.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Forte",
+          "sourceFile": "info.txt",
+          "pattern": "byline"
+        }
+      ],
+      "preferredAuthor": "Forte",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "info.txt includes archive-text author clue(s): Forte.",
+        "info.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0864-grafix": {
+      "programId": "prog-0864-grafix",
+      "programName": "GRAFIX",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0864-grafix.zip",
+      "localSize": 430302,
+      "textFileCount": 2,
+      "textFiles": [
+        "read me.txt",
+        "IMPORTANT!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4"
+      ],
+      "notes": [
+        "read me.txt mentions AOL 4.",
+        "read me.txt has vocabulary for Punter / booter, Media / file utility."
+      ]
+    },
+    "prog-0865-graphi1": {
+      "programId": "prog-0865-graphi1",
+      "programName": "GRAPHI~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0865-graphi1.zip",
+      "localSize": 2109355,
+      "textFileCount": 2,
+      "textFiles": [
+        "MadJester - Must Read.txt",
+        "Ericz Text File.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0866-gravity": {
+      "programId": "prog-0866-gravity",
+      "programName": "Gravity",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0866-gravity.zip",
+      "localSize": 87329,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0867-gravity2": {
+      "programId": "prog-0867-gravity2",
+      "programName": "Gravity2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0867-gravity2.zip",
+      "localSize": 1323765,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0868-great-milenko-resetor": {
+      "programId": "prog-0868-great-milenko-resetor",
+      "programName": "Great Milenko Resetor",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0868-great-milenko-resetor.zip",
+      "localSize": 3891756,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0869-green": {
+      "programId": "prog-0869-green",
+      "programName": "Green",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0869-green.zip",
+      "localSize": 645093,
+      "textFileCount": 1,
+      "textFiles": [
+        "file_id.diz"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Room buster",
+        "C-Com / command list",
+        "Mass mailer / server",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 2.5"
+      ],
+      "notes": [
+        "file_id.diz mentions AOL 2.5.",
+        "file_id.diz has vocabulary for Room buster, C-Com / command list, Mass mailer / server, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0870-greenjello": {
+      "programId": "prog-0870-greenjello",
+      "programName": "Greenjello",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0870-greenjello.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0871-gtas-nauti-tools": {
+      "programId": "prog-0871-gtas-nauti-tools",
+      "programName": "gta's nauti tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0871-gtas-nauti-tools.zip",
+      "localSize": 1809527,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0872-guardian": {
+      "programId": "prog-0872-guardian",
+      "programName": "Guardian",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0872-guardian.zip",
+      "localSize": 2112076,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0873-gundampwc": {
+      "programId": "prog-0873-gundampwc",
+      "programName": "gundam[pwc]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0873-gundampwc.zip",
+      "localSize": 2759152,
+      "textFileCount": 3,
+      "textFiles": [
+        "pwl.txt",
+        "readme.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 123"
+      ],
+      "notes": [
+        "pwl.txt mentions AOL 123.",
+        "pwl.txt has vocabulary for Account / TOS utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0874-guru": {
+      "programId": "prog-0874-guru",
+      "programName": "GuRu",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0874-guru.zip",
+      "localSize": 1493169,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0875-gagster2": {
+      "programId": "prog-0875-gagster2",
+      "programName": "Gàgster²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0875-gagster2.zip",
+      "localSize": 1402379,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0876-hackers-toolz-1-0": {
+      "programId": "prog-0876-hackers-toolz-1-0",
+      "programName": "Hacker's Toolz 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0876-hackers-toolz-1-0.zip",
+      "localSize": 3633640,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadMe.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Jordan",
+          "sourceFile": "ReadMe.txt",
+          "pattern": "from"
+        }
+      ],
+      "preferredAuthor": "Jordan",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7",
+        "AOL 8",
+        "AOL 8.0",
+        "AOL 6.0"
+      ],
+      "notes": [
+        "ReadMe.txt includes archive-text author clue(s): Jordan.",
+        "ReadMe.txt mentions AOL 7, AOL 8, AOL 8.0, AOL 6.0.",
+        "ReadMe.txt has vocabulary for All-in-one prog suite, Source / developer file, AOL/AIM chat utility.",
+        "ReadMe.txt references API Spy by Oogle as supporting tooling; that is not treated as the program author by itself."
+      ]
+    },
+    "prog-0877-haggard-toolz-1-4-0-1": {
+      "programId": "prog-0877-haggard-toolz-1-4-0-1",
+      "programName": "Haggard Toolz 1.4.0.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0877-haggard-toolz-1-4-0-1.zip",
+      "localSize": 1416306,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0878-hakguard": {
+      "programId": "prog-0878-hakguard",
+      "programName": "HAKGUARD",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0878-hakguard.zip",
+      "localSize": 2138615,
+      "textFileCount": 1,
+      "textFiles": [
+        "TOSFILE.INI"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "TOSFILE.INI has vocabulary for Scroller / macro, Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0879-hakkor-ip-stealer": {
+      "programId": "prog-0879-hakkor-ip-stealer",
+      "programName": "hakkor ip stealer",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0879-hakkor-ip-stealer.zip",
+      "localSize": 1992900,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0880-hallucinogenic3": {
+      "programId": "prog-0880-hallucinogenic3",
+      "programName": "hallucinogenic3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0880-hallucinogenic3.zip",
+      "localSize": 4041935,
+      "textFileCount": 2,
+      "textFiles": [
+        "it.ini",
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Linker / chat linker",
+        "Account / TOS utility",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "it.ini has vocabulary for Fader / text styler, Scroller / macro, Linker / chat linker, Account / TOS utility, Media / file utility.",
+        "read me.txt has vocabulary for Fader / text styler."
+      ]
+    },
+    "prog-0881-hammerspam": {
+      "programId": "prog-0881-hammerspam",
+      "programName": "Hammerspam",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0881-hammerspam.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0882-handicap": {
+      "programId": "prog-0882-handicap",
+      "programName": "Handicap",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0882-handicap.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0883-hard-scrolled-b-tigre": {
+      "programId": "prog-0883-hard-scrolled-b-tigre",
+      "programName": "HaRD SCrOLLeD B¥ TiGre",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0883-hard-scrolled-b-tigre.zip",
+      "localSize": 3509869,
+      "textFileCount": 1,
+      "textFiles": [
+        "R��M�.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0884-hardware": {
+      "programId": "prog-0884-hardware",
+      "programName": "Hardware",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0884-hardware.zip",
+      "localSize": 1381199,
+      "textFileCount": 1,
+      "textFiles": [
+        "Commands.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Commands.txt has vocabulary for Idler / AFK bot, C-Com / command list, Account / TOS utility."
+      ]
+    },
+    "prog-0885-havocf1": {
+      "programId": "prog-0885-havocf1",
+      "programName": "HAVOCF~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0885-havocf1.zip",
+      "localSize": 21260,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0886-havok": {
+      "programId": "prog-0886-havok",
+      "programName": "havok",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0886-havok.zip",
+      "localSize": 1889323,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME!.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0887-hax-crackz2": {
+      "programId": "prog-0887-hax-crackz2",
+      "programName": "HaX CrAcKz2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0887-hax-crackz2.zip",
+      "localSize": 1467778,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0888-hax0r3": {
+      "programId": "prog-0888-hax0r3",
+      "programName": "hax0r3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0888-hax0r3.zip",
+      "localSize": 1702811,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0889-haxcrackz3": {
+      "programId": "prog-0889-haxcrackz3",
+      "programName": "HaXCrAcKz3",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0889-haxcrackz3.zip",
+      "localSize": 1467795,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0890-hazy": {
+      "programId": "prog-0890-hazy",
+      "programName": "HAZY",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0890-hazy.zip",
+      "localSize": 1372100,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0891-hbv1": {
+      "programId": "prog-0891-hbv1",
+      "programName": "HBv1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0891-hbv1.zip",
+      "localSize": 1917986,
+      "textFileCount": 1,
+      "textFiles": [
+        "irunin.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0892-heartattack-crack-by-iaozpublicver1": {
+      "programId": "prog-0892-heartattack-crack-by-iaozpublicver1",
+      "programName": "HeartAttack_Crack_By_Iaoz[public]ver1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0892-heartattack-crack-by-iaozpublicver1.zip",
+      "localSize": 8189803,
+      "textFileCount": 3,
+      "textFiles": [
+        "HeartAttackCrack/cracker.ini",
+        "HeartAttackCrack/cracks.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0893-heatspam": {
+      "programId": "prog-0893-heatspam",
+      "programName": "HeatSpam",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0893-heatspam.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0894-heavy-water-final": {
+      "programId": "prog-0894-heavy-water-final",
+      "programName": "heavy water final",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0894-heavy-water-final.zip",
+      "localSize": 6119599,
+      "textFileCount": 1,
+      "textFiles": [
+        "_conflicts/conflict.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 5.0"
+      ],
+      "notes": [
+        "_conflicts/conflict.txt mentions AOL 5.0."
+      ]
+    },
+    "prog-0895-hell-rasier-final": {
+      "programId": "prog-0895-hell-rasier-final",
+      "programName": "HeLL RaSieR FiNaL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0895-hell-rasier-final.zip",
+      "localSize": 1717449,
+      "textFileCount": 1,
+      "textFiles": [
+        "HELL.INI"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 30"
+      ],
+      "notes": [
+        "HELL.INI mentions AOL 30.",
+        "HELL.INI has vocabulary for All-in-one prog suite, Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0896-hell-spitz-1-3final": {
+      "programId": "prog-0896-hell-spitz-1-3final",
+      "programName": "hell spitz 1.3[final]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0896-hell-spitz-1-3final.zip",
+      "localSize": 3418435,
+      "textFileCount": 2,
+      "textFiles": [
+        "hs3readme.txt",
+        "TIPOFDAY.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "C-Com / command list",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "hs3readme.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file.",
+        "TIPOFDAY.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0897-hell-spitz1-2": {
+      "programId": "prog-0897-hell-spitz1-2",
+      "programName": "HeLL sPiTz1.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0897-hell-spitz1-2.zip",
+      "localSize": 2654054,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for C-Com / command list, Source / developer file."
+      ]
+    },
+    "prog-0898-hells-revenge": {
+      "programId": "prog-0898-hells-revenge",
+      "programName": "HeLLs RevenGe",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0898-hells-revenge.zip",
+      "localSize": 3870936,
+      "textFileCount": 1,
+      "textFiles": [
+        "irunin.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0"
+      ],
+      "notes": [
+        "irunin.ini mentions AOL 4.0.",
+        "irunin.ini has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-0899-hellswasteland": {
+      "programId": "prog-0899-hellswasteland",
+      "programName": "HellsWasteland",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0899-hellswasteland.zip",
+      "localSize": 607340,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0900-hellx": {
+      "programId": "prog-0900-hellx",
+      "programName": "HELLX",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0900-hellx.zip",
+      "localSize": 1217612,
+      "textFileCount": 2,
+      "textFiles": [
+        "HELL.INI",
+        "info.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 30"
+      ],
+      "notes": [
+        "HELL.INI mentions AOL 30.",
+        "HELL.INI has vocabulary for Account / TOS utility, AOL/AIM chat utility.",
+        "info.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0901-hi-t3ch": {
+      "programId": "prog-0901-hi-t3ch",
+      "programName": "HI_T3CH",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0901-hi-t3ch.zip",
+      "localSize": 1611711,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-0902-high": {
+      "programId": "prog-0902-high",
+      "programName": "high",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0902-high.zip",
+      "localSize": 809299,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0903-highwaytoprison1": {
+      "programId": "prog-0903-highwaytoprison1",
+      "programName": "HighwayToPrison1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0903-highwaytoprison1.zip",
+      "localSize": 2617839,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0904-hit-man2": {
+      "programId": "prog-0904-hit-man2",
+      "programName": "hit-man2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0904-hit-man2.zip",
+      "localSize": 3028430,
+      "textFileCount": 2,
+      "textFiles": [
+        "!READ ME.txt",
+        "hit-man2 for aol 2.5-5.0/!READ ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0905-hiv1": {
+      "programId": "prog-0905-hiv1",
+      "programName": "Hiv1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0905-hiv1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0906-hobocollect1-02": {
+      "programId": "prog-0906-hobocollect1-02",
+      "programName": "HoBoCollect1.02",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0906-hobocollect1-02.zip",
+      "localSize": 1368301,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0907-hoboidle": {
+      "programId": "prog-0907-hoboidle",
+      "programName": "HoboIdle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0907-hoboidle.zip",
+      "localSize": 856468,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0908-holy": {
+      "programId": "prog-0908-holy",
+      "programName": "HOLY",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/0908-holy.zip",
+      "localSize": 978976,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0909-homo-bugger": {
+      "programId": "prog-0909-homo-bugger",
+      "programName": "homo bugger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0909-homo-bugger.zip",
+      "localSize": 1617072,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0910-hoodlum": {
+      "programId": "prog-0910-hoodlum",
+      "programName": "hoodlum",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0910-hoodlum.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0911-hookshot-roombuster-v3": {
+      "programId": "prog-0911-hookshot-roombuster-v3",
+      "programName": "HookShot RoomBuster v3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0911-hookshot-roombuster-v3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0912-hookshot-roombuster-v3": {
+      "programId": "prog-0912-hookshot-roombuster-v3",
+      "programName": "HookShot RoomBuster v3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0912-hookshot-roombuster-v3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0913-hookshot-roombuster-v3": {
+      "programId": "prog-0913-hookshot-roombuster-v3",
+      "programName": "HookShot RoomBuster v3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0913-hookshot-roombuster-v3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0914-hookshot-roombuster-v4": {
+      "programId": "prog-0914-hookshot-roombuster-v4",
+      "programName": "HookShot RoomBuster v4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0914-hookshot-roombuster-v4.zip",
+      "localSize": 2480909,
+      "textFileCount": 5,
+      "textFiles": [
+        "README!!.txt",
+        "OCX PROBLEMS-READ.txt",
+        "OCXReg.txt",
+        "file_id.diz",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "OCX PROBLEMS-READ.txt has vocabulary for Source / developer file.",
+        "OCXReg.txt has vocabulary for Source / developer file, Media / file utility.",
+        "file_id.diz has vocabulary for Source / developer file.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0915-hookshot-roombuster-v4": {
+      "programId": "prog-0915-hookshot-roombuster-v4",
+      "programName": "HookShot RoomBuster v4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0915-hookshot-roombuster-v4.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0916-hookshot-roombuster-v4": {
+      "programId": "prog-0916-hookshot-roombuster-v4",
+      "programName": "HookShot RoomBuster v4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0916-hookshot-roombuster-v4.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0917-horrific-scroll": {
+      "programId": "prog-0917-horrific-scroll",
+      "programName": "HORRIFIC SCROLL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0917-horrific-scroll.zip",
+      "localSize": 28587,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0918-horrific-scroll-2": {
+      "programId": "prog-0918-horrific-scroll-2",
+      "programName": "Horrific Scroll ²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0918-horrific-scroll-2.zip",
+      "localSize": 29316,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0919-horrific-scroll": {
+      "programId": "prog-0919-horrific-scroll",
+      "programName": "horrific scroll ╣╖╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0919-horrific-scroll.zip",
+      "localSize": 30122,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0920-hpbeta1": {
+      "programId": "prog-0920-hpbeta1",
+      "programName": "hpbeta1",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0920-hpbeta1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0921-hphader": {
+      "programId": "prog-0921-hphader",
+      "programName": "HPhader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0921-hphader.zip",
+      "localSize": 981082,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0922-html-grabber": {
+      "programId": "prog-0922-html-grabber",
+      "programName": "html grabber",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0922-html-grabber.zip",
+      "localSize": 2146813,
+      "textFileCount": 2,
+      "textFiles": [
+        "Read.txt",
+        "Help.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-0923-html-thief": {
+      "programId": "prog-0923-html-thief",
+      "programName": "HTML Thief",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0923-html-thief.zip",
+      "localSize": 1709393,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0924-htmledit": {
+      "programId": "prog-0924-htmledit",
+      "programName": "HTMLEDIT",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0924-htmledit.zip",
+      "localSize": 1507645,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0925-htmlfade": {
+      "programId": "prog-0925-htmlfade",
+      "programName": "htmlfade",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0925-htmlfade.zip",
+      "localSize": 6938,
+      "textFileCount": 2,
+      "textFiles": [
+        "readme.txt",
+        "READ NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for All-in-one prog suite.",
+        "READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0926-hurricane-mp3": {
+      "programId": "prog-0926-hurricane-mp3",
+      "programName": "hurricane mp3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0926-hurricane-mp3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0927-hush": {
+      "programId": "prog-0927-hush",
+      "programName": "hush",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0927-hush.zip",
+      "localSize": 2032307,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0928-hush-ccom": {
+      "programId": "prog-0928-hush-ccom",
+      "programName": "hush ccom",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0928-hush-ccom.zip",
+      "localSize": 2368817,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0929-hybrid-mp3-playah": {
+      "programId": "prog-0929-hybrid-mp3-playah",
+      "programName": "hybriD mp3 playah",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0929-hybrid-mp3-playah.zip",
+      "localSize": 3452360,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0930-hydro": {
+      "programId": "prog-0930-hydro",
+      "programName": "hydro",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0930-hydro.zip",
+      "localSize": 709133,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0931-hydrop": {
+      "programId": "prog-0931-hydrop",
+      "programName": "hydrop",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0931-hydrop.zip",
+      "localSize": 3099984,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0932-hyper-linker": {
+      "programId": "prog-0932-hyper-linker",
+      "programName": "Hyper Linker ¦",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0932-hyper-linker.zip",
+      "localSize": 541679,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0933-hypno-agger": {
+      "programId": "prog-0933-hypno-agger",
+      "programName": "hypno-£àGGéR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0933-hypno-agger.zip",
+      "localSize": 1474482,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0934-hyper-linker-2": {
+      "programId": "prog-0934-hyper-linker-2",
+      "programName": "Hypêr Línkêr ²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0934-hyper-linker-2.zip",
+      "localSize": 1539967,
+      "textFileCount": 2,
+      "textFiles": [
+        "Read-Me.txt",
+        "HyperLinker2.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Linker / chat linker",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0",
+        "AOL 6.0"
+      ],
+      "notes": [
+        "Read-Me.txt mentions AOL 4.0, AOL 5.0, AOL 6.0.",
+        "Read-Me.txt has vocabulary for Fader / text styler, Scroller / macro, Linker / chat linker, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0935-hysteria": {
+      "programId": "prog-0935-hysteria",
+      "programName": "HYSTERIA",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0935-hysteria.zip",
+      "localSize": 2130274,
+      "textFileCount": 2,
+      "textFiles": [
+        "liquidREAD.txt",
+        "READ NOW.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "liquidREAD.txt has vocabulary for Account / TOS utility, Media / file utility, AOL/AIM chat utility.",
+        "READ NOW.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-0936-hi-dice": {
+      "programId": "prog-0936-hi-dice",
+      "programName": "hî dîcE",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0936-hi-dice.zip",
+      "localSize": 25091,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0937-hoochy-linker": {
+      "programId": "prog-0937-hoochy-linker",
+      "programName": "Hóòchy Linkèr",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0937-hoochy-linker.zip",
+      "localSize": 774156,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0938-huu-th": {
+      "programId": "prog-0938-huu-th",
+      "programName": "HΘúú ≡╤ Θ├«TH",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0938-huu-th.zip",
+      "localSize": 23103,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0939-i-can-scan-by-jake": {
+      "programId": "prog-0939-i-can-scan-by-jake",
+      "programName": "i can scan by jake",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0939-i-can-scan-by-jake.zip",
+      "localSize": 2720723,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt",
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0940-i-cant-idle": {
+      "programId": "prog-0940-i-cant-idle",
+      "programName": "i can't idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0940-i-cant-idle.zip",
+      "localSize": 759585,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0941-i-v21": {
+      "programId": "prog-0941-i-v21",
+      "programName": "I V²~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0941-i-v21.zip",
+      "localSize": 53249,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0942-ill-brb": {
+      "programId": "prog-0942-ill-brb",
+      "programName": "I'll brb",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0942-ill-brb.zip",
+      "localSize": 754750,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0943-ias2-1": {
+      "programId": "prog-0943-ias2-1",
+      "programName": "ias2.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0943-ias2-1.zip",
+      "localSize": 2650361,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "bowzer",
+          "sourceFile": "readme.txt",
+          "pattern": "author"
+        }
+      ],
+      "preferredAuthor": "bowzer",
+      "purposeSignals": [
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4",
+        "AOL 5",
+        "AOL 4.0"
+      ],
+      "notes": [
+        "readme.txt includes archive-text author clue(s): bowzer.",
+        "readme.txt mentions AOL 4, AOL 5, AOL 4.0.",
+        "readme.txt has vocabulary for Scroller / macro, Mass mailer / server, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0944-icc507thug": {
+      "programId": "prog-0944-icc507thug",
+      "programName": "icc507[thug]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0944-icc507thug.zip",
+      "localSize": 2970725,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0945-icc511": {
+      "programId": "prog-0945-icc511",
+      "programName": "icc511",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0945-icc511.zip",
+      "localSize": 4360234,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0946-icc512public": {
+      "programId": "prog-0946-icc512public",
+      "programName": "icc512[public]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0946-icc512public.zip",
+      "localSize": 10357111,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt",
+        "icc512public/snlist.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0947-ice-toolz-1-0": {
+      "programId": "prog-0947-ice-toolz-1-0",
+      "programName": "Ice toolz 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0947-ice-toolz-1-0.zip",
+      "localSize": 634325,
+      "textFileCount": 1,
+      "textFiles": [
+        "Ice Toolz 1.0/READ ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Ice Toolz 1.0/READ ME.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-0948-ice-x": {
+      "programId": "prog-0948-ice-x",
+      "programName": "Ice X",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0948-ice-x.zip",
+      "localSize": 2297652,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0949-ice3": {
+      "programId": "prog-0949-ice3",
+      "programName": "iCE3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0949-ice3.zip",
+      "localSize": 69870,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0950-icedrop": {
+      "programId": "prog-0950-icedrop",
+      "programName": "ICEDROP",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/0950-icedrop.zip",
+      "localSize": 483754,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0951-iceidle2": {
+      "programId": "prog-0951-iceidle2",
+      "programName": "ICEIDLE2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0951-iceidle2.zip",
+      "localSize": 1450329,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0952-icp40": {
+      "programId": "prog-0952-icp40",
+      "programName": "ICP40",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0952-icp40.zip",
+      "localSize": 94380,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0953-icpfinal": {
+      "programId": "prog-0953-icpfinal",
+      "programName": "ICPFINAL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0953-icpfinal.zip",
+      "localSize": 822977,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0954-icrack": {
+      "programId": "prog-0954-icrack",
+      "programName": "iCrack",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0954-icrack.zip",
+      "localSize": 1701502,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0955-ics": {
+      "programId": "prog-0955-ics",
+      "programName": "ics",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0955-ics.zip",
+      "localSize": 1432862,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0956-idelism": {
+      "programId": "prog-0956-idelism",
+      "programName": "idelism▌",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0956-idelism.zip",
+      "localSize": 1759698,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0957-idl3": {
+      "programId": "prog-0957-idl3",
+      "programName": "idl3",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/0957-idl3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0958-idle": {
+      "programId": "prog-0958-idle",
+      "programName": "idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0958-idle.zip",
+      "localSize": 797314,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0959-idle": {
+      "programId": "prog-0959-idle",
+      "programName": "idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0959-idle.zip",
+      "localSize": 224600,
+      "textFileCount": 1,
+      "textFiles": [
+        "dxkurupt.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "dxkurupt.txt has vocabulary for Media / file utility.",
+        "dxkurupt.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0960-idle-dat": {
+      "programId": "prog-0960-idle-dat",
+      "programName": "idle dat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0960-idle-dat.zip",
+      "localSize": 792896,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0961-idle-dis": {
+      "programId": "prog-0961-idle-dis",
+      "programName": "Idle Dis",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0961-idle-dis.zip",
+      "localSize": 770180,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0962-idle-in-2ooo": {
+      "programId": "prog-0962-idle-in-2ooo",
+      "programName": "Idle in ²ººº",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0962-idle-in-2ooo.zip",
+      "localSize": 909537,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0963-idle-toolz": {
+      "programId": "prog-0963-idle-toolz",
+      "programName": "Idle Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0963-idle-toolz.zip",
+      "localSize": 1406157,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0964-idle-utopia-2001": {
+      "programId": "prog-0964-idle-utopia-2001",
+      "programName": "idle utopia 2001",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0964-idle-utopia-2001.zip",
+      "localSize": 1822899,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0965-idle-away": {
+      "programId": "prog-0965-idle-away",
+      "programName": "Idle.Away",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0965-idle-away.zip",
+      "localSize": 1471750,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0966-idle2": {
+      "programId": "prog-0966-idle2",
+      "programName": "idle2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0966-idle2.zip",
+      "localSize": 1186396,
+      "textFileCount": 1,
+      "textFiles": [
+        "read dis.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read dis.txt has vocabulary for Idler / AFK bot, C-Com / command list, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0967-idleology1-by-miguel": {
+      "programId": "prog-0967-idleology1-by-miguel",
+      "programName": "idle`ology¹ - by miguel",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0967-idleology1-by-miguel.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0968-idlebot2": {
+      "programId": "prog-0968-idlebot2",
+      "programName": "idlebot2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0968-idlebot2.zip",
+      "localSize": 27466,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0969-idleish": {
+      "programId": "prog-0969-idleish",
+      "programName": "idleish",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0969-idleish.zip",
+      "localSize": 1381870,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0970-idleisim": {
+      "programId": "prog-0970-idleisim",
+      "programName": "Idleisim",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0970-idleisim.zip",
+      "localSize": 1409109,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0971-idlemachine": {
+      "programId": "prog-0971-idlemachine",
+      "programName": "idlemachine",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0971-idlemachine.zip",
+      "localSize": 56599,
+      "textFileCount": 2,
+      "textFiles": [
+        "idle1.txt",
+        "MorFeuS's ReaLM.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MorFeuS's ReaLM.txt has vocabulary for AOL/AIM chat utility.",
+        "MorFeuS's ReaLM.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0972-idlemax": {
+      "programId": "prog-0972-idlemax",
+      "programName": "idlemax",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0972-idlemax.zip",
+      "localSize": 413616,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME.txt has vocabulary for Idler / AFK bot, C-Com / command list, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0973-idlemax2": {
+      "programId": "prog-0973-idlemax2",
+      "programName": "idlemax2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0973-idlemax2.zip",
+      "localSize": 529954,
+      "textFileCount": 1,
+      "textFiles": [
+        "about idle max.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "about idle max.txt has vocabulary for Idler / AFK bot, C-Com / command list, Source / developer file."
+      ]
+    },
+    "prog-0974-idleordie": {
+      "programId": "prog-0974-idleordie",
+      "programName": "idleordie",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0974-idleordie.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0975-idleordiev2": {
+      "programId": "prog-0975-idleordiev2",
+      "programName": "idleordiev2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0975-idleordiev2.zip",
+      "localSize": 1370348,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-0976-idler": {
+      "programId": "prog-0976-idler",
+      "programName": "Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0976-idler.zip",
+      "localSize": 1432236,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0977-idler": {
+      "programId": "prog-0977-idler",
+      "programName": "idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0977-idler.zip",
+      "localSize": 27752,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0978-idler": {
+      "programId": "prog-0978-idler",
+      "programName": "idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0978-idler.zip",
+      "localSize": 2050833,
+      "textFileCount": 1,
+      "textFiles": [
+        "idler.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "idler.ini has vocabulary for Fader / text styler, Idler / AFK bot, Scroller / macro."
+      ]
+    },
+    "prog-0979-idleroom-1-0": {
+      "programId": "prog-0979-idleroom-1-0",
+      "programName": "idleroom 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0979-idleroom-1-0.zip",
+      "localSize": 1397218,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0980-idletech2": {
+      "programId": "prog-0980-idletech2",
+      "programName": "idletech2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0980-idletech2.zip",
+      "localSize": 1670262,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0981-idlewhore": {
+      "programId": "prog-0981-idlewhore",
+      "programName": "idlewhore",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0981-idlewhore.zip",
+      "localSize": 1396236,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0982-idlex-2-private": {
+      "programId": "prog-0982-idlex-2-private",
+      "programName": "idlex 2 [private]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0982-idlex-2-private.zip",
+      "localSize": 749281,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0983-idle": {
+      "programId": "prog-0983-idle",
+      "programName": "idle│║║╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0983-idle.zip",
+      "localSize": 1384677,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0984-idle-codr-ngz": {
+      "programId": "prog-0984-idle-codr-ngz",
+      "programName": "idle╣╖│ Codδr Nδgz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0984-idle-codr-ngz.zip",
+      "localSize": 1702178,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0985-idol": {
+      "programId": "prog-0985-idol",
+      "programName": "idol",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0985-idol.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0986-idreamz": {
+      "programId": "prog-0986-idreamz",
+      "programName": "idreamz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0986-idreamz.zip",
+      "localSize": 415401,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0987-ieetcrackv2-0public": {
+      "programId": "prog-0987-ieetcrackv2-0public",
+      "programName": "ieetCrackv2.0public",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0987-ieetcrackv2-0public.zip",
+      "localSize": 1418888,
+      "textFileCount": 2,
+      "textFiles": [
+        "ieetCrack - Read Me.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ieetCrack - Read Me.txt has vocabulary for Account / TOS utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-0988-ieeto-idler": {
+      "programId": "prog-0988-ieeto-idler",
+      "programName": "ieeto idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0988-ieeto-idler.zip",
+      "localSize": 1500638,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0989-ieeto-saver": {
+      "programId": "prog-0989-ieeto-saver",
+      "programName": "ieeto Saver",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0989-ieeto-saver.zip",
+      "localSize": 752334,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0990-igneous-c-coms": {
+      "programId": "prog-0990-igneous-c-coms",
+      "programName": "igneous c-coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0990-igneous-c-coms.zip",
+      "localSize": 798017,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0991-ignore2": {
+      "programId": "prog-0991-ignore2",
+      "programName": "ignore2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0991-ignore2.zip",
+      "localSize": 519326,
+      "textFileCount": 1,
+      "textFiles": [
+        "ignore.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 4"
+      ],
+      "notes": [
+        "ignore.ini mentions AOL 4."
+      ]
+    },
+    "prog-0992-ignore2000": {
+      "programId": "prog-0992-ignore2000",
+      "programName": "ignore2000",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0992-ignore2000.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0993-igotawoody": {
+      "programId": "prog-0993-igotawoody",
+      "programName": "Igotawoody",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0993-igotawoody.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0994-ihs-by-boggle": {
+      "programId": "prog-0994-ihs-by-boggle",
+      "programName": "IHS By [boggle]",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/0994-ihs-by-boggle.zip",
+      "localSize": 1413258,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Scroller / macro",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME!.txt has vocabulary for All-in-one prog suite, Scroller / macro, AOL/AIM chat utility."
+      ]
+    },
+    "prog-0995-illegal-paraphernalia": {
+      "programId": "prog-0995-illegal-paraphernalia",
+      "programName": "Illegal Paraphernalia",
+      "scanned": true,
+      "localPath": "files/aol/mixed/0995-illegal-paraphernalia.zip",
+      "localSize": 1561616,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0996-illeqal-busta-1": {
+      "programId": "prog-0996-illeqal-busta-1",
+      "programName": "illeqal busta 1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0996-illeqal-busta-1.zip",
+      "localSize": 1984645,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0997-imignore": {
+      "programId": "prog-0997-imignore",
+      "programName": "IMignore",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0997-imignore.zip",
+      "localSize": 745942,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0998-imlink": {
+      "programId": "prog-0998-imlink",
+      "programName": "IMlink",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0998-imlink.zip",
+      "localSize": 24465,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-0999-immaturity-3-0-0-public": {
+      "programId": "prog-0999-immaturity-3-0-0-public",
+      "programName": "Immaturity 3.0.0 [public]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/0999-immaturity-3-0-0-public.zip",
+      "localSize": 32953,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1000-imnuke": {
+      "programId": "prog-1000-imnuke",
+      "programName": "imnuke",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1000-imnuke.zip",
+      "localSize": 755978,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-1001-imortal": {
+      "programId": "prog-1001-imortal",
+      "programName": "imortal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1001-imortal.zip",
+      "localSize": 585791,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1002-imp2000": {
+      "programId": "prog-1002-imp2000",
+      "programName": "IMP2000",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1002-imp2000.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1003-import-tuner": {
+      "programId": "prog-1003-import-tuner",
+      "programName": "import.tuner",
+      "scanned": true,
+      "localPath": "files/aol/aol-8-0/1003-import-tuner.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1004-important-read-open-befor-setup-1": {
+      "programId": "prog-1004-important-read-open-befor-setup-1",
+      "programName": "Important Read Open Befor Setup 1",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1004-important-read-open-befor-setup-1.zip",
+      "localSize": 2067839,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1005-impulse": {
+      "programId": "prog-1005-impulse",
+      "programName": "impulse╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1005-impulse.zip",
+      "localSize": 1557083,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1006-imtoolz": {
+      "programId": "prog-1006-imtoolz",
+      "programName": "Imtoolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1006-imtoolz.zip",
+      "localSize": 1366066,
+      "textFileCount": 1,
+      "textFiles": [
+        "Readme.doc"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Readme.doc has vocabulary for Fader / text styler, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1007-incidle": {
+      "programId": "prog-1007-incidle",
+      "programName": "Incidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1007-incidle.zip",
+      "localSize": 820434,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1008-incubusfinal": {
+      "programId": "prog-1008-incubusfinal",
+      "programName": "Incubusfinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1008-incubusfinal.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1009-incubusgold": {
+      "programId": "prog-1009-incubusgold",
+      "programName": "Incubusgold",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1009-incubusgold.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1010-incubuspunt": {
+      "programId": "prog-1010-incubuspunt",
+      "programName": "Incubuspunt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1010-incubuspunt.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1011-incubu2": {
+      "programId": "prog-1011-incubu2",
+      "programName": "Incubu~2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1011-incubu2.zip",
+      "localSize": 1394258,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1012-independent-idler": {
+      "programId": "prog-1012-independent-idler",
+      "programName": "independent idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1012-independent-idler.zip",
+      "localSize": 1624676,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1013-indifference-lagger": {
+      "programId": "prog-1013-indifference-lagger",
+      "programName": "Indifference Lagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1013-indifference-lagger.zip",
+      "localSize": 2057145,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1014-infmmer": {
+      "programId": "prog-1014-infmmer",
+      "programName": "infmmer",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1014-infmmer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1015-infuego-idler": {
+      "programId": "prog-1015-infuego-idler",
+      "programName": "Infuego Idl'er",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1015-infuego-idler.zip",
+      "localSize": 806580,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1016-insane-idler": {
+      "programId": "prog-1016-insane-idler",
+      "programName": "InSane Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1016-insane-idler.zip",
+      "localSize": 1439569,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1017-insane1": {
+      "programId": "prog-1017-insane1",
+      "programName": "INSANE~1",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1017-insane1.zip",
+      "localSize": 699774,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1018-insomnia": {
+      "programId": "prog-1018-insomnia",
+      "programName": "insomnia",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1018-insomnia.zip",
+      "localSize": 1413061,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1019-insomnia-toolz-v1-5": {
+      "programId": "prog-1019-insomnia-toolz-v1-5",
+      "programName": "Insomnia Toolz v1.5",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1019-insomnia-toolz-v1-5.zip",
+      "localSize": 1583498,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1020-insomnia-toolz-v1-6": {
+      "programId": "prog-1020-insomnia-toolz-v1-6",
+      "programName": "insomnia toolz v1.6",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1020-insomnia-toolz-v1-6.zip",
+      "localSize": 440277,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1021-insomnia-toolz-v1-o": {
+      "programId": "prog-1021-insomnia-toolz-v1-o",
+      "programName": "Insomnia Toolz v1.o",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1021-insomnia-toolz-v1-o.zip",
+      "localSize": 1758357,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1022-insulin": {
+      "programId": "prog-1022-insulin",
+      "programName": "INSULIN",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1022-insulin.zip",
+      "localSize": 837743,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1023-insur1": {
+      "programId": "prog-1023-insur1",
+      "programName": "INSUR~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1023-insur1.zip",
+      "localSize": 2319187,
+      "textFileCount": 2,
+      "textFiles": [
+        "READ THIS FIRST.txt",
+        "phatprogz.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "phatprogz.txt has vocabulary for Media / file utility.",
+        "phatprogz.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1024-integration": {
+      "programId": "prog-1024-integration",
+      "programName": "integration",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1024-integration.zip",
+      "localSize": 1834786,
+      "textFileCount": 1,
+      "textFiles": [
+        "Readme.doc"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0"
+      ],
+      "notes": [
+        "Readme.doc mentions AOL 4.0.",
+        "Readme.doc has vocabulary for Fader / text styler, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1025-intellex": {
+      "programId": "prog-1025-intellex",
+      "programName": "intellex",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1025-intellex.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1026-intelligent-linker": {
+      "programId": "prog-1026-intelligent-linker",
+      "programName": "intelligent linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1026-intelligent-linker.zip",
+      "localSize": 1175368,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1027-interbasicsetup": {
+      "programId": "prog-1027-interbasicsetup",
+      "programName": "InterBasicSetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1027-interbasicsetup.zip",
+      "localSize": 1342665,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1028-intern20": {
+      "programId": "prog-1028-intern20",
+      "programName": "intern20",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1028-intern20.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1029-internal-error": {
+      "programId": "prog-1029-internal-error",
+      "programName": "iNtErNaL ErRoR │",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1029-internal-error.zip",
+      "localSize": 745149,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1030-intricate-chat-coms": {
+      "programId": "prog-1030-intricate-chat-coms",
+      "programName": "Intricate Chat Coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1030-intricate-chat-coms.zip",
+      "localSize": 531113,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1031-invariant": {
+      "programId": "prog-1031-invariant",
+      "programName": "Invariant",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1031-invariant.zip",
+      "localSize": 1569123,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-1032-invasion": {
+      "programId": "prog-1032-invasion",
+      "programName": "invasion",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1032-invasion.zip",
+      "localSize": 2885543,
+      "textFileCount": 1,
+      "textFiles": [
+        "Important.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "Important.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1033-invizo-linker": {
+      "programId": "prog-1033-invizo-linker",
+      "programName": "Invizo Linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1033-invizo-linker.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1034-invizo-linker-v2": {
+      "programId": "prog-1034-invizo-linker-v2",
+      "programName": "Invizo Linker v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1034-invizo-linker-v2.zip",
+      "localSize": 2198990,
+      "textFileCount": 1,
+      "textFiles": [
+        "Invizo Linker v2 Goodbye.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Invizo Linker v2 Goodbye.txt has vocabulary for All-in-one prog suite, Scroller / macro, Account / TOS utility, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1035-invoke": {
+      "programId": "prog-1035-invoke",
+      "programName": "invoke",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1035-invoke.zip",
+      "localSize": 1915795,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1036-ipjh1-0": {
+      "programId": "prog-1036-ipjh1-0",
+      "programName": "IPJH1.0",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1036-ipjh1-0.zip",
+      "localSize": 1556893,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1037-iplayer-final": {
+      "programId": "prog-1037-iplayer-final",
+      "programName": "iPlayer [Final]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1037-iplayer-final.zip",
+      "localSize": 2268212,
+      "textFileCount": 1,
+      "textFiles": [
+        "iPlayer Final/Settings.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "iPlayer Final/Settings.ini has vocabulary for Fader / text styler, Scroller / macro."
+      ]
+    },
+    "prog-1038-is": {
+      "programId": "prog-1038-is",
+      "programName": "is",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1038-is.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1039-itank": {
+      "programId": "prog-1039-itank",
+      "programName": "itank",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1039-itank.zip",
+      "localSize": 969785,
+      "textFileCount": 3,
+      "textFiles": [
+        "itank/greets.txt",
+        "itank/read me.txt",
+        "itank/Settings.ini"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Chris + Logik",
+          "sourceFile": "itank/read me.txt",
+          "pattern": "authors"
+        }
+      ],
+      "preferredAuthor": "Chris + Logik",
+      "purposeSignals": [
+        "Source / developer file",
+        "Fader / text styler",
+        "Scroller / macro",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0"
+      ],
+      "notes": [
+        "itank/read me.txt includes archive-text author clue(s): Chris + Logik.",
+        "itank/read me.txt has vocabulary for Source / developer file.",
+        "itank/Settings.ini mentions AOL 7.0.",
+        "itank/Settings.ini has vocabulary for Fader / text styler, Scroller / macro, Account / TOS utility."
+      ]
+    },
+    "prog-1040-itank-remix": {
+      "programId": "prog-1040-itank-remix",
+      "programName": "itank remix",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/1040-itank-remix.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1041-j00b-scroller-by-sinac": {
+      "programId": "prog-1041-j00b-scroller-by-sinac",
+      "programName": "j00b Scroller By Sinac",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1041-j00b-scroller-by-sinac.zip",
+      "localSize": 746413,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1042-jabronixer": {
+      "programId": "prog-1042-jabronixer",
+      "programName": "Jabronixer",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1042-jabronixer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1043-jackals-idler": {
+      "programId": "prog-1043-jackals-idler",
+      "programName": "Jackals' Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-9-0/1043-jackals-idler.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1044-jacked": {
+      "programId": "prog-1044-jacked",
+      "programName": "jacked",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1044-jacked.zip",
+      "localSize": 797518,
+      "textFileCount": 3,
+      "textFiles": [
+        "read me.txt",
+        "read_this.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "qb and dank",
+          "sourceFile": "read me.txt",
+          "pattern": "author's"
+        }
+      ],
+      "preferredAuthor": "qb and dank",
+      "purposeSignals": [
+        "Scroller / macro",
+        "Mass mailer / server",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt includes archive-text author clue(s): qb and dank.",
+        "read_this.txt has vocabulary for Scroller / macro, Mass mailer / server, AOL/AIM chat utility.",
+        "read_this.txt includes a mirror/download-source note.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1045-jackthebongripper": {
+      "programId": "prog-1045-jackthebongripper",
+      "programName": "JackTheBongRipper",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1045-jackthebongripper.zip",
+      "localSize": 1911204,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1046-jaijen": {
+      "programId": "prog-1046-jaijen",
+      "programName": "JaiJeN",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1046-jaijen.zip",
+      "localSize": 2240216,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1047-jammin": {
+      "programId": "prog-1047-jammin",
+      "programName": "JAMMIN",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1047-jammin.zip",
+      "localSize": 1592378,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1048-jarule": {
+      "programId": "prog-1048-jarule",
+      "programName": "jarule",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1048-jarule.zip",
+      "localSize": 2932428,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1049-jarule2": {
+      "programId": "prog-1049-jarule2",
+      "programName": "jarule2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1049-jarule2.zip",
+      "localSize": 3281370,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1050-jeb-tools": {
+      "programId": "prog-1050-jeb-tools",
+      "programName": "Jeb Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1050-jeb-tools.zip",
+      "localSize": 2002695,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1051-jeep": {
+      "programId": "prog-1051-jeep",
+      "programName": "JEEP",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1051-jeep.zip",
+      "localSize": 10937,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1052-jeeto-ccoms": {
+      "programId": "prog-1052-jeeto-ccoms",
+      "programName": "jeeto.ccoms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1052-jeeto-ccoms.zip",
+      "localSize": 1546614,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1053-jelemim": {
+      "programId": "prog-1053-jelemim",
+      "programName": "jelemim",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1053-jelemim.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1054-jewbert-scroller": {
+      "programId": "prog-1054-jewbert-scroller",
+      "programName": "Jewbert Scroller",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1054-jewbert-scroller.zip",
+      "localSize": 1396273,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1055-jewtank": {
+      "programId": "prog-1055-jewtank",
+      "programName": "jewtank",
+      "scanned": true,
+      "localPath": "files/aim/mixed/1055-jewtank.zip",
+      "localSize": 2790715,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1056-jinc-idle": {
+      "programId": "prog-1056-jinc-idle",
+      "programName": "jinc idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1056-jinc-idle.zip",
+      "localSize": 777941,
+      "textFileCount": 1,
+      "textFiles": [
+        "Jinc idle.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Jinc idle.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-1057-jokebox": {
+      "programId": "prog-1057-jokebox",
+      "programName": "jokebox",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1057-jokebox.zip",
+      "localSize": 464729,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1058-jokebox": {
+      "programId": "prog-1058-jokebox",
+      "programName": "jokebox",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1058-jokebox.zip",
+      "localSize": 748441,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1059-judgement-night-4-0-final": {
+      "programId": "prog-1059-judgement-night-4-0-final",
+      "programName": "judgement night 4.0 final",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1059-judgement-night-4-0-final.zip",
+      "localSize": 19340369,
+      "textFileCount": 3,
+      "textFiles": [
+        "Read First!!.txt",
+        "read me.txt",
+        "_conflicts/conflict.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0",
+        "AOL 6.0"
+      ],
+      "notes": [
+        "Read First!!.txt mentions AOL 4.0, AOL 5.0.",
+        "Read First!!.txt has vocabulary for Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility.",
+        "_conflicts/conflict.txt mentions AOL 6.0."
+      ]
+    },
+    "prog-1060-judgementday": {
+      "programId": "prog-1060-judgementday",
+      "programName": "JudgementDay",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1060-judgementday.zip",
+      "localSize": 4451121,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe.txt has vocabulary for Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-1061-judgment-day2": {
+      "programId": "prog-1061-judgment-day2",
+      "programName": "Judgment Day²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1061-judgment-day2.zip",
+      "localSize": 1870046,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1062-juggalo-t-2": {
+      "programId": "prog-1062-juggalo-t-2",
+      "programName": "Juggalo T 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1062-juggalo-t-2.zip",
+      "localSize": 3187892,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1063-juggalo-toolz-1": {
+      "programId": "prog-1063-juggalo-toolz-1",
+      "programName": "Juggalo Toolz 1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1063-juggalo-toolz-1.zip",
+      "localSize": 1069345,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1064-juvenile-upchat1": {
+      "programId": "prog-1064-juvenile-upchat1",
+      "programName": "juvenile upchat1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1064-juvenile-upchat1.zip",
+      "localSize": 1499514,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1065-jdo-mz-ver": {
+      "programId": "prog-1065-jdo-mz-ver",
+      "programName": "J█Do ╟╟╪mz Ver╣.▓",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1065-jdo-mz-ver.zip",
+      "localSize": 885192,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for C-Com / command list, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1066-kamehameha-idle": {
+      "programId": "prog-1066-kamehameha-idle",
+      "programName": "kamehameha idle╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1066-kamehameha-idle.zip",
+      "localSize": 1592422,
+      "textFileCount": 1,
+      "textFiles": [
+        "kamehameha idle/kame.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "kamehameha idle/kame.ini has vocabulary for Scroller / macro, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1067-kc5bet1": {
+      "programId": "prog-1067-kc5bet1",
+      "programName": "kc5bet~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1067-kc5bet1.zip",
+      "localSize": 2727985,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1068-kc5bet1": {
+      "programId": "prog-1068-kc5bet1",
+      "programName": "kc5bet~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1068-kc5bet1.zip",
+      "localSize": 2727984,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1069-kidroc1": {
+      "programId": "prog-1069-kidroc1",
+      "programName": "KIDROC~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1069-kidroc1.zip",
+      "localSize": 1192538,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1070-kids-idle": {
+      "programId": "prog-1070-kids-idle",
+      "programName": "kids idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1070-kids-idle.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1071-kill-aol-mp3-player-2-0": {
+      "programId": "prog-1071-kill-aol-mp3-player-2-0",
+      "programName": "kill aol mp3 player 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1071-kill-aol-mp3-player-2-0.zip",
+      "localSize": 3334217,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1072-kill-aol-mp3-player-compact": {
+      "programId": "prog-1072-kill-aol-mp3-player-compact",
+      "programName": "kill aol mp3 player compact",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1072-kill-aol-mp3-player-compact.zip",
+      "localSize": 3336375,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1073-killa-idle-by-ko": {
+      "programId": "prog-1073-killa-idle-by-ko",
+      "programName": "killa idle by ko",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1073-killa-idle-by-ko.zip",
+      "localSize": 1873590,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1074-killedscroll": {
+      "programId": "prog-1074-killedscroll",
+      "programName": "killedscroll",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1074-killedscroll.zip",
+      "localSize": 811069,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1075-kire-good-toolz": {
+      "programId": "prog-1075-kire-good-toolz",
+      "programName": "KiRe Good Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1075-kire-good-toolz.zip",
+      "localSize": 1666707,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1076-kliq-ghosta": {
+      "programId": "prog-1076-kliq-ghosta",
+      "programName": "Kliq ghosta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1076-kliq-ghosta.zip",
+      "localSize": 747607,
+      "textFileCount": 1,
+      "textFiles": [
+        "Stuff you need to know.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1077-kmixer": {
+      "programId": "prog-1077-kmixer",
+      "programName": "kmixer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1077-kmixer.zip",
+      "localSize": 147509,
+      "textFileCount": 1,
+      "textFiles": [
+        "Kryptonite MiXer.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Linker / chat linker",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "notes": [
+        "Kryptonite MiXer.txt mentions AOL 4.0, AOL 5.0.",
+        "Kryptonite MiXer.txt has vocabulary for Idler / AFK bot, Linker / chat linker, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1078-knucktoolzv1": {
+      "programId": "prog-1078-knucktoolzv1",
+      "programName": "knucktoolzv1",
+      "scanned": true,
+      "localPath": "files/aim/aol-6-0/1078-knucktoolzv1.zip",
+      "localSize": 2236181,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 5.0",
+        "AOL 6.0"
+      ],
+      "notes": [
+        "READ ME!!!.txt mentions AOL 5.0, AOL 6.0.",
+        "READ ME!!!.txt has vocabulary for All-in-one prog suite, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1079-ko0-idle": {
+      "programId": "prog-1079-ko0-idle",
+      "programName": "ko0-idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1079-ko0-idle.zip",
+      "localSize": 813109,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1080-kore": {
+      "programId": "prog-1080-kore",
+      "programName": "kore",
+      "scanned": true,
+      "localPath": "files/aol/aol-8-0/1080-kore.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1081-kornfa1": {
+      "programId": "prog-1081-kornfa1",
+      "programName": "Kornfa~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1081-kornfa1.zip",
+      "localSize": 983626,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1082-kornobusta": {
+      "programId": "prog-1082-kornobusta",
+      "programName": "kornobusta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1082-kornobusta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1083-krac-online-idler": {
+      "programId": "prog-1083-krac-online-idler",
+      "programName": "krac online idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1083-krac-online-idler.zip",
+      "localSize": 825895,
+      "textFileCount": 1,
+      "textFiles": [
+        "commands.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "commands.txt has vocabulary for Idler / AFK bot, C-Com / command list."
+      ]
+    },
+    "prog-1084-kry": {
+      "programId": "prog-1084-kry",
+      "programName": "kry",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1084-kry.zip",
+      "localSize": 892164,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1085-krypton": {
+      "programId": "prog-1085-krypton",
+      "programName": "Krypton",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1085-krypton.zip",
+      "localSize": 318673,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1086-kryptonite": {
+      "programId": "prog-1086-kryptonite",
+      "programName": "kryptonite",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1086-kryptonite.zip",
+      "localSize": 79769,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1087-ktt": {
+      "programId": "prog-1087-ktt",
+      "programName": "KTT",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1087-ktt.zip",
+      "localSize": 1394335,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1088-l3-l-u-r-s-idler-2": {
+      "programId": "prog-1088-l3-l-u-r-s-idler-2",
+      "programName": "l3 l u r s   Idler 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1088-l3-l-u-r-s-idler-2.zip",
+      "localSize": 1488246,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1089-labtec": {
+      "programId": "prog-1089-labtec",
+      "programName": "LABTEC",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1089-labtec.zip",
+      "localSize": 3033417,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for C-Com / command list, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1090-lag": {
+      "programId": "prog-1090-lag",
+      "programName": "Lag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1090-lag.zip",
+      "localSize": 798582,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ THIS FIRST!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1091-lag-kill-1-0": {
+      "programId": "prog-1091-lag-kill-1-0",
+      "programName": "lag kill 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1091-lag-kill-1-0.zip",
+      "localSize": 1514802,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME!!!.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-1092-lag-kill-2-0": {
+      "programId": "prog-1092-lag-kill-2-0",
+      "programName": "lag kill 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1092-lag-kill-2-0.zip",
+      "localSize": 1511976,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME!!!.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-1093-lagshack": {
+      "programId": "prog-1093-lagshack",
+      "programName": "LagShack",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1093-lagshack.zip",
+      "localSize": 1404094,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1094-lameo": {
+      "programId": "prog-1094-lameo",
+      "programName": "Lameo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1094-lameo.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1095-lamer-lagger": {
+      "programId": "prog-1095-lamer-lagger",
+      "programName": "Lamer Lagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1095-lamer-lagger.zip",
+      "localSize": 1437409,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1096-lamexer": {
+      "programId": "prog-1096-lamexer",
+      "programName": "lamexer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1096-lamexer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1097-lamexer": {
+      "programId": "prog-1097-lamexer",
+      "programName": "lameXer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1097-lamexer.zip",
+      "localSize": 1495062,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 4.0, AOL 5.0.",
+        "readme.txt has vocabulary for Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1098-lamorbeta": {
+      "programId": "prog-1098-lamorbeta",
+      "programName": "LamorBeta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1098-lamorbeta.zip",
+      "localSize": 1755079,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1099-lasertech": {
+      "programId": "prog-1099-lasertech",
+      "programName": "Lasertech ¦ ¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1099-lasertech.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1100-lastresort": {
+      "programId": "prog-1100-lastresort",
+      "programName": "Lastresort",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1100-lastresort.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1101-late-night-idle": {
+      "programId": "prog-1101-late-night-idle",
+      "programName": "late night idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1101-late-night-idle.zip",
+      "localSize": 39928,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1102-late-night2": {
+      "programId": "prog-1102-late-night2",
+      "programName": "late night2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1102-late-night2.zip",
+      "localSize": 751820,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1103-lava": {
+      "programId": "prog-1103-lava",
+      "programName": "LAVA",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1103-lava.zip",
+      "localSize": 155155,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1104-lazer-toolz": {
+      "programId": "prog-1104-lazer-toolz",
+      "programName": "LAZER TOOLZ",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1104-lazer-toolz.zip",
+      "localSize": 31871,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1105-lazer-linka": {
+      "programId": "prog-1105-lazer-linka",
+      "programName": "Lazer_Linka",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1105-lazer-linka.zip",
+      "localSize": 1455508,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1106-lazy-beta-build-1": {
+      "programId": "prog-1106-lazy-beta-build-1",
+      "programName": "lazy_beta-build_1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1106-lazy-beta-build-1.zip",
+      "localSize": 892285,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1107-lazy-idle": {
+      "programId": "prog-1107-lazy-idle",
+      "programName": "Lazy_Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1107-lazy-idle.zip",
+      "localSize": 1431568,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1108-lazyassgold1": {
+      "programId": "prog-1108-lazyassgold1",
+      "programName": "lazyassgold1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1108-lazyassgold1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1109-lazyboy": {
+      "programId": "prog-1109-lazyboy",
+      "programName": "LazyBoy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1109-lazyboy.zip",
+      "localSize": 1406189,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1110-le-fader": {
+      "programId": "prog-1110-le-fader",
+      "programName": "Le-Fader",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1110-le-fader.zip",
+      "localSize": 3443630,
+      "textFileCount": 1,
+      "textFiles": [
+        "leanme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.1"
+      ],
+      "notes": [
+        "leanme.txt mentions AOL 7.0, AOL 9.1.",
+        "leanme.txt has vocabulary for Fader / text styler, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1111-ledge": {
+      "programId": "prog-1111-ledge",
+      "programName": "Ledge",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1111-ledge.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1112-leet-player": {
+      "programId": "prog-1112-leet-player",
+      "programName": "leet player",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1112-leet-player.zip",
+      "localSize": 12984013,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1113-leet-player-2": {
+      "programId": "prog-1113-leet-player-2",
+      "programName": "Leet Player 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1113-leet-player-2.zip",
+      "localSize": 3115426,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1114-leet-room-enta": {
+      "programId": "prog-1114-leet-room-enta",
+      "programName": "Leet Room Enta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1114-leet-room-enta.zip",
+      "localSize": 112410,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1115-legacy": {
+      "programId": "prog-1115-legacy",
+      "programName": "Legacy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1115-legacy.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1116-legendmm": {
+      "programId": "prog-1116-legendmm",
+      "programName": "legendmm",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1116-legendmm.zip",
+      "localSize": 374480,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1117-legos": {
+      "programId": "prog-1117-legos",
+      "programName": "legos",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1117-legos.zip",
+      "localSize": 427198,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1118-leh2": {
+      "programId": "prog-1118-leh2",
+      "programName": "Leh2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1118-leh2.zip",
+      "localSize": 867992,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1119-leh251": {
+      "programId": "prog-1119-leh251",
+      "programName": "Leh25~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1119-leh251.zip",
+      "localSize": 767027,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1120-leh30": {
+      "programId": "prog-1120-leh30",
+      "programName": "Leh30",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1120-leh30.zip",
+      "localSize": 767966,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1121-leper": {
+      "programId": "prog-1121-leper",
+      "programName": "leper",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1121-leper.zip",
+      "localSize": 887538,
+      "textFileCount": 2,
+      "textFiles": [
+        "leprecy tos'er/LEPER.INI",
+        "LEPER.INI"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1122-lesbian-program": {
+      "programId": "prog-1122-lesbian-program",
+      "programName": "Lesbian Program",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1122-lesbian-program.zip",
+      "localSize": 2174681,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1123-lesenfant": {
+      "programId": "prog-1123-lesenfant",
+      "programName": "Lesenfant",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1123-lesenfant.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1124-lethal-fragment": {
+      "programId": "prog-1124-lethal-fragment",
+      "programName": "lethal fragment ���",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1124-lethal-fragment.zip",
+      "localSize": 4654077,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1125-lethalbyice": {
+      "programId": "prog-1125-lethalbyice",
+      "programName": "lethalbyice",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1125-lethalbyice.zip",
+      "localSize": 1424297,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1126-lexidle": {
+      "programId": "prog-1126-lexidle",
+      "programName": "lexidle│",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1126-lexidle.zip",
+      "localSize": 1548024,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1127-ley-cripta-by-alvaro1": {
+      "programId": "prog-1127-ley-cripta-by-alvaro1",
+      "programName": "LeY cRipTa By.Alvaro1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1127-ley-cripta-by-alvaro1.zip",
+      "localSize": 1505707,
+      "textFileCount": 2,
+      "textFiles": [
+        "New Folder/readme...txt",
+        "New Folder/readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.0",
+        "AOL 8.0"
+      ],
+      "notes": [
+        "New Folder/readme...txt mentions AOL 7.0, AOL 9.0.",
+        "New Folder/readme.txt mentions AOL 7.0, AOL 8.0."
+      ]
+    },
+    "prog-1128-ley-fader-v2": {
+      "programId": "prog-1128-ley-fader-v2",
+      "programName": "LeY Fader V2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1128-ley-fader-v2.zip",
+      "localSize": 1544528,
+      "textFileCount": 1,
+      "textFiles": [
+        "Readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Readme.txt mentions AOL 7.0, AOL 9.0.",
+        "Readme.txt has vocabulary for Fader / text styler."
+      ]
+    },
+    "prog-1129-ley-orbita-by-alvaro": {
+      "programId": "prog-1129-ley-orbita-by-alvaro",
+      "programName": "LeY oRbiTa by Alvaro",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1129-ley-orbita-by-alvaro.zip",
+      "localSize": 3358523,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 7.9",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 7.9, AOL 9.0."
+      ]
+    },
+    "prog-1130-lez0-idle": {
+      "programId": "prog-1130-lez0-idle",
+      "programName": "Lez0 Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1130-lez0-idle.zip",
+      "localSize": 1371853,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1131-light-it-up-idle": {
+      "programId": "prog-1131-light-it-up-idle",
+      "programName": "Light It Up Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1131-light-it-up-idle.zip",
+      "localSize": 50246,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1132-light2": {
+      "programId": "prog-1132-light2",
+      "programName": "Light2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1132-light2.zip",
+      "localSize": 457673,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1133-like-hoy-2-0": {
+      "programId": "prog-1133-like-hoy-2-0",
+      "programName": "Like Hoy 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1133-like-hoy-2-0.zip",
+      "localSize": 52218,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1134-lil-c-chat": {
+      "programId": "prog-1134-lil-c-chat",
+      "programName": "lil c-chat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1134-lil-c-chat.zip",
+      "localSize": 1833476,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1135-lil-wicked-comz": {
+      "programId": "prog-1135-lil-wicked-comz",
+      "programName": "LiL' Wicked Comz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1135-lil-wicked-comz.zip",
+      "localSize": 2580879,
+      "textFileCount": 1,
+      "textFiles": [
+        "Wicked ReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Wicked ReadMe.txt has vocabulary for Idler / AFK bot, C-Com / command list, Account / TOS utility, Screen-name utility, Media / file utility."
+      ]
+    },
+    "prog-1136-lilccom": {
+      "programId": "prog-1136-lilccom",
+      "programName": "lilccom",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1136-lilccom.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1137-liloh1": {
+      "programId": "prog-1137-liloh1",
+      "programName": "liloh1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1137-liloh1.zip",
+      "localSize": 521113,
+      "textFileCount": 1,
+      "textFiles": [
+        "canons cabin.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "canons cabin.txt has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-1138-link-dat-shit": {
+      "programId": "prog-1138-link-dat-shit",
+      "programName": "Link Dat Shit",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1138-link-dat-shit.zip",
+      "localSize": 1822357,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me - !!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Linker / chat linker",
+        "Mass mailer / server",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me - !!.txt has vocabulary for C-Com / command list, Linker / chat linker, Mass mailer / server, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1139-link-it": {
+      "programId": "prog-1139-link-it",
+      "programName": "link it",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1139-link-it.zip",
+      "localSize": 795654,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1140-link-toolz": {
+      "programId": "prog-1140-link-toolz",
+      "programName": "Link Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1140-link-toolz.zip",
+      "localSize": 23693,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1141-link2me": {
+      "programId": "prog-1141-link2me",
+      "programName": "link2me",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1141-link2me.zip",
+      "localSize": 750864,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1142-linkah": {
+      "programId": "prog-1142-linkah",
+      "programName": "Linkah",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1142-linkah.zip",
+      "localSize": 847180,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1143-linked": {
+      "programId": "prog-1143-linked",
+      "programName": "Linked",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1143-linked.zip",
+      "localSize": 434643,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1144-linkslite2": {
+      "programId": "prog-1144-linkslite2",
+      "programName": "linkslite2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1144-linkslite2.zip",
+      "localSize": 1534842,
+      "textFileCount": 1,
+      "textFiles": [
+        "readmeyo.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Room buster",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 8.0"
+      ],
+      "notes": [
+        "readmeyo.txt mentions AOL 7.0, AOL 8.0.",
+        "readmeyo.txt has vocabulary for Fader / text styler, Room buster, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1145-linktech": {
+      "programId": "prog-1145-linktech",
+      "programName": "linktech",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1145-linktech.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1146-linktech1rebuild": {
+      "programId": "prog-1146-linktech1rebuild",
+      "programName": "linktech1rebuild",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1146-linktech1rebuild.zip",
+      "localSize": 1373690,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1147-linktoolz": {
+      "programId": "prog-1147-linktoolz",
+      "programName": "linktoolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1147-linktoolz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1148-linkz-by-negz": {
+      "programId": "prog-1148-linkz-by-negz",
+      "programName": "linkz by negz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1148-linkz-by-negz.zip",
+      "localSize": 1394427,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1149-liquad2": {
+      "programId": "prog-1149-liquad2",
+      "programName": "Liquad2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1149-liquad2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1150-liquid": {
+      "programId": "prog-1150-liquid",
+      "programName": "liquid",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1150-liquid.zip",
+      "localSize": 1832366,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1151-liquid-fire": {
+      "programId": "prog-1151-liquid-fire",
+      "programName": "LiQuiD FiRe",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1151-liquid-fire.zip",
+      "localSize": 1566048,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1152-liquid-fire2": {
+      "programId": "prog-1152-liquid-fire2",
+      "programName": "liquid fire²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1152-liquid-fire2.zip",
+      "localSize": 2379447,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1153-liquid-toolz1-0": {
+      "programId": "prog-1153-liquid-toolz1-0",
+      "programName": "Liquid Toolz1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1153-liquid-toolz1-0.zip",
+      "localSize": 1018969,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1154-liquidfrag": {
+      "programId": "prog-1154-liquidfrag",
+      "programName": "liquidfrag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1154-liquidfrag.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1155-liquidfx": {
+      "programId": "prog-1155-liquidfx",
+      "programName": "liquidfx",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1155-liquidfx.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1156-liqwid-idler": {
+      "programId": "prog-1156-liqwid-idler",
+      "programName": "LiqWid IdleR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1156-liqwid-idler.zip",
+      "localSize": 34400,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1157-liserver": {
+      "programId": "prog-1157-liserver",
+      "programName": "liserver",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1157-liserver.zip",
+      "localSize": 2237214,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 4.0.",
+        "readme.txt has vocabulary for Mass mailer / server, Account / TOS utility, Source / developer file.",
+        "readme.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1158-list-assist": {
+      "programId": "prog-1158-list-assist",
+      "programName": "List Assist",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1158-list-assist.zip",
+      "localSize": 1714088,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1159-list-assist-v3": {
+      "programId": "prog-1159-list-assist-v3",
+      "programName": "List Assist v3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1159-list-assist-v3.zip",
+      "localSize": 1749640,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt",
+        "html punt code.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note.",
+        "html punt code.txt has vocabulary for Punter / booter."
+      ]
+    },
+    "prog-1160-list-converter": {
+      "programId": "prog-1160-list-converter",
+      "programName": "List Converter",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1160-list-converter.zip",
+      "localSize": 3046445,
+      "textFileCount": 1,
+      "textFiles": [
+        "List Converter/Description.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "List Converter/Description.txt has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-1161-lista-scrolla-by-kash": {
+      "programId": "prog-1161-lista-scrolla-by-kash",
+      "programName": "Lista Scrolla By KaSh",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1161-lista-scrolla-by-kash.zip",
+      "localSize": 1575478,
+      "textFileCount": 3,
+      "textFiles": [
+        "listascroll/iNet-Terror.txt",
+        "listascroll/iT_O5.txt",
+        "listascroll/New Text Document.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1162-little-punt": {
+      "programId": "prog-1162-little-punt",
+      "programName": "Little Punt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1162-little-punt.zip",
+      "localSize": 3178795,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1163-lnkage1": {
+      "programId": "prog-1163-lnkage1",
+      "programName": "lnkage1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1163-lnkage1.zip",
+      "localSize": 1408909,
+      "textFileCount": 4,
+      "textFiles": [
+        "readme.txt",
+        "WaV Online.1.nfo",
+        "WaV Online.2.nfo",
+        "WaV Online.3.nfo"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Source / developer file, Media / file utility, AOL/AIM chat utility.",
+        "WaV Online.1.nfo has vocabulary for Media / file utility.",
+        "WaV Online.2.nfo has vocabulary for Media / file utility.",
+        "WaV Online.3.nfo has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-1164-lnkage111": {
+      "programId": "prog-1164-lnkage111",
+      "programName": "lnkage111",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1164-lnkage111.zip",
+      "localSize": 1417338,
+      "textFileCount": 4,
+      "textFiles": [
+        "readme.txt",
+        "WaV Online.1.nfo",
+        "WaV Online.2.nfo",
+        "WaV Online.3.nfo"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Source / developer file, Media / file utility, AOL/AIM chat utility.",
+        "WaV Online.1.nfo has vocabulary for Media / file utility.",
+        "WaV Online.2.nfo has vocabulary for Media / file utility.",
+        "WaV Online.3.nfo has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-1165-lnkage12": {
+      "programId": "prog-1165-lnkage12",
+      "programName": "lnkage12",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1165-lnkage12.zip",
+      "localSize": 1422570,
+      "textFileCount": 4,
+      "textFiles": [
+        "readme.txt",
+        "WaV Online.1.nfo",
+        "WaV Online.2.nfo",
+        "WaV Online.3.nfo"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Source / developer file, Media / file utility, AOL/AIM chat utility.",
+        "WaV Online.1.nfo has vocabulary for Media / file utility.",
+        "WaV Online.2.nfo has vocabulary for Media / file utility.",
+        "WaV Online.3.nfo has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-1166-loafafk": {
+      "programId": "prog-1166-loafafk",
+      "programName": "loafafk",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1166-loafafk.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1167-loafafkv22": {
+      "programId": "prog-1167-loafafkv22",
+      "programName": "LoaFaFkv²·²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1167-loafafkv22.zip",
+      "localSize": 1536389,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1168-loaupchat": {
+      "programId": "prog-1168-loaupchat",
+      "programName": "LoAupchat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1168-loaupchat.zip",
+      "localSize": 411243,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1169-lobby-whore": {
+      "programId": "prog-1169-lobby-whore",
+      "programName": "Lobby Whore",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1169-lobby-whore.zip",
+      "localSize": 45895,
+      "textFileCount": 1,
+      "textFiles": [
+        "Lobby Whore.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 5"
+      ],
+      "notes": [
+        "Lobby Whore.txt mentions AOL 5."
+      ]
+    },
+    "prog-1170-lockdopidle": {
+      "programId": "prog-1170-lockdopidle",
+      "programName": "lockdopidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1170-lockdopidle.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1171-logger1": {
+      "programId": "prog-1171-logger1",
+      "programName": "logger1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1171-logger1.zip",
+      "localSize": 1620456,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1172-logik-mp3-c-com": {
+      "programId": "prog-1172-logik-mp3-c-com",
+      "programName": "Logik MP3 C-Com",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1172-logik-mp3-c-com.zip",
+      "localSize": 2919771,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1173-logix-idler": {
+      "programId": "prog-1173-logix-idler",
+      "programName": "logix idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1173-logix-idler.zip",
+      "localSize": 435468,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1174-logs-r-us": {
+      "programId": "prog-1174-logs-r-us",
+      "programName": "Logs 'R' Us",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1174-logs-r-us.zip",
+      "localSize": 1835575,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1175-lolzidle2": {
+      "programId": "prog-1175-lolzidle2",
+      "programName": "lolzidle2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1175-lolzidle2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1176-loonytoolz": {
+      "programId": "prog-1176-loonytoolz",
+      "programName": "loonytoolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1176-loonytoolz.zip",
+      "localSize": 63522,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1177-loop-link": {
+      "programId": "prog-1177-loop-link",
+      "programName": "Loop Link",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1177-loop-link.zip",
+      "localSize": 1406820,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1178-loz-del-mando": {
+      "programId": "prog-1178-loz-del-mando",
+      "programName": "LoZ DeL MaNdO",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1178-loz-del-mando.zip",
+      "localSize": 1524762,
+      "textFileCount": 1,
+      "textFiles": [
+        "!!!!!!ReaD Me!!!!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [
+        "AOL 8.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "!!!!!!ReaD Me!!!!!!!.txt mentions AOL 8.0, AOL 9.0.",
+        "!!!!!!ReaD Me!!!!!!!.txt has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-1179-lti": {
+      "programId": "prog-1179-lti",
+      "programName": "lti│",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1179-lti.zip",
+      "localSize": 788690,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1180-ltkoff": {
+      "programId": "prog-1180-ltkoff",
+      "programName": "LTKOFF",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1180-ltkoff.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1181-lucifers-wrath-v2-0": {
+      "programId": "prog-1181-lucifers-wrath-v2-0",
+      "programName": "lucifer's wrath v2.0",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1181-lucifers-wrath-v2-0.zip",
+      "localSize": 15079048,
+      "textFileCount": 5,
+      "textFiles": [
+        "progworld.html",
+        "Progworld.nfo",
+        "Read Me.txt",
+        "HackingWebPages.zip",
+        "_conflicts/conflict.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 3.0",
+        "AOL 4.0"
+      ],
+      "notes": [
+        "Progworld.nfo has vocabulary for All-in-one prog suite.",
+        "HackingWebPages.zip has vocabulary for AOL/AIM chat utility.",
+        "_conflicts/conflict.txt mentions AOL 3.0, AOL 4.0."
+      ]
+    },
+    "prog-1182-lucwrath": {
+      "programId": "prog-1182-lucwrath",
+      "programName": "LUCWRATH",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1182-lucwrath.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1183-lusttoolz": {
+      "programId": "prog-1183-lusttoolz",
+      "programName": "lusttoolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1183-lusttoolz.zip",
+      "localSize": 1898629,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "C-Com / command list",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1184-llz-toolz-3": {
+      "programId": "prog-1184-llz-toolz-3",
+      "programName": "l°lz toolz 3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1184-llz-toolz-3.zip",
+      "localSize": 938777,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1185-lag-kill-3": {
+      "programId": "prog-1185-lag-kill-3",
+      "programName": "lág kíll 3·°",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1185-lag-kill-3.zip",
+      "localSize": 3069694,
+      "textFileCount": 3,
+      "textFiles": [
+        "l�g k�ll 3��/Read Me!!!.txt",
+        "aciddr0p.netReadMe.txt",
+        "l?g k?ll 3??/Read Me!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "l�g k�ll 3��/Read Me!!!.txt mentions AOL 9.0.",
+        "l�g k�ll 3��/Read Me!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note.",
+        "l?g k?ll 3??/Read Me!!!.txt mentions AOL 9.0.",
+        "l?g k?ll 3??/Read Me!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1186-lcksmth": {
+      "programId": "prog-1186-lcksmth",
+      "programName": "L≤ckSmφth ▓╖│",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1186-lcksmth.zip",
+      "localSize": 1461532,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1187-mac": {
+      "programId": "prog-1187-mac",
+      "programName": "Mac",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1187-mac.zip",
+      "localSize": 1132635,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1188-macabre-phoenix-v": {
+      "programId": "prog-1188-macabre-phoenix-v",
+      "programName": "Macabre Phoenix v. ╣╖│~",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1188-macabre-phoenix-v.zip",
+      "localSize": 8094868,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1189-mach0d": {
+      "programId": "prog-1189-mach0d",
+      "programName": "mach0d",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1189-mach0d.zip",
+      "localSize": 1398005,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1190-mack": {
+      "programId": "prog-1190-mack",
+      "programName": "mack",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1190-mack.zip",
+      "localSize": 1246616,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1191-macro-madness-final": {
+      "programId": "prog-1191-macro-madness-final",
+      "programName": "Macro Madness Final",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1191-macro-madness-final.zip",
+      "localSize": 2835111,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1192-macro-madness-xp": {
+      "programId": "prog-1192-macro-madness-xp",
+      "programName": "macro madness xp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1192-macro-madness-xp.zip",
+      "localSize": 1465059,
+      "textFileCount": 1,
+      "textFiles": [
+        "html punt code.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "html punt code.txt has vocabulary for Punter / booter."
+      ]
+    },
+    "prog-1193-macro-madness-xp": {
+      "programId": "prog-1193-macro-madness-xp",
+      "programName": "macro madness xp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1193-macro-madness-xp.zip",
+      "localSize": 1599305,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1194-macro-madness-xp": {
+      "programId": "prog-1194-macro-madness-xp",
+      "programName": "macro madness xp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1194-macro-madness-xp.zip",
+      "localSize": 1582955,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1195-macro-madness-xp-demo": {
+      "programId": "prog-1195-macro-madness-xp-demo",
+      "programName": "macro madness xp [demo]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1195-macro-madness-xp-demo.zip",
+      "localSize": 1586049,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1196-macro-mechine": {
+      "programId": "prog-1196-macro-mechine",
+      "programName": "Macro Mechine",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1196-macro-mechine.zip",
+      "localSize": 1517635,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1197-mad-cmz": {
+      "programId": "prog-1197-mad-cmz",
+      "programName": "mad C¦mz ¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1197-mad-cmz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1198-madcah": {
+      "programId": "prog-1198-madcah",
+      "programName": "Madca$h",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1198-madcah.zip",
+      "localSize": 898892,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1199-madloot": {
+      "programId": "prog-1199-madloot",
+      "programName": "madloot",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1199-madloot.zip",
+      "localSize": 1395653,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1200-madmtmv-1-0": {
+      "programId": "prog-1200-madmtmv-1-0",
+      "programName": "MadMTMv 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1200-madmtmv-1-0.zip",
+      "localSize": 744458,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1201-mafiafader": {
+      "programId": "prog-1201-mafiafader",
+      "programName": "mafiafader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1201-mafiafader.zip",
+      "localSize": 1445029,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1202-maggot-corpse": {
+      "programId": "prog-1202-maggot-corpse",
+      "programName": "MAGGOT Corpse",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1202-maggot-corpse.zip",
+      "localSize": 3737029,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1203-magic": {
+      "programId": "prog-1203-magic",
+      "programName": "magic",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1203-magic.zip",
+      "localSize": 799721,
+      "textFileCount": 1,
+      "textFiles": [
+        "magic.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1204-magictoolz": {
+      "programId": "prog-1204-magictoolz",
+      "programName": "MagicToolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1204-magictoolz.zip",
+      "localSize": 1682699,
+      "textFileCount": 1,
+      "textFiles": [
+        "Flufffycow.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1205-magictoolz": {
+      "programId": "prog-1205-magictoolz",
+      "programName": "MagicToolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1205-magictoolz.zip",
+      "localSize": 1552022,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1206-magnetic-forces-ascii-shop": {
+      "programId": "prog-1206-magnetic-forces-ascii-shop",
+      "programName": "Magnetic Forces Ascii Shop",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1206-magnetic-forces-ascii-shop.zip",
+      "localSize": 647066,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1207-mail-request-v1": {
+      "programId": "prog-1207-mail-request-v1",
+      "programName": "Mail Request v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1207-mail-request-v1.zip",
+      "localSize": 877870,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1208-mailerror": {
+      "programId": "prog-1208-mailerror",
+      "programName": "MailErroR",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1208-mailerror.zip",
+      "localSize": 1765893,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ THIS!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1209-mailrequestv2": {
+      "programId": "prog-1209-mailrequestv2",
+      "programName": "MailRequestv2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1209-mailrequestv2.zip",
+      "localSize": 1069884,
+      "textFileCount": 1,
+      "textFiles": [
+        "MailRequestv2_HELP.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7.0"
+      ],
+      "notes": [
+        "MailRequestv2_HELP.txt mentions AOL 7.0.",
+        "MailRequestv2_HELP.txt has vocabulary for C-Com / command list, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1210-makeaimbeta": {
+      "programId": "prog-1210-makeaimbeta",
+      "programName": "makeaimbeta",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/1210-makeaimbeta.zip",
+      "localSize": 1945972,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1211-malaria": {
+      "programId": "prog-1211-malaria",
+      "programName": "MALARIA",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1211-malaria.zip",
+      "localSize": 324566,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1212-malevolent-creation": {
+      "programId": "prog-1212-malevolent-creation",
+      "programName": "Malevolent Creation",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1212-malevolent-creation.zip",
+      "localSize": 1515478,
+      "textFileCount": 1,
+      "textFiles": [
+        "MorFeuS's ReaLM.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MorFeuS's ReaLM.txt has vocabulary for AOL/AIM chat utility.",
+        "MorFeuS's ReaLM.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1213-malfuncti0n": {
+      "programId": "prog-1213-malfuncti0n",
+      "programName": "malFuncti0n",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1213-malfuncti0n.zip",
+      "localSize": 1407375,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1214-mana-idler": {
+      "programId": "prog-1214-mana-idler",
+      "programName": "MaNa Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1214-mana-idler.zip",
+      "localSize": 862654,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1215-manefest": {
+      "programId": "prog-1215-manefest",
+      "programName": "Manefest",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1215-manefest.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1216-manteca": {
+      "programId": "prog-1216-manteca",
+      "programName": "manteca",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1216-manteca.zip",
+      "localSize": 2931191,
+      "textFileCount": 1,
+      "textFiles": [
+        "manteca tank.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1217-maps": {
+      "programId": "prog-1217-maps",
+      "programName": "maps",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1217-maps.zip",
+      "localSize": 6044918,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1218-mario": {
+      "programId": "prog-1218-mario",
+      "programName": "mario",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1218-mario.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1219-mario6": {
+      "programId": "prog-1219-mario6",
+      "programName": "mario6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1219-mario6.zip",
+      "localSize": 1665427,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1220-mariolair2": {
+      "programId": "prog-1220-mariolair2",
+      "programName": "mariolair2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1220-mariolair2.zip",
+      "localSize": 1467484,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1221-mariomp3": {
+      "programId": "prog-1221-mariomp3",
+      "programName": "mariomp3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1221-mariomp3.zip",
+      "localSize": 2351693,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1222-marioslair": {
+      "programId": "prog-1222-marioslair",
+      "programName": "marioslair",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1222-marioslair.zip",
+      "localSize": 869150,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1223-maryjane": {
+      "programId": "prog-1223-maryjane",
+      "programName": "maryjane",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1223-maryjane.zip",
+      "localSize": 482392,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1224-mass-media": {
+      "programId": "prog-1224-mass-media",
+      "programName": "Mass Media",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1224-mass-media.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1225-mass-room-boot": {
+      "programId": "prog-1225-mass-room-boot",
+      "programName": "Mass room boot",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1225-mass-room-boot.zip",
+      "localSize": 1474818,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1226-masskonfusion": {
+      "programId": "prog-1226-masskonfusion",
+      "programName": "masskonfusion",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1226-masskonfusion.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1227-masta-fade": {
+      "programId": "prog-1227-masta-fade",
+      "programName": "Masta Fade",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1227-masta-fade.zip",
+      "localSize": 775992,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for Fader / text styler, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1228-masticate": {
+      "programId": "prog-1228-masticate",
+      "programName": "Masticate",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1228-masticate.zip",
+      "localSize": 1960060,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1229-materia1": {
+      "programId": "prog-1229-materia1",
+      "programName": "materia1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1229-materia1.zip",
+      "localSize": 772194,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1230-matrix-linker": {
+      "programId": "prog-1230-matrix-linker",
+      "programName": "Matrix Linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1230-matrix-linker.zip",
+      "localSize": 1404560,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1231-matrix-toolz-1-0": {
+      "programId": "prog-1231-matrix-toolz-1-0",
+      "programName": "Matrix Toolz 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1231-matrix-toolz-1-0.zip",
+      "localSize": 1723407,
+      "textFileCount": 1,
+      "textFiles": [
+        "Matrix Toolz 1.0.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Matrix Toolz 1.0.txt has vocabulary for All-in-one prog suite, Account / TOS utility, Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-1232-matrixfinal": {
+      "programId": "prog-1232-matrixfinal",
+      "programName": "MatrixFinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1232-matrixfinal.zip",
+      "localSize": 2267341,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1233-matts-punta": {
+      "programId": "prog-1233-matts-punta",
+      "programName": "Matt's Punta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1233-matts-punta.zip",
+      "localSize": 413402,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1234-mav-spy-4": {
+      "programId": "prog-1234-mav-spy-4",
+      "programName": "Mav-Spy 4",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1234-mav-spy-4.zip",
+      "localSize": 138474,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1235-mc2-6": {
+      "programId": "prog-1235-mc2-6",
+      "programName": "Mc2.6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1235-mc2-6.zip",
+      "localSize": 2940332,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1236-mcb333": {
+      "programId": "prog-1236-mcb333",
+      "programName": "mcb333",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1236-mcb333.zip",
+      "localSize": 2357688,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1237-mcbtos2": {
+      "programId": "prog-1237-mcbtos2",
+      "programName": "mcbtos2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1237-mcbtos2.zip",
+      "localSize": 1475308,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1238-mchat": {
+      "programId": "prog-1238-mchat",
+      "programName": "MChat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1238-mchat.zip",
+      "localSize": 3919260,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read First!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read First!.txt has vocabulary for Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-1239-mcl-ccoms": {
+      "programId": "prog-1239-mcl-ccoms",
+      "programName": "McL Ccoms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1239-mcl-ccoms.zip",
+      "localSize": 4591326,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1240-mdk-idle": {
+      "programId": "prog-1240-mdk-idle",
+      "programName": "mdk ìdlè",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1240-mdk-idle.zip",
+      "localSize": 3737298,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1241-mdmaloader": {
+      "programId": "prog-1241-mdmaloader",
+      "programName": "MDMAloader",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/1241-mdmaloader.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1242-media-techfinal": {
+      "programId": "prog-1242-media-techfinal",
+      "programName": "media tech[final]",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1242-media-techfinal.zip",
+      "localSize": 2400198,
+      "textFileCount": 28,
+      "textFiles": [
+        "prefs.ini",
+        "read me!!.txt",
+        "styles/flux.ini",
+        "styles/default.ini",
+        "styles/niche.ini",
+        "styles/myth.ini",
+        "styles/media.ini",
+        "styles/razid.ini",
+        "styles/reflex.ini",
+        "styles/operators.ini",
+        "styles/idle(rmx).ini",
+        "styles/plain.ini",
+        "styles/axion2.ini",
+        "styles/oo2.ini",
+        "styles/relax(rmx).ini",
+        "styles/reflex(rmx).ini",
+        "styles/visual dreams.ini",
+        "styles/link it.ini",
+        "styles/jon(rmx).ini",
+        "styles/girly.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "AOL/AIM chat utility",
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [
+        "AOL 8.0"
+      ],
+      "notes": [
+        "read me!!.txt mentions AOL 8.0.",
+        "read me!!.txt has vocabulary for C-Com / command list, AOL/AIM chat utility.",
+        "styles/idle(rmx).ini has vocabulary for Idler / AFK bot.",
+        "styles/idle.ini has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-1243-media8-0": {
+      "programId": "prog-1243-media8-0",
+      "programName": "Media8.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1243-media8-0.zip",
+      "localSize": 1783559,
+      "textFileCount": 1,
+      "textFiles": [
+        "README_SOURCE.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1244-meditating-mailer": {
+      "programId": "prog-1244-meditating-mailer",
+      "programName": "Meditating Mailer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1244-meditating-mailer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1245-megatron": {
+      "programId": "prog-1245-megatron",
+      "programName": "megatron",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1245-megatron.zip",
+      "localSize": 2489983,
+      "textFileCount": 2,
+      "textFiles": [
+        "about.txt",
+        "info.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "AOL/AIM chat utility",
+        "Fader / text styler",
+        "Scroller / macro",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 7",
+        "AOL 8"
+      ],
+      "notes": [
+        "about.txt mentions AOL 7, AOL 8.",
+        "about.txt has vocabulary for C-Com / command list, AOL/AIM chat utility.",
+        "info.ini has vocabulary for Fader / text styler, Scroller / macro, Media / file utility."
+      ]
+    },
+    "prog-1246-menace-idle-2-0": {
+      "programId": "prog-1246-menace-idle-2-0",
+      "programName": "MenaCe'\u0015 idle 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1246-menace-idle-2-0.zip",
+      "localSize": 1370128,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1247-metaexe2": {
+      "programId": "prog-1247-metaexe2",
+      "programName": "MetaEXE2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1247-metaexe2.zip",
+      "localSize": 3531119,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1248-metaexe21": {
+      "programId": "prog-1248-metaexe21",
+      "programName": "MetaEXE21",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1248-metaexe21.zip",
+      "localSize": 5554334,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1249-metal": {
+      "programId": "prog-1249-metal",
+      "programName": "MeTaL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1249-metal.zip",
+      "localSize": 1968205,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1250-metallicas-revenge": {
+      "programId": "prog-1250-metallicas-revenge",
+      "programName": "MetallicA's Revenge",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1250-metallicas-revenge.zip",
+      "localSize": 1737957,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1251-metal-idle": {
+      "programId": "prog-1251-metal-idle",
+      "programName": "metal╣ idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1251-metal-idle.zip",
+      "localSize": 1425221,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1252-meteorite-lagger": {
+      "programId": "prog-1252-meteorite-lagger",
+      "programName": "meteorite lagger",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1252-meteorite-lagger.zip",
+      "localSize": 2080337,
+      "textFileCount": 1,
+      "textFiles": [
+        "Desktop.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1253-method1": {
+      "programId": "prog-1253-method1",
+      "programName": "method1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1253-method1.zip",
+      "localSize": 1394349,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1254-methodus3b2": {
+      "programId": "prog-1254-methodus3b2",
+      "programName": "methodus3b2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1254-methodus3b2.zip",
+      "localSize": 4899478,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1255-metroid-idler": {
+      "programId": "prog-1255-metroid-idler",
+      "programName": "Metroid Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1255-metroid-idler.zip",
+      "localSize": 1529906,
+      "textFileCount": 1,
+      "textFiles": [
+        "IDLE READ_ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 7",
+        "AOL 9"
+      ],
+      "notes": [
+        "IDLE READ_ME.txt mentions AOL 7, AOL 9."
+      ]
+    },
+    "prog-1256-metroid-idler-v2": {
+      "programId": "prog-1256-metroid-idler-v2",
+      "programName": "Metroid Idler v²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1256-metroid-idler-v2.zip",
+      "localSize": 1563118,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1257-mfcomz": {
+      "programId": "prog-1257-mfcomz",
+      "programName": "mfcomz",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/1257-mfcomz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1258-mia-xer-public": {
+      "programId": "prog-1258-mia-xer-public",
+      "programName": "mia-xer_public",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1258-mia-xer-public.zip",
+      "localSize": 475245,
+      "textFileCount": 1,
+      "textFiles": [
+        "mia x..read first.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 5.0"
+      ],
+      "notes": [
+        "mia x..read first.txt mentions AOL 5.0.",
+        "mia x..read first.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-1259-micro": {
+      "programId": "prog-1259-micro",
+      "programName": "Micro",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1259-micro.zip",
+      "localSize": 476128,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1260-microidle": {
+      "programId": "prog-1260-microidle",
+      "programName": "Microidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1260-microidle.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1261-midget-coms": {
+      "programId": "prog-1261-midget-coms",
+      "programName": "midget coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1261-midget-coms.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1262-midget-coms2": {
+      "programId": "prog-1262-midget-coms2",
+      "programName": "midget coms²",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1262-midget-coms2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1263-mifiaxp": {
+      "programId": "prog-1263-mifiaxp",
+      "programName": "mifiaXP",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1263-mifiaxp.zip",
+      "localSize": 2311499,
+      "textFileCount": 2,
+      "textFiles": [
+        "READ ME!.txt",
+        "mafiaXP.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "C-Com / command list",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [
+        "AOL 8.0"
+      ],
+      "notes": [
+        "READ ME!.txt mentions AOL 8.0.",
+        "READ ME!.txt has vocabulary for Punter / booter, C-Com / command list, Source / developer file, AOL/AIM chat utility.",
+        "mafiaXP.ini has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-1264-millennium-falcon-massmail": {
+      "programId": "prog-1264-millennium-falcon-massmail",
+      "programName": "millennium falcon massmail",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1264-millennium-falcon-massmail.zip",
+      "localSize": 2955983,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1265-millennium-server-tools": {
+      "programId": "prog-1265-millennium-server-tools",
+      "programName": "Millennium Server Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1265-millennium-server-tools.zip",
+      "localSize": 1545805,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1266-millennium-server-tools": {
+      "programId": "prog-1266-millennium-server-tools",
+      "programName": "Millennium Server Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1266-millennium-server-tools.zip",
+      "localSize": 1524610,
+      "textFileCount": 1,
+      "textFiles": [
+        "JDE.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1267-millennium-server-tools": {
+      "programId": "prog-1267-millennium-server-tools",
+      "programName": "Millennium Server Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1267-millennium-server-tools.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1268-millennium-server-tools": {
+      "programId": "prog-1268-millennium-server-tools",
+      "programName": "Millennium Server Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1268-millennium-server-tools.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1269-millennium-server-tools": {
+      "programId": "prog-1269-millennium-server-tools",
+      "programName": "Millennium Server Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1269-millennium-server-tools.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1270-millennium7": {
+      "programId": "prog-1270-millennium7",
+      "programName": "millennium7",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1270-millennium7.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1271-mini-idlei2": {
+      "programId": "prog-1271-mini-idlei2",
+      "programName": "mini idleI²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1271-mini-idlei2.zip",
+      "localSize": 83767,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1272-mini-xpee": {
+      "programId": "prog-1272-mini-xpee",
+      "programName": "mini xpee",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1272-mini-xpee.zip",
+      "localSize": 4100947,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1273-mini-tank-1": {
+      "programId": "prog-1273-mini-tank-1",
+      "programName": "mini_tank_1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1273-mini-tank-1.zip",
+      "localSize": 1739701,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1274-minichat": {
+      "programId": "prog-1274-minichat",
+      "programName": "Minichat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1274-minichat.zip",
+      "localSize": 1720819,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1275-miniscroller": {
+      "programId": "prog-1275-miniscroller",
+      "programName": "MiniScroller",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1275-miniscroller.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1276-mirage-v1-o": {
+      "programId": "prog-1276-mirage-v1-o",
+      "programName": "Mirage v1.o",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1276-mirage-v1-o.zip",
+      "localSize": 4254596,
+      "textFileCount": 2,
+      "textFiles": [
+        "readme.txt",
+        "Download..txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Mass mailer / server."
+      ]
+    },
+    "prog-1277-miralcetank1": {
+      "programId": "prog-1277-miralcetank1",
+      "programName": "miralcetank1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1277-miralcetank1.zip",
+      "localSize": 1411964,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1278-misunderstood": {
+      "programId": "prog-1278-misunderstood",
+      "programName": "misunderstood",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1278-misunderstood.zip",
+      "localSize": 920816,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1279-mmer": {
+      "programId": "prog-1279-mmer",
+      "programName": "MMer",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1279-mmer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1280-mmer": {
+      "programId": "prog-1280-mmer",
+      "programName": "mmer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1280-mmer.zip",
+      "localSize": 127446,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1281-momentum": {
+      "programId": "prog-1281-momentum",
+      "programName": "momentum",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1281-momentum.zip",
+      "localSize": 1765360,
+      "textFileCount": 2,
+      "textFiles": [
+        "CREDITS.TXT",
+        "README.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Linker / chat linker",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "CREDITS.TXT has vocabulary for All-in-one prog suite, Idler / AFK bot.",
+        "README.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Scroller / macro, Linker / chat linker, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1282-monkee-business-1-0": {
+      "programId": "prog-1282-monkee-business-1-0",
+      "programName": "monkee business 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1282-monkee-business-1-0.zip",
+      "localSize": 1843679,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1283-morbid": {
+      "programId": "prog-1283-morbid",
+      "programName": "morbid",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1283-morbid.zip",
+      "localSize": 1498131,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1284-mortality-room-cycler": {
+      "programId": "prog-1284-mortality-room-cycler",
+      "programName": "Mortality Room Cycler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1284-mortality-room-cycler.zip",
+      "localSize": 1567826,
+      "textFileCount": 2,
+      "textFiles": [
+        "save2.ini",
+        "save.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "save.ini has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-1285-mortality-room-cycler": {
+      "programId": "prog-1285-mortality-room-cycler",
+      "programName": "Mortality Room Cycler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1285-mortality-room-cycler.zip",
+      "localSize": 1924381,
+      "textFileCount": 4,
+      "textFiles": [
+        "save2.ini",
+        "default.ini",
+        "skingg.ini",
+        "snames.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1286-mortality-room-cycler7-0": {
+      "programId": "prog-1286-mortality-room-cycler7-0",
+      "programName": "Mortality Room Cycler7.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1286-mortality-room-cycler7-0.zip",
+      "localSize": 1568643,
+      "textFileCount": 2,
+      "textFiles": [
+        "save2.ini",
+        "save.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "save.ini has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-1287-mortality-room-tools": {
+      "programId": "prog-1287-mortality-room-tools",
+      "programName": "Mortality Room Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/1287-mortality-room-tools.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1288-mortality-roombuster": {
+      "programId": "prog-1288-mortality-roombuster",
+      "programName": "Mortality RoomBuster",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1288-mortality-roombuster.zip",
+      "localSize": 1490769,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1289-motherbust": {
+      "programId": "prog-1289-motherbust",
+      "programName": "motherbust",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1289-motherbust.zip",
+      "localSize": 23238,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1290-mov2": {
+      "programId": "prog-1290-mov2",
+      "programName": "mov2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1290-mov2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1291-mov2": {
+      "programId": "prog-1291-mov2",
+      "programName": "mov2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1291-mov2.zip",
+      "localSize": 1442509,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1292-mov3": {
+      "programId": "prog-1292-mov3",
+      "programName": "mov3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1292-mov3.zip",
+      "localSize": 1611310,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1293-mov4": {
+      "programId": "prog-1293-mov4",
+      "programName": "mov4",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1293-mov4.zip",
+      "localSize": 1514021,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1294-mov5": {
+      "programId": "prog-1294-mov5",
+      "programName": "mov5",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1294-mov5.zip",
+      "localSize": 1642231,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme/readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1295-move-pendings": {
+      "programId": "prog-1295-move-pendings",
+      "programName": "Move Pendings",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1295-move-pendings.zip",
+      "localSize": 1395608,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1296-mp3": {
+      "programId": "prog-1296-mp3",
+      "programName": "Mp3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1296-mp3.zip",
+      "localSize": 2318934,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1297-mp3-control": {
+      "programId": "prog-1297-mp3-control",
+      "programName": "mp3 control",
+      "scanned": true,
+      "localPath": "files/aol/aol-8-0/1297-mp3-control.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1298-mp3-easy-2": {
+      "programId": "prog-1298-mp3-easy-2",
+      "programName": "mp3 easy 2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1298-mp3-easy-2.zip",
+      "localSize": 1886076,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1299-mp3-tech1-01": {
+      "programId": "prog-1299-mp3-tech1-01",
+      "programName": "mp3 tech1.01",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1299-mp3-tech1-01.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1300-mp3pimp": {
+      "programId": "prog-1300-mp3pimp",
+      "programName": "mp3pimp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1300-mp3pimp.zip",
+      "localSize": 2505916,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 5.0",
+        "AOL 5"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 5.0, AOL 5.",
+        "readme.txt has vocabulary for Idler / AFK bot, Scroller / macro, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1301-mp3player": {
+      "programId": "prog-1301-mp3player",
+      "programName": "mp3player",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1301-mp3player.zip",
+      "localSize": 2267991,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1302-mplay3-amp-by-miguel": {
+      "programId": "prog-1302-mplay3-amp-by-miguel",
+      "programName": "mpLay3 AMP - by miguel",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1302-mplay3-amp-by-miguel.zip",
+      "localSize": 1475326,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 7.0",
+        "AOL 9.0"
+      ],
+      "notes": [
+        "READ ME!!!.txt mentions AOL 7.0, AOL 9.0."
+      ]
+    },
+    "prog-1303-mplayerx-ceelo": {
+      "programId": "prog-1303-mplayerx-ceelo",
+      "programName": "MPlayerX-CeeLo",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1303-mplayerx-ceelo.zip",
+      "localSize": 3961069,
+      "textFileCount": 6,
+      "textFiles": [
+        "INSTALL.txt",
+        "MMPlayerX.ini",
+        "MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt",
+        "MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR",
+        "MMp3Player/Skins/guinamp_pirata/Readme (English).txt",
+        "MMp3Player/Skins/guinamp_pirata/Skin.ini"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Raul Martinez",
+          "sourceFile": "MMp3Player/Skins/guinamp_pirata/Skin.ini",
+          "pattern": "authorname=raul martinez"
+        }
+      ],
+      "preferredAuthor": "Raul Martinez",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "INSTALL.txt has vocabulary for Source / developer file.",
+        "MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt has vocabulary for Media / file utility.",
+        "MMp3Player/Skins/guinamp_pirata/Readme (English).txt has vocabulary for Fader / text styler, Media / file utility.",
+        "MMp3Player/Skins/guinamp_pirata/Skin.ini includes archive-text author clue(s): Raul Martinez.",
+        "MMp3Player/Skins/guinamp_pirata/Skin.ini has vocabulary for Scroller / macro, Media / file utility."
+      ]
+    },
+    "prog-1304-mprztoolz": {
+      "programId": "prog-1304-mprztoolz",
+      "programName": "MprzToolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1304-mprztoolz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1305-mprztoolz": {
+      "programId": "prog-1305-mprztoolz",
+      "programName": "MprzToolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1305-mprztoolz.zip",
+      "localSize": 887231,
+      "textFileCount": 1,
+      "textFiles": [
+        "Readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 95",
+        "AOL 3.0"
+      ],
+      "notes": [
+        "Readme.txt mentions AOL 95, AOL 3.0.",
+        "Readme.txt has vocabulary for All-in-one prog suite, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1306-mscram-v25": {
+      "programId": "prog-1306-mscram-v25",
+      "programName": "mscram_v25",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1306-mscram-v25.zip",
+      "localSize": 3293400,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1307-mst6": {
+      "programId": "prog-1307-mst6",
+      "programName": "MST6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1307-mst6.zip",
+      "localSize": 1552708,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1308-multi-fader": {
+      "programId": "prog-1308-multi-fader",
+      "programName": "Multi Fader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1308-multi-fader.zip",
+      "localSize": 112844,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1309-musik-playa-by-negz": {
+      "programId": "prog-1309-musik-playa-by-negz",
+      "programName": "Musik Playa by Negz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1309-musik-playa-by-negz.zip",
+      "localSize": 2350739,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1310-mxpx": {
+      "programId": "prog-1310-mxpx",
+      "programName": "mxpx",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1310-mxpx.zip",
+      "localSize": 1736533,
+      "textFileCount": 1,
+      "textFiles": [
+        "about_mxpx.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4",
+        "AOL 5",
+        "AOL 3.0",
+        "AOL 2.5"
+      ],
+      "notes": [
+        "about_mxpx.txt mentions AOL 4, AOL 5, AOL 3.0, AOL 2.5.",
+        "about_mxpx.txt has vocabulary for C-Com / command list, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1311-mystic": {
+      "programId": "prog-1311-mystic",
+      "programName": "Mystic",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1311-mystic.zip",
+      "localSize": 5158280,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1312-mystified-mail-server-v2": {
+      "programId": "prog-1312-mystified-mail-server-v2",
+      "programName": "mystified mail server v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1312-mystified-mail-server-v2.zip",
+      "localSize": 4242400,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1313-mystifiedmailserver": {
+      "programId": "prog-1313-mystifiedmailserver",
+      "programName": "MystifiedMailServer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1313-mystifiedmailserver.zip",
+      "localSize": 4759317,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1314-mystikidler": {
+      "programId": "prog-1314-mystikidler",
+      "programName": "mystikidler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1314-mystikidler.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1315-nad": {
+      "programId": "prog-1315-nad",
+      "programName": "nad",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1315-nad.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1316-namecaller-v1": {
+      "programId": "prog-1316-namecaller-v1",
+      "programName": "NameCaller v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1316-namecaller-v1.zip",
+      "localSize": 1427847,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1317-nasinator": {
+      "programId": "prog-1317-nasinator",
+      "programName": "nasinator",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1317-nasinator.zip",
+      "localSize": 1390873,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1318-navall1": {
+      "programId": "prog-1318-navall1",
+      "programName": "NAVALL~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1318-navall1.zip",
+      "localSize": 1100538,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1319-nbk-spammer": {
+      "programId": "prog-1319-nbk-spammer",
+      "programName": "NBK - Spammer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1319-nbk-spammer.zip",
+      "localSize": 1886728,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Mass mailer / server",
+        "Screen-name utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4"
+      ],
+      "notes": [
+        "Read Me!.txt mentions AOL 4.",
+        "Read Me!.txt has vocabulary for Idler / AFK bot, Mass mailer / server, Screen-name utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1320-ne0-toolz-v1-2": {
+      "programId": "prog-1320-ne0-toolz-v1-2",
+      "programName": "Ne0 Toolz v1.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1320-ne0-toolz-v1-2.zip",
+      "localSize": 1053248,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1321-ne0s-massacre": {
+      "programId": "prog-1321-ne0s-massacre",
+      "programName": "Ne0's Massacre",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1321-ne0s-massacre.zip",
+      "localSize": 4202697,
+      "textFileCount": 1,
+      "textFiles": [
+        "Ne0's Massacre.Vbp"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [
+        "AOL 4"
+      ],
+      "notes": [
+        "Ne0's Massacre.Vbp mentions AOL 4.",
+        "Ne0's Massacre.Vbp has vocabulary for Fader / text styler, Idler / AFK bot, Source / developer file."
+      ]
+    },
+    "prog-1322-necro": {
+      "programId": "prog-1322-necro",
+      "programName": "Necro",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1322-necro.zip",
+      "localSize": 1324259,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1323-need-for-weed": {
+      "programId": "prog-1323-need-for-weed",
+      "programName": "Need For Weed╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1323-need-for-weed.zip",
+      "localSize": 813999,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1324-negzsleeper": {
+      "programId": "prog-1324-negzsleeper",
+      "programName": "NegzSleeper",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1324-negzsleeper.zip",
+      "localSize": 1386659,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1325-nemesisv1": {
+      "programId": "prog-1325-nemesisv1",
+      "programName": "nemesisv1",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/1325-nemesisv1.zip",
+      "localSize": 2537642,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1326-neon-3-0": {
+      "programId": "prog-1326-neon-3-0",
+      "programName": "NEON 3.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1326-neon-3-0.zip",
+      "localSize": 3289026,
+      "textFileCount": 1,
+      "textFiles": [
+        "NEON 3.0 Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "NEON 3.0 Read Me.txt has vocabulary for Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-1327-neosetup": {
+      "programId": "prog-1327-neosetup",
+      "programName": "neosetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1327-neosetup.zip",
+      "localSize": 773611,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1328-neqxlink": {
+      "programId": "prog-1328-neqxlink",
+      "programName": "neqxlink",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1328-neqxlink.zip",
+      "localSize": 1395749,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1329-net-spam": {
+      "programId": "prog-1329-net-spam",
+      "programName": "Net-Spam",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1329-net-spam.zip",
+      "localSize": 1563230,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1330-netlink3": {
+      "programId": "prog-1330-netlink3",
+      "programName": "netlink3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1330-netlink3.zip",
+      "localSize": 797869,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1331-neuspeed": {
+      "programId": "prog-1331-neuspeed",
+      "programName": "neuspeed",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1331-neuspeed.zip",
+      "localSize": 1700592,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1332-neutral-idler-v1-0": {
+      "programId": "prog-1332-neutral-idler-v1-0",
+      "programName": "Neutral Idler v1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1332-neutral-idler-v1-0.zip",
+      "localSize": 1711323,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1333-newagev1": {
+      "programId": "prog-1333-newagev1",
+      "programName": "NewAgev1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1333-newagev1.zip",
+      "localSize": 2556405,
+      "textFileCount": 1,
+      "textFiles": [
+        "newage/info.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "newage/info.ini has vocabulary for Fader / text styler, Scroller / macro, Media / file utility."
+      ]
+    },
+    "prog-1334-newb-o-meter": {
+      "programId": "prog-1334-newb-o-meter",
+      "programName": "Newb-o-meter",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1334-newb-o-meter.zip",
+      "localSize": 2453261,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1335-newbie-2k6": {
+      "programId": "prog-1335-newbie-2k6",
+      "programName": "Newbie 2k6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1335-newbie-2k6.zip",
+      "localSize": 1733818,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1336-newuser": {
+      "programId": "prog-1336-newuser",
+      "programName": "NewUser",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1336-newuser.zip",
+      "localSize": 1429826,
+      "textFileCount": 1,
+      "textFiles": [
+        "nur9.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "nur9.txt mentions AOL 9.0."
+      ]
+    },
+    "prog-1337-newuser": {
+      "programId": "prog-1337-newuser",
+      "programName": "newuser",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1337-newuser.zip",
+      "localSize": 111711,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1338-ngpunter": {
+      "programId": "prog-1338-ngpunter",
+      "programName": "ngpunter",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1338-ngpunter.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1339-nifty-idle": {
+      "programId": "prog-1339-nifty-idle",
+      "programName": "Nifty idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1339-nifty-idle.zip",
+      "localSize": 25440,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1340-nightmares1": {
+      "programId": "prog-1340-nightmares1",
+      "programName": "nightmares1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1340-nightmares1.zip",
+      "localSize": 1137892,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1341-nightmarez": {
+      "programId": "prog-1341-nightmarez",
+      "programName": "nightmarez",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1341-nightmarez.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1342-nik-mail-tagger-beta-0-1": {
+      "programId": "prog-1342-nik-mail-tagger-beta-0-1",
+      "programName": "NiK Mail Tagger - Beta 0.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1342-nik-mail-tagger-beta-0-1.zip",
+      "localSize": 1483234,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1343-nismo-idle-by-spermie": {
+      "programId": "prog-1343-nismo-idle-by-spermie",
+      "programName": "nismo idle╣╖║ by spermie",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1343-nismo-idle-by-spermie.zip",
+      "localSize": 1725230,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1344-nitro-dality": {
+      "programId": "prog-1344-nitro-dality",
+      "programName": "NiTRO-dality",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1344-nitro-dality.zip",
+      "localSize": 1534921,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1345-nitro": {
+      "programId": "prog-1345-nitro",
+      "programName": "Nitro│",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1345-nitro.zip",
+      "localSize": 440331,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1346-nitz-tools": {
+      "programId": "prog-1346-nitz-tools",
+      "programName": "nitz tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1346-nitz-tools.zip",
+      "localSize": 1707759,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1347-nlt": {
+      "programId": "prog-1347-nlt",
+      "programName": "nlt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1347-nlt.zip",
+      "localSize": 1493220,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1348-noizemmer": {
+      "programId": "prog-1348-noizemmer",
+      "programName": "noizeMMer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1348-noizemmer.zip",
+      "localSize": 1407877,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1349-noob": {
+      "programId": "prog-1349-noob",
+      "programName": "noob",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1349-noob.zip",
+      "localSize": 1674237,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1350-nook-comz": {
+      "programId": "prog-1350-nook-comz",
+      "programName": "nook comz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1350-nook-comz.zip",
+      "localSize": 2448540,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1351-norlit": {
+      "programId": "prog-1351-norlit",
+      "programName": "NorLit",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1351-norlit.zip",
+      "localSize": 1840070,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1352-nos": {
+      "programId": "prog-1352-nos",
+      "programName": "nos",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1352-nos.zip",
+      "localSize": 939576,
+      "textFileCount": 2,
+      "textFiles": [
+        "Dog.nit.txt",
+        "NITR.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1353-note2k": {
+      "programId": "prog-1353-note2k",
+      "programName": "note2k",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1353-note2k.zip",
+      "localSize": 1514500,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1354-noted1": {
+      "programId": "prog-1354-noted1",
+      "programName": "noted1",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1354-noted1.zip",
+      "localSize": 1559862,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1355-nox-toolz": {
+      "programId": "prog-1355-nox-toolz",
+      "programName": "Nox_Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1355-nox-toolz.zip",
+      "localSize": 1613707,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1356-nrg-impulse": {
+      "programId": "prog-1356-nrg-impulse",
+      "programName": "nrg-impulse",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1356-nrg-impulse.zip",
+      "localSize": 1464902,
+      "textFileCount": 3,
+      "textFiles": [
+        "nrg.ini",
+        "nrgreadme.txt",
+        "roomz.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro",
+        "Media / file utility",
+        "All-in-one prog suite",
+        "Mass mailer / server",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "nrg.ini has vocabulary for Scroller / macro, Media / file utility.",
+        "nrgreadme.txt has vocabulary for All-in-one prog suite, Scroller / macro, Mass mailer / server, Media / file utility, AOL/AIM chat utility.",
+        "roomz.ini has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-1357-ns1": {
+      "programId": "prog-1357-ns1",
+      "programName": "ns1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1357-ns1.zip",
+      "localSize": 133705,
+      "textFileCount": 2,
+      "textFiles": [
+        "canons cabin.txt",
+        "dbpush.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "canons cabin.txt has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-1358-nsidle": {
+      "programId": "prog-1358-nsidle",
+      "programName": "nsidle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1358-nsidle.zip",
+      "localSize": 1788343,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Idler / AFK bot, C-Com / command list."
+      ]
+    },
+    "prog-1359-ntpunt": {
+      "programId": "prog-1359-ntpunt",
+      "programName": "ntpunt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1359-ntpunt.zip",
+      "localSize": 862335,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1360-nuked-establishment": {
+      "programId": "prog-1360-nuked-establishment",
+      "programName": "NuKeD EstabLiShMenT",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1360-nuked-establishment.zip",
+      "localSize": 1750680,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1361-null-and-void": {
+      "programId": "prog-1361-null-and-void",
+      "programName": "null and void",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1361-null-and-void.zip",
+      "localSize": 5606467,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1362-null-and-void-2-5-5-final": {
+      "programId": "prog-1362-null-and-void-2-5-5-final",
+      "programName": "null and void 2.5.5 final",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1362-null-and-void-2-5-5-final.zip",
+      "localSize": 4036239,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1363-nutz-punter": {
+      "programId": "prog-1363-nutz-punter",
+      "programName": "Nutz Punter",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1363-nutz-punter.zip",
+      "localSize": 77387,
+      "textFileCount": 1,
+      "textFiles": [
+        "README~1.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1364-nw": {
+      "programId": "prog-1364-nw",
+      "programName": "nw",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1364-nw.zip",
+      "localSize": 3608478,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Room buster",
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 3",
+        "AOL 4"
+      ],
+      "notes": [
+        "readme.txt mentions AOL 3, AOL 4.",
+        "readme.txt has vocabulary for Room buster, Account / TOS utility, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1365-nwopunter": {
+      "programId": "prog-1365-nwopunter",
+      "programName": "nWopunter",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1365-nwopunter.zip",
+      "localSize": 502020,
+      "textFileCount": 4,
+      "textFiles": [
+        "irunin.ini",
+        "PROGWO ~1.nfo",
+        "progworld.html",
+        "Progworld.nfo"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [
+        "AOL 40"
+      ],
+      "notes": [
+        "irunin.ini mentions AOL 40.",
+        "irunin.ini has vocabulary for Punter / booter.",
+        "Progworld.nfo has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-1366-nyte-lag": {
+      "programId": "prog-1366-nyte-lag",
+      "programName": "Nyte Lag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1366-nyte-lag.zip",
+      "localSize": 1711613,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1367-n-bs-dlr": {
+      "programId": "prog-1367-n-bs-dlr",
+      "programName": "N° Bßs φdlΘr",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1367-n-bs-dlr.zip",
+      "localSize": 45757,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1368-n-bs-dlr-2-0": {
+      "programId": "prog-1368-n-bs-dlr-2-0",
+      "programName": "N° Bßs φdlΘr 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1368-n-bs-dlr-2-0.zip",
+      "localSize": 790624,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1369-nuclear": {
+      "programId": "prog-1369-nuclear",
+      "programName": "Nùclear",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1369-nuclear.zip",
+      "localSize": 439722,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1370-o2scan": {
+      "programId": "prog-1370-o2scan",
+      "programName": "o2scan",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1370-o2scan.zip",
+      "localSize": 526288,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Notez.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Notez.txt has vocabulary for Punter / booter, Account / TOS utility."
+      ]
+    },
+    "prog-1371-oblivian": {
+      "programId": "prog-1371-oblivian",
+      "programName": "oblivian",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1371-oblivian.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1372-ocf3finl": {
+      "programId": "prog-1372-ocf3finl",
+      "programName": "OCF3FINL",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1372-ocf3finl.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1373-ocxreg32": {
+      "programId": "prog-1373-ocxreg32",
+      "programName": "OCXREG32",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1373-ocxreg32.zip",
+      "localSize": 1829603,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1374-odd-prog": {
+      "programId": "prog-1374-odd-prog",
+      "programName": "Odd Prog",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1374-odd-prog.zip",
+      "localSize": 1722820,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1375-oddities": {
+      "programId": "prog-1375-oddities",
+      "programName": "Oddities",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1375-oddities.zip",
+      "localSize": 4631843,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1376-omega": {
+      "programId": "prog-1376-omega",
+      "programName": "omega",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1376-omega.zip",
+      "localSize": 2121692,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1377-omegat1": {
+      "programId": "prog-1377-omegat1",
+      "programName": "omegat~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1377-omegat1.zip",
+      "localSize": 813444,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1378-one": {
+      "programId": "prog-1378-one",
+      "programName": "one",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1378-one.zip",
+      "localSize": 548686,
+      "textFileCount": 4,
+      "textFiles": [
+        "one.ini",
+        "readme.txt",
+        "AutoTag.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Punter / booter",
+        "AOL/AIM chat utility",
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [
+        "AOL 3.0"
+      ],
+      "notes": [
+        "one.ini has vocabulary for Punter / booter, AOL/AIM chat utility.",
+        "readme.txt mentions AOL 3.0.",
+        "readme.txt has vocabulary for Idler / AFK bot, Punter / booter, AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1379-onecentinc": {
+      "programId": "prog-1379-onecentinc",
+      "programName": "ONECENTINC",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1379-onecentinc.zip",
+      "localSize": 844957,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1380-opakistano": {
+      "programId": "prog-1380-opakistano",
+      "programName": "oPAKISTANo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1380-opakistano.zip",
+      "localSize": 777444,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1381-operator": {
+      "programId": "prog-1381-operator",
+      "programName": "operator",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1381-operator.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1382-optical-phader1": {
+      "programId": "prog-1382-optical-phader1",
+      "programName": "Optical Phader1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1382-optical-phader1.zip",
+      "localSize": 1553254,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1383-optik2": {
+      "programId": "prog-1383-optik2",
+      "programName": "optik2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1383-optik2.zip",
+      "localSize": 4213915,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [
+        "AOL 16",
+        "AOL 95",
+        "AOL 32"
+      ],
+      "notes": [
+        "README.TXT mentions AOL 16, AOL 95, AOL 32."
+      ]
+    },
+    "prog-1384-oreo": {
+      "programId": "prog-1384-oreo",
+      "programName": "oreo╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1384-oreo.zip",
+      "localSize": 1736843,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1385-osiris-mp3-1-0": {
+      "programId": "prog-1385-osiris-mp3-1-0",
+      "programName": "Osiris Mp3 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1385-osiris-mp3-1-0.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1386-outbreak": {
+      "programId": "prog-1386-outbreak",
+      "programName": "outbreak",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1386-outbreak.zip",
+      "localSize": 2179187,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1387-outbreak-infiniti": {
+      "programId": "prog-1387-outbreak-infiniti",
+      "programName": "outbreak infiniti",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1387-outbreak-infiniti.zip",
+      "localSize": 1675807,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1388-outbreak-infiniti2": {
+      "programId": "prog-1388-outbreak-infiniti2",
+      "programName": "outbreak infiniti2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1388-outbreak-infiniti2.zip",
+      "localSize": 1966788,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1389-outbre1": {
+      "programId": "prog-1389-outbre1",
+      "programName": "OUTBRE~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1389-outbre1.zip",
+      "localSize": 2259229,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1390-outwar": {
+      "programId": "prog-1390-outwar",
+      "programName": "Outwar",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1390-outwar.zip",
+      "localSize": 1412850,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1391-owner3": {
+      "programId": "prog-1391-owner3",
+      "programName": "owner3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1391-owner3.zip",
+      "localSize": 1252202,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1392-oxs-ccoms-setup": {
+      "programId": "prog-1392-oxs-ccoms-setup",
+      "programName": "oxs ccoms¦ - setup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1392-oxs-ccoms-setup.zip",
+      "localSize": 1479741,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1393-ozz-com-se": {
+      "programId": "prog-1393-ozz-com-se",
+      "programName": "ozz-com se",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1393-ozz-com-se.zip",
+      "localSize": 1087245,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1394-psprog": {
+      "programId": "prog-1394-psprog",
+      "programName": "P'sprog",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1394-psprog.zip",
+      "localSize": 810855,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1395-p-o-d": {
+      "programId": "prog-1395-p-o-d",
+      "programName": "P.O.D",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1395-p-o-d.zip",
+      "localSize": 1956442,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1396-pa-toolz": {
+      "programId": "prog-1396-pa-toolz",
+      "programName": "PA - Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1396-pa-toolz.zip",
+      "localSize": 822015,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1397-pac-idle": {
+      "programId": "prog-1397-pac-idle",
+      "programName": "pac idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1397-pac-idle.zip",
+      "localSize": 1406179,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1398-paco": {
+      "programId": "prog-1398-paco",
+      "programName": "paco",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1398-paco.zip",
+      "localSize": 1731218,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1399-pakistani-clone-scroller": {
+      "programId": "prog-1399-pakistani-clone-scroller",
+      "programName": "pakistani clone scroller",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1399-pakistani-clone-scroller.zip",
+      "localSize": 837040,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1400-pancakesscroller": {
+      "programId": "prog-1400-pancakesscroller",
+      "programName": "PancakesScroller",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1400-pancakesscroller.zip",
+      "localSize": 1491641,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1401-paquin-coms-by-almo": {
+      "programId": "prog-1401-paquin-coms-by-almo",
+      "programName": "paquin coms by almo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1401-paquin-coms-by-almo.zip",
+      "localSize": 5125048,
+      "textFileCount": 1,
+      "textFiles": [
+        "paquin.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "paquin.ini has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-1402-parasite-v1-0": {
+      "programId": "prog-1402-parasite-v1-0",
+      "programName": "PARASITE v1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1402-parasite-v1-0.zip",
+      "localSize": 1663962,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0"
+      ],
+      "notes": [
+        "READ ME.txt mentions AOL 4.0.",
+        "READ ME.txt has vocabulary for Scroller / macro."
+      ]
+    },
+    "prog-1403-parfin": {
+      "programId": "prog-1403-parfin",
+      "programName": "PARFIN",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1403-parfin.zip",
+      "localSize": 2359146,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1404-passproc": {
+      "programId": "prog-1404-passproc",
+      "programName": "passproc",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1404-passproc.zip",
+      "localSize": 2897571,
+      "textFileCount": 2,
+      "textFiles": [
+        "instruction.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1405-pchasefb": {
+      "programId": "prog-1405-pchasefb",
+      "programName": "pchasefb",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1405-pchasefb.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1406-pcv2002beta-lite-setup": {
+      "programId": "prog-1406-pcv2002beta-lite-setup",
+      "programName": "PCV2002(beta) LITE Setup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1406-pcv2002beta-lite-setup.zip",
+      "localSize": 640694,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1407-pd-21f": {
+      "programId": "prog-1407-pd-21f",
+      "programName": "pd_21f",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1407-pd-21f.zip",
+      "localSize": 723268,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1408-pellet1": {
+      "programId": "prog-1408-pellet1",
+      "programName": "PELLET~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1408-pellet1.zip",
+      "localSize": 414859,
+      "textFileCount": 2,
+      "textFiles": [
+        "Flufffycow.txt",
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Media / file utility."
+      ]
+    },
+    "prog-1409-penlink": {
+      "programId": "prog-1409-penlink",
+      "programName": "penlink",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1409-penlink.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1410-pepsi4": {
+      "programId": "prog-1410-pepsi4",
+      "programName": "pepsi4",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1410-pepsi4.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1411-pepsimm": {
+      "programId": "prog-1411-pepsimm",
+      "programName": "pepsimm",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1411-pepsimm.zip",
+      "localSize": 1513573,
+      "textFileCount": 6,
+      "textFiles": [
+        "!!SOUND.TXT",
+        "!!AGE.TXT",
+        "!!F-U.TXT",
+        "!!DANK.TXT",
+        "!!BITCH.TXT",
+        "!!PW.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility",
+        "Scroller / macro",
+        "Punter / booter"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "!!SOUND.TXT has vocabulary for Media / file utility.",
+        "!!DANK.TXT has vocabulary for Scroller / macro.",
+        "!!PW.TXT has vocabulary for Punter / booter."
+      ]
+    },
+    "prog-1412-perfsetup": {
+      "programId": "prog-1412-perfsetup",
+      "programName": "PerfSetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1412-perfsetup.zip",
+      "localSize": 2184502,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1413-perish1": {
+      "programId": "prog-1413-perish1",
+      "programName": "perish1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1413-perish1.zip",
+      "localSize": 1465146,
+      "textFileCount": 1,
+      "textFiles": [
+        "MadJester - Must Read.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MadJester - Must Read.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-1414-permaqaqqer": {
+      "programId": "prog-1414-permaqaqqer",
+      "programName": "permaqaqqer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1414-permaqaqqer.zip",
+      "localSize": 1379432,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1415-petition1-by-j4ke": {
+      "programId": "prog-1415-petition1-by-j4ke",
+      "programName": "petition1 by j4ke",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1415-petition1-by-j4ke.zip",
+      "localSize": 2915852,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1416-pffader": {
+      "programId": "prog-1416-pffader",
+      "programName": "pffader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1416-pffader.zip",
+      "localSize": 762632,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1417-ph2": {
+      "programId": "prog-1417-ph2",
+      "programName": "ph2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1417-ph2.zip",
+      "localSize": 1958016,
+      "textFileCount": 2,
+      "textFiles": [
+        "CjL Online.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1418-ph2k-app-sender-v2": {
+      "programId": "prog-1418-ph2k-app-sender-v2",
+      "programName": "ph2k app sender v2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1418-ph2k-app-sender-v2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1419-phademan": {
+      "programId": "prog-1419-phademan",
+      "programName": "phademan",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1419-phademan.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1420-phader": {
+      "programId": "prog-1420-phader",
+      "programName": "phader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1420-phader.zip",
+      "localSize": 1393456,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1421-phader": {
+      "programId": "prog-1421-phader",
+      "programName": "phader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1421-phader.zip",
+      "localSize": 1500838,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1422-phader1": {
+      "programId": "prog-1422-phader1",
+      "programName": "phader1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1422-phader1.zip",
+      "localSize": 1491058,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1423-phadish-v2-0": {
+      "programId": "prog-1423-phadish-v2-0",
+      "programName": "phadish v2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1423-phadish-v2-0.zip",
+      "localSize": 1566442,
+      "textFileCount": 2,
+      "textFiles": [
+        "README.txt",
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.txt has vocabulary for AOL/AIM chat utility.",
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1424-phantom-7-1": {
+      "programId": "prog-1424-phantom-7-1",
+      "programName": "Phantom 7.1",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1424-phantom-7-1.zip",
+      "localSize": 3239550,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1425-phase1": {
+      "programId": "prog-1425-phase1",
+      "programName": "PHASE1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1425-phase1.zip",
+      "localSize": 22292,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1426-phat-mp32": {
+      "programId": "prog-1426-phat-mp32",
+      "programName": "phat mp3·²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1426-phat-mp32.zip",
+      "localSize": 2445108,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1427-phatlags": {
+      "programId": "prog-1427-phatlags",
+      "programName": "PHATLAGS",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1427-phatlags.zip",
+      "localSize": 1556394,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1428-phats": {
+      "programId": "prog-1428-phats",
+      "programName": "phats",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1428-phats.zip",
+      "localSize": 1420567,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1429-phaze-c-com": {
+      "programId": "prog-1429-phaze-c-com",
+      "programName": "phaze c-com",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1429-phaze-c-com.zip",
+      "localSize": 1921854,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1430-phazerphader-2o": {
+      "programId": "prog-1430-phazerphader-2o",
+      "programName": "PhazerPhader ²·º",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1430-phazerphader-2o.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1431-phazerphader": {
+      "programId": "prog-1431-phazerphader",
+      "programName": "Phazer·Phader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1431-phazerphader.zip",
+      "localSize": 2861887,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Fader / text styler."
+      ]
+    },
+    "prog-1432-pheap-idle2": {
+      "programId": "prog-1432-pheap-idle2",
+      "programName": "pheap idle²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1432-pheap-idle2.zip",
+      "localSize": 1731091,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1433-pheap-idle": {
+      "programId": "prog-1433-pheap-idle",
+      "programName": "pheap idle│",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1433-pheap-idle.zip",
+      "localSize": 2901176,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1434-phish": {
+      "programId": "prog-1434-phish",
+      "programName": "phish",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1434-phish.zip",
+      "localSize": 519831,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [
+        {
+          "name": "ed",
+          "sourceFile": "read me.txt",
+          "pattern": "author"
+        }
+      ],
+      "preferredAuthor": "ed",
+      "purposeSignals": [
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt includes archive-text author clue(s): ed.",
+        "read me.txt has vocabulary for Account / TOS utility."
+      ]
+    },
+    "prog-1435-phish-crazie": {
+      "programId": "prog-1435-phish-crazie",
+      "programName": "phish crazie",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1435-phish-crazie.zip",
+      "localSize": 1734158,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1436-phishchecker": {
+      "programId": "prog-1436-phishchecker",
+      "programName": "PhishChecker",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1436-phishchecker.zip",
+      "localSize": 1556123,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1437-phishy-tanlk-v1-1": {
+      "programId": "prog-1437-phishy-tanlk-v1-1",
+      "programName": "Phishy Tanlk v1.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1437-phishy-tanlk-v1-1.zip",
+      "localSize": 976018,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1438-phishycheck-by-negz": {
+      "programId": "prog-1438-phishycheck-by-negz",
+      "programName": "phishycheck by negz",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1438-phishycheck-by-negz.zip",
+      "localSize": 1788124,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1439-phreeze-phade-2": {
+      "programId": "prog-1439-phreeze-phade-2",
+      "programName": "Phreeze Phade ²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1439-phreeze-phade-2.zip",
+      "localSize": 852982,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1440-phreeze": {
+      "programId": "prog-1440-phreeze",
+      "programName": "Phreeze!",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1440-phreeze.zip",
+      "localSize": 896870,
+      "textFileCount": 2,
+      "textFiles": [
+        "irunin.ini",
+        "ST5UNST.LOG"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ST5UNST.LOG has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-1441-phreeze-idler": {
+      "programId": "prog-1441-phreeze-idler",
+      "programName": "Phreeze-idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1441-phreeze-idler.zip",
+      "localSize": 481346,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1442-phreeze-phade": {
+      "programId": "prog-1442-phreeze-phade",
+      "programName": "Phreeze-Phade",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1442-phreeze-phade.zip",
+      "localSize": 494084,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1443-phrost": {
+      "programId": "prog-1443-phrost",
+      "programName": "Phrost",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1443-phrost.zip",
+      "localSize": 1557598,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1444-phstank": {
+      "programId": "prog-1444-phstank",
+      "programName": "phstank",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1444-phstank.zip",
+      "localSize": 1511224,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1445-phucked": {
+      "programId": "prog-1445-phucked",
+      "programName": "PhuckeD",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1445-phucked.zip",
+      "localSize": 1531326,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1446-ph": {
+      "programId": "prog-1446-ph",
+      "programName": "pH╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1446-ph.zip",
+      "localSize": 2386694,
+      "textFileCount": 2,
+      "textFiles": [
+        "Kai.ini",
+        "pH commands.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "AOL/AIM chat utility",
+        "Scroller / macro",
+        "Account / TOS utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 2.5"
+      ],
+      "notes": [
+        "Kai.ini has vocabulary for Idler / AFK bot, C-Com / command list, AOL/AIM chat utility.",
+        "pH commands.txt mentions AOL 2.5.",
+        "pH commands.txt has vocabulary for Idler / AFK bot, C-Com / command list, Scroller / macro, Account / TOS utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1447-pianda-idle-by-nas": {
+      "programId": "prog-1447-pianda-idle-by-nas",
+      "programName": "Pianda Idle by nas",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1447-pianda-idle-by-nas.zip",
+      "localSize": 1965919,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1448-pianda-v": {
+      "programId": "prog-1448-pianda-v",
+      "programName": "pianda v¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1448-pianda-v.zip",
+      "localSize": 1114158,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1449-pianda-v": {
+      "programId": "prog-1449-pianda-v",
+      "programName": "pianda v¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1449-pianda-v.zip",
+      "localSize": 1256693,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1450-pic": {
+      "programId": "prog-1450-pic",
+      "programName": "pic",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1450-pic.zip",
+      "localSize": 83125,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1451-pick-some-bud-idler": {
+      "programId": "prog-1451-pick-some-bud-idler",
+      "programName": "Pick Some Bud Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1451-pick-some-bud-idler.zip",
+      "localSize": 1447101,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1452-pimp": {
+      "programId": "prog-1452-pimp",
+      "programName": "PIMP",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1452-pimp.zip",
+      "localSize": 1525276,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1453-pinda-idle-v2-by-nas": {
+      "programId": "prog-1453-pinda-idle-v2-by-nas",
+      "programName": "Pinda Idle v2 by nas",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1453-pinda-idle-v2-by-nas.zip",
+      "localSize": 2032085,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1454-pkzip": {
+      "programId": "prog-1454-pkzip",
+      "programName": "PKZIP",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1454-pkzip.zip",
+      "localSize": 1456425,
+      "textFileCount": 4,
+      "textFiles": [
+        "README.TXT",
+        "APATHY.INI",
+        "luciferx/NAILZ.TXT",
+        "_conflicts/conflict.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility",
+        "Punter / booter",
+        "All-in-one prog suite",
+        "C-Com / command list",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.TXT has vocabulary for Media / file utility.",
+        "APATHY.INI has vocabulary for Punter / booter.",
+        "luciferx/NAILZ.TXT has vocabulary for All-in-one prog suite, Punter / booter, C-Com / command list, Mass mailer / server, Account / TOS utility."
+      ]
+    },
+    "prog-1455-planet-asia-vers-0-0-1": {
+      "programId": "prog-1455-planet-asia-vers-0-0-1",
+      "programName": "Planet Asia vers. 0.0.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1455-planet-asia-vers-0-0-1.zip",
+      "localSize": 28956,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1456-plasma": {
+      "programId": "prog-1456-plasma",
+      "programName": "plasma",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1456-plasma.zip",
+      "localSize": 1407046,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1457-platinum-idler": {
+      "programId": "prog-1457-platinum-idler",
+      "programName": "Platinum idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1457-platinum-idler.zip",
+      "localSize": 798081,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Linker / chat linker",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ!!.txt has vocabulary for Idler / AFK bot, Linker / chat linker, Source / developer file."
+      ]
+    },
+    "prog-1458-platinum-linker": {
+      "programId": "prog-1458-platinum-linker",
+      "programName": "Platinum Linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1458-platinum-linker.zip",
+      "localSize": 420155,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1459-platinum-server-tools": {
+      "programId": "prog-1459-platinum-server-tools",
+      "programName": "Platinum Server Tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1459-platinum-server-tools.zip",
+      "localSize": 1409830,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1460-platin1": {
+      "programId": "prog-1460-platin1",
+      "programName": "platin~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1460-platin1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1461-play-nice-xer": {
+      "programId": "prog-1461-play-nice-xer",
+      "programName": "PLaY NiCe x'er╣╖║",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1461-play-nice-xer.zip",
+      "localSize": 749972,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1462-playdatbish": {
+      "programId": "prog-1462-playdatbish",
+      "programName": "PlayDatBish",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1462-playdatbish.zip",
+      "localSize": 758689,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1463-plinstall": {
+      "programId": "prog-1463-plinstall",
+      "programName": "plinstall",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1463-plinstall.zip",
+      "localSize": 7018207,
+      "textFileCount": 1,
+      "textFiles": [
+        "_conflicts/conflict.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1464-plutonium-idle2": {
+      "programId": "prog-1464-plutonium-idle2",
+      "programName": "Plutonium Idle²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1464-plutonium-idle2.zip",
+      "localSize": 2055727,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1465-pmpsetup": {
+      "programId": "prog-1465-pmpsetup",
+      "programName": "pmpsetup",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1465-pmpsetup.zip",
+      "localSize": 4625121,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1466-pms": {
+      "programId": "prog-1466-pms",
+      "programName": "pms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1466-pms.zip",
+      "localSize": 1997438,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1467-poa-30": {
+      "programId": "prog-1467-poa-30",
+      "programName": "PoA 30",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1467-poa-30.zip",
+      "localSize": 39755,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1468-poa-aol-notify-remover-final-beta-6": {
+      "programId": "prog-1468-poa-aol-notify-remover-final-beta-6",
+      "programName": "PoA AoL Notify remover final beta 6",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1468-poa-aol-notify-remover-final-beta-6.zip",
+      "localSize": 66319,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1469-poanot": {
+      "programId": "prog-1469-poanot",
+      "programName": "poanot",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1469-poanot.zip",
+      "localSize": 15365,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1470-poboy": {
+      "programId": "prog-1470-poboy",
+      "programName": "poboy",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1470-poboy.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1471-poisonus": {
+      "programId": "prog-1471-poisonus",
+      "programName": "poisonus",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1471-poisonus.zip",
+      "localSize": 451037,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1472-pokemon": {
+      "programId": "prog-1472-pokemon",
+      "programName": "pokemon",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1472-pokemon.zip",
+      "localSize": 852533,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1473-pokemontoolz": {
+      "programId": "prog-1473-pokemontoolz",
+      "programName": "PokemonToolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1473-pokemontoolz.zip",
+      "localSize": 30062,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1474-polski-coms": {
+      "programId": "prog-1474-polski-coms",
+      "programName": "Polski Coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1474-polski-coms.zip",
+      "localSize": 5155024,
+      "textFileCount": 2,
+      "textFiles": [
+        "intro.txt",
+        "info.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "info.ini has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-1475-poof-v1": {
+      "programId": "prog-1475-poof-v1",
+      "programName": "poof v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1475-poof-v1.zip",
+      "localSize": 4143872,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1476-poogle-toolz1": {
+      "programId": "prog-1476-poogle-toolz1",
+      "programName": "Poogle Toolz1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1476-poogle-toolz1.zip",
+      "localSize": 751777,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1477-pooh-bear": {
+      "programId": "prog-1477-pooh-bear",
+      "programName": "pooh bear",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1477-pooh-bear.zip",
+      "localSize": 419624,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1478-poop-pwc": {
+      "programId": "prog-1478-poop-pwc",
+      "programName": "poop pwc",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1478-poop-pwc.zip",
+      "localSize": 1629616,
+      "textFileCount": 2,
+      "textFiles": [
+        "aciddr0p.netReadMe2.txt",
+        "README.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe2.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1479-poopie-coms": {
+      "programId": "prog-1479-poopie-coms",
+      "programName": "Poopie Coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1479-poopie-coms.zip",
+      "localSize": 3150225,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1480-pork-n-ass-1-0": {
+      "programId": "prog-1480-pork-n-ass-1-0",
+      "programName": "Pork 'n' Ass 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1480-pork-n-ass-1-0.zip",
+      "localSize": 192266,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read me.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1481-porn-scroller-v2-by-loki": {
+      "programId": "prog-1481-porn-scroller-v2-by-loki",
+      "programName": "porn scroller v2 by loki",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1481-porn-scroller-v2-by-loki.zip",
+      "localSize": 23598,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1482-pornidler": {
+      "programId": "prog-1482-pornidler",
+      "programName": "PornIdler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1482-pornidler.zip",
+      "localSize": 2208418,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1483-pornidler": {
+      "programId": "prog-1483-pornidler",
+      "programName": "PornIdler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1483-pornidler.zip",
+      "localSize": 2066455,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1484-pos-toolz": {
+      "programId": "prog-1484-pos-toolz",
+      "programName": "PoS ToOlz",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1484-pos-toolz.zip",
+      "localSize": 76304,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1485-poslink": {
+      "programId": "prog-1485-poslink",
+      "programName": "poslink",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1485-poslink.zip",
+      "localSize": 1376421,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1486-poslinkfinal": {
+      "programId": "prog-1486-poslinkfinal",
+      "programName": "poslinkfinal",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1486-poslinkfinal.zip",
+      "localSize": 1490643,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1487-poslink2": {
+      "programId": "prog-1487-poslink2",
+      "programName": "poslink²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1487-poslink2.zip",
+      "localSize": 1489324,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1488-pothead": {
+      "programId": "prog-1488-pothead",
+      "programName": "pothead",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1488-pothead.zip",
+      "localSize": 69082,
+      "textFileCount": 1,
+      "textFiles": [
+        "pothead/info.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "pothead/info.ini has vocabulary for Fader / text styler, Scroller / macro."
+      ]
+    },
+    "prog-1489-pottycheck": {
+      "programId": "prog-1489-pottycheck",
+      "programName": "Pottycheck",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1489-pottycheck.zip",
+      "localSize": 745809,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1490-pp1": {
+      "programId": "prog-1490-pp1",
+      "programName": "pp1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1490-pp1.zip",
+      "localSize": 755036,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1491-ppp": {
+      "programId": "prog-1491-ppp",
+      "programName": "Ppp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1491-ppp.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1492-precision-ascii": {
+      "programId": "prog-1492-precision-ascii",
+      "programName": "precision ascii",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1492-precision-ascii.zip",
+      "localSize": 1024903,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1493-premier2": {
+      "programId": "prog-1493-premier2",
+      "programName": "Premier2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1493-premier2.zip",
+      "localSize": 1931214,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read me.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1494-premium": {
+      "programId": "prog-1494-premium",
+      "programName": "Premium",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1494-premium.zip",
+      "localSize": 2365609,
+      "textFileCount": 2,
+      "textFiles": [
+        "premium_player_options.txt",
+        "read_me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "premium_player_options.txt has vocabulary for C-Com / command list, Media / file utility.",
+        "read_me.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1495-prep-linker": {
+      "programId": "prog-1495-prep-linker",
+      "programName": "prep linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1495-prep-linker.zip",
+      "localSize": 1371068,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1496-pretender": {
+      "programId": "prog-1496-pretender",
+      "programName": "pretender",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1496-pretender.zip",
+      "localSize": 2855203,
+      "textFileCount": 1,
+      "textFiles": [
+        "desktop.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1497-prjcracker": {
+      "programId": "prog-1497-prjcracker",
+      "programName": "prjCracker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1497-prjcracker.zip",
+      "localSize": 1653837,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1498-procolor": {
+      "programId": "prog-1498-procolor",
+      "programName": "procolor",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1498-procolor.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1499-profile-artist": {
+      "programId": "prog-1499-profile-artist",
+      "programName": "Profile Artist",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1499-profile-artist.zip",
+      "localSize": 1798940,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Read Me.txt mentions AOL 9.0.",
+        "Read Me.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1500-profile-artist": {
+      "programId": "prog-1500-profile-artist",
+      "programName": "Profile Artist",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1500-profile-artist.zip",
+      "localSize": 2884105,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 9.0"
+      ],
+      "notes": [
+        "Read Me.txt mentions AOL 9.0.",
+        "Read Me.txt has vocabulary for Fader / text styler, Source / developer file, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1501-profile-artist": {
+      "programId": "prog-1501-profile-artist",
+      "programName": "Profile Artist",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1501-profile-artist.zip",
+      "localSize": 2884900,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1502-profile-setter": {
+      "programId": "prog-1502-profile-setter",
+      "programName": "PROFILE SETTER",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1502-profile-setter.zip",
+      "localSize": 2827400,
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Screen-name utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Read Me.txt has vocabulary for Account / TOS utility, Screen-name utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1503-profyle-magik": {
+      "programId": "prog-1503-profyle-magik",
+      "programName": "Profyle Magik",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1503-profyle-magik.zip",
+      "localSize": 389176,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1504-prog-zone-1-1": {
+      "programId": "prog-1504-prog-zone-1-1",
+      "programName": "Prog Zone 1.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1504-prog-zone-1-1.zip",
+      "localSize": 2210269,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1505-progzhell-idle-1-0": {
+      "programId": "prog-1505-progzhell-idle-1-0",
+      "programName": "Progzhell Idle 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1505-progzhell-idle-1-0.zip",
+      "localSize": 1405366,
+      "textFileCount": 1,
+      "textFiles": [
+        "Disclaimer Important Read Before Useing Prog.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1506-progzhell-idle-2-0": {
+      "programId": "prog-1506-progzhell-idle-2-0",
+      "programName": "Progzhell Idle 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1506-progzhell-idle-2-0.zip",
+      "localSize": 1577612,
+      "textFileCount": 2,
+      "textFiles": [
+        "Disclaimer Important Read Before Useing Prog.txt",
+        "Whats New.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility",
+        "Idler / AFK bot",
+        "C-Com / command list"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility.",
+        "Whats New.txt has vocabulary for Idler / AFK bot, C-Com / command list, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1507-progzhell-toolz-1-0": {
+      "programId": "prog-1507-progzhell-toolz-1-0",
+      "programName": "Progzhell Toolz 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1507-progzhell-toolz-1-0.zip",
+      "localSize": 1672952,
+      "textFileCount": 2,
+      "textFiles": [
+        "Disclaimer Important Read Before Useing Prog.txt",
+        "Read This To know Known Proplems and upcomming stuff.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility",
+        "Room buster"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility.",
+        "Read This To know Known Proplems and upcomming stuff.txt has vocabulary for Room buster, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1508-progzhell-toolz-version-blog": {
+      "programId": "prog-1508-progzhell-toolz-version-blog",
+      "programName": "Progzhell Toolz Version Blog",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1508-progzhell-toolz-version-blog.zip",
+      "localSize": 2821740,
+      "textFileCount": 6,
+      "textFiles": [
+        "Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt",
+        "Progzhell Toolz Version Blog/Download_Source.txt",
+        "Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt",
+        "Progzhell Toolz Version Blog/TipOfDay.txt",
+        "Progzhell Toolz Version Blog/Whats_New.txt",
+        "Progzhell Toolz Version Blog/Whats_Next.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility",
+        "Source / developer file",
+        "Media / file utility",
+        "All-in-one prog suite",
+        "Account / TOS utility",
+        "Scroller / macro"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt has vocabulary for AOL/AIM chat utility.",
+        "Progzhell Toolz Version Blog/Download_Source.txt has vocabulary for Source / developer file, Media / file utility.",
+        "Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt has vocabulary for Source / developer file, AOL/AIM chat utility.",
+        "Progzhell Toolz Version Blog/TipOfDay.txt has vocabulary for All-in-one prog suite, Account / TOS utility, Media / file utility, AOL/AIM chat utility.",
+        "Progzhell Toolz Version Blog/Whats_New.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.",
+        "Progzhell Toolz Version Blog/Whats_Next.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1509-prog": {
+      "programId": "prog-1509-prog",
+      "programName": "prog╣",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1509-prog.zip",
+      "localSize": 809927,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1510-project": {
+      "programId": "prog-1510-project",
+      "programName": "Project",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1510-project.zip",
+      "localSize": 764412,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1511-project420all": {
+      "programId": "prog-1511-project420all",
+      "programName": "Project420all",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1511-project420all.zip",
+      "localSize": 2287753,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1512-project-gt": {
+      "programId": "prog-1512-project-gt",
+      "programName": "project_gt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1512-project-gt.zip",
+      "localSize": 1758463,
+      "textFileCount": 1,
+      "textFiles": [
+        "help.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1513-prophecy2k": {
+      "programId": "prog-1513-prophecy2k",
+      "programName": "prophecy2k",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1513-prophecy2k.zip",
+      "localSize": 7596451,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1514-prophecy3": {
+      "programId": "prog-1514-prophecy3",
+      "programName": "prophecy3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1515-prophettixx2": {
+      "programId": "prog-1515-prophettixx2",
+      "programName": "ProPheTTixX2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1515-prophettixx2.zip",
+      "localSize": 1758321,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1516-prophetv1": {
+      "programId": "prog-1516-prophetv1",
+      "programName": "Prophetv1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1516-prophetv1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1517-prostyle-ver-xp-exe": {
+      "programId": "prog-1517-prostyle-ver-xp-exe",
+      "programName": "prostyle ver.xp-exe",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1518-prostyle-ver-xp-exe": {
+      "programId": "prog-1518-prostyle-ver-xp-exe",
+      "programName": "prostyle ver.xp-exe",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1519-prozacs-bust": {
+      "programId": "prog-1519-prozacs-bust",
+      "programName": "prozacs bust",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1519-prozacs-bust.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1520-prozacstools": {
+      "programId": "prog-1520-prozacstools",
+      "programName": "prozacstools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1520-prozacstools.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1521-pshmng31": {
+      "programId": "prog-1521-pshmng31",
+      "programName": "pshmng31",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1521-pshmng31.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1522-psp": {
+      "programId": "prog-1522-psp",
+      "programName": "PSP",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1522-psp.zip",
+      "localSize": 441447,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1523-psychic-dreams": {
+      "programId": "prog-1523-psychic-dreams",
+      "programName": "psychic_dreams",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1523-psychic-dreams.zip",
+      "localSize": 719702,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1524-psychic-dreams-2": {
+      "programId": "prog-1524-psychic-dreams-2",
+      "programName": "psychic_dreams_2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1524-psychic-dreams-2.zip",
+      "localSize": 411475,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1525-psycho-realm": {
+      "programId": "prog-1525-psycho-realm",
+      "programName": "psycho realm╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1526-psychotic-aftermath-tank": {
+      "programId": "prog-1526-psychotic-aftermath-tank",
+      "programName": "Psychotic Aftermath Tank",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1527-psycoscroll": {
+      "programId": "prog-1527-psycoscroll",
+      "programName": "PsycoScroll",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1527-psycoscroll.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1528-pt": {
+      "programId": "prog-1528-pt",
+      "programName": "PT",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1529-pt1": {
+      "programId": "prog-1529-pt1",
+      "programName": "PT1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1530-puma-idler": {
+      "programId": "prog-1530-puma-idler",
+      "programName": "PUMA Idler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1530-puma-idler.zip",
+      "localSize": 768658,
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "readme.txt has vocabulary for Idler / AFK bot."
+      ]
+    },
+    "prog-1531-punjabiacid": {
+      "programId": "prog-1531-punjabiacid",
+      "programName": "Punjabiacid",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1531-punjabiacid.zip",
+      "localSize": 2417115,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1532-punk-idle1-1": {
+      "programId": "prog-1532-punk-idle1-1",
+      "programName": "Punk Idle1.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1532-punk-idle1-1.zip",
+      "localSize": 1486839,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME.txt has vocabulary for Idler / AFK bot, Source / developer file."
+      ]
+    },
+    "prog-1533-punt-in-the-2001": {
+      "programId": "prog-1533-punt-in-the-2001",
+      "programName": "Punt in the 2001",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1533-punt-in-the-2001.zip",
+      "localSize": 3107873,
+      "textFileCount": 8,
+      "textFiles": [
+        "Punt in the 2001/0distory.txt",
+        "Punt in the 2001/adistort.txt",
+        "Punt in the 2001/bdf.txt",
+        "Punt in the 2001/bdl.txt",
+        "Punt in the 2001/ReadMeNow.txt",
+        "Punt in the 2001/aol6mailblahdistortfreeze.txt",
+        "Punt in the 2001/PuntInThe2001.ini",
+        "Words From PHAT.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Punter / booter",
+        "Source / developer file",
+        "Screen-name utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 6.0"
+      ],
+      "notes": [
+        "Punt in the 2001/ReadMeNow.txt mentions AOL 6.0.",
+        "Punt in the 2001/ReadMeNow.txt has vocabulary for All-in-one prog suite, Punter / booter, Source / developer file.",
+        "Punt in the 2001/PuntInThe2001.ini has vocabulary for Screen-name utility.",
+        "Words From PHAT.txt mentions AOL 6.0.",
+        "Words From PHAT.txt has vocabulary for Punter / booter."
+      ]
+    },
+    "prog-1534-punt-this-v-1": {
+      "programId": "prog-1534-punt-this-v-1",
+      "programName": "Punt This v.1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1534-punt-this-v-1.zip",
+      "localSize": 1405452,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1535-punt-toolz-1-0": {
+      "programId": "prog-1535-punt-toolz-1-0",
+      "programName": "punt toolz 1.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1535-punt-toolz-1-0.zip",
+      "localSize": 440103,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me !.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Punter / booter",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 6.0",
+        "AOL 2.56"
+      ],
+      "notes": [
+        "read me !.txt mentions AOL 6.0, AOL 2.56.",
+        "read me !.txt has vocabulary for All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1536-punt-toolz-1-2": {
+      "programId": "prog-1536-punt-toolz-1-2",
+      "programName": "punt toolz 1.2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1536-punt-toolz-1-2.zip",
+      "localSize": 463081,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me !.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Punter / booter",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 6.0",
+        "AOL 2.56"
+      ],
+      "notes": [
+        "read me !.txt mentions AOL 6.0, AOL 2.56.",
+        "read me !.txt has vocabulary for All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1537-punt2000": {
+      "programId": "prog-1537-punt2000",
+      "programName": "Punt2000",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/1537-punt2000.zip",
+      "localSize": 1737834,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1538-punter": {
+      "programId": "prog-1538-punter",
+      "programName": "punter",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1538-punter.zip",
+      "localSize": 276753,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1539-pure-metal": {
+      "programId": "prog-1539-pure-metal",
+      "programName": "PuRe MeTaL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1539-pure-metal.zip",
+      "localSize": 1689870,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1540-purity": {
+      "programId": "prog-1540-purity",
+      "programName": "purity",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1540-purity.zip",
+      "localSize": 1795859,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1541-purity10": {
+      "programId": "prog-1541-purity10",
+      "programName": "Purity10",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1541-purity10.zip",
+      "localSize": 8082164,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1542-pv8-toolz-2-0": {
+      "programId": "prog-1542-pv8-toolz-2-0",
+      "programName": "Pv8 Toolz 2.0",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1542-pv8-toolz-2-0.zip",
+      "localSize": 10978326,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1543-pw-generator": {
+      "programId": "prog-1543-pw-generator",
+      "programName": "pw generator",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1543-pw-generator.zip",
+      "localSize": 1567025,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1544-pwc": {
+      "programId": "prog-1544-pwc",
+      "programName": "Pwc",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1545-pwc3b": {
+      "programId": "prog-1545-pwc3b",
+      "programName": "pwc3b",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1545-pwc3b.zip",
+      "localSize": 1531750,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1546-pws-mm": {
+      "programId": "prog-1546-pws-mm",
+      "programName": "pws-mm",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1546-pws-mm.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1547-pwsd": {
+      "programId": "prog-1547-pwsd",
+      "programName": "pwsd",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1547-pwsd.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1548-pwsd": {
+      "programId": "prog-1548-pwsd",
+      "programName": "Pwsd",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1548-pwsd.zip",
+      "localSize": 1582667,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1549-pwsd-scaner": {
+      "programId": "prog-1549-pwsd-scaner",
+      "programName": "PwSd Scaner",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1549-pwsd-scaner.zip",
+      "localSize": 2412439,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1550-pwsd-scanner-by-spazz": {
+      "programId": "prog-1550-pwsd-scanner-by-spazz",
+      "programName": "PWSD Scanner by Spazz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1551-pwspam": {
+      "programId": "prog-1551-pwspam",
+      "programName": "pwspam",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1551-pwspam.zip",
+      "localSize": 616963,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1552-pyromania": {
+      "programId": "prog-1552-pyromania",
+      "programName": "PYROMANIA",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1552-pyromania.zip",
+      "localSize": 1468531,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1553-pz2": {
+      "programId": "prog-1553-pz2",
+      "programName": "pz2",
+      "scanned": true,
+      "localPath": "files/aim/aol-4-0/1553-pz2.zip",
+      "localSize": 3821164,
+      "textFileCount": 4,
+      "textFiles": [
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/progzone.ini",
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Skins/Skin Note.txt",
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Macros/Macro Note.txt",
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "Scroller / macro",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "notes": [
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/progzone.ini has vocabulary for Source / developer file, Media / file utility.",
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Macros/Macro Note.txt has vocabulary for Scroller / macro.",
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt mentions AOL 4.0, AOL 5.0.",
+        "WINDOWS/Desktop/Visual Basic 5/Prog Zone 2.0/Read Me.txt has vocabulary for Scroller / macro, Source / developer file, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1554-pt-rcks-idlr": {
+      "programId": "prog-1554-pt-rcks-idlr",
+      "programName": "pΘtΦ-r°cks idlΘr",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1554-pt-rcks-idlr.zip",
+      "localSize": 1437291,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1555-pt-rcks-idlr": {
+      "programId": "prog-1555-pt-rcks-idlr",
+      "programName": "pΦtΘ-r°cks idlΘr▓",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1555-pt-rcks-idlr.zip",
+      "localSize": 1428889,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1556-qscram": {
+      "programId": "prog-1556-qscram",
+      "programName": "qscram",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1556-qscram.zip",
+      "localSize": 440205,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1557-qspam2": {
+      "programId": "prog-1557-qspam2",
+      "programName": "qspam2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1557-qspam2.zip",
+      "localSize": 669123,
+      "textFileCount": 2,
+      "textFiles": [
+        "read first.txt",
+        "read_this.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Mass mailer / server",
+        "Source / developer file",
+        "Scroller / macro",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read first.txt has vocabulary for Mass mailer / server, Source / developer file.",
+        "read_this.txt has vocabulary for Scroller / macro, Mass mailer / server, AOL/AIM chat utility.",
+        "read_this.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1558-quartzidler-1-5": {
+      "programId": "prog-1558-quartzidler-1-5",
+      "programName": "quartzidler_1_5",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1558-quartzidler-1-5.zip",
+      "localSize": 723276,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1559-queefz": {
+      "programId": "prog-1559-queefz",
+      "programName": "Queefz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1559-queefz.zip",
+      "localSize": 1491181,
+      "textFileCount": 1,
+      "textFiles": [
+        "Queefz idle/READ.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1560-quick-xer": {
+      "programId": "prog-1560-quick-xer",
+      "programName": "Quick Xer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1560-quick-xer.zip",
+      "localSize": 619524,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1561-quick-xer": {
+      "programId": "prog-1561-quick-xer",
+      "programName": "Quick xer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1561-quick-xer.zip",
+      "localSize": 745992,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1562-quickres": {
+      "programId": "prog-1562-quickres",
+      "programName": "QUICKRES",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1562-quickres.zip",
+      "localSize": 960397,
+      "textFileCount": 1,
+      "textFiles": [
+        "README.TXT"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "README.TXT has vocabulary for Source / developer file, Media / file utility."
+      ]
+    },
+    "prog-1563-quicky-bustah": {
+      "programId": "prog-1563-quicky-bustah",
+      "programName": "quicky bustaH",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1563-quicky-bustah.zip",
+      "localSize": 3122419,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1564-quicky-collect1": {
+      "programId": "prog-1564-quicky-collect1",
+      "programName": "Quicky Collect1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1564-quicky-collect1.zip",
+      "localSize": 1543623,
+      "textFileCount": 1,
+      "textFiles": [
+        "ReadMe!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "ReadMe!.txt has vocabulary for All-in-one prog suite."
+      ]
+    },
+    "prog-1565-quicky-gag": {
+      "programId": "prog-1565-quicky-gag",
+      "programName": "Quicky Gag",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1565-quicky-gag.zip",
+      "localSize": 1428049,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1566-quicky-gag3": {
+      "programId": "prog-1566-quicky-gag3",
+      "programName": "Quicky Gag3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1566-quicky-gag3.zip",
+      "localSize": 1504897,
+      "textFileCount": 1,
+      "textFiles": [
+        "read me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "read me.txt has vocabulary for AOL/AIM chat utility."
+      ]
+    },
+    "prog-1567-quik-error-v1-up-d": {
+      "programId": "prog-1567-quik-error-v1-up-d",
+      "programName": "QUIK ERROR V1 UP D",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1567-quik-error-v1-up-d.zip",
+      "localSize": 596054,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1568-quikaol": {
+      "programId": "prog-1568-quikaol",
+      "programName": "quikAOL",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1568-quikaol.zip",
+      "localSize": 1380167,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1569-quikbust": {
+      "programId": "prog-1569-quikbust",
+      "programName": "quikbust",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1569-quikbust.zip",
+      "localSize": 621363,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1570-quiky": {
+      "programId": "prog-1570-quiky",
+      "programName": "quiky",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1570-quiky.zip",
+      "localSize": 145678,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1571-r-i-p-comz": {
+      "programId": "prog-1571-r-i-p-comz",
+      "programName": "r.i.p comz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1571-r-i-p-comz.zip",
+      "localSize": 2995801,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1572-radioactive": {
+      "programId": "prog-1572-radioactive",
+      "programName": "radioactive",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1572-radioactive.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1573-raid1": {
+      "programId": "prog-1573-raid1",
+      "programName": "Raid~1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1573-raid1.zip",
+      "localSize": 495928,
+      "textFileCount": 1,
+      "textFiles": [
+        "MMH.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "MMH.txt has vocabulary for Fader / text styler."
+      ]
+    },
+    "prog-1574-rampage-toolz": {
+      "programId": "prog-1574-rampage-toolz",
+      "programName": "Rampage Toolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1574-rampage-toolz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1575-rampage2": {
+      "programId": "prog-1575-rampage2",
+      "programName": "rampage2",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1575-rampage2.zip",
+      "localSize": 3501020,
+      "textFileCount": 1,
+      "textFiles": [
+        "aciddr0p.netReadMe.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": [
+        "aciddr0p.netReadMe.txt includes a mirror/download-source note."
+      ]
+    },
+    "prog-1576-rancid-idle2": {
+      "programId": "prog-1576-rancid-idle2",
+      "programName": "rancid idle²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1576-rancid-idle2.zip",
+      "localSize": 779077,
+      "textFileCount": 1,
+      "textFiles": [
+        "rancid2readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "rancid2readme.txt has vocabulary for Idler / AFK bot, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1577-rancid1": {
+      "programId": "prog-1577-rancid1",
+      "programName": "rancid1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1577-rancid1.zip",
+      "localSize": 779029,
+      "textFileCount": 1,
+      "textFiles": [
+        "rancidtxt.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "rancidtxt.txt has vocabulary for Idler / AFK bot, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1578-rangerig": {
+      "programId": "prog-1578-rangerig",
+      "programName": "rangerig",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1578-rangerig.zip",
+      "localSize": 1378529,
+      "textFileCount": 1,
+      "textFiles": [
+        "@readme.doc"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "@readme.doc has vocabulary for Fader / text styler, Account / TOS utility, Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1579-rapid": {
+      "programId": "prog-1579-rapid",
+      "programName": "Rapid",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1579-rapid.zip",
+      "localSize": 2063676,
+      "textFileCount": 1,
+      "textFiles": [
+        "READ ME.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "READ ME.txt has vocabulary for Source / developer file."
+      ]
+    },
+    "prog-1580-rapidscroll": {
+      "programId": "prog-1580-rapidscroll",
+      "programName": "RapidScroll",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1580-rapidscroll.zip",
+      "localSize": 1882110,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1581-rapier-bronze": {
+      "programId": "prog-1581-rapier-bronze",
+      "programName": "Rapier Bronze",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1581-rapier-bronze.zip",
+      "localSize": 1965597,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1582-rarecoms": {
+      "programId": "prog-1582-rarecoms",
+      "programName": "Rarecoms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1582-rarecoms.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1583-rarenet": {
+      "programId": "prog-1583-rarenet",
+      "programName": "rarenet",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1583-rarenet.zip",
+      "localSize": 1488892,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1584-rattrap": {
+      "programId": "prog-1584-rattrap",
+      "programName": "RatTrap",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1584-rattrap.zip",
+      "localSize": 1508922,
+      "textFileCount": 1,
+      "textFiles": [
+        "Info.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "aolVersionMentions": [],
+      "notes": [
+        "Info.txt has vocabulary for Media / file utility, AOL/AIM chat utility."
+      ]
+    },
+    "prog-1585-ravyns-linker": {
+      "programId": "prog-1585-ravyns-linker",
+      "programName": "Ravyn's Linker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1585-ravyns-linker.zip",
+      "localSize": 1621694,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1586-raw-fader": {
+      "programId": "prog-1586-raw-fader",
+      "programName": "Raw Fader",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1586-raw-fader.zip",
+      "localSize": 1100390,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1587-raw-phish-tank": {
+      "programId": "prog-1587-raw-phish-tank",
+      "programName": "Raw Phish Tank│╖▓",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1587-raw-phish-tank.zip",
+      "localSize": 790866,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1588-raw-socket-ip-stealer-v-1-0": {
+      "programId": "prog-1588-raw-socket-ip-stealer-v-1-0",
+      "programName": "Raw Socket - IP Stealer v 1.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1589-rawk": {
+      "programId": "prog-1589-rawk",
+      "programName": "Rawk",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1590-razor-edge-idle": {
+      "programId": "prog-1590-razor-edge-idle",
+      "programName": "Razor Edge Idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1590-razor-edge-idle.zip",
+      "localSize": 814840,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1591-readme": {
+      "programId": "prog-1591-readme",
+      "programName": "README",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1591-readme.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1592-reality": {
+      "programId": "prog-1592-reality",
+      "programName": "Reality",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1593-rebel-c2": {
+      "programId": "prog-1593-rebel-c2",
+      "programName": "rebel c²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1593-rebel-c2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1594-rebels-toolkit": {
+      "programId": "prog-1594-rebels-toolkit",
+      "programName": "Rebel's Toolkit",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1595-rebeltoolz": {
+      "programId": "prog-1595-rebeltoolz",
+      "programName": "RebelToolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1596-recon": {
+      "programId": "prog-1596-recon",
+      "programName": "ReCon",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1597-reflex-scroller": {
+      "programId": "prog-1597-reflex-scroller",
+      "programName": "REFLEX scroller",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1598-reflex-weaponry": {
+      "programId": "prog-1598-reflex-weaponry",
+      "programName": "REFLEX WEAPONRY",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1599-refused1": {
+      "programId": "prog-1599-refused1",
+      "programName": "refused¹",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1600-reggr21": {
+      "programId": "prog-1600-reggr21",
+      "programName": "REGGR2~1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1601-regulata4": {
+      "programId": "prog-1601-regulata4",
+      "programName": "ReGuLaTa4",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1602-regula1": {
+      "programId": "prog-1602-regula1",
+      "programName": "Regula~1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1603-reload": {
+      "programId": "prog-1603-reload",
+      "programName": "Reload",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1604-reload1": {
+      "programId": "prog-1604-reload1",
+      "programName": "Reload~1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1605-remix": {
+      "programId": "prog-1605-remix",
+      "programName": "Remix",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1605-remix.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1606-remixed-audio2": {
+      "programId": "prog-1606-remixed-audio2",
+      "programName": "Remixed Audio²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1607-remote": {
+      "programId": "prog-1607-remote",
+      "programName": "remote",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1608-remote-silence": {
+      "programId": "prog-1608-remote-silence",
+      "programName": "Remote Silence",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1609-repell": {
+      "programId": "prog-1609-repell",
+      "programName": "repell",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1609-repell.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1610-res2": {
+      "programId": "prog-1610-res2",
+      "programName": "res2",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1610-res2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1611-reseter": {
+      "programId": "prog-1611-reseter",
+      "programName": "reseter",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1612-resetor": {
+      "programId": "prog-1612-resetor",
+      "programName": "resetor",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1613-ressur2": {
+      "programId": "prog-1613-ressur2",
+      "programName": "RESSUR~2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1614-resurrection": {
+      "programId": "prog-1614-resurrection",
+      "programName": "Resurrection",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1614-resurrection.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1615-rev-x": {
+      "programId": "prog-1615-rev-x",
+      "programName": "rev-x",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1615-rev-x.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1616-revolt": {
+      "programId": "prog-1616-revolt",
+      "programName": "revolt",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1617-revolt-1-1": {
+      "programId": "prog-1617-revolt-1-1",
+      "programName": "revolt 1.1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1618-revolution": {
+      "programId": "prog-1618-revolution",
+      "programName": "revolution",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1619-revolution-x": {
+      "programId": "prog-1619-revolution-x",
+      "programName": "Revolution_X",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1620-revolution-x-afterlife": {
+      "programId": "prog-1620-revolution-x-afterlife",
+      "programName": "Revolution_X Afterlife",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1621-revolution-x-final": {
+      "programId": "prog-1621-revolution-x-final",
+      "programName": "Revolution_X Final",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1622-revolution-xtreme": {
+      "programId": "prog-1622-revolution-xtreme",
+      "programName": "Revolution_Xtreme",
+      "scanned": true,
+      "localPath": "files/aol/aol-8-0/1622-revolution-xtreme.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1623-rgb": {
+      "programId": "prog-1623-rgb",
+      "programName": "rgb",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1624-rhino2": {
+      "programId": "prog-1624-rhino2",
+      "programName": "Rhino2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1624-rhino2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1625-rhinotoolz": {
+      "programId": "prog-1625-rhinotoolz",
+      "programName": "Rhinotoolz",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1625-rhinotoolz.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1626-ri-2-by-sc4m": {
+      "programId": "prog-1626-ri-2-by-sc4m",
+      "programName": "Ri-2 by sc4m",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1627-rice-2k": {
+      "programId": "prog-1627-rice-2k",
+      "programName": "rice 2k",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1628-rip": {
+      "programId": "prog-1628-rip",
+      "programName": "rip",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1629-rmfux1": {
+      "programId": "prog-1629-rmfux1",
+      "programName": "rmfux1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1630-rmfux1": {
+      "programId": "prog-1630-rmfux1",
+      "programName": "rmfux1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1631-rockoutmp3": {
+      "programId": "prog-1631-rockoutmp3",
+      "programName": "RockOutMp3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1632-rom-com-by-tostman": {
+      "programId": "prog-1632-rom-com-by-tostman",
+      "programName": "rom-com by tostman",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1633-room-bust-xp": {
+      "programId": "prog-1633-room-bust-xp",
+      "programName": "room bust xp",
+      "scanned": true,
+      "localPath": "files/aol/aol-6-0/1633-room-bust-xp.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1634-room-control": {
+      "programId": "prog-1634-room-control",
+      "programName": "Room Control",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1635-room-greeter": {
+      "programId": "prog-1635-room-greeter",
+      "programName": "Room Greeter",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1636-room-owner-toolz": {
+      "programId": "prog-1636-room-owner-toolz",
+      "programName": "Room Owner Toolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1637-roombuster": {
+      "programId": "prog-1637-roombuster",
+      "programName": "roombuster",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1638-roombu1": {
+      "programId": "prog-1638-roombu1",
+      "programName": "ROOMBU~1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1639-roomcracker": {
+      "programId": "prog-1639-roomcracker",
+      "programName": "RoomCracker",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1639-roomcracker.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1640-roomz1": {
+      "programId": "prog-1640-roomz1",
+      "programName": "roomz1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1641-royal-fader2": {
+      "programId": "prog-1641-royal-fader2",
+      "programName": "royal fader²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1642-royalser": {
+      "programId": "prog-1642-royalser",
+      "programName": "RoyalSer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1643-rul3-antilag-v1-0": {
+      "programId": "prog-1643-rul3-antilag-v1-0",
+      "programName": "RuL3 aNTiLaG v1.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1644-rage2k": {
+      "programId": "prog-1644-rage2k",
+      "programName": "ràgé²k",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1644-rage2k.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1645-s-acct": {
+      "programId": "prog-1645-s-acct",
+      "programName": "S-ACCT",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1646-s2000a": {
+      "programId": "prog-1646-s2000a",
+      "programName": "s2000a",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1647-s9tools": {
+      "programId": "prog-1647-s9tools",
+      "programName": "s9tools",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1647-s9tools.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1648-sacrificed": {
+      "programId": "prog-1648-sacrificed",
+      "programName": "sacrificed╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1649-sadist-agger": {
+      "programId": "prog-1649-sadist-agger",
+      "programName": "sadisT £àGGéR",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1650-satanic": {
+      "programId": "prog-1650-satanic",
+      "programName": "satanic",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1651-satanic-toolz-6-6-6-final": {
+      "programId": "prog-1651-satanic-toolz-6-6-6-final",
+      "programName": "SaTaNiC TooLz 6.6.6 Final",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1652-satans-room-buster": {
+      "programId": "prog-1652-satans-room-buster",
+      "programName": "Satans-Room-Buster",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1653-sausage-link": {
+      "programId": "prog-1653-sausage-link",
+      "programName": "sausage link",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1654-sb": {
+      "programId": "prog-1654-sb",
+      "programName": "sb",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1655-sbeta": {
+      "programId": "prog-1655-sbeta",
+      "programName": "sbeta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1655-sbeta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1656-sc503": {
+      "programId": "prog-1656-sc503",
+      "programName": "SC503",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1657-scamd": {
+      "programId": "prog-1657-scamd",
+      "programName": "Scam'd",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1658-scamish": {
+      "programId": "prog-1658-scamish",
+      "programName": "scamish",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1658-scamish.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1659-scandus2": {
+      "programId": "prog-1659-scandus2",
+      "programName": "scandus2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1660-scandustoolz": {
+      "programId": "prog-1660-scandustoolz",
+      "programName": "ScandusToolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1661-schorcher2": {
+      "programId": "prog-1661-schorcher2",
+      "programName": "Schorcher²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1662-scooby": {
+      "programId": "prog-1662-scooby",
+      "programName": "Scooby",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1662-scooby.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1663-scorpion1": {
+      "programId": "prog-1663-scorpion1",
+      "programName": "Scorpion1",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1663-scorpion1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1664-scramble-em": {
+      "programId": "prog-1664-scramble-em",
+      "programName": "scramble em",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1664-scramble-em.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1665-screen-shot": {
+      "programId": "prog-1665-screen-shot",
+      "programName": "Screen Shot",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1665-screen-shot.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1666-screenripper": {
+      "programId": "prog-1666-screenripper",
+      "programName": "ScreenRipper",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1667-scroll-out": {
+      "programId": "prog-1667-scroll-out",
+      "programName": "scroLL Out",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1668-scroll-tools-v2": {
+      "programId": "prog-1668-scroll-tools-v2",
+      "programName": "scroll tools v²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1669-scroller-of-silence": {
+      "programId": "prog-1669-scroller-of-silence",
+      "programName": "Scroller of Silence",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1669-scroller-of-silence.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1670-sct-final": {
+      "programId": "prog-1670-sct-final",
+      "programName": "sct final",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1671-sdidle": {
+      "programId": "prog-1671-sdidle",
+      "programName": "SDIdle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1672-sd": {
+      "programId": "prog-1672-sd",
+      "programName": "sd¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1672-sd.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1673-sd": {
+      "programId": "prog-1673-sd",
+      "programName": "sd¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1673-sd.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1674-sd2": {
+      "programId": "prog-1674-sd2",
+      "programName": "sd²",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1674-sd2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1675-seen-in-darkness": {
+      "programId": "prog-1675-seen-in-darkness",
+      "programName": "seen in darkness",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1676-select": {
+      "programId": "prog-1676-select",
+      "programName": "select!",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1677-seperate-by-sc4m": {
+      "programId": "prog-1677-seperate-by-sc4m",
+      "programName": "Seperate by sc4m",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1678-server": {
+      "programId": "prog-1678-server",
+      "programName": "server",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1679-server": {
+      "programId": "prog-1679-server",
+      "programName": "Server",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1679-server.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1680-serverhelper2": {
+      "programId": "prog-1680-serverhelper2",
+      "programName": "Serverhelper2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1681-serverhelperaol6": {
+      "programId": "prog-1681-serverhelperaol6",
+      "programName": "ServerhelperAOL6",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1682-sfg-2-0-by-coz-aka-tyler": {
+      "programId": "prog-1682-sfg-2-0-by-coz-aka-tyler",
+      "programName": "sFg 2.0 by coz aka tyler",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1683-shallow-ccomz": {
+      "programId": "prog-1683-shallow-ccomz",
+      "programName": "shallow ccomz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1684-shark-bait2o": {
+      "programId": "prog-1684-shark-bait2o",
+      "programName": "shark bait²·º",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1685-sheep": {
+      "programId": "prog-1685-sheep",
+      "programName": "Sheep",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1686-shhidle": {
+      "programId": "prog-1686-shhidle",
+      "programName": "SHHIdle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1687-shibam-attention": {
+      "programId": "prog-1687-shibam-attention",
+      "programName": "Shibâm Attention",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1688-shit-idler-by-muska": {
+      "programId": "prog-1688-shit-idler-by-muska",
+      "programName": "shit idler by muska",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1689-shiznit-idle2o": {
+      "programId": "prog-1689-shiznit-idle2o",
+      "programName": "shiznit idle²·º",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1690-shiznitgold": {
+      "programId": "prog-1690-shiznitgold",
+      "programName": "shiznitgold",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1690-shiznitgold.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1691-shroom": {
+      "programId": "prog-1691-shroom",
+      "programName": "shroom",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1691-shroom.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1692-shroompunt": {
+      "programId": "prog-1692-shroompunt",
+      "programName": "Shroompunt",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1692-shroompunt.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1693-shutemdown": {
+      "programId": "prog-1693-shutemdown",
+      "programName": "shutemdown",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1694-shutup": {
+      "programId": "prog-1694-shutup",
+      "programName": "shutup",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1694-shutup.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1695-sick-scroll": {
+      "programId": "prog-1695-sick-scroll",
+      "programName": "Sick Scroll",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1696-sieu-2k": {
+      "programId": "prog-1696-sieu-2k",
+      "programName": "sieu 2k",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1697-sigfader": {
+      "programId": "prog-1697-sigfader",
+      "programName": "sigfader",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1698-sigfader": {
+      "programId": "prog-1698-sigfader",
+      "programName": "sigfader",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1699-signoff": {
+      "programId": "prog-1699-signoff",
+      "programName": "signoff",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1699-signoff.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1700-silence": {
+      "programId": "prog-1700-silence",
+      "programName": "silence",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1701-silent-ascii": {
+      "programId": "prog-1701-silent-ascii",
+      "programName": "Silent Ascii",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1701-silent-ascii.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1702-silentauto2": {
+      "programId": "prog-1702-silentauto2",
+      "programName": "SilentAuto2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1703-silva-spamma-2k": {
+      "programId": "prog-1703-silva-spamma-2k",
+      "programName": "Silva Spamma 2K",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1704-silver2k1-idler": {
+      "programId": "prog-1704-silver2k1-idler",
+      "programName": "silver2K1 idler",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1705-simple": {
+      "programId": "prog-1705-simple",
+      "programName": "simple",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1706-simple": {
+      "programId": "prog-1706-simple",
+      "programName": "simple",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1707-simple-idle": {
+      "programId": "prog-1707-simple-idle",
+      "programName": "Simple Idle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1708-simplephader": {
+      "programId": "prog-1708-simplephader",
+      "programName": "simplephader",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1709-simpletools": {
+      "programId": "prog-1709-simpletools",
+      "programName": "SimpleTools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1710-simpletools": {
+      "programId": "prog-1710-simpletools",
+      "programName": "SimpleTools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1711-simpletools": {
+      "programId": "prog-1711-simpletools",
+      "programName": "SimpleTools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1712-simpletools": {
+      "programId": "prog-1712-simpletools",
+      "programName": "SimpleTools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1713-simpletools": {
+      "programId": "prog-1713-simpletools",
+      "programName": "SimpleTools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1714-simpletools": {
+      "programId": "prog-1714-simpletools",
+      "programName": "SimpleTools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1715-sinacidlev1": {
+      "programId": "prog-1715-sinacidlev1",
+      "programName": "sinacidlev1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1716-sinner2": {
+      "programId": "prog-1716-sinner2",
+      "programName": "Sinner²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1717-sinnr-linkr": {
+      "programId": "prog-1717-sinnr-linkr",
+      "programName": "SinnΦr LinkΘr╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1718-sins-outlaw-prog": {
+      "programId": "prog-1718-sins-outlaw-prog",
+      "programName": "Sins OutLaw Prog",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1719-sint-idle": {
+      "programId": "prog-1719-sint-idle",
+      "programName": "sint idle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1720-skateboarding-toolz-2": {
+      "programId": "prog-1720-skateboarding-toolz-2",
+      "programName": "Skateboarding Toolz 2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1721-skatertoolz11": {
+      "programId": "prog-1721-skatertoolz11",
+      "programName": "skatertoolz11",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1722-skittles": {
+      "programId": "prog-1722-skittles",
+      "programName": "Skittles",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1723-skittlez-idler": {
+      "programId": "prog-1723-skittlez-idler",
+      "programName": "Skittlez Idler",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1724-skizzle2beta3": {
+      "programId": "prog-1724-skizzle2beta3",
+      "programName": "skizzle²(beta3)",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1725-sl-1-0-beta": {
+      "programId": "prog-1725-sl-1-0-beta",
+      "programName": "SL 1.0 -[beta]-",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1726-slamfnl": {
+      "programId": "prog-1726-slamfnl",
+      "programName": "SLAMFNL",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1727-slap": {
+      "programId": "prog-1727-slap",
+      "programName": "Slap",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1728-slashed": {
+      "programId": "prog-1728-slashed",
+      "programName": "SLASHED",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1729-sleepdatidle": {
+      "programId": "prog-1729-sleepdatidle",
+      "programName": "sleepdatidle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1730-slim": {
+      "programId": "prog-1730-slim",
+      "programName": "slim",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1730-slim.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1731-slimshaypunta": {
+      "programId": "prog-1731-slimshaypunta",
+      "programName": "slimshaypunta",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1732-slipsidler": {
+      "programId": "prog-1732-slipsidler",
+      "programName": "Slipsidler",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1732-slipsidler.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1733-slnmm": {
+      "programId": "prog-1733-slnmm",
+      "programName": "SLNMM",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1734-sloppy-second": {
+      "programId": "prog-1734-sloppy-second",
+      "programName": "Sloppy second",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1735-slut-vp": {
+      "programId": "prog-1735-slut-vp",
+      "programName": "Slut VP",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/1735-slut-vp.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1736-smackcrackv2public": {
+      "programId": "prog-1736-smackcrackv2public",
+      "programName": "smackcrackv2public",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1737-small-clearer": {
+      "programId": "prog-1737-small-clearer",
+      "programName": "Small Clearer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1738-smartsurf-2-0": {
+      "programId": "prog-1738-smartsurf-2-0",
+      "programName": "SmartSurf 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1738-smartsurf-2-0.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1739-smartsurf-help": {
+      "programId": "prog-1739-smartsurf-help",
+      "programName": "SmartSurf HELP",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1740-smog-idle": {
+      "programId": "prog-1740-smog-idle",
+      "programName": "smog idle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1741-smurf-tank": {
+      "programId": "prog-1741-smurf-tank",
+      "programName": "smurf.tank",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1742-smwf": {
+      "programId": "prog-1742-smwf",
+      "programName": "smwf",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1743-sn-collector-xp": {
+      "programId": "prog-1743-sn-collector-xp",
+      "programName": "sn collector xp",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1744-snatchem": {
+      "programId": "prog-1744-snatchem",
+      "programName": "SnatchEm",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1745-snatchem2": {
+      "programId": "prog-1745-snatchem2",
+      "programName": "SnatchEm2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1746-snchecker": {
+      "programId": "prog-1746-snchecker",
+      "programName": "SNchecker",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1747-sni": {
+      "programId": "prog-1747-sni",
+      "programName": "sni",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1747-sni.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1748-sni3": {
+      "programId": "prog-1748-sni3",
+      "programName": "sni3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1748-sni3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1749-sniffer2000": {
+      "programId": "prog-1749-sniffer2000",
+      "programName": "sniffer2000",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1750-snipe": {
+      "programId": "prog-1750-snipe",
+      "programName": "SNIPE",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1751-snoop": {
+      "programId": "prog-1751-snoop",
+      "programName": "snoop",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1752-snpimp": {
+      "programId": "prog-1752-snpimp",
+      "programName": "snpimp",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1753-so-soild": {
+      "programId": "prog-1753-so-soild",
+      "programName": "so soild",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1754-soccas-profile-tagger-v-1-1": {
+      "programId": "prog-1754-soccas-profile-tagger-v-1-1",
+      "programName": "Socca's Profile Tagger v. 1.1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1755-social2": {
+      "programId": "prog-1755-social2",
+      "programName": "social²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1756-solar": {
+      "programId": "prog-1756-solar",
+      "programName": "solar",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1757-solar": {
+      "programId": "prog-1757-solar",
+      "programName": "solar",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1758-solar-2-11-v2": {
+      "programId": "prog-1758-solar-2-11-v2",
+      "programName": "solar 2.11 v2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1759-solar-winds-3-00": {
+      "programId": "prog-1759-solar-winds-3-00",
+      "programName": "Solar Winds 3.00",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1760-solitaire-beta": {
+      "programId": "prog-1760-solitaire-beta",
+      "programName": "Solitaire beta╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1761-souls-beta-ver-1-0": {
+      "programId": "prog-1761-souls-beta-ver-1-0",
+      "programName": "SouL's Beta Ver. 1.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1762-soulja": {
+      "programId": "prog-1762-soulja",
+      "programName": "soulja",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1762-soulja.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1763-sound-scroller-yo": {
+      "programId": "prog-1763-sound-scroller-yo",
+      "programName": "SOUND SCROLLER YO",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1764-sound-5000": {
+      "programId": "prog-1764-sound-5000",
+      "programName": "Sound-5000",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1765-south-park-phader-1-7": {
+      "programId": "prog-1765-south-park-phader-1-7",
+      "programName": "South Park Phader 1.7",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1766-spam": {
+      "programId": "prog-1766-spam",
+      "programName": "spam",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1767-spam": {
+      "programId": "prog-1767-spam",
+      "programName": "spam",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1768-spam-for-grams-v1-1-by-coz": {
+      "programId": "prog-1768-spam-for-grams-v1-1-by-coz",
+      "programName": "Spam For Grams [v1.1] by coz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1769-spamicide": {
+      "programId": "prog-1769-spamicide",
+      "programName": "spamicide▓╖╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1770-spammin-linkz-2-0": {
+      "programId": "prog-1770-spammin-linkz-2-0",
+      "programName": "Spammin Linkz 2.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1771-spamonlineaim-spammer": {
+      "programId": "prog-1771-spamonlineaim-spammer",
+      "programName": "spamonline[aim spammer]",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1772-spamsock3": {
+      "programId": "prog-1772-spamsock3",
+      "programName": "spamsock3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1773-spamsock3": {
+      "programId": "prog-1773-spamsock3",
+      "programName": "spamsock3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1774-spamsock3": {
+      "programId": "prog-1774-spamsock3",
+      "programName": "spamsock3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1775-spamu": {
+      "programId": "prog-1775-spamu",
+      "programName": "spamu",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1776-spamv2": {
+      "programId": "prog-1776-spamv2",
+      "programName": "SPaMv²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1777-spazadvv2-0": {
+      "programId": "prog-1777-spazadvv2-0",
+      "programName": "spazadvv2.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1778-spazz-2k-idler": {
+      "programId": "prog-1778-spazz-2k-idler",
+      "programName": "Spazz 2k Idler",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1779-spectrum": {
+      "programId": "prog-1779-spectrum",
+      "programName": "spectrum",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1780-speedschatignore": {
+      "programId": "prog-1780-speedschatignore",
+      "programName": "speedschatignore",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1781-speedy": {
+      "programId": "prog-1781-speedy",
+      "programName": "speedy",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1782-speedy-scrolla-v": {
+      "programId": "prog-1782-speedy-scrolla-v",
+      "programName": "Speedy Scrolla v¦+¦",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1782-speedy-scrolla-v.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1783-speedyrb": {
+      "programId": "prog-1783-speedyrb",
+      "programName": "SpeedyRB",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1783-speedyrb.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1784-speelscoms": {
+      "programId": "prog-1784-speelscoms",
+      "programName": "speelscoms",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1785-speelscoms2": {
+      "programId": "prog-1785-speelscoms2",
+      "programName": "speelscoms2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1786-speelsidle": {
+      "programId": "prog-1786-speelsidle",
+      "programName": "speelsidle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1787-sphere": {
+      "programId": "prog-1787-sphere",
+      "programName": "sphere",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1787-sphere.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1788-spice1-termer": {
+      "programId": "prog-1788-spice1-termer",
+      "programName": "Spice1 Termer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1789-spieler-v2": {
+      "programId": "prog-1789-spieler-v2",
+      "programName": "Spieler v²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1790-spite-massmailer-v0-1-1": {
+      "programId": "prog-1790-spite-massmailer-v0-1-1",
+      "programName": "Spite MassMailer v0.1.1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1791-spite-massmailer": {
+      "programId": "prog-1791-spite-massmailer",
+      "programName": "Spite MassMailer░╖╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1792-spitfire": {
+      "programId": "prog-1792-spitfire",
+      "programName": "SPITFIRE",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1793-spizam": {
+      "programId": "prog-1793-spizam",
+      "programName": "spizam",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1794-spobby": {
+      "programId": "prog-1794-spobby",
+      "programName": "spobby",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1795-spynesxer": {
+      "programId": "prog-1795-spynesxer",
+      "programName": "SpynesXer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1795-spynesxer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1796-ss": {
+      "programId": "prog-1796-ss",
+      "programName": "SS",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1797-sswbpro": {
+      "programId": "prog-1797-sswbpro",
+      "programName": "SSWB(PRO)",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1798-sswbprov-2": {
+      "programId": "prog-1798-sswbprov-2",
+      "programName": "SSWB(Pro)V.2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1799-st5": {
+      "programId": "prog-1799-st5",
+      "programName": "st5",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1799-st5.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1800-staff-toolz": {
+      "programId": "prog-1800-staff-toolz",
+      "programName": "staff toolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1801-staff-toolz-2-0": {
+      "programId": "prog-1801-staff-toolz-2-0",
+      "programName": "staff toolz 2.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1802-staind-coms": {
+      "programId": "prog-1802-staind-coms",
+      "programName": "staind coms",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1803-stanky-chatter-v-1": {
+      "programId": "prog-1803-stanky-chatter-v-1",
+      "programName": "Stanky Chatter v.1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1804-stankysoft-cd-player": {
+      "programId": "prog-1804-stankysoft-cd-player",
+      "programName": "StankySoft CD PLAYER",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1805-stank2": {
+      "programId": "prog-1805-stank2",
+      "programName": "stank²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1806-static": {
+      "programId": "prog-1806-static",
+      "programName": "static",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1807-static2": {
+      "programId": "prog-1807-static2",
+      "programName": "static2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1808-stealit": {
+      "programId": "prog-1808-stealit",
+      "programName": "stealit",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1809-stealitv2": {
+      "programId": "prog-1809-stealitv2",
+      "programName": "stealitv2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1810-stealth-idler": {
+      "programId": "prog-1810-stealth-idler",
+      "programName": "Stealth Idler",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1811-stealth-lagger": {
+      "programId": "prog-1811-stealth-lagger",
+      "programName": "Stealth Lagger",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1812-steam": {
+      "programId": "prog-1812-steam",
+      "programName": "steam",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1813-stfu-bitch": {
+      "programId": "prog-1813-stfu-bitch",
+      "programName": "STFU BiTCH",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1814-sti": {
+      "programId": "prog-1814-sti",
+      "programName": "sti",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1815-sting2": {
+      "programId": "prog-1815-sting2",
+      "programName": "STiNG2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1816-sting3": {
+      "programId": "prog-1816-sting3",
+      "programName": "STiNG3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1817-stolen-coms": {
+      "programId": "prog-1817-stolen-coms",
+      "programName": "STOLEN COMS",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1818-stolen-html": {
+      "programId": "prog-1818-stolen-html",
+      "programName": "stolen html",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1819-stolen3": {
+      "programId": "prog-1819-stolen3",
+      "programName": "Stolen3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1820-stonecold": {
+      "programId": "prog-1820-stonecold",
+      "programName": "StoneCold",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1821-stoned": {
+      "programId": "prog-1821-stoned",
+      "programName": "stoned",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1822-stoolz501": {
+      "programId": "prog-1822-stoolz501",
+      "programName": "stoolz501",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1823-storage": {
+      "programId": "prog-1823-storage",
+      "programName": "storage",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1824-stp-idle-by-budz-version-2": {
+      "programId": "prog-1824-stp-idle-by-budz-version-2",
+      "programName": "Stp idle by budz Version 2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1825-str8-up-fake-server": {
+      "programId": "prog-1825-str8-up-fake-server",
+      "programName": "Str8 Up Fake Server",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1826-str8-up-idle-1-0": {
+      "programId": "prog-1826-str8-up-idle-1-0",
+      "programName": "Str8 Up iDLe 1.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1827-str8-up-idle-2-5": {
+      "programId": "prog-1827-str8-up-idle-2-5",
+      "programName": "Str8 Up iDLe 2.5",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1828-str8-up-idle-3-0": {
+      "programId": "prog-1828-str8-up-idle-3-0",
+      "programName": "Str8 Up iDLe 3.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1829-straight": {
+      "programId": "prog-1829-straight",
+      "programName": "Straight",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1830-streetidle": {
+      "programId": "prog-1830-streetidle",
+      "programName": "streetidle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1831-stxu": {
+      "programId": "prog-1831-stxu",
+      "programName": "stxu",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1832-style": {
+      "programId": "prog-1832-style",
+      "programName": "style",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1833-style-tag-by-kid": {
+      "programId": "prog-1833-style-tag-by-kid",
+      "programName": "style tag -by- kid",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1834-style-tag-by-kid": {
+      "programId": "prog-1834-style-tag-by-kid",
+      "programName": "style tag -by- kid",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1835-stereo-type": {
+      "programId": "prog-1835-stereo-type",
+      "programName": "stèréo.typè",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/1835-stereo-type.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1836-sub-profile-murda": {
+      "programId": "prog-1836-sub-profile-murda",
+      "programName": "Sub Profile Murda",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1837-sub-scroller": {
+      "programId": "prog-1837-sub-scroller",
+      "programName": "sub scroller",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1838-subzer0prog": {
+      "programId": "prog-1838-subzer0prog",
+      "programName": "SubZer0prog",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1839-sucks": {
+      "programId": "prog-1839-sucks",
+      "programName": "sucks",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1840-suicidal-idle": {
+      "programId": "prog-1840-suicidal-idle",
+      "programName": "Suicidal Idle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1841-suicide-coms": {
+      "programId": "prog-1841-suicide-coms",
+      "programName": "suicide coms",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1842-supadupa": {
+      "programId": "prog-1842-supadupa",
+      "programName": "SUPADUPA",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1843-super-scroller": {
+      "programId": "prog-1843-super-scroller",
+      "programName": "super scroller",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1844-superior-ascii": {
+      "programId": "prog-1844-superior-ascii",
+      "programName": "Superior Ascii",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1845-superscotch": {
+      "programId": "prog-1845-superscotch",
+      "programName": "SuperScotch",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1846-supertermer": {
+      "programId": "prog-1846-supertermer",
+      "programName": "supertermer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1847-surface": {
+      "programId": "prog-1847-surface",
+      "programName": "surface",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1847-surface.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1848-surprise": {
+      "programId": "prog-1848-surprise",
+      "programName": "Surprise!",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1849-super-saiyan-v1o": {
+      "programId": "prog-1849-super-saiyan-v1o",
+      "programName": "Súpër Sàíýåñ v¹·º",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1849-super-saiyan-v1o.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1850-swarmsetup": {
+      "programId": "prog-1850-swarmsetup",
+      "programName": "SwarmSetup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1851-sweetsounds": {
+      "programId": "prog-1851-sweetsounds",
+      "programName": "SweetSounds",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1852-swift": {
+      "programId": "prog-1852-swift",
+      "programName": "Swift",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1853-swiftplayer": {
+      "programId": "prog-1853-swiftplayer",
+      "programName": "SwiftPlayer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1854-swkscan": {
+      "programId": "prog-1854-swkscan",
+      "programName": "swkscan",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1855-swift-idler": {
+      "programId": "prog-1855-swift-idler",
+      "programName": "Swíft Idlér",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1856-synful": {
+      "programId": "prog-1856-synful",
+      "programName": "synful",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1857-syntek-idle2-2": {
+      "programId": "prog-1857-syntek-idle2-2",
+      "programName": "Syntek Idle2-2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1858-syphon-beta-3": {
+      "programId": "prog-1858-syphon-beta-3",
+      "programName": "Syphon beta 3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1859-syphon-v1-by-runic": {
+      "programId": "prog-1859-syphon-v1-by-runic",
+      "programName": "Syphon v1 by runic",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1860-slr-v": {
+      "programId": "prog-1860-slr-v",
+      "programName": "s°lσr v▓╖╣▓",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1861-t2k": {
+      "programId": "prog-1861-t2k",
+      "programName": "T2k",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1862-t-2000": {
+      "programId": "prog-1862-t-2000",
+      "programName": "t_2000",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1863-taco": {
+      "programId": "prog-1863-taco",
+      "programName": "TACO",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1864-tag-it-up": {
+      "programId": "prog-1864-tag-it-up",
+      "programName": "tag-it-up",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1865-tagger-9-0-by-spermie": {
+      "programId": "prog-1865-tagger-9-0-by-spermie",
+      "programName": "tagger 9.0 by spermie",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1866-tagginplus": {
+      "programId": "prog-1866-tagginplus",
+      "programName": "TagginPlus",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1867-tagginplus": {
+      "programId": "prog-1867-tagginplus",
+      "programName": "TagginPlus!",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1868-tal0n": {
+      "programId": "prog-1868-tal0n",
+      "programName": "Tal0n",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1869-talc0nxer": {
+      "programId": "prog-1869-talc0nxer",
+      "programName": "Talc0nXer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1869-talc0nxer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1870-tamonzlinker": {
+      "programId": "prog-1870-tamonzlinker",
+      "programName": "TamonzLinker",
+      "scanned": true,
+      "localPath": "files/aol/mixed/1870-tamonzlinker.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1871-te1-1": {
+      "programId": "prog-1871-te1-1",
+      "programName": "TE1_1",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1871-te1-1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1872-team-volcom-idle-2": {
+      "programId": "prog-1872-team-volcom-idle-2",
+      "programName": "Team Volcom Idle 2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1873-teamad": {
+      "programId": "prog-1873-teamad",
+      "programName": "Teamad",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1873-teamad.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1874-techie": {
+      "programId": "prog-1874-techie",
+      "programName": "techie╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1875-techno1": {
+      "programId": "prog-1875-techno1",
+      "programName": "TECHNO~1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1876-techtoolz-v1": {
+      "programId": "prog-1876-techtoolz-v1",
+      "programName": "Techtoolz v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1876-techtoolz-v1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1877-teknaidler": {
+      "programId": "prog-1877-teknaidler",
+      "programName": "teknaidler",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1878-tekron-one-beta-v1": {
+      "programId": "prog-1878-tekron-one-beta-v1",
+      "programName": "Tekron.one beta v1",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1878-tekron-one-beta-v1.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1879-telic-v4-0": {
+      "programId": "prog-1879-telic-v4-0",
+      "programName": "TeLiC v4.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1880-tempest1": {
+      "programId": "prog-1880-tempest1",
+      "programName": "tempest1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1881-termer": {
+      "programId": "prog-1881-termer",
+      "programName": "TERMER",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1882-termer": {
+      "programId": "prog-1882-termer",
+      "programName": "TERMER",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1883-termish": {
+      "programId": "prog-1883-termish",
+      "programName": "termish",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1884-termish-v1-87": {
+      "programId": "prog-1884-termish-v1-87",
+      "programName": "termish v1.87",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1885-terrorism": {
+      "programId": "prog-1885-terrorism",
+      "programName": "terrorism",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1886-terror1": {
+      "programId": "prog-1886-terror1",
+      "programName": "Terror~1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1887-tfpunt": {
+      "programId": "prog-1887-tfpunt",
+      "programName": "tfpunt",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1887-tfpunt.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1888-the-hunted": {
+      "programId": "prog-1888-the-hunted",
+      "programName": "The Hunted",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1889-the-hunted-v1-5": {
+      "programId": "prog-1889-the-hunted-v1-5",
+      "programName": "The Hunted v1.5",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1890-the-hunted-v2-0": {
+      "programId": "prog-1890-the-hunted-v2-0",
+      "programName": "The Hunted v2.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1891-the-last-standbeta": {
+      "programId": "prog-1891-the-last-standbeta",
+      "programName": "The Last Standbeta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1891-the-last-standbeta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1892-the-pothead-idle": {
+      "programId": "prog-1892-the-pothead-idle",
+      "programName": "The Pothead Idle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1893-the-siege": {
+      "programId": "prog-1893-the-siege",
+      "programName": "THE SIEGE",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1894-the-siege-2o": {
+      "programId": "prog-1894-the-siege-2o",
+      "programName": "THE SIEGE ²·º",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1895-thecollector": {
+      "programId": "prog-1895-thecollector",
+      "programName": "thecollector",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1896-themissinglink": {
+      "programId": "prog-1896-themissinglink",
+      "programName": "themissingLink",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1897-theorytoolz0-1": {
+      "programId": "prog-1897-theorytoolz0-1",
+      "programName": "TheoryToolz0.1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1898-thermal-idle-net2-by-sk": {
+      "programId": "prog-1898-thermal-idle-net2-by-sk",
+      "programName": "thermal idle net² by sk",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1899-theurge": {
+      "programId": "prog-1899-theurge",
+      "programName": "theurge",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1900-thorn2": {
+      "programId": "prog-1900-thorn2",
+      "programName": "thorn2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1900-thorn2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1901-thrashx-coms": {
+      "programId": "prog-1901-thrashx-coms",
+      "programName": "thrashx coms",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1902-thug-fader": {
+      "programId": "prog-1902-thug-fader",
+      "programName": "thug fader",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1903-thunda": {
+      "programId": "prog-1903-thunda",
+      "programName": "Thunda",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1904-thuper-mmer": {
+      "programId": "prog-1904-thuper-mmer",
+      "programName": "thuper mmer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1905-thr-ocrouu-v": {
+      "programId": "prog-1905-thr-ocrouu-v",
+      "programName": "Th▄±╨δR ºcRoúú¬ v ▓",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1906-tightass": {
+      "programId": "prog-1906-tightass",
+      "programName": "tightass",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1906-tightass.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1907-tiki-term": {
+      "programId": "prog-1907-tiki-term",
+      "programName": "tiki_term",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1908-time-bomb-1-0-beta-1": {
+      "programId": "prog-1908-time-bomb-1-0-beta-1",
+      "programName": "time bomb  1.0 beta 1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1909-timeline": {
+      "programId": "prog-1909-timeline",
+      "programName": "Timeline",
+      "scanned": true,
+      "localPath": "files/aol/aol-9-0/1909-timeline.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1910-timephreeze": {
+      "programId": "prog-1910-timephreeze",
+      "programName": "TimePhreeze",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1911-timer-by-z0ne": {
+      "programId": "prog-1911-timer-by-z0ne",
+      "programName": "Timer by z0ne",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1912-timecheck": {
+      "programId": "prog-1912-timecheck",
+      "programName": "Time·Check",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1913-timmya-idle": {
+      "programId": "prog-1913-timmya-idle",
+      "programName": "TIMMYA IDLE!!!!!!!!!!!!!!!!",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1913-timmya-idle.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1914-tnc": {
+      "programId": "prog-1914-tnc",
+      "programName": "TnC",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1915-tnc-idle": {
+      "programId": "prog-1915-tnc-idle",
+      "programName": "TnC IdLe",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1916-tnl": {
+      "programId": "prog-1916-tnl",
+      "programName": "tnl",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1917-tnt11": {
+      "programId": "prog-1917-tnt11",
+      "programName": "tnt11",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1918-tntw-scroller": {
+      "programId": "prog-1918-tntw-scroller",
+      "programName": "TNTW-Scroller",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1919-toad": {
+      "programId": "prog-1919-toad",
+      "programName": "TOAD",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1919-toad.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1920-toad13": {
+      "programId": "prog-1920-toad13",
+      "programName": "toad13",
+      "scanned": true,
+      "localPath": "files/aim/mixed/1920-toad13.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1921-toadv2b2": {
+      "programId": "prog-1921-toadv2b2",
+      "programName": "toadv2b2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1922-toaster2": {
+      "programId": "prog-1922-toaster2",
+      "programName": "toaster²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1923-tokez-ro": {
+      "programId": "prog-1923-tokez-ro",
+      "programName": "tokez_ro",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1924-ton-corp": {
+      "programId": "prog-1924-ton-corp",
+      "programName": "tOn Corp",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1925-tonedawg-idle": {
+      "programId": "prog-1925-tonedawg-idle",
+      "programName": "TONEDAWG IDLE",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1926-toolz": {
+      "programId": "prog-1926-toolz",
+      "programName": "TOOLZ",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1927-toolz": {
+      "programId": "prog-1927-toolz",
+      "programName": "toolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1928-topz-idler": {
+      "programId": "prog-1928-topz-idler",
+      "programName": "Topz Idler",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1929-tortuga-final": {
+      "programId": "prog-1929-tortuga-final",
+      "programName": "ToRtUgA Final",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1930-toschk50": {
+      "programId": "prog-1930-toschk50",
+      "programName": "toschk50",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1931-tosd": {
+      "programId": "prog-1931-tosd",
+      "programName": "tosd",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1932-toser": {
+      "programId": "prog-1932-toser",
+      "programName": "toser",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1933-totalchaos": {
+      "programId": "prog-1933-totalchaos",
+      "programName": "TotalChaos",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1934-toxic": {
+      "programId": "prog-1934-toxic",
+      "programName": "toxic",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1935-toxic1-0": {
+      "programId": "prog-1935-toxic1-0",
+      "programName": "Toxic1.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1936-toy-machine": {
+      "programId": "prog-1936-toy-machine",
+      "programName": "Toy Machine",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1937-trance23": {
+      "programId": "prog-1937-trance23",
+      "programName": "TrancE23",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1938-transend-idle-public": {
+      "programId": "prog-1938-transend-idle-public",
+      "programName": "transend idle [public]",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1939-treason": {
+      "programId": "prog-1939-treason",
+      "programName": "Treason",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1939-treason.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1940-tremble": {
+      "programId": "prog-1940-tremble",
+      "programName": "tremble",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1940-tremble.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1941-trendwhoret-by-chris": {
+      "programId": "prog-1941-trendwhoret-by-chris",
+      "programName": "trendwhoreT by chris",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1942-trini13": {
+      "programId": "prog-1942-trini13",
+      "programName": "trini13",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1943-trippin-comz-v1": {
+      "programId": "prog-1943-trippin-comz-v1",
+      "programName": "TrippIn Comz v1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1944-tris-toolz-4-o": {
+      "programId": "prog-1944-tris-toolz-4-o",
+      "programName": "TrIs ToOlz 4.o",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1945-triviatoolz": {
+      "programId": "prog-1945-triviatoolz",
+      "programName": "TriviaToolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1946-trutoolz": {
+      "programId": "prog-1946-trutoolz",
+      "programName": "TRUToolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1947-tsfinal": {
+      "programId": "prog-1947-tsfinal",
+      "programName": "tsfinal",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1948-tundra": {
+      "programId": "prog-1948-tundra",
+      "programName": "tundra",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1949-turbine-by-clone-n-binh": {
+      "programId": "prog-1949-turbine-by-clone-n-binh",
+      "programName": "turbine╣╖║ by clone n' binh",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1950-turbo": {
+      "programId": "prog-1950-turbo",
+      "programName": "turbo",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1951-tweecin-mp3": {
+      "programId": "prog-1951-tweecin-mp3",
+      "programName": "TweeCin Mp3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1952-twisted-comz": {
+      "programId": "prog-1952-twisted-comz",
+      "programName": "twisted comz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1953-twizted-illusions-final": {
+      "programId": "prog-1953-twizted-illusions-final",
+      "programName": "Twizted ILLusions Final",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1954-twizted-illusions2-0": {
+      "programId": "prog-1954-twizted-illusions2-0",
+      "programName": "Twizted Illusions2.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1955-type-zero": {
+      "programId": "prog-1955-type-zero",
+      "programName": "type zero",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1956-typo": {
+      "programId": "prog-1956-typo",
+      "programName": "Typo",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1957-typo": {
+      "programId": "prog-1957-typo",
+      "programName": "TyPo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1957-typo.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1958-uccom-elite-4-0-beta-3-0": {
+      "programId": "prog-1958-uccom-elite-4-0-beta-3-0",
+      "programName": "Uccom Elite 4.0 Beta 3.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1959-uhoh1-2setup": {
+      "programId": "prog-1959-uhoh1-2setup",
+      "programName": "uhOH!1.2setup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1960-uhoh1-3setup": {
+      "programId": "prog-1960-uhoh1-3setup",
+      "programName": "uhOH!1.3setup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1961-ultima-coms-final2": {
+      "programId": "prog-1961-ultima-coms-final2",
+      "programName": "ultima-coms final²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1962-ultima-coms-v3": {
+      "programId": "prog-1962-ultima-coms-v3",
+      "programName": "ultima-coms v3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1963-ultima2k-coms": {
+      "programId": "prog-1963-ultima2k-coms",
+      "programName": "ultima2k-coms",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1964-ultimate": {
+      "programId": "prog-1964-ultimate",
+      "programName": "ultimate",
+      "scanned": true,
+      "localPath": "files/aol/aol-2-5/1964-ultimate.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1965-ultimate-cracking-utility": {
+      "programId": "prog-1965-ultimate-cracking-utility",
+      "programName": "Ultimate Cracking Utility",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1966-unbreakable": {
+      "programId": "prog-1966-unbreakable",
+      "programName": "unbreakable",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1967-undertaker": {
+      "programId": "prog-1967-undertaker",
+      "programName": "Undertaker�",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1968-unibomb": {
+      "programId": "prog-1968-unibomb",
+      "programName": "Unibomb",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1968-unibomb.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1969-unibombers-idle": {
+      "programId": "prog-1969-unibombers-idle",
+      "programName": "UnIbOmBeRs Idle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1970-unknown-idle": {
+      "programId": "prog-1970-unknown-idle",
+      "programName": "unknown idle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1970-unknown-idle.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1971-unreal": {
+      "programId": "prog-1971-unreal",
+      "programName": "unreal",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1972-unreal": {
+      "programId": "prog-1972-unreal",
+      "programName": "unreal",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/1972-unreal.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1973-unspoken-mail-sender-by-sean": {
+      "programId": "prog-1973-unspoken-mail-sender-by-sean",
+      "programName": "Unspoken Mail Sender By SeaN",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1974-untamed-fader": {
+      "programId": "prog-1974-untamed-fader",
+      "programName": "Untamed Fader",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1975-untamed-fader-2-0": {
+      "programId": "prog-1975-untamed-fader-2-0",
+      "programName": "Untamed Fader 2.0",
+      "scanned": true,
+      "localPath": "files/aol/aol-9-0/1975-untamed-fader-2-0.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1976-unwritten": {
+      "programId": "prog-1976-unwritten",
+      "programName": "Unwritten",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1976-unwritten.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1977-up-date-checker": {
+      "programId": "prog-1977-up-date-checker",
+      "programName": "Up-Date Checker",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/1977-up-date-checker.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1978-upchattools": {
+      "programId": "prog-1978-upchattools",
+      "programName": "UpchatTools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1979-update": {
+      "programId": "prog-1979-update",
+      "programName": "update",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1979-update.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1980-upload-tools": {
+      "programId": "prog-1980-upload-tools",
+      "programName": "upload tools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1981-ups": {
+      "programId": "prog-1981-ups",
+      "programName": "UpS",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1981-ups.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1982-usa": {
+      "programId": "prog-1982-usa",
+      "programName": "usa",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1983-uwtserv": {
+      "programId": "prog-1983-uwtserv",
+      "programName": "uwtserv",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1984-uxmpuntc": {
+      "programId": "prog-1984-uxmpuntc",
+      "programName": "UXMPUNTC",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1985-une-groun": {
+      "programId": "prog-1985-une-groun",
+      "programName": "ÛñÐë® GrÕüÑÐ",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/1985-une-groun.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1986-v11": {
+      "programId": "prog-1986-v11",
+      "programName": "V11",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1987-vampire": {
+      "programId": "prog-1987-vampire",
+      "programName": "VAMPIRE",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1988-vandal": {
+      "programId": "prog-1988-vandal",
+      "programName": "vandal",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1989-vapor": {
+      "programId": "prog-1989-vapor",
+      "programName": "vapor",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1989-vapor.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1990-vapor": {
+      "programId": "prog-1990-vapor",
+      "programName": "Vapor",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1991-velocity": {
+      "programId": "prog-1991-velocity",
+      "programName": "velocity",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1992-velocity-1-5": {
+      "programId": "prog-1992-velocity-1-5",
+      "programName": "velocity 1.5",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1993-velocity-buster-v1": {
+      "programId": "prog-1993-velocity-buster-v1",
+      "programName": "velocity buster v1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1994-velocity2": {
+      "programId": "prog-1994-velocity2",
+      "programName": "velocity2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1995-venomfader": {
+      "programId": "prog-1995-venomfader",
+      "programName": "VeNoMFaDeR",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1996-view2": {
+      "programId": "prog-1996-view2",
+      "programName": "view2",
+      "scanned": true,
+      "localPath": "files/aol/aol-3-0/1996-view2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-1997-viking": {
+      "programId": "prog-1997-viking",
+      "programName": "Viking",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1998-viking-toolz": {
+      "programId": "prog-1998-viking-toolz",
+      "programName": "Viking Toolz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-1999-ville": {
+      "programId": "prog-1999-ville",
+      "programName": "ville",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2000-vision": {
+      "programId": "prog-2000-vision",
+      "programName": "vision",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2001-vision-updated": {
+      "programId": "prog-2001-vision-updated",
+      "programName": "vision_updated",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2002-visualfade": {
+      "programId": "prog-2002-visualfade",
+      "programName": "visualfade",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2003-voicemeiser2setup": {
+      "programId": "prog-2003-voicemeiser2setup",
+      "programName": "voicemeiser2setup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2004-voltage": {
+      "programId": "prog-2004-voltage",
+      "programName": "voltage",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2005-vortex": {
+      "programId": "prog-2005-vortex",
+      "programName": "vortex",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2006-vortex-ii": {
+      "programId": "prog-2006-vortex-ii",
+      "programName": "Vortex II",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2007-virtual-tank2": {
+      "programId": "prog-2007-virtual-tank2",
+      "programName": "vírtúál tánk²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2008-w0o0o0f": {
+      "programId": "prog-2008-w0o0o0f",
+      "programName": "w0o0o0f",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2009-w0rd": {
+      "programId": "prog-2009-w0rd",
+      "programName": "w0rd",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2010-w1ck3d-toolz": {
+      "programId": "prog-2010-w1ck3d-toolz",
+      "programName": "w1ck3d TooLz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2011-waitbleed": {
+      "programId": "prog-2011-waitbleed",
+      "programName": "Wait&BLeeD",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2012-walkman-by-socer": {
+      "programId": "prog-2012-walkman-by-socer",
+      "programName": "walkman▌ - by socer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2013-waol1": {
+      "programId": "prog-2013-waol1",
+      "programName": "waol1",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2014-waol2-idler-by-budz": {
+      "programId": "prog-2014-waol2-idler-by-budz",
+      "programName": "Waol2 idler by budz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2015-warlock": {
+      "programId": "prog-2015-warlock",
+      "programName": "warlock",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2016-water": {
+      "programId": "prog-2016-water",
+      "programName": "WATER",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2017-wateridle": {
+      "programId": "prog-2017-wateridle",
+      "programName": "wateridle",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2017-wateridle.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2018-wave": {
+      "programId": "prog-2018-wave",
+      "programName": "wave",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2019-wavman": {
+      "programId": "prog-2019-wavman",
+      "programName": "wavman",
+      "scanned": true,
+      "localPath": "files/aol/mixed/2019-wavman.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2020-wb2": {
+      "programId": "prog-2020-wb2",
+      "programName": "wb2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2020-wb2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2021-we-will-own-4-life": {
+      "programId": "prog-2021-we-will-own-4-life",
+      "programName": "We WiLL Own 4 Life",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2022-wenisidle": {
+      "programId": "prog-2022-wenisidle",
+      "programName": "Wenisidle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2023-wh0rd": {
+      "programId": "prog-2023-wh0rd",
+      "programName": "WH0RD",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2024-white-inferno-3o": {
+      "programId": "prog-2024-white-inferno-3o",
+      "programName": "White Inferno 3·º",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2025-white-inferno1o": {
+      "programId": "prog-2025-white-inferno1o",
+      "programName": "White Inferno1·º",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2026-white-inferno2o": {
+      "programId": "prog-2026-white-inferno2o",
+      "programName": "White Inferno²·º",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2027-wicca": {
+      "programId": "prog-2027-wicca",
+      "programName": "WICCA",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2028-wicked": {
+      "programId": "prog-2028-wicked",
+      "programName": "Wicked",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2028-wicked.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2029-wicked-destruction": {
+      "programId": "prog-2029-wicked-destruction",
+      "programName": "Wicked Destruction",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2030-wicked-idler": {
+      "programId": "prog-2030-wicked-idler",
+      "programName": "WiCkeD IdLeR",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2031-wicked-twister-beta-release": {
+      "programId": "prog-2031-wicked-twister-beta-release",
+      "programName": "wicked twister-beta release",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2032-wild-tools-2": {
+      "programId": "prog-2032-wild-tools-2",
+      "programName": "Wild Tools 2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2033-winadv": {
+      "programId": "prog-2033-winadv",
+      "programName": "WinAdv",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2034-winadv-1-5-installer": {
+      "programId": "prog-2034-winadv-1-5-installer",
+      "programName": "WinAdv 1.5 Installer",
+      "scanned": true,
+      "localPath": "files/aol/aol-7-0/2034-winadv-1-5-installer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2035-winamphelp": {
+      "programId": "prog-2035-winamphelp",
+      "programName": "winamphelp",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2036-window-finger": {
+      "programId": "prog-2036-window-finger",
+      "programName": "window finger",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2037-winerror2k": {
+      "programId": "prog-2037-winerror2k",
+      "programName": "WiNErroR2K",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2038-wing-zero": {
+      "programId": "prog-2038-wing-zero",
+      "programName": "wing zero",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2039-winmp3": {
+      "programId": "prog-2039-winmp3",
+      "programName": "WinMp3",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2040-wireless-hookup": {
+      "programId": "prog-2040-wireless-hookup",
+      "programName": "Wireless Hookup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2041-wisdom": {
+      "programId": "prog-2041-wisdom",
+      "programName": "Wisdom",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2042-wisetoolz": {
+      "programId": "prog-2042-wisetoolz",
+      "programName": "WiSeTooLz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2043-witch-craft": {
+      "programId": "prog-2043-witch-craft",
+      "programName": "Witch Craft",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2044-wizard": {
+      "programId": "prog-2044-wizard",
+      "programName": "wizard",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2044-wizard.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2045-wlf": {
+      "programId": "prog-2045-wlf",
+      "programName": "wlf",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2046-words-of-elite": {
+      "programId": "prog-2046-words-of-elite",
+      "programName": "Words Of Elite",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2047-words-of-elite": {
+      "programId": "prog-2047-words-of-elite",
+      "programName": "Words Of Elite",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2048-wtfv4": {
+      "programId": "prog-2048-wtfv4",
+      "programName": "WTFV4",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2049-wwb-2000-ccom": {
+      "programId": "prog-2049-wwb-2000-ccom",
+      "programName": "WWB 2000 CCom",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2050-wwb-mp3-playa": {
+      "programId": "prog-2050-wwb-mp3-playa",
+      "programName": "WWB Mp3 Playa",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2051-wwwlinker2": {
+      "programId": "prog-2051-wwwlinker2",
+      "programName": "wwwlinker2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2052-wxamp": {
+      "programId": "prog-2052-wxamp",
+      "programName": "wXamp",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2052-wxamp.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2053-wzaol25": {
+      "programId": "prog-2053-wzaol25",
+      "programName": "WZAOL25",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2054-x-2k": {
+      "programId": "prog-2054-x-2k",
+      "programName": "X ²k",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2055-x-i-x-ower": {
+      "programId": "prog-2055-x-i-x-ower",
+      "programName": "X î X \u0014ówèr",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2056-xer": {
+      "programId": "prog-2056-xer",
+      "programName": "x'er",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2057-x-bust": {
+      "programId": "prog-2057-x-bust",
+      "programName": "x-bust",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2058-x-bust": {
+      "programId": "prog-2058-x-bust",
+      "programName": "x-bust",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2059-x-bust": {
+      "programId": "prog-2059-x-bust",
+      "programName": "x-bust",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2060-x-coms": {
+      "programId": "prog-2060-x-coms",
+      "programName": "x-coms",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2060-x-coms.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2061-x-ersist": {
+      "programId": "prog-2061-x-ersist",
+      "programName": "X-Ersist",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2062-x-treme-version": {
+      "programId": "prog-2062-x-treme-version",
+      "programName": "x-treme version│",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2063-x05": {
+      "programId": "prog-2063-x05",
+      "programName": "X05",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2064-x25-1x-by-bando-setup": {
+      "programId": "prog-2064-x25-1x-by-bando-setup",
+      "programName": "x25.1x By BaNdO setup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2065-x25-3x-by-sd-setup": {
+      "programId": "prog-2065-x25-3x-by-sd-setup",
+      "programName": "x25.3x by _s±d° setup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2066-x25-5x-by-and-install": {
+      "programId": "prog-2066-x25-5x-by-and-install",
+      "programName": "x25.5x by ßåñdø Install",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2067-x25-7x-by-and-install": {
+      "programId": "prog-2067-x25-7x-by-and-install",
+      "programName": "x25.7x by ßåñdø Install",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2068-x25-9x-by-and-install": {
+      "programId": "prog-2068-x25-9x-by-and-install",
+      "programName": "x25.9x by ßåñdø Install",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2069-x2x": {
+      "programId": "prog-2069-x2x",
+      "programName": "x2x",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2070-x3fader": {
+      "programId": "prog-2070-x3fader",
+      "programName": "X3Fader",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2071-x3mmer": {
+      "programId": "prog-2071-x3mmer",
+      "programName": "X3Mmer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2072-x3pwc": {
+      "programId": "prog-2072-x3pwc",
+      "programName": "x3pwc",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2073-x5-7x-by-and-setup": {
+      "programId": "prog-2073-x5-7x-by-and-setup",
+      "programName": "x5.7x by ßåñdø setup",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2074-xdat": {
+      "programId": "prog-2074-xdat",
+      "programName": "xdat",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2074-xdat.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2075-xer": {
+      "programId": "prog-2075-xer",
+      "programName": "xer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2076-xer": {
+      "programId": "prog-2076-xer",
+      "programName": "xer",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/2076-xer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2077-xl-horizon-2-00": {
+      "programId": "prog-2077-xl-horizon-2-00",
+      "programName": "XL Horizon 2.00",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2078-xp-idle-bot": {
+      "programId": "prog-2078-xp-idle-bot",
+      "programName": "xp idle bot",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2079-xp-idle": {
+      "programId": "prog-2079-xp-idle",
+      "programName": "xp idle╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2080-xp-player": {
+      "programId": "prog-2080-xp-player",
+      "programName": "xp player",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2081-xp-server-tools": {
+      "programId": "prog-2081-xp-server-tools",
+      "programName": "xp server tools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2082-xp3-2": {
+      "programId": "prog-2082-xp3-2",
+      "programName": "xp3.2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2083-xphadebeta": {
+      "programId": "prog-2083-xphadebeta",
+      "programName": "XPhadebeta",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2083-xphadebeta.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2084-xpresspimpv2": {
+      "programId": "prog-2084-xpresspimpv2",
+      "programName": "Xpress[pimp]v2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2085-xptools": {
+      "programId": "prog-2085-xptools",
+      "programName": "Xptools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2086-xray": {
+      "programId": "prog-2086-xray",
+      "programName": "XRAY",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2087-xtreme-idle": {
+      "programId": "prog-2087-xtreme-idle",
+      "programName": "xtreme idle",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2088-xtofader": {
+      "programId": "prog-2088-xtofader",
+      "programName": "XtºfAdEr",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2089-x": {
+      "programId": "prog-2089-x",
+      "programName": "x╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2090-y2": {
+      "programId": "prog-2090-y2",
+      "programName": "Y2",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2090-y2.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2091-y2cash": {
+      "programId": "prog-2091-y2cash",
+      "programName": "y2cash",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2092-y2cash2": {
+      "programId": "prog-2092-y2cash2",
+      "programName": "y2cash2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2093-y2k2000": {
+      "programId": "prog-2093-y2k2000",
+      "programName": "Y2K2000",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2094-y3x": {
+      "programId": "prog-2094-y3x",
+      "programName": "y3x",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2095-yignore": {
+      "programId": "prog-2095-yignore",
+      "programName": "yignore",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2096-yoinks-im-answerer": {
+      "programId": "prog-2096-yoinks-im-answerer",
+      "programName": "Yoinks IM Answerer",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2097-yoyo": {
+      "programId": "prog-2097-yoyo",
+      "programName": "YoYo",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2097-yoyo.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2098-yoyov2": {
+      "programId": "prog-2098-yoyov2",
+      "programName": "YoYov2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2099-z2ima": {
+      "programId": "prog-2099-z2ima",
+      "programName": "z2ima",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2100-z3": {
+      "programId": "prog-2100-z3",
+      "programName": "z3",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2100-z3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2101-zelda-fe": {
+      "programId": "prog-2101-zelda-fe",
+      "programName": "Zelda FE",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2102-zelda-zero-x": {
+      "programId": "prog-2102-zelda-zero-x",
+      "programName": "Zelda Zero X",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2103-zerg-tools": {
+      "programId": "prog-2103-zerg-tools",
+      "programName": "Zerg Tools",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2104-zero-detructi0n": {
+      "programId": "prog-2104-zero-detructi0n",
+      "programName": "Zero Dê\u0015tRûCtí0ñ",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2105-zero-detructi0n-v2": {
+      "programId": "prog-2105-zero-detructi0n-v2",
+      "programName": "Zero Dê\u0015tRûCtí0ñ v2",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2106-zero-limitz": {
+      "programId": "prog-2106-zero-limitz",
+      "programName": "Zero Limitz",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2107-zerolimits6": {
+      "programId": "prog-2107-zerolimits6",
+      "programName": "zerolimits6",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2108-zip": {
+      "programId": "prog-2108-zip",
+      "programName": "ZIP",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2109-zippy": {
+      "programId": "prog-2109-zippy",
+      "programName": "Zippy",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2110-zombie-tools": {
+      "programId": "prog-2110-zombie-tools",
+      "programName": "zombie tools╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2111-zombie3": {
+      "programId": "prog-2111-zombie3",
+      "programName": "Zombie3",
+      "scanned": true,
+      "localPath": "files/aol/aol-5-0/2111-zombie3.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2112-zonkplayer": {
+      "programId": "prog-2112-zonkplayer",
+      "programName": "zonkplayer",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2112-zonkplayer.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2113-zyber-idle-1-1-by-micro-n-nite": {
+      "programId": "prog-2113-zyber-idle-1-1-by-micro-n-nite",
+      "programName": "zyber idle [1.1] -by- miCro n' nite",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2114-zytax": {
+      "programId": "prog-2114-zytax",
+      "programName": "ZyTaX",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2115-zytax": {
+      "programId": "prog-2115-zytax",
+      "programName": "ZyTaX",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2116-zytax-1-5": {
+      "programId": "prog-2116-zytax-1-5",
+      "programName": "ZYTAX-1.5",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2117-zytax-2-0": {
+      "programId": "prog-2117-zytax-2-0",
+      "programName": "ZYTAX-2.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2118-p00f": {
+      "programId": "prog-2118-p00f",
+      "programName": "~p00f~",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2119-olletion-ageny-5-1-0": {
+      "programId": "prog-2119-olletion-ageny-5-1-0",
+      "programName": "¢öLLê¢tïöñ ågêñ¢y 5.1.0",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2120-ufg-idle": {
+      "programId": "prog-2120-ufg-idle",
+      "programName": "«-»UFG Idle«-»",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2121-rbital": {
+      "programId": "prog-2121-rbital",
+      "programName": "°rbital",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2122-rbital": {
+      "programId": "prog-2122-rbital",
+      "programName": "°rbital",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2123-hider": {
+      "programId": "prog-2123-hider",
+      "programName": "· Hider ·",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2124-lackr-chat-punter": {
+      "programId": "prog-2124-lackr-chat-punter",
+      "programName": "ßlackR()\u0015£ Chat Punter",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2125-accessories2-clone": {
+      "programId": "prog-2125-accessories2-clone",
+      "programName": "áccessories² · clone",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2126-aoblunted": {
+      "programId": "prog-2126-aoblunted",
+      "programName": "åòblunted",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2126-aoblunted.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2127-everda-atrcit": {
+      "programId": "prog-2127-everda-atrcit",
+      "programName": "êVêr¥da¥ Atr\u000fcit¥",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2128-import-dreamzangel": {
+      "programId": "prog-2128-import-dreamzangel",
+      "programName": "ímport.dreamz[Angel]",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2129-uegacy": {
+      "programId": "prog-2129-uegacy",
+      "programName": "úegacy ╣╖░",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2130-uek-dgt-h-14-h-bre": {
+      "programId": "prog-2130-uek-dgt-h-14-h-bre",
+      "programName": "úe±k dGt h° ¼ h bre-",
+      "scanned": true,
+      "localPath": "files/aol/aol-4-0/2130-uek-dgt-h-14-h-bre.zip",
+      "localSize": 22,
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "aolVersionMentions": [],
+      "notes": []
+    },
+    "prog-2131-alse-reality2": {
+      "programId": "prog-2131-alse-reality2",
+      "programName": "ƒalse reality²",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2132-xtrm-clsur-by-mence": {
+      "programId": "prog-2132-xtrm-clsur-by-mence",
+      "programName": "ΘxtrΘmΘ cl°surΘ by menαce",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2133-xtrm-clsur-by-mence-with-dvd": {
+      "programId": "prog-2133-xtrm-clsur-by-mence-with-dvd",
+      "programName": "ΘxtrΘmΘ cl°surΘ by menαce with dvd",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2134-xds-mp": {
+      "programId": "prog-2134-xds-mp",
+      "programName": "Θx°d·s mp│",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2135-dlzm": {
+      "programId": "prog-2135-dlzm",
+      "programName": "∞dlφzm╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2136-ll-nggy-com": {
+      "programId": "prog-2136-ll-nggy-com",
+      "programName": "╖ l∞l nφggy τ-com╣ ╖",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2137-mnc-c-cht": {
+      "programId": "prog-2137-mnc-c-cht",
+      "programName": "╨Φm°nφc C-Chßt ╣",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2138-bsss-by-trebor": {
+      "programId": "prog-2138-bsss-by-trebor",
+      "programName": "╨ΦΦ▐ ╥bsΦss By Trebor",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    },
+    "prog-2139-th-oku-ptr": {
+      "programId": "prog-2139-th-oku-ptr",
+      "programName": "╨δßth º╬╟Kú╦ P▄╤T╔R",
+      "scanned": false,
+      "reason": "no-local-file",
+      "localPath": ""
+    }
+  }
+};

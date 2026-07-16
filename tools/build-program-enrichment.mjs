@@ -145,6 +145,10 @@ function parseByline(value) {
     .replace(/\baol\s*\d+(?:\.\d+)?\b/gi, " ")
     .replace(/\s+/g, " ")
     .trim();
+  if (/^(rar|zip|7z|ace|arj|lzh|exe|dll|ocx|vbx|archive|file)$/i.test(author)) return null;
+  if (/\b(?:unknown|downloaded|download|install|setup|license|webpage|web\s*page|homepage|if|was|were|about)\b/i.test(author)) {
+    return null;
+  }
   if (!name || !author || author.length > 80) return null;
   return { name, author: titleCase(author) };
 }
@@ -413,12 +417,65 @@ function formatBytes(bytes) {
   return `${value >= 10 || unit === 0 ? value.toFixed(0) : value.toFixed(1)} ${units[unit]}`;
 }
 
+function addManualEvidence(perProgram) {
+  const rampageIds = ["prog-1574-rampage-toolz", "prog-1575-rampage2"];
+  const sourceName = "User-supplied Rampage/Oogle reference";
+  const sourceUrl = "https://web.archive.org/web/20010212021145/http://www.oogle.net/main.htm";
+  const mention = {
+    sourceName,
+    sourceUrl,
+    label: "Rampage Toolz and Oogle (Justin Tunney)",
+    url: sourceUrl,
+    originalUrl: sourceUrl,
+    kind: "manual evidence",
+    matchedBy: "manual:rampage-oogle",
+    inferredAuthor: "Oogle (Justin Tunney)",
+    inferredAolVersion: "",
+    summary:
+      "The supplied Oogle/Rampage reference identifies Rampage Toolz, including version 2.0, as Oogle / Justin Tunney work and points to archived Oogle resources.",
+  };
+  const sourceZip = {
+    sourceName,
+    sourceUrl,
+    label: "Rampage Toolz 2 source code",
+    url: "https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip",
+    originalUrl: "http://www.oogle.com/download/rampagetools2source.zip",
+    kind: "manual old-web download lead",
+    matchedBy: "manual:rampage-oogle",
+  };
+  const setupExe = {
+    sourceName: "Oogle AIM progs",
+    sourceUrl: "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+    label: "Rampage Toolz 2.0 setup",
+    url: "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
+    originalUrl: "http://www.oogle.net/rampage/setuprt22.exe",
+    kind: "manual old-web download lead",
+    matchedBy: "manual:rampage-oogle",
+  };
+
+  for (const id of rampageIds) {
+    const record = perProgram[id];
+    if (!record) continue;
+    record.manualAuthor = "Oogle (Justin Tunney)";
+    record.manualPurposeSignals = ["All-in-one prog suite", "AOL/AIM chat utility", "Scroller / macro"];
+    if (!record.inferredAuthor) record.inferredAuthor = "Oogle (Justin Tunney)";
+    if (id === "prog-1575-rampage2" && record.bestNameSource === "catalog") {
+      record.bestName = "Rampage Toolz 2.0";
+      record.bestNameSource = sourceName;
+    }
+    addLimited(record.webMentions, mention, (item) => `${item.sourceName}|${item.label}|${item.url}`, 16);
+    addLimited(record.webDownloadLinks, sourceZip, (item) => item.originalUrl || item.url, 30);
+    addLimited(record.webDownloadLinks, setupExe, (item) => item.originalUrl || item.url, 30);
+  }
+}
+
 async function main() {
   const catalog = readCatalog();
   const programs = catalog.programs || [];
   const webResources = readJson("data/web-resources.json", { pages: [], links: [] });
   const externalDownloads = readJson("data/external-downloads.json", { downloads: [], mirrorGroups: [] });
   const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
+  const archiveTextMetadata = readJson("data/archive-text-metadata.json", { perProgram: {} });
   const inferredById = new Map(programs.map((program) => [program.id, inferFromFilename(program)]));
   const matchProgram = buildProgramMatcher(programs, inferredById);
 
@@ -426,6 +483,7 @@ async function main() {
   for (const program of programs) {
     const inferred = inferredById.get(program.id);
     const size = fileSizeFor(program);
+    const archiveText = archiveTextMetadata.perProgram?.[program.id] || {};
     perProgram[program.id] = {
       programId: program.id,
       catalogName: clean(program.name),
@@ -436,12 +494,23 @@ async function main() {
       fileSize: size.label,
       inferredAuthor: inferred.derivedAuthor || "",
       inferredAolVersion: inferred.derivedAolVersion || "",
+      archiveTextAuthor: clean(archiveText.preferredAuthor),
+      archiveAuthorCandidates: archiveText.authorCandidates || [],
+      archiveTextFiles: archiveText.textFiles || [],
+      archivePurposeSignals: archiveText.purposeSignals || [],
+      archiveAolVersions: archiveText.aolVersionMentions || [],
+      archiveTextNotes: archiveText.notes || [],
+      manualAuthor: "",
+      manualPurposeSignals: [],
+      authorConflict: "",
       webMentions: [],
       webDownloadLinks: [],
       webImageLinks: [],
       mirrorLinks: [],
     };
   }
+
+  addManualEvidence(perProgram);
 
   for (const link of webResources.links || []) {
     const match = matchProgram(link.text, link.originalUrl, link.url);
@@ -587,12 +656,27 @@ async function main() {
     }
   }
 
+  for (const program of programs) {
+    const record = perProgram[program.id];
+    const catalogAuthor = clean(program.author);
+    const evidenceAuthor = clean(record.manualAuthor || record.archiveTextAuthor || record.inferredAuthor);
+    if (catalogAuthor && evidenceAuthor && catalogAuthor.toLowerCase() !== evidenceAuthor.toLowerCase()) {
+      record.authorConflict = `Catalog listed ${catalogAuthor}; evidence prefers ${evidenceAuthor}.`;
+    }
+  }
+
   const records = Object.values(perProgram);
   const data = {
     generatedAt: new Date().toISOString(),
     programCount: programs.length,
     programsWithImprovedNames: records.filter((item) => item.bestName && item.bestName !== item.catalogName).length,
     programsWithInferredAuthors: records.filter((item) => item.inferredAuthor).length,
+    programsWithManualAuthors: records.filter((item) => item.manualAuthor).length,
+    programsWithManualPurposeSignals: records.filter((item) => item.manualPurposeSignals?.length).length,
+    programsWithArchiveTextAuthors: records.filter((item) => item.archiveTextAuthor).length,
+    programsWithAuthorConflicts: records.filter((item) => item.authorConflict).length,
+    programsWithArchivePurposeSignals: records.filter((item) => item.archivePurposeSignals.length).length,
+    programsWithArchiveAolVersionMentions: records.filter((item) => item.archiveAolVersions.length).length,
     programsWithInferredAolVersions: records.filter((item) => item.inferredAolVersion).length,
     programsWithWebMentions: records.filter((item) => item.webMentions.length).length,
     programsWithWebDownloadLinks: records.filter((item) => item.webDownloadLinks.length).length,

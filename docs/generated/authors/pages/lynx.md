@@ -1,7 +1,7 @@
-# Author: lynx
+# Author: Lynx
 
 **Catalog entries:** 1
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1675 | [seen in darkness](../../applications/pages/S/1675-seen-in-darkness.md) | seen in darkness | Unknown / needs review | uncategorized | AOL 4.0 | lynx | unknown | remote-only | 0 |
+| 1685 | [AOMess 4](../../applications/pages/S/1685-aomess-4.md) | Sheep | Unknown / needs review | uncategorized | AOL 2.5 | Lynx; catalog listed RiDDLeR | unknown | remote-only | 0 |

@@ -16,7 +16,7 @@
 | 1264 | [Millennium Falcon Massmail Yr 01](../applications/pages/M/1264-millennium-falcon-massmail-yr-01.md) | millennium falcon massmail | Mass mailer / server | mass mailer | AOL 4.0; inferred: AOL 5 | s: platinum 'n Hustla | 2.8 MB | [local](../../../files/aol/aol-4-0/1264-millennium-falcon-massmail.zip) | 0 |
 | 1280 | [Upsmm](../applications/pages/M/1280-upsmm.md) | mmer | Mass mailer / server | mass mailer | AOL 4.0 | EvicTioN | 124 KB | [local](../../../files/aol/aol-4-0/1280-mmer.zip) | 0 |
 | 1279 | [Cruel Intentions](../applications/pages/M/1279-cruel-intentions.md) | MMer | Mass mailer / server | mass mailer | AOL 2.5 | unknown | 22 B | [local](../../../files/aol/aol-2-5/1279-mmer.zip) | 0 |
-| 1319 | [NBK - Spammer](../applications/pages/N/1319-nbk-spammer.md) | NBK - Spammer | Mass mailer / server | mass mailer | AOL 4.0 | Wolve | 1.8 MB | [local](../../../files/aol/aol-4-0/1319-nbk-spammer.zip) | 0 |
+| 1319 | [NBK - Spammer](../applications/pages/N/1319-nbk-spammer.md) | NBK - Spammer | Mass mailer / server | mass mailer | AOL 4.0; archive text: AOL 4 | Wolve | 1.8 MB | [local](../../../files/aol/aol-4-0/1319-nbk-spammer.zip) | 0 |
 | 1329 | [Net-Spam](../applications/pages/N/1329-net-spam.md) | Net-Spam | Mass mailer / server | mass mailer | Mixed/unknown | unknown | 1.5 MB | [local](../../../files/aol/mixed/1329-net-spam.zip) | 0 |
 | 1766 | [Aerospam](../applications/pages/S/1766-aerospam.md) | spam | Mass mailer / server | mass mailer | AOL 4.0 | pain aerosoft softwares | unknown | remote-only | 0 |
 | 1767 | [Gespam](../applications/pages/S/1767-gespam.md) | spam | Mass mailer / server | mass mailer | AOL 4.0 | snort | unknown | remote-only | 0 |

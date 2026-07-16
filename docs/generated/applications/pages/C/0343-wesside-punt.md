@@ -17,15 +17,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | CaLiPunt |
 | Archive filename | wesside_punt_by_cali.zip |
 | File size | 844 KB |
-| Author | GenOziDe; inferred: Cali |
+| Author | Cali; catalog listed GenOziDe |
 | Catalog author | GenOziDe |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | Cali |
+| Author conflict note | Catalog listed GenOziDe; evidence prefers Cali. |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -44,13 +51,15 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0343-calipunt.zip](../../../../../files/aol/mixed/0343-calipunt.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/wesside_punt_by_cali.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Mixed/unknown** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

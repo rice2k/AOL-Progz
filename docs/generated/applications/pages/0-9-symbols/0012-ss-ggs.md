@@ -2,7 +2,7 @@
 
 
 
-Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary.
+Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary. Readable archive text also suggests: C-Com / command list.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
 
@@ -19,13 +19,20 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | File size | 4.2 MB |
 | Author | Tate |
 | Catalog author | Tate |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | C-Com / command list |
+| Archive text files reviewed | read me.txt |
 | Visual Basic | VB5 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -39,19 +46,20 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#password-metadata](../../../tags/password-metadata.md) [#vb5](../../../tags/vb5.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#password-metadata](../../../tags/password-metadata.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0012-ss-ggs.zip](../../../../../files/aol/aol-4-0/0012-ss-ggs.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass gas (password=own).zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip)
-- Matched web download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass gas (password=own).zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ass%20gas%20(password%3Down).zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -64,6 +72,14 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| read me.txt | none | C-Com / command list | none | read me.txt has vocabulary for C-Com / command list. |
 
 ### Source Mentions
 

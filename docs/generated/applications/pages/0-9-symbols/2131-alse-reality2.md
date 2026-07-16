@@ -19,13 +19,20 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | File size | unknown |
 | Author | unknown |
 | Catalog author | unknown |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0; inferred: AOL 4 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 3 |
@@ -44,13 +51,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false reality 2 (115 commands, idle bot, greeter, rbust, etc.) aol4.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false reality 2 (115 commands, idle bot, greeter, rbust, etc.) aol4.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/false%20reality%202%20(115%20commands%2C%20idle%20bot%2C%20greeter%2C%20rbust%2C%20etc.)%20aol4.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

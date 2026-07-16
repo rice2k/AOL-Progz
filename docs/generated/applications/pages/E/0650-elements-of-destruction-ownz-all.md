@@ -2,7 +2,7 @@
 
 Catalog label: **elements of destruction**.
 
-Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary.
+Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary. Readable archive text also suggests: All-in-one prog suite, Scroller / macro, Media / file utility, Account / TOS utility.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
 
@@ -19,13 +19,20 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | File size | 52 MB |
 | Author | USING |
 | Catalog author | USING |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4-5 |
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 4-5 |
+| Archive-text AOL/version mentions | AOL 5.0, AOL 6.0, AOL 4, AOL 5 |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | All-in-one prog suite, Scroller / macro, Media / file utility, Account / TOS utility |
+| Archive text files reviewed | Read me.txt<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 34 |
@@ -39,19 +46,20 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#mixedunknown](../../../tags/mixedunknown.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0650-elements-of-destruction.zip](../../../../../files/aol/mixed/0650-elements-of-destruction.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements of destruction aol4-5 password=click ownz all.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip)
-- Matched web download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements of destruction aol4-5 password=click ownz all.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Mixed/unknown** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+Readable archive text also mentions: **AOL 5.0, AOL 6.0, AOL 4, AOL 5**.
 
 ## Screenshots
 
@@ -64,6 +72,14 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| Read me.txt<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt | none | All-in-one prog suite<br>Scroller / macro<br>Media / file utility<br>Account / TOS utility | AOL 5.0<br>AOL 6.0<br>AOL 4<br>AOL 5 | Read me.txt mentions AOL 5.0, AOL 6.0.<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.<br>_conflicts/conflict.txt mentions AOL 4, AOL 5.<br>_conflicts/conflict.txt has vocabulary for Account / TOS utility. |
 
 ### Source Mentions
 

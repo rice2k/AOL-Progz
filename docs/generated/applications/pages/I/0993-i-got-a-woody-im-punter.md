@@ -19,13 +19,20 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | File size | 22 B |
 | Author | unknown |
 | Catalog author | unknown |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4.0 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Punter / booter |
 | Category | punter |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -39,19 +46,20 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#punter](../../../tags/punter.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0993-igotawoody.zip](../../../../../files/aol/aol-4-0/0993-igotawoody.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i got a woody im punter for aol 4.0.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip)
-- Matched web download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i got a woody im punter for aol 4.0.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/i%20got%20a%20woody%20im%20punter%20for%20aol%204.0.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -64,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

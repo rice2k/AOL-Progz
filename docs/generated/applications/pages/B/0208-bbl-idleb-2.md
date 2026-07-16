@@ -19,13 +19,20 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | File size | 22 B |
 | Author | unknown |
 | Catalog author | unknown |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 5.0 |
 | Catalog AOL/version bucket | AOL 5.0 |
 | Inferred AOL version | AOL 5.0 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -44,13 +51,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-5-0/0208-bbl2.zip](../../../../../files/aol/aol-5-0/0208-bbl2.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl idle%b2 for aol 5.0.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl idle%b2 for aol 5.0.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/bbl%20idle%25b2%20for%20aol%205.0.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 5.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

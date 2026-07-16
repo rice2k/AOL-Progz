@@ -5,7 +5,7 @@
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1158 | [List Assist](../../applications/pages/L/1158-list-assist.md) | List Assist | Unknown / needs review | uncategorized | AOL 4.0 | JDE | 1.6 MB | [local](../../../../files/aol/aol-4-0/1158-list-assist.zip) | 0 |
-| 1159 | [List Assist v3](../../applications/pages/L/1159-list-assist-v3.md) | List Assist v3 | Unknown / needs review | uncategorized | AOL 4.0 | JDE | 1.7 MB | [local](../../../../files/aol/aol-4-0/1159-list-assist-v3.zip) | 0 |
+| 1159 | [List Assist v3](../../applications/pages/L/1159-list-assist-v3.md) | List Assist v3 | Punter / booter | uncategorized | AOL 4.0 | JDE | 1.7 MB | [local](../../../../files/aol/aol-4-0/1159-list-assist-v3.zip) | 0 |
 | 1191 | [Macro Madness Final](../../applications/pages/M/1191-macro-madness-final.md) | Macro Madness Final | Scroller / macro | scroller or macro | AOL 4.0 | JDE | 2.7 MB | [local](../../../../files/aol/aol-4-0/1191-macro-madness-final.zip) | 0 |
 | 1192 | [macro madness xp](../../applications/pages/M/1192-macro-madness-xp.md) | macro madness xp | Scroller / macro | scroller or macro | AOL 4.0 | JDE | 1.4 MB | [local](../../../../files/aol/aol-4-0/1192-macro-madness-xp.zip) | 0 |
 | 1193 | [macro madness xp](../../applications/pages/M/1193-macro-madness-xp.md) | macro madness xp | Scroller / macro | scroller or macro | AOL 4.0 | JDE | 1.5 MB | [local](../../../../files/aol/aol-4-0/1193-macro-madness-xp.zip) | 0 |

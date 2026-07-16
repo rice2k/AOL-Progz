@@ -19,13 +19,20 @@ The catalog metadata and filename do not identify a confident single function ye
 | File size | 1.4 MB |
 | Author | Kid -9 WinXP Yr06 |
 | Catalog author | unknown |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | Kid -9 WinXP Yr06 |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0; inferred: AOL 7-9 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 7-9 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -44,13 +51,15 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0191-anti-lag-by-kid.zip](../../../../../files/aol/aol-4-0/0191-anti-lag-by-kid.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag by kid aol7-9 winXP yr06.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag by kid aol7-9 winXP yr06.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti-lag%20by%20kid%20%20aol7-9%20winXP%20yr06.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

@@ -98,4 +98,4 @@
 | 1954 | [Twizted Illusions2.0](pages/T/1954-twizted-illusions2-0.md) | Twizted Illusions2.0 | Unknown / needs review | uncategorized | AOL 4.0 | POBOY | unknown | remote-only | 0 |
 | 1955 | [type zero](pages/T/1955-type-zero.md) | type zero | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1956 | [Typo](pages/T/1956-typo.md) | Typo | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
-| 1957 | [Typo](pages/T/1957-typo.md) | TyPo | Unknown / needs review | uncategorized | AOL 4.0 | Rar | 22 B | [local](../../../files/aol/aol-4-0/1957-typo.zip) | 0 |
+| 1957 | [Typo](pages/T/1957-typo.md) | TyPo | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1957-typo.zip) | 0 |

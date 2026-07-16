@@ -2,12 +2,12 @@
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4 | [- -New Breed- -](pages/0-9-symbols/0004-new-breed.md) | - -New Breed- - | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 3.9 MB | [local](../../../files/aol/aol-4-0/0004-new-breed.zip) | 0 |
+| 4 | [- -New Breed- -](pages/0-9-symbols/0004-new-breed.md) | - -New Breed- - | Account / TOS utility | uncategorized | AOL 4.0 | unknown | 3.9 MB | [local](../../../files/aol/aol-4-0/0004-new-breed.zip) | 0 |
 | 5 | [- [ In Flames ] -](pages/0-9-symbols/0005-in-flames.md) | - [ In Flames ] - | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 2.0 MB | [local](../../../files/aol/aol-4-0/0005-in-flames.zip) | 0 |
 | 6 | [-[Mxer Xer]-](pages/0-9-symbols/0006-mxer-xer.md) | -[Mxer Xer]- | Fader / text styler | fader or text tool | AOL 4.0 | unknown | 1.6 MB | [local](../../../files/aol/aol-4-0/0006-mxer-xer.zip) | 0 |
 | 7 | [Deep Obsess 2.0](pages/0-9-symbols/0007-deep-obsess-2-0.md) | -eep -bsess 2.0 | Unknown / needs review | uncategorized | AOL 5.0 | unknown | 979 KB | [local](../../../files/aol/aol-5-0/0007-eep-bsess-2-0.zip) | 0 |
-| 8 | [-Le- anti](pages/0-9-symbols/0008-le-anti.md) | -Le- anti | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 9-9.1 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0008-le-anti.zip) | 0 |
-| 9 | [-Le- idler](pages/0-9-symbols/0009-le-idler.md) | -Le- idler | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0009-le-idler.zip) | 0 |
+| 8 | [-Le- anti](pages/0-9-symbols/0008-le-anti.md) | -Le- anti | AOL/AIM chat utility | uncategorized | AOL 4.0; inferred: AOL 9-9.1; archive text: AOL 7.0, AOL 9.1 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0008-le-anti.zip) | 0 |
+| 9 | [-Le- idler](pages/0-9-symbols/0009-le-idler.md) | -Le- idler | Idler / AFK bot | idler or bot | AOL 4.0; archive text: AOL 7.0, AOL 9.1 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0009-le-idler.zip) | 0 |
 | 10 | [-spitfire- idle 1.2 beta](pages/0-9-symbols/0010-spitfire-idle-1-2-beta.md) | -spitfire- idle 1.2 beta | Idler / AFK bot | idler or bot | AOL 4.0 | Spitfire | 1.6 MB | [local](../../../files/aol/aol-4-0/0010-spitfire-idle-1-2-beta.zip) | 0 |
 | 11 | [-spitfire- idle v2.0 beta](pages/0-9-symbols/0011-spitfire-idle-v2-0-beta.md) | -spitfire- idle v2.0 beta | Idler / AFK bot | idler or bot | AOL 4.0 | Spitfire | 1.8 MB | [local](../../../files/aol/aol-4-0/0011-spitfire-idle-v2-0-beta.zip) | 0 |
 | 12 | [-ss GGs](pages/0-9-symbols/0012-ss-ggs.md) | -ss GGs | Account / TOS utility | account or TOS tool | AOL 4.0 | Tate | 4.2 MB | [local](../../../files/aol/aol-4-0/0012-ss-ggs.zip) | 0 |
@@ -27,9 +27,9 @@
 | 2137 | [╨Φm°nφc C-Chßt ╣](pages/0-9-symbols/2137-mnc-c-cht.md) | ╨Φm°nφc C-Chßt ╣ | Unknown / needs review | uncategorized | AOL 4.0 | Anthrax | unknown | remote-only | 0 |
 | 2138 | [╨ΦΦ▐ ╥bsΦss By Trebor](pages/0-9-symbols/2138-bsss-by-trebor.md) | ╨ΦΦ▐ ╥bsΦss By Trebor | Unknown / needs review | uncategorized | AOL 4.0 | Trebor | unknown | remote-only | 0 |
 | 2119 | [¢öLLê¢tïöñ ågêñ¢y 5.1.0](pages/0-9-symbols/2119-olletion-ageny-5-1-0.md) | ¢öLLê¢tïöñ ågêñ¢y 5.1.0 | Unknown / needs review | uncategorized | AOL 4.0 | sik ) ( Loaded by | unknown | remote-only | 0 |
-| 13 | [Idled](pages/0-9-symbols/0013-idled.md) | 01 | Unknown / needs review | uncategorized | AOL 4.0 | vsx | 1.4 MB | [local](../../../files/aol/aol-4-0/0013-01.zip) | 0 |
+| 13 | [Idled](pages/0-9-symbols/0013-idled.md) | 01 | Idler / AFK bot | uncategorized | AOL 4.0; archive text: AOL 5, AOL 6, AOL 4 | vsx | 1.4 MB | [local](../../../files/aol/aol-4-0/0013-01.zip) | 0 |
 | 14 | [Old School Wreshet In 2000](pages/0-9-symbols/0014-old-school-wreshet-in-2000.md) | 0sw | Account / TOS utility | account or TOS tool | AOL 4.0 | fifa | 1.1 MB | [local](../../../files/aol/aol-4-0/0014-0sw.zip) | 0 |
-| 15 | [1337crack2](pages/0-9-symbols/0015-1337crack2.md) | 1337crack2 | Account / TOS utility | uncategorized | Mixed/unknown | unknown | 2.7 MB | [local](../../../files/aol/mixed/0015-1337crack2.zip) | 0 |
+| 15 | [1337crack2](pages/0-9-symbols/0015-1337crack2.md) | 1337crack2 | Account / TOS utility | uncategorized | Mixed/unknown; archive text: AOL 000, AOL 0000, AOL 0003, AOL 0005, AOL 0006, AOL 0007, AOL 0008, AOL 0009, AOL 001, AOL 0016 | unknown | 2.7 MB | [local](../../../files/aol/mixed/0015-1337crack2.zip) | 0 |
 | 16 | [139](pages/0-9-symbols/0016-139.md) | 139 | Unknown / needs review | uncategorized | AOL 4.0 | Impulse | 978 KB | [local](../../../files/aol/aol-4-0/0016-139.zip) | 0 |
 | 17 | [1800collect](pages/0-9-symbols/0017-1800collect.md) | 1800collect | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 1.7 MB | [local](../../../files/aol/aol-4-0/0017-1800collect.zip) | 0 |
 | 18 | [187 Reset](pages/0-9-symbols/0018-187-reset.md) | 187 Reset | Unknown / needs review | uncategorized | AOL 4.0 | Syke in VB6 | 2.7 MB | [local](../../../files/aol/aol-4-0/0018-187-reset.zip) | 0 |
@@ -40,12 +40,12 @@
 | 23 | [Two Dope Toser 1.2](pages/0-9-symbols/0023-two-dope-toser-1-2.md) | 2dope | Unknown / needs review | uncategorized | AOL 2.5 | unknown | 22 B | [local](../../../files/aol/aol-2-5/0023-2dope.zip) | 0 |
 | 24 | [2pacmmer](pages/0-9-symbols/0024-2pacmmer.md) | 2pacmmer | Unknown / needs review | uncategorized | AOL 4.0 | ProGGer | 50 KB | [local](../../../files/aol/aol-4-0/0024-2pacmmer.zip) | 0 |
 | 25 | [3-6 Idle](pages/0-9-symbols/0025-3-6-idle.md) | 3-6 Idle | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0025-3-6-idle.zip) | 0 |
-| 26 | [3.0 AntiCrack By ßãñdö Install](pages/0-9-symbols/0026-3-0-anticrack-by-ando-install.md) | 3.0 AntiCrack By ßãñdö Install | Unknown / needs review | uncategorized | AOL 5 | Init failed (%d | 1018 KB | [local](../../../files/aol/mixed/0026-3-0-anticrack-by-ando-install.zip) | 0 |
+| 26 | [3.0 AntiCrack By ßãñdö Install](pages/0-9-symbols/0026-3-0-anticrack-by-ando-install.md) | 3.0 AntiCrack By ßãñdö Install | Account / TOS utility | uncategorized | AOL 5 | Init failed (%d | 1018 KB | [local](../../../files/aol/mixed/0026-3-0-anticrack-by-ando-install.zip) | 0 |
 | 27 | [3DMaze](pages/0-9-symbols/0027-3dmaze.md) | 3DMaze | Unknown / needs review | uncategorized | AOL 4.0 | Maze | 2.4 MB | [local](../../../files/aol/aol-4-0/0027-3dmaze.zip) | 0 |
 | 28 | [Bauhaus 3k](pages/0-9-symbols/0028-bauhaus-3k.md) | 3k | Unknown / needs review | uncategorized | AOL 4.0 | JeQ | 2.9 MB | [local](../../../files/aol/aol-4-0/0028-3k.zip) | 0 |
 | 29 | [420pwc](pages/0-9-symbols/0029-420pwc.md) | 420pwc | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 1005 KB | [local](../../../files/aol/mixed/0029-420pwc.zip) | 0 |
-| 30 | [420SUPS](pages/0-9-symbols/0030-420sups.md) | 420SUPS | Unknown / needs review | uncategorized | AOL 3.0 | Dratek | 565 KB | [local](../../../files/aol/aol-3-0/0030-420sups.zip) | 0 |
-| 31 | [4imxpver](pages/0-9-symbols/0031-4imxpver.md) | 4im | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 836 KB | [local](../../../files/aol/aol-4-0/0031-4im.zip) | 0 |
+| 30 | [420SUPS](pages/0-9-symbols/0030-420sups.md) | 420SUPS | Media / file utility | uncategorized | AOL 3.0; archive text: AOL 30 | Dratek | 565 KB | [local](../../../files/aol/aol-3-0/0030-420sups.zip) | 0 |
+| 31 | [4imxpver](pages/0-9-symbols/0031-4imxpver.md) | 4im | Fader / text styler | uncategorized | AOL 4.0 | unknown | 836 KB | [local](../../../files/aol/aol-4-0/0031-4im.zip) | 0 |
 | 32 | [4Sho Player ²](pages/0-9-symbols/0032-4sho-player-2.md) | 4Sho Player ² | Media / file utility | uncategorized | AOL 4.0 | FONT COLOR=#000098 | 2.3 MB | [local](../../../files/aol/aol-4-0/0032-4sho-player-2.zip) | 0 |
 | 33 | [4sho Player3](pages/0-9-symbols/0033-4sho-player3.md) | 4sho Player3 | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 7-8 | Silk | 1.8 MB | [local](../../../files/aol/aol-4-0/0033-4sho-player3.zip) | 0 |
 | 34 | [533idle v3.1](pages/0-9-symbols/0034-533idle-v3-1.md) | 533idle v3.1 | Unknown / needs review | uncategorized | AOL 4.0 | emailing | 45 KB | [local](../../../files/aol/aol-4-0/0034-533idle-v3-1.zip) | 0 |

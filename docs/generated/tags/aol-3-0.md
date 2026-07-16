@@ -4,7 +4,7 @@
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 30 | [420SUPS](../applications/pages/0-9-symbols/0030-420sups.md) | 420SUPS | Unknown / needs review | uncategorized | AOL 3.0 | Dratek | 565 KB | [local](../../../files/aol/aol-3-0/0030-420sups.zip) | 0 |
+| 30 | [420SUPS](../applications/pages/0-9-symbols/0030-420sups.md) | 420SUPS | Media / file utility | uncategorized | AOL 3.0; archive text: AOL 30 | Dratek | 565 KB | [local](../../../files/aol/aol-3-0/0030-420sups.zip) | 0 |
 | 100 | [Antierror](../applications/pages/A/0100-antierror.md) | ANTI | Unknown / needs review | uncategorized | AOL 3.0 | ZiG & MaN | 81 KB | [local](../../../files/aol/aol-3-0/0100-anti.zip) | 0 |
 | 147 | [APESH25](../applications/pages/A/0147-apesh25.md) | APESH25 | Unknown / needs review | uncategorized | AOL 3.0 | ization | 1.7 MB | [local](../../../files/aol/aol-3-0/0147-apesh25.zip) | 0 |
 | 173 | [atoyz10](../applications/pages/A/0173-atoyz10.md) | atoyz10 | Unknown / needs review | uncategorized | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/0173-atoyz10.zip) | 0 |
@@ -14,16 +14,16 @@
 | 371 | [Chamber Bombz 4.0](../applications/pages/C/0371-chamber-bombz-4-0.md) | chamberbombz4 | Unknown / needs review | uncategorized | AOL 3.0; inferred: AOL 3.0-7.0 | unknown | 9.9 KB | [local](../../../files/aol/aol-3-0/0371-chamberbombz4.zip) | 0 |
 | 416 | [CITADEL](../applications/pages/C/0416-citadel.md) | CITADEL | Unknown / needs review | uncategorized | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/0416-citadel.zip) | 0 |
 | 434 | [Coldreboot](../applications/pages/C/0434-coldreboot.md) | COLD | Unknown / needs review | uncategorized | AOL 3.0 | tasz | 443 KB | [local](../../../files/aol/aol-3-0/0434-cold.zip) | 0 |
-| 485 | [CRUSADE](../applications/pages/C/0485-crusade.md) | CRUSADE | Unknown / needs review | uncategorized | AOL 3.0 | StormKa0s | 377 KB | [local](../../../files/aol/aol-3-0/0485-crusade.zip) | 0 |
+| 485 | [CRUSADE](../applications/pages/C/0485-crusade.md) | CRUSADE | Punter / booter | uncategorized | AOL 3.0 | StormKa0s | 377 KB | [local](../../../files/aol/aol-3-0/0485-crusade.zip) | 0 |
 | 531 | [Black Death Ultra 2](../applications/pages/D/0531-black-death-ultra-2.md) | death | Unknown / needs review | uncategorized | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/0531-death.zip) | 0 |
-| 542 | [DEFCON2](../applications/pages/D/0542-defcon2.md) | DEFCON2 | Unknown / needs review | uncategorized | AOL 3.0 | view | 510 KB | [local](../../../files/aol/aol-3-0/0542-defcon2.zip) | 0 |
+| 542 | [DEFCON2](../applications/pages/D/0542-defcon2.md) | DEFCON2 | Account / TOS utility | uncategorized | AOL 3.0 | view | 510 KB | [local](../../../files/aol/aol-3-0/0542-defcon2.zip) | 0 |
 | 564 | [Devistation Online](../applications/pages/D/0564-devistation-online.md) | DEVIS~73 | Unknown / needs review | uncategorized | AOL 3.0 | Eraser | 1.0 MB | [local](../../../files/aol/aol-3-0/0564-devis73.zip) | 0 |
 | 699 | [Eternity Idle 3 , 4.0 And 5.0](../applications/pages/E/0699-eternity-idle-3-4-0-and-5-0.md) | eternity by cobra | Idler / AFK bot | idler or bot | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/0699-eternity-by-cobra.zip) | 0 |
 | 702 | [Epic Tiny Tools](../applications/pages/E/0702-epic-tiny-tools.md) | ett | All-in-one prog suite | all-in-one prog | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/0702-ett.zip) | 0 |
-| 717 | [EX_DIAL](../applications/pages/E/0717-ex-dial.md) | EX_DIAL | Unknown / needs review | uncategorized | AOL 3.0 | HoSS & LiTH | 3.0 MB | [local](../../../files/aol/aol-3-0/0717-ex-dial.zip) | 0 |
+| 717 | [EX_DIAL](../applications/pages/E/0717-ex-dial.md) | EX_DIAL | Account / TOS utility | uncategorized | AOL 3.0 | HoSS & LiTH | 3.0 MB | [local](../../../files/aol/aol-3-0/0717-ex-dial.zip) | 0 |
 | 768 | [filesafe](../applications/pages/F/0768-filesafe.md) | filesafe | Unknown / needs review | uncategorized | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/0768-filesafe.zip) | 0 |
 | 795 | [Frost Toolz 2](../applications/pages/F/0795-frost-toolz-2.md) | ft2 | All-in-one prog suite | all-in-one prog | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/0795-ft2.zip) | 0 |
-| 900 | [Hellr 30](../applications/pages/H/0900-hellr-30.md) | HELLX | Unknown / needs review | uncategorized | AOL 3.0 | ChRoNoS | 1.2 MB | [local](../../../files/aol/aol-3-0/0900-hellx.zip) | 0 |
+| 900 | [Hellr 30](../applications/pages/H/0900-hellr-30.md) | HELLX | Account / TOS utility | uncategorized | AOL 3.0; archive text: AOL 30 | ChRoNoS | 1.2 MB | [local](../../../files/aol/aol-3-0/0900-hellx.zip) | 0 |
 | 950 | [Ice Drop MM](../applications/pages/I/0950-ice-drop-mm.md) | ICEDROP | Unknown / needs review | uncategorized | AOL 3.0; inferred: AOL 30 | CooLzie | 472 KB | [local](../../../files/aol/aol-3-0/0950-icedrop.zip) | 0 |
 | 1002 | [IMP2000](../applications/pages/I/1002-imp2000.md) | IMP2000 | Unknown / needs review | uncategorized | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/1002-imp2000.zip) | 0 |
 | 1338 | [ngpunter](../applications/pages/N/1338-ngpunter.md) | ngpunter | Punter / booter | punter | AOL 3.0 | unknown | 22 B | [local](../../../files/aol/aol-3-0/1338-ngpunter.zip) | 0 |

@@ -1,4 +1,4 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 
 const rootDir = path.resolve(import.meta.dirname, "..");
@@ -107,10 +107,24 @@ const pages = [
     notes: "Geocities LolToolz progs page.",
   },
   {
+    name: "LoLToolz AIM progs",
+    url: "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+    localPath: "docs/source-html/loltoolz-aim-progs.html",
+    kind: "AIM progs local source snapshot",
+    notes:
+      "User-supplied LoLToolz AIM Progs HTML snapshot. Preserved locally so its AIM program rows and download filenames remain part of the GitHub archive.",
+  },
+  {
     name: "RiceJerry links",
     url: "https://web.archive.org/web/20010223212351/http://www.8op.com:80/ricejerry/links.html",
     kind: "link directory",
     notes: "RiceJerry links page with many old prog-site outbound links.",
+  },
+  {
+    name: "ProgzRescue project",
+    url: "https://github.com/raysuelzer/ProgzRescue",
+    kind: "Wayback recovery project",
+    notes: "Root ProgzRescue repository, retained as a reference for archived URL recovery lists.",
   },
   {
     name: "ProgzRescue archived URLs",
@@ -120,10 +134,28 @@ const pages = [
       "ProgzRescue archived-urls folder includes Angelfire, FortuneCity, and Geocities URL lists extracted from Wayback metadata.",
   },
   {
+    name: "ProgzRescue README",
+    url: "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/README.md",
+    kind: "raw project notes",
+    notes: "Raw README for ProgzRescue.",
+  },
+  {
     name: "ProgzRescue Angelfire files",
     url: "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-angelfire-files.txt",
     kind: "raw URL list",
     notes: "Large raw list of Angelfire ZIP/file URLs from ProgzRescue.",
+  },
+  {
+    name: "ProgzRescue Geocities SiliconValley files",
+    url: "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-geocities-silicon-valley-files.txt",
+    kind: "raw URL list",
+    notes: "Large raw list of Geocities SiliconValley ZIP/file URLs from ProgzRescue.",
+  },
+  {
+    name: "ProgzRescue FortuneCity Skyscraper files",
+    url: "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+    kind: "raw URL list",
+    notes: "Large raw list of FortuneCity Skyscraper ZIP/file URLs from ProgzRescue.",
   },
   {
     name: "FreeProgz capture index",
@@ -289,7 +321,13 @@ function isRelatedPage(link, seedHosts) {
   );
 }
 
-async function fetchText(url) {
+async function fetchText(page) {
+  if (typeof page === "object" && page.localPath) {
+    const local = path.join(rootDir, page.localPath);
+    if (!existsSync(local)) return { ok: false, status: 0, text: "", error: "local-file-missing" };
+    return { ok: true, status: 200, text: readFileSync(local, "utf8"), localPath: page.localPath };
+  }
+  const url = typeof page === "object" ? page.url : page;
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 35000);
   try {
@@ -305,6 +343,24 @@ async function fetchText(url) {
   }
 }
 
+function tableRowContext(html, matchIndex) {
+  const before = html.lastIndexOf("<tr", matchIndex);
+  const after = html.indexOf("</tr>", matchIndex);
+  if (before < 0 || after < 0 || after - before > 6000) return null;
+  const rowHtml = html.slice(before, after + 5);
+  const cells = [...rowHtml.matchAll(/<td\b[^>]*>([\s\S]*?)<\/td>/gi)]
+    .map((match) => decodeEntities(match[1]))
+    .filter(Boolean);
+  if (cells.length < 2) return null;
+  return {
+    cells,
+    name: cells[0] || "",
+    version: cells[1] || "",
+    description: cells[2] || "",
+    size: cells[3] || "",
+  };
+}
+
 function extractLinks(html, pageUrl) {
   const seen = new Set();
   const links = [];
@@ -315,12 +371,16 @@ function extractLinks(html, pageUrl) {
     const key = linkKey(url);
     if (seen.has(key)) continue;
     seen.add(key);
-    const text = decodeEntities(match[2]) || originalUrl(url);
+    const row = tableRowContext(html, match.index || 0);
+    const rawText = decodeEntities(match[2]) || originalUrl(url);
+    const text = /^download$/i.test(rawText) && row?.name ? `${row.name}${row.version ? ` ${row.version}` : ""}` : rawText;
     links.push({
       text,
       url,
       originalUrl: originalUrl(url),
       type: classify(url, text),
+      description: row?.description || "",
+      listedSize: row?.size || "",
     });
   }
   const imageRegex = /<img\b[^>]*(?:src|data-src)\s*=\s*["']?([^"'\s>]+)[^>]*>/gi;
@@ -365,11 +425,13 @@ async function main() {
       downloadCount: 0,
       links: [],
       error: "",
+      localPath: page.localPath || "",
     };
     try {
-      const fetched = await fetchText(page.url);
+      const fetched = await fetchText(page);
       result.ok = fetched.ok;
       result.status = fetched.status;
+      result.localPath = fetched.localPath || page.localPath || "";
       result.title = extractTitle(fetched.text) || page.name;
       result.links = extractLinks(fetched.text, page.url);
       result.linkCount = result.links.length;

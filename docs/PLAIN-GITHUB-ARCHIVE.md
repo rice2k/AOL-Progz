@@ -5,8 +5,8 @@ even when the website view is too large for normal GitHub Pages hosting.
 
 ## Main folders
 
-- `files/aol/` and `files/aim/`: mirrored files from the main AOL Underground
-  catalog.
+- `files/aol/` and `files/aim/`: local mirrored archive files from the main
+  catalog/reference mirror.
 - `files/external/`: additional recovered files from Wayback, ProgzRescue URL
   lists, and old link/download pages.
 - `assets/screenshots/`: screenshots mirrored from the main catalog source.
@@ -16,6 +16,8 @@ even when the website view is too large for normal GitHub Pages hosting.
 - `data/catalog-summary.json`: top-level counts.
 - `data/url-index.json`: original URLs found inside safely readable archive
   text files.
+- `data/archive-text-metadata.json`: ReadMe/NFO/source-text author clues,
+  purpose clues, AOL-version mentions, and scan notes.
 - `data/web-resources.json`: crawled old-page links, download links, images,
   and source-page metadata.
 - `data/external-downloads.json`: recovered external download attempts, ready
@@ -33,8 +35,9 @@ even when the website view is too large for normal GitHub Pages hosting.
 - `docs/generated/applications/all-applications.md`: complete application list.
 - `docs/generated/applications/all-programs-detailed.md`: complete detailed
   all-progs inventory with actual catalog name, archive filename, inferred prog
-  type, category, AOL/version bucket, author, local file, source URL, embedded
-  URLs, and screenshot count.
+  type, category, AOL/version clues, evidence-first author, local file,
+  old-web lead counts, reference mirror links, embedded URLs, and screenshot
+  count.
 - `docs/generated/applications/pages/`: detailed page for each cataloged prog or
   app.
 - `docs/generated/categories/`: category pages for punters, room busters,

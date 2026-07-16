@@ -20,10 +20,10 @@ scene links.**
 
 <p align="center">
   <a href="docs/generated/sources/all-links.md">
-    <img alt="Master links: 14,870 URLs" src="https://img.shields.io/badge/master%20links-14%2C870%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
+    <img alt="Master links: 15,050 URLs" src="https://img.shields.io/badge/master%20links-15%2C050%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/sources/download-links.md">
-    <img alt="Crawled download links: 3,450" src="https://img.shields.io/badge/crawled%20downloads-3%2C450-FF5B8F?style=for-the-badge&labelColor=101820">
+    <img alt="Crawled download links: 3,460" src="https://img.shields.io/badge/crawled%20downloads-3%2C460-FF5B8F?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/applications/all-program-downloads.md">
     <img alt="Web download matches: 2,007" src="https://img.shields.io/badge/web%20matches-2%2C007-BB8CFF?style=for-the-badge&labelColor=101820">
@@ -45,9 +45,9 @@ scene links.**
 
 | Browse | What it shows |
 | --- | --- |
-| [Detailed all-progs inventory](docs/generated/applications/all-programs-detailed.md) | Every cataloged prog/app with best-known name, catalog label, archive filename, size, inferred prog type, category, AOL version, author, local file, raw download, source URL, web-download count, embedded URLs, and screenshot count. |
-| [All program download links](docs/generated/applications/all-program-downloads.md) | Every catalog entry with local file, raw source download, original source page, matched old-page download links, and mirror leads. |
-| [Program metadata enrichment report](docs/generated/applications/enrichment-report.md) | Best-name improvements, inferred authors/AOL versions, sizes, web download lead counts, source mentions, and mirror-lead counts. |
+| [Detailed all-progs inventory](docs/generated/applications/all-programs-detailed.md) | Every cataloged prog/app with best-known name, catalog label, archive filename, size, inferred prog type, category, AOL version clues, evidence-first author, local file, old-web lead count, reference mirror, embedded URLs, and screenshot count. |
+| [All program download links](docs/generated/applications/all-program-downloads.md) | Every catalog entry with local file, matched old-page download links, recovered mirror leads, and the reference repository mirror kept separate from original old-web sources. |
+| [Program metadata enrichment report](docs/generated/applications/enrichment-report.md) | Best-name improvements, manual corrections, readme/archive-text author clues, AOL-version clues, web download lead counts, source mentions, and mirror-lead counts. |
 | [Web research mentions](docs/generated/applications/web-research-mentions.md) | Strong program-level mentions extracted from source pages such as AOLUnderground.com. |
 | [Master all-links index](docs/generated/sources/all-links.md) | Deduped master list of user-supplied links, crawled links, download links, embedded archive URLs, mirrors, and source pages. |
 | [Links you supplied](docs/generated/sources/user-supplied-links.md) | The priority source links from the request, preserved as their own page. |
@@ -69,24 +69,30 @@ scene links.**
 | Inferred categories | 12 |
 | Programs with embedded URLs | 170 |
 | URLs found in readable archive text | 234 |
-| Programs with improved best-known names | 518 |
+| Programs with improved best-known names | 519 |
 | Programs with matched web download leads | 2,007 |
+| Archive-text author clues | 15 |
+| Archive-text purpose clues | 324 |
+| Archive-text AOL/version clues | 106 |
+| Author conflicts flagged | 12 |
 | Matched web download links | 2,575 |
 | Programs with mirror leads | 203 |
-| Strong source-page program mentions | 5 |
-| Crawled source pages | 156 |
-| Unique crawled links | 6,707 |
-| Crawled download links | 3,450 |
+| Strong source-page program mentions | 7 |
+| Crawled source pages | 198 |
+| Unique crawled links | 6,833 |
+| Crawled download links | 3,460 |
 | Recovered external files | 238 |
 | External mirror groups | 1,191 |
 | Recovered web images | 60 |
 
 The site includes:
 
-- A searchable catalog generated from `ssstonebraker/aolunderground-proggies`.
+- A searchable catalog assembled from the local mirrored archive, old-web
+  resource pages, Wayback captures, and reference mirror metadata.
 - GitHub-readable generated documentation with one detail page per main catalog
-  application, including size, raw download URL, original source URL, matched
-  web downloads, mirror leads, and source-page evidence when available.
+  application, including size, old-web and Wayback download leads, readme/text
+  evidence, mirror leads, reference mirror links, and source-page evidence when
+  available.
 - Local downloadable archive files under `files/` when the source blob can be
   mirrored within normal GitHub file-size limits.
 - Screenshot-aware program cards when source screenshots are available.
@@ -102,8 +108,8 @@ The site includes:
 - A separate enrichment index that improves weak catalog labels from archive
   filenames and old-page evidence while preserving the original catalog label.
 - Crawled old resource pages and link directories, including FreeProgz,
-  RiceJerry, LolToolz, LensHellArchive, Methodus2000, Oogle, ProgStation,
-  AimThings, CoolKid/Text2k, and related Wayback captures.
+  RiceJerry, LolToolz, LoLToolz AIM, LensHellArchive, Methodus2000, Oogle,
+  ProgStation, AimThings, CoolKid/Text2k, and related Wayback captures.
 - Missing-candidate reports comparing old download links against the main
   catalog, with mirror URLs and recovered local files where available.
 
@@ -141,6 +147,13 @@ node tools/scan-urls.mjs
 ```
 
 Run the URL scanner repeatedly to continue from the existing `data/url-index.json`.
+
+To scan mirrored ZIPs for ReadMe/NFO/source-text author, purpose, and AOL-version
+clues without executing anything:
+
+```powershell
+node tools/scan-archive-text-metadata.mjs
+```
 
 To crawl old resource/link pages:
 

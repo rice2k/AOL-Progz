@@ -5,18 +5,18 @@
 | 1571 | [r.i.p comz](pages/R/1571-r-i-p-comz.md) | r.i.p comz | C-Com / command list | uncategorized | AOL 4.0 | unknown | 2.9 MB | [local](../../../files/aol/aol-4-0/1571-r-i-p-comz.zip) | 0 |
 | 1572 | [radioactive](pages/R/1572-radioactive.md) | radioactive | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 22 B | [local](../../../files/aol/mixed/1572-radioactive.zip) | 0 |
 | 1644 | [ràgé²k](pages/R/1644-rage2k.md) | ràgé²k | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1644-rage2k.zip) | 0 |
-| 1573 | [Raid~1](pages/R/1573-raid1.md) | Raid~1 | Unknown / needs review | uncategorized | AOL 4.0 | Raider | 484 KB | [local](../../../files/aol/aol-4-0/1573-raid1.zip) | 0 |
-| 1574 | [Rampage Toolz](pages/R/1574-rampage-toolz.md) | Rampage Toolz | All-in-one prog suite | all-in-one prog | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1574-rampage-toolz.zip) | 0 |
-| 1575 | [rampage2](pages/R/1575-rampage2.md) | rampage2 | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 3.3 MB | [local](../../../files/aol/mixed/1575-rampage2.zip) | 0 |
+| 1573 | [Raid~1](pages/R/1573-raid1.md) | Raid~1 | Fader / text styler | uncategorized | AOL 4.0 | Raider | 484 KB | [local](../../../files/aol/aol-4-0/1573-raid1.zip) | 0 |
+| 1574 | [Rampage Toolz](pages/R/1574-rampage-toolz.md) | Rampage Toolz | All-in-one prog suite | all-in-one prog | AOL 4.0 | Oogle (Justin Tunney) | 22 B | [local](../../../files/aol/aol-4-0/1574-rampage-toolz.zip) | 0 |
+| 1575 | [Rampage Toolz 2.0](pages/R/1575-rampage-toolz-2-0.md) | rampage2 | All-in-one prog suite | uncategorized | Mixed/unknown | Oogle (Justin Tunney) | 3.3 MB | [local](../../../files/aol/mixed/1575-rampage2.zip) | 0 |
 | 1576 | [rancid idle²](pages/R/1576-rancid-idle2.md) | rancid idle² | Idler / AFK bot | idler or bot | AOL 4.0 | banyøn | 761 KB | [local](../../../files/aol/aol-4-0/1576-rancid-idle2.zip) | 0 |
-| 1577 | [rancid1](pages/R/1577-rancid1.md) | rancid1 | Unknown / needs review | uncategorized | AOL 4.0 | banyon | 761 KB | [local](../../../files/aol/aol-4-0/1577-rancid1.zip) | 0 |
-| 1578 | [rangerig](pages/R/1578-rangerig.md) | rangerig | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 1.3 MB | [local](../../../files/aol/aol-4-0/1578-rangerig.zip) | 0 |
-| 1579 | [Rapid](pages/R/1579-rapid.md) | Rapid | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 2.0 MB | [local](../../../files/aol/aol-4-0/1579-rapid.zip) | 0 |
+| 1577 | [rancid1](pages/R/1577-rancid1.md) | rancid1 | Idler / AFK bot | uncategorized | AOL 4.0 | banyon | 761 KB | [local](../../../files/aol/aol-4-0/1577-rancid1.zip) | 0 |
+| 1578 | [rangerig](pages/R/1578-rangerig.md) | rangerig | Fader / text styler | uncategorized | AOL 4.0 | unknown | 1.3 MB | [local](../../../files/aol/aol-4-0/1578-rangerig.zip) | 0 |
+| 1579 | [Rapid](pages/R/1579-rapid.md) | Rapid | Source / developer file | uncategorized | AOL 4.0 | unknown | 2.0 MB | [local](../../../files/aol/aol-4-0/1579-rapid.zip) | 0 |
 | 1580 | [RapidScroll](pages/R/1580-rapidscroll.md) | RapidScroll | Unknown / needs review | uncategorized | AOL 4.0 | Neoko | 1.8 MB | [local](../../../files/aol/aol-4-0/1580-rapidscroll.zip) | 0 |
 | 1581 | [Rapier Bronze](pages/R/1581-rapier-bronze.md) | Rapier Bronze | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 1.9 MB | [local](../../../files/aol/aol-4-0/1581-rapier-bronze.zip) | 0 |
 | 1582 | [Rarecoms](pages/R/1582-rarecoms.md) | Rarecoms | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1582-rarecoms.zip) | 0 |
 | 1583 | [Rarenet Toser](pages/R/1583-rarenet-toser.md) | rarenet | Unknown / needs review | uncategorized | AOL 4.0 | Napalm | 1.4 MB | [local](../../../files/aol/aol-4-0/1583-rarenet.zip) | 0 |
-| 1584 | [RatTrap](pages/R/1584-rattrap.md) | RatTrap | Unknown / needs review | uncategorized | AOL 4.0 | Rylan | 1.4 MB | [local](../../../files/aol/aol-4-0/1584-rattrap.zip) | 0 |
+| 1584 | [RatTrap](pages/R/1584-rattrap.md) | RatTrap | Media / file utility | uncategorized | AOL 4.0 | Rylan | 1.4 MB | [local](../../../files/aol/aol-4-0/1584-rattrap.zip) | 0 |
 | 1585 | [Ravyn's Linker](pages/R/1585-ravyns-linker.md) | Ravyn's Linker | Linker / chat linker | chat or IM tool | AOL 4.0 | Clear Water | 1.5 MB | [local](../../../files/aol/aol-4-0/1585-ravyns-linker.zip) | 0 |
 | 1586 | [Raw Fader](pages/R/1586-raw-fader.md) | Raw Fader | Fader / text styler | fader or text tool | AOL 4.0 | LoSt | 1.0 MB | [local](../../../files/aol/aol-4-0/1586-raw-fader.zip) | 0 |
 | 1587 | [Raw Phish Tank│╖▓](pages/R/1587-raw-phish-tank.md) | Raw Phish Tank│╖▓ | Account / TOS utility | account or TOS tool | AOL 4.0 | aNGUs | 772 KB | [local](../../../files/aol/aol-4-0/1587-raw-phish-tank.zip) | 0 |

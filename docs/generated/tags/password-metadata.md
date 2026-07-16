@@ -6,13 +6,13 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12 | [-ss GGs](../applications/pages/0-9-symbols/0012-ss-ggs.md) | -ss GGs | Account / TOS utility | account or TOS tool | AOL 4.0 | Tate | 4.2 MB | [local](../../../files/aol/aol-4-0/0012-ss-ggs.zip) | 0 |
 | 20 | [Vs. 2000](../applications/pages/0-9-symbols/0020-vs-2000.md) | 2000 | Account / TOS utility | account or TOS tool | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0020-2000.zip) | 0 |
-| 30 | [420SUPS](../applications/pages/0-9-symbols/0030-420sups.md) | 420SUPS | Unknown / needs review | uncategorized | AOL 3.0 | Dratek | 565 KB | [local](../../../files/aol/aol-3-0/0030-420sups.zip) | 0 |
+| 30 | [420SUPS](../applications/pages/0-9-symbols/0030-420sups.md) | 420SUPS | Media / file utility | uncategorized | AOL 3.0; archive text: AOL 30 | Dratek | 565 KB | [local](../../../files/aol/aol-3-0/0030-420sups.zip) | 0 |
 | 57 | [adidastoolz](../applications/pages/A/0057-adidastoolz.md) | adidastoolz | All-in-one prog suite | account or TOS tool | AOL 4.0; inferred: AOL 5 | unknown | 2.8 MB | [local](../../../files/aol/aol-4-0/0057-adidastoolz.zip) | 0 |
 | 148 | [Apocalypse](../applications/pages/A/0148-apocalypse.md) | apoc | Account / TOS utility | account or TOS tool | AOL 4.0 | apocalypse | 253 KB | [local](../../../files/aol/aol-4-0/0148-apoc.zip) | 0 |
 | 155 | [Argon Termer](../applications/pages/A/0155-argon-termer.md) | argon | Account / TOS utility | account or TOS tool | AOL 4.0 | haLe | 3.3 MB | [local](../../../files/aol/aol-4-0/0155-argon.zip) | 0 |
 | 176 | [audio x](../applications/pages/A/0176-audio-x.md) | audio x | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 923 KB | [local](../../../files/aol/aol-4-0/0176-audio-x.zip) | 0 |
 | 221 | [Beyond Destiny](../applications/pages/B/0221-beyond-destiny.md) | Beyond Destiny | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 2.0 MB | [local](../../../files/aol/aol-4-0/0221-beyond-destiny.zip) | 0 |
-| 330 | [ByrdToolz v4.5](../applications/pages/B/0330-byrdtoolz-v4-5.md) | ByrdToolz v4.5 | Unknown / needs review | uncategorized | AOL 4.0 | Sid | 1.8 MB | [local](../../../files/aol/aol-4-0/0330-byrdtoolz-v4-5.zip) | 0 |
+| 330 | [ByrdToolz v4.5](../applications/pages/B/0330-byrdtoolz-v4-5.md) | ByrdToolz v4.5 | Source / developer file | uncategorized | AOL 4.0 | Sid | 1.8 MB | [local](../../../files/aol/aol-4-0/0330-byrdtoolz-v4-5.zip) | 0 |
 | 436 | [CoLd CcOmS](../applications/pages/C/0436-cold-ccoms.md) | CoLd CcOmS | Unknown / needs review | uncategorized | AOL 4.0 | Cold | 1.6 MB | [local](../../../files/aol/aol-4-0/0436-cold-ccoms.zip) | 0 |
 | 506 | [Diablo Toolz%b 2%b 7%ba Rocks](../applications/pages/D/0506-diablo-toolzb-2b-7ba-rocks.md) | d8ßbl° t°°lz¦+¦ | All-in-one prog suite | account or TOS tool | AOL 4.0; inferred: AOL 4-5 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0506-d8bl-tlz.zip) | 0 |
 | 529 | [Deadlock](../applications/pages/D/0529-deadlock.md) | Deadlock | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 1.4 MB | [local](../../../files/aol/aol-4-0/0529-deadlock.zip) | 0 |
@@ -22,7 +22,7 @@
 | 606 | [Dreamcatcher Yr 2k DA MAN](../applications/pages/D/0606-dreamcatcher-yr-2k-da-man.md) | dreamcatcher | Account / TOS utility | account or TOS tool | AOL 5.0 | 6P_ | 3.9 MB | [local](../../../files/aol/mixed/0606-dreamcatcher.zip) | 0 |
 | 737 | [Elite %b 2%b 7%ba](../applications/pages/E/0737-elite-b-2b-7ba.md) | é£ite ²·º | Account / TOS utility | account or TOS tool | AOL 4.0; inferred: AOL 6-7 | MoNu | 1.3 MB | [local](../../../files/aol/aol-4-0/0737-eite-2o.zip) | 0 |
 | 687 | [Es](../applications/pages/E/0687-es.md) | Es | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 6.2 MB | [local](../../../files/aol/aol-4-0/0687-es.zip) | 0 |
-| 691 | [Et](../applications/pages/E/0691-et.md) | et | Unknown / needs review | uncategorized | AOL 4.0 | info | 1.5 MB | [local](../../../files/aol/aol-4-0/0691-et.zip) | 0 |
+| 691 | [Et](../applications/pages/E/0691-et.md) | et | Media / file utility | uncategorized | AOL 4.0 | info | 1.5 MB | [local](../../../files/aol/aol-4-0/0691-et.zip) | 0 |
 | 806 | [fusionx](../applications/pages/F/0806-fusionx.md) | fusionx | Account / TOS utility | account or TOS tool | AOL 4.0; inferred: AOL 5 | sonic | 1.9 MB | [local](../../../files/aol/aol-4-0/0806-fusionx.zip) | 0 |
 | 899 | [Hells Wasteland](../applications/pages/H/0899-hells-wasteland.md) | HellsWasteland | Account / TOS utility | account or TOS tool | AOL 6.0 | sleeper | 593 KB | [local](../../../files/aol/aol-6-0/0899-hellswasteland.zip) | 0 |
 | 976 | [Buddah Idle 1.0 Win ALL Yr 04](../applications/pages/I/0976-buddah-idle-1-0-win-all-yr-04.md) | Idler | Idler / AFK bot | idler or bot | AOL 4.0; inferred: AOL 7.0-9.0 | BuDDaH | 1.4 MB | [local](../../../files/aol/aol-4-0/0976-idler.zip) | 0 |

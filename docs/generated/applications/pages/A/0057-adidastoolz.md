@@ -19,13 +19,20 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | File size | 2.8 MB |
 | Author | unknown |
 | Catalog author | unknown |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0; inferred: AOL 5 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 5 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | account or TOS tool |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -39,20 +46,21 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0057-adidastoolz.zip](../../../../../files/aol/aol-4-0/0057-adidastoolz.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas toolz aol5 yr2000 password=poiuyt.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip)
-- Matched web download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
 - Matched mirror leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas toolz aol5 yr2000 password=poiuyt.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/adidas%20toolz%20aol5%20yr2000%20password%3Dpoiuyt.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -65,6 +73,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

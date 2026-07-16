@@ -19,13 +19,20 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | File size | 3.4 MB |
 | Author | unknown |
 | Catalog author | unknown |
+| Manual author evidence | unknown |
+| Archive-text author | unknown |
 | Inferred author | unknown |
+| Author conflict note | none |
 | Platform | AOL |
 | AOL/version bucket | AOL 7.0 |
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 7.0 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | unknown |
+| Archive text files reviewed | none |
 | Visual Basic | non-VB |
 | Compile type | n/a |
 | Duplicate count | 2 |
@@ -44,13 +51,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1247-metaexe2.zip](../../../../../files/aol/mixed/1247-metaexe2.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic toolz for aol 7.0 win95-xp.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip)
+- Old-web / Wayback download leads: not matched yet
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic toolz for aol 7.0 win95-xp.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/metamorphic%20toolz%20for%20aol%207.0%20win95-xp.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Mixed/unknown** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -63,6 +72,10 @@ No readable original URLs were found inside the mirrored archive text during the
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Source Mentions
 

@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Source / developer file, Media / file utility, Fader / text styler, Scroller / macro.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -17,15 +17,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | MPlayerX-CeeLo |
 | Archive filename | music mp3 player x v2 aol7 winXP yr05.zip |
 | File size | 3.8 MB |
-| Author | Raúl |
+| Author | Raul Martinez; catalog listed Raúl |
 | Catalog author | Raúl |
+| Manual author evidence | unknown |
+| Archive-text author | Raul Martinez |
 | Inferred author | unknown |
+| Author conflict note | Catalog listed Raúl; evidence prefers Raul Martinez. |
 | Platform | AOL |
 | AOL/version bucket | AOL 7 |
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 7 |
+| Archive-text AOL/version mentions | unknown |
 | Prog type | Media / file utility |
 | Category | uncategorized |
+| Manual purpose clues | unknown |
+| Archive-text purpose clues | Source / developer file, Media / file utility, Fader / text styler, Scroller / macro |
+| Archive text files reviewed | INSTALL.txt<br>MMPlayerX.ini<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt<br>MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt<br>MMp3Player/Skins/guinamp_pirata/Skin.ini |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -39,20 +46,21 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1303-mplayerx-ceelo.zip](../../../../../files/aol/mixed/1303-mplayerx-ceelo.zip)
-- Original source path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music mp3 player x v2 aol7 winXP yr05.zip`
-- Source repository URL: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip)
-- Raw source URL: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip)
-- Matched web download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
 - Matched mirror leads: 1 link(s) listed below
+- Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music mp3 player x v2 aol7 winXP yr05.zip`
+- Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip)
+- Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/music%20mp3%20player%20x%20v2%20aol7%20winXP%20yr05.zip)
 
 ## AOL Version Context
 
 The catalog places this entry in the **Mixed/unknown** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
+
 
 ## Screenshots
 
@@ -69,6 +77,14 @@ These URLs were found in safely readable archive text. They are recorded as prov
 ## Web Research
 
 This section connects the catalog entry to old pages, crawled download URLs, mirror lists, and image leads. Matches are evidence, not guaranteed runtime compatibility claims.
+
+### Archive Text Scan
+
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
+| --- | --- | --- | --- | --- |
+| INSTALL.txt<br>MMPlayerX.ini<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt<br>MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt<br>MMp3Player/Skins/guinamp_pirata/Skin.ini | Raul Martinez (MMp3Player/Skins/guinamp_pirata/Skin.ini) | Source / developer file<br>Media / file utility<br>Fader / text styler<br>Scroller / macro | none | INSTALL.txt has vocabulary for Source / developer file.<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt has vocabulary for Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt has vocabulary for Fader / text styler, Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini includes archive-text author clue(s): Raul Martinez.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini has vocabulary for Scroller / macro, Media / file utility. |
 
 ### Source Mentions
 

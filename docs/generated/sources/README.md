@@ -6,7 +6,7 @@ This section records original sites, Wayback captures, GitHub mirrors, source pa
 
 | Name | Kind | URL | Wayback | Notes |
 | --- | --- | --- | --- | --- |
-| AOL Underground Proggies Archive | GitHub archive | [https://github.com/ssstonebraker/aolunderground-proggies](https://github.com/ssstonebraker/aolunderground-proggies) | [Wayback](https://web.archive.org/web/*/https://github.com/ssstonebraker/aolunderground-proggies) | Primary catalog source for this site. It documents thousands of AOL/AIM archives, HTML analysis pages, author attribution, screenshots, duplicate detection, and AOL version tagging. |
+| AOL Underground Proggies Archive | reference GitHub mirror | [https://github.com/ssstonebraker/aolunderground-proggies](https://github.com/ssstonebraker/aolunderground-proggies) | [Wayback](https://web.archive.org/web/*/https://github.com/ssstonebraker/aolunderground-proggies) | Reference mirror used to seed local file paths and catalog metadata. Original authorship and historical download provenance are taken from readable archive text and old-web sources when available. |
 | AOLUnderground.com ProGGieS | scene index | [https://aolunderground.com/proggies/](https://aolunderground.com/proggies/) | [Wayback](https://web.archive.org/web/*/https://aolunderground.com/proggies/) | A companion index with passwords, missing-prog calls, screenshots, and sections for AIM tools, all-in-one progs, macro studios, punters, scrollers, and more. |
 | JustinAKAPaste | large web archive | [https://justinakapaste.com/](https://justinakapaste.com/) | [Wayback](https://web.archive.org/web/*/https://justinakapaste.com/) | A major AOL/AIM history archive with progs, screenshots, readmes, macros, videos, people pages, exploit writeups, Yahoo and Prodigy sections, and Visual Basic material. |
 | Legacy AOL Underground | GitHub mirror/fork | [https://github.com/DamianSuess/Legacy-AOL-Underground](https://github.com/DamianSuess/Legacy-AOL-Underground) | [Wayback](https://web.archive.org/web/*/https://github.com/DamianSuess/Legacy-AOL-Underground) | A related legacy mirror/fork of the AOL Underground archive that helps preserve repository history and discoverability. |
@@ -36,6 +36,7 @@ This section records original sites, Wayback captures, GitHub mirrors, source pa
 - [Crawled source pages](source-pages.md)
 - [Download links](download-links.md)
 - [Resource and directory links](resource-links.md)
+- [LoLToolz AIM progs source report](loltoolz-aim-progs.md)
 - [Embedded archive URLs](embedded-archive-urls.md)
 - [External mirror groups](mirror-groups.md)
 - [Missing candidates and recovered mirrors](missing-candidates.md)
