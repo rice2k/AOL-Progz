@@ -10,6 +10,9 @@ const webResourcesPath = path.join(rootDir, "data", "web-resources.json");
 const limit = Number(process.env.AOL_EXTERNAL_DOWNLOAD_LIMIT || 50);
 const maxMb = Number(process.env.AOL_EXTERNAL_MAX_MB || 50);
 const timeoutMs = Number(process.env.AOL_EXTERNAL_TIMEOUT_MS || 25000);
+const sourceMatch = process.env.AOL_EXTERNAL_SOURCE_MATCH
+  ? new RegExp(process.env.AOL_EXTERNAL_SOURCE_MATCH, "i")
+  : null;
 
 const urlLists = [
   {
@@ -273,13 +276,22 @@ async function main() {
     uniqueCandidates.push(candidate);
   }
   uniqueCandidates.sort((a, b) => candidatePriority(a) - candidatePriority(b));
+  const filteredCandidates = sourceMatch
+    ? uniqueCandidates.filter((candidate) =>
+        sourceMatch.test(
+          `${candidate.sourceList || ""} ${candidate.sourceListUrl || ""} ${candidate.originalUrl || ""} ${
+            candidate.name || ""
+          } ${candidate.discoveredText || ""}`,
+        ),
+      )
+    : uniqueCandidates;
 
   const existing = readManifest().downloads || [];
   const existingByUrl = new Map(existing.map((item) => [canonicalUrl(item.originalUrl), item]));
   const downloads = [...existing];
   let attempted = 0;
 
-  for (const candidate of uniqueCandidates) {
+  for (const candidate of filteredCandidates) {
     const key = canonicalUrl(candidate.originalUrl);
     const previous = existingByUrl.get(key);
     if (previous?.status === "ready") continue;

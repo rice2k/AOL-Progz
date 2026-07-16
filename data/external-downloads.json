@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-15T19:18:52.641Z",
+  "generatedAt": "2026-07-16T05:22:12.974Z",
   "sourceListCount": 3,
-  "candidateCount": 16762,
-  "downloadCount": 320,
+  "candidateCount": 16772,
+  "downloadCount": 330,
   "readyCount": 238,
   "mirrorGroupCount": 1191,
   "byStatus": {
     "ready": 238,
-    "http-404": 82
+    "http-404": 92
   },
   "sourceLists": [
     {
@@ -33289,6 +33289,116 @@
       "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/afk.zip",
       "name": "afk.zip",
       "discoveredText": "afk",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/1337skinz.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/1337skinz.zip",
+      "name": "1337skinz.zip",
+      "discoveredText": "1337Skinz v1.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/buddyblaster.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/buddyblaster.zip",
+      "name": "buddyblaster.zip",
+      "discoveredText": "BuddyBlaster v1.3",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/codezap.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/codezap.zip",
+      "name": "codezap.zip",
+      "discoveredText": "CodeZap v2.2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/darkzoid.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/darkzoid.zip",
+      "name": "darkzoid.zip",
+      "discoveredText": "DarkZoid v1.9",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/glitchx.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/glitchx.zip",
+      "name": "glitchx.zip",
+      "discoveredText": "GlitchX v2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/hackzoid.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/hackzoid.zip",
+      "name": "hackzoid.zip",
+      "discoveredText": "HackZoid v3.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/phreakchat.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/phreakchat.zip",
+      "name": "phreakchat.zip",
+      "discoveredText": "PhreakChat v2.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/shadowbot.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/shadowbot.zip",
+      "name": "shadowbot.zip",
+      "discoveredText": "ShadowBot v2.4",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/tronix.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/tronix.zip",
+      "name": "tronix.zip",
+      "discoveredText": "Tronix v1.7",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LoLToolz AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/aim.htm",
+      "originalUrl": "http://www.geocities.com/loltoolz/downloads/zerocrush.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/zerocrush.zip",
+      "name": "zerocrush.zip",
+      "discoveredText": "ZeroCrush v1.8",
       "localPath": "",
       "status": "http-404",
       "size": 0

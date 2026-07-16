@@ -46,6 +46,13 @@ function inferCategory(text) {
   return "unknown";
 }
 
+function preferStatus(existing, incoming) {
+  if (!incoming) return existing || "candidate";
+  if (!existing || existing === "candidate") return incoming;
+  if (existing !== "ready" && incoming === "ready") return incoming;
+  return existing;
+}
+
 function main() {
   const catalog = readCatalog();
   const web = JSON.parse(readFileSync(webResourcesPath, "utf8"));
@@ -73,7 +80,12 @@ function main() {
     };
     if (item.originalUrl || item.url) {
       const url = item.originalUrl || item.url;
-      if (!existing.mirrors.some((mirror) => mirror.url === url)) {
+      const mirror = existing.mirrors.find((candidateMirror) => candidateMirror.url === url);
+      if (mirror) {
+        mirror.waybackUrl = item.waybackUrl || item.url || mirror.waybackUrl || "";
+        mirror.source = mirror.source || item.sourceList || item.pageName || "";
+        mirror.status = preferStatus(mirror.status, item.status);
+      } else {
         existing.mirrors.push({
           url,
           waybackUrl: item.waybackUrl || item.url || "",

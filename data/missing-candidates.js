@@ -1,5 +1,5 @@
 window.AOL_PROGZ_MISSING_CANDIDATES = {
-  "generatedAt": "2026-07-16T04:32:12.963Z",
+  "generatedAt": "2026-07-16T05:26:14.615Z",
   "candidateCount": 1272,
   "readyCandidateCount": 181,
   "candidates": [
@@ -416,13 +416,13 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip",
           "source": "c-coms",
-          "status": "candidate"
+          "status": "ready"
         },
         {
           "url": "http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
           "source": "c-coms",
-          "status": "candidate"
+          "status": "ready"
         }
       ],
       "readyLocalFiles": [
@@ -3893,19 +3893,19 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.oogle.net/downloads/progs/methodus.zip",
           "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip",
           "source": "Aol 4.0/5.0 Progs",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://www.cybernyse.com/downlowdz/methodus.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip",
           "source": "Section 2",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -4242,7 +4242,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolprogs/abomination.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/abomination.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://www.cybernyse.com/abomination.zip",
@@ -4532,19 +4532,19 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolcrackers/pwlist.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/pwlist.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/aolcrackers/pwlist2.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/pwlist2.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/aolcrackers/pwlist3.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/pwlist3.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -4620,13 +4620,13 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolprogs/4shoplayer3.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/4shoplayer3.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://lenshellarchive.com/Progs/yahooprogs/misc/4shoplayer3.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/4shoplayer3.zip",
           "source": "Yahoo Progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -4652,7 +4652,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolprogs/5thelement2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/5thelement2.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -4672,13 +4672,13 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://server38.hypermart.net/progstation/addweb.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/addweb.zip",
           "source": "APPLICATIONS",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://progstation.hypermart.net/addweb.zip",
           "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/addweb.zip",
           "source": "http://progstation.hypermart.net/",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -6518,13 +6518,13 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.methodus.atfreeweb.com/netbuspatch.zip",
           "waybackUrl": "https://web.archive.org/web/20010111011900/http://www.methodus.atfreeweb.com/netbuspatch.zip",
           "source": "Methodus2000 NetBus page",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
           "waybackUrl": "https://web.archive.org/web/20010111011900/http://www.methodus2000.com/methodustoolz/netbuspatch.zip",
           "source": "Methodus2000 NetBus page",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7116,7 +7116,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/1337skinz.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/1337skinz.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7135,7 +7135,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolprogs/13yrs.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/13yrs.zip",
           "source": "prog's/misc a-m",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7154,7 +7154,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://progstation.hypermart.net/1coolbutton.zip",
           "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/1coolbutton.zip",
           "source": "http://progstation.hypermart.net/",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7192,7 +7192,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolantis/30anticrack.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/30anticrack.zip",
           "source": "anti's",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7211,7 +7211,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/vbxdll/3dfxapi3.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/3dfxapi3.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7230,7 +7230,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/vbxdll/3dlabel.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/3dlabel.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7287,7 +7287,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/yahooprogs/misc/4shoelite310.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/4shoelite310.zip",
           "source": "Yahoo Progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7306,7 +7306,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/yahooprogs/misc/4shoelitefinal.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/4shoelitefinal.zip",
           "source": "Yahoo Progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7363,7 +7363,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/VBfiles/abbotaim.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/abbotaim.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7382,7 +7382,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolfaders/acidfader.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/acidfader.zip",
           "source": "LensHell faders",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7401,7 +7401,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/acidrein.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/acidrein.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7420,7 +7420,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/vbxdll/actcndy2.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/actcndy2.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7439,7 +7439,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/vbxdll/activeskin.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/activeskin.zip",
           "source": "Visual Basic Section",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -7515,7 +7515,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/advancedbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/advancedbeta.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -9111,7 +9111,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimpwlist1mill.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimpwlist1mill.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -10498,7 +10498,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aimprogs/crackers/atex.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/atex.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -10517,7 +10517,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/atexscrolltoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/atexscrolltoolz.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -11619,7 +11619,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/buddyblaster.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/buddyblaster.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -12664,7 +12664,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/codezap.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/codezap.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -13557,7 +13557,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/darkzoid.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/darkzoid.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -15685,7 +15685,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/html/frames.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/frames.zip",
           "source": "HTML/CGI Code",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -16084,7 +16084,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/glitchx.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/glitchx.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -16293,7 +16293,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/hackzoid.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/hackzoid.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -20853,7 +20853,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://lenshellarchive.com/Progs/aolcrackers/passwords3.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/passwords3.zip",
           "source": "LensHell AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -21081,7 +21081,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/phreakchat.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/phreakchat.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -22202,7 +22202,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/shadowbot.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/shadowbot.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -23893,7 +23893,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/tronix.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/tronix.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -25527,7 +25527,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.geocities.com/loltoolz/downloads/zerocrush.zip",
           "waybackUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com/loltoolz/downloads/zerocrush.zip",
           "source": "LoLToolz AIM progs",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],

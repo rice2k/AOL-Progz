@@ -250,6 +250,25 @@ function urlHost(url) {
   }
 }
 
+function originalFromWayback(url) {
+  const match = String(url || "").match(/^https?:\/\/web\.archive\.org\/web\/[^/]+\/(https?:\/\/.*)$/i);
+  return match?.[1] || url;
+}
+
+function canonicalUrl(url) {
+  try {
+    const parsed = new URL(originalFromWayback(url));
+    parsed.hash = "";
+    parsed.hostname = parsed.hostname.toLowerCase().replace(/^www\./, "");
+    if ((parsed.protocol === "http:" && parsed.port === "80") || (parsed.protocol === "https:" && parsed.port === "443")) {
+      parsed.port = "";
+    }
+    return parsed.href.replace(/\/$/, "").toLowerCase();
+  } catch {
+    return clean(url).replace(/\/$/, "").toLowerCase();
+  }
+}
+
 function uniqueBy(items, getKey) {
   const seen = new Set();
   const out = [];
@@ -450,6 +469,11 @@ const webAssets = readJson("data/web-assets.json", { assets: [] });
 const externalDownloads = readJson("data/external-downloads.json", { downloads: [], mirrorGroups: [] });
 const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
 const programEnrichment = readJson("data/program-enrichment.json", { perProgram: {} });
+const externalDownloadByUrl = new Map((externalDownloads.downloads || []).map((item) => [canonicalUrl(item.originalUrl), item]));
+
+function recoveryForUrl(url) {
+  return externalDownloadByUrl.get(canonicalUrl(url)) || null;
+}
 
 const userSuppliedLinks = [
   ["Reference mirror: AOL Underground Proggies Archive", "reference GitHub mirror", "https://github.com/ssstonebraker/aolunderground-proggies"],
@@ -1353,20 +1377,26 @@ writeDoc(
     "# LoLToolz AIM Progs",
     "",
     "AIM program rows extracted from the user-supplied LoLToolz AIM Progs HTML snapshot. These entries are preserved as missing-candidate and old-web download leads unless a matching local catalog entry is found.",
+    "Recovery status comes from the external-file mirroring pass. `ready` means a local archive file was recovered; `http-404` means the recorded Wayback replay URL did not serve the file during the latest attempt.",
     "",
     lolToolzAimPage?.localPath ? `Local preserved HTML: ${localLink(`${generatedRoot}/sources/loltoolz-aim-progs.md`, lolToolzAimPage.localPath, lolToolzAimPage.localPath)}` : "",
     "",
     table(
-      ["Program", "Description", "Listed size", "Wayback URL", "Original URL"],
+      ["Program", "Description", "Listed size", "Recovery status", "Recovered file", "Wayback URL", "Original URL"],
       (lolToolzAimPage?.links || [])
         .filter((item) => item.type === "download")
-        .map((item) => [
-          item.text || fileStem(item.originalUrl || item.url),
-          item.description || "",
-          item.listedSize || "",
-          link(item.url, item.url),
-          item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
-        ]),
+        .map((item) => {
+          const recovery = recoveryForUrl(item.originalUrl || item.url);
+          return [
+            item.text || fileStem(item.originalUrl || item.url),
+            item.description || "",
+            item.listedSize || "",
+            recovery?.status || "not attempted",
+            recovery?.localPath ? localLink(`${generatedRoot}/sources/loltoolz-aim-progs.md`, recovery.localPath, recovery.localPath) : "not recovered",
+            link(item.url, item.url),
+            item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+          ];
+        }),
     ),
   ].join("\n"),
 );
@@ -1473,16 +1503,20 @@ writeDoc(
   [
     "# Missing Candidates And Recovered Mirrors",
     "",
-    "These are filenames or program leads discovered from external old-web sources and compared against the main catalog. Ready counts mean at least one local mirror was recovered.",
+    "These are filenames or program leads discovered from external old-web sources and compared against the main catalog. Ready counts mean at least one local mirror was recovered. Recovery statuses come from the external-file mirroring pass.",
     "",
     table(
-      ["Key", "Category", "Mirrors", "Ready", "Ready local files"],
+      ["Key", "Category", "Mirrors", "Recovery statuses", "Ready", "Ready local files"],
       (missingCandidates.candidates || []).map((candidate) => [
         candidate.key || candidate.fileName || "unknown",
         candidate.category || "unknown",
         String(candidate.mirrorCount || candidate.mirrors?.length || 0),
+        uniqueBy(candidate.mirrors || [], (mirror) => mirror.status || "candidate")
+          .map((mirror) => mirror.status || "candidate")
+          .join("<br>"),
         String(candidate.readyCount || candidate.readyLocalFiles?.length || 0),
-        (candidate.readyLocalFiles || []).map((file) => localLink(`${generatedRoot}/sources/missing-candidates.md`, file, file)).join("<br>"),
+        (candidate.readyLocalFiles || []).map((file) => localLink(`${generatedRoot}/sources/missing-candidates.md`, file, file)).join("<br>") ||
+          "none",
       ]),
     ),
   ].join("\n"),
