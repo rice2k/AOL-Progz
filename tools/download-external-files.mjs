@@ -102,6 +102,69 @@ const directDownloads = [
     originalUrl: "http://www.dnx-online.net/~acp/downloads/aolfiledownloader50.zip",
     waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aolfiledownloader50.zip",
   },
+  {
+    name: "rampagetools2source.zip",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.com/download/rampagetools2source.zip",
+    waybackUrl: "https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip",
+    discoveredText: "Rampage Toolz 2 source-code ZIP lead; retained even when Wayback replays HTML instead of a ZIP.",
+  },
+  {
+    name: "rt1_src.zip",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/rt1source/rt1_src.zip",
+    waybackUrl: "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+    discoveredText: "Rampage Toolz 1.1 source-code ZIP linked from Oogle's archived source page.",
+  },
+  {
+    name: "setuprt22.exe",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/rampage/setuprt22.exe",
+    waybackUrl: "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
+    discoveredText: "Rampage Toolz 2.2 setup executable lead from Oogle/Rampage pages.",
+  },
+  {
+    name: "skin_elite.zip",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/rampage/skin_elite.zip",
+    waybackUrl: "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+    discoveredText: "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+  },
+  {
+    name: "skin_insane.zip",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/rampage/skin_insane.zip",
+    waybackUrl: "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+    discoveredText: "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+  },
+  {
+    name: "rscript.zip",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/downloads/rscript.zip",
+    waybackUrl: "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+    discoveredText: "Rampage Script SDK download linked from Oogle's Rampage tutorial page.",
+  },
+  {
+    name: "script_tutorial1.doc",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/downloads/script_tutorial1.doc",
+    waybackUrl: "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial1.doc",
+    discoveredText: "Oogle Rampage Script Tutorial #1, listed at 645 KB on the archived tutorial page.",
+  },
+  {
+    name: "script_tutorial2.doc",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/downloads/script_tutorial2.doc",
+    waybackUrl: "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial2.doc",
+    discoveredText: "Oogle Rampage Script Tutorial #2, listed at 1,274 KB on the archived tutorial page.",
+  },
+  {
+    name: "script_tutorial3.doc",
+    sourceList: "User-supplied Oogle Rampage source leads",
+    originalUrl: "http://www.oogle.net/downloads/script_tutorial3.doc",
+    waybackUrl: "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial3.doc",
+    discoveredText: "Oogle Rampage Script Tutorial #3, listed at 10 KB on the archived tutorial page.",
+  },
   ...[
     "ChatOCX2.ocx",
     "chatscan%C2%B3.ocx",
@@ -125,8 +188,8 @@ const directDownloads = [
 
 const likelyPattern =
   /(aol|aim|prog|proggie|progz|toolz|punter|punt|booter|boot|fader|fade|mmer|mail|tos|term|idler|idle|phish|fish|crack|cracker|buster|room|chat|macro|scroll|hell|ccom|c-com|x'er|xer|server|vb|ocx|dll)/i;
-const extensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx|iso|img|ima|wsz|bin|cue)(?:$|[?#])/i;
-const archiveOrgExtensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx|iso|img|ima|wsz|bin|cue)(?:$|[?#])/i;
+const extensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx|iso|img|ima|wsz|bin|cue|doc)(?:$|[?#])/i;
+const archiveOrgExtensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx|iso|img|ima|wsz|bin|cue|doc)(?:$|[?#])/i;
 
 function slugify(value) {
   return String(value || "")
@@ -323,6 +386,9 @@ function validateLocalDownload(localPath) {
   }
   if (/\.rar$/i.test(lower) && !hex.startsWith("52617221")) {
     return { ok: false, status: "invalid-archive", size };
+  }
+  if (/\.doc$/i.test(lower) && !/^(d0cf11e0|504b0304)/i.test(hex)) {
+    return { ok: false, status: "invalid-document", size };
   }
   return { ok: true, status: "ready", size };
 }

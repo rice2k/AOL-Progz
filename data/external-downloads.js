@@ -1,19 +1,19 @@
 window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
-  "generatedAt": "2026-07-16T19:48:49.365Z",
+  "generatedAt": "2026-07-16T21:31:37.997Z",
   "sourceListCount": 3,
-  "candidateCount": 19596,
-  "downloadCount": 2186,
-  "readyCount": 578,
-  "mirrorGroupCount": 1791,
+  "candidateCount": 19604,
+  "downloadCount": 2206,
+  "readyCount": 581,
+  "mirrorGroupCount": 1793,
   "byStatus": {
-    "ready": 578,
+    "ready": 581,
     "invalid-archive": 8,
     "empty-file": 1,
-    "http-404": 1559,
+    "http-404": 1571,
     "failed": 5,
-    "html-replay": 14,
+    "html-replay": 16,
     "too-large": 1,
-    "out-of-scope": 20
+    "out-of-scope": 23
   },
   "sourceLists": [
     {
@@ -6199,8 +6199,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/fortunecity-com/rampage-d0db1655.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 5
     },
     {
@@ -31795,7 +31797,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.oogle.net/rampage/setuprt22.exe",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
-          "sourceList": "Web page: Section 2",
+          "sourceList": "User-supplied Oogle Rampage source leads",
           "status": "candidate"
         },
         {
@@ -41904,6 +41906,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/simple-scribble.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "skin-elite-zip",
+      "name": "skin_elite.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+          "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+          "sourceList": "User-supplied Oogle Rampage source leads",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/oogle-net/skin-elite-3ae954b5.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "skin-insane-zip",
+      "name": "skin_insane.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+          "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+          "sourceList": "User-supplied Oogle Rampage source leads",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/oogle-net/skin-insane-e3c85f67.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -69027,6 +69063,239 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "downloadUrl": "http://am.net/lib/TOOLS/Google/picasa25.exe",
       "localPath": "",
       "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "name": "rampagetools2source.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.com/download/rampagetools2source.zip",
+      "waybackUrl": "https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip",
+      "discoveredText": "Rampage Toolz 2 source-code ZIP lead; retained even when Wayback replays HTML instead of a ZIP.",
+      "downloadUrl": "https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2288
+    },
+    {
+      "name": "setuprt22.exe",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rampage/setuprt22.exe",
+      "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
+      "discoveredText": "Rampage Toolz 2.2 setup executable lead from Oogle/Rampage pages.",
+      "downloadUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2395
+    },
+    {
+      "name": "skin_elite.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+      "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+      "discoveredText": "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+      "downloadUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+      "localPath": "files/external/oogle-net/skin-elite-3ae954b5.zip",
+      "status": "ready",
+      "size": 45774,
+      "sha1": "d0eb61a337b5e48ed592ce611147524fd11a2221"
+    },
+    {
+      "name": "skin_insane.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+      "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+      "discoveredText": "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+      "downloadUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+      "localPath": "files/external/oogle-net/skin-insane-e3c85f67.zip",
+      "status": "ready",
+      "size": 28162,
+      "sha1": "612186e974784424bab3daaaaefa07170fc4747f"
+    },
+    {
+      "name": "rscript.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/downloads/rscript.zip",
+      "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+      "discoveredText": "Rampage Script SDK download linked from Oogle's Rampage tutorial page.",
+      "downloadUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "name": "script_tutorial1.doc",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/downloads/script_tutorial1.doc",
+      "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial1.doc",
+      "discoveredText": "Oogle Rampage Script Tutorial #1, listed at 645 KB on the archived tutorial page.",
+      "downloadUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial1.doc",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "name": "script_tutorial2.doc",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/downloads/script_tutorial2.doc",
+      "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial2.doc",
+      "discoveredText": "Oogle Rampage Script Tutorial #2, listed at 1,274 KB on the archived tutorial page.",
+      "downloadUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial2.doc",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "name": "script_tutorial3.doc",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/downloads/script_tutorial3.doc",
+      "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial3.doc",
+      "discoveredText": "Oogle Rampage Script Tutorial #3, listed at 10 KB on the archived tutorial page.",
+      "downloadUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial3.doc",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/picasa27.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/picasa27.exe",
+      "name": "picasa27.exe",
+      "discoveredText": "picasa27.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/picasa27.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/picasa39-setup.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/picasa39-setup.exe",
+      "name": "picasa39-setup.exe",
+      "discoveredText": "picasa39-setup.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/picasa39-setup.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Google/",
+      "sourceListUrl": "http://am.net/lib/TOOLS/Google/",
+      "originalUrl": "http://am.net/lib/TOOLS/Google/picasaweb26.exe",
+      "waybackUrl": "http://am.net/lib/TOOLS/Google/picasaweb26.exe",
+      "name": "picasaweb26.exe",
+      "discoveredText": "picasaweb26.exe",
+      "downloadUrl": "http://am.net/lib/TOOLS/Google/picasaweb26.exe",
+      "localPath": "",
+      "status": "out-of-scope",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs N-Z",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/poogletoolz1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/poogletoolz1.zip",
+      "name": "poogletoolz1.zip",
+      "discoveredText": "poogle toolz1",
+      "downloadUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/poogletoolz1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs N-Z",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+      "name": "rampage.zip",
+      "discoveredText": "rampage toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rampage2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/rampage2.zip",
+      "name": "rampage2.zip",
+      "discoveredText": "rampage toolz 2.0",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/rampage2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Section 2",
+      "sourceListUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
+      "originalUrl": "http://www.cybernyse.com/downlowdz/imagescroll.zip",
+      "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/imagescroll.zip",
+      "name": "imagescroll.zip",
+      "discoveredText": "Oogle's Image Scroller",
+      "downloadUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/imagescroll.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+      "sourceListUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2mirror.htm",
+      "originalUrl": "http://24.185.191.87/progz/imagescroll.zip",
+      "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/imagescroll.zip",
+      "name": "imagescroll.zip",
+      "discoveredText": "Oogle's Image Scroller",
+      "downloadUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/imagescroll.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Section 2",
+      "sourceListUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
+      "originalUrl": "http://www.cybernyse.com/downlowdz/rampage.zip",
+      "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip",
+      "name": "rampage.zip",
+      "discoveredText": "Rampage Toolz 1.1",
+      "downloadUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+      "sourceListUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2mirror.htm",
+      "originalUrl": "http://24.185.191.87/progz/rampage.zip",
+      "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip",
+      "name": "rampage.zip",
+      "discoveredText": "Rampage Toolz 1.1",
+      "downloadUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "sourceListUrl": "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-forune-city-skyscraper-files.txt",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+      "name": "rampage.zip",
+      "downloadUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+      "localPath": "files/external/fortunecity-com/rampage-d0db1655.zip",
+      "status": "ready",
+      "size": 293130,
+      "sha1": "cb704d33a36c72d60069a84d290282028e52f1ca"
+    },
+    {
+      "name": "rt1_src.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rt1source/rt1_src.zip",
+      "waybackUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+      "discoveredText": "Rampage Toolz 1.1 source-code ZIP linked from Oogle's archived source page.",
+      "downloadUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+      "localPath": "",
+      "status": "http-404",
       "size": 0
     }
   ]

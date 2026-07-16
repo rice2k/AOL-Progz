@@ -1603,7 +1603,7 @@ This page makes uncertainty visible. Confidence labels explain whether author, c
 | [r.i.p comz](pages/R/1571-r-i-p-comz.md) | r.i.p comz | unknown | needs review | catalog bucket | local + old-web lead | high (8) | category uncertain<br>author unknown<br>no readable text evidence |
 | [radioactive](pages/R/1572-radioactive.md) | radioactive | unknown | needs review | unknown | local + old-web lead | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence |
 | [Raid~1](pages/R/1573-raid1.md) | Raid~1 | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |
-| [Rampage Toolz](pages/R/1574-rampage-toolz.md) | Rampage Toolz | manual source correction | curated source clue | catalog bucket | local + old-web lead | low (3) | no readable text evidence<br>web image lead needs screenshot match |
+| [Rampage Toolz](pages/R/1574-rampage-toolz.md) | Rampage Toolz | manual source correction | curated source clue | catalog bucket | local + old-web lead | medium (4) | matched external ZIP text to verify<br>web image lead needs screenshot match |
 | [Rampage Toolz 2.0](pages/R/1575-rampage-toolz-2-0.md) | rampage2 | manual source correction | curated source clue | unknown | local + old-web lead | medium (4) | category uncertain |
 | [rancid idle²](pages/R/1576-rancid-idle2.md) | rancid idle² | catalog only | readme/archive text | catalog bucket | local + old-web lead | none (0) | none |
 | [rancid1](pages/R/1577-rancid1.md) | rancid1 | catalog only | readme/archive text | catalog bucket | local + old-web lead | medium (4) | category uncertain |

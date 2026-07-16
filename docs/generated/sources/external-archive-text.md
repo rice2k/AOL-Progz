@@ -1,6 +1,6 @@
 # External ZIP Text Evidence
 
-Recovered external ZIPs are scanned for readmes, notes, HTML, source files, URL shortcuts, and other text-like entries. Current readable ZIPs: **214** of **402** scanned external ZIPs. This is provenance and description evidence only; binaries are not executed.
+Recovered external ZIPs are scanned for readmes, notes, HTML, source files, URL shortcuts, and other text-like entries. Current readable ZIPs: **216** of **405** scanned external ZIPs. This is provenance and description evidence only; binaries are not executed.
 
 | File | Local file | Source | Text files | Text entries | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -218,3 +218,5 @@ Recovered external ZIPs are scanned for readmes, notes, HTML, source files, URL 
 | hpcoms1.zip | [files/external/lenshellarchive-com/hpcoms1-5cab6e6c.zip](../../../files/external/lenshellarchive-com/hpcoms1-5cab6e6c.zip) | Web page: LensHell c-coms | 4 | favlink<br>helpfile.txt<br>hush.ini<br>info.txt | unknown | unknown | Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Screen-name utility<br>AOL/AIM chat utility<br>Idler / AFK bot<br>Linker / chat linker | unknown | [http://bloodychef.cjb.net](http://bloodychef.cjb.net) |
 | importtuner.zip | [files/external/lenshellarchive-com/importtuner-ed13ac26.zip](../../../files/external/lenshellarchive-com/importtuner-ed13ac26.zip) | Web page: LensHell c-coms | 1 | readme.txt | unknown | unknown | unknown | if they're any bugs in this program is probably either your computer/you fucking it | unknown |
 | importdreamz.zip | [files/external/lenshellarchive-com/importdreamz-2b606ca6.zip](../../../files/external/lenshellarchive-com/importdreamz-2b606ca6.zip) | Web page: LensHell c-coms | 1 | info.id | unknown | unknown | Source / developer file<br>AOL/AIM chat utility | unknown | unknown |
+| skin_elite.zip | [files/external/oogle-net/skin-elite-3ae954b5.zip](../../../files/external/oogle-net/skin-elite-3ae954b5.zip) | User-supplied Oogle Rampage source leads | 1 | elite.ini | unknown | unknown | All-in-one prog suite | unknown | unknown |
+| skin_insane.zip | [files/external/oogle-net/skin-insane-e3c85f67.zip](../../../files/external/oogle-net/skin-insane-e3c85f67.zip) | User-supplied Oogle Rampage source leads | 1 | insane.ini | unknown | unknown | unknown | unknown | unknown |

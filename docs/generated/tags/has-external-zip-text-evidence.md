@@ -1,6 +1,6 @@
 # Tag: has-external-zip-text-evidence
 
-**Count:** 50
+**Count:** 51
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -46,6 +46,7 @@
 | 2128 | [ímport.dreamz[Angel]](../applications/pages/0-9-symbols/2128-import-dreamzangel.md) | ímport.dreamz[Angel] | Unknown / needs review | uncategorized | Mixed/unknown | unknown | unknown | remote-only | 0 |
 | 1249 | [Metal](../applications/pages/M/1249-metal.md) | MeTaL | AOL/AIM chat utility | uncategorized | AOL 4.0 | OiL | 1.9 MB | [local](../../../files/aol/aol-4-0/1249-metal.zip) | 0 |
 | 1456 | [plasma](../applications/pages/P/1456-plasma.md) | plasma | Unknown / needs review | uncategorized | AOL 4.0 | Chr0me | 1.3 MB | [local](../../../files/aol/aol-4-0/1456-plasma.zip) | 0 |
+| 1574 | [Rampage Toolz](../applications/pages/R/1574-rampage-toolz.md) | Rampage Toolz | All-in-one prog suite | all-in-one prog | AOL 4.0 | Oogle (Justin Tunney) | 22 B | [local](../../../files/aol/aol-4-0/1574-rampage-toolz.zip) | 0 |
 | 1606 | [Remixed Audio²](../applications/pages/R/1606-remixed-audio2.md) | Remixed Audio² | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1700 | [silence](../applications/pages/S/1700-silence.md) | silence | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1832 | [Style 2](../applications/pages/S/1832-style-2.md) | style | Unknown / needs review | uncategorized | AOL 4.0 | LordEx | unknown | remote-only | 0 |

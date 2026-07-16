@@ -756,7 +756,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Freezev1](../applications/pages/F/0791-freezev1.md) | Freezev1 | unknown | LensHell faders | http-404: Web page: LensHell faders | unknown |
 | [Freon](../applications/pages/F/0792-freon.md) | FREON | unknown | Progs Section 1<br>LensHell misc progs A-M<br>Click-Online AOL 4/5 progz | http-404: Web page: LensHell misc progs A-M | unknown |
 | [Froz 3n H 3ll](../applications/pages/F/0793-froz-3n-h-3ll.md) | froz3n h3ll | unknown | LensHell misc progs A-M<br>Progs Section 1 | unknown | unknown |
-| [fssetup](../applications/pages/F/0794-fssetup.md) | fssetup | unknown | LensHell misc progs A-M<br>Google/ | http-404: Web page: LensHell misc progs A-M<br>too-large: Web page: Google/ | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98) |
+| [fssetup](../applications/pages/F/0794-fssetup.md) | fssetup | unknown | LensHell misc progs A-M<br>Google/ | http-404: Web page: LensHell misc progs A-M<br>out-of-scope: Web page: Google/ | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98) |
 | [Frost Toolz 2](../applications/pages/F/0795-frost-toolz-2.md) | ft2 | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | unknown |
 | [Fu 3beta](../applications/pages/F/0796-fu-3beta.md) | Fu3 | unknown | LensHell c-coms | ready: Web page: LensHell c-coms | unknown |
 | [fuct idle╣ by losi](../applications/pages/F/0797-fuct-idle-by-losi.md) | fuct idle╣ by losi | unknown | LensHell idlers | http-404: Web page: LensHell idlers | unknown |
@@ -1408,7 +1408,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [PokemonToolz](../applications/pages/P/1473-pokemontoolz.md) | PokemonToolz | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Polski Coms](../applications/pages/P/1474-polski-coms.md) | Polski Coms | unknown | LensHell c-coms | unknown | unknown |
 | [poof v1](../applications/pages/P/1475-poof-v1.md) | poof v1 | unknown | LensHell termers | unknown | unknown |
-| [Poogle Toolz1](../applications/pages/P/1476-poogle-toolz1.md) | Poogle Toolz1 | unknown | LensHell misc progs N-Z | unknown | unknown |
+| [Poogle Toolz1](../applications/pages/P/1476-poogle-toolz1.md) | Poogle Toolz1 | unknown | LensHell misc progs N-Z | http-404: Web page: LensHell misc progs N-Z | unknown |
 | [pooh bear](../applications/pages/P/1477-pooh-bear.md) | pooh bear | unknown | LensHell faders | unknown | unknown |
 | [poop pwc](../applications/pages/P/1478-poop-pwc.md) | poop pwc | unknown | LensHell AIM progs<br>Aim Crackers<br>AIM | http-404: Web page: LensHell AIM progs<br>http-404: Web page: Aim Crackers | unknown |
 | [Poopie Coms](../applications/pages/P/1479-poopie-coms.md) | Poopie Coms | unknown | LensHell c-coms | unknown | unknown |
@@ -1501,8 +1501,8 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [r.i.p comz](../applications/pages/R/1571-r-i-p-comz.md) | r.i.p comz | unknown | LensHell c-coms | unknown | unknown |
 | [radioactive](../applications/pages/R/1572-radioactive.md) | radioactive | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Raid~1](../applications/pages/R/1573-raid1.md) | Raid~1 | unknown | LensHell misc progs A-M | unknown | unknown |
-| [Rampage Toolz](../applications/pages/R/1574-rampage-toolz.md) | Rampage Toolz | User-supplied Rampage/Oogle reference | User-supplied Rampage/Oogle reference<br>Oogle AIM progs<br>LensHell misc progs N-Z<br>Click-Online AOL 4/5 progz<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | http-404: Web page: Click-Online AOL 4/5 progz<br>ready: Click-Online AOL 4/5 progz<br>candidate: Section 2 | unknown |
-| [Rampage Toolz 2.0](../applications/pages/R/1575-rampage-toolz-2-0.md) | rampage2 | User-supplied Rampage/Oogle reference | User-supplied Rampage/Oogle reference<br>Oogle AIM progs<br>LensHell AIM progs | unknown | unknown |
+| [Rampage Toolz](../applications/pages/R/1574-rampage-toolz.md) | Rampage Toolz | User-supplied Rampage/Oogle reference<br>Oogle Rampage script tutorials | User-supplied Rampage/Oogle reference<br>Oogle AIM progs<br>Oogle Rampage script tutorials<br>Oogle Rampage script tutorials<br>Oogle Rampage script tutorials<br>Oogle Rampage script tutorials | http-404: Web page: Click-Online AOL 4/5 progz<br>html-replay: User-supplied Oogle Rampage source leads<br>html-replay: User-supplied Oogle Rampage source leads<br>ready: User-supplied Oogle Rampage source leads<br>ready: User-supplied Oogle Rampage source leads<br>http-404: User-supplied Oogle Rampage source leads | unknown |
+| [Rampage Toolz 2.0](../applications/pages/R/1575-rampage-toolz-2-0.md) | rampage2 | User-supplied Rampage/Oogle reference<br>Oogle Rampage script tutorials | User-supplied Rampage/Oogle reference<br>Oogle AIM progs<br>Oogle Rampage script tutorials<br>Oogle Rampage script tutorials<br>Oogle Rampage script tutorials<br>Oogle Rampage script tutorials | http-404: Web page: LensHell AIM progs | unknown |
 | [rancid idle²](../applications/pages/R/1576-rancid-idle2.md) | rancid idle² | unknown | LensHell idlers | unknown | unknown |
 | [rancid1](../applications/pages/R/1577-rancid1.md) | rancid1 | unknown | LensHell idlers | unknown | unknown |
 | [rangerig](../applications/pages/R/1578-rangerig.md) | rangerig | unknown | LensHell xers | unknown | [http://www.rangerweb.net](http://www.rangerweb.net)<br>[http://www.winzip.com](http://www.winzip.com)<br>[http://www.rang](http://www.rang) |

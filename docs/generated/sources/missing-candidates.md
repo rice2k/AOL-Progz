@@ -88,7 +88,7 @@ These are filenames or program leads discovered from external old-web sources an
 | richtx | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/richtx32-87eca7a6.ocx](../../../files/external/aimfilez-com/richtx32-87eca7a6.ocx) | unknown | unknown | unknown | unknown |
 | rotext | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/rotext-a99777db.vbx](../../../files/external/aimfilez-com/rotext-a99777db.vbx) | unknown | unknown | unknown | unknown |
 | s-sa | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/saimsa-a4b4a517.exe](../../../files/external/aimfilez-com/saimsa-a4b4a517.exe) | unknown | unknown | unknown | unknown |
-| setuprt | unknown | 2 | ready<br>candidate | 1 | [files/external/click-online2000-com/setuprt22-bf0dd433.exe](../../../files/external/click-online2000-com/setuprt22-bf0dd433.exe) | unknown | unknown | unknown | unknown |
+| setuprt | unknown | 2 | ready<br>html-replay | 1 | [files/external/click-online2000-com/setuprt22-bf0dd433.exe](../../../files/external/click-online2000-com/setuprt22-bf0dd433.exe) | unknown | unknown | unknown | unknown |
 | smilebot | idler/bot | 2 | ready<br>candidate | 1 | [files/external/aimfilez-com/smilebot-64edb771.exe](../../../files/external/aimfilez-com/smilebot-64edb771.exe) | unknown | unknown | unknown | unknown |
 | sntrader | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/sntrader-d9f71739.exe](../../../files/external/aimfilez-com/sntrader-d9f71739.exe) | unknown | unknown | unknown | unknown |
 | vb-chat | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/coltpro-net/vb5chat2-0e54601c.ocx](../../../files/external/coltpro-net/vb5chat2-0e54601c.ocx) | unknown | unknown | unknown | unknown |
@@ -291,6 +291,8 @@ These are filenames or program leads discovered from external old-web sources an
 | shitclub | unknown | 1 | ready | 1 | [files/external/angelfire-com/shitclub.zip](../../../files/external/angelfire-com/shitclub.zip) | unknown | unknown | unknown | unknown |
 | silkboxers | unknown | 1 | ready | 1 | [files/external/angelfire-com/silkboxers.zip](../../../files/external/angelfire-com/silkboxers.zip) | unknown | unknown | unknown | [http://WWW.angelfire.com/freak/SIMfullyDelicious](http://WWW.angelfire.com/freak/SIMfullyDelicious) |
 | simple-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/simple-scribble.zip](../../../files/external/angelfire-com/simple-scribble.zip) | unknown | unknown | unknown | unknown |
+| skin-elite | AIM | 1 | ready | 1 | [files/external/oogle-net/skin-elite-3ae954b5.zip](../../../files/external/oogle-net/skin-elite-3ae954b5.zip) | unknown | unknown | unknown | unknown |
+| skin-insane | AIM | 1 | ready | 1 | [files/external/oogle-net/skin-insane-e3c85f67.zip](../../../files/external/oogle-net/skin-insane-e3c85f67.zip) | unknown | unknown | unknown | unknown |
 | smiley | AIM | 1 | ready | 1 | [files/external/aimfilez-com/smiley-c14cffa3.exe](../../../files/external/aimfilez-com/smiley-c14cffa3.exe) | unknown | unknown | unknown | unknown |
 | smokin | unknown | 1 | ready | 1 | [files/external/angelfire-com/smokin37-b040802e.zip](../../../files/external/angelfire-com/smokin37-b040802e.zip) | unknown | unknown | unknown | unknown |
 | smoothcracken | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/smoothcracken1-6f04cfec.zip](../../../files/external/angelfire-com/smoothcracken1-6f04cfec.zip) | unknown | unknown | unknown | unknown |
@@ -456,6 +458,7 @@ These are filenames or program leads discovered from external old-web sources an
 | pride | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | psexec | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ps-s | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| script-tutorial-doc | idler/bot | 3 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | sleep | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | sleepyhollow | unknown | 3 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
 | son | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -652,7 +655,7 @@ These are filenames or program leads discovered from external old-web sources an
 | icqinvinsible | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | icqwebaware | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ieeto | idler/bot | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
-| imagescroll | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| imagescroll | chat/macro | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | immc | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | imperialccoms | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | infinst-autol | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -724,7 +727,7 @@ These are filenames or program leads discovered from external old-web sources an
 | percent | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pest | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | phishdatidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| picasa | unknown | 2 | out-of-scope<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| picasa | unknown | 2 | out-of-scope | 0 | none | unknown | unknown | unknown | unknown |
 | pkreader | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | plot | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | prime | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2379,8 +2382,8 @@ These are filenames or program leads discovered from external old-web sources an
 | phreakchat | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | phrosty | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pibet | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| picasa-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| picasaweb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| picasa-setup | unknown | 1 | out-of-scope | 0 | none | unknown | unknown | unknown | unknown |
+| picasaweb | unknown | 1 | out-of-scope | 0 | none | unknown | unknown | unknown | unknown |
 | picsaver-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pictureitanddigitalimageviewtemp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pinglog | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2490,6 +2493,7 @@ These are filenames or program leads discovered from external old-web sources an
 | rainbowforest | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rally | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rama | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rampage-s-source | unknown | 1 | html-replay | 0 | none | unknown | unknown | unknown | unknown |
 | rapidhacker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | raspberry | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | raspbeta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2547,8 +2551,10 @@ These are filenames or program leads discovered from external old-web sources an
 | rose | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | row | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rscloudfiles | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rscript | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | rspano | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rspanons | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rt-src | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | rte | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rtfifilter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rts | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |

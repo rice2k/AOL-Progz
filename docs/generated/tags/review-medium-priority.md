@@ -1,6 +1,6 @@
 # Tag: review-medium-priority
 
-**Count:** 659
+**Count:** 660
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -586,6 +586,7 @@
 | 1566 | [Quicky Gag3](../applications/pages/Q/1566-quicky-gag3.md) | Quicky Gag3 | AOL/AIM chat utility | uncategorized | AOL 4.0 | dice | 1.4 MB | [local](../../../files/aol/aol-4-0/1566-quicky-gag3.zip) | 0 |
 | 1569 | [quikbust](../applications/pages/Q/1569-quikbust.md) | quikbust | Room buster | room buster | AOL 4.0; inferred: AOL 4 | unknown | 607 KB | [local](../../../files/aol/aol-4-0/1569-quikbust.zip) | 0 |
 | 1573 | [Raid~1](../applications/pages/R/1573-raid1.md) | Raid~1 | Fader / text styler | uncategorized | AOL 4.0 | Raider | 484 KB | [local](../../../files/aol/aol-4-0/1573-raid1.zip) | 0 |
+| 1574 | [Rampage Toolz](../applications/pages/R/1574-rampage-toolz.md) | Rampage Toolz | All-in-one prog suite | all-in-one prog | AOL 4.0 | Oogle (Justin Tunney) | 22 B | [local](../../../files/aol/aol-4-0/1574-rampage-toolz.zip) | 0 |
 | 1575 | [Rampage Toolz 2.0](../applications/pages/R/1575-rampage-toolz-2-0.md) | rampage2 | All-in-one prog suite | uncategorized | Mixed/unknown | Oogle (Justin Tunney) | 3.3 MB | [local](../../../files/aol/mixed/1575-rampage2.zip) | 0 |
 | 1577 | [rancid1](../applications/pages/R/1577-rancid1.md) | rancid1 | Idler / AFK bot | uncategorized | AOL 4.0 | banyon | 761 KB | [local](../../../files/aol/aol-4-0/1577-rancid1.zip) | 0 |
 | 1578 | [rangerig](../applications/pages/R/1578-rangerig.md) | rangerig | Fader / text styler | uncategorized | AOL 4.0 | unknown | 1.3 MB | [local](../../../files/aol/aol-4-0/1578-rangerig.zip) | 0 |

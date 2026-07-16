@@ -9062,6 +9062,19 @@
   },
   {
     "kind": "external recovered file",
+    "name": "rampage.zip",
+    "status": "ready",
+    "size": "286.3 KB",
+    "bytes": 293130,
+    "sha1": "cb704d33a36c72d60069a84d290282028e52f1ca",
+    "localPath": "files/external/fortunecity-com/rampage-d0db1655.zip",
+    "source": "ProgzRescue FortuneCity Skyscraper files",
+    "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+    "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+    "detailPage": ""
+  },
+  {
+    "kind": "external recovered file",
     "name": "random_scribble.zip",
     "status": "ready",
     "size": "79.4 KB",
@@ -9448,6 +9461,32 @@
     "source": "ProgzRescue Angelfire files",
     "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/simple_scribble.zip",
     "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/simple_scribble.zip",
+    "detailPage": ""
+  },
+  {
+    "kind": "external recovered file",
+    "name": "skin_elite.zip",
+    "status": "ready",
+    "size": "44.7 KB",
+    "bytes": 45774,
+    "sha1": "d0eb61a337b5e48ed592ce611147524fd11a2221",
+    "localPath": "files/external/oogle-net/skin-elite-3ae954b5.zip",
+    "source": "User-supplied Oogle Rampage source leads",
+    "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+    "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+    "detailPage": ""
+  },
+  {
+    "kind": "external recovered file",
+    "name": "skin_insane.zip",
+    "status": "ready",
+    "size": "27.5 KB",
+    "bytes": 28162,
+    "sha1": "612186e974784424bab3daaaaefa07170fc4747f",
+    "localPath": "files/external/oogle-net/skin-insane-e3c85f67.zip",
+    "source": "User-supplied Oogle Rampage source leads",
+    "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+    "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
     "detailPage": ""
   },
   {

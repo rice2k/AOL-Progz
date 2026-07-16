@@ -724,7 +724,7 @@ A sorted queue for metadata cleanup. High and medium entries should be reviewed 
 | [Pod](pages/P/1395-pod.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [poisonus](pages/P/1471-poisonus.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 3 | 0 | 0 | 0 |
 | [PokemonToolz](pages/P/1473-pokemontoolz.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
-| [Poogle Toolz1](pages/P/1476-poogle-toolz1.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
+| [Poogle Toolz1](pages/P/1476-poogle-toolz1.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 1 | 1 | 0 | 0 |
 | [poslink](pages/P/1485-poslink.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [poslink²](pages/P/1487-poslink2.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [poslinkfinal](pages/P/1486-poslinkfinal.md) | high (11) | category uncertain<br>type uncertain<br>author unknown<br>no readable text evidence | Scan readable text and old source-page labels to assign category/type. | 3 | 0 | 0 | 0 |
@@ -1921,7 +1921,8 @@ A sorted queue for metadata cleanup. High and medium entries should be reviewed 
 | [Quicky Gag](pages/Q/1565-quicky-gag.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [Quicky Gag3](pages/Q/1566-quicky-gag3.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [Raid~1](pages/R/1573-raid1.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
-| [Rampage Toolz 2.0](pages/R/1575-rampage-toolz-2-0.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 3 | 0 | 0 | 0 |
+| [Rampage Toolz](pages/R/1574-rampage-toolz.md) | medium (4) | matched external ZIP text to verify<br>web image lead needs screenshot match | Open the external ZIP text evidence page and promote reliable author/version/purpose clues. | 15 | 15 | 2 | 0 |
+| [Rampage Toolz 2.0](pages/R/1575-rampage-toolz-2-0.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 11 | 1 | 0 | 0 |
 | [rancid1](pages/R/1577-rancid1.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [RatTrap](pages/R/1584-rattrap.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [Remix C-Com Mp 3 Player Beta](pages/R/1605-remix-c-com-mp-3-player-beta.md) | medium (4) | author unknown<br>no readable text evidence | Search readmes, NFOs, source comments, and old-page text for an author clue. | 6 | 5 | 0 | 0 |
@@ -1985,7 +1986,6 @@ A sorted queue for metadata cleanup. High and medium entries should be reviewed 
 | [Punt in the 2001](pages/P/1533-punt-in-the-2001.md) | low (3) | sensitive historical category | Review metadata when more source evidence is found. | 4 | 0 | 0 | 0 |
 | [punt toolz 1.0](pages/P/1535-punt-toolz-1-0.md) | low (3) | sensitive historical category | Review metadata when more source evidence is found. | 1 | 0 | 0 | 0 |
 | [punt toolz 1.2](pages/P/1536-punt-toolz-1-2.md) | low (3) | sensitive historical category | Review metadata when more source evidence is found. | 1 | 0 | 0 | 0 |
-| [Rampage Toolz](pages/R/1574-rampage-toolz.md) | low (3) | no readable text evidence<br>web image lead needs screenshot match | Match the web image lead to the correct program page or screenshot entry. | 7 | 3 | 0 | 0 |
 | [Upsmm](pages/M/1280-upsmm.md) | low (3) | sensitive historical category | Review metadata when more source evidence is found. | 1 | 0 | 0 | 0 |
 | [animatrix idle by spermie](pages/A/0094-animatrix-idle-by-spermie.md) | low (2) | no old-web download or mirror lead | Search source link directories and Wayback for an original download URL. | 0 | 0 | 0 | 0 |
 | [Ashelp](pages/A/0160-ashelp.md) | low (2) | web image lead needs screenshot match | Match the web image lead to the correct program page or screenshot entry. | 4 | 3 | 0 | 0 |

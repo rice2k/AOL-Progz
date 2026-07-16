@@ -1,7 +1,7 @@
 window.AOL_PROGZ_MISSING_CANDIDATES = {
-  "generatedAt": "2026-07-16T19:58:16.979Z",
-  "candidateCount": 3105,
-  "readyCandidateCount": 334,
+  "generatedAt": "2026-07-16T21:33:04.413Z",
+  "candidateCount": 3111,
+  "readyCandidateCount": 336,
   "candidates": [
     {
       "key": "layout",
@@ -3867,7 +3867,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.oogle.net/rampage/setuprt22.exe",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
           "source": "Section 2",
-          "status": "candidate"
+          "status": "html-replay"
         }
       ],
       "readyLocalFiles": [
@@ -9931,6 +9931,56 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/simple-scribble.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "skin-elite",
+      "fileName": "skin_elite.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.net/rampage/skin_elite.zip",
+          "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+          "source": "User-supplied Oogle Rampage source leads",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/oogle-net/skin-elite-3ae954b5.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "skin-insane",
+      "fileName": "skin_insane.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.net/rampage/skin_insane.zip",
+          "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+          "source": "User-supplied Oogle Rampage source leads",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/oogle-net/skin-insane-e3c85f67.zip"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -17303,6 +17353,43 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "script-tutorial-doc",
+      "fileName": "script_tutorial1.doc",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.net/downloads/script_tutorial1.doc",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial1.doc",
+          "source": "Oogle Rampage script tutorials",
+          "status": "http-404"
+        },
+        {
+          "url": "http://www.oogle.net/downloads/script_tutorial2.doc",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial2.doc",
+          "source": "Oogle Rampage script tutorials",
+          "status": "http-404"
+        },
+        {
+          "url": "http://www.oogle.net/downloads/script_tutorial3.doc",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial3.doc",
+          "source": "Oogle Rampage script tutorials",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Oogle Rampage script tutorials"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 0
+    },
+    {
       "key": "sleep",
       "fileName": "sleep2.zip",
       "category": "unknown",
@@ -23602,13 +23689,13 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.cybernyse.com/downlowdz/imagescroll.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/imagescroll.zip",
           "source": "Section 2",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://24.185.191.87/progz/imagescroll.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/imagescroll.zip",
           "source": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "status": "candidate"
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
@@ -25878,7 +25965,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://am.net/lib/TOOLS/Google/picasa27.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Google/picasa27.exe",
           "source": "Google/",
-          "status": "candidate"
+          "status": "out-of-scope"
         }
       ],
       "readyLocalFiles": [],
@@ -67679,7 +67766,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://am.net/lib/TOOLS/Google/picasa39-setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Google/picasa39-setup.exe",
           "source": "Google/",
-          "status": "candidate"
+          "status": "out-of-scope"
         }
       ],
       "readyLocalFiles": [],
@@ -67704,7 +67791,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://am.net/lib/TOOLS/Google/picasaweb26.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Google/picasaweb26.exe",
           "source": "Google/",
-          "status": "candidate"
+          "status": "out-of-scope"
         }
       ],
       "readyLocalFiles": [],
@@ -70446,6 +70533,29 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "rampage-s-source",
+      "fileName": "rampagetools2source.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.com/download/rampagetools2source.zip",
+          "waybackUrl": "https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip",
+          "source": "User-supplied Oogle Rampage source leads",
+          "status": "html-replay"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "rapidhacker",
       "fileName": "RapidHackerv32.zip",
       "category": "unknown",
@@ -71871,6 +71981,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "rscript",
+      "fileName": "rscript.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.net/downloads/rscript.zip",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+          "source": "Oogle Rampage script tutorials",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Oogle Rampage script tutorials"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "rspano",
       "fileName": "rspano.zip",
       "category": "room buster",
@@ -71910,6 +72045,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "rt-src",
+      "fileName": "rt1_src.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.net/rt1source/rt1_src.zip",
+          "waybackUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+          "source": "Rampage Toolz 1.1 Source disclaimer",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Rampage Toolz 1.1 Source disclaimer"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],

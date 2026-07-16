@@ -28,6 +28,19 @@ const pages = [
     notes: "AIM progs download page captured by Wayback.",
   },
   {
+    name: "Oogle Rampage script tutorials",
+    url: "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+    kind: "Rampage Toolz scripting/source lead",
+    notes:
+      "Oogle tutorial page for Rampage Toolz 2.0 and the Rampage Script SDK. Preserves SDK, tutorial DOC, Rampage Toolz, and Rampage Toolz 1.1 source links.",
+  },
+  {
+    name: "Rampage Toolz 1.1 Source",
+    url: "https://web.archive.org/web/20010119175900/http://www.oogle.net/rt1source/",
+    kind: "Visual Basic source/tools",
+    notes: "Oogle page for Rampage Toolz 1.1 source material and related source-code pages.",
+  },
+  {
     name: "AOL-Progz.com",
     url: "https://web.archive.org/web/20010301094602/http://www.aol-progz.com:80/",
     kind: "AOL prog portal",
@@ -611,7 +624,7 @@ function linkKey(url) {
 
 function classify(url, text) {
   const value = `${url} ${text}`.toLowerCase();
-  if (/\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx)(?:[?#]|$)/i.test(url)) {
+  if (/\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx|doc)(?:[?#]|$)/i.test(url)) {
     return "download";
   }
   if (/\.(gif|png|jpe?g|bmp|webp)(?:[?#]|$)/i.test(url)) return "image";
@@ -667,7 +680,7 @@ function crawlUrlFor(link, page, seedHosts) {
   if (!link?.url || !["page", "prog resource", "link directory"].includes(link.type)) return false;
   const original = originalUrl(link.url);
   if (!/^https?:\/\//i.test(original)) return false;
-  if (/\.(zip|rar|7z|sit|hqx|gif|png|jpe?g|bmp|webp|exe|dll|ocx|swf)(?:$|[?#])/i.test(original)) return false;
+  if (/\.(zip|rar|7z|sit|hqx|gif|png|jpe?g|bmp|webp|exe|dll|ocx|swf|doc)(?:$|[?#])/i.test(original)) return false;
   if (isNoisePageUrl(link.url)) return false;
   const host = hostOfOriginal(link.url);
   const related = /(prog|tool|aol|aim|fader|punter|boot|room|buster|download|links|screenshot|skin|methodus|hell|crack|server|mmer|macro|scroll|c-com|ccom|dead ?aim|eclypse|fate|revolution)/i.test(

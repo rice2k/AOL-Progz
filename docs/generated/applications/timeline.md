@@ -19,8 +19,8 @@ This table summarizes the Wayback capture years represented by crawled source pa
 | Capture year | Pages | Links | Download links |
 | --- | --- | --- | --- |
 | 1999 | 1 | 9 | 0 |
-| 2000 | 4 | 23 | 4 |
-| 2001 | 174 | 12272 | 910 |
+| 2000 | 10 | 115 | 10 |
+| 2001 | 170 | 12246 | 910 |
 | 2002 | 67 | 3570 | 69 |
 | 2003 | 113 | 1780 | 103 |
 | 2004 | 25 | 1717 | 93 |

@@ -206,6 +206,20 @@ function originalUrl(url) {
   return match?.[1] || url;
 }
 
+function canonicalUrl(url) {
+  const value = clean(originalUrl(url));
+  if (!value) return "";
+  try {
+    const parsed = new URL(value);
+    parsed.hash = "";
+    parsed.protocol = parsed.protocol.toLowerCase();
+    parsed.hostname = parsed.hostname.toLowerCase();
+    return parsed.href.replace(/\/$/, "").toLowerCase();
+  } catch {
+    return value.replace(/\/$/, "").toLowerCase();
+  }
+}
+
 function classifyUrl(url) {
   if (/\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx)(?:[?#]|$)/i.test(url)) return "download";
   if (/\.(gif|png|jpe?g|bmp|webp)(?:[?#]|$)/i.test(url)) return "image";
@@ -369,15 +383,28 @@ function buildProgramMatcher(programs, inferredById) {
   const sortedKeys = [...keyMap.keys()]
     .filter((key) => key.length >= 5 && !genericKeys.has(key))
     .sort((a, b) => b.length - a.length);
+  const programById = new Map(programs.map((program) => [program.id, program]));
+  const rampageProgram = programById.get("prog-1574-rampage-toolz");
   return function matchProgram(...values) {
+    const joinedValues = values.filter(Boolean).join(" ");
+    if (
+      rampageProgram &&
+      /(oogle\.net\/rampage\/skin_|oogle\.net\/rt1source\/rt1_src|oogle\.net\/downloads\/rscript|oogle\.net\/downloads\/script_tutorial|oogle\.net\/rampage\/setuprt22|oogle\.com\/download\/rampagetools2source)/i.test(
+        joinedValues,
+      )
+    ) {
+      return { program: rampageProgram, matchedBy: "manual-route:oogle-rampage" };
+    }
     const candidateKeys = values
       .filter(Boolean)
       .flatMap((value) => [normalizeProgramKey(value), normalizeProgramKey(fileStem(value))])
       .filter((key) => key.length >= 3 && !genericKeys.has(key));
+    const isSkinPayload = candidateKeys.some((key) => /^skin[a-z0-9]+/.test(key));
     for (const key of candidateKeys) {
       const exact = keyMap.get(key);
       if (exact?.length === 1) return { program: exact[0], matchedBy: `exact:${key}` };
     }
+    if (isSkinPayload) return null;
     for (const key of candidateKeys.filter((item) => item.length >= 5)) {
       for (const known of sortedKeys) {
         if (known.length < 5) continue;
@@ -421,6 +448,7 @@ function addManualEvidence(perProgram) {
   const rampageIds = ["prog-1574-rampage-toolz", "prog-1575-rampage2"];
   const sourceName = "User-supplied Rampage/Oogle reference";
   const sourceUrl = "https://web.archive.org/web/20010212021145/http://www.oogle.net/main.htm";
+  const tutorialUrl = "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm";
   const mention = {
     sourceName,
     sourceUrl,
@@ -433,6 +461,19 @@ function addManualEvidence(perProgram) {
     inferredAolVersion: "",
     summary:
       "The supplied Oogle/Rampage reference identifies Rampage Toolz, including version 2.0, as Oogle / Justin Tunney work and points to archived Oogle resources.",
+  };
+  const tutorialMention = {
+    sourceName: "Oogle Rampage script tutorials",
+    sourceUrl: tutorialUrl,
+    label: "Rampage Toolz 2.0 and Rampage Script SDK tutorials",
+    url: tutorialUrl,
+    originalUrl: "http://www.oogle.net/o_tutorial.htm",
+    kind: "manual source/tutorial evidence",
+    matchedBy: "manual:rampage-oogle-tutorial",
+    inferredAuthor: "Oogle (Justin Tunney)",
+    inferredAolVersion: "",
+    summary:
+      "The archived Oogle tutorial page says Oogle wrote three tutorial files that shipped with Rampage Toolz 2.0 and the Rampage Script SDK. It lists tutorial sizes of 645 KB, 1,274 KB, and 10 KB, and links the SDK, tutorial DOC files, Rampage Toolz 2.0, and the Rampage Toolz 1.1 source page.",
   };
   const sourceZip = {
     sourceName,
@@ -452,6 +493,62 @@ function addManualEvidence(perProgram) {
     kind: "manual old-web download lead",
     matchedBy: "manual:rampage-oogle",
   };
+  const rt1Source = {
+    sourceName: "Oogle Rampage script tutorials",
+    sourceUrl: tutorialUrl,
+    label: "Rampage Toolz 1.1 source page",
+    url: "https://web.archive.org/web/20010119175900/http://www.oogle.net/rt1source/",
+    originalUrl: "http://www.oogle.net/rt1source/",
+    kind: "manual old-web source lead",
+    matchedBy: "manual:rampage-oogle-tutorial",
+  };
+  const rt1SourceZip = {
+    sourceName: "Oogle Rampage script tutorials",
+    sourceUrl: "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/dlit.htm",
+    label: "Rampage Toolz 1.1 source ZIP",
+    url: "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+    originalUrl: "http://www.oogle.net/rt1source/rt1_src.zip",
+    kind: "manual old-web source-code download lead",
+    matchedBy: "manual:rampage-oogle-tutorial",
+  };
+  const rampageSdk = {
+    sourceName: "Oogle Rampage script tutorials",
+    sourceUrl: tutorialUrl,
+    label: "Rampage Script SDK",
+    url: "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+    originalUrl: "http://www.oogle.net/downloads/rscript.zip",
+    kind: "manual old-web download lead",
+    matchedBy: "manual:rampage-oogle-tutorial",
+  };
+  const tutorialDocs = [1, 2, 3].map((number) => ({
+    sourceName: "Oogle Rampage script tutorials",
+    sourceUrl: tutorialUrl,
+    label: `Rampage Script Tutorial #${number}`,
+    url: `https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial${number}.doc`,
+    originalUrl: `http://www.oogle.net/downloads/script_tutorial${number}.doc`,
+    kind: "manual old-web tutorial lead",
+    matchedBy: "manual:rampage-oogle-tutorial",
+  }));
+  const skinLinks = [
+    {
+      sourceName: "Oogle Rampage script tutorials",
+      sourceUrl: tutorialUrl,
+      label: "Rampage Toolz elite skin",
+      url: "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+      originalUrl: "http://www.oogle.net/rampage/skin_elite.zip",
+      kind: "manual old-web download lead",
+      matchedBy: "manual:rampage-oogle-tutorial",
+    },
+    {
+      sourceName: "Oogle Rampage script tutorials",
+      sourceUrl: tutorialUrl,
+      label: "Rampage Toolz insane skin",
+      url: "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+      originalUrl: "http://www.oogle.net/rampage/skin_insane.zip",
+      kind: "manual old-web download lead",
+      matchedBy: "manual:rampage-oogle-tutorial",
+    },
+  ];
 
   for (const id of rampageIds) {
     const record = perProgram[id];
@@ -464,8 +561,14 @@ function addManualEvidence(perProgram) {
       record.bestNameSource = sourceName;
     }
     addLimited(record.webMentions, mention, (item) => `${item.sourceName}|${item.label}|${item.url}`, 16);
+    addLimited(record.webMentions, tutorialMention, (item) => `${item.sourceName}|${item.label}|${item.url}`, 16);
     addLimited(record.webDownloadLinks, sourceZip, (item) => item.originalUrl || item.url, 30);
     addLimited(record.webDownloadLinks, setupExe, (item) => item.originalUrl || item.url, 30);
+    addLimited(record.webDownloadLinks, rt1Source, (item) => item.originalUrl || item.url, 30);
+    addLimited(record.webDownloadLinks, rt1SourceZip, (item) => item.originalUrl || item.url, 30);
+    addLimited(record.webDownloadLinks, rampageSdk, (item) => item.originalUrl || item.url, 30);
+    for (const doc of tutorialDocs) addLimited(record.webDownloadLinks, doc, (item) => item.originalUrl || item.url, 30);
+    for (const skin of skinLinks) addLimited(record.webDownloadLinks, skin, (item) => item.originalUrl || item.url, 30);
   }
 }
 
@@ -663,10 +766,19 @@ async function main() {
       );
     }
   }
+  const recoveredByUrl = new Map();
+  for (const item of externalDownloads.downloads || []) {
+    for (const url of [item.originalUrl, item.waybackUrl, item.downloadUrl]) {
+      const key = canonicalUrl(url);
+      if (key) recoveredByUrl.set(key, item);
+    }
+  }
   for (const candidate of missingCandidates.candidates || []) {
     const match = matchProgram(candidate.fileName || candidate.key, ...(candidate.mirrors || []).map((mirror) => mirror.url || mirror.waybackUrl));
     if (!match) continue;
     for (const mirror of candidate.mirrors || []) {
+      const recovered =
+        recoveredByUrl.get(canonicalUrl(mirror.url)) || recoveredByUrl.get(canonicalUrl(mirror.waybackUrl)) || {};
       addLimited(
         perProgram[match.program.id].mirrorLinks,
         {
@@ -674,6 +786,7 @@ async function main() {
           label: candidate.fileName || candidate.key,
           originalUrl: mirror.url || "",
           waybackUrl: mirror.waybackUrl || "",
+          localPath: recovered.localPath || "",
           status: mirror.status || "",
           matchedBy: match.matchedBy,
         },

@@ -1,11 +1,11 @@
 window.AOL_PROGZ_WEB_ASSETS = {
-  "generatedAt": "2026-07-16T19:02:22.325Z",
-  "assetCount": 895,
+  "generatedAt": "2026-07-16T21:32:49.996Z",
+  "assetCount": 897,
   "readyCount": 168,
   "byStatus": {
-    "http-404": 697,
+    "http-404": 698,
     "ready": 168,
-    "not-image": 19,
+    "not-image": 20,
     "failed": 11
   },
   "assets": [
@@ -9981,6 +9981,28 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "localPath": "assets/web-resources/justinakapaste-com/running-man.gif",
       "status": "ready",
       "size": 2586597
+    },
+    {
+      "text": "doc.jpg",
+      "url": "https://web.archive.org/web/20001205033300im_/http://www.oogle.net/images/doc.jpg",
+      "originalUrl": "http://www.oogle.net/images/doc.jpg",
+      "type": "image",
+      "pageName": "Oogle Rampage script tutorials",
+      "pageUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "text": "oasic.jpg",
+      "url": "https://web.archive.org/web/20001205033300im_/http://www.oogle.net/images/oasic.jpg",
+      "originalUrl": "http://www.oogle.net/images/oasic.jpg",
+      "type": "image",
+      "pageName": "Oogle Rampage script tutorials",
+      "pageUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+      "localPath": "",
+      "status": "not-image",
+      "size": 0
     }
   ]
 };

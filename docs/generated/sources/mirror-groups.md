@@ -103,7 +103,7 @@ Mirror groups preserve multiple original download URLs for the same or similarly
 | punt2000-zip | 5 | 0 | unknown |
 | punt2001-zip | 5 | 0 | unknown |
 | quadform-zip | 5 | 0 | unknown |
-| rampage-zip | 5 | 0 | unknown |
+| rampage-zip | 5 | 1 | unknown |
 | roombuster-zip | 5 | 0 | unknown |
 | scrolls-zip | 5 | 0 | unknown |
 | scscroll-zip | 5 | 0 | unknown |
@@ -1744,6 +1744,8 @@ Mirror groups preserve multiple original download URLs for the same or similarly
 | shitclub-zip | 1 | 1 | unknown |
 | silkboxers-zip | 1 | 1 | unknown |
 | simple-scribble-zip | 1 | 1 | unknown |
+| skin-elite-zip | 1 | 1 | unknown |
+| skin-insane-zip | 1 | 1 | unknown |
 | smilebot-exe | 1 | 1 | unknown |
 | smiley-exe | 1 | 1 | unknown |
 | smokin37-zip | 1 | 1 | unknown |

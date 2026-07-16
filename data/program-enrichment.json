@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:08:46.849Z",
+  "generatedAt": "2026-07-16T22:11:16.978Z",
   "programCount": 2139,
   "programsWithImprovedNames": 519,
   "programsWithInferredAuthors": 10,
@@ -13,8 +13,8 @@
   "programsWithWebMentions": 7,
   "programsWithWebDownloadLinks": 2010,
   "programsWithWebImageLinks": 80,
-  "programsWithMirrorLinks": 979,
-  "programsWithExternalArchiveTextEvidence": 50,
+  "programsWithMirrorLinks": 981,
+  "programsWithExternalArchiveTextEvidence": 51,
   "fetchedDetails": [
     {
       "name": "AOLUnderground.com ProGGieS",
@@ -2015,6 +2015,7 @@
           "label": "abomination.zip",
           "originalUrl": "http://www.cybernyse.com/abomination.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/abomination.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "exact:abomination"
         },
@@ -2023,6 +2024,7 @@
           "label": "abomination.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimabominationv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimabominationv2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "exact:abomination"
         },
@@ -2031,6 +2033,7 @@
           "label": "abomination.zip",
           "originalUrl": "http://24.185.191.87/progz/aimabominationv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimabominationv2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "exact:abomination"
         }
@@ -3265,6 +3268,7 @@
           "label": "clock.zip",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/9000/clock.zip",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/9000/clock.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:alarm-clock-win-xp-yr-08"
         },
@@ -3273,6 +3277,7 @@
           "label": "clock.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:alarm-clock-win-xp-yr-08"
         },
@@ -3281,6 +3286,7 @@
           "label": "clock.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/4803/clock.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/4803/clock.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:alarm-clock-win-xp-yr-08"
         },
@@ -3289,6 +3295,7 @@
           "label": "clock.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:alarm-clock-win-xp-yr-08"
         }
@@ -3379,6 +3386,7 @@
           "label": "AlienSkin.zip",
           "originalUrl": "http://server39.hypermart.net/wipeout/AlienSkin.zip",
           "waybackUrl": "https://web.archive.org/web/20010220180159/http://server39.hypermart.net/wipeout/AlienSkin.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:alien"
         }
@@ -4021,6 +4029,7 @@
           "label": "americaonfireplatinum.zip",
           "originalUrl": "http://www.cybernyse.com/americaonfireplatinum.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/americaonfireplatinum.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:americaonfire"
         }
@@ -4628,6 +4637,7 @@
           "label": "andone.zip",
           "originalUrl": "http://www.cybernyse.com/andone.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/andone.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:andonefinal-mp-3-c-com"
         }
@@ -5204,6 +5214,7 @@
           "label": "table84.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/table84.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/table84.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:rivens-unbeatable-anti"
         },
@@ -5212,6 +5223,7 @@
           "label": "table84.zip",
           "originalUrl": "http://lenshellarchive.com/html/table.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/table.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:rivens-unbeatable-anti"
         },
@@ -5220,6 +5232,7 @@
           "label": "riven.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolantis/riven.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/riven.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:rivens-unbeatable-anti"
         }
@@ -5322,6 +5335,7 @@
           "label": "lamer.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:anti-lamer-toolz-1-c-com"
         },
@@ -5330,6 +5344,7 @@
           "label": "lamer.zip",
           "originalUrl": "http://click-online2000.com/progz/LamerToolz.zip",
           "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/LamerToolz.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:anti-lamer-toolz-1-c-com"
         }
@@ -5775,6 +5790,7 @@
           "label": "aolinker.zip",
           "originalUrl": "http://www.cybernyse.com/aolinker.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aolinker.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "exact:aolinker"
         }
@@ -6454,6 +6470,7 @@
           "label": "close.exe",
           "originalUrl": "http://am.net/lib/TOOLS/AM/close.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/AM/close.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0129-aol-5-update-closer"
         }
@@ -6985,6 +7002,7 @@
           "label": "aimaimutopia.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimutopia.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopia.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -6993,6 +7011,7 @@
           "label": "aimaimutopia.zip",
           "originalUrl": "http://24.185.191.87/progz/aimaimutopia.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimutopia.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -7001,6 +7020,7 @@
           "label": "aimaimutopia.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -7009,6 +7029,7 @@
           "label": "aimaimutopia.zip",
           "originalUrl": "http://24.185.191.87/progz/aimaimutopiav2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimutopiav2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -7017,6 +7038,7 @@
           "label": "unknown4.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/unknown4.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/unknown4.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -7025,6 +7047,7 @@
           "label": "unknown4.zip",
           "originalUrl": "http://24.185.191.87/progz/unknown4.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/unknown4.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -7033,6 +7056,7 @@
           "label": "unknown4.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/unknown.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/unknown.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -7041,6 +7065,7 @@
           "label": "metroididle.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/metroididle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/metroididle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -7049,6 +7074,7 @@
           "label": "pibet2.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/pibet2.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pibet2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         }
@@ -7958,6 +7984,7 @@
           "label": "ARMAGGEDON.ZIP",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/6020/ARMAGGEDON.ZIP",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/6020/ARMAGGEDON.ZIP",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:armag"
         }
@@ -8234,6 +8261,7 @@
           "label": "visasciisource.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/visasciisource.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/visasciisource.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:ascii"
         }
@@ -8384,6 +8412,7 @@
           "label": "firecatasciishop.zip",
           "originalUrl": "http://www.cybernyse.com/firecatasciishop.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/firecatasciishop.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:asciishop"
         }
@@ -8599,6 +8628,7 @@
           "label": "n1assist.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/n1assist.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/n1assist.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:assist"
         },
@@ -8607,6 +8637,7 @@
           "label": "n1assist.zip",
           "originalUrl": "http://24.185.191.87/progz/n1assist.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/n1assist.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:assist"
         },
@@ -8615,6 +8646,7 @@
           "label": "eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
           "originalUrl": "http://am.net/lib/TOOLS/NetworkManagement/eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/NetworkManagement/eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:assist"
         }
@@ -8769,6 +8801,7 @@
           "label": "atomccoms.zip",
           "originalUrl": "http://www.cybernyse.com/atomccoms.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/atomccoms.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:atomccom"
         }
@@ -11986,6 +12019,7 @@
           "label": "blackice.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/blackice1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackice1.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:0239-blackice-pwsd"
         }
@@ -12230,6 +12264,7 @@
           "label": "aimblackoutbeta.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:blackout"
         },
@@ -12238,6 +12273,7 @@
           "label": "aimblackoutbeta.zip",
           "originalUrl": "http://24.185.191.87/progz/aimblackoutbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimblackoutbeta.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:blackout"
         }
@@ -12900,6 +12936,7 @@
           "label": "blindidle.zip",
           "originalUrl": "http://www.cybernyse.com/blindidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blindidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:blind"
         },
@@ -12908,6 +12945,7 @@
           "label": "wblind.zip",
           "originalUrl": "http://server39.hypermart.net/wipeout/wblind.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025545/http://server39.hypermart.net/wipeout/wblind.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:blind"
         }
@@ -15109,6 +15147,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de/angelbubbles27/images/netbuster131.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15117,6 +15156,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.angelfire.com/scifi/23451/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi/23451/netbuster.zip",
+          "localPath": "files/external/angelfire-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15125,6 +15165,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.angelfire.com/nm/weezer/images/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nm/weezer/images/netbuster.zip",
+          "localPath": "files/external/angelfire-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15133,6 +15174,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/activex/133/upload/netbuster1_31.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15141,6 +15183,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/altavista/746/netbuster1_12.zip",
+          "localPath": "files/external/fortunecity-com/netbuster1-12.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15149,6 +15192,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/aptiva/1189/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15157,6 +15201,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bitmap/774/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15165,6 +15210,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/bradbury/200/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15173,6 +15219,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cache/191/netbuster1_31.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15181,6 +15228,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/calc/228/Trojans/netbuster1_31.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15189,6 +15237,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/database/766/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/database/766/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15197,6 +15246,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/deschutes/783/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15205,6 +15255,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/download/1291/hacking/trojans/netbuster1.31.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15213,6 +15264,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15221,6 +15273,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gates/154/netbuster1_31.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15229,6 +15282,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/gpfault/622/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15237,6 +15291,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/graphical/528/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15245,6 +15300,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/klamath/816/netbuster1_30.zip",
+          "localPath": "files/external/angelfire-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15253,6 +15309,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memory/186/netbuster1_3.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15261,6 +15318,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memphis/779/netbuster1_31.zip",
+          "localPath": "files/external/angelfire-com/netbuster131.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15269,6 +15327,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/neil/767/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         },
@@ -15277,6 +15336,7 @@
           "label": "netbuster131.zip",
           "originalUrl": "http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/overdrive/1124/netbuster.zip",
+          "localPath": "files/external/fortunecity-com/netbuster.zip",
           "status": "ready",
           "matchedBy": "loose:break"
         }
@@ -15829,6 +15889,7 @@
           "label": "buddy.zip",
           "originalUrl": "http://server39.hypermart.net/wipeout/buddy.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:buddy-list-saver"
         },
@@ -15837,6 +15898,7 @@
           "label": "saver.ZIP",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:buddy-list-saver"
         }
@@ -17018,6 +17080,7 @@
           "label": "g21_c_compiler_tips.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:c-com"
         }
@@ -17147,6 +17210,7 @@
           "label": "mcspammer.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:cspam"
         },
@@ -17155,6 +17219,7 @@
           "label": "spamzilla.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:c-spam"
         }
@@ -18376,6 +18441,7 @@
           "label": "ccomsbeta2.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
+          "localPath": "files/external/lenshellarchive-com/ccomsbeta3.zip",
           "status": "ready",
           "matchedBy": "loose:wccomsbeta2aol4-5"
         }
@@ -19069,6 +19135,7 @@
           "label": "colorcarnage.zip",
           "originalUrl": "http://www.cybernyse.com/colorcarnage.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/colorcarnage.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:color"
         }
@@ -19192,6 +19259,7 @@
           "label": "causticfinal.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimcausticfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcausticfinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:cfinal"
         },
@@ -19200,6 +19268,7 @@
           "label": "causticfinal.zip",
           "originalUrl": "http://24.185.191.87/progz/aimcausticfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcausticfinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:cfinal"
         }
@@ -19316,6 +19385,7 @@
           "label": "qchain.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/qchain.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/qchain.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:chain"
         }
@@ -20779,6 +20849,7 @@
           "label": "cheezy.zip",
           "originalUrl": "http://www.cybernyse.com/cheezy.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/cheezy.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0396-cheezypoofz-talker-shoppe"
         }
@@ -21230,6 +21301,7 @@
           "label": "chrome.zip",
           "originalUrl": "http://www.cybernyse.com/chrome.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chrome.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0405-chrome-tools-beta"
         }
@@ -21640,6 +21712,7 @@
           "label": "suicidle.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/suicidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/suicidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:cidle"
         },
@@ -21648,6 +21721,7 @@
           "label": "suicidle.zip",
           "originalUrl": "http://24.185.191.87/progz/suicidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/suicidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:cidle"
         },
@@ -21656,6 +21730,7 @@
           "label": "tncidle.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/tncidle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tncidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:cidle"
         }
@@ -22196,6 +22271,7 @@
           "label": "AOLDNLD.EXE",
           "originalUrl": "http://download.newaol.com/clients/coffe/aolcombundle1200a/AOLDNLD.EXE",
           "waybackUrl": "http://download.newaol.com/clients/coffe/aolcombundle1200a/AOLDNLD.EXE",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         },
@@ -22204,6 +22280,7 @@
           "label": "AOLDNLD.EXE",
           "originalUrl": "https://archive.org/download/aoldnld-1-5/AOLDNLD_1_5.exe",
           "waybackUrl": "https://archive.org/download/aoldnld-1-5/AOLDNLD_1_5.exe",
+          "localPath": "files/external/archive-org/aoldnld-1-5-dce60764.exe",
           "status": "ready",
           "matchedBy": "loose:client"
         },
@@ -22212,6 +22289,7 @@
           "label": "VMware-viclient-all-4.1.0-345043.exe",
           "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-4.1.0-345043.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-4.1.0-345043.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         },
@@ -22220,6 +22298,7 @@
           "label": "VMware-viclient-all-4.1.0-345043.exe",
           "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-5.1.0-786111.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-5.1.0-786111.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         },
@@ -22228,6 +22307,7 @@
           "label": "AirDroid_Desktop_Client_3.3.0.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Android/AirDroid_Desktop_Client_3.3.0.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Android/AirDroid_Desktop_Client_3.3.0.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         },
@@ -22236,6 +22316,7 @@
           "label": "ClientRemote.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Symantec/ClientRemote.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Symantec/ClientRemote.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         },
@@ -22244,6 +22325,7 @@
           "label": "clientremotefiles.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Symantec/clientremotefiles.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Symantec/clientremotefiles.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         },
@@ -22252,6 +22334,7 @@
           "label": "dfs_v41_win95client.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_win95client.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_win95client.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         },
@@ -22260,6 +22343,7 @@
           "label": "VMware-viclient.exe",
           "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:client"
         }
@@ -22456,6 +22540,7 @@
           "label": "dvdcloner.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:cloner"
         }
@@ -22855,6 +22940,7 @@
           "label": "REBOOT.EXE",
           "originalUrl": "http://am.net/lib/TOOLS/AM/REBOOT.EXE",
           "waybackUrl": "http://am.net/lib/TOOLS/AM/REBOOT.EXE",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:coldreboot"
         }
@@ -23725,6 +23811,7 @@
           "label": "APC_Device_IP_Configuration_Wizard.exe",
           "originalUrl": "http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:config"
         },
@@ -23733,6 +23820,7 @@
           "label": "HPDriverConfigurationUtility.zip",
           "originalUrl": "http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:config"
         }
@@ -27270,6 +27358,7 @@
           "label": "CLICKER.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0517-dark-side-clicker"
         }
@@ -28207,6 +28296,7 @@
           "label": "deathcom3.zip",
           "originalUrl": "http://www.cybernyse.com/deathcom3.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:death"
         },
@@ -28215,6 +28305,7 @@
           "label": "DeathWishDog.ZIP",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:death"
         },
@@ -28223,6 +28314,7 @@
           "label": "silverdeath.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:death"
         },
@@ -28231,6 +28323,7 @@
           "label": "touchofdeath.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:death"
         }
@@ -29187,6 +29280,7 @@
           "label": "BHODemon.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:demon"
         }
@@ -29723,6 +29817,7 @@
           "label": "wickeddestruction.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/wickeddestruction.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wickeddestruction.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:destruction"
         },
@@ -29731,6 +29826,7 @@
           "label": "wickeddestruction.zip",
           "originalUrl": "http://24.185.191.87/progz/wickeddestruction.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wickeddestruction.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:destruction"
         }
@@ -31114,6 +31210,7 @@
           "label": "Msg%20Direct.zip",
           "originalUrl": "http://aimthings.com/aimfilez/Msg%20Direct.zip",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Msg%20Direct.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:direct"
         }
@@ -33068,6 +33165,7 @@
           "label": "killer.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0620-dupe-killer"
         },
@@ -33076,6 +33174,7 @@
           "label": "killer.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0620-dupe-killer"
         }
@@ -34097,6 +34196,7 @@
           "label": "aimunsakredfinal.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:edfinal"
         },
@@ -34105,6 +34205,7 @@
           "label": "aimunsakredfinal.zip",
           "originalUrl": "http://24.185.191.87/progz/aimunsakredfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimunsakredfinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:edfinal"
         }
@@ -34182,6 +34283,7 @@
           "label": "credits.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:edits"
         }
@@ -34497,6 +34599,7 @@
           "label": "electric.zip",
           "originalUrl": "http://www.cybernyse.com/electric.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/electric.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0646-electric-idle"
         }
@@ -34741,6 +34844,7 @@
           "label": "element.sit",
           "originalUrl": "http://www.cybernyse.com/element.sit",
           "waybackUrl": "https://web.archive.org/web/20010202193100/http://www.cybernyse.com/element.sit",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:elements-of-destruction-ownz-all"
         }
@@ -35638,6 +35742,7 @@
           "label": "aimendlesscommandsv1.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:endless"
         },
@@ -35646,6 +35751,7 @@
           "label": "aimendlesscommandsv1.zip",
           "originalUrl": "http://24.185.191.87/progz/aimendlesscommandsv1.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimendlesscommandsv1.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:endless"
         }
@@ -37031,6 +37137,7 @@
           "label": "eternalccomsv3.zip",
           "originalUrl": "http://www.cybernyse.com/eternalccomsv3.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/eternalccomsv3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:eternal"
         }
@@ -39962,6 +40069,7 @@
           "label": "fatal%20error%20by%20tasz%20Palette.hqx",
           "originalUrl": "http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx",
           "waybackUrl": "https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:fatal-error-2000-chat-punter-yr-2k"
         }
@@ -40382,6 +40490,7 @@
           "label": "FPFKSetup.exe",
           "originalUrl": "http://am.net/lib/TOOLS/FPFKSetup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/FPFKSetup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:fedex"
         },
@@ -40390,6 +40499,7 @@
           "label": "FPFKSetup.exe",
           "originalUrl": "http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe",
           "waybackUrl": "http://downloads.van.fedex.com/fpfk/application/FPFKSetup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:fedex"
         },
@@ -40398,6 +40508,7 @@
           "label": "Setup_File_Print_FedEx_Kinkos.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:fedex"
         }
@@ -40539,6 +40650,7 @@
           "label": "progfiles.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/progfiles.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/progfiles.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:0768-filesafe"
         },
@@ -40547,6 +40659,7 @@
           "label": "progfiles.zip",
           "originalUrl": "http://www16.geocities.com:80/SiliconValley/8055/files.zip",
           "waybackUrl": "http://www16.geocities.com:80/SiliconValley/8055/files.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0768-filesafe"
         }
@@ -41447,6 +41560,7 @@
           "label": "aimflooder.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimflooder.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimflooder.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:flood"
         },
@@ -41455,6 +41569,7 @@
           "label": "aimflooder.zip",
           "originalUrl": "http://24.185.191.87/progz/aimflooder.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflooder.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:flood"
         },
@@ -41463,6 +41578,7 @@
           "label": "ultraflood12.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:flood"
         },
@@ -41471,6 +41587,7 @@
           "label": "untamedflood.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/untamedflood.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/untamedflood.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:flood"
         }
@@ -42076,7 +42193,7 @@
           "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
           "localPath": "",
-          "status": "too-large",
+          "status": "out-of-scope",
           "matchedBy": "loose:fssetup"
         }
       ],
@@ -42625,6 +42742,7 @@
           "label": "i2fusiontoolbox.zip",
           "originalUrl": "http://www.cybernyse.com/i2fusiontoolbox.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:fusion"
         }
@@ -44115,6 +44233,7 @@
           "label": "Degeneration%20X%201.0%20palette.hqx",
           "originalUrl": "http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx",
           "waybackUrl": "https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:generation-x"
         }
@@ -44186,6 +44305,7 @@
           "label": "aimselectivegenocidev3.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:genocide"
         },
@@ -44194,6 +44314,7 @@
           "label": "aimselectivegenocidev3.zip",
           "originalUrl": "http://24.185.191.87/progz/aimselectivegenocidev3.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimselectivegenocidev3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:genocide"
         }
@@ -45209,6 +45330,7 @@
           "label": "vb40016.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
           "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:golden"
         },
@@ -45217,6 +45339,7 @@
           "label": "vb40016.zip",
           "originalUrl": "http://www.aimfilez.com/files/missing/vb40016.dll",
           "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll",
+          "localPath": "files/external/aimfilez-com/vb40016-c8eb6c1a.dll",
           "status": "ready",
           "matchedBy": "loose:golden"
         },
@@ -45225,6 +45348,7 @@
           "label": "vb40016.zip",
           "originalUrl": "http://www.aimfilez.com/files/missing/vb40032.dll",
           "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll",
+          "localPath": "files/external/aimfilez-com/vb40032-f6349a6a.dll",
           "status": "ready",
           "matchedBy": "loose:golden"
         },
@@ -45233,6 +45357,7 @@
           "label": "vb40016.zip",
           "originalUrl": "http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip",
+          "localPath": "files/external/angelfire-com/vb3.zip",
           "status": "ready",
           "matchedBy": "loose:golden"
         },
@@ -45241,6 +45366,7 @@
           "label": "vb40016.zip",
           "originalUrl": "http://www.coltpro.net/files3/missings/VB40032.DLL",
           "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL",
+          "localPath": "files/external/coltpro-net/vb40032-213ca90f.dll",
           "status": "ready",
           "matchedBy": "loose:golden"
         },
@@ -45249,6 +45375,7 @@
           "label": "vb40016.zip",
           "originalUrl": "http://www.angelfire.com/biz7/free_things/vb.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip",
+          "localPath": "files/external/angelfire-com/vb-6eb165ee.zip",
           "status": "ready",
           "matchedBy": "loose:golden"
         },
@@ -45257,6 +45384,7 @@
           "label": "goldenbutterfly.ZIP",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:golden"
         }
@@ -46011,6 +46139,7 @@
           "label": "gothicwithdll.zip",
           "originalUrl": "http://www.cybernyse.com/gothicwithdll.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:gothic"
         }
@@ -46606,6 +46735,7 @@
           "label": "aimmeangreen.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimmeangreen.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmeangreen.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:green"
         },
@@ -46614,6 +46744,7 @@
           "label": "aimmeangreen.zip",
           "originalUrl": "http://24.185.191.87/progz/aimmeangreen.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmeangreen.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:green"
         }
@@ -46980,6 +47111,7 @@
           "label": "hacker12.zip",
           "originalUrl": "http://geocities.com/SiliconValley/2072/hacker12.zip",
           "waybackUrl": "http://geocities.com/SiliconValley/2072/hacker12.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:hackers-toolz-1-0-and-8-0"
         }
@@ -47501,6 +47633,7 @@
           "label": "aimproghavoksaimprog.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:havok"
         },
@@ -47509,6 +47642,7 @@
           "label": "aimproghavoksaimprog.zip",
           "originalUrl": "http://24.185.191.87/progz/aimproghavoksaimprog.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:havok"
         },
@@ -47517,6 +47651,7 @@
           "label": "Mac%20Havok%20Gold%20Palette.hqx",
           "originalUrl": "http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx",
           "waybackUrl": "https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:havok"
         }
@@ -47772,6 +47907,7 @@
           "label": "halfbaked.zip",
           "originalUrl": "http://www.cybernyse.com/halfbaked.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/halfbaked.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:baked"
         }
@@ -50234,6 +50370,7 @@
           "label": "hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
           "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
           "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:hydro"
         }
@@ -50656,6 +50793,7 @@
           "label": "hello.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/hello.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/hello.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:hellonearth"
         }
@@ -53002,6 +53140,7 @@
           "label": "ieeto.zip",
           "originalUrl": "http://www.cybernyse.com/ieeto.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/ieeto.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:0988-ieeto-idler"
         }
@@ -54014,6 +54153,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54022,6 +54162,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://24.185.191.87/progz/aimburningaimtoolzv20.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimtoolzv20.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54030,6 +54171,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54038,6 +54180,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://24.185.191.87/progz/aimburningaimtoolzv25.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimtoolzv25.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54046,6 +54189,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54054,6 +54198,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://24.185.191.87/progz/aimburningaimtoolzv30.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimtoolzv30.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54062,6 +54207,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimv1.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimv1.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54070,6 +54216,7 @@
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://24.185.191.87/progz/aimburningaimv1.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimv1.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54078,6 +54225,7 @@
           "label": "aimfuryaim.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimfuryaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaim.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54086,6 +54234,7 @@
           "label": "aimfuryaim.zip",
           "originalUrl": "http://24.185.191.87/progz/aimfuryaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimfuryaim.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54094,6 +54243,7 @@
           "label": "aimfuryaim.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:imtoolz"
         },
@@ -54102,6 +54252,7 @@
           "label": "aimfuryaim.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54110,6 +54261,7 @@
           "label": "aimfuryaim.zip",
           "originalUrl": "http://24.185.191.87/progz/aimfuryaimtoolzv33.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimfuryaimtoolzv33.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54118,6 +54270,7 @@
           "label": "aimfuryaim.zip",
           "originalUrl": "http://www.oogle.net/downloads/progs/furyaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/furyaim.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:imtoolz"
         },
@@ -54126,6 +54279,7 @@
           "label": "aimsk8saimtoolzv21.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54134,6 +54288,7 @@
           "label": "aimsk8saimtoolzv21.zip",
           "originalUrl": "http://24.185.191.87/progz/aimsk8saimtoolzv21.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsk8saimtoolzv21.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54142,6 +54297,7 @@
           "label": "aimsk8saimtoolzv21.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/sk8stoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/sk8stoolz.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54150,6 +54306,7 @@
           "label": "aimbloodaimtoolz.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54158,6 +54315,7 @@
           "label": "aimbloodaimtoolz.zip",
           "originalUrl": "http://24.185.191.87/progz/aimbloodaimtoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbloodaimtoolz.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54166,6 +54324,7 @@
           "label": "aimnashsaimtoolzv2.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54174,6 +54333,7 @@
           "label": "aimnashsaimtoolzv2.zip",
           "originalUrl": "http://24.185.191.87/progz/aimnashsaimtoolzv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimnashsaimtoolzv2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         },
@@ -54182,6 +54342,7 @@
           "label": "aimnirvanaaimtoolzv1.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         }
@@ -55063,6 +55224,7 @@
           "label": "DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:integra"
         }
@@ -55215,6 +55377,7 @@
           "label": "basic.zip",
           "originalUrl": "http://www.cybernyse.com/basic.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/basic.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1027-interbasicsetup"
         }
@@ -55971,6 +56134,7 @@
           "label": "jabronix.zip",
           "originalUrl": "http://www.cybernyse.com/jabronix.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/jabronix.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1042-jabronixer"
         }
@@ -56380,6 +56544,7 @@
           "label": "aolprogsjebtools.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogsjebtools.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogsjebtools.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:jebtools"
         }
@@ -57017,6 +57182,7 @@
           "label": "juvenile.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/juvenile.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/juvenile.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1064-juvenile-upchat1"
         },
@@ -57025,6 +57191,7 @@
           "label": "juvenile.zip",
           "originalUrl": "http://24.185.191.87/progz/juvenile.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/juvenile.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1064-juvenile-upchat1"
         }
@@ -57127,6 +57294,7 @@
           "label": "kamehamehaidle.zip",
           "originalUrl": "http://www.cybernyse.com/kamehamehaidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/kamehamehaidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:kamehameha"
         }
@@ -57274,6 +57442,7 @@
           "label": "raeophobic.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/raeophobic.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/raeophobic.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:raeophobic-idle"
         }
@@ -58144,6 +58313,7 @@
           "label": "aimstevesaimprogeev3.zip",
           "originalUrl": "http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip",
           "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:progee"
         },
@@ -58152,6 +58322,7 @@
           "label": "aimstevesaimprogeev3.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:progee"
         },
@@ -58160,6 +58331,7 @@
           "label": "aimstevesaimprogeev3.zip",
           "originalUrl": "http://24.185.191.87/progz/aimstevesaimprogeev2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:progee"
         },
@@ -58168,6 +58340,7 @@
           "label": "aimstevesaimprogeev3.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:progee"
         },
@@ -58176,6 +58349,7 @@
           "label": "aimstevesaimprogeev3.zip",
           "originalUrl": "http://24.185.191.87/progz/aimstevesaimprogeev3.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:progee"
         },
@@ -58184,6 +58358,7 @@
           "label": "progeechatfix.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/progeechatfix.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:progee"
         },
@@ -58192,6 +58367,7 @@
           "label": "progeechatfix.zip",
           "originalUrl": "http://24.185.191.87/progz/progeechatfix.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progeechatfix.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:progee"
         }
@@ -58869,6 +59045,7 @@
           "label": "lazyass.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1108-lazyassgold1"
         }
@@ -58986,6 +59163,7 @@
           "label": "lethal.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/lethal.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
         },
@@ -58994,6 +59172,7 @@
           "label": "lethal.zip",
           "originalUrl": "http://24.185.191.87/progz/lethal.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
         },
@@ -59002,6 +59181,7 @@
           "label": "lethal.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lethal3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
         },
@@ -59010,6 +59190,7 @@
           "label": "lethal.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
         },
@@ -59018,6 +59199,7 @@
           "label": "empire.zip",
           "originalUrl": "http://www7.geocities.com:80/SiliconValley/9470/empire.zip",
           "waybackUrl": "http://www7.geocities.com:80/SiliconValley/9470/empire.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
         },
@@ -59026,6 +59208,7 @@
           "label": "lethalempirefader.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
         }
@@ -59449,6 +59632,7 @@
           "label": "leprecy.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/leprecy.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/leprecy.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:leprecy-tos-er"
         }
@@ -60172,6 +60356,7 @@
           "label": "linkdatho.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/linkdatho.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linkdatho.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:linkdat"
         }
@@ -60748,6 +60933,7 @@
           "label": "liquidsoulbeta.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:liquid"
         },
@@ -60756,6 +60942,7 @@
           "label": "liquidsoulbeta.zip",
           "originalUrl": "http://24.185.191.87/progz/liquidsoulbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidsoulbeta.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:liquid"
         },
@@ -60764,6 +60951,7 @@
           "label": "liquidwater.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/liquidwater.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/liquidwater.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:liquid"
         },
@@ -60772,6 +60960,7 @@
           "label": "liquidwater.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimliquidwater.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimliquidwater.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:liquid"
         },
@@ -60780,6 +60969,7 @@
           "label": "liquidwater.zip",
           "originalUrl": "http://24.185.191.87/progz/aimliquidwater.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimliquidwater.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:liquid"
         }
@@ -61695,6 +61885,7 @@
           "label": "AsteriskPasswordLogger101.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Passwords/AsteriskPasswordLogger101.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Passwords/AsteriskPasswordLogger101.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:logger1"
         }
@@ -62345,6 +62536,7 @@
           "label": "locksmit.zip",
           "originalUrl": "http://geocities.com/SiliconValley/2072/locksmit.zip",
           "waybackUrl": "http://geocities.com/SiliconValley/2072/locksmit.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:locksmith-23"
         }
@@ -63086,6 +63278,7 @@
           "label": "magictoolzfinal.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/magictoolzfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:magic"
         },
@@ -63094,6 +63287,7 @@
           "label": "magictoolzfinal.zip",
           "originalUrl": "http://24.185.191.87/progz/magictoolzfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolzfinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:magic"
         },
@@ -63102,6 +63296,7 @@
           "label": "linkmagic.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/linkmagic.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/linkmagic.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:magic"
         },
@@ -63110,6 +63305,7 @@
           "label": "magicboot.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:magic"
         },
@@ -63118,6 +63314,7 @@
           "label": "magicdisc.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/magicdisc.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/magicdisc.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:magic"
         },
@@ -63126,6 +63323,7 @@
           "label": "MagicISO5.5.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:magic"
         }
@@ -63570,6 +63768,7 @@
           "label": "malfunction.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/malfunction.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/malfunction.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:malfunction-for-all-win-xp-yr-05"
         }
@@ -63841,6 +64040,7 @@
           "label": "marioonlinev5.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/marioonlinev5.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:mario"
         },
@@ -63849,6 +64049,7 @@
           "label": "marioonlinev5.zip",
           "originalUrl": "http://24.185.191.87/progz/marioonlinev5.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/marioonlinev5.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:mario"
         }
@@ -64974,6 +65175,7 @@
           "label": "meditating.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/meditating.zip",
           "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:meditating-mailer-aol-all"
         }
@@ -65138,6 +65340,7 @@
           "label": "metamorphic.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metamorphic-toolz-2-1-beta-1-win-95-xp"
         }
@@ -65287,6 +65490,7 @@
           "label": "aimmetallicaafterlife.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metal"
         },
@@ -65295,6 +65499,7 @@
           "label": "aimmetallicaafterlife.zip",
           "originalUrl": "http://24.185.191.87/progz/aimmetallicaafterlife.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmetallicaafterlife.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metal"
         },
@@ -65303,6 +65508,7 @@
           "label": "aimmetallicafinal.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metal"
         },
@@ -65311,6 +65517,7 @@
           "label": "aimmetallicafinal.zip",
           "originalUrl": "http://24.185.191.87/progz/aimmetallicafinal.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmetallicafinal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metal"
         },
@@ -65319,6 +65526,7 @@
           "label": "aimmetallicaimmortal.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metal"
         },
@@ -65327,6 +65535,7 @@
           "label": "aimmetallicaimmortal.zip",
           "originalUrl": "http://24.185.191.87/progz/aimmetallicaimmortal.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmetallicaimmortal.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metal"
         },
@@ -65335,6 +65544,7 @@
           "label": "MetallicA%20V%202.1%20Palette.hqx",
           "originalUrl": "http://www.cybernyse.com/MetallicA%20V%202.1%20Palette.hqx",
           "waybackUrl": "https://web.archive.org/web/20010202193100/http://www.cybernyse.com/MetallicA%20V%202.1%20Palette.hqx",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:metal"
         }
@@ -66212,6 +66422,7 @@
           "label": "msvbvm50.dll",
           "originalUrl": "http://www.aimfilez.com/files/missing/msvbvm50.dll",
           "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm50.dll",
+          "localPath": "files/external/aimfilez-com/msvbvm50-3e602dda.dll",
           "status": "ready",
           "matchedBy": "loose:micro"
         },
@@ -66220,6 +66431,7 @@
           "label": "msvbvm50.dll",
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
           "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66228,6 +66440,7 @@
           "label": "msvbvm50.dll",
           "originalUrl": "http://www.aimfilez.com/files/missing/msvbvm60.dll",
           "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm60.dll",
+          "localPath": "files/external/aimfilez-com/msvbvm60-117ab42e.dll",
           "status": "ready",
           "matchedBy": "loose:micro"
         },
@@ -66236,6 +66449,7 @@
           "label": "msvbvm50.dll",
           "originalUrl": "http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
           "waybackUrl": "https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66244,6 +66458,7 @@
           "label": "msvbvm50.dll",
           "originalUrl": "http://www.angelfire.com/dc/zidane/programs/msvbvm50.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dc/zidane/programs/msvbvm50.zip",
+          "localPath": "files/external/angelfire-com/msvbvm50.zip",
           "status": "ready",
           "matchedBy": "loose:micro"
         },
@@ -66252,6 +66467,7 @@
           "label": "msvbvm50.dll",
           "originalUrl": "http://www.angelfire.com/dc/zidane/programs/msvbvm60.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dc/zidane/programs/msvbvm60.zip",
+          "localPath": "files/external/angelfire-com/msvbvm60.zip",
           "status": "ready",
           "matchedBy": "loose:micro"
         },
@@ -66260,6 +66476,7 @@
           "label": "msvbvm50.dll",
           "originalUrl": "http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
           "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
+          "localPath": "files/external/coltpro-net/msvbvm60-af7ec917.dll",
           "status": "ready",
           "matchedBy": "loose:micro"
         },
@@ -66268,6 +66485,7 @@
           "label": "vbrun60sp3.EXE",
           "originalUrl": "http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE",
           "waybackUrl": "https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66276,6 +66494,7 @@
           "label": "vbrun60sp3.EXE",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp5.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp5.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66284,6 +66503,7 @@
           "label": "vbrun60sp3.EXE",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp6.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp6.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66292,6 +66512,7 @@
           "label": "vbrun60sp3.EXE",
           "originalUrl": "http://www.angelfire.com/wizard/freqgengui/files/vbrun60sp5.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/wizard/freqgengui/files/vbrun60sp5.zip",
+          "localPath": "files/external/angelfire-com/vbrun60sp5.zip",
           "status": "ready",
           "matchedBy": "loose:micro"
         },
@@ -66300,6 +66521,7 @@
           "label": "Fiddler2Setup.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66308,6 +66530,7 @@
           "label": "Fiddler2Setup.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66316,6 +66539,7 @@
           "label": "Fiddler2Setup.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66324,6 +66548,7 @@
           "label": "Fiddler2Setup.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66332,6 +66557,7 @@
           "label": "tweakui.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/6893/files/tweakui.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/6893/files/tweakui.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66340,6 +66566,7 @@
           "label": "tweakui.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/TweakUI.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/TweakUI.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66348,6 +66575,7 @@
           "label": "tweakui.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/tweakui133.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/tweakui133.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66356,6 +66584,7 @@
           "label": "2_4date.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/2_4date.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/2_4date.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66364,6 +66593,7 @@
           "label": "2_4date.exe",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/9000/date.zip",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/9000/date.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66372,6 +66602,7 @@
           "label": "Fiddler1.0.5.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66380,6 +66611,7 @@
           "label": "Fiddler1.0.5.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66388,6 +66620,7 @@
           "label": "immc11.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/immc11.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/immc11.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         },
@@ -66396,6 +66629,7 @@
           "label": "immc11.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/immc12.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/immc12.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:micro"
         }
@@ -66510,6 +66744,7 @@
           "label": "midget.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/midget.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/midget.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1262-midget-coms2"
         },
@@ -66518,6 +66753,7 @@
           "label": "midget.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/midget2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/midget2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1262-midget-coms2"
         }
@@ -68132,6 +68368,7 @@
           "label": "mp3play.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/mp3play.zip",
           "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/mp3play.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1301-mp3player"
         }
@@ -68251,6 +68488,7 @@
           "label": "mplayerx.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1303-mplayerx-ceelo"
         },
@@ -68259,6 +68497,7 @@
           "label": "music.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bridge/1910/music.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bridge/1910/music.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:music-mp-3-player-x-v-2-win-xp-yr-05"
         }
@@ -68453,6 +68692,7 @@
           "label": "multi.zip",
           "originalUrl": "http://members.xoom.com/matrixdl/multi.zip",
           "waybackUrl": "https://web.archive.org/web/20010504044037/http://members.xoom.com/matrixdl/multi.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1308-multi-fader"
         }
@@ -69092,6 +69332,7 @@
           "label": "sleep2.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/sleep2.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sleep2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1324-negzsleeper"
         },
@@ -69100,6 +69341,7 @@
           "label": "sleep2.zip",
           "originalUrl": "http://24.185.191.87/progz/sleep2.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sleep2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1324-negzsleeper"
         },
@@ -69108,6 +69350,7 @@
           "label": "sleep2.zip",
           "originalUrl": "http://am.net/lib/TOOLS/AM/SLEEP.EXE",
           "waybackUrl": "http://am.net/lib/TOOLS/AM/SLEEP.EXE",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1324-negzsleeper"
         }
@@ -69683,6 +69926,7 @@
           "label": "nigga.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/nigga.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/nigga.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:nigga-punta"
         }
@@ -71388,6 +71632,7 @@
           "label": "opticalphader.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/opticalphader.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/opticalphader.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:opticalphader-b-9foraol-7-0and-8win-xp"
         },
@@ -71396,6 +71641,7 @@
           "label": "phade.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/phade.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/phade.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:opticalphader-b-9foraol-7-0and-8win-xp"
         }
@@ -72044,6 +72290,7 @@
           "label": "scroll.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/scroll.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1399-pakistani-clone-scroller"
         }
@@ -73307,6 +73554,7 @@
           "label": "phaze.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/phaze.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/phaze.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phazer-phader-b-2-b-7-ba"
         },
@@ -73315,6 +73563,7 @@
           "label": "phaze.zip",
           "originalUrl": "http://24.185.191.87/progz/phaze.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/phaze.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phazer-phader-b-2-b-7-ba"
         },
@@ -73323,6 +73572,7 @@
           "label": "phaze.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phazer-phader-b-2-b-7-ba"
         }
@@ -73699,6 +73949,7 @@
           "label": "phishdatidle.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/phishdatidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/phishdatidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phish"
         },
@@ -73707,6 +73958,7 @@
           "label": "phishdatidle.zip",
           "originalUrl": "http://24.185.191.87/progz/phishdatidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/phishdatidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phish"
         },
@@ -73715,6 +73967,7 @@
           "label": "pezcorefisher.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/phishers/pezcorefisher.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/phishers/pezcorefisher.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phish"
         },
@@ -73723,6 +73976,7 @@
           "label": "phorgotten.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/phishers/phorgotten.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/phishers/phorgotten.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phish"
         }
@@ -74124,6 +74378,7 @@
           "label": "phrosty1.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/phrosty1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/phrosty1.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:phrost"
         }
@@ -74565,6 +74820,7 @@
           "label": "pkreader.exe",
           "originalUrl": "http://download.pkzip.com/pub/pkware/products/win/pkreader.exe",
           "waybackUrl": "http://download.pkzip.com/pub/pkware/products/win/pkreader.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:pkzip"
         },
@@ -74573,6 +74829,7 @@
           "label": "pkreader.exe",
           "originalUrl": "http://am.net/lib/TOOLS/pkreader.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/pkreader.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:pkzip"
         }
@@ -75125,6 +75382,7 @@
           "label": "mover.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/mover.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mover.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1468-poa-aol-notify-remover-final-beta-6"
         }
@@ -75489,7 +75747,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell misc progs N-Z",
+          "label": "poogletoolz1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/poogletoolz1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/poogletoolz1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:poogletoolz1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1477-pooh-bear": {
@@ -76246,6 +76514,7 @@
           "label": "plink.exe",
           "originalUrl": "http://am.net/lib/TOOLS/NetTools/plink.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/NetTools/plink.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:preplinker"
         }
@@ -77379,6 +77648,7 @@
           "label": "prozac.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/prozac.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/prozac.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1519-prozacs-bust"
         }
@@ -79229,6 +79499,7 @@
           "label": "aolquickbuddy.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aolquickbuddy.zip",
           "waybackUrl": "https://web.archive.org/web/20010613045907/http://www.cybernyse.com/downlowdz/aolquickbuddy.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:quick"
         },
@@ -79237,6 +79508,7 @@
           "label": "dl-quick-shine.zip",
           "originalUrl": "http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip",
           "waybackUrl": "http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:quick"
         },
@@ -79245,6 +79517,7 @@
           "label": "QuickBooks-Setup.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:quick"
         },
@@ -79253,6 +79526,7 @@
           "label": "quickchange.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:quick"
         },
@@ -79261,6 +79535,7 @@
           "label": "QuickTour_NP_ENG.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:quick"
         },
@@ -79269,6 +79544,7 @@
           "label": "quickvu.exe",
           "originalUrl": "http://am.net/lib/TOOLS/FileManagement/quickvu.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/FileManagement/quickvu.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:quick"
         }
@@ -79674,6 +79950,18 @@
           "inferredAuthor": "Oogle (Justin Tunney)",
           "inferredAolVersion": "",
           "summary": "The supplied Oogle/Rampage reference identifies Rampage Toolz, including version 2.0, as Oogle / Justin Tunney work and points to archived Oogle resources."
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz 2.0 and Rampage Script SDK tutorials",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "originalUrl": "http://www.oogle.net/o_tutorial.htm",
+          "kind": "manual source/tutorial evidence",
+          "matchedBy": "manual:rampage-oogle-tutorial",
+          "inferredAuthor": "Oogle (Justin Tunney)",
+          "inferredAolVersion": "",
+          "summary": "The archived Oogle tutorial page says Oogle wrote three tutorial files that shipped with Rampage Toolz 2.0 and the Rampage Script SDK. It lists tutorial sizes of 645 KB, 1,274 KB, and 10 KB, and links the SDK, tutorial DOC files, Rampage Toolz 2.0, and the Rampage Toolz 1.1 source page."
         }
       ],
       "webDownloadLinks": [
@@ -79694,6 +79982,78 @@
           "originalUrl": "http://www.oogle.net/rampage/setuprt22.exe",
           "kind": "manual old-web download lead",
           "matchedBy": "manual:rampage-oogle"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz 1.1 source page",
+          "url": "https://web.archive.org/web/20010119175900/http://www.oogle.net/rt1source/",
+          "originalUrl": "http://www.oogle.net/rt1source/",
+          "kind": "manual old-web source lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/dlit.htm",
+          "label": "Rampage Toolz 1.1 source ZIP",
+          "url": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+          "originalUrl": "http://www.oogle.net/rt1source/rt1_src.zip",
+          "kind": "manual old-web source-code download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script SDK",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+          "originalUrl": "http://www.oogle.net/downloads/rscript.zip",
+          "kind": "manual old-web download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script Tutorial #1",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial1.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial1.doc",
+          "kind": "manual old-web tutorial lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script Tutorial #2",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial2.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial2.doc",
+          "kind": "manual old-web tutorial lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script Tutorial #3",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial3.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial3.doc",
+          "kind": "manual old-web tutorial lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz elite skin",
+          "url": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+          "kind": "manual old-web download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz insane skin",
+          "url": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+          "kind": "manual old-web download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
         },
         {
           "sourceName": "LensHell misc progs N-Z",
@@ -79790,23 +80150,172 @@
           "matchedBy": "exact:rampage"
         },
         {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "rampagetools2source.zip",
+          "originalUrl": "http://www.oogle.com/download/rampagetools2source.zip",
+          "waybackUrl": "https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip",
+          "localPath": "",
+          "status": "html-replay",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "setuprt22.exe",
+          "originalUrl": "http://www.oogle.net/rampage/setuprt22.exe",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
+          "localPath": "",
+          "status": "html-replay",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "skin_elite.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+          "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+          "localPath": "files/external/oogle-net/skin-elite-3ae954b5.zip",
+          "status": "ready",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "skin_insane.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+          "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+          "localPath": "files/external/oogle-net/skin-insane-e3c85f67.zip",
+          "status": "ready",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "rscript.zip",
+          "originalUrl": "http://www.oogle.net/downloads/rscript.zip",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "script_tutorial1.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial1.doc",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial1.doc",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "script_tutorial2.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial2.doc",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial2.doc",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "script_tutorial3.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial3.doc",
+          "waybackUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial3.doc",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "Web page: LensHell misc progs N-Z",
+          "label": "rampage.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:rampage"
+        },
+        {
+          "sourceName": "Web page: Section 2",
+          "label": "rampage.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:rampage"
+        },
+        {
+          "sourceName": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "label": "rampage.zip",
+          "originalUrl": "http://24.185.191.87/progz/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:rampage"
+        },
+        {
+          "sourceName": "ProgzRescue FortuneCity Skyscraper files",
+          "label": "rampage.zip",
+          "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+          "localPath": "files/external/fortunecity-com/rampage-d0db1655.zip",
+          "status": "ready",
+          "matchedBy": "exact:rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "rt1_src.zip",
+          "originalUrl": "http://www.oogle.net/rt1source/rt1_src.zip",
+          "waybackUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
           "sourceName": "Click-Online AOL 4/5 progz",
           "label": "setuprt22.exe",
           "originalUrl": "http://click-online2000.com/progz/setuprt22.exe",
           "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/setuprt22.exe",
+          "localPath": "files/external/click-online2000-com/setuprt22-bf0dd433.exe",
           "status": "ready",
-          "matchedBy": "loose:rampage"
-        },
-        {
-          "sourceName": "Section 2",
-          "label": "setuprt22.exe",
-          "originalUrl": "http://www.oogle.net/rampage/setuprt22.exe",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
-          "status": "candidate",
-          "matchedBy": "loose:rampage"
+          "matchedBy": "manual-route:oogle-rampage"
         }
       ],
-      "externalArchiveTextEvidence": []
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "skin_elite.zip",
+          "localPath": "files/external/oogle-net/skin-elite-3ae954b5.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+          "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "elite.ini"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "All-in-one prog suite"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "User-supplied Oogle Rampage source leads",
+          "label": "skin_insane.zip",
+          "localPath": "files/external/oogle-net/skin-insane-e3c85f67.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+          "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "insane.ini"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "manual-route:oogle-rampage"
+        }
+      ]
     },
     "prog-1575-rampage2": {
       "programId": "prog-1575-rampage2",
@@ -79847,6 +80356,18 @@
           "inferredAuthor": "Oogle (Justin Tunney)",
           "inferredAolVersion": "",
           "summary": "The supplied Oogle/Rampage reference identifies Rampage Toolz, including version 2.0, as Oogle / Justin Tunney work and points to archived Oogle resources."
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz 2.0 and Rampage Script SDK tutorials",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "originalUrl": "http://www.oogle.net/o_tutorial.htm",
+          "kind": "manual source/tutorial evidence",
+          "matchedBy": "manual:rampage-oogle-tutorial",
+          "inferredAuthor": "Oogle (Justin Tunney)",
+          "inferredAolVersion": "",
+          "summary": "The archived Oogle tutorial page says Oogle wrote three tutorial files that shipped with Rampage Toolz 2.0 and the Rampage Script SDK. It lists tutorial sizes of 645 KB, 1,274 KB, and 10 KB, and links the SDK, tutorial DOC files, Rampage Toolz 2.0, and the Rampage Toolz 1.1 source page."
         }
       ],
       "webDownloadLinks": [
@@ -79869,6 +80390,78 @@
           "matchedBy": "manual:rampage-oogle"
         },
         {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz 1.1 source page",
+          "url": "https://web.archive.org/web/20010119175900/http://www.oogle.net/rt1source/",
+          "originalUrl": "http://www.oogle.net/rt1source/",
+          "kind": "manual old-web source lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/dlit.htm",
+          "label": "Rampage Toolz 1.1 source ZIP",
+          "url": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+          "originalUrl": "http://www.oogle.net/rt1source/rt1_src.zip",
+          "kind": "manual old-web source-code download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script SDK",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip",
+          "originalUrl": "http://www.oogle.net/downloads/rscript.zip",
+          "kind": "manual old-web download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script Tutorial #1",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial1.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial1.doc",
+          "kind": "manual old-web tutorial lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script Tutorial #2",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial2.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial2.doc",
+          "kind": "manual old-web tutorial lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Script Tutorial #3",
+          "url": "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/script_tutorial3.doc",
+          "originalUrl": "http://www.oogle.net/downloads/script_tutorial3.doc",
+          "kind": "manual old-web tutorial lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz elite skin",
+          "url": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+          "kind": "manual old-web download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
+          "sourceName": "Oogle Rampage script tutorials",
+          "sourceUrl": "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm",
+          "label": "Rampage Toolz insane skin",
+          "url": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+          "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+          "kind": "manual old-web download lead",
+          "matchedBy": "manual:rampage-oogle-tutorial"
+        },
+        {
           "sourceName": "LensHell AIM progs",
           "sourceUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
           "label": "rampage toolz 2.0",
@@ -79879,7 +80472,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "rampage2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rampage2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/rampage2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:rampage2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1576-rancid-idle2": {
@@ -80072,6 +80675,7 @@
           "label": "RapidHackerv32.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip",
           "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:rapid"
         }
@@ -80431,6 +81035,7 @@
           "label": "stealer.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/stealer.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/stealer.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:raw-socket-ip-stealer-v-1-0"
         },
@@ -80439,6 +81044,7 @@
           "label": "stealer.zip",
           "originalUrl": "http://24.185.191.87/progz/stealer.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/stealer.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:raw-socket-ip-stealer-v-1-0"
         }
@@ -81189,6 +81795,7 @@
           "label": "remixbeta.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remix"
         }
@@ -81251,6 +81858,7 @@
           "label": "mixed.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/mixed.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remixed-audio2"
         }
@@ -81390,6 +81998,7 @@
           "label": "remoteidle.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/remoteidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/remoteidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remote"
         },
@@ -81398,6 +82007,7 @@
           "label": "remoteidle.zip",
           "originalUrl": "http://24.185.191.87/progz/remoteidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/remoteidle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remote"
         },
@@ -81406,6 +82016,7 @@
           "label": "aoremote32.zip",
           "originalUrl": "http://www.cybernyse.com/aoremote32.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aoremote32.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remote"
         },
@@ -81414,6 +82025,7 @@
           "label": "ntremotedatetime.zip",
           "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip",
           "waybackUrl": "http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remote"
         },
@@ -81422,6 +82034,7 @@
           "label": "RDPRemoteEnabler.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remote"
         },
@@ -81430,6 +82043,7 @@
           "label": "VPREMOTE.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:remote"
         }
@@ -81913,6 +82527,7 @@
           "label": "revolutionxccom.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/revolutionxccom.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:revolutionx"
         }
@@ -82203,6 +82818,7 @@
           "label": "ri-2.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/ri-2.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ri-2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "exact:ri-2"
         }
@@ -82724,6 +83340,7 @@
           "label": "accessenum12.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/accessenum12.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/accessenum12.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:access"
         },
@@ -82732,6 +83349,7 @@
           "label": "accesspv.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Passwords/accesspv.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Passwords/accesspv.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:access"
         },
@@ -82740,6 +83358,7 @@
           "label": "allaccess2.zip",
           "originalUrl": "http://www.cybernyse.com/allaccess2.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/allaccess2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:access"
         }
@@ -83193,6 +83812,7 @@
           "label": "vbrun60.exe",
           "originalUrl": "http://lenshellarchive.com/VBfiles/vbrun60.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/vbrun60.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:s2000"
         },
@@ -83201,6 +83821,7 @@
           "label": "vbrun60.exe",
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vbrun100.zip",
           "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vbrun100.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:s2000"
         },
@@ -83209,6 +83830,7 @@
           "label": "vbrun60.exe",
           "originalUrl": "http://www.aimfilez.com/files/missing/vbrun100.dll",
           "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vbrun100.dll",
+          "localPath": "files/external/aimfilez-com/vbrun100-348eb154.dll",
           "status": "ready",
           "matchedBy": "loose:s2000"
         },
@@ -83217,6 +83839,7 @@
           "label": "vbrun60.exe",
           "originalUrl": "http://www.aimfilez.com/files/missing/vbrun200.dll",
           "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vbrun200.dll",
+          "localPath": "files/external/aimfilez-com/vbrun200-dc920038.dll",
           "status": "ready",
           "matchedBy": "loose:s2000"
         },
@@ -83225,6 +83848,7 @@
           "label": "vbrun60.exe",
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vbrun300.zip",
           "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vbrun300.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:s2000"
         },
@@ -83233,6 +83857,7 @@
           "label": "vbrun60.exe",
           "originalUrl": "http://www.aimfilez.com/files/missing/vbrun300.dll",
           "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vbrun300.dll",
+          "localPath": "files/external/aimfilez-com/vbrun300-194dc02b.dll",
           "status": "ready",
           "matchedBy": "loose:s2000"
         },
@@ -83241,6 +83866,7 @@
           "label": "netbuspatch.zip",
           "originalUrl": "http://www.methodus.atfreeweb.com/netbuspatch.zip",
           "waybackUrl": "https://web.archive.org/web/20010111011900/http://www.methodus.atfreeweb.com/netbuspatch.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:s2000"
         }
@@ -83618,6 +84244,7 @@
           "label": "solarwindsbetav13.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:sbeta"
         },
@@ -83626,6 +84253,7 @@
           "label": "solarwindsbetav13.zip",
           "originalUrl": "http://24.185.191.87/progz/solarwindsbetav13.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:sbeta"
         },
@@ -83634,6 +84262,7 @@
           "label": "serial.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:serial-com-beta-and-5-0"
         }
@@ -83976,6 +84605,7 @@
           "label": "aimpressurescramblerv10.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:scramble"
         },
@@ -83984,6 +84614,7 @@
           "label": "aimpressurescramblerv10.zip",
           "originalUrl": "http://24.185.191.87/progz/aimpressurescramblerv10.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimpressurescramblerv10.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:scramble"
         }
@@ -84914,6 +85545,7 @@
           "label": "aomess4_by_lynx_%5Baol2.5%5D.zip",
           "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip",
           "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "exact:aomess4-by-lynx"
         },
@@ -84922,6 +85554,7 @@
           "label": "aomess4_by_lynx_%5Baol2.5%5D.zip",
           "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip",
           "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "exact:aomess4-by-lynx"
         },
@@ -84930,6 +85563,7 @@
           "label": "Esheep.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:sheep"
         }
@@ -85501,6 +86135,7 @@
           "label": "crackwhore.zip",
           "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip",
           "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:silence"
         }
@@ -87545,6 +88180,7 @@
           "label": "solid.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/solid.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/solid.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:sosolid"
         }
@@ -87845,6 +88481,7 @@
           "label": "Solitaire.zip",
           "originalUrl": "http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip",
           "waybackUrl": "http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:solitaire-beta"
         }
@@ -88662,6 +89299,7 @@
           "label": "speedycrack.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:speedy"
         }
@@ -89636,6 +90274,7 @@
           "label": "aimstaticxv2.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimstaticxv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:static"
         },
@@ -89644,6 +90283,7 @@
           "label": "aimstaticxv2.zip",
           "originalUrl": "http://24.185.191.87/progz/aimstaticxv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:static"
         },
@@ -89652,6 +90292,7 @@
           "label": "curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
           "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:static"
         },
@@ -89660,6 +90301,7 @@
           "label": "curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
           "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:static"
         },
@@ -89668,6 +90310,7 @@
           "label": "curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
           "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
           "waybackUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:static"
         }
@@ -90193,6 +90836,7 @@
           "label": "stonecolds.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/stonecolds.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:stonecold"
         }
@@ -90751,6 +91395,7 @@
           "label": "audiostyle.zip",
           "originalUrl": "http://www.cybernyse.com/audiostyle.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/audiostyle.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:style"
         },
@@ -90759,6 +91404,7 @@
           "label": "brushstylecombo.zip",
           "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/brushstylecombo.zip",
           "waybackUrl": "http://geocities.com/SiliconValley/Board/2989/comps/brushstylecombo.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:style"
         },
@@ -90767,6 +91413,7 @@
           "label": "DVDStylerPortable_3.0.1.paf.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Burning/DVDStylerPortable_3.0.1.paf.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Burning/DVDStylerPortable_3.0.1.paf.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:style"
         },
@@ -90775,6 +91422,7 @@
           "label": "penstylecombo.zip",
           "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/penstylecombo.zip",
           "waybackUrl": "http://geocities.com/SiliconValley/Board/2989/comps/penstylecombo.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:style"
         }
@@ -91494,6 +92142,7 @@
           "label": "super.zip",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/6041/super.zip",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/6041/super.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91502,6 +92151,7 @@
           "label": "super.zip",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/6041/super2.zip",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/6041/super2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91510,6 +92160,7 @@
           "label": "super.zip",
           "originalUrl": "http://server38.hypermart.net/progstation/superaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/superaim.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91518,6 +92169,7 @@
           "label": "super.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91526,6 +92178,7 @@
           "label": "super.zip",
           "originalUrl": "http://24.185.191.87/progz/aimsuperaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsuperaim.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91534,6 +92187,7 @@
           "label": "super.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/super.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91542,6 +92196,7 @@
           "label": "super.zip",
           "originalUrl": "http://24.185.191.87/progz/super.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91550,6 +92205,7 @@
           "label": "super.zip",
           "originalUrl": "http://progstation.hypermart.net/superaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/superaim.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         },
@@ -91558,6 +92214,7 @@
           "label": "super.zip",
           "originalUrl": "http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip",
+          "localPath": "files/external/angelfire-com/superaim.zip",
           "status": "ready",
           "matchedBy": "loose:1849-super-saiyan-v1o"
         }
@@ -91700,6 +92357,7 @@
           "label": "swift2k.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/swift2k.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/swift2k.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:swift"
         },
@@ -91708,6 +92366,7 @@
           "label": "swift2k.zip",
           "originalUrl": "http://24.185.191.87/progz/swift2k.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/swift2k.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:swift"
         }
@@ -92303,6 +92962,7 @@
           "label": "talconxer.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolxers/talconxer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/talconxer.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:talcon"
         }
@@ -93702,6 +94362,7 @@
           "label": "thunder.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/thunder.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/thunder.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:thunderscroll"
         }
@@ -93991,6 +94652,7 @@
           "label": "timmya.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/timmya.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/timmya.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:1913-timmya-idle"
         }
@@ -94899,6 +95561,7 @@
           "label": "toxicfreeze.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:toxic"
         },
@@ -94907,6 +95570,7 @@
           "label": "toxicsource.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/toxicsource.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:toxic"
         }
@@ -96669,6 +97333,7 @@
           "label": "Adobe_Update.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:update"
         },
@@ -96677,6 +97342,7 @@
           "label": "GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:update"
         },
@@ -96685,6 +97351,7 @@
           "label": "OutlookConduitUpdater.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:update"
         },
@@ -96693,6 +97360,7 @@
           "label": "PalmOutlook101UpdateENG.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:update"
         },
@@ -96701,6 +97369,7 @@
           "label": "ppal10502_update.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip",
           "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:update"
         },
@@ -96709,6 +97378,7 @@
           "label": "rbupdate.exe",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/rbupdate.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/rbupdate.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:update"
         },
@@ -96717,6 +97387,7 @@
           "label": "VPC2004SP1Update.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:update"
         }
@@ -97524,6 +98195,7 @@
           "label": "aimcreate11.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:underground"
         },
@@ -97532,6 +98204,7 @@
           "label": "aimcreate11.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:underground"
         }
@@ -98089,6 +98762,7 @@
           "label": "diskview_v1.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/diskview_v1.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/diskview_v1.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:view2"
         },
@@ -98097,6 +98771,7 @@
           "label": "diskview_v1.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/diskview2.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/diskview2.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:view2"
         },
@@ -98105,6 +98780,7 @@
           "label": "tcpview234.zip",
           "originalUrl": "http://am.net/lib/TOOLS/Misc/tcpview234.zip",
           "waybackUrl": "http://am.net/lib/TOOLS/Misc/tcpview234.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:view2"
         }
@@ -98319,6 +98995,7 @@
           "label": "setup325.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
           "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:vision"
         },
@@ -98327,6 +99004,7 @@
           "label": "setup325.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
           "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
+          "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:vision"
         },
@@ -98335,6 +99013,7 @@
           "label": "setup325.zip",
           "originalUrl": "http://am.net/lib/TOOLS/AOL/aol7setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/AOL/aol7setup.exe",
+          "localPath": "files/external/am-net/aol7setup-852c70fb.exe",
           "status": "ready",
           "matchedBy": "loose:vision"
         },
@@ -98343,6 +99022,7 @@
           "label": "setup325.zip",
           "originalUrl": "http://am.net/lib/TOOLS/AOL/aol8setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/AOL/aol8setup.exe",
+          "localPath": "files/external/am-net/aol8setup-e289c5c2.exe",
           "status": "ready",
           "matchedBy": "loose:vision"
         },
@@ -98351,6 +99031,7 @@
           "label": "setup325.zip",
           "originalUrl": "http://am.net/lib/TOOLS/AOL/aol9setup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/AOL/aol9setup.exe",
+          "localPath": "files/external/am-net/aol9setup-89ef253b.exe",
           "status": "ready",
           "matchedBy": "loose:vision"
         },
@@ -98359,6 +99040,7 @@
           "label": "setup325.zip",
           "originalUrl": "http://am.net/lib/TOOLS/AOL/aolsetup.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/AOL/aolsetup.exe",
+          "localPath": "files/external/am-net/aolsetup-c3cdd1ed.exe",
           "status": "ready",
           "matchedBy": "loose:vision"
         },
@@ -98367,6 +99049,7 @@
           "label": "setup325.zip",
           "originalUrl": "https://archive.org/download/aol-setup-32/SETUP32.EXE",
           "waybackUrl": "https://archive.org/download/aol-setup-32/SETUP32.EXE",
+          "localPath": "files/external/archive-org/setup32-2b19b572.exe",
           "status": "ready",
           "matchedBy": "loose:vision"
         },
@@ -98375,6 +99058,7 @@
           "label": "setup325.zip",
           "originalUrl": "https://archive.org/download/setup-323/SETUP323.EXE",
           "waybackUrl": "https://archive.org/download/setup-323/SETUP323.EXE",
+          "localPath": "files/external/archive-org/setup323-5183b6d5.exe",
           "status": "ready",
           "matchedBy": "loose:vision"
         }
@@ -98941,6 +99625,7 @@
           "label": "LENA.ZIP",
           "originalUrl": "http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP",
           "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:water"
         },
@@ -98949,6 +99634,7 @@
           "label": "watermenu.zip",
           "originalUrl": "http://lenshellarchive.com/html/watermenu.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/watermenu.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:water"
         }
@@ -99671,6 +100357,7 @@
           "label": "winadv15.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/winadv15.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/winadv15.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:winadv"
         }
@@ -100130,6 +100817,7 @@
           "label": "APCSecurityWizard.exe",
           "originalUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:wizard"
         },
@@ -100138,6 +100826,7 @@
           "label": "APCSecurityWizard.exe",
           "originalUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe",
           "waybackUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:wizard"
         }
@@ -100665,6 +101354,7 @@
           "label": "xbustsource.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/xbustsource.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:xbust"
         }
@@ -101906,6 +102596,7 @@
           "label": "extremeelegance.zip",
           "originalUrl": "http://www.cybernyse.com/extremeelegance.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/extremeelegance.zip",
+          "localPath": "",
           "status": "candidate",
           "matchedBy": "loose:xtreme"
         }

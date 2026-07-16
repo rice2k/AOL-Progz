@@ -17,29 +17,29 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 | Programs with improved best-known names | 519 |
 | Programs with web download leads | 2010 |
 | Programs with web research mentions | 7 |
-| Programs with mirror leads | 979 |
+| Programs with mirror leads | 981 |
 | Programs with manual purpose clues | 2 |
 | Programs with archive-text authors | 15 |
 | Programs with archive-text purpose clues | 324 |
 | Programs with archive-text AOL/version clues | 106 |
-| Programs with matched external ZIP text evidence | 50 |
+| Programs with matched external ZIP text evidence | 51 |
 | Programs with author conflicts flagged | 12 |
-| Programs needing manual review | 1946 |
+| Programs needing manual review | 1947 |
 | High-priority review entries | 1287 |
-| Medium-priority review entries | 659 |
-| Crawled source pages | 1500 |
-| Crawled unique links | 19890 |
-| Crawled download links | 6253 |
-| Master deduped link index | 33838 |
-| Deduped original/download URLs | 12844 |
-| User supplied priority links | 82 |
-| Recovered external files | 578 |
-| Recovered local file records | 2635 |
-| External ZIPs with readable text | 214 |
+| Medium-priority review entries | 660 |
+| Crawled source pages | 1502 |
+| Crawled unique links | 19900 |
+| Crawled download links | 6258 |
+| Master deduped link index | 33911 |
+| Deduped original/download URLs | 12853 |
+| User supplied priority links | 91 |
+| Recovered external files | 581 |
+| Recovered local file records | 2638 |
+| External ZIPs with readable text | 216 |
 | External ZIPs with author clues | 69 |
 | External ZIPs with version clues | 8 |
-| External ZIPs with purpose clues | 159 |
-| External mirror groups | 1791 |
+| External ZIPs with purpose clues | 160 |
+| External mirror groups | 1793 |
 | Recovered web images | 168 |
 
 ## Browse

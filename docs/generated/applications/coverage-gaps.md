@@ -9,6 +9,6 @@ This page separates broad archive coverage gaps from the manual-review priority 
 | Unknown prog type | 1259 | Infer a more specific function from filename, category, source page, and text clues. |
 | No screenshot | 2133 | Search source pages and recovered image assets for UI screenshots. |
 | No old-web download or mirror lead | 121 | Search link directories and Wayback capture indexes for original download URLs. |
-| No readable text evidence | 1618 | Scan archives for readmes, text files, HTML, source comments, and URL shortcuts. |
+| No readable text evidence | 1617 | Scan archives for readmes, text files, HTML, source comments, and URL shortcuts. |
 | Author conflicts | 12 | Resolve only when old-page and archive-text evidence agree. |
-| External ZIP text matched | 50 | Promote reliable external mirror clues into program metadata. |
+| External ZIP text matched | 51 | Promote reliable external mirror clues into program metadata. |

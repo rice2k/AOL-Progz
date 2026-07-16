@@ -1,11 +1,11 @@
 window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
-  "generatedAt": "2026-07-16T18:53:45.447Z",
-  "readyDownloadCount": 586,
-  "recordCount": 586,
-  "scannedCount": 402,
-  "withTextFileCount": 214,
+  "generatedAt": "2026-07-16T21:33:40.418Z",
+  "readyDownloadCount": 581,
+  "recordCount": 581,
+  "scannedCount": 405,
+  "withTextFileCount": 216,
   "withAuthorCount": 69,
-  "withPurposeCount": 159,
+  "withPurposeCount": 160,
   "withVersionCount": 8,
   "withUrlCount": 112,
   "byLocalPath": {
@@ -12825,83 +12825,6 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "reason": "unsupported-archive-type",
       "localPath": "files/external/archive-org/aol-instant-messanger-amp-28ae6ca4.wsz"
     },
-    "files/external/am-net/chromecanarysetup-bc05b6e3.exe": {
-      "name": "ChromeCanarySetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/ChromeCanarySetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/ChromeCanarySetup.exe",
-      "discoveredText": "ChromeCanarySetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/chromecanarysetup-bc05b6e3.exe"
-    },
-    "files/external/am-net/chromesetup-355d8750.exe": {
-      "name": "ChromeSetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/ChromeSetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/ChromeSetup.exe",
-      "discoveredText": "ChromeSetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/chromesetup-355d8750.exe"
-    },
-    "files/external/am-net/googleadseditorsetup-7404fcb9.exe": {
-      "name": "GoogleAdsEditorSetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleAdsEditorSetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleAdsEditorSetup.exe",
-      "discoveredText": "GoogleAdsEditorSetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googleadseditorsetup-7404fcb9.exe"
-    },
-    "files/external/am-net/googleappssyncsetup-c0f14f23.exe": {
-      "name": "googleappssyncsetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/googleappssyncsetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/googleappssyncsetup.exe",
-      "discoveredText": "googleappssyncsetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googleappssyncsetup-c0f14f23.exe"
-    },
-    "files/external/am-net/googlecalendarsync-4576b6bd.exe": {
-      "name": "googlecalendarsync.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/googlecalendarsync.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/googlecalendarsync.exe",
-      "discoveredText": "googlecalendarsync.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googlecalendarsync-4576b6bd.exe"
-    },
-    "files/external/am-net/googleearthwin-eard-35be1f42.exe": {
-      "name": "GoogleEarthWin_EARD.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleEarthWin_EARD.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleEarthWin_EARD.exe",
-      "discoveredText": "GoogleEarthWin_EARD.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googleearthwin-eard-35be1f42.exe"
-    },
-    "files/external/am-net/gpautobackup-setup-a96d2cd6.exe": {
-      "name": "gpautobackup_setup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/gpautobackup_setup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/gpautobackup_setup.exe",
-      "discoveredText": "gpautobackup_setup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/gpautobackup-setup-a96d2cd6.exe"
-    },
     "files/external/lenshellarchive-com/hushccom-ee96ae2e.zip": {
       "name": "hushccom.zip",
       "sourceList": "Web page: LensHell c-coms",
@@ -13049,17 +12972,6 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "urls": [],
       "descriptionCandidates": []
     },
-    "files/external/am-net/insync-0-9-16-17211-82860392.exe": {
-      "name": "Insync-0.9.16.17211.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/Insync-0.9.16.17211.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/Insync-0.9.16.17211.exe",
-      "discoveredText": "Insync-0.9.16.17211.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/insync-0-9-16-17211-82860392.exe"
-    },
     "files/external/lenshellarchive-com/intricate-a6d5c94c.zip": {
       "name": "intricate.zip",
       "sourceList": "Web page: LensHell c-coms",
@@ -13071,6 +12983,72 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "localPath": "files/external/lenshellarchive-com/intricate-a6d5c94c.zip",
       "localSize": 532658,
       "localSizeLabel": "520 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/oogle-net/skin-elite-3ae954b5.zip": {
+      "name": "skin_elite.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+      "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+      "discoveredText": "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/oogle-net/skin-elite-3ae954b5.zip",
+      "localSize": 45774,
+      "localSizeLabel": "45 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "elite.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/oogle-net/skin-insane-e3c85f67.zip": {
+      "name": "skin_insane.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+      "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+      "discoveredText": "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/oogle-net/skin-insane-e3c85f67.zip",
+      "localSize": 28162,
+      "localSizeLabel": "28 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "insane.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/fortunecity-com/rampage-d0db1655.zip": {
+      "name": "rampage.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/fortunecity-com/rampage-d0db1655.zip",
+      "localSize": 293130,
+      "localSizeLabel": "286 KB",
       "textFileCount": 0,
       "textFiles": [],
       "authorCandidates": [],
@@ -27201,83 +27179,6 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "localPath": "files/external/archive-org/aol-instant-messanger-amp-28ae6ca4.wsz"
     },
     {
-      "name": "ChromeCanarySetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/ChromeCanarySetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/ChromeCanarySetup.exe",
-      "discoveredText": "ChromeCanarySetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/chromecanarysetup-bc05b6e3.exe"
-    },
-    {
-      "name": "ChromeSetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/ChromeSetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/ChromeSetup.exe",
-      "discoveredText": "ChromeSetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/chromesetup-355d8750.exe"
-    },
-    {
-      "name": "GoogleAdsEditorSetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleAdsEditorSetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleAdsEditorSetup.exe",
-      "discoveredText": "GoogleAdsEditorSetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googleadseditorsetup-7404fcb9.exe"
-    },
-    {
-      "name": "googleappssyncsetup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/googleappssyncsetup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/googleappssyncsetup.exe",
-      "discoveredText": "googleappssyncsetup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googleappssyncsetup-c0f14f23.exe"
-    },
-    {
-      "name": "googlecalendarsync.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/googlecalendarsync.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/googlecalendarsync.exe",
-      "discoveredText": "googlecalendarsync.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googlecalendarsync-4576b6bd.exe"
-    },
-    {
-      "name": "GoogleEarthWin_EARD.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleEarthWin_EARD.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleEarthWin_EARD.exe",
-      "discoveredText": "GoogleEarthWin_EARD.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/googleearthwin-eard-35be1f42.exe"
-    },
-    {
-      "name": "gpautobackup_setup.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/gpautobackup_setup.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/gpautobackup_setup.exe",
-      "discoveredText": "gpautobackup_setup.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/gpautobackup-setup-a96d2cd6.exe"
-    },
-    {
       "name": "hushccom.zip",
       "sourceList": "Web page: LensHell c-coms",
       "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/hushccom.zip",
@@ -27425,17 +27326,6 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "descriptionCandidates": []
     },
     {
-      "name": "Insync-0.9.16.17211.exe",
-      "sourceList": "Web page: Google/",
-      "originalUrl": "http://am.net/lib/TOOLS/Google/Insync-0.9.16.17211.exe",
-      "waybackUrl": "http://am.net/lib/TOOLS/Google/Insync-0.9.16.17211.exe",
-      "discoveredText": "Insync-0.9.16.17211.exe",
-      "status": "ready",
-      "scanned": false,
-      "reason": "unsupported-archive-type",
-      "localPath": "files/external/am-net/insync-0-9-16-17211-82860392.exe"
-    },
-    {
       "name": "intricate.zip",
       "sourceList": "Web page: LensHell c-coms",
       "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/intricate.zip",
@@ -27446,6 +27336,72 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "localPath": "files/external/lenshellarchive-com/intricate-a6d5c94c.zip",
       "localSize": 532658,
       "localSizeLabel": "520 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "skin_elite.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rampage/skin_elite.zip",
+      "waybackUrl": "https://web.archive.org/web/20000604165228id_/http://www.oogle.net/rampage/skin_elite.zip",
+      "discoveredText": "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/oogle-net/skin-elite-3ae954b5.zip",
+      "localSize": 45774,
+      "localSizeLabel": "45 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "elite.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "skin_insane.zip",
+      "sourceList": "User-supplied Oogle Rampage source leads",
+      "originalUrl": "http://www.oogle.net/rampage/skin_insane.zip",
+      "waybackUrl": "https://web.archive.org/web/20000531142607id_/http://www.oogle.net/rampage/skin_insane.zip",
+      "discoveredText": "Rampage Toolz skin ZIP recovered from the Oogle Rampage directory.",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/oogle-net/skin-insane-e3c85f67.zip",
+      "localSize": 28162,
+      "localSizeLabel": "28 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "insane.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "rampage.zip",
+      "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+      "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+      "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+      "discoveredText": "",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/fortunecity-com/rampage-d0db1655.zip",
+      "localSize": 293130,
+      "localSizeLabel": "286 KB",
       "textFileCount": 0,
       "textFiles": [],
       "authorCandidates": [],
