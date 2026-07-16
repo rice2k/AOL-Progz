@@ -1,6 +1,6 @@
 # Tag: has-old-web-downloads
 
-**Count:** 2007
+**Count:** 2008
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -420,6 +420,7 @@
 | 422 | [clicktoolz1](../applications/pages/C/0422-clicktoolz1.md) | clicktoolz1 | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 554 KB | [local](../../../files/aol/aol-4-0/0422-clicktoolz1.zip) | 0 |
 | 423 | [Client](../applications/pages/C/0423-client.md) | Client | Unknown / needs review | uncategorized | Mixed/unknown | unknown | 4.2 MB | [local](../../../files/aol/mixed/0423-client.zip) | 0 |
 | 424 | [clink3](../applications/pages/C/0424-clink3.md) | clink3 | Idler / AFK bot | uncategorized | AOL 4.0; archive text: AOL 4, AOL 5 | CDBurn(01,02,03,04,05); catalog listed CDBurn(01 | 1.7 MB | [local](../../../files/aol/aol-4-0/0424-clink3.zip) | 0 |
+| 426 | [CLONER](../applications/pages/C/0426-cloner.md) | CLONER | Unknown / needs review | uncategorized | AOL 4.0 | Jahova | 738 KB | [local](../../../files/aol/aol-4-0/0426-cloner.zip) | 0 |
 | 427 | [Cloner Idle Win ALL Yr 04](../applications/pages/C/0427-cloner-idle-win-all-yr-04.md) | Cloner Idle | Idler / AFK bot | idler or bot | AOL 4.0; inferred: AOL 7.0 | unknown | 475 KB | [local](../../../files/aol/aol-4-0/0427-cloner-idle.zip) | 0 |
 | 428 | [Clonetech Win 98-nt-XP Yr 09](../applications/pages/C/0428-clonetech-win-98-nt-xp-yr-09.md) | clonetechsetup | Unknown / needs review | uncategorized | AOL 5.0 | unknown | 1.9 MB | [local](../../../files/aol/mixed/0428-clonetechsetup.zip) | 0 |
 | 429 | [cnt223](../applications/pages/C/0429-cnt223.md) | cnt223 | Source / developer file | uncategorized | AOL 4.0 | unknown | 3.4 MB | [local](../../../files/aim/aol-4-0/0429-cnt223.zip) | 0 |

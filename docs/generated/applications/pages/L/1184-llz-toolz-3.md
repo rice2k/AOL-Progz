@@ -39,8 +39,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 917 KB |
-| Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +51,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1184-llz-toolz-3.zip](../../../../../files/aol/aol-4-0/1184-llz-toolz-3.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lolztoolz.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lolztoolz.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lolztoolz.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lolztoolz.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lolztoolz.zip)
@@ -89,10 +90,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Section 2 | Lolz Toolz 3 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lolztoolz.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lolztoolz.zip) | [http://www.cybernyse.com/downlowdz/lolztoolz.zip](http://www.cybernyse.com/downlowdz/lolztoolz.zip) |
 | c-coms | lolz toolz 3.0 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip](http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip) |
+| Click-Online AOL 4/5 progz | lølz tøølz ³·° | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip) | [http://click-online2000.com/progz/lolztoolz.zip](http://click-online2000.com/progz/lolztoolz.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Click-Online AOL 4/5 progz | lolztoolz.zip | [http://click-online2000.com/progz/lolztoolz.zip](http://click-online2000.com/progz/lolztoolz.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

@@ -39,7 +39,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 71 KB |
-| Matched web download links | 6 |
+| Matched web download links | 7 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 5 |
@@ -51,7 +51,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0333-c-com.zip](../../../../../files/aol/aol-4-0/0333-c-com.zip)
-- Old-web / Wayback download leads: 6 link(s) listed below
+- Old-web / Wayback download leads: 7 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip)
@@ -88,6 +88,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | c-coms | chillin c-coms v1½ | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) | [http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) |
+| Click-Online AOL 4/5 progz | compac coms beta 1 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip) | [http://click-online2000.com/progz/compaccoms.zip](http://click-online2000.com/progz/compaccoms.zip) |
 | LensHell AIM progs | dry c-com | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip](http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip) |
 | Progs Section 1 | Holyz C-Coms | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/holyzccom.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/holyzccom.zip) | [http://www.cybernyse.com/holyzccom.zip](http://www.cybernyse.com/holyzccom.zip) |
 | Progs Section 1 | Imperial C-Coms | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccoms.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccoms.zip) | [http://www.cybernyse.com/imperialccoms.zip](http://www.cybernyse.com/imperialccoms.zip) |

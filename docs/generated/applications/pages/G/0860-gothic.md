@@ -39,8 +39,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.0 MB |
-| Matched web download links | 3 |
-| Matched mirror leads | 1 |
+| Matched web download links | 4 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +51,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0860-gothic.zip](../../../../../files/aol/aol-4-0/0860-gothic.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gn.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gn.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gn.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gn.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gn.zip)
@@ -92,6 +92,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Click-Online AOL 4/5 progz | gothic nightmares | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip) | [http://click-online2000.com/progz/gothic.zip](http://click-online2000.com/progz/gothic.zip) |
 | prog's/misc a-m | gothic nightmares | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip) | [http://lenshellarchive.com/Progs/aolprogs/gn.zip](http://lenshellarchive.com/Progs/aolprogs/gn.zip) |
 | Progs Section 1 | Gothic Nightmares | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothic.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothic.zip) | [http://www.cybernyse.com/gothic.zip](http://www.cybernyse.com/gothic.zip) |
 | Progs Section 1 | Gothic Nightmares | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip) | [http://www.cybernyse.com/gothicwithdll.zip](http://www.cybernyse.com/gothicwithdll.zip) |
@@ -100,6 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: Click-Online AOL 4/5 progz | gothic.zip | [http://click-online2000.com/progz/gothic.zip](http://click-online2000.com/progz/gothic.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip) | [files/external/click-online2000-com/gothic-e59e9fc1.zip](../../../../../files/external/click-online2000-com/gothic-e59e9fc1.zip) | ready |
 | Progs Section 1 | gothicwithdll.zip | [http://www.cybernyse.com/gothicwithdll.zip](http://www.cybernyse.com/gothicwithdll.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip) | unknown | candidate |
 
 ### Web Image Leads

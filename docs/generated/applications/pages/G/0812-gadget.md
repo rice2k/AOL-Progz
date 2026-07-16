@@ -39,8 +39,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 4.4 MB |
-| Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +51,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0812-gadget.zip](../../../../../files/aol/aol-4-0/0812-gadget.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip)
@@ -97,12 +98,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Click-Online AOL 4/5 progz | gadget | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip) | [http://click-online2000.com/progz/gadget.zip](http://click-online2000.com/progz/gadget.zip) |
 | Progs Section 1 | Gadget | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gadget.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gadget.zip) | [http://www.cybernyse.com/gadget.zip](http://www.cybernyse.com/gadget.zip) |
 | c-coms | gadget c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip) | [http://lenshellarchive.com/Progs/aolccoms/gadget.zip](http://lenshellarchive.com/Progs/aolccoms/gadget.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Click-Online AOL 4/5 progz | gadget.zip | [http://click-online2000.com/progz/gadget.zip](http://click-online2000.com/progz/gadget.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

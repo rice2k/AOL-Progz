@@ -32,9 +32,98 @@ const urlLists = [
   },
 ];
 
+const directDownloads = [
+  {
+    name: "AOL Progs ARCHIVE.rar",
+    sourceList: "User-supplied Kadeklizem archive",
+    originalUrl: "http://kadeklizem.com/AOL%20Progs%20ARCHIVE.rar",
+    waybackUrl: "https://web.archive.org/web/20220321112058/http://kadeklizem.com/AOL%20Progs%20ARCHIVE.rar",
+  },
+  {
+    name: "FormatSN.zip",
+    sourceList: "User-supplied AOL utility links",
+    originalUrl: "http://www.8op.com/ironbloodownz/dopeeffects/FormatSN.zip",
+    waybackUrl: "https://web.archive.org/web/20020601203124/http://www.8op.com/ironbloodownz/dopeeffects/FormatSN.zip",
+    discoveredText: "Format SN - change the format of your screenname for AOL",
+  },
+  {
+    name: "AIM44.zip",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/AIM44.zip",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/AIM44.zip",
+    discoveredText: "AIM 4.4",
+  },
+  {
+    name: "AOL30german.exe",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/AOL30german.exe",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/AOL30german.exe",
+    discoveredText: "AOL Germany 3.0",
+  },
+  {
+    name: "masteraol5.zip",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
+    discoveredText: "master aol 5.0",
+  },
+  {
+    name: "aimcreat.zip",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/aimcreat.zip",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimcreat.zip",
+    discoveredText: "aim creation",
+  },
+  {
+    name: "aimpluss.zip",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/aimpluss.zip",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimpluss.zip",
+    discoveredText: "aim pluss",
+  },
+  {
+    name: "aimster.zip",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/aimster.zip",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimster.zip",
+    discoveredText: "aimster",
+  },
+  {
+    name: "acaimpasswordcracker.zip",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/acaimpasswordcracker.zip",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/acaimpasswordcracker.zip",
+  },
+  {
+    name: "aolfiledownloader50.zip",
+    sourceList: "User-supplied DNX ACP downloads",
+    originalUrl: "http://www.dnx-online.net/~acp/downloads/aolfiledownloader50.zip",
+    waybackUrl: "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aolfiledownloader50.zip",
+  },
+  ...[
+    "ChatOCX2.ocx",
+    "chatscan%C2%B3.ocx",
+    "COMDLG32.DLL",
+    "COMDLG32.OCX",
+    "msinet.ocx",
+    "MSVBVM60.DLL",
+    "mswinsck.ocx",
+    "playcd2.ocx",
+    "RICHED32.DLL",
+    "VB5CHAT2.ocx",
+    "VB40032.DLL",
+  ].map((file) => ({
+    name: decodeURIComponent(file),
+    sourceList: "User-supplied ColtPro missing DLL/OCX files",
+    originalUrl: `http://www.coltpro.net/files3/missings/${file}`,
+    waybackUrl: `https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/${file}`,
+    discoveredText: "missing DLL/OCX runtime support file",
+  })),
+];
+
 const likelyPattern =
   /(aol|aim|prog|proggie|progz|toolz|punter|punt|booter|boot|fader|fade|mmer|mail|tos|term|idler|idle|phish|fish|crack|cracker|buster|room|chat|macro|scroll|hell|ccom|c-com|x'er|xer|server|vb|ocx|dll)/i;
-const extensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar)(?:$|[?#])/i;
+const extensionPattern = /\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx)(?:$|[?#])/i;
 
 function slugify(value) {
   return String(value || "")
@@ -260,7 +349,7 @@ function buildMirrorGroups(downloads, candidates) {
 }
 
 async function main() {
-  const allCandidates = [...parseWebResourceCandidates()];
+  const allCandidates = [...directDownloads, ...parseWebResourceCandidates()];
   for (const list of urlLists) {
     const text = await fetchList(list);
     allCandidates.push(...parseCandidates(list, text));

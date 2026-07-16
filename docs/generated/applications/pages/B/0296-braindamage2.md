@@ -39,10 +39,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.1 MB |
-| Matched web download links | 3 |
-| Matched mirror leads | 0 |
+| Matched web download links | 4 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -51,7 +51,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0296-braindamage2.zip](../../../../../files/aol/aol-4-0/0296-braindamage2.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/brain.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/brain.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/brain.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/brain.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/brain.zip)
@@ -87,17 +88,22 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Click-Online AOL 4/5 progz | Brain Damage 2.0 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/braindamage2.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/braindamage2.zip) | [http://click-online2000.com/progz/braindamage2.zip](http://click-online2000.com/progz/braindamage2.zip) |
 | Progs Section 1 | Brain Damage 2.0 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/brain.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/brain.zip) | [http://www.cybernyse.com/brain.zip](http://www.cybernyse.com/brain.zip) |
 | c-coms | brain damage 2.0 c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/brain.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/brain.zip) | [http://lenshellarchive.com/Progs/aolccoms/brain.zip](http://lenshellarchive.com/Progs/aolccoms/brain.zip) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/brain.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/brain.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/brain.zip) | [http://www.oogle.net/downloads/progs/brain.zip](http://www.oogle.net/downloads/progs/brain.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Click-Online AOL 4/5 progz | braindamage2.zip | [http://click-online2000.com/progz/braindamage2.zip](http://click-online2000.com/progz/braindamage2.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/braindamage2.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/braindamage2.zip) | unknown | http-404 |
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Packages 0 | galaxy-brain-default-847262c21056.png | [https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png](https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png) | [https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png](https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png) |
 
 ## Related Indexes
 

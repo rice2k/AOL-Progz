@@ -39,8 +39,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 3 |
-| Matched mirror leads | 0 |
+| Matched web download links | 4 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +51,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/sw3.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/sw3.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/sw3.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/sw3.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/sw3.zip)
@@ -90,10 +91,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | LolToolz progs | Solar Winds | [https://web.archive.org/web/20021018083822/http://vbheaven.com/kryo/solar.exe](https://web.archive.org/web/20021018083822/http://vbheaven.com/kryo/solar.exe) | [http://vbheaven.com/kryo/solar.exe](http://vbheaven.com/kryo/solar.exe) |
 | c-coms | solar winds 3.00 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sw3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sw3.zip) | [http://lenshellarchive.com/Progs/aolccoms/sw3.zip](http://lenshellarchive.com/Progs/aolccoms/sw3.zip) |
 | c-coms | solar winds beta¹·³ | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/solar.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/solar.zip) | [http://lenshellarchive.com/Progs/aolccoms/solar.zip](http://lenshellarchive.com/Progs/aolccoms/solar.zip) |
+| Click-Online AOL 4/5 progz | sølar wiñds beta¹·³ | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/solar.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/solar.zip) | [http://click-online2000.com/progz/solar.zip](http://click-online2000.com/progz/solar.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Click-Online AOL 4/5 progz | solar.zip | [http://click-online2000.com/progz/solar.zip](http://click-online2000.com/progz/solar.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/solar.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/solar.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

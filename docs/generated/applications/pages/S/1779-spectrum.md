@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -95,7 +95,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Aciddr0p live site | spectrum-logo.svg | [https://www.spectrum.com/content/experience-fragments/spectrum/residential/en/header/global-header-xf/master/_jcr_content/root/header/brandLogo.coreimg.svg/1626624041436/spectrum-logo.svg](https://www.spectrum.com/content/experience-fragments/spectrum/residential/en/header/global-header-xf/master/_jcr_content/root/header/brandLogo.coreimg.svg/1626624041436/spectrum-logo.svg) | [https://www.spectrum.com/content/experience-fragments/spectrum/residential/en/header/global-header-xf/master/_jcr_content/root/header/brandLogo.coreimg.svg/1626624041436/spectrum-logo.svg](https://www.spectrum.com/content/experience-fragments/spectrum/residential/en/header/global-header-xf/master/_jcr_content/root/header/brandLogo.coreimg.svg/1626624041436/spectrum-logo.svg) |
 
 ## Related Indexes
 

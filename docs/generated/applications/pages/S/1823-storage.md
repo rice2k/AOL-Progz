@@ -39,8 +39,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +51,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/storage.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/storage.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/storage.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/storage.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/storage.zip)
@@ -87,11 +88,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Hadez progs | Click Here | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/storage2.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/storage2.zip) | [http://dnx-online.net/~hadez/files/storage2.zip](http://dnx-online.net/~hadez/files/storage2.zip) |
 | prog's/misc n-z | storage 1.0 (beta 1.0) | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/storage.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/storage.zip) | [http://lenshellarchive.com/Progs/aolprogs/storage.zip](http://lenshellarchive.com/Progs/aolprogs/storage.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Hadez progs | storage2.zip | [http://dnx-online.net/~hadez/files/storage2.zip](http://dnx-online.net/~hadez/files/storage2.zip) | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/storage2.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/storage2.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

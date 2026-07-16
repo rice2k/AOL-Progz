@@ -1,7 +1,7 @@
 window.AOL_PROGZ_MISSING_CANDIDATES = {
-  "generatedAt": "2026-07-16T05:26:14.615Z",
-  "candidateCount": 1272,
-  "readyCandidateCount": 181,
+  "generatedAt": "2026-07-16T06:40:22.326Z",
+  "candidateCount": 1418,
+  "readyCandidateCount": 248,
   "candidates": [
     {
       "key": "netbuster",
@@ -260,6 +260,222 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 8
     },
     {
+      "key": "setup",
+      "fileName": "setup325.zip",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
+          "source": "AOL/AIM/Yahoo",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
+          "source": "AOL/AIM/Yahoo",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/aol7setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/aol7setup.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/aol8setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/aol8setup.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/aol9setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/aol9setup.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/aolsetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/aolsetup.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/am-net/aol7setup-852c70fb.exe",
+        "files/external/am-net/aol8setup-e289c5c2.exe",
+        "files/external/am-net/aol9setup-89ef253b.exe",
+        "files/external/am-net/aolsetup-c3cdd1ed.exe"
+      ],
+      "sourcePages": [
+        "AOL/AIM/Yahoo",
+        "AOL client and AIM version directory"
+      ],
+      "mirrorCount": 6,
+      "readyCount": 4
+    },
+    {
+      "key": "msvbvm-dll",
+      "fileName": "msvbvm50dll.zip",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/vbxdll/msvbvm50dll.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/msvbvm50dll.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/msvbvm50.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm50.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/msvbvm60.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msvbvm60.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/MSVBVM60.DLL",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/msvbvm50-3e602dda.dll",
+        "files/external/aimfilez-com/msvbvm60-117ab42e.dll",
+        "files/external/coltpro-net/msvbvm60-af7ec917.dll"
+      ],
+      "sourcePages": [
+        "Visual Basic Section",
+        "Missing Files"
+      ],
+      "mirrorCount": 4,
+      "readyCount": 3
+    },
+    {
+      "key": "vb-dll",
+      "fileName": "vb40016.dll",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/vb40016.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/vbxdll/vb40032dll.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40032dll.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/vb40032.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/VB40032.DLL",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/vb40016-c8eb6c1a.dll",
+        "files/external/aimfilez-com/vb40032-f6349a6a.dll",
+        "files/external/coltpro-net/vb40032-213ca90f.dll"
+      ],
+      "sourcePages": [
+        "Missing Files",
+        "Visual Basic Section"
+      ],
+      "mirrorCount": 4,
+      "readyCount": 3
+    },
+    {
+      "key": "vbrun-dll",
+      "fileName": "vbrun100.dll",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/vbrun100.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vbrun100.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/vbxdll/vbrun200dll.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vbrun200dll.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/vbrun200.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vbrun200.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/vbrun300.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vbrun300.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/vbrun100-348eb154.dll",
+        "files/external/aimfilez-com/vbrun200-dc920038.dll",
+        "files/external/aimfilez-com/vbrun300-194dc02b.dll"
+      ],
+      "sourcePages": [
+        "Missing Files",
+        "Visual Basic Section"
+      ],
+      "mirrorCount": 4,
+      "readyCount": 3
+    },
+    {
+      "key": "a",
+      "fileName": "AIM%201.0.414a.exe",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/aim-versions/AIM%201.0.414a.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%201.0.414a.exe",
+          "source": "AIM Versions",
+          "status": "ready"
+        },
+        {
+          "url": "http://aimfilez.com/aim-versions/AIM%201.7.563a.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%201.7.563a.exe",
+          "source": "AIM Versions",
+          "status": "ready"
+        },
+        {
+          "url": "http://aimfilez.com/aim-versions/AIM%202.0.731a.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/aim-versions/AIM%202.0.731a.exe",
+          "source": "AIM Versions",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe",
+        "files/external/aimfilez-com/aim201-7-563a-91a26710.exe",
+        "files/external/aimfilez-com/aim202-0-731a-577898fa.exe"
+      ],
+      "sourcePages": [
+        "AIM Versions"
+      ],
+      "mirrorCount": 3,
+      "readyCount": 3
+    },
+    {
       "key": "pascal",
       "fileName": "pascal1.zip",
       "category": "unknown",
@@ -291,6 +507,52 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "sourcePages": [],
       "mirrorCount": 3,
       "readyCount": 3
+    },
+    {
+      "key": "wrar",
+      "fileName": "wrar342.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/wrar342.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wrar342.exe",
+          "source": "..",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/wrar350.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wrar350.exe",
+          "source": "..",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/wrar380.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wrar380.exe",
+          "source": "..",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.angelfire.com/planet/programmes/wrar280.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/programmes/wrar280.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/planet/programmes/wrar370.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/programmes/wrar370.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/wrar280.zip",
+        "files/external/angelfire-com/wrar370.zip"
+      ],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 5,
+      "readyCount": 2
     },
     {
       "key": "create",
@@ -335,7 +597,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "msvbvm",
       "fileName": "msvbvm60.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
@@ -374,9 +636,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 2
     },
     {
+      "key": "ss-d-vbx",
+      "fileName": "ss3d.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/ss3d.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/ss3d.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.angelfire.com/in/aolsecrets/images/Ss3d.vbx",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.angelfire.com/in/aolsecrets/images/Ss3d.vbx",
+          "source": "Section 2",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.aimfilez.com/files/missing/ss3d2.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/ss3d2.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/ss3d-8607dee6.vbx",
+        "files/external/aimfilez-com/ss3d2-8f499be5.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files",
+        "Section 2"
+      ],
+      "mirrorCount": 3,
+      "readyCount": 2
+    },
+    {
       "key": "vb",
       "fileName": "vb40016.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
@@ -436,6 +733,34 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 2
     },
     {
+      "key": "comdlg-ocx",
+      "fileName": "comdlg32.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/comdlg32.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/comdlg32.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/COMDLG32.OCX",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/COMDLG32.OCX",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/comdlg32-6ecdb713.ocx",
+        "files/external/coltpro-net/comdlg32-5dfecf61.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 2
+    },
+    {
       "key": "gonzo-fade",
       "fileName": "gonzo_fade.zip",
       "category": "fader",
@@ -464,7 +789,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "revenge",
       "fileName": "revengeaol1.zip",
-      "category": "unknown",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://www.angelfire.com/pa3/reapvengeance/zipfiles/revengeaol1.zip",
@@ -482,32 +807,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [
         "files/external/angelfire-com/revengeaol1.zip",
         "files/external/angelfire-com/revengeaol2.zip"
-      ],
-      "sourcePages": [],
-      "mirrorCount": 2,
-      "readyCount": 2
-    },
-    {
-      "key": "wrar",
-      "fileName": "wrar280.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://www.angelfire.com/planet/programmes/wrar280.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/programmes/wrar280.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        },
-        {
-          "url": "http://www.angelfire.com/planet/programmes/wrar370.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/programmes/wrar370.zip",
-          "source": "ProgzRescue Angelfire files",
-          "status": "ready"
-        }
-      ],
-      "readyLocalFiles": [
-        "files/external/angelfire-com/wrar280.zip",
-        "files/external/angelfire-com/wrar370.zip"
       ],
       "sourcePages": [],
       "mirrorCount": 2,
@@ -629,7 +928,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "booter",
       "fileName": "aim47booterv45.zip",
-      "category": "punter/booter",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/punters/aim47booterv45.zip",
@@ -662,7 +961,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
           "url": "http://www.cybernyse.com/downlowdz/aimdeadaim.zip",
           "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdeadaim.zip",
           "source": "AIM",
-          "status": "candidate"
+          "status": "http-404"
         },
         {
           "url": "http://www.angelfire.com/falcon/secretsociety/deadaim_4.zip",
@@ -676,6 +975,117 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "sourcePages": [
         "AIM"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "iconedit",
+      "fileName": "AIMIconEdit.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/AIMIconEdit.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AIMIconEdit.exe",
+          "source": "8",
+          "status": "ready"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/miscprogs/iconedit.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/iconedit.zip",
+          "source": "Miscellaneous Progs",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aimiconedit-3488d8b8.exe"
+      ],
+      "sourcePages": [
+        "8",
+        "Miscellaneous Progs"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "popup",
+      "fileName": "aimpopup.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/aimpopup.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimpopup.exe",
+          "source": "7",
+          "status": "ready"
+        },
+        {
+          "url": "http://lenshellarchive.com/html/popup.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/popup.zip",
+          "source": "HTML/CGI Code",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aimpopup-a2d9f1a6.exe"
+      ],
+      "sourcePages": [
+        "7",
+        "HTML/CGI Code"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "buddykill",
+      "fileName": "buddykill.zip",
+      "category": "punter/booter",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
+          "source": "LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "url": "http://aimfilez.com/files/BuddyKill.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/BuddyKill.exe",
+          "source": "8",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/buddykill-bcd3802c.exe"
+      ],
+      "sourcePages": [
+        "LensHell AIM progs",
+        "8"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "chatscan-ocx",
+      "fileName": "chatscan3.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/chatscan3.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/chatscan3.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/chatscan%C2%B3.ocx",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/chatscan%C2%B3.ocx",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/chatscan3-2b12e4af.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
       ],
       "mirrorCount": 2,
       "readyCount": 1
@@ -708,6 +1118,143 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "formatsn",
+      "fileName": "formatsn.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/formatsn.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/formatsn.exe",
+          "source": "3",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.8op.com/ironbloodownz/dopeeffects/FormatSN.zip",
+          "waybackUrl": "https://web.archive.org/web/20020601203124/http://www.8op.com/ironbloodownz/dopeeffects/FormatSN.zip",
+          "source": "User-supplied AOL utility links",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/formatsn-ac427d25.exe"
+      ],
+      "sourcePages": [
+        "3"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "ghost",
+      "fileName": "ghosttool62.zip",
+      "category": "punter/booter",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aimprogs/punters/ghosttool62.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ghosttool62.zip",
+          "source": "LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "url": "http://aimfilez.com/files/GhostToolv1.0.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/GhostToolv1.0.exe",
+          "source": "5",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe"
+      ],
+      "sourcePages": [
+        "LensHell AIM progs",
+        "5"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "icondrop",
+      "fileName": "icondropv12.zip",
+      "category": "punter/booter",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aimprogs/punters/icondropv12.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/icondropv12.zip",
+          "source": "LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "url": "http://aimfilez.com/files/IconDrop2.0.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/IconDrop2.0.exe",
+          "source": "8",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/icondrop2-0-69d20cfa.exe"
+      ],
+      "sourcePages": [
+        "LensHell AIM progs",
+        "8"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "msinet-ocx",
+      "fileName": "msinet.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/msinet.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/msinet.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/msinet.ocx",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/msinet.ocx",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/msinet-a28f9137.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "mswinsck-ocx",
+      "fileName": "mswinsck.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/mswinsck.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mswinsck.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/mswinsck.ocx",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/mswinsck.ocx",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/mswinsck-c21a93bd.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "remoteidle",
       "fileName": "remoteidle.zip",
       "category": "idler/bot",
@@ -735,9 +1282,37 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "setuprt",
+      "fileName": "setuprt22.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/setuprt22.exe",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/setuprt22.exe",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "ready"
+        },
+        {
+          "url": "http://www.oogle.net/rampage/setuprt22.exe",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
+          "source": "Section 2",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/click-online2000-com/setuprt22-bf0dd433.exe"
+      ],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz",
+        "Section 2"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "vbrun-sp",
       "fileName": "vbrun60sp3.EXE",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE",
@@ -764,7 +1339,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "winsck",
       "fileName": "winsck.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/winsck.zip",
@@ -903,6 +1478,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "ac-install",
+      "fileName": "ac_install.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/ac_install.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/ac_install.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/am-net/ac-install-fe4d5a18.exe"
+      ],
+      "sourcePages": [
+        "AOL client and AIM version directory"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "acid-rain",
       "fileName": "acid_rain.zip",
       "category": "unknown",
@@ -960,6 +1556,69 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "install",
+      "fileName": "AIM_Install.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/AIM_Install.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/AIM_Install.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/am-net/aim-install-bea29830.exe"
+      ],
+      "sourcePages": [
+        "AOL client and AIM version directory"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "amp",
+      "fileName": "AimAmp.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/AimAmp.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AimAmp.exe",
+          "source": "7",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aimamp-b8bdc65e.exe"
+      ],
+      "sourcePages": [
+        "7"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "change",
+      "fileName": "aimChange.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/aimChange.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimChange.exe",
+          "source": "AIMFilez files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aimchange-d83f8223.exe"
+      ],
+      "sourcePages": [
+        "AIMFilez files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "r",
       "fileName": "aimr2.zip",
       "category": "AIM",
@@ -998,6 +1657,48 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "talk",
+      "fileName": "aimtalk20.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/aimtalk20.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimtalk20.exe",
+          "source": "3",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aimtalk20-3b135bf1.exe"
+      ],
+      "sourcePages": [
+        "3"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "antibot",
+      "fileName": "antibot11.exe",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/antibot11.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/antibot11.exe",
+          "source": "4",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/antibot11-50be5e19.exe"
+      ],
+      "sourcePages": [
+        "4"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "antimacro",
       "fileName": "antimacro.zip",
       "category": "chat/macro",
@@ -1013,6 +1714,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/antimacro.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "communicator",
+      "fileName": "AOLCommunicator.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/AOLCommunicator.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AOLCommunicator.exe",
+          "source": "8",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/aolcommunicator-85109c9c.exe"
+      ],
+      "sourcePages": [
+        "8"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -1036,9 +1758,30 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "asub",
+      "fileName": "Asub.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/Asub.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/Asub.exe",
+          "source": "6",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/asub-1abf2bf0.exe"
+      ],
+      "sourcePages": [
+        "6"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "auto",
       "fileName": "autoaim4.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://www.angelfire.com/games3/aok/files/autoaim4.zip",
@@ -1051,6 +1794,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/autoaim4.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "awaystate",
+      "fileName": "AwayState.exe",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/AwayState.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AwayState.exe",
+          "source": "7",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/awaystate-9d1caf3e.exe"
+      ],
+      "sourcePages": [
+        "7"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -1188,6 +1952,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "bud-setup",
+      "fileName": "Bud-Setup.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/Bud-Setup.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/Bud-Setup.exe",
+          "source": "3",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/bud-setup-b6144227.exe"
+      ],
+      "sourcePages": [
+        "3"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "caeo-rama",
       "fileName": "caeo_programa.zip",
       "category": "unknown",
@@ -1201,6 +1986,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/caeo-programa.zip"
+      ],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "chatocx-ocx",
+      "fileName": "ChatOCX2.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.coltpro.net/files3/missings/ChatOCX2.ocx",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/ChatOCX2.ocx",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/coltpro-net/chatocx2-5f3e25fd.ocx"
       ],
       "sourcePages": [],
       "mirrorCount": 1,
@@ -1222,6 +2026,48 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/chatsource.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "cloc-vbx",
+      "fileName": "cloc.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/cloc.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/cloc.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/cloc-5783db44.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "cmdialog-vbx",
+      "fileName": "cmdialog.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/cmdialog.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/cmdialog.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/cmdialog-62a38b92.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -1258,6 +2104,46 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/comct332.zip"
+      ],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "comctl-ocx",
+      "fileName": "comctl32.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/comctl32.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/comctl32.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/comctl32-e2ba15bc.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "comdlg-dll",
+      "fileName": "COMDLG32.DLL",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.coltpro.net/files3/missings/COMDLG32.DLL",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/COMDLG32.DLL",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/coltpro-net/comdlg32-ea31f2ea.dll"
       ],
       "sourcePages": [],
       "mirrorCount": 1,
@@ -1435,6 +2321,69 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "dbpush-vbx",
+      "fileName": "dbpush.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/dbpush.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/dbpush.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/dbpush-f26405e8.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "dbttip-vbx",
+      "fileName": "dbttip.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/dbttip.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/dbttip.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/dbttip-434e10d1.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "dc",
+      "fileName": "dctool.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/dctool.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/dctool.exe",
+          "source": "6",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/dctool-df5f3a78.exe"
+      ],
+      "sourcePages": [
+        "6"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "details",
       "fileName": "details.zip",
       "category": "unknown",
@@ -1511,6 +2460,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "dotmacregister",
+      "fileName": "dotMacRegister.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/dotMacRegister.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/dotMacRegister.exe",
+          "source": "4",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/dotmacregister-2552521a.exe"
+      ],
+      "sourcePages": [
+        "4"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "drapeauscreensaver-mcld",
       "fileName": "drapeauscreensaver-mcld.zip",
       "category": "unknown",
@@ -1545,6 +2515,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/dvbpl-020619.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "dwsbc-ocx",
+      "fileName": "dwsbc32.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/dwsbc32.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/dwsbc32.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/dwsbc32-66a535ca.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -1663,6 +2654,48 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "evilintentions",
+      "fileName": "EvilIntentions2.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/EvilIntentions2.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/EvilIntentions2.exe",
+          "source": "AIMFilez files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/evilintentions2-a5d56efa.exe"
+      ],
+      "sourcePages": [
+        "AIMFilez files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "exploi-s",
+      "fileName": "ExploiTools.sit",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/ExploiTools.sit",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/ExploiTools.sit",
+          "source": "Mac Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/exploitools-24fc3a74.sit"
+      ],
+      "sourcePages": [
+        "Mac Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "factors",
       "fileName": "factors.zip",
       "category": "unknown",
@@ -1678,6 +2711,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/factors.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "fbimage",
+      "fileName": "fbimage.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/fbimage.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/fbimage.exe",
+          "source": "2",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/fbimage-660afb3f.exe"
+      ],
+      "sourcePages": [
+        "2"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -1929,6 +2983,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "grid-vbx",
+      "fileName": "grid.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/grid.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/grid.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/grid-9c49a1da.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "hackers-crackdown",
       "fileName": "hackers_crackdown.zip",
       "category": "hazardous/account or remote-control context",
@@ -2043,6 +3118,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "hyperinfo",
+      "fileName": "hyperinfo.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/hyperinfo.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/hyperinfo.exe",
+          "source": "2",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe"
+      ],
+      "sourcePages": [
+        "2"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "icons",
       "fileName": "icons.zip",
       "category": "unknown",
@@ -2058,6 +3154,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/icons.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "idlemon-dll",
+      "fileName": "idlemon.dll",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/idlemon.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/idlemon.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/idlemon-f920c14a.dll"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -2081,6 +3198,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "instantidler",
+      "fileName": "InstantIdler52.exe",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/InstantIdler52.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/InstantIdler52.exe",
+          "source": "4",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/instantidler52-59727d46.exe"
+      ],
+      "sourcePages": [
+        "4"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "interface",
       "fileName": "interface.zip",
       "category": "unknown",
@@ -2096,6 +3234,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/interface.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "ispec",
+      "fileName": "Ispec.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/Ispec.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/Ispec.exe",
+          "source": "6",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/ispec-e3b22ea2.exe"
+      ],
+      "sourcePages": [
+        "6"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -2271,6 +3430,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "mbar-vbx",
+      "fileName": "mbar.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/mbar.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mbar.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/mbar-4be76662.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "mcnh",
       "fileName": "mcnh.zip",
       "category": "unknown",
@@ -2423,6 +3603,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "mp-play-ocx",
+      "fileName": "mp3play.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/mp3play.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mp3play.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/mp3play-fa471de0.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "mpegdll",
       "fileName": "mpegdll.zip",
       "category": "unknown",
@@ -2461,6 +3662,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "mscomctl-ocx",
+      "fileName": "mscomctl.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/mscomctl.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mscomctl.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/mscomctl-f5236d1d.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "mwgfxdll",
       "fileName": "mwgfxdll.zip",
       "category": "unknown",
@@ -2476,6 +3698,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/mwgfxdll.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "myim",
+      "fileName": "MyIM.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/MyIM.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/MyIM.exe",
+          "source": "3",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/myim-cbbb1634.exe"
+      ],
+      "sourcePages": [
+        "3"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -2571,6 +3814,48 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/oh-scroller.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "oleaut-dll",
+      "fileName": "oleaut32.dll",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/oleaut32.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/oleaut32.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/oleaut32-fbf48324.dll"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "olepro-dll",
+      "fileName": "olepro32.dll",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/olepro32.dll",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/olepro32.dll",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/olepro32-33ec48d6.dll"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -2685,6 +3970,46 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/plasmascreensaver-mcld.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "playcd-ocx",
+      "fileName": "playcd2.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.coltpro.net/files3/missings/playcd2.ocx",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/playcd2.ocx",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/coltpro-net/playcd2-32333544.ocx"
+      ],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "pornblock",
+      "fileName": "PornBlock.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/PornBlock.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/PornBlock.exe",
+          "source": "7",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/pornblock-ba69871f.exe"
+      ],
+      "sourcePages": [
+        "7"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -2879,6 +4204,109 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "reshack",
+      "fileName": "ResHack.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/ResHack.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/ResHack.exe",
+          "source": "AIMFilez files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/reshack-ae82f47d.exe"
+      ],
+      "sourcePages": [
+        "AIMFilez files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "riched-dll",
+      "fileName": "RICHED32.DLL",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.coltpro.net/files3/missings/RICHED32.DLL",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/RICHED32.DLL",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/coltpro-net/riched32-8462623b.dll"
+      ],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "richtx-ocx",
+      "fileName": "richtx32.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/richtx32.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/richtx32.ocx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/richtx32-87eca7a6.ocx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "rotext-vbx",
+      "fileName": "rotext.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/rotext.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/rotext.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/rotext-a99777db.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "s-sa",
+      "fileName": "SAIMsa.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/SAIMsa.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/SAIMsa.exe",
+          "source": "5",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/saimsa-a4b4a517.exe"
+      ],
+      "sourcePages": [
+        "5"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "salat",
       "fileName": "salat.zip",
       "category": "unknown",
@@ -3069,6 +4497,48 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "setup-x",
+      "fileName": "setupaol60_9x.exe",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/setupaol60_9x.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/setupaol60_9x.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/am-net/setupaol60-9x-f6f5a4c2.exe"
+      ],
+      "sourcePages": [
+        "AOL client and AIM version directory"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "setup-kb",
+      "fileName": "setupaol602kb.exe",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/AOL/setupaol602kb.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AOL/setupaol602kb.exe",
+          "source": "AOL client and AIM version directory",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/am-net/setupaol602kb-c496c110.exe"
+      ],
+      "sourcePages": [
+        "AOL client and AIM version directory"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "shell",
       "fileName": "shell.zip",
       "category": "unknown",
@@ -3160,6 +4630,69 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/simple-scribble.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "smilebot",
+      "fileName": "SmileBot.exe",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/SmileBot.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/SmileBot.exe",
+          "source": "5",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/smilebot-64edb771.exe"
+      ],
+      "sourcePages": [
+        "5"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "smiley",
+      "fileName": "Smiley.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/Smiley.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/Smiley.exe",
+          "source": "8",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/smiley-c14cffa3.exe"
+      ],
+      "sourcePages": [
+        "8"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "sntrader",
+      "fileName": "SNTrader.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/SNTrader.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/SNTrader.exe",
+          "source": "4",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/sntrader-d9f71739.exe"
+      ],
+      "sourcePages": [
+        "4"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -3468,6 +5001,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "threed-vbx",
+      "fileName": "threed.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/threed.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/threed.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/threed-39aaa6ed.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "topazchat",
       "fileName": "topazchat.zip",
       "category": "chat/macro",
@@ -3620,6 +5174,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "vb-chat-ocx",
+      "fileName": "VB5CHAT2.ocx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.coltpro.net/files3/missings/VB5CHAT2.ocx",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB5CHAT2.ocx",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/coltpro-net/vb5chat2-0e54601c.ocx"
+      ],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "vba",
       "fileName": "vba.zip",
       "category": "unknown",
@@ -3635,6 +5208,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/vba.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "vbmsg-vbx",
+      "fileName": "vbmsg.vbx",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://www.aimfilez.com/files/missing/vbmsg.vbx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vbmsg.vbx",
+          "source": "Missing Files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/vbmsg-2305f301.vbx"
+      ],
+      "sourcePages": [
+        "Missing Files"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -3755,7 +5349,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "winsock-dll",
       "fileName": "winsock.dll.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://www.angelfire.com/dc/zidane/programs/winsock.dll.zip",
@@ -3787,6 +5381,27 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "files/external/angelfire-com/xchat.zip"
       ],
       "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "xregister",
+      "fileName": "xregister.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/xregister.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/xregister.exe",
+          "source": "3",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/aimfilez-com/xregister-859fa003.exe"
+      ],
+      "sourcePages": [
+        "3"
+      ],
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -3964,6 +5579,49 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "master",
+      "fileName": "master1.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master1.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master2.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master3.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master32.zip",
+          "source": "Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Visual Basic Section"
+      ],
+      "mirrorCount": 5,
+      "readyCount": 0
+    },
+    {
       "key": "vbtips",
       "fileName": "vbtips1.zip",
       "category": "unknown",
@@ -4046,7 +5704,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "fury",
       "fileName": "aimfuryaim.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/aimfuryaim.zip",
@@ -4117,43 +5775,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "Aol 4.0/5.0 Progs",
         "Section 2",
         "prog's/misc a-m"
-      ],
-      "mirrorCount": 4,
-      "readyCount": 0
-    },
-    {
-      "key": "master",
-      "fileName": "master1.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master1.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master1.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master2.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master3.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master3.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master32.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Visual Basic Section"
       ],
       "mirrorCount": 4,
       "readyCount": 0
@@ -4460,6 +6081,103 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "envy",
+      "fileName": "envy1.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/envy1.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/envy1.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/envy10.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/envy10.zip",
+          "source": "prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.cybernyse.com/envy.zip",
+          "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/envy.zip",
+          "source": "Progs Section 1",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz",
+        "prog's/misc a-m",
+        "Progs Section 1"
+      ],
+      "mirrorCount": 3,
+      "readyCount": 0
+    },
+    {
+      "key": "exe-strings-db",
+      "fileName": "exe_strings.db.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
+          "source": "Legacy AOL Underground repository",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/exe_strings.db.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/exe_strings.db.zip",
+          "source": "mikrodotnet AOL progz repository",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
+          "source": "ssstonebraker/aolunderground-proggies",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Legacy AOL Underground repository",
+        "mikrodotnet AOL progz repository",
+        "ssstonebraker/aolunderground-proggies"
+      ],
+      "mirrorCount": 3,
+      "readyCount": 0
+    },
+    {
+      "key": "freakinb",
+      "fileName": "freakinb104.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/freakinb104.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/freakinb104.zip",
+          "source": "..",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/freakinb106.3.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/freakinb106.3.zip",
+          "source": "..",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/freakinb106.4.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/freakinb106.4.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 3,
+      "readyCount": 0
+    },
+    {
       "key": "leetlink",
       "fileName": "leetlink.zip",
       "category": "AIM",
@@ -4486,6 +6204,39 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 3,
+      "readyCount": 0
+    },
+    {
+      "key": "oracle",
+      "fileName": "oracle.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.net/downloads/progs/oracle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/oracle.zip",
+          "source": "Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "url": "http://click-online2000.com/progz/oracle.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/oracle.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        },
+        {
+          "url": "http://www.cybernyse.com/downlowdz/oracle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/oracle.zip",
+          "source": "Section 2",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Aol 4.0/5.0 Progs",
+        "Click-Online AOL 4/5 progz",
+        "Section 2"
       ],
       "mirrorCount": 3,
       "readyCount": 0
@@ -4557,7 +6308,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "threed",
       "fileName": "threed.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/threed.zip",
@@ -4794,7 +6545,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "destroy",
       "fileName": "aimdestroyaim.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/aimdestroyaim.zip",
@@ -4997,6 +6748,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "pluss",
+      "fileName": "aimpluss.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
+          "source": "prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/aimpluss.zip",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimpluss.zip",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "prog's/misc a-m"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "sk-s",
       "fileName": "aimsk8saimtoolzv21.zip",
       "category": "AIM",
@@ -5018,6 +6794,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "sourcePages": [
         "AIM",
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "ster",
+      "fileName": "aimster.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
+          "source": "prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/aimster.zip",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimster.zip",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "prog's/misc a-m"
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -5227,6 +7028,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "free",
+      "fileName": "AOL4FREE2.6v4.sit",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "source": "AOL4Free v4",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "source": "AOL4Free v4",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "AOL4Free v4"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "inker",
       "fileName": "aolinker.zip",
       "category": "unknown",
@@ -5304,6 +7130,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "autoruns",
+      "fileName": "autoruns.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "oldscool_windows_tools"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "blindidle",
       "fileName": "blindidle.zip",
       "category": "idler/bot",
@@ -5332,7 +7183,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "brutoc",
       "fileName": "brutoc.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/brutoc.zip",
@@ -5427,6 +7278,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "sourcePages": [
         "LensHell AIM progs",
         "AIM"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "charmap",
+      "fileName": "CHARMAP.EXE",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "oldscool_windows_tools"
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -5535,6 +7411,32 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "conspericy",
+      "fileName": "conspericy.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/conspericy.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/conspericy.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        },
+        {
+          "url": "http://www.cybernyse.com/conspericy.zip",
+          "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/conspericy.zip",
+          "source": "Progs Section 1",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz",
+        "Progs Section 1"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "cp",
       "fileName": "cp.zip",
       "category": "chat/macro",
@@ -5555,6 +7457,32 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "c-coms"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "crackzilla",
+      "fileName": "crackzilla.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/crackzilla.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/crackzilla.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/aolcrackers/crackzilla.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackzilla.zip",
+          "source": "cracker's",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs",
+        "cracker's"
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -5739,32 +7667,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "envy",
-      "fileName": "envy10.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/envy10.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/envy10.zip",
-          "source": "prog's/misc a-m",
-          "status": "candidate"
-        },
-        {
-          "url": "http://www.cybernyse.com/envy.zip",
-          "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/envy.zip",
-          "source": "Progs Section 1",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "prog's/misc a-m",
-        "Progs Section 1"
-      ],
-      "mirrorCount": 2,
-      "readyCount": 0
-    },
-    {
       "key": "evolution",
       "fileName": "evolution2.zip",
       "category": "AIM",
@@ -5915,6 +7817,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "sourcePages": [
         "prog's/misc a-m",
         "Progs Section 1"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "fiddler-setup",
+      "fileName": "Fiddler2Setup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
+          "source": "..",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -6304,6 +8231,32 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "lamer",
+      "fileName": "LamerToolz.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/LamerToolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/LamerToolz.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
+          "source": "prog's/misc a-m",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz",
+        "prog's/misc a-m"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "lightning",
       "fileName": "lightningtoolz70.zip",
       "category": "unknown",
@@ -6535,6 +8488,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "nfos",
+      "fileName": "nfos.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "source": "other",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
+          "source": "other",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "other"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "nolimit",
       "fileName": "nolimit.zip",
       "category": "room buster",
@@ -6560,27 +8538,52 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "oracle",
-      "fileName": "oracle.zip",
+      "key": "npp-installer",
+      "fileName": "npp.7.9.2.Installer.exe",
       "category": "unknown",
       "mirrors": [
         {
-          "url": "http://www.oogle.net/downloads/progs/oracle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/oracle.zip",
-          "source": "Aol 4.0/5.0 Progs",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "source": "oldscool_windows_tools",
           "status": "candidate"
         },
         {
-          "url": "http://www.cybernyse.com/downlowdz/oracle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/oracle.zip",
-          "source": "Section 2",
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "source": "oldscool_windows_tools",
           "status": "candidate"
         }
       ],
       "readyLocalFiles": [],
       "sourcePages": [
-        "Aol 4.0/5.0 Progs",
-        "Section 2"
+        "oldscool_windows_tools"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "paranoia",
+      "fileName": "paranoia.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/paranoia.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/paranoia.zip",
+          "source": "prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "url": "http://click-online2000.com/progz/8Paranoia.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/8Paranoia.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "prog's/misc n-z",
+        "Click-Online AOL 4/5 progz"
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -6612,26 +8615,26 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "setup",
-      "fileName": "setup325.zip",
-      "category": "AIM",
+      "key": "processexplorernt",
+      "fileName": "ProcessExplorerNt.zip",
+      "category": "unknown",
       "mirrors": [
         {
-          "url": "http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
-          "source": "AOL/AIM/Yahoo",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "source": "oldscool_windows_tools",
           "status": "candidate"
         },
         {
-          "url": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
-          "source": "AOL/AIM/Yahoo",
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "source": "oldscool_windows_tools",
           "status": "candidate"
         }
       ],
       "readyLocalFiles": [],
       "sourcePages": [
-        "AOL/AIM/Yahoo"
+        "oldscool_windows_tools"
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -6683,6 +8686,32 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "sonicgold",
+      "fileName": "sonicgold.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://www.cybernyse.com/downlowdz/sonicgold.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sonicgold.zip",
+          "source": "Section 2",
+          "status": "candidate"
+        },
+        {
+          "url": "http://click-online2000.com/progz/sonicgold.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/sonicgold.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Section 2",
+        "Click-Online AOL 4/5 progz"
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -6789,6 +8818,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "tweakuipowertoysetup",
+      "fileName": "TweakUiPowertoySetup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "oldscool_windows_tools"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "unknown",
       "fileName": "unknown4.zip",
       "category": "unknown",
@@ -6868,7 +8922,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "vb-a",
       "fileName": "vb40016a.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/vb40016a.zip",
@@ -6911,6 +8965,56 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "wincdemu",
+      "fileName": "WinCDEmu-4.1.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "oldscool_windows_tools"
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
+      "key": "winhex",
+      "fileName": "winhex.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "url": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "source": "oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "oldscool_windows_tools"
       ],
       "mirrorCount": 2,
       "readyCount": 0
@@ -7070,6 +9174,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "xmousebuttoncontrolsetup",
+      "fileName": "XMouseButtonControlSetup.2.4.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/XMouseButtonControlSetup.2.4.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/XMouseButtonControlSetup.2.4.exe",
+          "source": "..",
+          "status": "candidate"
+        },
+        {
+          "url": "http://am.net/lib/TOOLS/XMouseButtonControlSetup.2.5.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/XMouseButtonControlSetup.2.5.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 2,
+      "readyCount": 0
+    },
+    {
       "key": "botbooter",
       "fileName": "10botbooter.zip",
       "category": "punter/booter",
@@ -7205,7 +9334,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dfxapi",
       "fileName": "3dfxapi3.zip",
-      "category": "AIM",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/3dfxapi3.zip",
@@ -7224,7 +9353,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dlabel",
       "fileName": "3dlabel.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/3dlabel.zip",
@@ -7374,6 +9503,23 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "ac-passwordcracker",
+      "fileName": "acaimpasswordcracker.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/acaimpasswordcracker.zip",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/acaimpasswordcracker.zip",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "acidfader",
       "fileName": "acidfader.zip",
       "category": "fader",
@@ -7414,7 +9560,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "actcndy",
       "fileName": "actcndy2.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/actcndy2.zip",
@@ -7433,7 +9579,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "activeskin",
       "fileName": "activeskin.zip",
-      "category": "AIM",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/activeskin.zip",
@@ -8134,6 +10280,23 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "creat",
+      "fileName": "aimcreat.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/aimcreat.zip",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimcreat.zip",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "deadend",
       "fileName": "aimdeadendtoolz.zip",
       "category": "AIM",
@@ -8269,7 +10432,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "evil",
       "fileName": "aimevilaim.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/aimevilaim.zip",
@@ -8668,7 +10831,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "maddux",
       "fileName": "aimmadduxaim10.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://www.cybernyse.com/downlowdz/aimmadduxaim10.zip",
@@ -8984,25 +11147,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "AIM"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "pluss",
-      "fileName": "aimpluss.zip",
-      "category": "AIM",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
-          "source": "prog's/misc a-m",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "prog's/misc a-m"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -9407,25 +11551,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "ster",
-      "fileName": "aimster.zip",
-      "category": "AIM",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
-          "source": "prog's/misc a-m",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "prog's/misc a-m"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "studio",
       "fileName": "aimstudio102.zip",
       "category": "AIM",
@@ -9768,6 +11893,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "amazonclouddrivesetup",
+      "fileName": "AmazonCloudDriveSetup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/AmazonCloudDriveSetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/AmazonCloudDriveSetup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "amcmsgbox",
       "fileName": "amcmsgbox.zip",
       "category": "unknown",
@@ -9865,7 +12009,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "anomaly",
       "fileName": "anomaly.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/anomaly.zip",
@@ -10072,9 +12216,45 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "s-archive",
+      "fileName": "AOL%20Progs%20ARCHIVE.rar",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://kadeklizem.com/AOL%20Progs%20ARCHIVE.rar",
+          "waybackUrl": "https://web.archive.org/web/20220321112058/http://kadeklizem.com/AOL%20Progs%20ARCHIVE.rar",
+          "source": "Legacy AOL Underground repository",
+          "status": "too-large"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Legacy AOL Underground repository"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "german",
+      "fileName": "AOL30german.exe",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/AOL30german.exe",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/AOL30german.exe",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "fix",
       "fileName": "aol70fix.zip",
-      "category": "unknown",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://24.185.191.87/progz/aol70fix.zip",
@@ -10093,7 +12273,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "chatbot",
       "fileName": "aol8chatbot.zip",
-      "category": "idler/bot",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip",
@@ -10112,7 +12292,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ex",
       "fileName": "aol8ex.zip",
-      "category": "unknown",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/aol8ex.zip",
@@ -10131,7 +12311,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "plus",
       "fileName": "aol8plus.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol8plus.zip",
@@ -10150,7 +12330,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "sendchat",
       "fileName": "aol8sendchat.zip",
-      "category": "chat/macro",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/aol8sendchat.zip",
@@ -10169,7 +12349,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "se",
       "fileName": "aol90se.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol90se.zip",
@@ -10201,6 +12381,23 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "sourcePages": [
         "cracker's"
       ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "filedownloader",
+      "fileName": "aolfiledownloader50.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/aolfiledownloader50.zip",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aolfiledownloader50.zip",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [],
       "mirrorCount": 1,
       "readyCount": 0
     },
@@ -10713,6 +12910,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "b-it",
+      "fileName": "b4it.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/b4it.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/b4it.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -11518,7 +13734,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "bru",
       "fileName": "bruaol.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/bruaol.zip",
@@ -11611,6 +13827,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "buddybegone",
+      "fileName": "BuddyBeGone.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/BuddyBeGone.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/BuddyBeGone.exe",
+          "source": "9",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "9"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "buddyblaster",
       "fileName": "buddyblaster.zip",
       "category": "mass mailer/server",
@@ -11630,25 +13865,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "buddykill",
-      "fileName": "buddykill.zip",
-      "category": "punter/booter",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
-          "source": "LensHell AIM progs",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell AIM progs"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "buddymax",
       "fileName": "buddymax.zip",
       "category": "AIM",
@@ -11663,6 +13879,63 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "buddysorter",
+      "fileName": "BuddySorter.exe",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/BuddySorter.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/BuddySorter.exe",
+          "source": "9",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "9"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "bugshooting-setup",
+      "fileName": "BugShooting2_Setup_2.1.1.258.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/BugShooting2_Setup_2.1.1.258.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/BugShooting2_Setup_2.1.1.258.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "build",
+      "fileName": "build3.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/build3.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/build3.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -11858,6 +14131,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "cab",
+      "fileName": "cab2003.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/cab2003.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/cab2003.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "cast",
       "fileName": "cast.zip",
       "category": "hazardous/account or remote-control context",
@@ -11879,7 +14171,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ccrpprg",
       "fileName": "ccrpprg6.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/ccrpprg6.zip",
@@ -11891,6 +14183,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "cdmage",
+      "fileName": "CDmage1-01-5.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/CDmage1-01-5.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/CDmage1-01-5.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "cdmage-b",
+      "fileName": "CDmage1-02-1B5.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/CDmage1-02-1B5.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/CDmage1-02-1B5.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -12183,7 +14513,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "chatocx",
       "fileName": "chatocx2.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
@@ -12259,7 +14589,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "chatscan",
       "fileName": "chatscan3.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/chatscan3.zip",
@@ -12392,7 +14722,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "chip-kid",
       "fileName": "chip4kid.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/chip4kid.zip",
@@ -12563,7 +14893,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cloc",
       "fileName": "cloc.zip",
-      "category": "AIM",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/cloc.zip",
@@ -12620,7 +14950,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "cmdialog",
       "fileName": "cmdialog.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/cmdialog.zip",
@@ -12770,9 +15100,28 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "com-six-beta",
+      "fileName": "com-six%20beta%202.2.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/com-six%20beta%202.2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/com-six%20beta%202.2.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "comctl",
       "fileName": "comctl32.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/comctl32.zip",
@@ -12791,7 +15140,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "comdlg",
       "fileName": "comdlg32.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/comdlg32.zip",
@@ -12827,20 +15176,20 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "conspericy",
-      "fileName": "conspericy.zip",
-      "category": "unknown",
+      "key": "compaccoms",
+      "fileName": "compaccoms.zip",
+      "category": "chat/macro",
       "mirrors": [
         {
-          "url": "http://www.cybernyse.com/conspericy.zip",
-          "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/conspericy.zip",
-          "source": "Progs Section 1",
-          "status": "candidate"
+          "url": "http://click-online2000.com/progz/compaccoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
         }
       ],
       "readyLocalFiles": [],
       "sourcePages": [
-        "Progs Section 1"
+        "Click-Online AOL 4/5 progz"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -13169,25 +15518,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "crackzilla",
-      "fileName": "crackzilla.zip",
-      "category": "hazardous/account or remote-control context",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolcrackers/crackzilla.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackzilla.zip",
-          "source": "cracker's",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "cracker's"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "crapidleremix",
       "fileName": "crapidleremix.zip",
       "category": "idler/bot",
@@ -13361,7 +15691,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "d-k",
       "fileName": "d3k30.zip",
-      "category": "punter/booter",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolpunters/d3k30.zip",
@@ -13570,7 +15900,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dbpush",
       "fileName": "dbpush.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/dbpush.zip",
@@ -13587,9 +15917,28 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "dbremix",
+      "fileName": "dbremix.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/dbremix.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "dbttip",
       "fileName": "dbttip.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/dbttip.zip",
@@ -13627,7 +15976,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dcsystray",
       "fileName": "dcsystray.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/dcsystray.zip",
@@ -13684,7 +16033,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "deathby",
       "fileName": "deathbyaim.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip",
@@ -13722,7 +16071,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "decript",
       "fileName": "decriptaim2.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/decriptaim2.zip",
@@ -13779,7 +16128,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dem",
       "fileName": "demaim2.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/demaim2.zip",
@@ -13817,7 +16166,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "demolish",
       "fileName": "demolishaim.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/demolishaim.zip",
@@ -14102,7 +16451,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dogbar",
       "fileName": "dogbarv2.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/dogbarv2.zip",
@@ -14114,6 +16463,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "domaincs",
+      "fileName": "domaincs.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/domaincs.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/domaincs.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -14387,7 +16755,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "dwsbc",
       "fileName": "dwsbc32.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/dwsbc32.zip",
@@ -15126,6 +17494,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "ez-gpo",
+      "fileName": "EZ_GPO_v2.01.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/EZ_GPO_v2.01.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/EZ_GPO_v2.01.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "ez-save-setup",
+      "fileName": "EZ_Save31_SETUP.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/EZ_Save31_SETUP.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/EZ_Save31_SETUP.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "ezaudio",
       "fileName": "ezaudio.zip",
       "category": "unknown",
@@ -15375,7 +17781,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "fir-z-chatscan",
       "fileName": "fir3z_chatscan.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/fir3z_chatscan.zip",
@@ -15470,7 +17876,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "flatbtn",
       "fileName": "flatbtn2.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/flatbtn2.zip",
@@ -15527,7 +17933,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "fly",
       "fileName": "flyaim35.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/flyaim35.zip",
@@ -15558,6 +17964,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "flyw",
+      "fileName": "flyw335.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/flyw335.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/flyw335.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -15658,6 +18083,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "fpfksetup-revnum-web-prod",
+      "fileName": "FPFKSetup-2008-02-09-0011-RevNum-001797_WEB_PROD.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/FPFKSetup-2008-02-09-0011-RevNum-001797_WEB_PROD.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/FPFKSetup-2008-02-09-0011-RevNum-001797_WEB_PROD.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "fpfksetup",
+      "fileName": "FPFKSetup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/FPFKSetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/FPFKSetup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "fr",
       "fileName": "fr2.zip",
       "category": "chat/macro",
@@ -15729,6 +18192,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "freongold",
+      "fileName": "freongold.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/freongold.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/freongold.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -15829,6 +18311,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "frui",
+      "fileName": "frui.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/frui.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/frui.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "ftx",
       "fileName": "ftx3.zip",
       "category": "unknown",
@@ -15905,9 +18406,28 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "gather",
+      "fileName": "gather.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/gather.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/gather.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "gauge",
       "fileName": "gauge.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/gauge.zip",
@@ -16026,25 +18546,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/getthat.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/getthat.zip",
-          "source": "LensHell AIM progs",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell AIM progs"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "ghost",
-      "fileName": "ghosttool62.zip",
-      "category": "punter/booter",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aimprogs/punters/ghosttool62.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ghosttool62.zip",
           "source": "LensHell AIM progs",
           "status": "candidate"
         }
@@ -16192,7 +18693,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "grid",
       "fileName": "grid.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/grid.zip",
@@ -16591,7 +19092,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "hix",
       "fileName": "hixaim2.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/hixaim2.zip",
@@ -16931,44 +19432,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "icondrop",
-      "fileName": "icondropv12.zip",
-      "category": "punter/booter",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aimprogs/punters/icondropv12.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/icondropv12.zip",
-          "source": "LensHell AIM progs",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell AIM progs"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "iconedit",
-      "fileName": "iconedit.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/miscprogs/iconedit.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/iconedit.zip",
-          "source": "Miscellaneous Progs",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Miscellaneous Progs"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "iconmaker",
       "fileName": "iconmaker.zip",
       "category": "unknown",
@@ -17218,7 +19681,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "impact",
       "fileName": "impact.zip",
-      "category": "unknown",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolmmservers/impact.zip",
@@ -17273,6 +19736,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "improvise",
+      "fileName": "improvise.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/improvise.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/improvise.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "imspam",
       "fileName": "imspam.zip",
       "category": "mass mailer/server",
@@ -17287,6 +19769,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "indeo",
+      "fileName": "indeo5.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/indeo5.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/indeo5.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -17406,6 +19907,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "installspeedfan",
+      "fileName": "installspeedfan440.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/installspeedfan440.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/installspeedfan440.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "instinct",
       "fileName": "instinct.zip",
       "category": "punter/booter",
@@ -17496,6 +20016,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "prog's/misc a-m"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "ioware-w-x",
+      "fileName": "ioware-w32-x86-402.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/ioware-w32-x86-402.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/ioware-w32-x86-402.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -17691,6 +20230,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "jaruleplat",
+      "fileName": "jaruleplat.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/jaruleplat.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/jaruleplat.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "jcomz",
       "fileName": "jcomz.zip",
       "category": "chat/macro",
@@ -17807,7 +20365,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "jscan",
       "fileName": "jscan.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/jscan.zip",
@@ -17952,6 +20510,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "prog's/misc a-m"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "kbang",
+      "fileName": "KBang.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/KBang.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/KBang.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -18394,25 +20971,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "lamer",
-      "fileName": "lamer.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
-          "source": "prog's/misc a-m",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "prog's/misc a-m"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "lamescroller",
       "fileName": "lamescroller.zip",
       "category": "chat/macro",
@@ -18503,6 +21061,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "termer's"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "less",
+      "fileName": "less.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/less.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/less.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -18700,7 +21277,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "loserscan",
       "fileName": "loserscan.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/loserscan.zip",
@@ -18776,7 +21353,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "lvbuttons",
       "fileName": "lvbuttons.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/lvbuttons.zip",
@@ -19118,7 +21695,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mbar",
       "fileName": "mbar.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/mbar.zip",
@@ -19745,7 +22322,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mp-play",
       "fileName": "mp3play.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/mp3play.zip",
@@ -19783,7 +22360,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mscomctl",
       "fileName": "mscomctl.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/mscomctl.zip",
@@ -19802,7 +22379,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "msdxm",
       "fileName": "msdxm.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/msdxm.zip",
@@ -19840,7 +22417,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "msinet",
       "fileName": "msinet.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/msinet.zip",
@@ -19859,7 +22436,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "msstdfmt",
       "fileName": "msstdfmt.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/msstdfmt.zip",
@@ -19876,28 +22453,9 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "msvbvm-dll",
-      "fileName": "msvbvm50dll.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/vbxdll/msvbvm50dll.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/msvbvm50dll.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Visual Basic Section"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "msvcp",
       "fileName": "msvcp60.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/msvcp60.zip",
@@ -19916,7 +22474,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "mswinsck",
       "fileName": "mswinsck.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/mswinsck.zip",
@@ -20370,6 +22928,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "nirext",
+      "fileName": "nirext.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/nirext.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/nirext.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "nitz",
       "fileName": "nitz.zip",
       "category": "chat/macro",
@@ -20403,6 +22980,63 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "notepad",
+      "fileName": "notepad2.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/notepad2.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/notepad2.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "nsis-setup",
+      "fileName": "nsis-2.46-setup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/nsis-2.46-setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/nsis-2.46-setup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "ntsec",
+      "fileName": "ntsec.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/ntsec.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/ntsec.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -20486,7 +23120,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "oc",
       "fileName": "oc25.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/oc25.zip",
@@ -20524,7 +23158,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "oleaut",
       "fileName": "oleaut32.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/oleaut32.zip",
@@ -20543,7 +23177,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "olepro",
       "fileName": "olepro32.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/olepro32.zip",
@@ -20788,25 +23422,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "paranoia",
-      "fileName": "paranoia.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/paranoia.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/paranoia.zip",
-          "source": "prog's/misc n-z",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "prog's/misc n-z"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "paranoid",
       "fileName": "paranoid.zip",
       "category": "unknown",
@@ -20859,6 +23474,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "pasteasy-setup",
+      "fileName": "pasteasy_setup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/pasteasy_setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/pasteasy_setup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -20923,7 +23557,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "percnt",
       "fileName": "percnt2.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/percnt2.zip",
@@ -21130,9 +23764,47 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "pinwheel",
+      "fileName": "PINWHEEL.EXE",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/PINWHEEL.EXE",
+          "waybackUrl": "http://am.net/lib/TOOLS/PINWHEEL.EXE",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "pkreader",
+      "fileName": "pkreader.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/pkreader.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/pkreader.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "playcd",
       "fileName": "playcd2.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/playcd2.zip",
@@ -21225,28 +23897,9 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "popup",
-      "fileName": "popup.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/html/popup.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/popup.zip",
-          "source": "HTML/CGI Code",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "HTML/CGI Code"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "popupbutton",
       "fileName": "popupbutton.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/popupbutton.zip",
@@ -21303,7 +23956,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "powersource",
       "fileName": "powersource.zip",
-      "category": "unknown",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/powersource.zip",
@@ -21315,6 +23968,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "pridelands",
+      "fileName": "pridelands.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/pridelands.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/pridelands.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -21415,6 +24087,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "pscript",
+      "fileName": "pscript5.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/pscript5.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/pscript5.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "psy-kscroller",
       "fileName": "psy2kscroller.zip",
       "category": "chat/macro",
@@ -21448,6 +24139,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "idler's"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "ptfb",
+      "fileName": "ptfb2110.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/ptfb2110.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/ptfb2110.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "ptfbadmn",
+      "fileName": "PTFBAdmn102.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/PTFBAdmn102.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/PTFBAdmn102.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -21493,7 +24222,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "punkmp",
       "fileName": "punkmp3.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/punkmp3.zip",
@@ -21524,6 +24253,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "QuickBust"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "qmodem",
+      "fileName": "QModem.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/QModem.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/QModem.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -21797,7 +24545,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "richtx",
       "fileName": "richtx32.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/richtx32.zip",
@@ -21809,6 +24557,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "ridbanners",
+      "fileName": "RidBanners.sit",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://aimfilez.com/files/RidBanners.sit",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/RidBanners.sit",
+          "source": "Mac Files",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Mac Files"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -21911,7 +24678,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "rotext",
       "fileName": "rotext.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/rotext.zip",
@@ -21923,6 +24690,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "rufus",
+      "fileName": "rufus-1.4.12.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/rufus-1.4.12.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/rufus-1.4.12.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -21968,7 +24754,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "scan",
       "fileName": "scan49.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/scan49.zip",
@@ -21987,7 +24773,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "scanchat",
       "fileName": "scanchat.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/scanchat.zip",
@@ -22025,7 +24811,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "scanthis",
       "fileName": "scanthis.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/scanthis.zip",
@@ -22156,9 +24942,28 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "sendtosmugmug",
+      "fileName": "SendToSmugMug.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/SendToSmugMug.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/SendToSmugMug.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "setting",
       "fileName": "setting.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/setting.zip",
@@ -22175,20 +24980,58 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "setuprt",
-      "fileName": "setuprt22.exe",
+      "key": "setup-bullzippdfprinter",
+      "fileName": "Setup_BullzipPDFPrinter_8_2_0_1406.exe",
       "category": "unknown",
       "mirrors": [
         {
-          "url": "http://www.oogle.net/rampage/setuprt22.exe",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe",
-          "source": "Section 2",
+          "url": "http://am.net/lib/TOOLS/Setup_BullzipPDFPrinter_8_2_0_1406.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Setup_BullzipPDFPrinter_8_2_0_1406.exe",
+          "source": "..",
           "status": "candidate"
         }
       ],
       "readyLocalFiles": [],
       "sourcePages": [
-        "Section 2"
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "setup-file-print-fedex-kinkos",
+      "fileName": "Setup_File_Print_FedEx_Kinkos.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "setup-skypeplus",
+      "fileName": "Setup-SkypePlus-1.2.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/Setup-SkypePlus-1.2.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Setup-SkypePlus-1.2.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -22272,7 +25115,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "siks",
       "fileName": "siksaim1.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aolprogs/siksaim1.zip",
@@ -22405,7 +25248,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "sky-c",
       "fileName": "sky32v3c.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/sky32v3c.zip",
@@ -22417,6 +25260,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "skypelogview",
+      "fileName": "skypelogview.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/skypelogview.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/skypelogview.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "skypesetup",
+      "fileName": "SkypeSetup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/SkypeSetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/SkypeSetup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -22493,6 +25374,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "prog's/misc n-z"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "slickrun",
+      "fileName": "SlickRun3.5.3.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/SlickRun3.5.3.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/SlickRun3.5.3.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -22745,6 +25645,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "solarwinds",
+      "fileName": "solarwinds.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/solarwinds.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/solarwinds.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "solarwindsbeta",
       "fileName": "solarwindsbetav13.zip",
       "category": "unknown",
@@ -22752,25 +25671,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         {
           "url": "http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip",
           "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip",
-          "source": "Section 2",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Section 2"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "sonicgold",
-      "fileName": "sonicgold.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://www.cybernyse.com/downlowdz/sonicgold.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sonicgold.zip",
           "source": "Section 2",
           "status": "candidate"
         }
@@ -22973,28 +25873,9 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "ss-d-vbx",
-      "fileName": "Ss3d.vbx",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://www.angelfire.com/in/aolsecrets/images/Ss3d.vbx",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.angelfire.com/in/aolsecrets/images/Ss3d.vbx",
-          "source": "Section 2",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Section 2"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "ss-d",
       "fileName": "ss3d2.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/ss3d2.zip",
@@ -23013,7 +25894,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ss-dvbx",
       "fileName": "ss3dvbx.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/ss3dvbx.zip",
@@ -23032,7 +25913,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ssa-d",
       "fileName": "ssa3d30.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/ssa3d30.zip",
@@ -23051,7 +25932,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ssspls",
       "fileName": "ssspls30.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/ssspls30.zip",
@@ -23146,7 +26027,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "stkit",
       "fileName": "stkit432.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/stkit432.zip",
@@ -23260,7 +26141,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "supersub",
       "fileName": "supersub.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/supersub.zip",
@@ -23277,9 +26158,47 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "svg-viewer-extension-i-signed",
+      "fileName": "svg_viewer_extension_i386_v011_signed.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/svg_viewer_extension_i386_v011_signed.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/svg_viewer_extension_i386_v011_signed.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "svg-viewer-extension-x-signed",
+      "fileName": "svg_viewer_extension_x64_v011_signed.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/svg_viewer_extension_x64_v011_signed.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/svg_viewer_extension_x64_v011_signed.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "swflash",
       "fileName": "swflash.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/swflash.zip",
@@ -23336,7 +26255,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "systray",
       "fileName": "systray.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/systray.zip",
@@ -23355,7 +26274,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "tabctl",
       "fileName": "tabctl32.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/tabctl32.zip",
@@ -23443,6 +26362,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "prog's/misc n-z"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "taskswitchxp",
+      "fileName": "TaskSwitchXP_2.0.5.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/TaskSwitchXP_2.0.5.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/TaskSwitchXP_2.0.5.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "teamviewer-en",
+      "fileName": "TeamViewer_8_en.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/TeamViewer_8_en.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/TeamViewer_8_en.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -23716,7 +26673,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "toc-sock",
       "fileName": "toc2sock.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/toc2sock.zip",
@@ -23735,7 +26692,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "tocsock",
       "fileName": "tocsock.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/tocsock.zip",
@@ -23925,7 +26882,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "tsad",
       "fileName": "tsad.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/tsad.zip",
@@ -23956,6 +26913,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Free Layouts"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "uiso-pe",
+      "fileName": "uiso9_pe.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/uiso9_pe.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/uiso9_pe.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -24115,7 +27091,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "us",
       "fileName": "us_70_32_4114_6.zip",
-      "category": "unknown",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://24.185.191.87/progz/us_70_32_4114_6.zip",
@@ -24208,25 +27184,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "vb-dll",
-      "fileName": "vb40032dll.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/vbxdll/vb40032dll.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40032dll.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Visual Basic Section"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "vb-ccecompiler",
       "fileName": "vb5ccecompiler.zip",
       "category": "unknown",
@@ -24248,7 +27205,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "vb-chat",
       "fileName": "vb5chat2.zip",
-      "category": "chat/macro",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/vb5chat2.zip",
@@ -24286,7 +27243,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "vb-sp-a",
       "fileName": "vb5sp3a.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/vb5sp3a.zip",
@@ -24398,28 +27355,9 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "vbrun-dll",
-      "fileName": "vbrun200dll.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/vbxdll/vbrun200dll.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vbrun200dll.zip",
-          "source": "Visual Basic Section",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Visual Basic Section"
-      ],
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "vbrun-exe",
       "fileName": "vbrun300exe.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/VBfiles/vbrun300exe.zip",
@@ -24457,7 +27395,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "vbwfind",
       "fileName": "vbwfind.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/vbwfind.zip",
@@ -24564,6 +27502,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "vnc-e-x-x-win",
+      "fileName": "vnc-E4_6_1-x86_x64_win32.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/vnc-E4_6_1-x86_x64_win32.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/vnc-E4_6_1-x86_x64_win32.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "volumouse-setup",
+      "fileName": "volumouse_setup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/volumouse_setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/volumouse_setup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -24797,6 +27773,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "webbrowser",
+      "fileName": "webbrowser.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://dnx-online.net/~hadez/files/webbrowser.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/webbrowser.zip",
+          "source": "Hadez progs",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Hadez progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "webby",
       "fileName": "webby.zip",
       "category": "idler/bot",
@@ -24892,6 +27887,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "whatsappsetup",
+      "fileName": "WhatsAppSetup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/WhatsAppSetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/WhatsAppSetup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "wheelmovewnd-x",
+      "fileName": "WheelMoveWnd_1.1.0_x32.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/WheelMoveWnd_1.1.0_x32.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/WheelMoveWnd_1.1.0_x32.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "whiteout",
       "fileName": "whiteout.zip",
       "category": "unknown",
@@ -24970,7 +28003,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "win",
       "fileName": "winaim.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/winaim.zip",
@@ -24989,7 +28022,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "win-ty",
       "fileName": "winaimty14.zip",
-      "category": "AIM",
+      "category": "AOL/AIM client installer",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/aimprogs/misc/winaimty14.zip",
@@ -25001,6 +28034,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "windjview-setup",
+      "fileName": "WinDjView-2.0.1-Setup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/WinDjView-2.0.1-Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/WinDjView-2.0.1-Setup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -25025,6 +28077,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "wininstallle",
+      "fileName": "wininstallle2003.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/wininstallle2003.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wininstallle2003.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "winontop",
       "fileName": "winontop.zip",
       "category": "unknown",
@@ -25044,6 +28115,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "winpins",
+      "fileName": "WinPins.EXE",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/WinPins.EXE",
+          "waybackUrl": "http://am.net/lib/TOOLS/WinPins.EXE",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "winpunt",
       "fileName": "winpunt.zip",
       "category": "punter/booter",
@@ -25058,6 +28148,44 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "winrar-x",
+      "fileName": "winrar-x64-531.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/winrar-x64-531.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/winrar-x64-531.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "winter",
+      "fileName": "winter.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://click-online2000.com/progz/winter.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/winter.zip",
+          "source": "Click-Online AOL 4/5 progz",
+          "status": "http-404"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        "Click-Online AOL 4/5 progz"
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -25177,6 +28305,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "wrar-b",
+      "fileName": "wrar36b4.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/wrar36b4.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/wrar36b4.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "wrath",
       "fileName": "wrath2.zip",
       "category": "unknown",
@@ -25229,6 +28376,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "prog's/misc n-z"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "x-lite-win-l",
+      "fileName": "X-Lite_Win32_1100l_47546.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/X-Lite_Win32_1100l_47546.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/X-Lite_Win32_1100l_47546.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -25329,9 +28495,28 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "xobnisetup",
+      "fileName": "XobniSetup.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/XobniSetup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/XobniSetup.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "xpbuttons",
       "fileName": "xpbuttons.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/xpbuttons.zip",
@@ -25343,6 +28528,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Visual Basic Section"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "xpme",
+      "fileName": "XPME.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/XPME.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/XPME.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0
@@ -25367,9 +28571,47 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
+      "key": "xreplace",
+      "fileName": "XReplace-32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/XReplace-32.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/XReplace-32.zip",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "xreplace-registered",
+      "fileName": "XReplace-Registered.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/XReplace-Registered.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/XReplace-Registered.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
       "key": "yahbru",
       "fileName": "yahbru10.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/yahbru10.zip",
@@ -25407,7 +28649,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "yahoosux",
       "fileName": "yahoosux2.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/yahoosux2.zip",
@@ -25426,7 +28668,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "yahpro",
       "fileName": "yahpro.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/yahpro.zip",
@@ -25464,7 +28706,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
     {
       "key": "ymsg",
       "fileName": "ymsg5.zip",
-      "category": "unknown",
+      "category": "runtime/support file",
       "mirrors": [
         {
           "url": "http://lenshellarchive.com/Progs/vbxdll/ymsg5.zip",
@@ -25514,6 +28756,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Yahoo Progs"
+      ],
+      "mirrorCount": 1,
+      "readyCount": 0
+    },
+    {
+      "key": "zeplin-installer-x",
+      "fileName": "zeplin-installer-x64.exe",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://am.net/lib/TOOLS/zeplin-installer-x64.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/zeplin-installer-x64.exe",
+          "source": "..",
+          "status": "candidate"
+        }
+      ],
+      "readyLocalFiles": [],
+      "sourcePages": [
+        ".."
       ],
       "mirrorCount": 1,
       "readyCount": 0

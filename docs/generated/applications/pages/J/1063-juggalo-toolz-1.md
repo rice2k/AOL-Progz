@@ -39,8 +39,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.0 MB |
-| Matched web download links | 4 |
-| Matched mirror leads | 0 |
+| Matched web download links | 5 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +51,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1063-juggalo-toolz-1.zip](../../../../../files/aol/aol-4-0/1063-juggalo-toolz-1.zip)
-- Old-web / Wayback download leads: 4 link(s) listed below
+- Old-web / Wayback download leads: 5 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo.zip)
@@ -88,13 +89,17 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/juggalotoolz2.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip) | [http://www.oogle.net/downloads/progs/juggalotoolz2.zip](http://www.oogle.net/downloads/progs/juggalotoolz2.zip) |
+| Click-Online AOL 4/5 progz | juggalo toolz 1.0 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip) | [http://click-online2000.com/progz/juggalo.zip](http://click-online2000.com/progz/juggalo.zip) |
 | prog's/misc a-m | juggalo toolz 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) | [http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) |
 | Progs Section 1 | Juggalo Toolz 1.0 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalo.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalo.zip) | [http://www.cybernyse.com/juggalo.zip](http://www.cybernyse.com/juggalo.zip) |
 | Visual Basic Section | juggalo32 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip) | [http://lenshellarchive.com/VBfiles/juggalo32.zip](http://lenshellarchive.com/VBfiles/juggalo32.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Click-Online AOL 4/5 progz | juggalo.zip | [http://click-online2000.com/progz/juggalo.zip](http://click-online2000.com/progz/juggalo.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip) | unknown | http-404 |
+| Web page: Click-Online AOL 4/5 progz | juggalo2.zip | [http://click-online2000.com/progz/juggalo2.zip](http://click-online2000.com/progz/juggalo2.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

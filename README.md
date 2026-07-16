@@ -20,13 +20,13 @@ scene links.**
 
 <p align="center">
   <a href="docs/generated/sources/all-links.md">
-    <img alt="Master links: 15,050 URLs" src="https://img.shields.io/badge/master%20links-15%2C050%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
+    <img alt="Master links: 18,366 URLs" src="https://img.shields.io/badge/master%20links-18%2C366%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/sources/download-links.md">
-    <img alt="Crawled download links: 3,460" src="https://img.shields.io/badge/crawled%20downloads-3%2C460-FF5B8F?style=for-the-badge&labelColor=101820">
+    <img alt="Crawled download links: 3,726" src="https://img.shields.io/badge/crawled%20downloads-3%2C726-FF5B8F?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/applications/all-program-downloads.md">
-    <img alt="Web download matches: 2,007" src="https://img.shields.io/badge/web%20matches-2%2C007-BB8CFF?style=for-the-badge&labelColor=101820">
+    <img alt="Web download matches: 2,008" src="https://img.shields.io/badge/web%20matches-2%2C008-BB8CFF?style=for-the-badge&labelColor=101820">
   </a>
 </p>
 
@@ -52,6 +52,8 @@ scene links.**
 | [Master all-links index](docs/generated/sources/all-links.md) | Deduped master list of user-supplied links, crawled links, download links, embedded archive URLs, mirrors, and source pages. |
 | [Links you supplied](docs/generated/sources/user-supplied-links.md) | The priority source links from the request, preserved as their own page. |
 | [Sources and old-school links](docs/generated/sources/README.md) | Curated source notes, crawled pages, mirror groups, missing candidates, Methodus2000, FreeProgz, LensHell, RiceJerry, LolToolz, and more. |
+| [External download recovery status](docs/generated/sources/external-downloads.md) | Every attempted external recovery URL with status, source page, original URL, Wayback/download URL, size, and local file when recovered. |
+| [AOL/AIM client and runtime downloads](docs/generated/sources/aol-aim-client-downloads.md) | Versioned AIM/AOL installers, AIM utilities, AOL utilities, and DLL/OCX runtime support files tracked separately from the prog catalog. |
 | [Categories](docs/generated/categories/README.md) | Punters, room busters, faders, idlers, C-Coms/chat tools, mailers, source packs, all-in-one progs, and uncategorized items. |
 | [AOL version buckets](docs/generated/versions/README.md) | AOL 2.5, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, tools, and mixed/unknown buckets. |
 | [Screenshots and recovered web images](docs/generated/screenshots/README.md) | Program screenshots plus recovered old-site images from crawled pages. |
@@ -70,20 +72,22 @@ scene links.**
 | Programs with embedded URLs | 170 |
 | URLs found in readable archive text | 234 |
 | Programs with improved best-known names | 519 |
-| Programs with matched web download leads | 2,007 |
+| Programs with matched web download leads | 2,008 |
 | Archive-text author clues | 15 |
 | Archive-text purpose clues | 324 |
 | Archive-text AOL/version clues | 106 |
 | Author conflicts flagged | 12 |
-| Matched web download links | 2,575 |
-| Programs with mirror leads | 203 |
+| Matched web download links | 2,603 |
+| Programs with mirror leads | 234 |
 | Strong source-page program mentions | 7 |
-| Crawled source pages | 198 |
-| Unique crawled links | 6,833 |
-| Crawled download links | 3,460 |
-| Recovered external files | 238 |
-| External mirror groups | 1,191 |
-| Recovered web images | 60 |
+| Crawled source pages | 394 |
+| Unique crawled links | 8,600 |
+| Crawled download links | 3,726 |
+| Missing candidates from old-web sources | 1,418 |
+| Missing candidates with local recovery | 248 |
+| Recovered external files | 360 |
+| External mirror groups | 1,340 |
+| Recovered web images | 87 |
 
 The site includes:
 
@@ -97,7 +101,9 @@ The site includes:
   mirrored within normal GitHub file-size limits.
 - Screenshot-aware program cards when source screenshots are available.
 - Old-school source links and Wayback links for AOLUnderground, JustinAKAPaste,
-  HyPeR, Plozee, Kadeklizem, Aciddr0p, Koin, Rexflex, DarcFX, and ProgzRescue.
+  HyPeR, Plozee, Kadeklizem, Aciddr0p, Koin, Rexflex, DarcFX, ProgzRescue,
+  Digital5k, AM.NET, Click-Online, ColtPro, DeadAIM, AIMFilez, Prig3k,
+  Dope2k, Hadez, DazuhProductionZ, AOElite, and related sources.
 - Glossary and timeline context for AOL, AIM, ICQ, MSN Messenger, Yahoo, and
   related scene vocabulary.
 - Statistics by category, platform, AOL version, Visual Basic version, file
@@ -109,7 +115,9 @@ The site includes:
   filenames and old-page evidence while preserving the original catalog label.
 - Crawled old resource pages and link directories, including FreeProgz,
   RiceJerry, LolToolz, LoLToolz AIM, LensHellArchive, Methodus2000, Oogle,
-  ProgStation, AimThings, CoolKid/Text2k, and related Wayback captures.
+  ProgStation, AimThings, CoolKid/Text2k, AM.NET, Click-Online, ColtPro,
+  DeadAIM, AIMFilez, Digital5k, Hadez, Prig3k, Dope2k, and related Wayback
+  captures.
 - Missing-candidate reports comparing old download links against the main
   catalog, with mirror URLs and recovered local files where available.
 
@@ -159,7 +167,7 @@ To crawl old resource/link pages:
 
 ```powershell
 $env:AOL_RESOURCE_CRAWL_DEPTH = "1"
-$env:AOL_RESOURCE_MAX_PAGES = "260"
+$env:AOL_RESOURCE_MAX_PAGES = "420"
 node tools/collect-web-resources.mjs
 ```
 
@@ -173,9 +181,12 @@ node tools/mirror-web-assets.mjs
 To mirror filtered recovered files and preserve mirror groups:
 
 ```powershell
-$env:AOL_EXTERNAL_DOWNLOAD_LIMIT = "120"
+$env:AOL_EXTERNAL_DOWNLOAD_LIMIT = "180"
 node tools/download-external-files.mjs
 ```
+
+Use `AOL_EXTERNAL_SOURCE_MATCH` to target one source family, for example
+`AOL client and AIM version directory` or `User-supplied ColtPro`.
 
 To rebuild missing-candidate reports:
 

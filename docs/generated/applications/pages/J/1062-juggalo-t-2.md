@@ -39,7 +39,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Archive password metadata | recorded in source catalog |
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
-| Matched web download links | 2 |
+| Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +51,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1062-juggalo-t-2.zip](../../../../../files/aol/aol-4-0/1062-juggalo-t-2.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo toolz 2.0 aol4-5 yr2k password=Forsaken.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo%20toolz%202.0%20aol4-5%20yr2k%20password%3DForsaken.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo%20toolz%202.0%20aol4-5%20yr2k%20password%3DForsaken.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo%20toolz%202.0%20aol4-5%20yr2k%20password%3DForsaken.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/juggalo%20toolz%202.0%20aol4-5%20yr2k%20password%3DForsaken.zip)
@@ -88,6 +88,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Progs Section 1 | Juggalo Toolz 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalotoolz2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalotoolz2.zip) | [http://www.cybernyse.com/juggalotoolz2.zip](http://www.cybernyse.com/juggalotoolz2.zip) |
+| Click-Online AOL 4/5 progz | juggalo toolz 2.0 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip) | [http://click-online2000.com/progz/juggalo2.zip](http://click-online2000.com/progz/juggalo2.zip) |
 | prog's/misc a-m | juggalo toolz 2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip) | [http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip](http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip) |
 
 ### Mirror Leads

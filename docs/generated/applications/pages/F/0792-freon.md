@@ -39,7 +39,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 222 KB |
-| Matched web download links | 2 |
+| Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +51,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0792-freon.zip](../../../../../files/aol/aol-4-0/0792-freon.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freon.zip)
@@ -93,6 +93,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Progs Section 1 | Freon | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freon.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freon.zip) | [http://www.cybernyse.com/freon.zip](http://www.cybernyse.com/freon.zip) |
 | prog's/misc a-m | freon 4.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freon.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freon.zip) | [http://lenshellarchive.com/Progs/aolprogs/freon.zip](http://lenshellarchive.com/Progs/aolprogs/freon.zip) |
+| Click-Online AOL 4/5 progz | freon gold | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/freongold.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/freongold.zip) | [http://click-online2000.com/progz/freongold.zip](http://click-online2000.com/progz/freongold.zip) |
 
 ### Mirror Leads
 

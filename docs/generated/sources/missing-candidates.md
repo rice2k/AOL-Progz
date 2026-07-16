@@ -6,37 +6,63 @@ These are filenames or program leads discovered from external old-web sources an
 | --- | --- | --- | --- | --- | --- |
 | netbuster | room buster | 28 | ready | 8 | [files/external/angelfire-com/netbuster131.zip](../../../files/external/angelfire-com/netbuster131.zip)<br>[files/external/angelfire-com/netbuster.zip](../../../files/external/angelfire-com/netbuster.zip)<br>[files/external/fortunecity-com/netbuster1-31.zip](../../../files/external/fortunecity-com/netbuster1-31.zip)<br>[files/external/fortunecity-com/netbuster1-12.zip](../../../files/external/fortunecity-com/netbuster1-12.zip)<br>[files/external/fortunecity-com/netbuster.zip](../../../files/external/fortunecity-com/netbuster.zip)<br>[files/external/fortunecity-com/netbuster1-30.zip](../../../files/external/fortunecity-com/netbuster1-30.zip)<br>[files/external/fortunecity-com/netbuster1-3.zip](../../../files/external/fortunecity-com/netbuster1-3.zip)<br>[files/external/fortunecity-com/netbuster131.zip](../../../files/external/fortunecity-com/netbuster131.zip) |
 | layout | unknown | 8 | ready | 8 | [files/external/angelfire-com/layout1.zip](../../../files/external/angelfire-com/layout1.zip)<br>[files/external/angelfire-com/layout2.zip](../../../files/external/angelfire-com/layout2.zip)<br>[files/external/angelfire-com/layout3.zip](../../../files/external/angelfire-com/layout3.zip)<br>[files/external/angelfire-com/layout4.zip](../../../files/external/angelfire-com/layout4.zip)<br>[files/external/angelfire-com/layout5.zip](../../../files/external/angelfire-com/layout5.zip)<br>[files/external/angelfire-com/layout6.zip](../../../files/external/angelfire-com/layout6.zip)<br>[files/external/angelfire-com/layout7.zip](../../../files/external/angelfire-com/layout7.zip)<br>[files/external/angelfire-com/layout8.zip](../../../files/external/angelfire-com/layout8.zip) |
+| setup | AOL/AIM client installer | 6 | candidate<br>ready | 4 | [files/external/am-net/aol7setup-852c70fb.exe](../../../files/external/am-net/aol7setup-852c70fb.exe)<br>[files/external/am-net/aol8setup-e289c5c2.exe](../../../files/external/am-net/aol8setup-e289c5c2.exe)<br>[files/external/am-net/aol9setup-89ef253b.exe](../../../files/external/am-net/aol9setup-89ef253b.exe)<br>[files/external/am-net/aolsetup-c3cdd1ed.exe](../../../files/external/am-net/aolsetup-c3cdd1ed.exe) |
+| msvbvm-dll | runtime/support file | 4 | candidate<br>ready | 3 | [files/external/aimfilez-com/msvbvm50-3e602dda.dll](../../../files/external/aimfilez-com/msvbvm50-3e602dda.dll)<br>[files/external/aimfilez-com/msvbvm60-117ab42e.dll](../../../files/external/aimfilez-com/msvbvm60-117ab42e.dll)<br>[files/external/coltpro-net/msvbvm60-af7ec917.dll](../../../files/external/coltpro-net/msvbvm60-af7ec917.dll) |
+| vb-dll | runtime/support file | 4 | ready<br>candidate | 3 | [files/external/aimfilez-com/vb40016-c8eb6c1a.dll](../../../files/external/aimfilez-com/vb40016-c8eb6c1a.dll)<br>[files/external/aimfilez-com/vb40032-f6349a6a.dll](../../../files/external/aimfilez-com/vb40032-f6349a6a.dll)<br>[files/external/coltpro-net/vb40032-213ca90f.dll](../../../files/external/coltpro-net/vb40032-213ca90f.dll) |
+| vbrun-dll | runtime/support file | 4 | ready<br>candidate | 3 | [files/external/aimfilez-com/vbrun100-348eb154.dll](../../../files/external/aimfilez-com/vbrun100-348eb154.dll)<br>[files/external/aimfilez-com/vbrun200-dc920038.dll](../../../files/external/aimfilez-com/vbrun200-dc920038.dll)<br>[files/external/aimfilez-com/vbrun300-194dc02b.dll](../../../files/external/aimfilez-com/vbrun300-194dc02b.dll) |
+| a | AOL/AIM client installer | 3 | ready | 3 | [files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe](../../../files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe)<br>[files/external/aimfilez-com/aim201-7-563a-91a26710.exe](../../../files/external/aimfilez-com/aim201-7-563a-91a26710.exe)<br>[files/external/aimfilez-com/aim202-0-731a-577898fa.exe](../../../files/external/aimfilez-com/aim202-0-731a-577898fa.exe) |
 | pascal | unknown | 3 | ready | 3 | [files/external/angelfire-com/pascal1.zip](../../../files/external/angelfire-com/pascal1.zip)<br>[files/external/angelfire-com/pascal2.zip](../../../files/external/angelfire-com/pascal2.zip)<br>[files/external/angelfire-com/pascal3.zip](../../../files/external/angelfire-com/pascal3.zip) |
+| wrar | unknown | 5 | candidate<br>ready | 2 | [files/external/angelfire-com/wrar280.zip](../../../files/external/angelfire-com/wrar280.zip)<br>[files/external/angelfire-com/wrar370.zip](../../../files/external/angelfire-com/wrar370.zip) |
 | create | AIM | 4 | candidate<br>ready | 2 | [files/external/angelfire-com/aimcreate11.zip](../../../files/external/angelfire-com/aimcreate11.zip)<br>[files/external/angelfire-com/aimcreate21.zip](../../../files/external/angelfire-com/aimcreate21.zip) |
-| msvbvm | unknown | 4 | candidate<br>ready | 2 | [files/external/angelfire-com/msvbvm50.zip](../../../files/external/angelfire-com/msvbvm50.zip)<br>[files/external/angelfire-com/msvbvm60.zip](../../../files/external/angelfire-com/msvbvm60.zip) |
-| vb | unknown | 3 | candidate<br>ready | 2 | [files/external/angelfire-com/vb.zip](../../../files/external/angelfire-com/vb.zip)<br>[files/external/angelfire-com/vb3.zip](../../../files/external/angelfire-com/vb3.zip) |
+| msvbvm | runtime/support file | 4 | candidate<br>ready | 2 | [files/external/angelfire-com/msvbvm50.zip](../../../files/external/angelfire-com/msvbvm50.zip)<br>[files/external/angelfire-com/msvbvm60.zip](../../../files/external/angelfire-com/msvbvm60.zip) |
+| ss-d-vbx | runtime/support file | 3 | ready<br>candidate | 2 | [files/external/aimfilez-com/ss3d-8607dee6.vbx](../../../files/external/aimfilez-com/ss3d-8607dee6.vbx)<br>[files/external/aimfilez-com/ss3d2-8f499be5.vbx](../../../files/external/aimfilez-com/ss3d2-8f499be5.vbx) |
+| vb | runtime/support file | 3 | candidate<br>ready | 2 | [files/external/angelfire-com/vb.zip](../../../files/external/angelfire-com/vb.zip)<br>[files/external/angelfire-com/vb3.zip](../../../files/external/angelfire-com/vb3.zip) |
 | ccomsbeta | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/ccomsbeta2.zip](../../../files/external/lenshellarchive-com/ccomsbeta2.zip)<br>[files/external/lenshellarchive-com/ccomsbeta3.zip](../../../files/external/lenshellarchive-com/ccomsbeta3.zip) |
+| comdlg-ocx | runtime/support file | 2 | ready | 2 | [files/external/aimfilez-com/comdlg32-6ecdb713.ocx](../../../files/external/aimfilez-com/comdlg32-6ecdb713.ocx)<br>[files/external/coltpro-net/comdlg32-5dfecf61.ocx](../../../files/external/coltpro-net/comdlg32-5dfecf61.ocx) |
 | gonzo-fade | fader | 2 | ready | 2 | [files/external/angelfire-com/gonzo-fade.zip](../../../files/external/angelfire-com/gonzo-fade.zip)<br>[files/external/angelfire-com/gonzo-fade2.zip](../../../files/external/angelfire-com/gonzo-fade2.zip) |
-| revenge | unknown | 2 | ready | 2 | [files/external/angelfire-com/revengeaol1.zip](../../../files/external/angelfire-com/revengeaol1.zip)<br>[files/external/angelfire-com/revengeaol2.zip](../../../files/external/angelfire-com/revengeaol2.zip) |
-| wrar | unknown | 2 | ready | 2 | [files/external/angelfire-com/wrar280.zip](../../../files/external/angelfire-com/wrar280.zip)<br>[files/external/angelfire-com/wrar370.zip](../../../files/external/angelfire-com/wrar370.zip) |
+| revenge | AOL/AIM client installer | 2 | ready | 2 | [files/external/angelfire-com/revengeaol1.zip](../../../files/external/angelfire-com/revengeaol1.zip)<br>[files/external/angelfire-com/revengeaol2.zip](../../../files/external/angelfire-com/revengeaol2.zip) |
 | super | AIM | 5 | candidate<br>ready | 1 | [files/external/angelfire-com/superaim.zip](../../../files/external/angelfire-com/superaim.zip) |
 | spy | AIM | 3 | candidate<br>ready | 1 | [files/external/angelfire-com/aimspy.zip](../../../files/external/angelfire-com/aimspy.zip) |
 | netbusterkill | room buster | 3 | ready | 1 | [files/external/fortunecity-com/netbusterkill.zip](../../../files/external/fortunecity-com/netbusterkill.zip) |
-| booter | punter/booter | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/booter1.zip](../../../files/external/angelfire-com/booter1.zip) |
-| dead | AIM | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/deadaim-4.zip](../../../files/external/angelfire-com/deadaim-4.zip) |
+| booter | AOL/AIM client installer | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/booter1.zip](../../../files/external/angelfire-com/booter1.zip) |
+| dead | AIM | 2 | http-404<br>ready | 1 | [files/external/angelfire-com/deadaim-4.zip](../../../files/external/angelfire-com/deadaim-4.zip) |
+| iconedit | AIM | 2 | ready<br>candidate | 1 | [files/external/aimfilez-com/aimiconedit-3488d8b8.exe](../../../files/external/aimfilez-com/aimiconedit-3488d8b8.exe) |
+| popup | AIM | 2 | ready<br>candidate | 1 | [files/external/aimfilez-com/aimpopup-a2d9f1a6.exe](../../../files/external/aimfilez-com/aimpopup-a2d9f1a6.exe) |
+| buddykill | punter/booter | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/buddykill-bcd3802c.exe](../../../files/external/aimfilez-com/buddykill-bcd3802c.exe) |
+| chatscan-ocx | runtime/support file | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/chatscan3-2b12e4af.ocx](../../../files/external/aimfilez-com/chatscan3-2b12e4af.ocx) |
 | cracksource | hazardous/account or remote-control context | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/cracksource.zip](../../../files/external/angelfire-com/cracksource.zip) |
+| formatsn | AIM | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/formatsn-ac427d25.exe](../../../files/external/aimfilez-com/formatsn-ac427d25.exe) |
+| ghost | punter/booter | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe](../../../files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe) |
+| icondrop | punter/booter | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/icondrop2-0-69d20cfa.exe](../../../files/external/aimfilez-com/icondrop2-0-69d20cfa.exe) |
+| msinet-ocx | runtime/support file | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/msinet-a28f9137.ocx](../../../files/external/aimfilez-com/msinet-a28f9137.ocx) |
+| mswinsck-ocx | runtime/support file | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/mswinsck-c21a93bd.ocx](../../../files/external/aimfilez-com/mswinsck-c21a93bd.ocx) |
 | remoteidle | idler/bot | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/remoteidle.zip](../../../files/external/angelfire-com/remoteidle.zip) |
-| vbrun-sp | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/vbrun60sp5.zip](../../../files/external/angelfire-com/vbrun60sp5.zip) |
-| winsck | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/winsck.zip](../../../files/external/angelfire-com/winsck.zip) |
+| setuprt | unknown | 2 | ready<br>candidate | 1 | [files/external/click-online2000-com/setuprt22-bf0dd433.exe](../../../files/external/click-online2000-com/setuprt22-bf0dd433.exe) |
+| vbrun-sp | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/vbrun60sp5.zip](../../../files/external/angelfire-com/vbrun60sp5.zip) |
+| winsck | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/winsck.zip](../../../files/external/angelfire-com/winsck.zip) |
 | mmnegtub | AIM | 1 | ready | 1 | [files/external/angelfire-com/35mmnegtub.zip](../../../files/external/angelfire-com/35mmnegtub.zip) |
 | aztecapocolypse | unknown | 1 | ready | 1 | [files/external/angelfire-com/4aztecapocolypse.zip](../../../files/external/angelfire-com/4aztecapocolypse.zip) |
 | sloughterinspace | unknown | 1 | ready | 1 | [files/external/angelfire-com/4sloughterinspace.zip](../../../files/external/angelfire-com/4sloughterinspace.zip) |
 | ball | unknown | 1 | ready | 1 | [files/external/angelfire-com/8-ball.zip](../../../files/external/angelfire-com/8-ball.zip) |
 | gardenofwar | unknown | 1 | ready | 1 | [files/external/angelfire-com/8gardenofwar98.zip](../../../files/external/angelfire-com/8gardenofwar98.zip) |
 | absoluteserials | unknown | 1 | ready | 1 | [files/external/angelfire-com/absoluteserials.zip](../../../files/external/angelfire-com/absoluteserials.zip) |
+| ac-install | unknown | 1 | ready | 1 | [files/external/am-net/ac-install-fe4d5a18.exe](../../../files/external/am-net/ac-install-fe4d5a18.exe) |
 | acid-rain | unknown | 1 | ready | 1 | [files/external/angelfire-com/acid-rain.zip](../../../files/external/angelfire-com/acid-rain.zip) |
 | acquafreezercrackbylucif-r | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/acquafreezercrackbylucif3r.zip](../../../files/external/angelfire-com/acquafreezercrackbylucif3r.zip) |
 | blocks | AIM | 1 | ready | 1 | [files/external/angelfire-com/aim-blocks.zip](../../../files/external/angelfire-com/aim-blocks.zip) |
+| install | AIM | 1 | ready | 1 | [files/external/am-net/aim-install-bea29830.exe](../../../files/external/am-net/aim-install-bea29830.exe) |
+| amp | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aimamp-b8bdc65e.exe](../../../files/external/aimfilez-com/aimamp-b8bdc65e.exe) |
+| change | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aimchange-d83f8223.exe](../../../files/external/aimfilez-com/aimchange-d83f8223.exe) |
 | r | AIM | 1 | ready | 1 | [files/external/angelfire-com/aimr2.zip](../../../files/external/angelfire-com/aimr2.zip) |
 | sm | AIM | 1 | ready | 1 | [files/external/angelfire-com/aimsm.zip](../../../files/external/angelfire-com/aimsm.zip) |
+| talk | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aimtalk20-3b135bf1.exe](../../../files/external/aimfilez-com/aimtalk20-3b135bf1.exe) |
+| antibot | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/antibot11-50be5e19.exe](../../../files/external/aimfilez-com/antibot11-50be5e19.exe) |
 | antimacro | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/antimacro.zip](../../../files/external/angelfire-com/antimacro.zip) |
+| communicator | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aolcommunicator-85109c9c.exe](../../../files/external/aimfilez-com/aolcommunicator-85109c9c.exe) |
 | astroidlevel | idler/bot | 1 | ready | 1 | [files/external/angelfire-com/astroidlevel.zip](../../../files/external/angelfire-com/astroidlevel.zip) |
-| auto | AIM | 1 | ready | 1 | [files/external/angelfire-com/autoaim4.zip](../../../files/external/angelfire-com/autoaim4.zip) |
+| asub | AIM | 1 | ready | 1 | [files/external/aimfilez-com/asub-1abf2bf0.exe](../../../files/external/aimfilez-com/asub-1abf2bf0.exe) |
+| auto | AOL/AIM client installer | 1 | ready | 1 | [files/external/angelfire-com/autoaim4.zip](../../../files/external/angelfire-com/autoaim4.zip) |
+| awaystate | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/awaystate-9d1caf3e.exe](../../../files/external/aimfilez-com/awaystate-9d1caf3e.exe) |
 | bar-room-brawl | room buster | 1 | ready | 1 | [files/external/angelfire-com/bar-room-brawl.zip](../../../files/external/angelfire-com/bar-room-brawl.zip) |
 | bens-megasound | unknown | 1 | ready | 1 | [files/external/angelfire-com/bens-megasound.zip](../../../files/external/angelfire-com/bens-megasound.zip) |
 | biorythm | unknown | 1 | ready | 1 | [files/external/angelfire-com/biorythm.zip](../../../files/external/angelfire-com/biorythm.zip) |
@@ -44,10 +70,16 @@ These are filenames or program leads discovered from external old-web sources an
 | boiolometro | unknown | 1 | ready | 1 | [files/external/angelfire-com/boiolometro.zip](../../../files/external/angelfire-com/boiolometro.zip) |
 | bookscrolls | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/bookscrolls.zip](../../../files/external/angelfire-com/bookscrolls.zip) |
 | bootscoot | punter/booter | 1 | ready | 1 | [files/external/angelfire-com/bootscoot.zip](../../../files/external/angelfire-com/bootscoot.zip) |
+| bud-setup | AIM | 1 | ready | 1 | [files/external/aimfilez-com/bud-setup-b6144227.exe](../../../files/external/aimfilez-com/bud-setup-b6144227.exe) |
 | caeo-rama | unknown | 1 | ready | 1 | [files/external/angelfire-com/caeo-programa.zip](../../../files/external/angelfire-com/caeo-programa.zip) |
+| chatocx-ocx | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/chatocx2-5f3e25fd.ocx](../../../files/external/coltpro-net/chatocx2-5f3e25fd.ocx) |
 | chatsource | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/chatsource.zip](../../../files/external/angelfire-com/chatsource.zip) |
+| cloc-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/cloc-5783db44.vbx](../../../files/external/aimfilez-com/cloc-5783db44.vbx) |
+| cmdialog-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/cmdialog-62a38b92.vbx](../../../files/external/aimfilez-com/cmdialog-62a38b92.vbx) |
 | code | unknown | 1 | ready | 1 | [files/external/angelfire-com/code.zip](../../../files/external/angelfire-com/code.zip) |
 | comct | unknown | 1 | ready | 1 | [files/external/angelfire-com/comct332.zip](../../../files/external/angelfire-com/comct332.zip) |
+| comctl-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/comctl32-e2ba15bc.ocx](../../../files/external/aimfilez-com/comctl32-e2ba15bc.ocx) |
+| comdlg-dll | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/comdlg32-ea31f2ea.dll](../../../files/external/coltpro-net/comdlg32-ea31f2ea.dll) |
 | commercialscript | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/commercialscript3.zip](../../../files/external/angelfire-com/commercialscript3.zip) |
 | compatibility-calc | unknown | 1 | ready | 1 | [files/external/angelfire-com/compatibility-calc.zip](../../../files/external/angelfire-com/compatibility-calc.zip) |
 | computer-infomation | unknown | 1 | ready | 1 | [files/external/angelfire-com/computer-infomation.zip](../../../files/external/angelfire-com/computer-infomation.zip) |
@@ -57,19 +89,27 @@ These are filenames or program leads discovered from external old-web sources an
 | creatincommercialsites | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/creatincommercialsites.zip](../../../files/external/angelfire-com/creatincommercialsites.zip) |
 | criminalchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/criminalchat.zip](../../../files/external/angelfire-com/criminalchat.zip) |
 | dap | unknown | 1 | ready | 1 | [files/external/angelfire-com/dap53.zip](../../../files/external/angelfire-com/dap53.zip) |
+| dbpush-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/dbpush-f26405e8.vbx](../../../files/external/aimfilez-com/dbpush-f26405e8.vbx) |
+| dbttip-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/dbttip-434e10d1.vbx](../../../files/external/aimfilez-com/dbttip-434e10d1.vbx) |
+| dc | AIM | 1 | ready | 1 | [files/external/aimfilez-com/dctool-df5f3a78.exe](../../../files/external/aimfilez-com/dctool-df5f3a78.exe) |
 | details | unknown | 1 | ready | 1 | [files/external/angelfire-com/details.zip](../../../files/external/angelfire-com/details.zip) |
 | determinante | unknown | 1 | ready | 1 | [files/external/angelfire-com/determinante.zip](../../../files/external/angelfire-com/determinante.zip) |
 | diablo-monsterskill-sorc | unknown | 1 | ready | 1 | [files/external/angelfire-com/diablo2-monsterskill-sorc.zip](../../../files/external/angelfire-com/diablo2-monsterskill-sorc.zip) |
 | dmc-r | unknown | 1 | ready | 1 | [files/external/angelfire-com/dmc-r7.zip](../../../files/external/angelfire-com/dmc-r7.zip) |
+| dotmacregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/dotmacregister-2552521a.exe](../../../files/external/aimfilez-com/dotmacregister-2552521a.exe) |
 | drapeauscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/drapeauscreensaver-mcld.zip](../../../files/external/angelfire-com/drapeauscreensaver-mcld.zip) |
 | dvbpl | unknown | 1 | ready | 1 | [files/external/angelfire-com/dvbpl-020619.zip](../../../files/external/angelfire-com/dvbpl-020619.zip) |
+| dwsbc-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/dwsbc32-66a535ca.ocx](../../../files/external/aimfilez-com/dwsbc32-66a535ca.ocx) |
 | email | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/email.zip](../../../files/external/angelfire-com/email.zip) |
 | emailcash | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailcash.zip](../../../files/external/angelfire-com/emailcash.zip) |
 | emailform | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailform.zip](../../../files/external/angelfire-com/emailform.zip) |
 | evbrtk | unknown | 1 | ready | 1 | [files/external/angelfire-com/evbrtk.zip](../../../files/external/angelfire-com/evbrtk.zip) |
 | evil-empire | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/evil-empire.zip](../../../files/external/angelfire-com/evil-empire.zip) |
 | evilgrunts | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/evilgrunts.zip](../../../files/external/angelfire-com/evilgrunts.zip) |
+| evilintentions | AIM | 1 | ready | 1 | [files/external/aimfilez-com/evilintentions2-a5d56efa.exe](../../../files/external/aimfilez-com/evilintentions2-a5d56efa.exe) |
+| exploi-s | AIM | 1 | ready | 1 | [files/external/aimfilez-com/exploitools-24fc3a74.sit](../../../files/external/aimfilez-com/exploitools-24fc3a74.sit) |
 | factors | unknown | 1 | ready | 1 | [files/external/angelfire-com/factors.zip](../../../files/external/angelfire-com/factors.zip) |
+| fbimage | AIM | 1 | ready | 1 | [files/external/aimfilez-com/fbimage-660afb3f.exe](../../../files/external/aimfilez-com/fbimage-660afb3f.exe) |
 | feuscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/feuscreensaver-mcld.zip](../../../files/external/angelfire-com/feuscreensaver-mcld.zip) |
 | film | unknown | 1 | ready | 1 | [files/external/angelfire-com/film.zip](../../../files/external/angelfire-com/film.zip) |
 | fish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/fish.zip](../../../files/external/angelfire-com/fish.zip) |
@@ -83,15 +123,20 @@ These are filenames or program leads discovered from external old-web sources an
 | godcracker | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/godcracker3.zip](../../../files/external/angelfire-com/godcracker3.zip) |
 | goingtositesex | unknown | 1 | ready | 1 | [files/external/angelfire-com/goingtositesex.zip](../../../files/external/angelfire-com/goingtositesex.zip) |
 | goldfish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/goldfish.zip](../../../files/external/angelfire-com/goldfish.zip) |
+| grid-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/grid-9c49a1da.vbx](../../../files/external/aimfilez-com/grid-9c49a1da.vbx) |
 | hackers-crackdown | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/hackers-crackdown.zip](../../../files/external/angelfire-com/hackers-crackdown.zip) |
 | hellhound | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellhound.zip](../../../files/external/angelfire-com/hellhound.zip) |
 | hello | unknown | 1 | ready | 1 | [files/external/angelfire-com/hello.zip](../../../files/external/angelfire-com/hello.zip) |
 | hellsedit | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellsedit.zip](../../../files/external/angelfire-com/hellsedit.zip) |
 | hotmailhack | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/hotmailhack.zip](../../../files/external/angelfire-com/hotmailhack.zip) |
 | http-cracker-b | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/http-cracker-v113b.zip](../../../files/external/angelfire-com/http-cracker-v113b.zip) |
+| hyperinfo | AIM | 1 | ready | 1 | [files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe](../../../files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe) |
 | icons | unknown | 1 | ready | 1 | [files/external/angelfire-com/icons.zip](../../../files/external/angelfire-com/icons.zip) |
+| idlemon-dll | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/idlemon-f920c14a.dll](../../../files/external/aimfilez-com/idlemon-f920c14a.dll) |
 | ie-setup | unknown | 1 | ready | 1 | [files/external/angelfire-com/ie6setup.zip](../../../files/external/angelfire-com/ie6setup.zip) |
+| instantidler | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/instantidler52-59727d46.exe](../../../files/external/aimfilez-com/instantidler52-59727d46.exe) |
 | interface | unknown | 1 | ready | 1 | [files/external/angelfire-com/interface.zip](../../../files/external/angelfire-com/interface.zip) |
+| ispec | AIM | 1 | ready | 1 | [files/external/aimfilez-com/ispec-e3b22ea2.exe](../../../files/external/aimfilez-com/ispec-e3b22ea2.exe) |
 | iviewer | unknown | 1 | ready | 1 | [files/external/angelfire-com/iviewer.zip](../../../files/external/angelfire-com/iviewer.zip) |
 | ivypda | unknown | 1 | ready | 1 | [files/external/angelfire-com/ivypda.zip](../../../files/external/angelfire-com/ivypda.zip) |
 | jackbros | unknown | 1 | ready | 1 | [files/external/angelfire-com/jackbros.zip](../../../files/external/angelfire-com/jackbros.zip) |
@@ -101,6 +146,7 @@ These are filenames or program leads discovered from external old-web sources an
 | magicsquare | unknown | 1 | ready | 1 | [files/external/angelfire-com/magicsquare.zip](../../../files/external/angelfire-com/magicsquare.zip) |
 | mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/mail555.zip](../../../files/external/angelfire-com/mail555.zip) |
 | mastermind | unknown | 1 | ready | 1 | [files/external/angelfire-com/mastermind.zip](../../../files/external/angelfire-com/mastermind.zip) |
+| mbar-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/mbar-4be76662.vbx](../../../files/external/aimfilez-com/mbar-4be76662.vbx) |
 | mcnh | unknown | 1 | ready | 1 | [files/external/angelfire-com/mcnh.zip](../../../files/external/angelfire-com/mcnh.zip) |
 | menus | unknown | 1 | ready | 1 | [files/external/angelfire-com/menus.zip](../../../files/external/angelfire-com/menus.zip) |
 | mikes-ram | unknown | 1 | ready | 1 | [files/external/angelfire-com/mikesprogram.zip](../../../files/external/angelfire-com/mikesprogram.zip) |
@@ -109,20 +155,27 @@ These are filenames or program leads discovered from external old-web sources an
 | morse-code | unknown | 1 | ready | 1 | [files/external/angelfire-com/morse-code.zip](../../../files/external/angelfire-com/morse-code.zip) |
 | move-button | unknown | 1 | ready | 1 | [files/external/angelfire-com/move-button.zip](../../../files/external/angelfire-com/move-button.zip) |
 | movement | unknown | 1 | ready | 1 | [files/external/angelfire-com/movement.zip](../../../files/external/angelfire-com/movement.zip) |
+| mp-play-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/mp3play-fa471de0.ocx](../../../files/external/aimfilez-com/mp3play-fa471de0.ocx) |
 | mpegdll | unknown | 1 | ready | 1 | [files/external/angelfire-com/mpegdll.zip](../../../files/external/angelfire-com/mpegdll.zip) |
 | mpqoldstuff | unknown | 1 | ready | 1 | [files/external/angelfire-com/mpqoldstuff.zip](../../../files/external/angelfire-com/mpqoldstuff.zip) |
+| mscomctl-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/mscomctl-f5236d1d.ocx](../../../files/external/aimfilez-com/mscomctl-f5236d1d.ocx) |
 | mwgfxdll | unknown | 1 | ready | 1 | [files/external/angelfire-com/mwgfxdll.zip](../../../files/external/angelfire-com/mwgfxdll.zip) |
+| myim | AIM | 1 | ready | 1 | [files/external/aimfilez-com/myim-cbbb1634.exe](../../../files/external/aimfilez-com/myim-cbbb1634.exe) |
 | nesemu | unknown | 1 | ready | 1 | [files/external/angelfire-com/nesemu.zip](../../../files/external/angelfire-com/nesemu.zip) |
 | nesters | unknown | 1 | ready | 1 | [files/external/angelfire-com/nesters.zip](../../../files/external/angelfire-com/nesters.zip) |
 | netbus | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/fortunecity-com/netbus7.zip](../../../files/external/fortunecity-com/netbus7.zip) |
 | new-othello-exe | unknown | 1 | ready | 1 | [files/external/angelfire-com/new-othello-exe.zip](../../../files/external/angelfire-com/new-othello-exe.zip) |
 | oh-scroller | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/oh-scroller.zip](../../../files/external/angelfire-com/oh-scroller.zip) |
+| oleaut-dll | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/oleaut32-fbf48324.dll](../../../files/external/aimfilez-com/oleaut32-fbf48324.dll) |
+| olepro-dll | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/olepro32-33ec48d6.dll](../../../files/external/aimfilez-com/olepro32-33ec48d6.dll) |
 | opengl | unknown | 1 | ready | 1 | [files/external/angelfire-com/opengl.zip](../../../files/external/angelfire-com/opengl.zip) |
 | osamadies | unknown | 1 | ready | 1 | [files/external/angelfire-com/osamadies.zip](../../../files/external/angelfire-com/osamadies.zip) |
 | othelloexe | unknown | 1 | ready | 1 | [files/external/angelfire-com/othelloexe.zip](../../../files/external/angelfire-com/othelloexe.zip) |
 | painkilla | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/painkilla.zip](../../../files/external/angelfire-com/painkilla.zip) |
 | photoshopfix | unknown | 1 | ready | 1 | [files/external/angelfire-com/photoshopfix.zip](../../../files/external/angelfire-com/photoshopfix.zip) |
 | plasmascreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/plasmascreensaver-mcld.zip](../../../files/external/angelfire-com/plasmascreensaver-mcld.zip) |
+| playcd-ocx | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/playcd2-32333544.ocx](../../../files/external/coltpro-net/playcd2-32333544.ocx) |
+| pornblock | AIM | 1 | ready | 1 | [files/external/aimfilez-com/pornblock-ba69871f.exe](../../../files/external/aimfilez-com/pornblock-ba69871f.exe) |
 | ppvblock | unknown | 1 | ready | 1 | [files/external/angelfire-com/ppvblock1-2.zip](../../../files/external/angelfire-com/ppvblock1-2.zip) |
 | ppvblocker | unknown | 1 | ready | 1 | [files/external/angelfire-com/ppvblocker1-4.zip](../../../files/external/angelfire-com/ppvblocker1-4.zip) |
 | preservers | unknown | 1 | ready | 1 | [files/external/angelfire-com/preservers.zip](../../../files/external/angelfire-com/preservers.zip) |
@@ -133,6 +186,11 @@ These are filenames or program leads discovered from external old-web sources an
 | random-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/random-scribble.zip](../../../files/external/angelfire-com/random-scribble.zip) |
 | ravehitter-serverlist | unknown | 1 | ready | 1 | [files/external/angelfire-com/ravehitter1-0serverlist.zip](../../../files/external/angelfire-com/ravehitter1-0serverlist.zip) |
 | regocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/regocx.zip](../../../files/external/angelfire-com/regocx.zip) |
+| reshack | AIM | 1 | ready | 1 | [files/external/aimfilez-com/reshack-ae82f47d.exe](../../../files/external/aimfilez-com/reshack-ae82f47d.exe) |
+| riched-dll | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/riched32-8462623b.dll](../../../files/external/coltpro-net/riched32-8462623b.dll) |
+| richtx-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/richtx32-87eca7a6.ocx](../../../files/external/aimfilez-com/richtx32-87eca7a6.ocx) |
+| rotext-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/rotext-a99777db.vbx](../../../files/external/aimfilez-com/rotext-a99777db.vbx) |
+| s-sa | AIM | 1 | ready | 1 | [files/external/aimfilez-com/saimsa-a4b4a517.exe](../../../files/external/aimfilez-com/saimsa-a4b4a517.exe) |
 | salat | unknown | 1 | ready | 1 | [files/external/angelfire-com/salat.zip](../../../files/external/angelfire-com/salat.zip) |
 | samp | unknown | 1 | ready | 1 | [files/external/angelfire-com/samp02.zip](../../../files/external/angelfire-com/samp02.zip) |
 | sanidade | unknown | 1 | ready | 1 | [files/external/angelfire-com/sanidade.zip](../../../files/external/angelfire-com/sanidade.zip) |
@@ -143,11 +201,16 @@ These are filenames or program leads discovered from external old-web sources an
 | serveradver | unknown | 1 | ready | 1 | [files/external/angelfire-com/serveradver.zip](../../../files/external/angelfire-com/serveradver.zip) |
 | serverlook | unknown | 1 | ready | 1 | [files/external/angelfire-com/serverlook.zip](../../../files/external/angelfire-com/serverlook.zip) |
 | serverspopup | unknown | 1 | ready | 1 | [files/external/angelfire-com/serverspopup.zip](../../../files/external/angelfire-com/serverspopup.zip) |
+| setup-x | AOL/AIM client installer | 1 | ready | 1 | [files/external/am-net/setupaol60-9x-f6f5a4c2.exe](../../../files/external/am-net/setupaol60-9x-f6f5a4c2.exe) |
+| setup-kb | AOL/AIM client installer | 1 | ready | 1 | [files/external/am-net/setupaol602kb-c496c110.exe](../../../files/external/am-net/setupaol602kb-c496c110.exe) |
 | shell | unknown | 1 | ready | 1 | [files/external/angelfire-com/shell.zip](../../../files/external/angelfire-com/shell.zip) |
 | shellex | unknown | 1 | ready | 1 | [files/external/angelfire-com/shellex.zip](../../../files/external/angelfire-com/shellex.zip) |
 | shitclub | unknown | 1 | ready | 1 | [files/external/angelfire-com/shitclub.zip](../../../files/external/angelfire-com/shitclub.zip) |
 | silkboxers | unknown | 1 | ready | 1 | [files/external/angelfire-com/silkboxers.zip](../../../files/external/angelfire-com/silkboxers.zip) |
 | simple-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/simple-scribble.zip](../../../files/external/angelfire-com/simple-scribble.zip) |
+| smilebot | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/smilebot-64edb771.exe](../../../files/external/aimfilez-com/smilebot-64edb771.exe) |
+| smiley | AIM | 1 | ready | 1 | [files/external/aimfilez-com/smiley-c14cffa3.exe](../../../files/external/aimfilez-com/smiley-c14cffa3.exe) |
+| sntrader | AIM | 1 | ready | 1 | [files/external/aimfilez-com/sntrader-d9f71739.exe](../../../files/external/aimfilez-com/sntrader-d9f71739.exe) |
 | spammer | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/spammer.zip](../../../files/external/angelfire-com/spammer.zip) |
 | speed-type | unknown | 1 | ready | 1 | [files/external/angelfire-com/speed-type.zip](../../../files/external/angelfire-com/speed-type.zip) |
 | speedoptimizer-crack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/speedoptimizer-v1-5-crack.zip](../../../files/external/angelfire-com/speedoptimizer-v1-5-crack.zip) |
@@ -164,6 +227,7 @@ These are filenames or program leads discovered from external old-web sources an
 | termin | unknown | 1 | ready | 1 | [files/external/angelfire-com/termin.zip](../../../files/external/angelfire-com/termin.zip) |
 | terminator | unknown | 1 | ready | 1 | [files/external/angelfire-com/terminator.zip](../../../files/external/angelfire-com/terminator.zip) |
 | terrangauntlet | unknown | 1 | ready | 1 | [files/external/angelfire-com/terrangauntlet.zip](../../../files/external/angelfire-com/terrangauntlet.zip) |
+| threed-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/threed-39aaa6ed.vbx](../../../files/external/aimfilez-com/threed-39aaa6ed.vbx) |
 | topazchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/topazchat.zip](../../../files/external/angelfire-com/topazchat.zip) |
 | trans | unknown | 1 | ready | 1 | [files/external/angelfire-com/trans.zip](../../../files/external/angelfire-com/trans.zip) |
 | tripeaks | room buster | 1 | ready | 1 | [files/external/angelfire-com/tripeaks.zip](../../../files/external/angelfire-com/tripeaks.zip) |
@@ -172,26 +236,29 @@ These are filenames or program leads discovered from external old-web sources an
 | ts-server-fix | unknown | 1 | ready | 1 | [files/external/angelfire-com/ts-server-fix-v0-1-0.zip](../../../files/external/angelfire-com/ts-server-fix-v0-1-0.zip) |
 | twistersroombuster | room buster | 1 | ready | 1 | [files/external/angelfire-com/twistersroombuster.zip](../../../files/external/angelfire-com/twistersroombuster.zip) |
 | vb-in-lessons | unknown | 1 | ready | 1 | [files/external/angelfire-com/vb-in-12-lessons.zip](../../../files/external/angelfire-com/vb-in-12-lessons.zip) |
+| vb-chat-ocx | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/vb5chat2-0e54601c.ocx](../../../files/external/coltpro-net/vb5chat2-0e54601c.ocx) |
 | vba | unknown | 1 | ready | 1 | [files/external/angelfire-com/vba.zip](../../../files/external/angelfire-com/vba.zip) |
+| vbmsg-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/vbmsg-2305f301.vbx](../../../files/external/aimfilez-com/vbmsg-2305f301.vbx) |
 | vbulletin | unknown | 1 | ready | 1 | [files/external/angelfire-com/vbulletin-201.zip](../../../files/external/angelfire-com/vbulletin-201.zip) |
 | video-ocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/video-ocx.zip](../../../files/external/angelfire-com/video-ocx.zip) |
 | vnetbust | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/fortunecity-com/vnetbust.zip](../../../files/external/fortunecity-com/vnetbust.zip) |
 | warpedserver | unknown | 1 | ready | 1 | [files/external/angelfire-com/warpedserver.zip](../../../files/external/angelfire-com/warpedserver.zip) |
 | win-font | unknown | 1 | ready | 1 | [files/external/angelfire-com/win95font.zip](../../../files/external/angelfire-com/win95font.zip) |
 | winamp-full | unknown | 1 | ready | 1 | [files/external/angelfire-com/winamp281-full.zip](../../../files/external/angelfire-com/winamp281-full.zip) |
-| winsock-dll | unknown | 1 | ready | 1 | [files/external/angelfire-com/winsock-dll.zip](../../../files/external/angelfire-com/winsock-dll.zip) |
+| winsock-dll | runtime/support file | 1 | ready | 1 | [files/external/angelfire-com/winsock-dll.zip](../../../files/external/angelfire-com/winsock-dll.zip) |
 | xchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/xchat.zip](../../../files/external/angelfire-com/xchat.zip) |
+| xregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/xregister-859fa003.exe](../../../files/external/aimfilez-com/xregister-859fa003.exe) |
 | yoink | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/yoink.zip](../../../files/external/angelfire-com/yoink.zip) |
 | zerggifs | unknown | 1 | ready | 1 | [files/external/angelfire-com/zerggifs.zip](../../../files/external/angelfire-com/zerggifs.zip) |
 | zergscr | unknown | 1 | ready | 1 | [files/external/angelfire-com/zergscr.zip](../../../files/external/angelfire-com/zergscr.zip) |
 | zxp | unknown | 1 | ready | 1 | [files/external/angelfire-com/zxp.zip](../../../files/external/angelfire-com/zxp.zip) |
 | methodus | unknown | 6 | candidate<br>http-404 | 0 | none |
 | dos | unknown | 5 | candidate | 0 | none |
+| master | unknown | 5 | candidate<br>http-404 | 0 | none |
 | vbtips | unknown | 5 | candidate | 0 | none |
 | burning | AIM | 4 | candidate | 0 | none |
-| fury | AIM | 4 | candidate | 0 | none |
+| fury | AOL/AIM client installer | 4 | candidate | 0 | none |
 | lethal | unknown | 4 | candidate | 0 | none |
-| master | unknown | 4 | candidate | 0 | none |
 | vbrun | unknown | 4 | candidate | 0 | none |
 | yahoo | AIM | 4 | candidate | 0 | none |
 | abomination | unknown | 3 | http-404<br>candidate | 0 | none |
@@ -201,10 +268,14 @@ These are filenames or program leads discovered from external old-web sources an
 | botz | idler/bot | 3 | candidate | 0 | none |
 | dimorphic | unknown | 3 | candidate | 0 | none |
 | enervate | unknown | 3 | candidate | 0 | none |
+| envy | unknown | 3 | http-404<br>candidate | 0 | none |
+| exe-strings-db | unknown | 3 | candidate | 0 | none |
+| freakinb | unknown | 3 | candidate | 0 | none |
 | leetlink | AIM | 3 | candidate | 0 | none |
+| oracle | unknown | 3 | candidate<br>http-404 | 0 | none |
 | phaze | unknown | 3 | candidate | 0 | none |
 | pwlist | hazardous/account or remote-control context | 3 | http-404 | 0 | none |
-| threed | unknown | 3 | candidate | 0 | none |
+| threed | runtime/support file | 3 | candidate | 0 | none |
 | kfader | fader | 2 | candidate | 0 | none |
 | shoplayer | unknown | 2 | http-404 | 0 | none |
 | thelement | unknown | 2 | candidate<br>http-404 | 0 | none |
@@ -213,7 +284,7 @@ These are filenames or program leads discovered from external old-web sources an
 | utils | AIM | 2 | candidate | 0 | none |
 | armor | AIM | 2 | candidate | 0 | none |
 | boss | hazardous/account or remote-control context | 2 | candidate | 0 | none |
-| destroy | AIM | 2 | candidate | 0 | none |
+| destroy | AOL/AIM client installer | 2 | candidate | 0 | none |
 | er | AIM | 2 | candidate | 0 | none |
 | exploit | chat/macro | 2 | candidate | 0 | none |
 | fatboy | AIM | 2 | candidate | 0 | none |
@@ -221,7 +292,9 @@ These are filenames or program leads discovered from external old-web sources an
 | overflow | punter/booter | 2 | candidate | 0 | none |
 | pg | AIM | 2 | candidate | 0 | none |
 | phrozenrain | AIM | 2 | candidate | 0 | none |
+| pluss | AIM | 2 | candidate<br>http-404 | 0 | none |
 | sk-s | AIM | 2 | candidate | 0 | none |
+| ster | AIM | 2 | candidate<br>http-404 | 0 | none |
 | steves-ee | AIM | 2 | candidate | 0 | none |
 | unlimited | AIM | 2 | candidate | 0 | none |
 | xpressionz | AIM | 2 | candidate | 0 | none |
@@ -230,19 +303,24 @@ These are filenames or program leads discovered from external old-web sources an
 | andone | chat/macro | 2 | candidate | 0 | none |
 | antiboot | punter/booter | 2 | candidate | 0 | none |
 | antidote | unknown | 2 | candidate | 0 | none |
+| free | AOL/AIM client installer | 2 | candidate | 0 | none |
 | inker | unknown | 2 | candidate | 0 | none |
 | audioassault | chat/macro | 2 | candidate | 0 | none |
 | audiostyle | unknown | 2 | candidate | 0 | none |
+| autoruns | unknown | 2 | candidate | 0 | none |
 | blindidle | idler/bot | 2 | candidate | 0 | none |
-| brutoc | unknown | 2 | candidate | 0 | none |
+| brutoc | runtime/support file | 2 | candidate | 0 | none |
 | buddahlag | chat/macro | 2 | candidate | 0 | none |
 | cafe | unknown | 2 | candidate | 0 | none |
 | causticfinal | AIM | 2 | candidate | 0 | none |
+| charmap | unknown | 2 | candidate | 0 | none |
 | chatage | chat/macro | 2 | candidate | 0 | none |
 | chrome | unknown | 2 | candidate | 0 | none |
 | clonecd | unknown | 2 | candidate | 0 | none |
 | coffee | unknown | 2 | candidate | 0 | none |
+| conspericy | unknown | 2 | http-404<br>candidate | 0 | none |
 | cp | chat/macro | 2 | candidate | 0 | none |
+| crackzilla | hazardous/account or remote-control context | 2 | http-404<br>candidate | 0 | none |
 | cryofade | room buster | 2 | candidate | 0 | none |
 | ct | chat/macro | 2 | candidate | 0 | none |
 | cutehtml | unknown | 2 | candidate | 0 | none |
@@ -250,13 +328,13 @@ These are filenames or program leads discovered from external old-web sources an
 | deception | punter/booter | 2 | candidate | 0 | none |
 | derty | unknown | 2 | candidate | 0 | none |
 | diganti | unknown | 2 | candidate | 0 | none |
-| envy | unknown | 2 | candidate | 0 | none |
 | evolution | AIM | 2 | candidate | 0 | none |
 | eyecandy | unknown | 2 | candidate | 0 | none |
 | eyecandyupdate | unknown | 2 | candidate | 0 | none |
 | eyeofrah | unknown | 2 | candidate | 0 | none |
 | fastproxy | unknown | 2 | candidate | 0 | none |
 | fearx | unknown | 2 | candidate | 0 | none |
+| fiddler-setup | unknown | 2 | candidate | 0 | none |
 | fiery | unknown | 2 | candidate | 0 | none |
 | fontlister | unknown | 2 | candidate | 0 | none |
 | frogbomb | unknown | 2 | candidate | 0 | none |
@@ -272,6 +350,7 @@ These are filenames or program leads discovered from external old-web sources an
 | jn | unknown | 2 | candidate | 0 | none |
 | kokomos | unknown | 2 | candidate | 0 | none |
 | kronic | unknown | 2 | candidate | 0 | none |
+| lamer | unknown | 2 | http-404<br>candidate | 0 | none |
 | lightning | unknown | 2 | candidate | 0 | none |
 | linksender | unknown | 2 | candidate | 0 | none |
 | liquidsoulbeta | room buster | 2 | candidate | 0 | none |
@@ -281,27 +360,34 @@ These are filenames or program leads discovered from external old-web sources an
 | mocks | unknown | 2 | candidate | 0 | none |
 | neology | unknown | 2 | candidate | 0 | none |
 | netbuspatch | hazardous/account or remote-control context | 2 | http-404 | 0 | none |
+| nfos | unknown | 2 | candidate | 0 | none |
 | nolimit | room buster | 2 | candidate | 0 | none |
-| oracle | unknown | 2 | candidate | 0 | none |
+| npp-installer | unknown | 2 | candidate | 0 | none |
+| paranoia | unknown | 2 | candidate<br>http-404 | 0 | none |
 | pride | unknown | 2 | candidate | 0 | none |
-| setup | AIM | 2 | candidate | 0 | none |
+| processexplorernt | unknown | 2 | candidate | 0 | none |
 | sleepyhollow | unknown | 2 | candidate | 0 | none |
 | son | AIM | 2 | candidate | 0 | none |
+| sonicgold | chat/macro | 2 | candidate<br>http-404 | 0 | none |
 | sp | unknown | 2 | candidate | 0 | none |
 | t-m | hazardous/account or remote-control context | 2 | candidate | 0 | none |
 | target | AIM | 2 | candidate | 0 | none |
 | trail | unknown | 2 | candidate | 0 | none |
+| tweakuipowertoysetup | unknown | 2 | candidate | 0 | none |
 | unknown | unknown | 2 | candidate | 0 | none |
 | upall | unknown | 2 | candidate | 0 | none |
 | u | AIM | 2 | candidate | 0 | none |
-| vb-a | unknown | 2 | candidate | 0 | none |
+| vb-a | runtime/support file | 2 | candidate | 0 | none |
 | vbmsg | unknown | 2 | candidate | 0 | none |
+| wincdemu | unknown | 2 | candidate | 0 | none |
+| winhex | unknown | 2 | candidate | 0 | none |
 | wirecrack-source | hazardous/account or remote-control context | 2 | candidate | 0 | none |
 | wirecrack | hazardous/account or remote-control context | 2 | candidate | 0 | none |
 | wsftp | unknown | 2 | candidate | 0 | none |
 | xeno | unknown | 2 | candidate | 0 | none |
 | xenu | unknown | 2 | candidate | 0 | none |
 | xm-wa | unknown | 2 | candidate | 0 | none |
+| xmousebuttoncontrolsetup | unknown | 2 | candidate | 0 | none |
 | botbooter | punter/booter | 1 | candidate | 0 | none |
 | buddylink | AIM | 1 | candidate | 0 | none |
 | skinz | AIM | 1 | http-404 | 0 | none |
@@ -309,8 +395,8 @@ These are filenames or program leads discovered from external old-web sources an
 | coolbutton | unknown | 1 | http-404 | 0 | none |
 | kchatlink | chat/macro | 1 | candidate | 0 | none |
 | anticrack | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
-| dfxapi | AIM | 1 | http-404 | 0 | none |
-| dlabel | unknown | 1 | http-404 | 0 | none |
+| dfxapi | runtime/support file | 1 | http-404 | 0 | none |
+| dlabel | runtime/support file | 1 | http-404 | 0 | none |
 | dsmax | unknown | 1 | candidate | 0 | none |
 | kbuster | room buster | 1 | candidate | 0 | none |
 | shoelite | unknown | 1 | http-404 | 0 | none |
@@ -318,10 +404,11 @@ These are filenames or program leads discovered from external old-web sources an
 | digitcombos | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | liteiiipro | unknown | 1 | candidate | 0 | none |
 | abbot | idler/bot | 1 | http-404 | 0 | none |
+| ac-passwordcracker | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
 | acidfader | fader | 1 | http-404 | 0 | none |
 | acidrein | AIM | 1 | http-404 | 0 | none |
-| actcndy | unknown | 1 | http-404 | 0 | none |
-| activeskin | AIM | 1 | http-404 | 0 | none |
+| actcndy | runtime/support file | 1 | http-404 | 0 | none |
+| activeskin | runtime/support file | 1 | http-404 | 0 | none |
 | addictionsfinal | punter/booter | 1 | candidate | 0 | none |
 | adiosamigos | unknown | 1 | candidate | 0 | none |
 | adobe | unknown | 1 | candidate | 0 | none |
@@ -358,6 +445,7 @@ These are filenames or program leads discovered from external old-web sources an
 | chemicaltendancies | AIM | 1 | candidate | 0 | none |
 | crak | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | crc | AIM | 1 | candidate | 0 | none |
+| creat | AIM | 1 | http-404 | 0 | none |
 | deadend | AIM | 1 | candidate | 0 | none |
 | distortion | AIM | 1 | candidate | 0 | none |
 | distortionfinal | AIM | 1 | candidate | 0 | none |
@@ -365,7 +453,7 @@ These are filenames or program leads discovered from external old-web sources an
 | empyriefinal | AIM | 1 | candidate | 0 | none |
 | endlesscommands | AIM | 1 | candidate | 0 | none |
 | erozionbeta | AIM | 1 | candidate | 0 | none |
-| evil | AIM | 1 | candidate | 0 | none |
+| evil | AOL/AIM client installer | 1 | candidate | 0 | none |
 | fadersuite | fader | 1 | candidate | 0 | none |
 | flash | AIM | 1 | candidate | 0 | none |
 | flooder | chat/macro | 1 | candidate | 0 | none |
@@ -386,7 +474,7 @@ These are filenames or program leads discovered from external old-web sources an
 | lightningaftershock | AIM | 1 | candidate | 0 | none |
 | linker | AIM | 1 | candidate | 0 | none |
 | luxor | AIM | 1 | candidate | 0 | none |
-| maddux | AIM | 1 | candidate | 0 | none |
+| maddux | AOL/AIM client installer | 1 | candidate | 0 | none |
 | mafiafinal | AIM | 1 | candidate | 0 | none |
 | mayka | AIM | 1 | candidate | 0 | none |
 | meangreen | AIM | 1 | candidate | 0 | none |
@@ -403,7 +491,6 @@ These are filenames or program leads discovered from external old-web sources an
 | onfire | AIM | 1 | candidate | 0 | none |
 | oxygenbuild | AIM | 1 | candidate | 0 | none |
 | phrozenphader | AIM | 1 | candidate | 0 | none |
-| pluss | AIM | 1 | candidate | 0 | none |
 | poser | AIM | 1 | candidate | 0 | none |
 | pressurescrambler | AIM | 1 | candidate | 0 | none |
 | professor | AIM | 1 | candidate | 0 | none |
@@ -425,7 +512,6 @@ These are filenames or program leads discovered from external old-web sources an
 | southparkbeta | AIM | 1 | candidate | 0 | none |
 | spawn | AIM | 1 | candidate | 0 | none |
 | staticx | AIM | 1 | candidate | 0 | none |
-| ster | AIM | 1 | candidate | 0 | none |
 | studio | AIM | 1 | candidate | 0 | none |
 | sufferage | AIM | 1 | candidate | 0 | none |
 | synapse | AIM | 1 | candidate | 0 | none |
@@ -444,12 +530,13 @@ These are filenames or program leads discovered from external old-web sources an
 | allaccess | unknown | 1 | candidate | 0 | none |
 | alpha-kbuster | room buster | 1 | candidate | 0 | none |
 | alterimage | unknown | 1 | candidate | 0 | none |
+| amazonclouddrivesetup | unknown | 1 | candidate | 0 | none |
 | amcmsgbox | unknown | 1 | candidate | 0 | none |
 | americaonfireplatinum | unknown | 1 | candidate | 0 | none |
 | amerikaencryptline | unknown | 1 | candidate | 0 | none |
 | amxidler | idler/bot | 1 | candidate | 0 | none |
 | annoypunter | punter/booter | 1 | candidate | 0 | none |
-| anomaly | chat/macro | 1 | candidate | 0 | none |
+| anomaly | runtime/support file | 1 | candidate | 0 | none |
 | answerdat | unknown | 1 | candidate | 0 | none |
 | anti-filter | AIM | 1 | candidate | 0 | none |
 | antifreeze | unknown | 1 | candidate | 0 | none |
@@ -460,13 +547,16 @@ These are filenames or program leads discovered from external old-web sources an
 | ao | unknown | 1 | candidate | 0 | none |
 | aob | chat/macro | 1 | candidate | 0 | none |
 | aoh-b | unknown | 1 | candidate | 0 | none |
-| fix | unknown | 1 | candidate | 0 | none |
-| chatbot | idler/bot | 1 | candidate | 0 | none |
-| ex | unknown | 1 | candidate | 0 | none |
-| plus | AIM | 1 | candidate | 0 | none |
-| sendchat | chat/macro | 1 | candidate | 0 | none |
-| se | AIM | 1 | candidate | 0 | none |
+| s-archive | unknown | 1 | too-large | 0 | none |
+| german | AOL/AIM client installer | 1 | http-404 | 0 | none |
+| fix | AOL/AIM client installer | 1 | candidate | 0 | none |
+| chatbot | AOL/AIM client installer | 1 | candidate | 0 | none |
+| ex | AOL/AIM client installer | 1 | candidate | 0 | none |
+| plus | AOL/AIM client installer | 1 | candidate | 0 | none |
+| sendchat | AOL/AIM client installer | 1 | candidate | 0 | none |
+| se | AOL/AIM client installer | 1 | candidate | 0 | none |
 | ac | hazardous/account or remote-control context | 1 | candidate | 0 | none |
+| filedownloader | unknown | 1 | http-404 | 0 | none |
 | macros | chat/macro | 1 | candidate | 0 | none |
 | sjeb-s | unknown | 1 | candidate | 0 | none |
 | quickbuddy | AIM | 1 | candidate | 0 | none |
@@ -494,6 +584,7 @@ These are filenames or program leads discovered from external old-web sources an
 | autorunmaker | unknown | 1 | candidate | 0 | none |
 | autositebackup | unknown | 1 | candidate | 0 | none |
 | away-k | idler/bot | 1 | candidate | 0 | none |
+| b-it | unknown | 1 | http-404 | 0 | none |
 | badmojo | unknown | 1 | candidate | 0 | none |
 | bait | unknown | 1 | candidate | 0 | none |
 | banner-exchange-v-b | unknown | 1 | candidate | 0 | none |
@@ -536,14 +627,17 @@ These are filenames or program leads discovered from external old-web sources an
 | bproom | room buster | 1 | candidate | 0 | none |
 | brbas | unknown | 1 | candidate | 0 | none |
 | brbidler | idler/bot | 1 | candidate | 0 | none |
-| bru | unknown | 1 | candidate | 0 | none |
+| bru | runtime/support file | 1 | candidate | 0 | none |
 | buddahidle | idler/bot | 1 | candidate | 0 | none |
 | buddahpwgen | unknown | 1 | candidate | 0 | none |
 | buddha | unknown | 1 | candidate | 0 | none |
 | buddy | AIM | 1 | candidate | 0 | none |
+| buddybegone | AIM | 1 | http-404 | 0 | none |
 | buddyblaster | mass mailer/server | 1 | http-404 | 0 | none |
-| buddykill | punter/booter | 1 | candidate | 0 | none |
 | buddymax | AIM | 1 | candidate | 0 | none |
+| buddysorter | AIM | 1 | http-404 | 0 | none |
+| bugshooting-setup | unknown | 1 | candidate | 0 | none |
+| build | unknown | 1 | http-404 | 0 | none |
 | bulletftp | unknown | 1 | candidate | 0 | none |
 | bustamove | room buster | 1 | candidate | 0 | none |
 | bustaroom | room buster | 1 | candidate | 0 | none |
@@ -554,8 +648,11 @@ These are filenames or program leads discovered from external old-web sources an
 | byrdfader | fader | 1 | candidate | 0 | none |
 | c-collector | unknown | 1 | candidate | 0 | none |
 | c-public | hazardous/account or remote-control context | 1 | candidate | 0 | none |
+| cab | unknown | 1 | candidate | 0 | none |
 | cast | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| ccrpprg | unknown | 1 | candidate | 0 | none |
+| ccrpprg | runtime/support file | 1 | candidate | 0 | none |
+| cdmage | unknown | 1 | candidate | 0 | none |
+| cdmage-b | unknown | 1 | candidate | 0 | none |
 | cell | AIM | 1 | candidate | 0 | none |
 | celluoid | chat/macro | 1 | candidate | 0 | none |
 | celluoidbeta | chat/macro | 1 | candidate | 0 | none |
@@ -571,18 +668,18 @@ These are filenames or program leads discovered from external old-web sources an
 | chatclear | chat/macro | 1 | candidate | 0 | none |
 | chatfix | chat/macro | 1 | candidate | 0 | none |
 | chatlink | chat/macro | 1 | candidate | 0 | none |
-| chatocx | chat/macro | 1 | candidate | 0 | none |
+| chatocx | runtime/support file | 1 | candidate | 0 | none |
 | chatpro | chat/macro | 1 | candidate | 0 | none |
 | chatprot | chat/macro | 1 | candidate | 0 | none |
 | chatrush | chat/macro | 1 | candidate | 0 | none |
-| chatscan | chat/macro | 1 | candidate | 0 | none |
+| chatscan | runtime/support file | 1 | candidate | 0 | none |
 | chatsp | mass mailer/server | 1 | candidate | 0 | none |
 | chat-beta | chat/macro | 1 | candidate | 0 | none |
 | chazt | AIM | 1 | candidate | 0 | none |
 | cheezy | idler/bot | 1 | candidate | 0 | none |
 | chex | unknown | 1 | candidate | 0 | none |
 | chickilla | punter/booter | 1 | candidate | 0 | none |
-| chip-kid | unknown | 1 | candidate | 0 | none |
+| chip-kid | runtime/support file | 1 | candidate | 0 | none |
 | chronicbas | unknown | 1 | candidate | 0 | none |
 | chronicidle | idler/bot | 1 | candidate | 0 | none |
 | chronik | unknown | 1 | candidate | 0 | none |
@@ -591,10 +688,10 @@ These are filenames or program leads discovered from external old-web sources an
 | citrus | room buster | 1 | candidate | 0 | none |
 | clearhaze | chat/macro | 1 | candidate | 0 | none |
 | cleptobust | room buster | 1 | candidate | 0 | none |
-| cloc | AIM | 1 | candidate | 0 | none |
+| cloc | runtime/support file | 1 | candidate | 0 | none |
 | cloneridle | idler/bot | 1 | candidate | 0 | none |
 | clonetech | unknown | 1 | candidate | 0 | none |
-| cmdialog | chat/macro | 1 | candidate | 0 | none |
+| cmdialog | runtime/support file | 1 | candidate | 0 | none |
 | cobain-st | AIM | 1 | candidate | 0 | none |
 | codezap | AIM | 1 | http-404 | 0 | none |
 | coldlayout | idler/bot | 1 | candidate | 0 | none |
@@ -602,10 +699,11 @@ These are filenames or program leads discovered from external old-web sources an
 | cology-source | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | colorcarnage | unknown | 1 | candidate | 0 | none |
 | colorfulsexfader | fader | 1 | candidate | 0 | none |
-| comctl | unknown | 1 | candidate | 0 | none |
-| comdlg | unknown | 1 | candidate | 0 | none |
+| com-six-beta | unknown | 1 | http-404 | 0 | none |
+| comctl | runtime/support file | 1 | candidate | 0 | none |
+| comdlg | runtime/support file | 1 | candidate | 0 | none |
 | comillusionb | chat/macro | 1 | candidate | 0 | none |
-| conspericy | unknown | 1 | candidate | 0 | none |
+| compaccoms | chat/macro | 1 | http-404 | 0 | none |
 | cookiemonster | idler/bot | 1 | candidate | 0 | none |
 | coolfonts | unknown | 1 | candidate | 0 | none |
 | coolghost | unknown | 1 | candidate | 0 | none |
@@ -623,7 +721,6 @@ These are filenames or program leads discovered from external old-web sources an
 | cracknet | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | crackofdawn | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | cracks | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crackzilla | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | crapidleremix | idler/bot | 1 | candidate | 0 | none |
 | crappyscroller | chat/macro | 1 | candidate | 0 | none |
 | crazyhobo | idler/bot | 1 | candidate | 0 | none |
@@ -633,7 +730,7 @@ These are filenames or program leads discovered from external old-web sources an
 | cruel | unknown | 1 | candidate | 0 | none |
 | cs | idler/bot | 1 | candidate | 0 | none |
 | cyclonemm | unknown | 1 | candidate | 0 | none |
-| d-k | punter/booter | 1 | candidate | 0 | none |
+| d-k | AOL/AIM client installer | 1 | candidate | 0 | none |
 | dacracks | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | dahoaxbas | unknown | 1 | candidate | 0 | none |
 | d-gold | AIM | 1 | candidate | 0 | none |
@@ -644,20 +741,21 @@ These are filenames or program leads discovered from external old-web sources an
 | darkshadow | punter/booter | 1 | candidate | 0 | none |
 | darkside-r | unknown | 1 | candidate | 0 | none |
 | darkzoid | AIM | 1 | http-404 | 0 | none |
-| dbpush | unknown | 1 | candidate | 0 | none |
-| dbttip | unknown | 1 | candidate | 0 | none |
+| dbpush | runtime/support file | 1 | candidate | 0 | none |
+| dbremix | unknown | 1 | http-404 | 0 | none |
+| dbttip | runtime/support file | 1 | candidate | 0 | none |
 | dcom | unknown | 1 | candidate | 0 | none |
-| dcsystray | unknown | 1 | candidate | 0 | none |
+| dcsystray | runtime/support file | 1 | candidate | 0 | none |
 | deadair | unknown | 1 | candidate | 0 | none |
 | deadmassim | mass mailer/server | 1 | candidate | 0 | none |
-| deathby | AIM | 1 | candidate | 0 | none |
+| deathby | AOL/AIM client installer | 1 | candidate | 0 | none |
 | deathcom | unknown | 1 | candidate | 0 | none |
-| decript | AIM | 1 | candidate | 0 | none |
+| decript | AOL/AIM client installer | 1 | candidate | 0 | none |
 | deltaforcebeta | unknown | 1 | candidate | 0 | none |
 | delusional | unknown | 1 | candidate | 0 | none |
-| dem | AIM | 1 | candidate | 0 | none |
+| dem | AOL/AIM client installer | 1 | candidate | 0 | none |
 | demented | unknown | 1 | candidate | 0 | none |
-| demolish | AIM | 1 | candidate | 0 | none |
+| demolish | AOL/AIM client installer | 1 | candidate | 0 | none |
 | demonslash | punter/booter | 1 | candidate | 0 | none |
 | desi | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | destinyfinal | hazardous/account or remote-control context | 1 | candidate | 0 | none |
@@ -672,7 +770,8 @@ These are filenames or program leads discovered from external old-web sources an
 | ditto | punter/booter | 1 | candidate | 0 | none |
 | dive | unknown | 1 | candidate | 0 | none |
 | dltech | idler/bot | 1 | candidate | 0 | none |
-| dogbar | unknown | 1 | candidate | 0 | none |
+| dogbar | runtime/support file | 1 | candidate | 0 | none |
+| domaincs | unknown | 1 | candidate | 0 | none |
 | dotcom | unknown | 1 | candidate | 0 | none |
 | downloadacceleratorpro | unknown | 1 | candidate | 0 | none |
 | dream | unknown | 1 | candidate | 0 | none |
@@ -687,7 +786,7 @@ These are filenames or program leads discovered from external old-web sources an
 | dupekill | chat/macro | 1 | candidate | 0 | none |
 | dwf | punter/booter | 1 | candidate | 0 | none |
 | dwkdfade | fader | 1 | candidate | 0 | none |
-| dwsbc | unknown | 1 | candidate | 0 | none |
+| dwsbc | runtime/support file | 1 | candidate | 0 | none |
 | earth | unknown | 1 | candidate | 0 | none |
 | easycracking | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | echobotsource | idler/bot | 1 | candidate | 0 | none |
@@ -726,6 +825,8 @@ These are filenames or program leads discovered from external old-web sources an
 | expressed | unknown | 1 | candidate | 0 | none |
 | expressions | unknown | 1 | candidate | 0 | none |
 | extremeelegance | unknown | 1 | candidate | 0 | none |
+| ez-gpo | unknown | 1 | candidate | 0 | none |
+| ez-save-setup | unknown | 1 | candidate | 0 | none |
 | ezaudio | unknown | 1 | candidate | 0 | none |
 | fademan | fader | 1 | candidate | 0 | none |
 | fadercolorz | fader | 1 | candidate | 0 | none |
@@ -739,42 +840,47 @@ These are filenames or program leads discovered from external old-web sources an
 | fierce | chat/macro | 1 | candidate | 0 | none |
 | finalelement | unknown | 1 | candidate | 0 | none |
 | finalpeace | unknown | 1 | candidate | 0 | none |
-| fir-z-chatscan | chat/macro | 1 | candidate | 0 | none |
+| fir-z-chatscan | runtime/support file | 1 | candidate | 0 | none |
 | firecatasciishop | chat/macro | 1 | candidate | 0 | none |
 | firstinline | punter/booter | 1 | candidate | 0 | none |
 | flashforge | unknown | 1 | candidate | 0 | none |
 | flashforge-b-d | unknown | 1 | candidate | 0 | none |
-| flatbtn | unknown | 1 | candidate | 0 | none |
+| flatbtn | runtime/support file | 1 | candidate | 0 | none |
 | floodassault | punter/booter | 1 | candidate | 0 | none |
 | fluxidle | idler/bot | 1 | candidate | 0 | none |
-| fly | AIM | 1 | candidate | 0 | none |
+| fly | AOL/AIM client installer | 1 | candidate | 0 | none |
 | flyman | unknown | 1 | candidate | 0 | none |
+| flyw | unknown | 1 | candidate | 0 | none |
 | fonts | unknown | 1 | candidate | 0 | none |
 | formdragxp | unknown | 1 | candidate | 0 | none |
 | formtrick | unknown | 1 | candidate | 0 | none |
 | fourseasons | unknown | 1 | candidate | 0 | none |
 | fox | hazardous/account or remote-control context | 1 | candidate | 0 | none |
+| fpfksetup-revnum-web-prod | unknown | 1 | candidate | 0 | none |
+| fpfksetup | unknown | 1 | candidate | 0 | none |
 | fr | chat/macro | 1 | candidate | 0 | none |
 | frames | unknown | 1 | http-404 | 0 | none |
 | frantic | unknown | 1 | candidate | 0 | none |
 | freespy | unknown | 1 | candidate | 0 | none |
+| freongold | unknown | 1 | http-404 | 0 | none |
 | fresh | unknown | 1 | candidate | 0 | none |
 | frootfliy | unknown | 1 | candidate | 0 | none |
 | froz-nh-ll | unknown | 1 | candidate | 0 | none |
 | frozenhell | unknown | 1 | candidate | 0 | none |
 | frubal | AIM | 1 | candidate | 0 | none |
+| frui | unknown | 1 | candidate | 0 | none |
 | ftx | unknown | 1 | candidate | 0 | none |
 | fuji | chat/macro | 1 | candidate | 0 | none |
 | future | chat/macro | 1 | candidate | 0 | none |
 | garbage | unknown | 1 | candidate | 0 | none |
-| gauge | unknown | 1 | candidate | 0 | none |
+| gather | unknown | 1 | http-404 | 0 | none |
+| gauge | runtime/support file | 1 | candidate | 0 | none |
 | gayrebirth | unknown | 1 | candidate | 0 | none |
 | generalcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | genozide | unknown | 1 | candidate | 0 | none |
 | genpr | AIM | 1 | candidate | 0 | none |
 | geocities | unknown | 1 | candidate | 0 | none |
 | getthat | AIM | 1 | candidate | 0 | none |
-| ghost | punter/booter | 1 | candidate | 0 | none |
 | ginspar | unknown | 1 | candidate | 0 | none |
 | glitchx | punter/booter | 1 | http-404 | 0 | none |
 | glue | unknown | 1 | candidate | 0 | none |
@@ -782,7 +888,7 @@ These are filenames or program leads discovered from external old-web sources an
 | gothicwithdll | unknown | 1 | candidate | 0 | none |
 | gr-a | unknown | 1 | candidate | 0 | none |
 | grainofkokane | AIM | 1 | candidate | 0 | none |
-| grid | unknown | 1 | candidate | 0 | none |
+| grid | runtime/support file | 1 | candidate | 0 | none |
 | gwapitoslapper | punter/booter | 1 | candidate | 0 | none |
 | h-s | unknown | 1 | candidate | 0 | none |
 | h-olink | unknown | 1 | candidate | 0 | none |
@@ -803,7 +909,7 @@ These are filenames or program leads discovered from external old-web sources an
 | hippo | punter/booter | 1 | candidate | 0 | none |
 | hit-chidler | idler/bot | 1 | candidate | 0 | none |
 | hiwind | chat/macro | 1 | candidate | 0 | none |
-| hix | AIM | 1 | candidate | 0 | none |
+| hix | AOL/AIM client installer | 1 | candidate | 0 | none |
 | holyzccom | chat/macro | 1 | candidate | 0 | none |
 | homer | AIM | 1 | candidate | 0 | none |
 | hook-beta | room buster | 1 | candidate | 0 | none |
@@ -821,8 +927,6 @@ These are filenames or program leads discovered from external old-web sources an
 | i-fusion-box | unknown | 1 | candidate | 0 | none |
 | ibeuppin | unknown | 1 | candidate | 0 | none |
 | iccplatinum | unknown | 1 | candidate | 0 | none |
-| icondrop | punter/booter | 1 | candidate | 0 | none |
-| iconedit | unknown | 1 | candidate | 0 | none |
 | iconmaker | unknown | 1 | candidate | 0 | none |
 | icqicqzap | unknown | 1 | candidate | 0 | none |
 | icqinvinsible | unknown | 1 | candidate | 0 | none |
@@ -836,21 +940,25 @@ These are filenames or program leads discovered from external old-web sources an
 | imap | unknown | 1 | candidate | 0 | none |
 | imidling | idler/bot | 1 | candidate | 0 | none |
 | imout | idler/bot | 1 | candidate | 0 | none |
-| impact | unknown | 1 | candidate | 0 | none |
+| impact | AOL/AIM client installer | 1 | candidate | 0 | none |
 | implosion | punter/booter | 1 | candidate | 0 | none |
 | importtuner | chat/macro | 1 | candidate | 0 | none |
+| improvise | unknown | 1 | http-404 | 0 | none |
 | imspam | mass mailer/server | 1 | candidate | 0 | none |
+| indeo | unknown | 1 | candidate | 0 | none |
 | indifference | unknown | 1 | candidate | 0 | none |
 | infinimm | unknown | 1 | candidate | 0 | none |
 | info-t-lzwithdll | unknown | 1 | candidate | 0 | none |
 | info-t-lzwithoutdll | unknown | 1 | candidate | 0 | none |
 | information | unknown | 1 | candidate | 0 | none |
 | infosidle | idler/bot | 1 | candidate | 0 | none |
+| installspeedfan | unknown | 1 | candidate | 0 | none |
 | instinct | punter/booter | 1 | candidate | 0 | none |
 | intrepid | AIM | 1 | candidate | 0 | none |
 | invaderispec | punter/booter | 1 | candidate | 0 | none |
 | invaderupdate | AIM | 1 | candidate | 0 | none |
 | invizolinker | unknown | 1 | candidate | 0 | none |
+| ioware-w-x | unknown | 1 | candidate | 0 | none |
 | ipserve | AIM | 1 | candidate | 0 | none |
 | ipstealutilities | AIM | 1 | candidate | 0 | none |
 | ipswbeta | unknown | 1 | candidate | 0 | none |
@@ -861,13 +969,14 @@ These are filenames or program leads discovered from external old-web sources an
 | jackalbox | unknown | 1 | candidate | 0 | none |
 | jackalsidler | idler/bot | 1 | candidate | 0 | none |
 | jag | unknown | 1 | candidate | 0 | none |
+| jaruleplat | unknown | 1 | http-404 | 0 | none |
 | jcomz | chat/macro | 1 | candidate | 0 | none |
 | jd-k | unknown | 1 | candidate | 0 | none |
 | jeeperscreeper | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | jinxout | unknown | 1 | candidate | 0 | none |
 | jittertext | unknown | 1 | candidate | 0 | none |
 | jolt | idler/bot | 1 | candidate | 0 | none |
-| jscan | unknown | 1 | candidate | 0 | none |
+| jscan | runtime/support file | 1 | candidate | 0 | none |
 | judgeday | unknown | 1 | candidate | 0 | none |
 | juvenile | idler/bot | 1 | candidate | 0 | none |
 | kajone | AIM | 1 | candidate | 0 | none |
@@ -875,6 +984,7 @@ These are filenames or program leads discovered from external old-web sources an
 | kang | unknown | 1 | candidate | 0 | none |
 | kaos | unknown | 1 | candidate | 0 | none |
 | kaosforever | unknown | 1 | candidate | 0 | none |
+| kbang | unknown | 1 | candidate | 0 | none |
 | kdtbeta | unknown | 1 | candidate | 0 | none |
 | ke | unknown | 1 | candidate | 0 | none |
 | keygen | unknown | 1 | candidate | 0 | none |
@@ -898,12 +1008,12 @@ These are filenames or program leads discovered from external old-web sources an
 | lagotron | unknown | 1 | candidate | 0 | none |
 | lagpandemic | unknown | 1 | candidate | 0 | none |
 | lagz | unknown | 1 | candidate | 0 | none |
-| lamer | unknown | 1 | candidate | 0 | none |
 | lamescroller | chat/macro | 1 | candidate | 0 | none |
 | lastdon | unknown | 1 | candidate | 0 | none |
 | laststand | unknown | 1 | candidate | 0 | none |
 | lazyass | unknown | 1 | candidate | 0 | none |
 | leprecy | unknown | 1 | candidate | 0 | none |
+| less | unknown | 1 | candidate | 0 | none |
 | lethalempireanti | unknown | 1 | candidate | 0 | none |
 | lethalempirefader | fader | 1 | candidate | 0 | none |
 | limp | unknown | 1 | candidate | 0 | none |
@@ -914,11 +1024,11 @@ These are filenames or program leads discovered from external old-web sources an
 | lm | fader | 1 | candidate | 0 | none |
 | lobbywhore | unknown | 1 | candidate | 0 | none |
 | loginexample | unknown | 1 | candidate | 0 | none |
-| loserscan | chat/macro | 1 | candidate | 0 | none |
+| loserscan | runtime/support file | 1 | candidate | 0 | none |
 | ltclonetron | unknown | 1 | candidate | 0 | none |
 | ltk | punter/booter | 1 | candidate | 0 | none |
 | lurker | unknown | 1 | candidate | 0 | none |
-| lvbuttons | unknown | 1 | candidate | 0 | none |
+| lvbuttons | runtime/support file | 1 | candidate | 0 | none |
 | lw | punter/booter | 1 | candidate | 0 | none |
 | macabrephoenix | unknown | 1 | candidate | 0 | none |
 | macaddresschanger | unknown | 1 | candidate | 0 | none |
@@ -936,7 +1046,7 @@ These are filenames or program leads discovered from external old-web sources an
 | mastaidle | idler/bot | 1 | candidate | 0 | none |
 | matrixcracker | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | mattsidler | idler/bot | 1 | candidate | 0 | none |
-| mbar | chat/macro | 1 | candidate | 0 | none |
+| mbar | runtime/support file | 1 | candidate | 0 | none |
 | mclcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | mcspammer | mass mailer/server | 1 | candidate | 0 | none |
 | mdma | mass mailer/server | 1 | candidate | 0 | none |
@@ -969,16 +1079,15 @@ These are filenames or program leads discovered from external old-web sources an
 | mouseoverlink | unknown | 1 | candidate | 0 | none |
 | mover | unknown | 1 | candidate | 0 | none |
 | mp-mpd | unknown | 1 | candidate | 0 | none |
-| mp-play | unknown | 1 | candidate | 0 | none |
+| mp-play | runtime/support file | 1 | candidate | 0 | none |
 | mplayerx | chat/macro | 1 | candidate | 0 | none |
-| mscomctl | unknown | 1 | candidate | 0 | none |
-| msdxm | unknown | 1 | candidate | 0 | none |
+| mscomctl | runtime/support file | 1 | candidate | 0 | none |
+| msdxm | runtime/support file | 1 | candidate | 0 | none |
 | msgbox | unknown | 1 | candidate | 0 | none |
-| msinet | unknown | 1 | candidate | 0 | none |
-| msstdfmt | chat/macro | 1 | candidate | 0 | none |
-| msvbvm-dll | unknown | 1 | candidate | 0 | none |
-| msvcp | unknown | 1 | candidate | 0 | none |
-| mswinsck | unknown | 1 | candidate | 0 | none |
+| msinet | runtime/support file | 1 | candidate | 0 | none |
+| msstdfmt | runtime/support file | 1 | candidate | 0 | none |
+| msvcp | runtime/support file | 1 | candidate | 0 | none |
+| mswinsck | runtime/support file | 1 | candidate | 0 | none |
 | mtb | unknown | 1 | candidate | 0 | none |
 | multi | unknown | 1 | candidate | 0 | none |
 | murder | chat/macro | 1 | candidate | 0 | none |
@@ -1002,16 +1111,20 @@ These are filenames or program leads discovered from external old-web sources an
 | newspro | unknown | 1 | candidate | 0 | none |
 | nh | unknown | 1 | candidate | 0 | none |
 | nigga | punter/booter | 1 | candidate | 0 | none |
+| nirext | unknown | 1 | candidate | 0 | none |
 | nitz | chat/macro | 1 | candidate | 0 | none |
 | nogi | mass mailer/server | 1 | candidate | 0 | none |
+| notepad | unknown | 1 | candidate | 0 | none |
+| nsis-setup | unknown | 1 | candidate | 0 | none |
+| ntsec | unknown | 1 | candidate | 0 | none |
 | numberpwlists | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | nyc | idler/bot | 1 | candidate | 0 | none |
 | nyte | unknown | 1 | candidate | 0 | none |
 | nytes-s | unknown | 1 | candidate | 0 | none |
-| oc | unknown | 1 | candidate | 0 | none |
+| oc | runtime/support file | 1 | candidate | 0 | none |
 | oda | unknown | 1 | candidate | 0 | none |
-| oleaut | chat/macro | 1 | candidate | 0 | none |
-| olepro | chat/macro | 1 | candidate | 0 | none |
+| oleaut | runtime/support file | 1 | candidate | 0 | none |
+| olepro | runtime/support file | 1 | candidate | 0 | none |
 | ontop | unknown | 1 | candidate | 0 | none |
 | operationzero | unknown | 1 | candidate | 0 | none |
 | opticalphader | fader | 1 | candidate | 0 | none |
@@ -1024,14 +1137,14 @@ These are filenames or program leads discovered from external old-web sources an
 | oxide | AIM | 1 | candidate | 0 | none |
 | oxsccoms | chat/macro | 1 | candidate | 0 | none |
 | p-p | punter/booter | 1 | candidate | 0 | none |
-| paranoia | unknown | 1 | candidate | 0 | none |
 | paranoid | unknown | 1 | candidate | 0 | none |
 | paraphernalia | room buster | 1 | candidate | 0 | none |
 | passwords | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
+| pasteasy-setup | unknown | 1 | candidate | 0 | none |
 | patrycidebeta | unknown | 1 | candidate | 0 | none |
 | pen-ridle | idler/bot | 1 | candidate | 0 | none |
 | percent | unknown | 1 | candidate | 0 | none |
-| percnt | chat/macro | 1 | candidate | 0 | none |
+| percnt | runtime/support file | 1 | candidate | 0 | none |
 | pest | unknown | 1 | candidate | 0 | none |
 | pezcorefisher | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | phade | fader | 1 | candidate | 0 | none |
@@ -1042,27 +1155,33 @@ These are filenames or program leads discovered from external old-web sources an
 | phreakchat | room buster | 1 | http-404 | 0 | none |
 | phrosty | unknown | 1 | candidate | 0 | none |
 | pibet | idler/bot | 1 | candidate | 0 | none |
-| playcd | unknown | 1 | candidate | 0 | none |
+| pinwheel | unknown | 1 | candidate | 0 | none |
+| pkreader | unknown | 1 | candidate | 0 | none |
+| playcd | runtime/support file | 1 | candidate | 0 | none |
 | plugingalaxy | unknown | 1 | candidate | 0 | none |
 | pmanswering | unknown | 1 | candidate | 0 | none |
 | poanti | punter/booter | 1 | candidate | 0 | none |
 | pogo | unknown | 1 | candidate | 0 | none |
-| popup | unknown | 1 | candidate | 0 | none |
-| popupbutton | unknown | 1 | candidate | 0 | none |
+| popupbutton | runtime/support file | 1 | candidate | 0 | none |
 | popupyes-no | unknown | 1 | candidate | 0 | none |
 | position | unknown | 1 | candidate | 0 | none |
-| powersource | unknown | 1 | candidate | 0 | none |
+| powersource | AOL/AIM client installer | 1 | candidate | 0 | none |
+| pridelands | unknown | 1 | http-404 | 0 | none |
 | primus | punter/booter | 1 | candidate | 0 | none |
 | eechatfix | chat/macro | 1 | candidate | 0 | none |
 | files | unknown | 1 | candidate | 0 | none |
 | projektkrak | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | prozac | room buster | 1 | candidate | 0 | none |
+| pscript | unknown | 1 | candidate | 0 | none |
 | psy-kscroller | chat/macro | 1 | candidate | 0 | none |
 | psychic | idler/bot | 1 | candidate | 0 | none |
+| ptfb | unknown | 1 | candidate | 0 | none |
+| ptfbadmn | unknown | 1 | candidate | 0 | none |
 | pulsarpunt | punter/booter | 1 | candidate | 0 | none |
 | punker | unknown | 1 | candidate | 0 | none |
-| punkmp | unknown | 1 | candidate | 0 | none |
+| punkmp | runtime/support file | 1 | candidate | 0 | none |
 | qb | unknown | 1 | candidate | 0 | none |
+| qmodem | unknown | 1 | candidate | 0 | none |
 | quickchange | AIM | 1 | candidate | 0 | none |
 | raeophobic | idler/bot | 1 | candidate | 0 | none |
 | rainbow | unknown | 1 | candidate | 0 | none |
@@ -1077,43 +1196,51 @@ These are filenames or program leads discovered from external old-web sources an
 | rfi-lfi-xss-kit-v | unknown | 1 | candidate | 0 | none |
 | rgbcreator | unknown | 1 | candidate | 0 | none |
 | ri | room buster | 1 | candidate | 0 | none |
-| richtx | unknown | 1 | candidate | 0 | none |
+| richtx | runtime/support file | 1 | candidate | 0 | none |
+| ridbanners | AIM | 1 | http-404 | 0 | none |
 | rightclick | unknown | 1 | candidate | 0 | none |
 | ritmancounter | unknown | 1 | candidate | 0 | none |
 | riven | unknown | 1 | candidate | 0 | none |
 | roomie | room buster | 1 | candidate | 0 | none |
 | rose | idler/bot | 1 | candidate | 0 | none |
-| rotext | unknown | 1 | candidate | 0 | none |
+| rotext | runtime/support file | 1 | candidate | 0 | none |
+| rufus | unknown | 1 | candidate | 0 | none |
 | safety | unknown | 1 | candidate | 0 | none |
 | salem | unknown | 1 | candidate | 0 | none |
-| scan | unknown | 1 | candidate | 0 | none |
-| scanchat | chat/macro | 1 | candidate | 0 | none |
+| scan | runtime/support file | 1 | candidate | 0 | none |
+| scanchat | runtime/support file | 1 | candidate | 0 | none |
 | scanpunt | punter/booter | 1 | candidate | 0 | none |
-| scanthis | unknown | 1 | candidate | 0 | none |
+| scanthis | runtime/support file | 1 | candidate | 0 | none |
 | scbysc-m | unknown | 1 | candidate | 0 | none |
 | scroll | chat/macro | 1 | candidate | 0 | none |
 | scroller | chat/macro | 1 | candidate | 0 | none |
 | scrollmoreshit | chat/macro | 1 | candidate | 0 | none |
 | sctgold | chat/macro | 1 | candidate | 0 | none |
 | secrettext | AIM | 1 | candidate | 0 | none |
-| setting | unknown | 1 | candidate | 0 | none |
-| setuprt | unknown | 1 | candidate | 0 | none |
+| sendtosmugmug | unknown | 1 | candidate | 0 | none |
+| setting | runtime/support file | 1 | candidate | 0 | none |
+| setup-bullzippdfprinter | unknown | 1 | candidate | 0 | none |
+| setup-file-print-fedex-kinkos | unknown | 1 | candidate | 0 | none |
+| setup-skypeplus | unknown | 1 | candidate | 0 | none |
 | shadowbot | idler/bot | 1 | http-404 | 0 | none |
 | shithead | unknown | 1 | candidate | 0 | none |
 | shockp | chat/macro | 1 | candidate | 0 | none |
 | siegebust | room buster | 1 | candidate | 0 | none |
-| siks | AIM | 1 | candidate | 0 | none |
+| siks | AOL/AIM client installer | 1 | candidate | 0 | none |
 | silentbutterfly | unknown | 1 | candidate | 0 | none |
 | silenterrorz | punter/booter | 1 | candidate | 0 | none |
 | silverdeath | punter/booter | 1 | candidate | 0 | none |
 | simpleidle | idler/bot | 1 | candidate | 0 | none |
 | simplelayout | idler/bot | 1 | candidate | 0 | none |
 | sirvb | chat/macro | 1 | candidate | 0 | none |
-| sky-c | unknown | 1 | candidate | 0 | none |
+| sky-c | runtime/support file | 1 | candidate | 0 | none |
+| skypelogview | unknown | 1 | candidate | 0 | none |
+| skypesetup | unknown | 1 | candidate | 0 | none |
 | slamfinal | unknown | 1 | candidate | 0 | none |
 | sleekgray | idler/bot | 1 | candidate | 0 | none |
 | sleep | unknown | 1 | candidate | 0 | none |
 | sleepysetup | unknown | 1 | candidate | 0 | none |
+| slickrun | unknown | 1 | candidate | 0 | none |
 | smacksource | mass mailer/server | 1 | candidate | 0 | none |
 | smack-public | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | small | AIM | 1 | candidate | 0 | none |
@@ -1127,8 +1254,8 @@ These are filenames or program leads discovered from external old-web sources an
 | snstudio | AIM | 1 | candidate | 0 | none |
 | socers | AIM | 1 | candidate | 0 | none |
 | solarmp | unknown | 1 | candidate | 0 | none |
+| solarwinds | unknown | 1 | http-404 | 0 | none |
 | solarwindsbeta | unknown | 1 | candidate | 0 | none |
-| sonicgold | chat/macro | 1 | candidate | 0 | none |
 | sorcerress | punter/booter | 1 | candidate | 0 | none |
 | soulbeta | unknown | 1 | candidate | 0 | none |
 | sourcemacro | chat/macro | 1 | candidate | 0 | none |
@@ -1139,31 +1266,34 @@ These are filenames or program leads discovered from external old-web sources an
 | spaz | unknown | 1 | candidate | 0 | none |
 | speedycrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | spider | unknown | 1 | candidate | 0 | none |
-| ss-d-vbx | unknown | 1 | candidate | 0 | none |
-| ss-d | unknown | 1 | candidate | 0 | none |
-| ss-dvbx | unknown | 1 | candidate | 0 | none |
-| ssa-d | unknown | 1 | candidate | 0 | none |
-| ssspls | unknown | 1 | candidate | 0 | none |
+| ss-d | runtime/support file | 1 | candidate | 0 | none |
+| ss-dvbx | runtime/support file | 1 | candidate | 0 | none |
+| ssa-d | runtime/support file | 1 | candidate | 0 | none |
+| ssspls | runtime/support file | 1 | candidate | 0 | none |
 | standard | punter/booter | 1 | candidate | 0 | none |
 | stealer | unknown | 1 | candidate | 0 | none |
 | stealthafk | idler/bot | 1 | candidate | 0 | none |
 | stereotype | chat/macro | 1 | candidate | 0 | none |
-| stkit | unknown | 1 | candidate | 0 | none |
+| stkit | runtime/support file | 1 | candidate | 0 | none |
 | stonecolds | unknown | 1 | candidate | 0 | none |
 | stupidcunt | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | subprorape | AIM | 1 | candidate | 0 | none |
 | suicidle | idler/bot | 1 | candidate | 0 | none |
 | superfree | unknown | 1 | candidate | 0 | none |
-| supersub | unknown | 1 | candidate | 0 | none |
-| swflash | unknown | 1 | candidate | 0 | none |
+| supersub | runtime/support file | 1 | candidate | 0 | none |
+| svg-viewer-extension-i-signed | unknown | 1 | candidate | 0 | none |
+| svg-viewer-extension-x-signed | unknown | 1 | candidate | 0 | none |
+| swflash | runtime/support file | 1 | candidate | 0 | none |
 | swift-k | unknown | 1 | candidate | 0 | none |
 | swish | unknown | 1 | candidate | 0 | none |
-| systray | unknown | 1 | candidate | 0 | none |
-| tabctl | unknown | 1 | candidate | 0 | none |
+| systray | runtime/support file | 1 | candidate | 0 | none |
+| tabctl | runtime/support file | 1 | candidate | 0 | none |
 | table | unknown | 1 | candidate | 0 | none |
 | talconxer | unknown | 1 | candidate | 0 | none |
 | tameclone | AIM | 1 | candidate | 0 | none |
 | tankbank | unknown | 1 | candidate | 0 | none |
+| taskswitchxp | unknown | 1 | candidate | 0 | none |
+| teamviewer-en | unknown | 1 | candidate | 0 | none |
 | tekronbeta | chat/macro | 1 | candidate | 0 | none |
 | tentacles | idler/bot | 1 | candidate | 0 | none |
 | terranova | unknown | 1 | candidate | 0 | none |
@@ -1178,8 +1308,8 @@ These are filenames or program leads discovered from external old-web sources an
 | timeout | unknown | 1 | candidate | 0 | none |
 | timmya | idler/bot | 1 | candidate | 0 | none |
 | tncidle | idler/bot | 1 | candidate | 0 | none |
-| toc-sock | unknown | 1 | candidate | 0 | none |
-| tocsock | unknown | 1 | candidate | 0 | none |
+| toc-sock | runtime/support file | 1 | candidate | 0 | none |
+| tocsock | runtime/support file | 1 | candidate | 0 | none |
 | topsitespro | unknown | 1 | candidate | 0 | none |
 | totaldestruct | punter/booter | 1 | candidate | 0 | none |
 | touchofdeath | punter/booter | 1 | candidate | 0 | none |
@@ -1189,8 +1319,9 @@ These are filenames or program leads discovered from external old-web sources an
 | tpdtank | unknown | 1 | candidate | 0 | none |
 | tronix | mass mailer/server | 1 | http-404 | 0 | none |
 | truedesigns | idler/bot | 1 | candidate | 0 | none |
-| tsad | unknown | 1 | candidate | 0 | none |
+| tsad | runtime/support file | 1 | candidate | 0 | none |
 | ugly-green | idler/bot | 1 | candidate | 0 | none |
+| uiso-pe | unknown | 1 | candidate | 0 | none |
 | ultraflood | punter/booter | 1 | candidate | 0 | none |
 | ultralinker | unknown | 1 | candidate | 0 | none |
 | ultrapunt | punter/booter | 1 | candidate | 0 | none |
@@ -1199,30 +1330,30 @@ These are filenames or program leads discovered from external old-web sources an
 | untamed | punter/booter | 1 | candidate | 0 | none |
 | untamedfade | fader | 1 | candidate | 0 | none |
 | untamedflood | punter/booter | 1 | candidate | 0 | none |
-| us | unknown | 1 | candidate | 0 | none |
+| us | AOL/AIM client installer | 1 | candidate | 0 | none |
 | user | unknown | 1 | candidate | 0 | none |
 | vb-codes | unknown | 1 | candidate | 0 | none |
 | vb-codez | unknown | 1 | candidate | 0 | none |
 | vb-d | unknown | 1 | candidate | 0 | none |
-| vb-dll | unknown | 1 | candidate | 0 | none |
 | vb-ccecompiler | unknown | 1 | candidate | 0 | none |
-| vb-chat | chat/macro | 1 | candidate | 0 | none |
+| vb-chat | runtime/support file | 1 | candidate | 0 | none |
 | vb-shield | unknown | 1 | candidate | 0 | none |
-| vb-sp-a | unknown | 1 | candidate | 0 | none |
+| vb-sp-a | runtime/support file | 1 | candidate | 0 | none |
 | vbbible | unknown | 1 | candidate | 0 | none |
 | vbcompact | unknown | 1 | candidate | 0 | none |
 | vbdecomp | unknown | 1 | candidate | 0 | none |
 | vbforms | unknown | 1 | candidate | 0 | none |
 | vbimex | unknown | 1 | candidate | 0 | none |
-| vbrun-dll | unknown | 1 | candidate | 0 | none |
-| vbrun-exe | unknown | 1 | candidate | 0 | none |
+| vbrun-exe | runtime/support file | 1 | candidate | 0 | none |
 | vbsafecode | unknown | 1 | candidate | 0 | none |
-| vbwfind | unknown | 1 | candidate | 0 | none |
+| vbwfind | runtime/support file | 1 | candidate | 0 | none |
 | vc | AIM | 1 | candidate | 0 | none |
 | vdaddin | unknown | 1 | candidate | 0 | none |
 | visasciisource | chat/macro | 1 | candidate | 0 | none |
 | visdata | unknown | 1 | candidate | 0 | none |
 | vkbaspack | unknown | 1 | candidate | 0 | none |
+| vnc-e-x-x-win | unknown | 1 | candidate | 0 | none |
+| volumouse-setup | unknown | 1 | candidate | 0 | none |
 | voter | unknown | 1 | candidate | 0 | none |
 | vtechidle | idler/bot | 1 | candidate | 0 | none |
 | waidler | idler/bot | 1 | candidate | 0 | none |
@@ -1235,44 +1366,59 @@ These are filenames or program leads discovered from external old-web sources an
 | watermenu | unknown | 1 | candidate | 0 | none |
 | wavcode | unknown | 1 | candidate | 0 | none |
 | wblind | unknown | 1 | candidate | 0 | none |
+| webbrowser | unknown | 1 | http-404 | 0 | none |
 | webby | idler/bot | 1 | candidate | 0 | none |
 | webskillz | unknown | 1 | candidate | 0 | none |
 | websters | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | weedboot | punter/booter | 1 | candidate | 0 | none |
 | welcome | unknown | 1 | candidate | 0 | none |
+| whatsappsetup | unknown | 1 | candidate | 0 | none |
+| wheelmovewnd-x | unknown | 1 | candidate | 0 | none |
 | whiteout | unknown | 1 | candidate | 0 | none |
 | wickeddestruction | unknown | 1 | candidate | 0 | none |
 | wildtank | hazardous/account or remote-control context | 1 | candidate | 0 | none |
 | winad | chat/macro | 1 | candidate | 0 | none |
-| win | AIM | 1 | candidate | 0 | none |
-| win-ty | AIM | 1 | candidate | 0 | none |
+| win | AOL/AIM client installer | 1 | candidate | 0 | none |
+| win-ty | AOL/AIM client installer | 1 | candidate | 0 | none |
+| windjview-setup | unknown | 1 | candidate | 0 | none |
 | windowz | unknown | 1 | candidate | 0 | none |
+| wininstallle | unknown | 1 | candidate | 0 | none |
 | winontop | unknown | 1 | candidate | 0 | none |
+| winpins | unknown | 1 | candidate | 0 | none |
 | winpunt | punter/booter | 1 | candidate | 0 | none |
+| winrar-x | unknown | 1 | candidate | 0 | none |
+| winter | unknown | 1 | http-404 | 0 | none |
 | winzipgenbot | idler/bot | 1 | candidate | 0 | none |
 | winzipkey | unknown | 1 | candidate | 0 | none |
 | winzipkeygen | unknown | 1 | candidate | 0 | none |
 | wog | punter/booter | 1 | candidate | 0 | none |
 | woody | unknown | 1 | candidate | 0 | none |
 | woot | hazardous/account or remote-control context | 1 | candidate | 0 | none |
+| wrar-b | unknown | 1 | candidate | 0 | none |
 | wrath | unknown | 1 | candidate | 0 | none |
 | wwbmp | unknown | 1 | candidate | 0 | none |
 | wwwlink | unknown | 1 | candidate | 0 | none |
+| x-lite-win-l | unknown | 1 | candidate | 0 | none |
 | xbustsource | unknown | 1 | candidate | 0 | none |
 | xcoms | chat/macro | 1 | candidate | 0 | none |
 | xem | AIM | 1 | candidate | 0 | none |
 | xfactorf | punter/booter | 1 | candidate | 0 | none |
 | xlhorizon | unknown | 1 | candidate | 0 | none |
-| xpbuttons | unknown | 1 | candidate | 0 | none |
+| xobnisetup | unknown | 1 | candidate | 0 | none |
+| xpbuttons | runtime/support file | 1 | candidate | 0 | none |
+| xpme | unknown | 1 | candidate | 0 | none |
 | xproombust | room buster | 1 | candidate | 0 | none |
-| yahbru | unknown | 1 | candidate | 0 | none |
+| xreplace | unknown | 1 | candidate | 0 | none |
+| xreplace-registered | unknown | 1 | candidate | 0 | none |
+| yahbru | runtime/support file | 1 | candidate | 0 | none |
 | yahoops-final | unknown | 1 | candidate | 0 | none |
-| yahoosux | unknown | 1 | candidate | 0 | none |
-| yahpro | unknown | 1 | candidate | 0 | none |
+| yahoosux | runtime/support file | 1 | candidate | 0 | none |
+| yahpro | runtime/support file | 1 | candidate | 0 | none |
 | ycrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| ymsg | unknown | 1 | candidate | 0 | none |
+| ymsg | runtime/support file | 1 | candidate | 0 | none |
 | youvegotmail | punter/booter | 1 | candidate | 0 | none |
 | ypunter | punter/booter | 1 | candidate | 0 | none |
+| zeplin-installer-x | unknown | 1 | candidate | 0 | none |
 | zerocrush | chat/macro | 1 | http-404 | 0 | none |
 | zig | unknown | 1 | candidate | 0 | none |
 | zonk | chat/macro | 1 | candidate | 0 | none |

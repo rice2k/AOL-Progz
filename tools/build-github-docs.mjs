@@ -329,6 +329,19 @@ function fileSizeLabel(program) {
   return clean(enrichmentFor(program).fileSize) || clean(program.download?.sizeLabel) || "unknown";
 }
 
+function formatBytes(bytes) {
+  const value = Number(bytes || 0);
+  if (!Number.isFinite(value) || value <= 0) return "";
+  const units = ["B", "KB", "MB", "GB"];
+  let size = value;
+  let unit = 0;
+  while (size >= 1024 && unit < units.length - 1) {
+    size /= 1024;
+    unit += 1;
+  }
+  return `${size.toFixed(unit === 0 ? 0 : 1)} ${units[unit]}`;
+}
+
 function archiveFileName(program) {
   return clean(enrichmentFor(program).archiveFilename) || path.posix.basename(clean(program.file) || clean(program.download?.path) || "");
 }
@@ -461,6 +474,36 @@ function statRows(stats) {
   ]);
 }
 
+function inferredClientVersion(item) {
+  const value = `${item.discoveredText || ""} ${item.name || ""} ${item.originalUrl || ""}`.toLowerCase();
+  const explicit = value.match(/\b(aim|aol)\s+(?:version\s*)?(\d+(?:[._]\d+)*)\b/i);
+  if (explicit) return `${explicit[1].toUpperCase()} ${explicit[2].replaceAll("_", ".")}`;
+  const aimDotted = value.match(/\baim(\d+\.\d+(?:\.\d+)*)/i);
+  if (aimDotted) return `AIM ${aimDotted[1]}`;
+  const aimCompact = value.match(/\baim(?:[_-]?install)?[_-]?(\d)(\d)?(?:[._-](\d+))?/i);
+  if (aimCompact) return `AIM ${[aimCompact[1], aimCompact[2] || "0", aimCompact[3]].filter(Boolean).join(".")}`;
+  const aolGerman = value.match(/\baol\s*germany\s*(\d+(?:\.\d+)?)/i);
+  if (aolGerman) return `AOL Germany ${aolGerman[1]}`;
+  const aolCompact = value.match(/\baol(?:p|setup)?[_-]?(\d)(\d)?(?:[._-](\d+))?/i);
+  if (aolCompact) return `AOL ${[aolCompact[1], aolCompact[2], aolCompact[3]].filter(Boolean).join(".")}`;
+  const setupAol = value.match(/\bsetupaol[_-]?(\d)(\d)?/i);
+  if (setupAol) return `AOL ${[setupAol[1], setupAol[2]].filter(Boolean).join(".")}`;
+  return "";
+}
+
+function isClientOrRuntimeDownload(item) {
+  const value = `${item.sourceList || ""} ${item.discoveredText || ""} ${item.name || ""} ${item.originalUrl || ""}`.toLowerCase();
+  const source = String(item.sourceList || "").toLowerCase();
+  const file = String(item.name || item.originalUrl || "").toLowerCase();
+  if (/aol client and aim version directory|user-supplied dnx acp|user-supplied coltpro|user-supplied aol utility|aim versions|missing files/.test(source)) {
+    return true;
+  }
+  if (/\.(dll|ocx|vbx)(?:$|[?#])/.test(file)) return true;
+  return /\b(aim[_\s-]?(?:install|\d)|aim%20\d|aolp\d|setupaol|aol\dsetup|aolsetup|deadaim|aolcommunicator|msvbvm|comdlg|riched|chatocx|chatscan|msinet|mswinsck|vb5chat|vb40032)\b/.test(
+    value,
+  );
+}
+
 const catalog = readCatalog();
 const programs = catalog.programs || [];
 const urlIndex = readJson("data/url-index.json", { perProgram: {} });
@@ -521,6 +564,40 @@ const userSuppliedLinks = [
   ["Methodus2000 NetBus page", "historical remote-control patch page", "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm"],
   ["Methodus Toolz wildcard", "Wayback wildcard", "https://web.archive.org/web/*/http://www.methodus2000.com/methodustoolz/*"],
   ["Methodus2000 base wildcard", "Wayback wildcard", "https://web.archive.org/web/*/http://methodus2000.com/"],
+  ["Digital5k AOL progz article", "scene history article", "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html"],
+  ["AOL client and AIM version directory", "AOL/AIM client download directory", "https://am.net/lib/TOOLS/AOL/"],
+  ["Click-Online AOL 4/5 progz", "AOL 4/5 prog list", "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm"],
+  ["Click-Online root", "old prog/resource site", "https://web.archive.org/web/20021120062315/http://click-online2000.com/"],
+  ["ColtPro root", "old prog/resource site", "https://web.archive.org/web/20010923065731/http://www.coltpro.net/"],
+  ["LensHell GitHub README", "GitHub source README", "https://raw.githubusercontent.com/lekhanh1234/lenshell/refs/heads/main/README.md"],
+  ["Prig3k capture index", "Wayback capture index", "https://web.archive.org/web/20260000000000*/http://www.prig3k.com/"],
+  ["Prig3k downloads category", "download category", "https://web.archive.org/web/20011109212659/http://www.prig3k.com/cgi-bin/free/dclinks.cgi?action=view_category&category=Downloads"],
+  ["Dope2k index", "old prog/resource site", "https://web.archive.org/web/20020601131248/http://www.8op.com/dope2k/index2.html"],
+  ["Hadez progs", "prog list", "https://web.archive.org/web/20020611082332/http://dnx-online.net:80/~hadez/progs.html"],
+  ["DazuhProductionZ capture index", "Wayback capture index", "https://web.archive.org/web/*/http://www.angelfire.com/fl4/DazuhProductionZ/*"],
+  ["AOElite capture index", "Wayback capture index", "https://web.archive.org/web/*/http://www.aoelite.com/*"],
+  ["DeadAIM about", "AIM enhancement page", "https://web.archive.org/web/20031206092015/http://www.jdennis.net/DeadAIM/about.php"],
+  ["AIMFilez files", "AIM files", "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1"],
+  ["Format SN", "AOL utility download lead", "https://web.archive.org/web/20020601203124/http://www.8op.com/ironbloodownz/dopeeffects/FormatSN.zip"],
+  ["DNX ACP AIM 4.4", "AIM client download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/AIM44.zip"],
+  ["DNX ACP AOL Germany 3.0", "AOL client download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/AOL30german.exe"],
+  ["DNX ACP Master AOL 5.0", "AOL utility download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/masteraol5.zip"],
+  ["DNX ACP AIM Creation", "AIM utility download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimcreat.zip"],
+  ["DNX ACP AIM Pluss", "AIM utility download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimpluss.zip"],
+  ["DNX ACP Aimster", "AIM utility download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aimster.zip"],
+  ["DNX ACP AC AIM Password Cracker", "hazardous/account-context download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/acaimpasswordcracker.zip"],
+  ["DNX ACP AOL File Downloader 5.0", "AOL utility download lead", "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/aolfiledownloader50.zip"],
+  ["ColtPro missing ChatOCX2.ocx", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/ChatOCX2.ocx"],
+  ["ColtPro missing chatscan3.ocx", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/chatscan%C2%B3.ocx"],
+  ["ColtPro missing COMDLG32.DLL", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/COMDLG32.DLL"],
+  ["ColtPro missing COMDLG32.OCX", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/COMDLG32.OCX"],
+  ["ColtPro missing msinet.ocx", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/msinet.ocx"],
+  ["ColtPro missing MSVBVM60.DLL", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/MSVBVM60.DLL"],
+  ["ColtPro missing mswinsck.ocx", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/mswinsck.ocx"],
+  ["ColtPro missing playcd2.ocx", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/playcd2.ocx"],
+  ["ColtPro missing RICHED32.DLL", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/RICHED32.DLL"],
+  ["ColtPro missing VB5CHAT2.ocx", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB5CHAT2.ocx"],
+  ["ColtPro missing VB40032.DLL", "DLL/OCX support file", "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL"],
 ];
 
 function linkKey(url) {
@@ -1288,6 +1365,8 @@ writeDoc(
     "- [Links you supplied](user-supplied-links.md)",
     "- [Crawled source pages](source-pages.md)",
     "- [Download links](download-links.md)",
+    "- [External download recovery status](external-downloads.md)",
+    "- [AOL/AIM client and runtime downloads](aol-aim-client-downloads.md)",
     "- [Resource and directory links](resource-links.md)",
     "- [LoLToolz AIM progs source report](loltoolz-aim-progs.md)",
     "- [Embedded archive URLs](embedded-archive-urls.md)",
@@ -1418,6 +1497,53 @@ writeDoc(
         item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
       ]),
     ),
+  ].join("\n"),
+);
+
+const externalDownloadRows = (externalDownloads.downloads || []).map((item) => [
+  item.name || fileStem(item.originalUrl || item.waybackUrl),
+  item.discoveredText || "",
+  item.sourceList || "",
+  item.status || "unknown",
+  formatBytes(item.size),
+  item.localPath ? localLink(`${generatedRoot}/sources/external-downloads.md`, item.localPath, item.localPath) : "not recovered",
+  item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+  item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
+]);
+
+writeDoc(
+  `${generatedRoot}/sources/external-downloads.md`,
+  [
+    "# External Download Recovery Status",
+    "",
+    `This table records every external download that has been attempted by the recovery pass. Ready files are mirrored locally under \`files/external/\`. Current recovered files: **${externalDownloads.readyCount || 0}** of **${externalDownloads.downloadCount || externalDownloadRows.length}** attempted downloads.`,
+    "",
+    table(["File", "Label/context", "Source", "Status", "Size", "Local file", "Original URL", "Wayback/download URL"], externalDownloadRows),
+  ].join("\n"),
+);
+
+const clientDownloadRows = (externalDownloads.downloads || [])
+  .filter(isClientOrRuntimeDownload)
+  .map((item) => [
+    item.name || fileStem(item.originalUrl || item.waybackUrl),
+    inferredClientVersion(item),
+    item.discoveredText || "",
+    item.sourceList || "",
+    item.status || "unknown",
+    formatBytes(item.size),
+    item.localPath ? localLink(`${generatedRoot}/sources/aol-aim-client-downloads.md`, item.localPath, item.localPath) : "not recovered",
+    item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+    item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
+  ]);
+
+writeDoc(
+  `${generatedRoot}/sources/aol-aim-client-downloads.md`,
+  [
+    "# AOL/AIM Client And Runtime Downloads",
+    "",
+    "Versioned AOL/AIM installers, AIM utilities, AOL utilities, and DLL/OCX runtime support files recovered or attempted from user-supplied source pages. These are tracked separately from the prog catalog so client installers and runtimes do not get mistaken for authored progs.",
+    "",
+    table(["File", "Inferred version", "Label/context", "Source", "Status", "Size", "Local file", "Original URL", "Wayback/download URL"], clientDownloadRows),
   ].join("\n"),
 );
 

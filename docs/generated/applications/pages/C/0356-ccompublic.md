@@ -95,7 +95,7 @@ No additional old-page download links are matched to this entry yet.
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: c-coms | ccomsbeta2.zip | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) | [files/external/lenshellarchive-com/ccomsbeta2.zip](../../../../../files/external/lenshellarchive-com/ccomsbeta2.zip) | ready |
-| c-coms | ccomsbeta2.zip | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | unknown | candidate |
+| c-coms | ccomsbeta2.zip | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | unknown | ready |
 
 ### Web Image Leads
 

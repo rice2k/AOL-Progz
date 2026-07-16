@@ -64,6 +64,62 @@ const pages = [
     notes: "Live endpoint supplied by the user; the root site is kept separately as a source.",
   },
   {
+    name: "Aciddr0p live site",
+    url: "http://www.aciddr0p.net/",
+    kind: "live prog/resource site",
+    notes: "User-supplied Aciddr0p source, crawled for old-school AOL prog links, app details, screenshots, and download leads.",
+  },
+  {
+    name: "Koin live site",
+    url: "https://koin.org/",
+    kind: "live resource site",
+    notes: "User-supplied Koin source, crawled for AOL/AIM-era references, downloads, screenshots, and outbound leads.",
+  },
+  {
+    name: "Rexflex live root",
+    url: "https://progs.rexflex.net/",
+    kind: "live prog archive",
+    notes: "Rexflex root supplied by the user; crawled for app listings, download links, and mirrored old-school prog metadata.",
+  },
+  {
+    name: "Digital5k AOL progz article",
+    url: "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html",
+    kind: "scene history article",
+    notes:
+      "Digital5k article with AOL prog history, named programs/authors, screenshots, and AOL version context for Digital Dynasty and related progs.",
+  },
+  {
+    name: "AOL client and AIM version directory",
+    url: "https://am.net/lib/TOOLS/AOL/",
+    kind: "AOL/AIM client download directory",
+    notes:
+      "Live directory with AIM 4.x/5.x installers, AOL 1.x/2.x/6/7/8/9 setup files, file sizes, and dates. Used for AOL/AIM version download leads.",
+  },
+  {
+    name: "darcfx submissions repository",
+    url: "https://github.com/darcfx/darcfx-submissions",
+    kind: "GitHub source repository",
+    notes: "User-supplied repository retained as a reference/source lead for old AOL/AIM submissions.",
+  },
+  {
+    name: "Legacy AOL Underground repository",
+    url: "https://github.com/DamianSuess/Legacy-AOL-Underground",
+    kind: "GitHub mirror/fork",
+    notes: "User-supplied Legacy AOL Underground repository, retained as a source and mirror lead.",
+  },
+  {
+    name: "mikrodotnet AOL progz repository",
+    url: "https://github.com/mikrodotnet/aol-progz",
+    kind: "GitHub source repository",
+    notes: "User-supplied AOL progz repository, crawled for file and provenance leads.",
+  },
+  {
+    name: "LensHell GitHub README",
+    url: "https://raw.githubusercontent.com/lekhanh1234/lenshell/refs/heads/main/README.md",
+    kind: "GitHub source README",
+    notes: "User-supplied LensHell README source, retained as context and a potential source lead.",
+  },
+  {
     name: "LensHellArchive index",
     url: "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/Index.html",
     kind: "prog archive hub",
@@ -207,6 +263,72 @@ const pages = [
     url: "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm",
     kind: "downloads",
     notes: "Methodus Toolz download page.",
+  },
+  {
+    name: "Click-Online AOL 4/5 progz",
+    url: "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+    kind: "AOL 4/5 prog list",
+    notes: "Click-Online AOL 4.0/5.0 prog listing supplied by the user, crawled for program details and download leads.",
+  },
+  {
+    name: "Click-Online root",
+    url: "https://web.archive.org/web/20021120062315/http://click-online2000.com/",
+    kind: "old prog/resource site",
+    notes: "Click-Online root capture supplied by the user.",
+  },
+  {
+    name: "ColtPro root",
+    url: "https://web.archive.org/web/20010923065731/http://www.coltpro.net/",
+    kind: "old prog/resource site",
+    notes: "ColtPro source supplied by the user, including missing DLL/OCX support file leads.",
+  },
+  {
+    name: "Prig3k capture index",
+    url: "https://web.archive.org/web/20260000000000*/http://www.prig3k.com/",
+    kind: "Wayback capture index",
+    notes: "Wayback capture index for Prig3k.",
+  },
+  {
+    name: "Prig3k downloads category",
+    url: "https://web.archive.org/web/20011109212659/http://www.prig3k.com/cgi-bin/free/dclinks.cgi?action=view_category&category=Downloads",
+    kind: "download category",
+    notes: "Prig3k download category supplied by the user.",
+  },
+  {
+    name: "Dope2k index",
+    url: "https://web.archive.org/web/20020601131248/http://www.8op.com/dope2k/index2.html",
+    kind: "old prog/resource site",
+    notes: "Dope2k 8op source supplied by the user.",
+  },
+  {
+    name: "Hadez progs",
+    url: "https://web.archive.org/web/20020611082332/http://dnx-online.net:80/~hadez/progs.html",
+    kind: "prog list",
+    notes: "DNX/Hadez progs page supplied by the user.",
+  },
+  {
+    name: "DazuhProductionZ capture index",
+    url: "https://web.archive.org/web/*/http://www.angelfire.com/fl4/DazuhProductionZ/*",
+    kind: "Wayback capture index",
+    notes: "Wayback capture index for DazuhProductionZ.",
+  },
+  {
+    name: "AOElite capture index",
+    url: "https://web.archive.org/web/*/http://www.aoelite.com/*",
+    kind: "Wayback capture index",
+    notes: "Wayback capture index for AOElite.",
+  },
+  {
+    name: "DeadAIM about",
+    url: "https://web.archive.org/web/20031206092015/http://www.jdennis.net/DeadAIM/about.php",
+    kind: "AIM enhancement page",
+    notes: "DeadAIM page supplied by the user; crawled for DeadAIM versions, features, screenshots, and download leads.",
+  },
+  {
+    name: "AIMFilez files",
+    url: "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+    kind: "AIM files",
+    notes: "AIMFilez page supplied by the user, crawled for AIM tools, progs, screenshots, and download leads.",
   },
 ];
 

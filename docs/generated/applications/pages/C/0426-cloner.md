@@ -39,20 +39,20 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 738 KB |
-| Matched web download links | 0 |
-| Matched mirror leads | 1 |
+| Matched web download links | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0426-cloner.zip](../../../../../files/aol/aol-4-0/0426-cloner.zip)
-- Old-web / Wayback download leads: not matched yet
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip)
@@ -88,12 +88,17 @@ No specific old-page program mention is matched to this entry yet.
 
 ### Matched Web Download Links
 
-No additional old-page download links are matched to this entry yet.
+These are old-page or recovered download URLs matched by filename/title. They are preserved as provenance and recovery leads.
+
+| Source | Label | URL | Original URL |
+| --- | --- | --- | --- |
+| 2 | aimcloner.exe | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe) | [http://aimfilez.com/files/aimcloner.exe](http://aimfilez.com/files/aimcloner.exe) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: 2 | aimcloner.exe | [http://aimfilez.com/files/aimcloner.exe](http://aimfilez.com/files/aimcloner.exe) | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe) | [files/external/aimfilez-com/aimcloner-a85bcf2a.exe](../../../../../files/external/aimfilez-com/aimcloner-a85bcf2a.exe) | ready |
 | idler's | cloneridle.zip | [http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip](http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip) | unknown | candidate |
 
 ### Web Image Leads

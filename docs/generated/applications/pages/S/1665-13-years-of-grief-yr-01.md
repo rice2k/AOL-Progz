@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 12 |
 
 ## Tags
 
@@ -95,7 +95,20 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AIMFilez files | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/evilintentions.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/evilintentions.gif) | [http://aimfilez.com/screenshots/evilintentions.gif](http://aimfilez.com/screenshots/evilintentions.gif) |
+| AIMFilez files | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/reshackerscreenshot.jpg](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/reshackerscreenshot.jpg) | [http://aimfilez.com/screenshots/reshackerscreenshot.jpg](http://aimfilez.com/screenshots/reshackerscreenshot.jpg) |
+| AIMFilez files | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimchange.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimchange.gif) | [http://aimfilez.com/screenshots/aimchange.gif](http://aimfilez.com/screenshots/aimchange.gif) |
+| Mac Files | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/exploitools.jpg](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/exploitools.jpg) | [http://aimfilez.com/screenshots/exploitools.jpg](http://aimfilez.com/screenshots/exploitools.jpg) |
+| Mac Files | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/rainbowfader40.jpg](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/rainbowfader40.jpg) | [http://aimfilez.com/screenshots/rainbowfader40.jpg](http://aimfilez.com/screenshots/rainbowfader40.jpg) |
+| 2 | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/fbimage.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/fbimage.gif) | [http://aimfilez.com/screenshots/fbimage.gif](http://aimfilez.com/screenshots/fbimage.gif) |
+| 2 | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/hyperinfo.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/hyperinfo.gif) | [http://aimfilez.com/screenshots/hyperinfo.gif](http://aimfilez.com/screenshots/hyperinfo.gif) |
+| 2 | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimfader.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimfader.gif) | [http://aimfilez.com/screenshots/aimfader.gif](http://aimfilez.com/screenshots/aimfader.gif) |
+| 2 | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimcloner.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimcloner.gif) | [http://aimfilez.com/screenshots/aimcloner.gif](http://aimfilez.com/screenshots/aimcloner.gif) |
+| 3 | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/snformatter2.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/snformatter2.gif) | [http://aimfilez.com/screenshots/snformatter2.gif](http://aimfilez.com/screenshots/snformatter2.gif) |
+| 3 | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/myim.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/myim.gif) | [http://aimfilez.com/screenshots/myim.gif](http://aimfilez.com/screenshots/myim.gif) |
+| 3 | Screen Shot | [https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimtalk.gif](https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimtalk.gif) | [http://aimfilez.com/screenshots/aimtalk.gif](http://aimfilez.com/screenshots/aimtalk.gif) |
 
 ## Related Indexes
 

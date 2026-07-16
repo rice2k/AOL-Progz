@@ -1,6 +1,6 @@
 # Screenshots And Recovered Web Images
 
-The main catalog currently has 6 application entries with mirrored source screenshots. The web-resource crawl has 60 ready image assets from old pages.
+The main catalog currently has 6 application entries with mirrored source screenshots. The web-resource crawl has 87 ready image assets from old pages.
 
 ## Application Screenshot Coverage
 
@@ -494,6 +494,166 @@ The main catalog currently has 6 application entries with mirrored source screen
 - Local: [assets/web-resources/wipeout-hypermart-net/1979.jpg](../../../assets/web-resources/wipeout-hypermart-net/1979.jpg)
 - Source page: FONTS
 - URL: [https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/1979.jpg](https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/1979.jpg)
+
+### 01-normal-vs-patched-token-flow.png
+
+![01-normal-vs-patched-token-flow.png](../../../assets/web-resources/github-com/01-normal-vs-patched-token-flow.png)
+
+- Local: [assets/web-resources/github-com/01-normal-vs-patched-token-flow.png](../../../assets/web-resources/github-com/01-normal-vs-patched-token-flow.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png)
+
+### 02-v4-stealth-signon.png
+
+![02-v4-stealth-signon.png](../../../assets/web-resources/github-com/02-v4-stealth-signon.png)
+
+- Local: [assets/web-resources/github-com/02-v4-stealth-signon.png](../../../assets/web-resources/github-com/02-v4-stealth-signon.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png)
+
+### 03-token-dispatch-table.png
+
+![03-token-dispatch-table.png](../../../assets/web-resources/github-com/03-token-dispatch-table.png)
+
+- Local: [assets/web-resources/github-com/03-token-dispatch-table.png](../../../assets/web-resources/github-com/03-token-dispatch-table.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png)
+
+### 04-patch-architecture.png
+
+![04-patch-architecture.png](../../../assets/web-resources/github-com/04-patch-architecture.png)
+
+- Local: [assets/web-resources/github-com/04-patch-architecture.png](../../../assets/web-resources/github-com/04-patch-architecture.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png)
+
+### 05-three-injection-mechanisms.png
+
+![05-three-injection-mechanisms.png](../../../assets/web-resources/github-com/05-three-injection-mechanisms.png)
+
+- Local: [assets/web-resources/github-com/05-three-injection-mechanisms.png](../../../assets/web-resources/github-com/05-three-injection-mechanisms.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png)
+
+### 06-aol-protocol-exploit.png
+
+![06-aol-protocol-exploit.png](../../../assets/web-resources/github-com/06-aol-protocol-exploit.png)
+
+- Local: [assets/web-resources/github-com/06-aol-protocol-exploit.png](../../../assets/web-resources/github-com/06-aol-protocol-exploit.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png)
+
+### 07-version-history-detection.png
+
+![07-version-history-detection.png](../../../assets/web-resources/github-com/07-version-history-detection.png)
+
+- Local: [assets/web-resources/github-com/07-version-history-detection.png](../../../assets/web-resources/github-com/07-version-history-detection.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png)
+
+### 08-memory-map.png
+
+![08-memory-map.png](../../../assets/web-resources/github-com/08-memory-map.png)
+
+- Local: [assets/web-resources/github-com/08-memory-map.png](../../../assets/web-resources/github-com/08-memory-map.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png)
+
+### 09-fdo88-dispatch-encoding.png
+
+![09-fdo88-dispatch-encoding.png](../../../assets/web-resources/github-com/09-fdo88-dispatch-encoding.png)
+
+- Local: [assets/web-resources/github-com/09-fdo88-dispatch-encoding.png](../../../assets/web-resources/github-com/09-fdo88-dispatch-encoding.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png)
+
+### 8AB%20is%20an%20unconditional%20jump%20to%20the%20patch%20at%20the%20end%20of%20the%20resource.png
+
+![8AB%20is%20an%20unconditional%20jump%20to%20the%20patch%20at%20the%20end%20of%20the%20resource.png](../../../assets/web-resources/github-com/8ab20is20an20unconditional20jump20to20the20patch20at20the20end20of20the20resource.png)
+
+- Local: [assets/web-resources/github-com/8ab20is20an20unconditional20jump20to20the20patch20at20the20end20of20the20resource.png](../../../assets/web-resources/github-com/8ab20is20an20unconditional20jump20to20the20patch20at20the20end20of20the20resource.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/screenshots/8AB%20is%20an%20unconditional%20jump%20to%20the%20patch%20at%20the%20end%20of%20the%20resource.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/screenshots/8AB%20is%20an%20unconditional%20jump%20to%20the%20patch%20at%20the%20end%20of%20the%20resource.png)
+
+### aolv2.6_patched_with_aol4free.png
+
+![aolv2.6_patched_with_aol4free.png](../../../assets/web-resources/github-com/aolv2-6-patched-with-aol4free.png)
+
+- Local: [assets/web-resources/github-com/aolv2-6-patched-with-aol4free.png](../../../assets/web-resources/github-com/aolv2-6-patched-with-aol4free.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/screenshots/aolv2.6_patched_with_aol4free.png](https://github.com/mikrodotnet/aol-progz/raw/main/programs/Mac/hells/aol4free/screenshots/aolv2.6_patched_with_aol4free.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png](../../../assets/web-resources/github-com/01-normal-vs-patched-token-flow.png)
+
+- Local: [assets/web-resources/github-com/01-normal-vs-patched-token-flow.png](../../../assets/web-resources/github-com/01-normal-vs-patched-token-flow.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png](../../../assets/web-resources/github-com/02-v4-stealth-signon.png)
+
+- Local: [assets/web-resources/github-com/02-v4-stealth-signon.png](../../../assets/web-resources/github-com/02-v4-stealth-signon.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png](../../../assets/web-resources/github-com/03-token-dispatch-table.png)
+
+- Local: [assets/web-resources/github-com/03-token-dispatch-table.png](../../../assets/web-resources/github-com/03-token-dispatch-table.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png](../../../assets/web-resources/github-com/04-patch-architecture.png)
+
+- Local: [assets/web-resources/github-com/04-patch-architecture.png](../../../assets/web-resources/github-com/04-patch-architecture.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png](../../../assets/web-resources/github-com/05-three-injection-mechanisms.png)
+
+- Local: [assets/web-resources/github-com/05-three-injection-mechanisms.png](../../../assets/web-resources/github-com/05-three-injection-mechanisms.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png](../../../assets/web-resources/github-com/06-aol-protocol-exploit.png)
+
+- Local: [assets/web-resources/github-com/06-aol-protocol-exploit.png](../../../assets/web-resources/github-com/06-aol-protocol-exploit.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png](../../../assets/web-resources/github-com/07-version-history-detection.png)
+
+- Local: [assets/web-resources/github-com/07-version-history-detection.png](../../../assets/web-resources/github-com/07-version-history-detection.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png](../../../assets/web-resources/github-com/08-memory-map.png)
+
+- Local: [assets/web-resources/github-com/08-memory-map.png](../../../assets/web-resources/github-com/08-memory-map.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png)
+
+### https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png
+
+![https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png](../../../assets/web-resources/github-com/09-fdo88-dispatch-encoding.png)
+
+- Local: [assets/web-resources/github-com/09-fdo88-dispatch-encoding.png](../../../assets/web-resources/github-com/09-fdo88-dispatch-encoding.png)
+- Source page: AOL4Free v4
+- URL: [https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png](https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png)
 
 
 - [All web image attempts](web-images.md)

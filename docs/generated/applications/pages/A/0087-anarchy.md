@@ -39,8 +39,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched web download links | 3 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +51,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0087-anarchy.zip](../../../../../files/aol/aol-4-0/0087-anarchy.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anarchy for aol 4.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anarchy%20for%20aol%204.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anarchy%20for%20aol%204.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anarchy%20for%20aol%204.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anarchy%20for%20aol%204.0.zip)
@@ -88,6 +88,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Click-Online AOL 4/5 progz | anarchy | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip) | [http://click-online2000.com/progz/anarchy.zip](http://click-online2000.com/progz/anarchy.zip) |
 | prog's/misc a-m | anarchy | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip) | [http://lenshellarchive.com/Progs/aolprogs/anarchy.zip](http://lenshellarchive.com/Progs/aolprogs/anarchy.zip) |
 | Progs Section 1 | Anarchy | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/anarchy.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/anarchy.zip) | [http://www.cybernyse.com/anarchy.zip](http://www.cybernyse.com/anarchy.zip) |
 
@@ -96,6 +97,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | anarchyaol.zip | [http://www.angelfire.com/goth/vionline/anarchyaol.zip](http://www.angelfire.com/goth/vionline/anarchyaol.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/goth/vionline/anarchyaol.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/goth/vionline/anarchyaol.zip) | [files/external/angelfire-com/anarchyaol.zip](../../../../../files/external/angelfire-com/anarchyaol.zip) | ready |
+| Web page: Click-Online AOL 4/5 progz | anarchy.zip | [http://click-online2000.com/progz/anarchy.zip](http://click-online2000.com/progz/anarchy.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

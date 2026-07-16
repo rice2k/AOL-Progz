@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:32:39.382Z",
+  "generatedAt": "2026-07-16T06:46:45.059Z",
   "programCount": 2139,
   "programsWithImprovedNames": 519,
   "programsWithInferredAuthors": 10,
@@ -11,9 +11,9 @@
   "programsWithArchiveAolVersionMentions": 106,
   "programsWithInferredAolVersions": 357,
   "programsWithWebMentions": 7,
-  "programsWithWebDownloadLinks": 2007,
-  "programsWithWebImageLinks": 29,
-  "programsWithMirrorLinks": 203,
+  "programsWithWebDownloadLinks": 2008,
+  "programsWithWebImageLinks": 35,
+  "programsWithMirrorLinks": 234,
   "fetchedDetails": [
     {
       "name": "AOLUnderground.com ProGGieS",
@@ -3767,6 +3767,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "anarchy",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip",
+          "originalUrl": "http://click-online2000.com/progz/anarchy.zip",
+          "matchedBy": "exact:anarchy",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "anarchy",
@@ -3795,6 +3804,15 @@
           "localPath": "files/external/angelfire-com/anarchyaol.zip",
           "status": "ready",
           "matchedBy": "loose:anarchy"
+        },
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "anarchy.zip",
+          "originalUrl": "http://click-online2000.com/progz/anarchy.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:anarchy"
         }
       ]
     },
@@ -4536,8 +4554,16 @@
       "webImageLinks": [],
       "mirrorLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "label": "LamerToolz.zip",
+          "originalUrl": "http://click-online2000.com/progz/LamerToolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/LamerToolz.zip",
+          "status": "http-404",
+          "matchedBy": "loose:anti-lamer-toolz-1-c-com"
+        },
+        {
           "sourceName": "prog's/misc a-m",
-          "label": "lamer.zip",
+          "label": "LamerToolz.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip",
           "status": "candidate",
@@ -6536,7 +6562,7 @@
       "webImageLinks": [
         {
           "sourceName": "Packages 0",
-          "sourceUrl": "https://github.com/users/raysuelzer/packages?repo_name=ProgzRescue",
+          "sourceUrl": "https://github.com/users/DamianSuess/packages?repo_name=Legacy-AOL-Underground",
           "label": "arctic-code-vault-contributor-default-df8d74122a06.png",
           "url": "https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png",
           "originalUrl": "https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png",
@@ -12192,6 +12218,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "Brain Damage 2.0",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/braindamage2.zip",
+          "originalUrl": "http://click-online2000.com/progz/braindamage2.zip",
+          "matchedBy": "exact:braindamage2",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Progs Section 1",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
           "label": "Brain Damage 2.0",
@@ -12219,8 +12254,28 @@
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
-      "mirrorLinks": []
+      "webImageLinks": [
+        {
+          "sourceName": "Packages 0",
+          "sourceUrl": "https://github.com/users/DamianSuess/packages?repo_name=Legacy-AOL-Underground",
+          "label": "galaxy-brain-default-847262c21056.png",
+          "url": "https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png",
+          "originalUrl": "https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png",
+          "matchedBy": "loose:brain",
+          "kind": "crawled image"
+        }
+      ],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "braindamage2.zip",
+          "originalUrl": "http://click-online2000.com/progz/braindamage2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/braindamage2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:braindamage2"
+        }
+      ]
     },
     "prog-0297-break": {
       "programId": "prog-0297-break",
@@ -13710,6 +13765,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "compac coms beta 1",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip",
+          "originalUrl": "http://click-online2000.com/progz/compaccoms.zip",
+          "matchedBy": "loose:c-com",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "LensHell AIM progs",
           "sourceUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
           "label": "dry c-com",
@@ -14793,7 +14857,7 @@
           "label": "ccomsbeta2.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
-          "status": "candidate",
+          "status": "ready",
           "matchedBy": "loose:wccomsbeta2aol4-5"
         }
       ]
@@ -16178,10 +16242,29 @@
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip",
           "matchedBy": "exact:chatspam",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "8",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files8",
+          "label": "chatspam.exe",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/chatspam.exe",
+          "originalUrl": "http://aimfilez.com/files/chatspam.exe",
+          "matchedBy": "exact:chatspam",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: 8",
+          "label": "chatspam.exe",
+          "originalUrl": "http://aimfilez.com/files/chatspam.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/chatspam.exe",
+          "localPath": "files/external/aimfilez-com/chatspam-d24c653a.exe",
+          "status": "ready",
+          "matchedBy": "exact:chatspam"
+        }
+      ]
     },
     "prog-0390-chattool": {
       "programId": "prog-0390-chattool",
@@ -17689,9 +17772,28 @@
       "manualPurposeSignals": [],
       "authorConflict": "",
       "webMentions": [],
-      "webDownloadLinks": [],
+      "webDownloadLinks": [
+        {
+          "sourceName": "2",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files2",
+          "label": "aimcloner.exe",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe",
+          "originalUrl": "http://aimfilez.com/files/aimcloner.exe",
+          "matchedBy": "loose:cloner",
+          "kind": "crawled download link"
+        }
+      ],
       "webImageLinks": [],
       "mirrorLinks": [
+        {
+          "sourceName": "Web page: 2",
+          "label": "aimcloner.exe",
+          "originalUrl": "http://aimfilez.com/files/aimcloner.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe",
+          "localPath": "files/external/aimfilez-com/aimcloner-a85bcf2a.exe",
+          "status": "ready",
+          "matchedBy": "loose:cloner"
+        },
         {
           "sourceName": "idler's",
           "label": "cloneridle.zip",
@@ -18344,6 +18446,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "com-six beta 2.2",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/com-six%20beta%202.2.zip",
+          "originalUrl": "http://click-online2000.com/progz/com-six%20beta%202.2.zip",
+          "matchedBy": "loose:com-six-beta-2-2-and-5-0",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "com-six beta 2.2",
@@ -18354,7 +18465,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "com-six%20beta%202.2.zip",
+          "originalUrl": "http://click-online2000.com/progz/com-six%20beta%202.2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/com-six%20beta%202.2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:com-six-beta-2-2-and-5-0"
+        }
+      ]
     },
     "prog-0445-com-six": {
       "programId": "prog-0445-com-six",
@@ -18819,6 +18940,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "corruption of the Mind v2",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/corruption.zip",
+          "originalUrl": "http://click-online2000.com/progz/corruption.zip",
+          "matchedBy": "exact:corruption-of-the-mind-v2",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Progs Section 1",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
           "label": "Corruption of the Mind v2",
@@ -18838,7 +18968,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "corruption.zip",
+          "originalUrl": "http://click-online2000.com/progz/corruption.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/corruption.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:corruption"
+        }
+      ]
     },
     "prog-0458-covert": {
       "programId": "prog-0458-covert",
@@ -21628,6 +21768,60 @@
           "label": "image",
           "url": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
           "originalUrl": "http://aimthings.com/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIMFilez files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+          "label": "image",
+          "url": "https://web.archive.org/web/20040405183602im_/http://www.burstnet.com/cgi-bin/ads/ba10295a.cgi/ns/v=1.1J/sz=468x60B/",
+          "originalUrl": "http://www.burstnet.com/cgi-bin/ads/ba10295a.cgi/ns/v=1.1J/sz=468x60B/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIMFilez files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+          "label": "image",
+          "url": "https://web.archive.org/web/20040405183602im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.1J/sz=120x600A/",
+          "originalUrl": "http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.1J/sz=120x600A/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "http://www.aimfilez.com/referals/referal.php?id=deadaim",
+          "sourceUrl": "https://web.archive.org/web/20031206092015/http://www.aimfilez.com/referals/referal.php?id=deadaim",
+          "label": "image",
+          "url": "https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=1.0J/sz=468x60A/",
+          "originalUrl": "http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=1.0J/sz=468x60A/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "http://www.aimfilez.com/referals/referal.php?id=deadaim",
+          "sourceUrl": "https://web.archive.org/web/20031206092015/http://www.aimfilez.com/referals/referal.php?id=deadaim",
+          "label": "image",
+          "url": "https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/",
+          "originalUrl": "http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "News",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=news",
+          "label": "image",
+          "url": "https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A|728x90A/",
+          "originalUrl": "http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A|728x90A/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "News",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=news",
+          "label": "image",
+          "url": "https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/",
+          "originalUrl": "http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/",
           "matchedBy": "loose:0521-darker-image-final",
           "kind": "crawled image"
         }
@@ -25170,6 +25364,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "dreamcatcher",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/dreamcatcher.zip",
+          "originalUrl": "http://click-online2000.com/progz/dreamcatcher.zip",
+          "matchedBy": "exact:dreamcatcher",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "dreamcatcher",
@@ -25189,7 +25392,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "dreamcatcher.zip",
+          "originalUrl": "http://click-online2000.com/progz/dreamcatcher.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/dreamcatcher.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dreamcatcher"
+        }
+      ]
     },
     "prog-0607-drool-1": {
       "programId": "prog-0607-drool-1",
@@ -26093,6 +26306,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "earth siege",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/earthsiege.zip",
+          "originalUrl": "http://click-online2000.com/progz/earthsiege.zip",
+          "matchedBy": "exact:earth-siege",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "earth siege v1",
@@ -26121,7 +26343,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "earthsiege.zip",
+          "originalUrl": "http://click-online2000.com/progz/earthsiege.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/earthsiege.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:earthsiege"
+        }
+      ]
     },
     "prog-0631-earth-siege-v2": {
       "programId": "prog-0631-earth-siege-v2",
@@ -26880,6 +27112,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "electrik x2",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/electrik.zip",
+          "originalUrl": "http://click-online2000.com/progz/electrik.zip",
+          "matchedBy": "exact:electrik",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "electrik x2",
@@ -26899,7 +27140,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "electrik.zip",
+          "originalUrl": "http://click-online2000.com/progz/electrik.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/electrik.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:electrik"
+        }
+      ]
     },
     "prog-0650-elements-of-destruction": {
       "programId": "prog-0650-elements-of-destruction",
@@ -27011,6 +27262,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Hadez progs",
+          "sourceUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net:80/~hadez/progs.html",
+          "label": "Click Here",
+          "url": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/gather.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/gather.zip",
+          "matchedBy": "loose:0652-elite-gather-revised",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "elite gather",
@@ -27021,7 +27281,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Hadez progs",
+          "label": "gather.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/gather.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/gather.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:0652-elite-gather-revised"
+        }
+      ]
     },
     "prog-0653-elite-ip-spoofer-1-0": {
       "programId": "prog-0653-elite-ip-spoofer-1-0",
@@ -27782,6 +28052,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "Elements of Destruction²",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/myprogz/EoD2.zip",
+          "originalUrl": "http://click-online2000.com/myprogz/EoD2.zip",
+          "matchedBy": "exact:eod2",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Aol 4.0/5.0 Progs",
           "sourceUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aol5progs.htm",
           "label": "http://www.oogle.net/downloads/progs/eod2.zip",
@@ -27792,7 +28071,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "EoD2.zip",
+          "originalUrl": "http://click-online2000.com/myprogz/EoD2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/myprogz/EoD2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:eod2"
+        }
+      ]
     },
     "prog-0673-eofader": {
       "programId": "prog-0673-eofader",
@@ -27975,6 +28264,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Hadez progs",
+          "sourceUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net:80/~hadez/progs.html",
+          "label": "Click Here",
+          "url": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/erotica.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/erotica.zip",
+          "matchedBy": "exact:erotica",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "erotica",
@@ -27985,7 +28283,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Hadez progs",
+          "label": "erotica.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/erotica.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/erotica.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:erotica"
+        }
+      ]
     },
     "prog-0678-error": {
       "programId": "prog-0678-error",
@@ -31199,10 +31507,28 @@
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fedex.zip",
           "matchedBy": "exact:fedex",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "..",
+          "sourceUrl": "https://am.net/lib/TOOLS/",
+          "label": "Setup_File_Print_FedEx_Kinkos.exe",
+          "url": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
+          "originalUrl": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
+          "matchedBy": "loose:fedex",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "..",
+          "label": "Setup_File_Print_FedEx_Kinkos.exe",
+          "originalUrl": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Setup_File_Print_FedEx_Kinkos.exe",
+          "status": "candidate",
+          "matchedBy": "loose:fedex"
+        }
+      ]
     },
     "prog-0766-fierce-online": {
       "programId": "prog-0766-fierce-online",
@@ -32362,6 +32688,15 @@
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/freon.zip",
           "matchedBy": "exact:freon",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "freon gold",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/freongold.zip",
+          "originalUrl": "http://click-online2000.com/progz/freongold.zip",
+          "matchedBy": "loose:freon",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -33176,6 +33511,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "gadget",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip",
+          "originalUrl": "http://click-online2000.com/progz/gadget.zip",
+          "matchedBy": "exact:gadget",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Progs Section 1",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
           "label": "Gadget",
@@ -33195,7 +33539,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "gadget.zip",
+          "originalUrl": "http://click-online2000.com/progz/gadget.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:gadget"
+        }
+      ]
     },
     "prog-0813-gag-da-fuck": {
       "programId": "prog-0813-gag-da-fuck",
@@ -34675,7 +35029,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "freongold.zip",
+          "originalUrl": "http://click-online2000.com/progz/freongold.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/freongold.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:freong"
+        }
+      ]
     },
     "prog-0852-gold": {
       "programId": "prog-0852-gold",
@@ -35028,6 +35392,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "gothic nightmares",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip",
+          "originalUrl": "http://click-online2000.com/progz/gothic.zip",
+          "matchedBy": "exact:gothic",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "gothic nightmares",
@@ -35057,6 +35430,15 @@
       ],
       "webImageLinks": [],
       "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "gothic.zip",
+          "originalUrl": "http://click-online2000.com/progz/gothic.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip",
+          "localPath": "files/external/click-online2000-com/gothic-e59e9fc1.zip",
+          "status": "ready",
+          "matchedBy": "exact:gothic"
+        },
         {
           "sourceName": "Progs Section 1",
           "label": "gothicwithdll.zip",
@@ -37889,6 +38271,15 @@
           "matchedBy": "loose:hyper"
         },
         {
+          "sourceName": "Web page: 2",
+          "label": "hyperinfo.exe",
+          "originalUrl": "http://aimfilez.com/files/hyperinfo.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/hyperinfo.exe",
+          "localPath": "files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe",
+          "status": "ready",
+          "matchedBy": "loose:hyper"
+        },
+        {
           "sourceName": "APPLICATIONS",
           "label": "superaim.zip",
           "originalUrl": "http://server38.hypermart.net/progstation/superaim.zip",
@@ -38045,14 +38436,6 @@
           "label": "Coffee.zip",
           "originalUrl": "http://server38.hypermart.net/progstation/Coffee.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/Coffee.zip",
-          "status": "candidate",
-          "matchedBy": "loose:hyper"
-        },
-        {
-          "sourceName": "http://progstation.hypermart.net/",
-          "label": "Coffee.zip",
-          "originalUrl": "http://progstation.hypermart.net/Coffee.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/Coffee.zip",
           "status": "candidate",
           "matchedBy": "loose:hyper"
         }
@@ -38617,6 +39000,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "hyper linker 2",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/HyperLinker2.zip",
+          "originalUrl": "http://click-online2000.com/progz/HyperLinker2.zip",
+          "matchedBy": "exact:hyper-linker-2",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "hyper linker ²",
@@ -38627,7 +39019,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "HyperLinker2.zip",
+          "originalUrl": "http://click-online2000.com/progz/HyperLinker2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/HyperLinker2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:hyperlinker2"
+        }
+      ]
     },
     "prog-0935-hysteria": {
       "programId": "prog-0935-hysteria",
@@ -40728,6 +41130,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "igneous",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/igneous.zip",
+          "originalUrl": "http://click-online2000.com/progz/igneous.zip",
+          "matchedBy": "exact:igneous",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Progs Section 1",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
           "label": "Igneous",
@@ -40747,7 +41158,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "igneous.zip",
+          "originalUrl": "http://click-online2000.com/progz/igneous.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/igneous.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:igneous"
+        }
+      ]
     },
     "prog-0991-ignore2": {
       "programId": "prog-0991-ignore2",
@@ -43127,6 +43548,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Hadez progs",
+          "sourceUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net:80/~hadez/progs.html",
+          "label": "Click Here",
+          "url": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/jaruleplat.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/jaruleplat.zip",
+          "matchedBy": "loose:jarule",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "termer's",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
           "label": "ja rule dat acc",
@@ -43137,7 +43567,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Hadez progs",
+          "label": "jaruleplat.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/jaruleplat.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/jaruleplat.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:jarule"
+        }
+      ]
     },
     "prog-1049-jarule2": {
       "programId": "prog-1049-jarule2",
@@ -43672,6 +44112,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "juggalo toolz 2.0",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip",
+          "originalUrl": "http://click-online2000.com/progz/juggalo2.zip",
+          "matchedBy": "loose:juggalo-toolz-2-0-yr-2k",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "juggalo toolz 2.0",
@@ -43715,6 +44164,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "juggalo toolz 1.0",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip",
+          "originalUrl": "http://click-online2000.com/progz/juggalo.zip",
+          "matchedBy": "exact:juggalo",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "juggalo toolz 1.0",
@@ -43743,7 +44201,26 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "juggalo.zip",
+          "originalUrl": "http://click-online2000.com/progz/juggalo.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:juggalo"
+        },
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "juggalo2.zip",
+          "originalUrl": "http://click-online2000.com/progz/juggalo2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:juggalo"
+        }
+      ]
     },
     "prog-1064-juvenile-upchat1": {
       "programId": "prog-1064-juvenile-upchat1",
@@ -48546,10 +49023,29 @@
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip",
           "matchedBy": "exact:lolztoolz",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "lølz tøølz ³·°",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip",
+          "originalUrl": "http://click-online2000.com/progz/lolztoolz.zip",
+          "matchedBy": "exact:lolztoolz",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "lolztoolz.zip",
+          "originalUrl": "http://click-online2000.com/progz/lolztoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:lolztoolz"
+        }
+      ]
     },
     "prog-1185-lag-kill-3": {
       "programId": "prog-1185-lag-kill-3",
@@ -49229,6 +49725,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "magic toolz",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/magic.zip",
+          "originalUrl": "http://click-online2000.com/progz/magic.zip",
+          "matchedBy": "exact:magic",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Section 2",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
           "label": "Magic Toolz 5.0 Beta",
@@ -49266,6 +49771,15 @@
           "localPath": "files/external/angelfire-com/magicsquare.zip",
           "status": "ready",
           "matchedBy": "loose:magic"
+        },
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "magic.zip",
+          "originalUrl": "http://click-online2000.com/progz/magic.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/magic.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:magic"
         },
         {
           "sourceName": "LensHell AIM progs",
@@ -50417,6 +50931,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "matrix final",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/matrixfinal.zip",
+          "originalUrl": "http://click-online2000.com/progz/matrixfinal.zip",
+          "matchedBy": "exact:matrix-final",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "c-coms",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
           "label": "matrix final",
@@ -50436,7 +50959,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "matrixfinal.zip",
+          "originalUrl": "http://click-online2000.com/progz/matrixfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/matrixfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:matrixfinal"
+        }
+      ]
     },
     "prog-1233-matts-punta": {
       "programId": "prog-1233-matts-punta",
@@ -50656,10 +51189,47 @@
           "originalUrl": "http://www.cybernyse.com/downlowdz/thorn.zip",
           "matchedBy": "exact:thorn",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "thorn v3.o",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn3.zip",
+          "originalUrl": "http://click-online2000.com/progz/thorn3.zip",
+          "matchedBy": "loose:thorn",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "thorn v4.o",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn4.zip",
+          "originalUrl": "http://click-online2000.com/progz/thorn4.zip",
+          "matchedBy": "loose:thorn",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "thorn3.zip",
+          "originalUrl": "http://click-online2000.com/progz/thorn3.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:thorn"
+        },
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "thorn4.zip",
+          "originalUrl": "http://click-online2000.com/progz/thorn4.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn4.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:thorn"
+        }
+      ]
     },
     "prog-1239-mcl-ccoms": {
       "programId": "prog-1239-mcl-ccoms",
@@ -51664,7 +52234,26 @@
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "Digital5k AOL progz article",
+          "sourceUrl": "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html",
+          "label": "http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg",
+          "url": "http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg",
+          "originalUrl": "http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg",
+          "matchedBy": "loose:micro",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Digital5k AOL progz article",
+          "sourceUrl": "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html",
+          "label": "micro-server_940x700-300x212.jpg",
+          "url": "http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg",
+          "originalUrl": "http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg",
+          "matchedBy": "loose:micro",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Visual Basic Section",
@@ -53349,10 +53938,28 @@
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/mp3play.zip",
           "matchedBy": "loose:1301-mp3player",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Missing Files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=missing",
+          "label": "mp3play.ocx",
+          "url": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mp3play.ocx",
+          "originalUrl": "http://www.aimfilez.com/files/missing/mp3play.ocx",
+          "matchedBy": "loose:1301-mp3player",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
       "mirrorLinks": [
+        {
+          "sourceName": "Web page: Missing Files",
+          "label": "mp3play.ocx",
+          "originalUrl": "http://www.aimfilez.com/files/missing/mp3play.ocx",
+          "waybackUrl": "https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mp3play.ocx",
+          "localPath": "files/external/aimfilez-com/mp3play-fa471de0.ocx",
+          "status": "ready",
+          "matchedBy": "loose:1301-mp3player"
+        },
         {
           "sourceName": "LensHell AIM progs",
           "label": "ajsmp3player.zip",
@@ -54345,6 +54952,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "neon 3.0",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/neon.zip",
+          "originalUrl": "http://click-online2000.com/progz/neon.zip",
+          "matchedBy": "exact:neon-3-0",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "neon 3.0",
@@ -54364,7 +54980,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "neon.zip",
+          "originalUrl": "http://click-online2000.com/progz/neon.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/neon.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:neon"
+        }
+      ]
     },
     "prog-1327-neosetup": {
       "programId": "prog-1327-neosetup",
@@ -59933,6 +60559,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "pokemon",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/pokemon.zip",
+          "originalUrl": "http://click-online2000.com/progz/pokemon.zip",
+          "matchedBy": "exact:pokemon",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "pokemon",
@@ -59980,7 +60615,17 @@
           "kind": "crawled image"
         }
       ],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "pokemon.zip",
+          "originalUrl": "http://click-online2000.com/progz/pokemon.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/pokemon.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:pokemon"
+        }
+      ]
     },
     "prog-1473-pokemontoolz": {
       "programId": "prog-1473-pokemontoolz",
@@ -61597,6 +62242,15 @@
           "originalUrl": "http://www.cybernyse.com/downlowdz/prophecy3.zip",
           "matchedBy": "exact:prophecy3",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "prophecy³·°",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/p3.zip",
+          "originalUrl": "http://click-online2000.com/progz/p3.zip",
+          "matchedBy": "exact:prophecy3",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -62183,6 +62837,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "punjabi acid",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip",
+          "originalUrl": "http://click-online2000.com/progz/punjabiacid.zip",
+          "matchedBy": "exact:punjabiacid",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "punjabi acid 2.9",
@@ -62202,7 +62865,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "punjabiacid.zip",
+          "originalUrl": "http://click-online2000.com/progz/punjabiacid.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:punjabiacid"
+        }
+      ]
     },
     "prog-1532-punk-idle1-1": {
       "programId": "prog-1532-punk-idle1-1",
@@ -63446,7 +64119,7 @@
       "webImageLinks": [
         {
           "sourceName": "Packages 0",
-          "sourceUrl": "https://github.com/users/raysuelzer/packages?repo_name=ProgzRescue",
+          "sourceUrl": "https://github.com/users/DamianSuess/packages?repo_name=Legacy-AOL-Underground",
           "label": "quickdraw-default-39c6aec8ff89.png",
           "url": "https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png",
           "originalUrl": "https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png",
@@ -63893,6 +64566,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "rampage toolz 1.0",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/rampage.zip",
+          "originalUrl": "http://click-online2000.com/progz/rampage.zip",
+          "matchedBy": "exact:rampage",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Section 2",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
           "label": "Rampage Toolz 1.1",
@@ -63900,10 +64582,36 @@
           "originalUrl": "http://www.cybernyse.com/downlowdz/rampage.zip",
           "matchedBy": "exact:rampage",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "rampage toolz 2.0",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/setuprt22.exe",
+          "originalUrl": "http://click-online2000.com/progz/setuprt22.exe",
+          "matchedBy": "loose:rampage-toolz",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
       "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "rampage.zip",
+          "originalUrl": "http://click-online2000.com/progz/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/rampage.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:rampage"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "label": "setuprt22.exe",
+          "originalUrl": "http://click-online2000.com/progz/setuprt22.exe",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/setuprt22.exe",
+          "status": "ready",
+          "matchedBy": "loose:rampage"
+        },
         {
           "sourceName": "Section 2",
           "label": "setuprt22.exe",
@@ -64960,7 +65668,17 @@
       "webMentions": [],
       "webDownloadLinks": [],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "User-supplied DNX ACP downloads",
+          "label": "AOL30german.exe",
+          "originalUrl": "http://www.dnx-online.net/~acp/downloads/AOL30german.exe",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/AOL30german.exe",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:german-reset-b-2-for-german-16bit"
+        }
+      ]
     },
     "prog-1601-regulata4": {
       "programId": "prog-1601-regulata4",
@@ -65138,6 +65856,24 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "9",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files9",
+          "label": "AimRemix3.0.exe",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AimRemix3.0.exe",
+          "originalUrl": "http://aimfilez.com/files/AimRemix3.0.exe",
+          "matchedBy": "loose:remix",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Hadez progs",
+          "sourceUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net:80/~hadez/progs.html",
+          "label": "Click Here",
+          "url": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/dbremix.zip",
+          "matchedBy": "loose:remix",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "c-coms",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
           "label": "remix ccom mp3 player beta",
@@ -65149,6 +65885,24 @@
       ],
       "webImageLinks": [],
       "mirrorLinks": [
+        {
+          "sourceName": "Web page: 9",
+          "label": "AimRemix3.0.exe",
+          "originalUrl": "http://aimfilez.com/files/AimRemix3.0.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AimRemix3.0.exe",
+          "localPath": "",
+          "status": "failed",
+          "matchedBy": "loose:remix"
+        },
+        {
+          "sourceName": "Web page: Hadez progs",
+          "label": "dbremix.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/dbremix.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:remix"
+        },
         {
           "sourceName": "LensHell AIM progs",
           "label": "aimremixr.zip",
@@ -66919,7 +67673,7 @@
           "label": "netbuspatch.zip",
           "originalUrl": "http://www.methodus.atfreeweb.com/netbuspatch.zip",
           "waybackUrl": "https://web.archive.org/web/20010111011900/http://www.methodus.atfreeweb.com/netbuspatch.zip",
-          "status": "candidate",
+          "status": "http-404",
           "matchedBy": "loose:s2000"
         }
       ]
@@ -67620,7 +68374,116 @@
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "AIMFilez files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/evilintentions.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/evilintentions.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIMFilez files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/reshackerscreenshot.jpg",
+          "originalUrl": "http://aimfilez.com/screenshots/reshackerscreenshot.jpg",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIMFilez files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimchange.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/aimchange.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Mac Files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=mfiles1",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/exploitools.jpg",
+          "originalUrl": "http://aimfilez.com/screenshots/exploitools.jpg",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Mac Files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=mfiles1",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/rainbowfader40.jpg",
+          "originalUrl": "http://aimfilez.com/screenshots/rainbowfader40.jpg",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "2",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files2",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/fbimage.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/fbimage.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "2",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files2",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/hyperinfo.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/hyperinfo.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "2",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files2",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimfader.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/aimfader.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "2",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files2",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimcloner.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/aimcloner.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "3",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files3",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/snformatter2.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/snformatter2.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "3",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files3",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/myim.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/myim.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "3",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files3",
+          "label": "Screen Shot",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimtalk.gif",
+          "originalUrl": "http://aimfilez.com/screenshots/aimtalk.gif",
+          "matchedBy": "exact:screen-shot",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": []
     },
     "prog-1666-screenripper": {
@@ -70950,10 +71813,29 @@
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/solar.zip",
           "matchedBy": "loose:solar-winds-3-00",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "sølar wiñds beta¹·³",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/solar.zip",
+          "originalUrl": "http://click-online2000.com/progz/solar.zip",
+          "matchedBy": "loose:solar-winds-3-00",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "solar.zip",
+          "originalUrl": "http://click-online2000.com/progz/solar.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/solar.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:solar-winds-3-00"
+        }
+      ]
     },
     "prog-1760-solitaire-beta": {
       "programId": "prog-1760-solitaire-beta",
@@ -71631,7 +72513,17 @@
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "Aciddr0p live site",
+          "sourceUrl": "http://www.aciddr0p.net/",
+          "label": "spectrum-logo.svg",
+          "url": "https://www.spectrum.com/content/experience-fragments/spectrum/residential/en/header/global-header-xf/master/_jcr_content/root/header/brandLogo.coreimg.svg/1626624041436/spectrum-logo.svg",
+          "originalUrl": "https://www.spectrum.com/content/experience-fragments/spectrum/residential/en/header/global-header-xf/master/_jcr_content/root/header/brandLogo.coreimg.svg/1626624041436/spectrum-logo.svg",
+          "matchedBy": "loose:spectrum",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": []
     },
     "prog-1780-speedschatignore": {
@@ -72601,7 +73493,17 @@
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "Digital5k AOL progz article",
+          "sourceUrl": "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html",
+          "label": "dot.png",
+          "url": "http://static.hupso.com/share/buttons/dot.png",
+          "originalUrl": "http://static.hupso.com/share/buttons/dot.png",
+          "matchedBy": "loose:static",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "AIM",
@@ -73195,6 +74097,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Hadez progs",
+          "sourceUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net:80/~hadez/progs.html",
+          "label": "Click Here",
+          "url": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/storage2.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/storage2.zip",
+          "matchedBy": "loose:storage",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "storage 1.0 (beta 1.0)",
@@ -73205,7 +74116,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Hadez progs",
+          "label": "storage2.zip",
+          "originalUrl": "http://dnx-online.net/~hadez/files/storage2.zip",
+          "waybackUrl": "https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/storage2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:storage"
+        }
+      ]
     },
     "prog-1824-stp-idle-by-budz-version-2": {
       "programId": "prog-1824-stp-idle-by-budz-version-2",
@@ -76676,10 +77597,29 @@
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/toad13.zip",
           "matchedBy": "exact:toad13",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "toad 1.3",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/Toad13.zip",
+          "originalUrl": "http://click-online2000.com/progz/Toad13.zip",
+          "matchedBy": "exact:toad13",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "Toad13.zip",
+          "originalUrl": "http://click-online2000.com/progz/Toad13.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/Toad13.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:toad13"
+        }
+      ]
     },
     "prog-1921-toadv2b2": {
       "programId": "prog-1921-toadv2b2",
@@ -76829,6 +77769,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "4",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files4",
+          "label": "InstantIdler52.exe",
+          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/InstantIdler52.exe",
+          "originalUrl": "http://aimfilez.com/files/InstantIdler52.exe",
+          "matchedBy": "loose:tidle",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "idler's",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
           "label": "tonedawg's idle",
@@ -76848,7 +77797,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: 4",
+          "label": "InstantIdler52.exe",
+          "originalUrl": "http://aimfilez.com/files/InstantIdler52.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/InstantIdler52.exe",
+          "localPath": "files/external/aimfilez-com/instantidler52-59727d46.exe",
+          "status": "ready",
+          "matchedBy": "loose:tidle"
+        }
+      ]
     },
     "prog-1926-toolz": {
       "programId": "prog-1926-toolz",
@@ -76991,6 +77950,15 @@
           "kind": "crawled download link"
         },
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "tortuga Final",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/tortuga.zip",
+          "originalUrl": "http://click-online2000.com/progz/tortuga.zip",
+          "matchedBy": "exact:tortuga-final",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Section 2",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
           "label": "Tortuga Final",
@@ -77001,7 +77969,17 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "tortuga.zip",
+          "originalUrl": "http://click-online2000.com/progz/tortuga.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/tortuga.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:tortuga"
+        }
+      ]
     },
     "prog-1930-toschk50": {
       "programId": "prog-1930-toschk50",
@@ -78985,6 +79963,96 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "7z2107.exe",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "AOL4FREE2.6v4.sit",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "autoruns.exe",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "CHARMAP.EXE",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Legacy AOL Underground repository",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground",
+          "label": "exe_strings.db.zip",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "ssstonebraker/aolunderground-proggies",
+          "sourceUrl": "https://github.com/ssstonebraker/aolunderground-proggies",
+          "label": "exe_strings.db.zip",
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "other",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/other",
+          "label": "nfos.zip",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "npp.7.9.2.Installer.exe",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "ProcessExplorerNt.zip",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "TweakUiPowertoySetup.exe",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "under ground",
@@ -78992,10 +80060,306 @@
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/underground.zip",
           "matchedBy": "exact:underground",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "WinCDEmu-4.1.exe",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/tree/main/oldscool_windows_tools",
+          "label": "winhex.zip",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
-      "mirrorLinks": []
+      "webImageLinks": [
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "01-normal-vs-patched-token-flow.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "02-v4-stealth-signon.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/02-v4-stealth-signon.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "03-token-dispatch-table.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/03-token-dispatch-table.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "04-patch-architecture.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/04-patch-architecture.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "05-three-injection-mechanisms.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/05-three-injection-mechanisms.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "06-aol-protocol-exploit.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/06-aol-protocol-exploit.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "07-version-history-detection.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/07-version-history-detection.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "08-memory-map.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/08-memory-map.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "09-fdo88-dispatch-encoding.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/diagrams/09-fdo88-dispatch-encoding.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "8AB%20is%20an%20unconditional%20jump%20to%20the%20patch%20at%20the%20end%20of%20the%20resource.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/screenshots/8AB%20is%20an%20unconditional%20jump%20to%20the%20patch%20at%20the%20end%20of%20the%20resource.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/screenshots/8AB%20is%20an%20unconditional%20jump%20to%20the%20patch%20at%20the%20end%20of%20the%20resource.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "aolv2.6_patched_with_aol4free.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/screenshots/aolv2.6_patched_with_aol4free.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/raw/main/programs/Mac/hells/aol4free/screenshots/aolv2.6_patched_with_aol4free.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "sourceUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free",
+          "label": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png",
+          "url": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/diagrams/01-normal-vs-patched-token-flow.png",
+          "matchedBy": "loose:underground",
+          "kind": "crawled image"
+        }
+      ],
+      "mirrorLinks": [
+        {
+          "sourceName": "Legacy AOL Underground repository",
+          "label": "exe_strings.db.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/exe_strings.db.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "mikrodotnet AOL progz repository",
+          "label": "exe_strings.db.zip",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/exe_strings.db.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/exe_strings.db.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "ssstonebraker/aolunderground-proggies",
+          "label": "exe_strings.db.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "label": "AOL4FREE2.6v4.sit",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOL4Free v4",
+          "label": "AOL4FREE2.6v4.sit",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "autoruns.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "autoruns.exe",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "CHARMAP.EXE",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "CHARMAP.EXE",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "other",
+          "label": "nfos.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "other",
+          "label": "nfos.zip",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "npp.7.9.2.Installer.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "npp.7.9.2.Installer.exe",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "ProcessExplorerNt.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "ProcessExplorerNt.zip",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "TweakUiPowertoySetup.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "TweakUiPowertoySetup.exe",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "WinCDEmu-4.1.exe",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "WinCDEmu-4.1.exe",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "winhex.zip",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "oldscool_windows_tools",
+          "label": "winhex.zip",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "status": "candidate",
+          "matchedBy": "loose:underground"
+        }
+      ]
     },
     "prog-1986-v11": {
       "programId": "prog-1986-v11",
@@ -80207,6 +81571,24 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "winter break",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/winter.zip",
+          "originalUrl": "http://click-online2000.com/progz/winter.zip",
+          "matchedBy": "loose:winter-break-b-2-and-5-0-yr-2000",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "winter break²",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/wb2.zip",
+          "originalUrl": "http://click-online2000.com/progz/wb2.zip",
+          "matchedBy": "exact:wb2",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "c-coms",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
           "label": "winter break²",
@@ -80226,7 +81608,26 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "winter.zip",
+          "originalUrl": "http://click-online2000.com/progz/winter.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/winter.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:winter-break-b-2-and-5-0-yr-2000"
+        },
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "wb2.zip",
+          "originalUrl": "http://click-online2000.com/progz/wb2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/wb2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:wb2"
+        }
+      ]
     },
     "prog-2021-we-will-own-4-life": {
       "programId": "prog-2021-we-will-own-4-life",
@@ -81556,6 +82957,15 @@
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "Click-Online AOL 4/5 progz",
+          "sourceUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/aol45progz.htm",
+          "label": "x-bust",
+          "url": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/xbust.zip",
+          "originalUrl": "http://click-online2000.com/progz/xbust.zip",
+          "matchedBy": "exact:xbust",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "buster's",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
           "label": "x-bust",
@@ -81576,6 +82986,15 @@
       ],
       "webImageLinks": [],
       "mirrorLinks": [
+        {
+          "sourceName": "Web page: Click-Online AOL 4/5 progz",
+          "label": "xbust.zip",
+          "originalUrl": "http://click-online2000.com/progz/xbust.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/xbust.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:xbust"
+        },
         {
           "sourceName": "Visual Basic Section",
           "label": "xbustsource.zip",
@@ -82668,6 +84087,24 @@
           "kind": "crawled image"
         },
         {
+          "sourceName": "AIMFilez files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+          "label": "0.gif?tag=aimfilez&j=n",
+          "url": "https://web.archive.org/web/20040405183602im_/http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n",
+          "originalUrl": "http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n",
+          "matchedBy": "loose:xtreme",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Privacy Policy",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=privacy",
+          "label": "0.gif?tag=aimfilez&j=n",
+          "url": "http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n",
+          "originalUrl": "http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n",
+          "matchedBy": "loose:xtreme",
+          "kind": "crawled image"
+        },
+        {
           "sourceName": "AimThings",
           "sourceUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
           "label": "0.gif?tag=aimthing&j=n",
@@ -82700,6 +84137,15 @@
           "label": "i.gif",
           "url": "https://web.archive.org/web/20010301094602im_/http://u1.extreme-dm.com/i.gif",
           "originalUrl": "http://u1.extreme-dm.com/i.gif",
+          "matchedBy": "loose:xtreme",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIMFilez files",
+          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+          "label": "i.gif",
+          "url": "https://web.archive.org/web/20040405183602im_/http://w1.extreme-dm.com/i.gif",
+          "originalUrl": "http://w1.extreme-dm.com/i.gif",
           "matchedBy": "loose:xtreme",
           "kind": "crawled image"
         },

@@ -40,7 +40,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 1.9 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,7 +52,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 - Local mirrored archive: [files/aol/aol-4-0/0106-anti-lamer-t00lz.zip](../../../../../files/aol/aol-4-0/0106-anti-lamer-t00lz.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti lamer toolz 1 ccom aol5.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lamer%20toolz%201%20ccom%20aol5.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lamer%20toolz%201%20ccom%20aol5.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lamer%20toolz%201%20ccom%20aol5.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lamer%20toolz%201%20ccom%20aol5.zip)
@@ -95,7 +95,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | lamer.zip | [http://lenshellarchive.com/Progs/aolprogs/lamer.zip](http://lenshellarchive.com/Progs/aolprogs/lamer.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip) | unknown | candidate |
+| Click-Online AOL 4/5 progz | LamerToolz.zip | [http://click-online2000.com/progz/LamerToolz.zip](http://click-online2000.com/progz/LamerToolz.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/LamerToolz.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/LamerToolz.zip) | unknown | http-404 |
+| prog's/misc a-m | LamerToolz.zip | [http://lenshellarchive.com/Progs/aolprogs/lamer.zip](http://lenshellarchive.com/Progs/aolprogs/lamer.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lamer.zip) | unknown | candidate |
 
 ### Web Image Leads
 

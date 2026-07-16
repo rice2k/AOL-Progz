@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 2 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -99,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Digital5k AOL progz article | dot.png | [http://static.hupso.com/share/buttons/dot.png](http://static.hupso.com/share/buttons/dot.png) | [http://static.hupso.com/share/buttons/dot.png](http://static.hupso.com/share/buttons/dot.png) |
 
 ## Related Indexes
 

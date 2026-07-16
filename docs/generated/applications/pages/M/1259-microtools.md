@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 4 |
 | Matched mirror leads | 6 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 2 |
 
 ## Tags
 
@@ -106,7 +106,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Digital5k AOL progz article | http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg | [http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg](http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg) | [http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg](http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700.jpg) |
+| Digital5k AOL progz article | micro-server_940x700-300x212.jpg | [http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg](http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg) | [http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg](http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg) |
 
 ## Related Indexes
 

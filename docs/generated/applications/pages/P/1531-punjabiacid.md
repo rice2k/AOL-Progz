@@ -39,8 +39,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.3 MB |
-| Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +51,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1531-punjabiacid.zip](../../../../../files/aol/aol-4-0/1531-punjabiacid.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punjabiacid.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punjabiacid.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punjabiacid.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punjabiacid.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/punjabiacid.zip)
@@ -87,12 +88,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Click-Online AOL 4/5 progz | punjabi acid | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip) | [http://click-online2000.com/progz/punjabiacid.zip](http://click-online2000.com/progz/punjabiacid.zip) |
 | prog's/misc n-z | punjabi acid 2.9 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip) | [http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip](http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip) |
 | Section 2 | Punjabi Acid 2.9 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punjabiacid.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punjabiacid.zip) | [http://www.cybernyse.com/downlowdz/punjabiacid.zip](http://www.cybernyse.com/downlowdz/punjabiacid.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Click-Online AOL 4/5 progz | punjabiacid.zip | [http://click-online2000.com/progz/punjabiacid.zip](http://click-online2000.com/progz/punjabiacid.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

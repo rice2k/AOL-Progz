@@ -34,6 +34,10 @@ function basenameFromUrl(url) {
 
 function inferCategory(text) {
   const value = String(text || "").toLowerCase();
+  if (/\.(dll|ocx|vbx)\b|msvbvm|comdlg|riched|runtime|missing dll|missing ocx/.test(value)) return "runtime/support file";
+  if (/\b(aol|aim)\s*(install|setup|client)|aim\d|aim\s*\d|aol\d|aol\s*\d|aolp\d|setupaol/.test(value)) {
+    return "AOL/AIM client installer";
+  }
   if (/punt|boot|nuke|disconnect/.test(value)) return "punter/booter";
   if (/room|buster/.test(value)) return "room buster";
   if (/fade|fader/.test(value)) return "fader";
