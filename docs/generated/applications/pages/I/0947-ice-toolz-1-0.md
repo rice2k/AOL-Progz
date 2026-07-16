@@ -28,11 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 5.0 |
 | Inferred AOL version | AOL 5.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Ice Toolz 1.0/READ ME.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Ice Toolz 1.0/READ ME.txt | none | All-in-one prog suite | none | Ice Toolz 1.0/READ ME.txt has vocabulary for All-in-one prog suite. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -42,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -77,6 +80,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -95,7 +102,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| StackQL MCP Server | total?label=github%20downloads | [https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads](https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads) | [https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads](https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads) |
 
 ## Related Indexes
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot, C-Com / command list, Source / developer file |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | about idle max.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | about idle max.txt | none | Idler / AFK bot<br>C-Com / command list<br>Source / developer file | none | about idle max.txt has vocabulary for Idler / AFK bot, C-Com / command list, Source / developer file. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

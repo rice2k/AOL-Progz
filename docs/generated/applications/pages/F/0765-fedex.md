@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4.0, AOL 95, AOL 2.5, AOL 3.0, AOL 4.5 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility, Source / developer file, AOL/AIM chat utility, Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | FedExReadMe.txt<br>FedEx.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | FedExReadMe.txt<br>FedEx.ini | none | Fader / text styler<br>Punter / booter<br>Mass mailer / server<br>Account / TOS utility<br>Source / developer file<br>AOL/AIM chat utility<br>Scroller / macro | AOL 4.0<br>AOL 95<br>AOL 2.5<br>AOL 3.0<br>AOL 4.5 | FedExReadMe.txt mentions AOL 4.0, AOL 95, AOL 2.5, AOL 3.0, AOL 4.5.<br>FedExReadMe.txt has vocabulary for Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility, Source / developer file.<br>FedEx.ini has vocabulary for Punter / booter, Scroller / macro, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

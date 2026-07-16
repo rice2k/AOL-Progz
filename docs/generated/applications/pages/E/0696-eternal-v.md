@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | AOL/AIM chat utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | MorFeuS's ReaLM.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | MorFeuS's ReaLM.txt | none | AOL/AIM chat utility | none | MorFeuS's ReaLM.txt has vocabulary for AOL/AIM chat utility.<br>MorFeuS's ReaLM.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

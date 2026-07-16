@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Account / TOS utility, Screen-name utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -40,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.7 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,6 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/mixed/1502-profile-setter.zip](../../../../../files/aol/mixed/1502-profile-setter.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/profilesetter.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/profilesetter.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/profilesetter.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/profilesetter.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/profilesetter.zip)
@@ -81,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Read Me.txt | none | Account / TOS utility<br>Screen-name utility<br>AOL/AIM chat utility | none | Read Me.txt has vocabulary for Account / TOS utility, Screen-name utility, AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -95,7 +103,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | profilesetter.zip | [http://lenshellarchive.com/Progs/aolprogs/profilesetter.zip](http://lenshellarchive.com/Progs/aolprogs/profilesetter.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/profilesetter.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/profilesetter.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

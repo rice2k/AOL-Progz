@@ -28,18 +28,21 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 3.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Chat / IM utility |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 872 KB |
-| Matched web download links | 1 |
+| Matched web download links | 2 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0382-chat-toolz2-o.zip](../../../../../files/aol/aol-4-0/0382-chat-toolz2-o.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat toolz2.0 for aol 3.0 and 5.0 yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20for%20aol%203.0%20and%205.0%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20for%20aol%203.0%20and%205.0%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20for%20aol%203.0%20and%205.0%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20for%20aol%203.0%20and%205.0%20yr2k.zip)
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Read me.txt | none | AOL/AIM chat utility | none | Read me.txt has vocabulary for AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -92,6 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | AIM | Chat Toolz 2 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimchattoolz2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimchattoolz2.zip) | [http://www.cybernyse.com/downlowdz/aimchattoolz2.zip](http://www.cybernyse.com/downlowdz/aimchattoolz2.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Chat Toolz 2 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimchattoolz2.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimchattoolz2.zip) | [http://24.185.191.87/progz/aimchattoolz2.zip](http://24.185.191.87/progz/aimchattoolz2.zip) |
 
 ### Mirror Leads
 

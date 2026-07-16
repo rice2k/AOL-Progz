@@ -28,21 +28,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Readme.doc |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | p-code |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
-| Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 3 |
 
 ## Tags
 
@@ -51,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1024-integration.zip](../../../../../files/aol/aol-4-0/1024-integration.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip)
@@ -81,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Readme.doc | none | Fader / text styler<br>AOL/AIM chat utility | AOL 4.0 | Readme.doc mentions AOL 4.0.<br>Readme.doc has vocabulary for Fader / text styler, AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -91,16 +99,23 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Dell/ | DELL_PERC-6-I-INTEGRATED_A14_R313336.exe | [http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe](http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe) | [http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe](http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe) |
 | LensHell faders | integra | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/integra.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/integra.zip) | [http://lenshellarchive.com/Progs/aolfaders/integra.zip](http://lenshellarchive.com/Progs/aolfaders/integra.zip) |
 | Progs Section 1 | Integra | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/integra.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/integra.zip) | [http://www.cybernyse.com/integra.zip](http://www.cybernyse.com/integra.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Dell/ | DELL_PERC-6-I-INTEGRATED_A14_R313336.exe | [http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe](http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe) | [http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe](http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe) | unknown | candidate |
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Notion | https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png) | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png) |
+| Notion | https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png) | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png) |
+| Notion | https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png) | [https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png) |
 
 ## Related Indexes
 

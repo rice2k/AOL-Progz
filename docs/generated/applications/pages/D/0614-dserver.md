@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: AOL/AIM chat utility, Fader / text styler, Punter / booter, Scroller / macro, Mass mailer / server, Account / TOS utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | AOL/AIM chat utility, Fader / text styler, Punter / booter, Scroller / macro, Mass mailer / server, Account / TOS utility, Source / developer file, Media / file utility |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -46,7 +49,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -77,6 +80,14 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 ### Archive Text Scan
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
+
+### Matched External ZIP Text Evidence
+
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/warpedserver.zip](../../../../../files/external/angelfire-com/warpedserver.zip) | warpedserver/aimservers.txt<br>warpedserver/readme.txt<br>warpedserver/servers.txt | removing the | none | AOL/AIM chat utility<br>Fader / text styler<br>Punter / booter<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility | b. Install winsock version 2 if you dont have it. Windows 98 SE and up will have it.<br>2. If updating to a newer version and have pending move the pending.txt from the older<br>note: (please read notes form pervious version for most questions you have. then ask for help.) | [http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe](http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe) |
 
 ### Source Mentions
 

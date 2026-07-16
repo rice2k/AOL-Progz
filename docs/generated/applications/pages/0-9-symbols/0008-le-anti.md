@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 9-9.1 |
 | Archive-text AOL/version mentions | AOL 7.0, AOL 9.1 |
+| External ZIP text version mentions | unknown |
 | Prog type | AOL/AIM chat utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | leanme.txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 3 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | leanme.txt<br>aciddr0p.netReadMe.txt | none | AOL/AIM chat utility | AOL 7.0<br>AOL 9.1 | leanme.txt mentions AOL 7.0, AOL 9.1.<br>leanme.txt has vocabulary for AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

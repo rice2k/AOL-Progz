@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 7 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Media / file utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Media / file utility, Fader / text styler, Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | INSTALL.txt<br>MMPlayerX.ini<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt<br>MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt<br>MMp3Player/Skins/guinamp_pirata/Skin.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | INSTALL.txt<br>MMPlayerX.ini<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt<br>MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt<br>MMp3Player/Skins/guinamp_pirata/Skin.ini | Raul Martinez (MMp3Player/Skins/guinamp_pirata/Skin.ini) | Source / developer file<br>Media / file utility<br>Fader / text styler<br>Scroller / macro | none | INSTALL.txt has vocabulary for Source / developer file.<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt has vocabulary for Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt has vocabulary for Fader / text styler, Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini includes archive-text author clue(s): Raul Martinez.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini has vocabulary for Scroller / macro, Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

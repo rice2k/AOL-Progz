@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -98,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Missing Files | mp3play.ocx | [http://www.aimfilez.com/files/missing/mp3play.ocx](http://www.aimfilez.com/files/missing/mp3play.ocx) | [https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mp3play.ocx](https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/mp3play.ocx) | [files/external/aimfilez-com/mp3play-fa471de0.ocx](../../../../../files/external/aimfilez-com/mp3play-fa471de0.ocx) | ready |
-| LensHell AIM progs | ajsmp3player.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip](http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip) | unknown | candidate |
+| Web page: LensHell AIM progs | ajsmp3player.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip](http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip) | unknown | http-404 |
 | Visual Basic Section | mp3play.zip | [http://lenshellarchive.com/Progs/vbxdll/mp3play.zip](http://lenshellarchive.com/Progs/vbxdll/mp3play.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/mp3play.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/mp3play.zip) | unknown | candidate |
 
 ### Web Image Leads

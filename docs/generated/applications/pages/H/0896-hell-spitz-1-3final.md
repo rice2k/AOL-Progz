@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, C-Com / command list, Source / developer file |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | hs3readme.txt<br>TIPOFDAY.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | hs3readme.txt<br>TIPOFDAY.txt | none | All-in-one prog suite<br>C-Com / command list<br>Source / developer file | none | hs3readme.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file.<br>TIPOFDAY.txt has vocabulary for All-in-one prog suite. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

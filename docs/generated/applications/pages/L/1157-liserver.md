@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Mass mailer / server |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Mass mailer / server, Account / TOS utility, Source / developer file |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | readme.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | readme.txt | none | Mass mailer / server<br>Account / TOS utility<br>Source / developer file | AOL 4.0 | readme.txt mentions AOL 4.0.<br>readme.txt has vocabulary for Mass mailer / server, Account / TOS utility, Source / developer file.<br>readme.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

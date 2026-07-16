@@ -28,11 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 6.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 7, AOL 9 |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Idler / AFK bot, Scroller / macro, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Read Me!.txt | none | All-in-one prog suite<br>Idler / AFK bot<br>Scroller / macro<br>Media / file utility | AOL 7<br>AOL 9 | Read Me!.txt mentions AOL 7, AOL 9.<br>Read Me!.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Scroller / macro, Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

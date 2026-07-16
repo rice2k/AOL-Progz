@@ -1,12 +1,18 @@
-import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import path from "node:path";
 
 const rootDir = path.resolve(import.meta.dirname, "..");
 const catalogPath = path.join(rootDir, "data", "catalog.js");
 const webResourcesPath = path.join(rootDir, "data", "web-resources.json");
 const externalDownloadsPath = path.join(rootDir, "data", "external-downloads.json");
+const externalArchiveTextPath = path.join(rootDir, "data", "external-archive-text.json");
 const outJson = path.join(rootDir, "data", "missing-candidates.json");
 const outJs = path.join(rootDir, "data", "missing-candidates.js");
+
+function readJson(file, fallback) {
+  if (!existsSync(file)) return fallback;
+  return JSON.parse(readFileSync(file, "utf8"));
+}
 
 function readCatalog() {
   const text = readFileSync(catalogPath, "utf8");
@@ -16,7 +22,7 @@ function readCatalog() {
 function slug(value) {
   return String(value || "")
     .toLowerCase()
-    .replace(/\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe)$/i, "")
+    .replace(/\.(zip|rar|7z|sit|hqx|ace|arj|lzh|gz|tar|exe|dll|ocx|vbx)$/i, "")
     .replace(/aol|aim|progz?|proggie|toolz?|v\d+(?:\.\d+)?|version|\d+(?:\.\d+)?/gi, " ")
     .replace(/[^a-z0-9]+/g, " ")
     .trim()
@@ -59,8 +65,10 @@ function preferStatus(existing, incoming) {
 
 function main() {
   const catalog = readCatalog();
-  const web = JSON.parse(readFileSync(webResourcesPath, "utf8"));
-  const external = JSON.parse(readFileSync(externalDownloadsPath, "utf8"));
+  const web = readJson(webResourcesPath, { links: [] });
+  const external = readJson(externalDownloadsPath, { downloads: [] });
+  const externalArchiveText = readJson(externalArchiveTextPath, { byLocalPath: {} });
+  const externalTextByLocalPath = externalArchiveText.byLocalPath || {};
 
   const known = new Set();
   for (const program of catalog.programs) {
@@ -81,6 +89,12 @@ function main() {
       mirrors: [],
       readyLocalFiles: [],
       sourcePages: new Set(),
+      externalTextAuthors: new Set(),
+      externalTextPurposeSignals: new Set(),
+      externalTextVersions: new Set(),
+      externalTextUrls: new Set(),
+      externalTextDescriptions: [],
+      externalTextFileCount: 0,
     };
     if (item.originalUrl || item.url) {
       const url = item.originalUrl || item.url;
@@ -101,6 +115,22 @@ function main() {
     if (item.localPath && !existing.readyLocalFiles.includes(item.localPath)) {
       existing.readyLocalFiles.push(item.localPath);
     }
+    const textEvidence = item.localPath ? externalTextByLocalPath[item.localPath] : null;
+    if (textEvidence?.scanned) {
+      existing.externalTextFileCount += textEvidence.textFileCount || 0;
+      if (textEvidence.preferredAuthor) existing.externalTextAuthors.add(textEvidence.preferredAuthor);
+      for (const author of textEvidence.authorCandidates || []) {
+        if (author.name) existing.externalTextAuthors.add(author.name);
+      }
+      for (const signal of textEvidence.purposeSignals || []) existing.externalTextPurposeSignals.add(signal);
+      for (const version of textEvidence.versionMentions || []) existing.externalTextVersions.add(version);
+      for (const url of textEvidence.urls || []) existing.externalTextUrls.add(url);
+      for (const description of textEvidence.descriptionCandidates || []) {
+        if (description.text && !existing.externalTextDescriptions.some((item) => item.text === description.text)) {
+          existing.externalTextDescriptions.push(description);
+        }
+      }
+    }
     if (item.pageName) existing.sourcePages.add(item.pageName);
     candidates.set(key, existing);
   }
@@ -116,6 +146,11 @@ function main() {
     .map((item) => ({
       ...item,
       sourcePages: [...item.sourcePages],
+      externalTextAuthors: [...item.externalTextAuthors].slice(0, 8),
+      externalTextPurposeSignals: [...item.externalTextPurposeSignals].slice(0, 10),
+      externalTextVersions: [...item.externalTextVersions].slice(0, 10),
+      externalTextUrls: [...item.externalTextUrls].slice(0, 10),
+      externalTextDescriptions: item.externalTextDescriptions.slice(0, 6),
       mirrorCount: item.mirrors.length,
       readyCount: item.readyLocalFiles.length,
     }))

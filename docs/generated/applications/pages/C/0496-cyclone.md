@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 4.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Progzonline.nfo<br>MadJester - Must Read.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | non-VB |
 | Compile type | n/a |
 | Duplicate count | 4 |
@@ -86,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Progzonline.nfo<br>MadJester - Must Read.txt | none | All-in-one prog suite | none | Progzonline.nfo has vocabulary for All-in-one prog suite.<br>MadJester - Must Read.txt has vocabulary for All-in-one prog suite. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

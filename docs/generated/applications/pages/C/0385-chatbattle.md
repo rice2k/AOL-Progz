@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, Account / TOS utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | commands.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | commands.txt | none | C-Com / command list<br>Account / TOS utility | none | commands.txt has vocabulary for C-Com / command list, Account / TOS utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,11 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 6.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility, Room buster |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Disclaimer Important Read Before Useing Prog.txt<br>Read This To know Known Proplems and upcomming stuff.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Disclaimer Important Read Before Useing Prog.txt<br>Read This To know Known Proplems and upcomming stuff.txt | none | AOL/AIM chat utility<br>Room buster | none | Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility.<br>Read This To know Known Proplems and upcomming stuff.txt has vocabulary for Room buster, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

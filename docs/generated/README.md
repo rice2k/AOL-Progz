@@ -17,20 +17,25 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 | Programs with improved best-known names | 519 |
 | Programs with web download leads | 2008 |
 | Programs with web research mentions | 7 |
-| Programs with mirror leads | 234 |
+| Programs with mirror leads | 348 |
 | Programs with manual purpose clues | 2 |
 | Programs with archive-text authors | 15 |
 | Programs with archive-text purpose clues | 324 |
 | Programs with archive-text AOL/version clues | 106 |
+| Programs with matched external ZIP text evidence | 20 |
 | Programs with author conflicts flagged | 12 |
-| Crawled source pages | 394 |
-| Crawled unique links | 8600 |
-| Crawled download links | 3726 |
-| Master deduped link index | 18366 |
+| Crawled source pages | 650 |
+| Crawled unique links | 12511 |
+| Crawled download links | 5096 |
+| Master deduped link index | 23683 |
 | User supplied priority links | 79 |
-| Recovered external files | 360 |
-| External mirror groups | 1340 |
-| Recovered web images | 87 |
+| Recovered external files | 376 |
+| External ZIPs with readable text | 154 |
+| External ZIPs with author clues | 50 |
+| External ZIPs with version clues | 2 |
+| External ZIPs with purpose clues | 112 |
+| External mirror groups | 1546 |
+| Recovered web images | 92 |
 
 ## Browse
 

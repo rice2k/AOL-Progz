@@ -1,14 +1,17 @@
 window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
-  "generatedAt": "2026-07-16T06:40:13.988Z",
+  "generatedAt": "2026-07-16T08:38:07.685Z",
   "sourceListCount": 3,
-  "candidateCount": 17069,
-  "downloadCount": 528,
-  "readyCount": 360,
-  "mirrorGroupCount": 1340,
+  "candidateCount": 18439,
+  "downloadCount": 828,
+  "readyCount": 376,
+  "mirrorGroupCount": 1546,
   "byStatus": {
-    "ready": 360,
-    "http-404": 162,
+    "ready": 376,
+    "invalid-archive": 1,
+    "empty-file": 1,
+    "http-404": 430,
     "failed": 5,
+    "html-replay": 14,
     "too-large": 1
   },
   "sourceLists": [
@@ -2679,6 +2682,75 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 10
     },
     {
+      "key": "magictoolz-zip",
+      "name": "magictoolz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolz.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ny4/potiscool/progz/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ny4/potiscool/progz/magictoolz.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/yt/u2music/bombz/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/yt/u2music/bombz/magictoolz.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/co3/foooge/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/co3/foooge/magictoolz.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-72/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-72/magictoolz.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-89/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-89/magictoolz.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/number/1014/magictoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/number/1014/magictoolz.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/techie/1311/MagicToolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/techie/1311/MagicToolz.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 10
+    },
+    {
       "key": "samp02-zip",
       "name": "samp02.zip",
       "mirrors": [
@@ -2743,10 +2815,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [
-        "files/external/angelfire-com/samp02.zip"
-      ],
-      "readyCount": 1,
+      "localFiles": [],
+      "readyCount": 0,
       "totalMirrors": 10
     },
     {
@@ -2953,69 +3023,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 9
     },
     {
-      "key": "magictoolz-zip",
-      "name": "magictoolz.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip",
-          "sourceList": "Web page: c-coms",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolz.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ny4/potiscool/progz/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ny4/potiscool/progz/magictoolz.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/yt/u2music/bombz/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/yt/u2music/bombz/magictoolz.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/co3/foooge/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/co3/foooge/magictoolz.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-72/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-72/magictoolz.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-89/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-89/magictoolz.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/number/1014/magictoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/number/1014/magictoolz.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/techie/1311/MagicToolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/techie/1311/MagicToolz.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 9
-    },
-    {
       "key": "netbuster1-31-zip",
       "name": "netbuster1_31.zip",
       "mirrors": [
@@ -3205,6 +3212,120 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "localFiles": [],
       "readyCount": 0,
       "totalMirrors": 9
+    },
+    {
+      "key": "aimclone-zip",
+      "name": "aimclone.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimclone.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimclone.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/md2/mdlax1/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/md2/mdlax1/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/de3/bladecon/aimclone.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de3/bladecon/aimclone.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 8
+    },
+    {
+      "key": "buster-zip",
+      "name": "buster.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/buster.zip",
+          "sourceList": "Web page: Visual Basic Section",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/buster.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/buster.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/extreme/mesut/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme/mesut/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 8
     },
     {
       "key": "cracker-zip",
@@ -3667,57 +3788,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 8
     },
     {
-      "key": "aimclone-zip",
-      "name": "aimclone.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimclone.zip",
-          "sourceList": "Web page: AIM",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/punk3/hugewinky2/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/md2/mdlax1/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/md2/mdlax1/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nd/w2clans/files/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/hiphop/aznbreakdance/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/de3/bladecon/aimclone.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de3/bladecon/aimclone.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 7
-    },
-    {
       "key": "boxer-zip",
       "name": "boxer.zip",
       "mirrors": [
@@ -3761,57 +3831,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/realm2/eppetz/boxer.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/realm2/eppetz/boxer.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 7
-    },
-    {
-      "key": "buster-zip",
-      "name": "buster.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/buster.zip",
-          "sourceList": "Web page: Visual Basic Section",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/buster.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/extreme/mesut/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme/mesut/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
       ],
@@ -3871,6 +3890,57 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 7
     },
     {
+      "key": "matrix-zip",
+      "name": "matrix.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/matrix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/matrix.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/matrix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/matrix.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://server46.hypermart.net/cluestation/apps/matrix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025545/http://server46.hypermart.net/cluestation/apps/matrix.zip",
+          "sourceList": "Web page: APPLICATIONS",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/gundam/d3k/files/bootscreens/matrix.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/gundam/d3k/files/bootscreens/matrix.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/gray/aim/matrix.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/matrix.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/matrix.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/matrix.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/turing/1347/vb/Matrix.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/turing/1347/vb/Matrix.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 7
+    },
+    {
       "key": "reboot-zip",
       "name": "reboot.zip",
       "mirrors": [
@@ -3913,6 +3983,57 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.fortunecity.com/skyscraper/powercable/88/HTMLobj-87/reboot.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/powercable/88/HTMLobj-87/reboot.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 7
+    },
+    {
+      "key": "scroller-zip",
+      "name": "scroller.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/scroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/scroller.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/scroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/scroller.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/amiga/brunexis1/javazip/imagens/scroller.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/amiga/brunexis1/javazip/imagens/scroller.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/amiga/brunexis1/javazip/texto/scroller.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/amiga/brunexis1/javazip/texto/scroller.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ex/vbhelp/ocx/scroller.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ex/vbhelp/ocx/scroller.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/jazz/trapflag/files/scroller.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/jazz/trapflag/files/scroller.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/download/1698/webpage/scroller.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/download/1698/webpage/scroller.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
@@ -4607,51 +4728,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 6
     },
     {
-      "key": "matrix-zip",
-      "name": "matrix.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/matrix.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/matrix.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://server46.hypermart.net/cluestation/apps/matrix.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221025545/http://server46.hypermart.net/cluestation/apps/matrix.zip",
-          "sourceList": "Web page: APPLICATIONS",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/gundam/d3k/files/bootscreens/matrix.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/gundam/d3k/files/bootscreens/matrix.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ego/gray/aim/matrix.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/matrix.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/matrix.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/matrix.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/turing/1347/vb/Matrix.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/turing/1347/vb/Matrix.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 6
-    },
-    {
       "key": "mijnfotos-zip",
       "name": "mijnfotos.zip",
       "mirrors": [
@@ -4734,51 +4810,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/linux/devilz-den/ocx/mswinsck.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/linux/devilz-den/ocx/mswinsck.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 6
-    },
-    {
-      "key": "scroller-zip",
-      "name": "scroller.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/scroller.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/scroller.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/amiga/brunexis1/javazip/imagens/scroller.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/amiga/brunexis1/javazip/imagens/scroller.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/amiga/brunexis1/javazip/texto/scroller.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/amiga/brunexis1/javazip/texto/scroller.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ex/vbhelp/ocx/scroller.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ex/vbhelp/ocx/scroller.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/jazz/trapflag/files/scroller.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/jazz/trapflag/files/scroller.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/download/1698/webpage/scroller.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/download/1698/webpage/scroller.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
       ],
@@ -5384,6 +5415,45 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 5
     },
     {
+      "key": "lolztoolz-zip",
+      "name": "lolztoolz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/lolztoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lolztoolz.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/lolztoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lolztoolz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/lolztoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/co3/foooge/lolztoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/co3/foooge/lolztoolz.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
       "key": "mario-zip",
       "name": "mario.zip",
       "mirrors": [
@@ -5532,6 +5602,45 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/empire/ybhdll/msinet.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/empire/ybhdll/msinet.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
+      "key": "neon-zip",
+      "name": "neon.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/neon.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/neon.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/neon.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/neon.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/neon.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/neon.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/neon.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/neon.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/neon.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/neon.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -5774,6 +5883,84 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 5
     },
     {
+      "key": "punt2000-zip",
+      "name": "punt2000.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/punt2000.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolpunters/punt2000.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/punt2000.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2000.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/punt2000.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/punt2000.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-91/punt2000.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-91/punt2000.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/smiley/1433/punt2000.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/smiley/1433/punt2000.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
+      "key": "punt2001-zip",
+      "name": "punt2001.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/punt2001.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip",
+          "sourceList": "Web page: punter's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://server39.hypermart.net/wipeout/punt2001.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025736/http://server39.hypermart.net/wipeout/punt2001.zip",
+          "sourceList": "Web page: AOL 6.0 PROGS",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/punt2001.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2001.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/punt2001.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/punt2001.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/art/planb/progs/punt2001.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/art/planb/progs/punt2001.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
       "key": "quadform-zip",
       "name": "quadform.zip",
       "mirrors": [
@@ -5805,6 +5992,123 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/quadform.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/quadform.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
+      "key": "rampage-zip",
+      "name": "rampage.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/rampage.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
+      "key": "roombuster-zip",
+      "name": "roombuster.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/roombuster.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/roombuster.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/roombuster.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/roombuster.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/scifi2/gongysdojo/roombuster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi2/gongysdojo/roombuster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/pr/demotx/roombuster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pr/demotx/roombuster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/straylight/177/roombuster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/straylight/177/roombuster.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
+      "key": "sb-zip",
+      "name": "sb.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/sb.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sb.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/sb.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/sb.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/sb.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sb.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/linux/samrol/prog/sb.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/linux/samrol/prog/sb.zip",
+          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -6009,6 +6313,45 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         "files/external/angelfire-com/terminator.zip"
       ],
       "readyCount": 1,
+      "totalMirrors": 5
+    },
+    {
+      "key": "toad-zip",
+      "name": "toad.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/toad.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/toad.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/toad.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/toad.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/toad.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/toad.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/toad.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/toad.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ny4/potiscool/progz/toad.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ny4/potiscool/progz/toad.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
       "totalMirrors": 5
     },
     {
@@ -6265,6 +6608,39 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/nb/btclan/files/maps/aim_map.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nb/btclan/files/maps/aim_map.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "aimaimhell2000v2-zip",
+      "name": "aimaimhell2000v2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimhell2000v2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimhell2000v2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimhell2000v2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimhell2000v2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/isp/1701/HTMLobj-66/aimaimhell2000v2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/isp/1701/HTMLobj-66/aimaimhell2000v2.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimhell2000v2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimhell2000v2.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
       ],
@@ -6933,31 +7309,97 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
-      "key": "lolztoolz-zip",
-      "name": "lolztoolz.zip",
+      "key": "lethal-zip",
+      "name": "lethal.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip",
-          "sourceList": "Web page: c-coms",
+          "originalUrl": "http://www.oogle.net/downloads/progs/lethal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/lolztoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lolztoolz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
+          "sourceList": "Web page: prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/lethal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://click-online2000.com/progz/lolztoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "originalUrl": "http://24.185.191.87/progz/lethal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "liquidcoms-zip",
+      "name": "liquidcoms.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/liquidcoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/co3/foooge/lolztoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/co3/foooge/lolztoolz.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/liquidcoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidcoms.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/liquidcoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidcoms.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "littlepunt-zip",
+      "name": "littlepunt.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip",
+          "sourceList": "Web page: punter's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/littlepunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/littlepunt.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/littlepunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/littlepunt.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/smiley/1433/littlepunt.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/smiley/1433/littlepunt.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
       ],
@@ -6999,6 +7441,72 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
+      "key": "methodus-zip",
+      "name": "methodus.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/methodus.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
+          "sourceList": "Web page: prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/methodus.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/methodus.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "micro-zip",
+      "name": "micro.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/micro.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/micro.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/micro.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/micro.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/de3/summerdreamz3/micro.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de3/summerdreamz3/micro.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/crazy4/faded_illusions/downloads/fonts/micro.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/crazy4/faded_illusions/downloads/fonts/micro.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
       "key": "msnbetatestscroller-zip",
       "name": "msnbetatestscroller.zip",
       "mirrors": [
@@ -7024,39 +7532,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/rsi/1/HTMLobj-149/MsnBetaTestScroller.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/rsi/1/HTMLobj-149/MsnBetaTestScroller.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 4
-    },
-    {
-      "key": "neon-zip",
-      "name": "neon.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.oogle.net/downloads/progs/neon.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/neon.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/neon.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/neon.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://click-online2000.com/progz/neon.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/neon.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/neon.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/neon.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -7131,6 +7606,105 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
+      "key": "nuked-zip",
+      "name": "nuked.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/nuked.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/nuked.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/nuked.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nuked.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/nuked.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/nuked.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/nuked.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/nuked.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "oracle-zip",
+      "name": "oracle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/oracle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/oracle.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/oracle.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/oracle.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/oracle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/oracle.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/oracle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/oracle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "phaze-zip",
+      "name": "phaze.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/phaze.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/phaze.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/phaze.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/phaze.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/phaze.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/phaze.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
       "key": "photoshop-zip",
       "name": "photoshop.zip",
       "mirrors": [
@@ -7197,97 +7771,31 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
-      "key": "punt2000-zip",
-      "name": "punt2000.zip",
+      "key": "platinum-zip",
+      "name": "platinum.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/punt2000.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolpunters/punt2000.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/punt2000.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2000.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-91/punt2000.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/crypt/1337/HTMLobj-91/punt2000.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/smiley/1433/punt2000.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/smiley/1433/punt2000.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 4
-    },
-    {
-      "key": "punt2001-zip",
-      "name": "punt2001.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/punt2001.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip",
-          "sourceList": "Web page: punter's",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://server39.hypermart.net/wipeout/punt2001.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221025736/http://server39.hypermart.net/wipeout/punt2001.zip",
-          "sourceList": "Web page: AOL 6.0 PROGS",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/punt2001.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2001.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/art/planb/progs/punt2001.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/art/planb/progs/punt2001.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 4
-    },
-    {
-      "key": "rampage-zip",
-      "name": "rampage.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/platinum.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/platinum.zip",
           "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://click-online2000.com/progz/rampage.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/rampage.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/platinum.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/platinum.zip",
+          "sourceList": "Web page: idler's",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/rampage.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/platinum.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/platinum.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/platinum.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/platinum.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -7296,64 +7804,97 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
-      "key": "roombuster-zip",
-      "name": "roombuster.zip",
+      "key": "prophecy3-zip",
+      "name": "prophecy3.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/roombuster.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/roombuster.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/scifi2/gongysdojo/roombuster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi2/gongysdojo/roombuster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/pr/demotx/roombuster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pr/demotx/roombuster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/straylight/177/roombuster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/straylight/177/roombuster.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 4
-    },
-    {
-      "key": "sb-zip",
-      "name": "sb.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.oogle.net/downloads/progs/sb.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sb.zip",
+          "originalUrl": "http://www.oogle.net/downloads/progs/prophecy3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/prophecy3.zip",
           "sourceList": "Web page: Aol 4.0/5.0 Progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/sb.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip",
           "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/sb.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/prophecy3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/prophecy3.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/linux/samrol/prog/sb.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/linux/samrol/prog/sb.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/prophecy3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/prophecy3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "punjabiacid-zip",
+      "name": "punjabiacid.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/punjabiacid.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/punjabiacid.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punjabiacid.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/punjabiacid.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/punjabiacid.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "revolutionx-zip",
+      "name": "revolutionx.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/revolutionx.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/revolutionx.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/revolutionx.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/revolutionx.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/revolutionx.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -7428,6 +7969,39 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
+      "key": "speedy-zip",
+      "name": "speedy.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/speedy.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/speedy.zip",
+          "sourceList": "Web page: idler's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/speedy.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/speedy.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/speedy.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/speedy.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/188/Inverted/speedy.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/Inverted/speedy.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
       "key": "talker-zip",
       "name": "talker.zip",
       "mirrors": [
@@ -7453,6 +8027,39 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/pa3/frankweb1/zip/fade/talker.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pa3/frankweb1/zip/fade/talker.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "techno-zip",
+      "name": "Techno.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/Techno.zip",
+          "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip",
+          "sourceList": "Web page: Free Layouts",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/techno.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/techno.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/techno.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/techno.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/techno.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/techno.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -7527,31 +8134,31 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
-      "key": "toad-zip",
-      "name": "toad.zip",
+      "key": "thorn-zip",
+      "name": "thorn.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/toad.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/toad.zip",
+          "originalUrl": "http://www.oogle.net/downloads/progs/thorn.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip",
           "sourceList": "Web page: Aol 4.0/5.0 Progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/toad.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/toad.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/thorn.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip",
           "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/toad.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/toad.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/thorn.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thorn.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ny4/potiscool/progz/toad.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ny4/potiscool/progz/toad.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/thorn.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thorn.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -7592,6 +8199,105 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         "files/external/angelfire-com/topazchat.zip"
       ],
       "readyCount": 1,
+      "totalMirrors": 4
+    },
+    {
+      "key": "tortuga-zip",
+      "name": "tortuga.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tortuga.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tortuga.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/tortuga.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/tortuga.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/tortuga.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tortuga.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/tortuga.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tortuga.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "trini-zip",
+      "name": "trini.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/trini.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/trini.zip",
+          "sourceList": "Web page: LensHell faders",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/trini.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/trini.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/trini.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/trini.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/pa3/frankweb1/zip/fade/trini.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pa3/frankweb1/zip/fade/trini.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "vampire-zip",
+      "name": "vampire.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/vampire.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/vampire.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/vampire.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/vampire.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/vampire.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/vampire.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/188/SuspendedSingleRail/vampire.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/SuspendedSingleRail/vampire.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
       "totalMirrors": 4
     },
     {
@@ -7696,6 +8402,39 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
+      "key": "wb2-zip",
+      "name": "wb2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/wb2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/wb2.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/wb2.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/wb2.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/wb2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wb2.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/wb2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wb2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
       "key": "winrar-zip",
       "name": "winrar.zip",
       "mirrors": [
@@ -7729,6 +8468,39 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
+      "key": "x2x-zip",
+      "name": "x2x.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/x2x.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/x2x.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/x2x.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/x2x.zip",
+          "sourceList": "Web page: x'ers",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/x2x.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/x2x.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/x2x.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/x2x.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
       "key": "ycracker-zip",
       "name": "ycracker.zip",
       "mirrors": [
@@ -7754,6 +8526,72 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/scanner/1354/ycracker.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/scanner/1354/ycracker.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "yoyov2-zip",
+      "name": "yoyov2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/yoyov2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/yoyov2.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/yoyov2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/yoyov2.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/yoyov2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/yoyov2.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/yoyov2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/yoyov2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "zerolimits4-zip",
+      "name": "zerolimits4.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/zerolimits4.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/zerolimits4.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/ZeroLimits4.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/ZeroLimits4.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/zerolimits4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/zerolimits4.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/zerolimits4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/zerolimits4.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -7808,6 +8646,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ego/gray/prog/2kfader.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/prog/2kfader.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "7z2107-exe",
+      "name": "7z2107.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/7z2107.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/7z2107.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -7953,6 +8818,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "aim187-zip",
+      "name": "aim187.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/aim187.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/aim187.zip",
+          "sourceList": "Web page: Oogle AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aim187.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aim187.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aim187.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aim187.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "aim95-zip",
       "name": "aim95.zip",
       "mirrors": [
@@ -7980,25 +8872,241 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "aimaimhell2000v2-zip",
-      "name": "aimaimhell2000v2.zip",
+      "key": "aimaimchattoolz-zip",
+      "name": "aimaimchattoolz.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimhell2000v2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimhell2000v2.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/isp/1701/HTMLobj-66/aimaimhell2000v2.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/isp/1701/HTMLobj-66/aimaimhell2000v2.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/aimaimchattoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimchattoolz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimhell2000v2.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimhell2000v2.zip",
+          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimchattoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimchattoolz.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimaimonice38-zip",
+      "name": "aimaimonice38.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimonice38.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimonice38.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimonice38.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimonice38.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimonice38.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimonice38.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimaimprog-zip",
+      "name": "aimaimprog.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimprog.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimprog.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimprog.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimprog.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ult/netcrashxx/aimaimprog.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ult/netcrashxx/aimaimprog.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimaimutils1-zip",
+      "name": "aimaimutils1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimutils1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutils1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimutils1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimutils1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimutils1.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimutils1.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimblackoutbeta-zip",
+      "name": "aimblackoutbeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimblackoutbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimblackoutbeta.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ia2/godzhor5/images/aimblackoutbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ia2/godzhor5/images/aimblackoutbeta.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimbluefire2-zip",
+      "name": "aimbluefire2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbluefire2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbluefire2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbluefire2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbluefire2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/gray/aim/aimbluefire2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/aimbluefire2.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimbulletscroller-zip",
+      "name": "aimbulletscroller.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.aol-progz.com/files/aim/aimbulletscroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimbulletscroller.zip",
+          "sourceList": "Web page: AIM Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbulletscroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbulletscroller.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbulletscroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbulletscroller.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimburningaimv1-zip",
+      "name": "aimburningaimv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimburningaimv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/gray/aim/aimburningaimv1.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/aimburningaimv1.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimburninginside-zip",
+      "name": "aimburninginside.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.aol-progz.com/files/aim/aimburninginside.zip",
+          "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimburninginside.zip",
+          "sourceList": "Web page: AIM Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimburninginside.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburninginside.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimburninginside.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburninginside.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -8034,6 +9142,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "aimdoom-zip",
+      "name": "aimdoom.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdoom.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdoom.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdoom.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdoom.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/gray/aim/aimdoom.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/aimdoom.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimempyriefinal-zip",
+      "name": "aimempyriefinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimempyriefinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimempyriefinal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimempyriefinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimempyriefinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ia2/godzhor5/images/aimempyriefinal.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ia2/godzhor5/images/aimempyriefinal.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "aimfuck-zip",
       "name": "aimfuck.zip",
       "mirrors": [
@@ -8053,6 +9215,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ego2/evilden/aimfuck.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego2/evilden/aimfuck.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimmercy1-zip",
+      "name": "aimmercy1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmercy1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmercy1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmercy1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmercy1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/pa3/frankweb1/zip/icq/aimmercy1.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pa3/frankweb1/zip/icq/aimmercy1.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimprodigytoolzv2-zip",
+      "name": "aimprodigytoolzv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.aol-progz.com/files/aim/aimprodigytoolzv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimprodigytoolzv2.zip",
+          "sourceList": "Web page: AIM Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimprodigytoolzv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimprodigytoolzv2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimprodigytoolzv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimprodigytoolzv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -8090,6 +9306,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "aimstevesaimprogeev3-zip",
+      "name": "aimstevesaimprogeev3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip",
+          "sourceList": "Web page: AIM Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimstevesaimprogeev3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aimzer0-zip",
+      "name": "aimzer0.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimzer0.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimzer0.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimzer0.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimzer0.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimzer0.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimzer0.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "alien-zip",
       "name": "alien.zip",
       "mirrors": [
@@ -8112,8 +9382,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/alien-6add2699.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -8271,6 +9543,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/backstrain/249/aol.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/backstrain/249/aol.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "aol4free2-6v4-sit",
+      "name": "AOL4FREE2.6v4.sit",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "sourceList": "Web page: AOL4Free v4",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "sourceList": "Web page: AOL4Free v4",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "sourceList": "Web page: AOL4Free v4",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "autoruns-exe",
+      "name": "autoruns.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/autoruns.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -8549,6 +9875,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "byrdfader-zip",
+      "name": "byrdfader.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.aol-progz.com/files/aim/byrdfader.zip",
+          "waybackUrl": "https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/byrdfader.zip",
+          "sourceList": "Web page: AIM Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/byrdfader.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/byrdfader.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/byrdfader.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/byrdfader.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "capture-zip",
       "name": "capture.zip",
       "mirrors": [
@@ -8603,6 +9956,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "charmap-exe",
+      "name": "CHARMAP.EXE",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/CHARMAP.EXE",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "chatlinkv3-zip",
       "name": "chatlinkv3.zip",
       "mirrors": [
@@ -8649,6 +10029,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/amiga/zayin2000/flashfiles/chatroom.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/amiga/zayin2000/flashfiles/chatroom.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "chatspam-zip",
+      "name": "chatspam.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
+          "sourceList": "Web page: prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/chatspam.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/chatspam.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip",
+          "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         }
       ],
@@ -9061,6 +10468,35 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "crackwhore-zip",
+      "name": "crackwhore.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego/lost_silence/crackwhore.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ego2/evilden/crackwhore.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego2/evilden/crackwhore.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/angelfire-com/crackwhore.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -10308,25 +11744,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "lethal-zip",
-      "name": "lethal.zip",
+      "key": "lastresort-zip",
+      "name": "lastresort.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/lethal.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lastresort.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lastresort.zip",
           "sourceList": "Web page: prog's/misc a-m",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/lethal.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/lastresort.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lastresort.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/lastresort.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lastresort.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -10362,25 +11798,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "liquidcoms-zip",
-      "name": "liquidcoms.zip",
+      "key": "lightningtoolz70-zip",
+      "name": "lightningtoolz70.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/liquidcoms.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip",
-          "sourceList": "Web page: c-coms",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/liquidcoms.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidcoms.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/lightningtoolz70.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lightningtoolz70.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/lightningtoolz70.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lightningtoolz70.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/lightningtoolz70.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/lightningtoolz70.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
       ],
@@ -10389,25 +11825,106 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "littlepunt-zip",
-      "name": "littlepunt.zip",
+      "key": "linktech-zip",
+      "name": "linktech.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip",
-          "sourceList": "Web page: punter's",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/linktech.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktech.zip",
+          "sourceList": "Web page: prog's/misc a-m",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/littlepunt.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/littlepunt.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/linktech.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/linktech.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/smiley/1433/littlepunt.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/smiley/1433/littlepunt.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/linktech.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/linktech.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "liquidfire-zip",
+      "name": "liquidfire.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/liquidfire.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidfire.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/liquidfire.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidfire.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/liquidfire.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidfire.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "liquidsoulbeta-zip",
+      "name": "liquidsoulbeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/liquidsoulbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidsoulbeta.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "littlemailpunt-zip",
+      "name": "littlemailpunt.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/littlemailpunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/littlemailpunt.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/littlemailpunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/littlemailpunt.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/dbz/shutdown/littlemailpunt.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dbz/shutdown/littlemailpunt.zip",
+          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -10435,6 +11952,87 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/extreme4/vbbreakdown/login.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme4/vbbreakdown/login.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "lustv1-zip",
+      "name": "lustv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lustv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lustv1.zip",
+          "sourceList": "Web page: prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/lustv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lustv1.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/lustv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lustv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "magictoolzfinal-zip",
+      "name": "magictoolzfinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/magictoolzfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/magictoolzfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolzfinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/magictoolzfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/magictoolzfinal.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "magnetic-zip",
+      "name": "magnetic.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/magnetic.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/magnetic.zip",
+          "sourceList": "Web page: prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/magnetic.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magnetic.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/magnetic.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magnetic.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -10497,6 +12095,87 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "mailerror-zip",
+      "name": "mailerror.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/mailerror.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/mailerror.zip",
+          "sourceList": "Web page: punter's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/mailerror.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mailerror.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/mailerror.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mailerror.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "marioonlinev5-zip",
+      "name": "marioonlinev5.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/marioonlinev5.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/marioonlinev5.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/marioonlinev5.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/marioonlinev5.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "mastafade-zip",
+      "name": "mastafade.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/mastafade.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/mastafade.zip",
+          "sourceList": "Web page: LensHell faders",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/mastafade.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mastafade.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/mastafade.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mastafade.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "methodus-exe",
       "name": "methodus.exe",
       "mirrors": [
@@ -10516,60 +12195,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.methodus2000.com/methodustoolz/methodus.exe",
           "waybackUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe",
           "sourceList": "Web page: Methodus Toolz downloads",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 3
-    },
-    {
-      "key": "methodus-zip",
-      "name": "methodus.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.oogle.net/downloads/progs/methodus.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
-          "sourceList": "Web page: prog's/misc a-m",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/methodus.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 3
-    },
-    {
-      "key": "micro-zip",
-      "name": "micro.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/micro.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/micro.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/de3/summerdreamz3/micro.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/de3/summerdreamz3/micro.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/crazy4/faded_illusions/downloads/fonts/micro.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/crazy4/faded_illusions/downloads/fonts/micro.zip",
-          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -10624,6 +12249,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/solarcity/224/bas/mmer402.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/solarcity/224/bas/mmer402.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "morbid-zip",
+      "name": "morbid.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/morbid.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/morbid.zip",
+          "sourceList": "Web page: prog's/misc a-m",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/morbid.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/morbid.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/morbid.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/morbid.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -10742,25 +12394,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "nuked-zip",
-      "name": "nuked.zip",
+      "key": "nfos-zip",
+      "name": "nfos.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/nuked.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/nuked.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
+          "sourceList": "Web page: other",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/nuked.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nuked.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
+          "sourceList": "Web page: other",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/nuked.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/nuked.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/other/nfos.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/other/nfos.zip",
+          "sourceList": "Web page: other",
           "status": "candidate"
         }
       ],
@@ -10769,25 +12421,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "oracle-zip",
-      "name": "oracle.zip",
+      "key": "npp-7-9-2-installer-exe",
+      "name": "npp.7.9.2.Installer.exe",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/oracle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/oracle.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://click-online2000.com/progz/oracle.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/oracle.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/oracle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/oracle.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -10823,25 +12475,79 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "phaze-zip",
-      "name": "phaze.zip",
+      "key": "paquin-zip",
+      "name": "paquin.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/phaze.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/phaze.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/paquin.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/paquin.zip",
           "sourceList": "Web page: c-coms",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/phaze.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/phaze.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/paquin.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/paquin.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/paquin.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/paquin.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "parasite-zip",
+      "name": "parasite.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/parasite.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/parasite.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/parasite.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/parasite.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/parasite.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/parasite.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "pelle-zip",
+      "name": "pelle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pelle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pelle.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/pelle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pelle.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/pelle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/pelle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -10877,25 +12583,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "platinum-zip",
-      "name": "platinum.zip",
+      "key": "pianda-zip",
+      "name": "pianda.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/platinum.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/platinum.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/platinum.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/platinum.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/pianda.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pianda.zip",
           "sourceList": "Web page: idler's",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/platinum.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/platinum.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/pianda.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pianda.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/pianda.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/pianda.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -10931,6 +12637,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "pride-zip",
+      "name": "pride.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pride.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pride.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/pride.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pride.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/pride.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/pride.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "processexplorernt-zip",
+      "name": "ProcessExplorerNt.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "professoraim3-zip",
       "name": "professoraim3.zip",
       "mirrors": [
@@ -10958,25 +12718,79 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "prophecy3-zip",
-      "name": "prophecy3.zip",
+      "key": "progee-zip",
+      "name": "progee.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/prophecy3.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/prophecy3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/progee.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip",
+          "sourceList": "Web page: punter's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/progee.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progee.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/progee.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progee.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "progzone-zip",
+      "name": "progzone.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/progzone.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/progzone.zip",
           "sourceList": "Web page: Aol 4.0/5.0 Progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/progzone.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progzone.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/progzone.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progzone.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "prophecy2k-zip",
+      "name": "prophecy2k.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/prophecy2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy2k.zip",
           "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/prophecy3.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/prophecy3.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/prophecy2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/prophecy2k.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/prophecy2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/prophecy2k.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11012,33 +12826,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "punjabiacid-zip",
-      "name": "punjabiacid.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://click-online2000.com/progz/punjabiacid.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/punjabiacid.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/punjabiacid.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punjabiacid.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 3
-    },
-    {
       "key": "puzzle-zip",
       "name": "puzzle.zip",
       "mirrors": [
@@ -11057,6 +12844,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.angelfire.com/gundam/hellwizard/roms/puzzle.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/gundam/hellwizard/roms/puzzle.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "pwlist-zip",
+      "name": "pwlist.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/pwlist.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/pwlist.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/pwlist.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/pwlist.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ultra/crackzone/files/pwlist.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ultra/crackzone/files/pwlist.zip",
           "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
@@ -11120,6 +12934,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "quick-zip",
+      "name": "quick.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/quick.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip",
+          "sourceList": "Web page: buster's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/quick.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/quick.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/quick.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/quick.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "rbg-zip",
+      "name": "rbg.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/rbg.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/rbg.zip",
+          "sourceList": "Web page: LensHell faders",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/rbg.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rbg.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/rbg.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rbg.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "regclean-zip",
       "name": "regclean.zip",
       "mirrors": [
@@ -11147,30 +13015,32 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "revolutionx-zip",
-      "name": "revolutionx.zip",
+      "key": "remoteidle-zip",
+      "name": "remoteidle.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/revolutionx.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/revolutionx.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/revolutionx.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/revolutionx.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/remoteidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/remoteidle.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/remoteidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/remoteidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/co2/fubudomain/remoteidle.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/co2/fubudomain/remoteidle.zip",
+          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/angelfire-com/remoteidle.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -11255,6 +13125,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "shade-zip",
+      "name": "shade.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/shade.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/shade.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/shade.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/shade.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/shade.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/shade.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "shells-zip",
       "name": "shells.zip",
       "mirrors": [
@@ -11309,6 +13206,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "simpletools-zip",
+      "name": "simpletools.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/simpletools.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/simpletools.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/simpletools.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/simpletools.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/simpletools.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/simpletools.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "sleepyhollow-zip",
+      "name": "sleepyhollow.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/downloads/progs/sleepyhollow.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sleepyhollow.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/sleepyhollow.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sleepyhollow.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/sleepyhollow.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sleepyhollow.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "slope-zip",
       "name": "slope.zip",
       "mirrors": [
@@ -11336,6 +13287,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "snoopidle-zip",
+      "name": "snoopidle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/snoopidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/snoopidle.zip",
+          "sourceList": "Web page: idler's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/snoopidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/snoopidle.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/snoopidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/snoopidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "solar-zip",
       "name": "solar.zip",
       "mirrors": [
@@ -11355,6 +13333,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ego/ozzydomain/progs/solar.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/ozzydomain/progs/solar.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "sonicgold-zip",
+      "name": "sonicgold.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/sonicgold.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sonicgold.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/sonicgold.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sonicgold.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://click-online2000.com/progz/sonicgold.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/sonicgold.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
           "status": "candidate"
         }
       ],
@@ -11392,25 +13397,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "speedy-zip",
-      "name": "speedy.zip",
+      "key": "sphere-zip",
+      "name": "sphere.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/speedy.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/speedy.zip",
-          "sourceList": "Web page: idler's",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/sphere.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sphere.zip",
+          "sourceList": "Web page: c-coms",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/speedy.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/speedy.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/sphere.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sphere.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/188/Inverted/speedy.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/Inverted/speedy.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/sphere.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sphere.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11531,6 +13536,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "sti-zip",
+      "name": "sti.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/sti.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/sti.zip",
+          "sourceList": "Web page: idler's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/sti.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sti.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/sti.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sti.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "summer-zip",
       "name": "summer.zip",
       "mirrors": [
@@ -11550,6 +13582,60 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/solaris/1146/Themes/HighSummer/summer.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/solaris/1146/Themes/HighSummer/summer.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "super-zip",
+      "name": "super.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/super.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/super.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/sk3/darkemulation2/programme/super.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/sk3/darkemulation2/programme/super.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "surface-zip",
+      "name": "surface.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/surface.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/surface.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/surface.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/surface.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/surface.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/surface.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11639,25 +13725,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "techno-zip",
-      "name": "Techno.zip",
+      "key": "tacobell-zip",
+      "name": "tacobell.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/Techno.zip",
-          "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip",
-          "sourceList": "Web page: Free Layouts",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/techno.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/techno.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tacobell.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tacobell.zip",
           "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/techno.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/techno.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/tacobell.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tacobell.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/tacobell.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tacobell.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11747,25 +13833,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "thorn-zip",
-      "name": "thorn.zip",
+      "key": "theurge-zip",
+      "name": "theurge.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/thorn.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/thorn.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/theurge.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/theurge.zip",
           "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/thorn.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thorn.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/theurge.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/theurge.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/theurge.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/theurge.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11793,6 +13879,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/cray/608/visualbasics/vbx/threed.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cray/608/visualbasics/vbx/threed.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "tidle-zip",
+      "name": "tidle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/tidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tidle.zip",
+          "sourceList": "Web page: idler's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/tidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tidle.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/tidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11855,25 +13968,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "tortuga-zip",
-      "name": "tortuga.zip",
+      "key": "tortuga3-zip",
+      "name": "tortuga3.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tortuga.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tortuga.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://www.oogle.net/downloads/progs/tortuga3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/tortuga3.zip",
+          "sourceList": "Web page: Aol 4.0/5.0 Progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://click-online2000.com/progz/tortuga.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/tortuga.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/tortuga.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tortuga.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/tortuga3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tortuga3.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/tortuga3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tortuga3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11909,25 +14022,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "trini-zip",
-      "name": "trini.zip",
+      "key": "trance-zip",
+      "name": "trance.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/trini.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/trini.zip",
-          "sourceList": "Web page: LensHell faders",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/trance.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/trance.zip",
+          "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/trini.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/trini.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/trance.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/trance.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/pa3/frankweb1/zip/fade/trini.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pa3/frankweb1/zip/fade/trini.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/trance.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/trance.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -11955,6 +14068,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/1192/software/tweakui.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/1192/software/tweakui.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "tweakuipowertoysetup-exe",
+      "name": "TweakUiPowertoySetup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -12017,6 +14157,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "ultralinker-zip",
+      "name": "ultralinker.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/ultralinker.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/ultralinker.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/ultralinker.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/ultralinker.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/art/planb/progs/ultralinker.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/art/planb/progs/ultralinker.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "units-zip",
       "name": "Units.zip",
       "mirrors": [
@@ -12044,25 +14211,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "vampire-zip",
-      "name": "vampire.zip",
+      "key": "v11-zip",
+      "name": "v11.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/vampire.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/vampire.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/v11.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/v11.zip",
+          "sourceList": "Web page: c-coms",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/vampire.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/vampire.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/v11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/v11.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/188/SuspendedSingleRail/vampire.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/SuspendedSingleRail/vampire.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/v11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/v11.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -12181,25 +14348,106 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "wb2-zip",
-      "name": "wb2.zip",
+      "key": "wicca-zip",
+      "name": "wicca.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/wb2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/wb2.zip",
-          "sourceList": "Web page: c-coms",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wicca.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wicca.zip",
+          "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://click-online2000.com/progz/wb2.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/wb2.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/wb2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wb2.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/wicca.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wicca.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/wicca.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wicca.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "wild-zip",
+      "name": "wild.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wild.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip",
+          "sourceList": "Web page: prog's/misc n-z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/wild.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wild.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/wild.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wild.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "wincdemu-4-1-exe",
+      "name": "WinCDEmu-4.1.exe",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "winhex-zip",
+      "name": "winhex.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
+          "sourceList": "Web page: oldscool_windows_tools",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip",
+          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -12318,25 +14566,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "x2x-zip",
-      "name": "x2x.zip",
+      "key": "wtf4-zip",
+      "name": "wtf4.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/x2x.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/x2x.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wtf4.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wtf4.zip",
+          "sourceList": "Web page: prog's/misc n-z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/x2x.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/x2x.zip",
-          "sourceList": "Web page: x'ers",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/x2x.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/x2x.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/wtf4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wtf4.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/wtf4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wtf4.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -12399,6 +14647,33 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "y2k-zip",
+      "name": "y2k.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://click-online2000.com/progz/y2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/y2k.zip",
+          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/y2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/y2k.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/y2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/y2k.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
       "key": "ycracker2-zip",
       "name": "ycracker2.zip",
       "mirrors": [
@@ -12426,25 +14701,25 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "yoyov2-zip",
-      "name": "yoyov2.zip",
+      "key": "yuryignore-zip",
+      "name": "yuryignore.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/yoyov2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/yoyov2.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/yuryignore.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/yuryignore.zip",
+          "sourceList": "Web page: x'ers",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/yoyov2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/yoyov2.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/yoyov2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/yoyov2.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/yuryignore.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/yuryignore.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/yuryignore.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/yuryignore.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -12472,33 +14747,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/macro/170/roms/nes/zelda.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/macro/170/roms/nes/zelda.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 3
-    },
-    {
-      "key": "zerolimits4-zip",
-      "name": "zerolimits4.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/zerolimits4.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/zerolimits4.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://click-online2000.com/progz/ZeroLimits4.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/ZeroLimits4.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/zerolimits4.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/zerolimits4.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -12757,27 +15005,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/headroom/31/mavot/6.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/headroom/31/mavot/6.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "7z2107-exe",
-      "name": "7z2107.exe",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/7z2107.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -13122,19 +15349,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aim187-zip",
-      "name": "aim187.zip",
+      "key": "aicrackse2-zip",
+      "name": "aicrackse2.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/aim187.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/aim187.zip",
-          "sourceList": "Web page: Oogle AIM progs",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
+          "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aim187.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aim187.zip",
-          "sourceList": "Web page: AIM",
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
+          "sourceList": "Web page: Aim Crackers",
           "status": "candidate"
         }
       ],
@@ -13164,6 +15391,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aim3k-zip",
+      "name": "aim3k.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aim3k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aim3k.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aim3k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aim3k.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "aim44-zip",
       "name": "aim44.zip",
       "mirrors": [
@@ -13177,6 +15425,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.dnx-online.net/~acp/downloads/AIM44.zip",
           "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/AIM44.zip",
           "sourceList": "User-supplied DNX ACP downloads",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimabominationv2-zip",
+      "name": "aimabominationv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimabominationv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimabominationv2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimabominationv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimabominationv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimadvlanchev21-zip",
+      "name": "aimadvlanchev21.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimadvlanchev21.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimadvlanchev21.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimadvlanchev21.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimadvlanchev21.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13206,19 +15496,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimaimchattoolz-zip",
-      "name": "aimaimchattoolz.zip",
+      "key": "aimaimhell2000v3-zip",
+      "name": "aimaimhell2000v3.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimhell2000v3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimhell2000v3.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimchattoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimchattoolz.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/aimaimhell2000v3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimhell2000v3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13227,19 +15517,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimaimonice38-zip",
-      "name": "aimaimonice38.zip",
+      "key": "aimaimhellfinal-zip",
+      "name": "aimaimhellfinal.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimonice38.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimonice38.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimhellfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimhellfinal.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimonice38.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimonice38.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/aimaimhellfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimhellfinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13248,18 +15538,144 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimaimprog-zip",
-      "name": "aimaimprog.zip",
+      "key": "aimaimlag-zip",
+      "name": "aimaimlag.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimprog.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimprog.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimlag.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimlag.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ult/netcrashxx/aimaimprog.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ult/netcrashxx/aimaimprog.zip",
+          "originalUrl": "http://24.185.191.87/progz/aimaimlag.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimlag.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaimsiv1-zip",
+      "name": "aimaimsiv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimsiv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimsiv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimsiv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimsiv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaimtizank-zip",
+      "name": "aimaimtizank.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimtizank.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimtizank.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimtizank.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimtizank.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaimutopia-zip",
+      "name": "aimaimutopia.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimutopia.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopia.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimutopia.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimutopia.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaimutopiav2-zip",
+      "name": "aimaimutopiav2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutopiav2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimutopiav2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimutopiav2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaimworks-zip",
+      "name": "aimaimworks.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimworks.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimworks.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaimworks.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimworks.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimamp-zip",
+      "name": "AimAmp.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/AimAmp.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AimAmp.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ak5/darkmessenger/files/aimamp.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ak5/darkmessenger/files/aimamp.zip",
           "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
@@ -13269,19 +15685,82 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimaimutils1-zip",
-      "name": "aimaimutils1.zip",
+      "key": "aimaoanarchistutilities-zip",
+      "name": "aimaoanarchistutilities.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimutils1.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimutils1.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaoanarchistutilities.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaoanarchistutilities.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimaimutils1.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimaimutils1.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/aimaoanarchistutilities.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaoanarchistutilities.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimarmorv3-zip",
+      "name": "aimarmorv3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimarmorv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimarmorv3.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimarmorv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimarmorv3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimassimilation-zip",
+      "name": "aimassimilation.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimassimilation.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimassimilation.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimassimilation.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimassimilation.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimaztopdawg-zip",
+      "name": "aimaztopdawg.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimaztopdawg.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaztopdawg.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimaztopdawg.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaztopdawg.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13311,19 +15790,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimblackoutbeta-zip",
-      "name": "aimblackoutbeta.zip",
+      "key": "aimbloodaimtoolz-zip",
+      "name": "aimbloodaimtoolz.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimblackoutbeta.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbloodaimtoolz.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ia2/godzhor5/images/aimblackoutbeta.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ia2/godzhor5/images/aimblackoutbeta.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/aimbloodaimtoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbloodaimtoolz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13332,19 +15811,82 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimbluefire2-zip",
-      "name": "aimbluefire2.zip",
+      "key": "aimbloodbathv1-zip",
+      "name": "aimbloodbathv1.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbluefire2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbluefire2.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbloodbathv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbloodbathv1.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ego/gray/aim/aimbluefire2.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/aimbluefire2.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/aimbloodbathv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbloodbathv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimblueeclipse-zip",
+      "name": "aimblueeclipse.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimblueeclipse.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimblueeclipse.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimblueeclipse.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimblueeclipse.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimboss14-zip",
+      "name": "aimboss14.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimbuddybomb-zip",
+      "name": "aimbuddybomb.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbuddybomb.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbuddybomb.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbuddybomb.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbuddybomb.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13374,19 +15916,315 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimburningaimv1-zip",
-      "name": "aimburningaimv1.zip",
+      "key": "aimburningaimtoolzv20-zip",
+      "name": "aimburningaimtoolzv20.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimv1.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimv1.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ego/gray/aim/aimburningaimv1.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/aimburningaimv1.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/aimburningaimtoolzv20.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimtoolzv20.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimburningaimtoolzv25-zip",
+      "name": "aimburningaimtoolzv25.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv25.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimburningaimtoolzv25.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimtoolzv25.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimburningaimtoolzv30-zip",
+      "name": "aimburningaimtoolzv30.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimburningaimtoolzv30.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimburningaimtoolzv30.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimburningaimtoolzv30.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimbyrdfaderpro-zip",
+      "name": "aimbyrdfaderpro.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbyrdfaderpro.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbyrdfaderpro.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbyrdfaderpro.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbyrdfaderpro.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimbyrdtoolz45-zip",
+      "name": "aimbyrdtoolz45.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbyrdtoolz45.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbyrdtoolz45.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbyrdtoolz45.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbyrdtoolz45.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimbyrdtoolzv11-zip",
+      "name": "aimbyrdtoolzv11.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbyrdtoolzv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbyrdtoolzv11.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbyrdtoolzv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbyrdtoolzv11.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimbyrdtoolzv23-zip",
+      "name": "aimbyrdtoolzv23.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbyrdtoolzv23.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbyrdtoolzv23.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbyrdtoolzv23.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbyrdtoolzv23.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimbyrdtoolzv4-zip",
+      "name": "aimbyrdtoolzv4.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimbyrdtoolzv4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimbyrdtoolzv4.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimbyrdtoolzv4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimbyrdtoolzv4.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimcausticfinal-zip",
+      "name": "aimcausticfinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimcausticfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcausticfinal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimcausticfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcausticfinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimcautionantibooter-zip",
+      "name": "aimcautionantibooter.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimcautionantibooter.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcautionantibooter.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimcautionantibooter.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcautionantibooter.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimchange-exe",
+      "name": "aimchange.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/aimchange.exe",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimchange.exe",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimfilez.com/files/aimChange.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimChange.exe",
+          "sourceList": "Web page: AIMFilez files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/aimfilez-com/aimchange-d83f8223.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimchattoolz2-zip",
+      "name": "aimchattoolz2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimchattoolz2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimchattoolz2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimchattoolz2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimchattoolz2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimchemicaltendanciesv2-zip",
+      "name": "aimchemicaltendanciesv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimchemicaltendanciesv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimchemicaltendanciesv2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimchemicaltendanciesv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimchemicaltendanciesv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimcia2000-zip",
+      "name": "aimcia2000.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimcia2000.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcia2000.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimcia2000.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcia2000.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimcia99-zip",
+      "name": "aimcia99.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimcia99.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcia99.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimcia99.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcia99.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13408,6 +16246,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/nc3/acydice5371/aimcloner.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/nc3/acydice5371/aimcloner.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimcrcv1-zip",
+      "name": "aimcrcv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimcrcv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimcrcv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimcrcv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimcrcv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13462,19 +16321,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimdoom-zip",
-      "name": "aimdoom.zip",
+      "key": "aimdarktoolzv1-zip",
+      "name": "aimdarktoolzv1.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdoom.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdoom.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ego/gray/aim/aimdoom.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/aim/aimdoom.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/aimdarktoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdarktoolzv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13483,19 +16342,271 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimempyriefinal-zip",
-      "name": "aimempyriefinal.zip",
+      "key": "aimdeadaim-zip",
+      "name": "aimdeadaim.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimempyriefinal.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimempyriefinal.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdeadaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdeadaim.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ia2/godzhor5/images/aimempyriefinal.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ia2/godzhor5/images/aimempyriefinal.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/aimdeadaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdeadaim.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimdeadendtoolz-zip",
+      "name": "aimdeadendtoolz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdeadendtoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdeadendtoolz.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdeadendtoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdeadendtoolz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimdemolishingaim-zip",
+      "name": "aimdemolishingaim.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdemolishingaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdemolishingaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimdemolishingaim20-zip",
+      "name": "aimdemolishingaim20.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdemolishingaim20.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim20.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimdestroyaim-zip",
+      "name": "aimdestroyaim.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdestroyaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdestroyaim.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdestroyaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdestroyaim.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimdistortion2-zip",
+      "name": "aimdistortion2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdistortion2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdistortion2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdistortion2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdistortion2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimdistortionfinal-zip",
+      "name": "aimdistortionfinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimdistortionfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdistortionfinal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimdistortionfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdistortionfinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimendlesscommandsv1-zip",
+      "name": "aimendlesscommandsv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimendlesscommandsv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimendlesscommandsv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimerozionbeta-zip",
+      "name": "aimerozionbeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimerozionbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimerozionbeta.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimerozionbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimerozionbeta.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimeternaldarkness-zip",
+      "name": "aimeternaldarkness.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimeternaldarkness.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimeternaldarkness.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimeternaldarkness.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimeternaldarkness.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimevilaim-zip",
+      "name": "aimevilaim.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimevilaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimevilaim.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimevilaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimevilaim.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimevolutionv1-zip",
+      "name": "aimevolutionv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimevolutionv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimevolutionv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimevolutionv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimevolutionv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimexploit-zip",
+      "name": "aimexploit.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/aimexploit.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimexploit.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
+          "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         }
       ],
@@ -13527,6 +16638,281 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aimfatboy-zip",
+      "name": "aimfatboy.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimfatboy.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfatboy.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimfatboy.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimfatboy.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimflashv10-zip",
+      "name": "aimflashv10.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimflashv10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimflashv10.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimflashv10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflashv10.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimflooder-zip",
+      "name": "aimflooder.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimflooder.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimflooder.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimflooder.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflooder.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimforge-zip",
+      "name": "aimforge.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/aimforge.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimforge.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/alt2/papers/progs/aimforge.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/alt2/papers/progs/aimforge.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimfudotoolz-zip",
+      "name": "aimfudotoolz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimfudotoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfudotoolz.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimfudotoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimfudotoolz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimfuryaim-zip",
+      "name": "aimfuryaim.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimfuryaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaim.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimfuryaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimfuryaim.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimfuryaimtoolzv33-zip",
+      "name": "aimfuryaimtoolzv33.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimfuryaimtoolzv33.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimfuryaimtoolzv33.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimfuryaimtoolzv33.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimgenocidalrage-zip",
+      "name": "aimgenocidalrage.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimgenocidalrage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimgenocidalrage.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimgenocidalrage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimgenocidalrage.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimglockv1-zip",
+      "name": "aimglockv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimglockv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimglockv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimglockv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimglockv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimhallucination10-zip",
+      "name": "aimhallucination10.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimhallucination10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimhallucination10.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimhallucination10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimhallucination10.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimhappyprogv2-zip",
+      "name": "aimhappyprogv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimhappyprogv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimhappyprogv2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimhappyprogv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimhappyprogv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimhippietoolzv20-zip",
+      "name": "aimhippietoolzv20.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimhippietoolzv20.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimhippietoolzv20.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimhippietoolzv20.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimhippietoolzv20.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimiconedit-exe",
+      "name": "aimiconedit.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.customiconz.com/aimiconedit.exe",
+          "waybackUrl": "https://web.archive.org/web/20030801073233/http://www.customiconz.com/aimiconedit.exe",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimfilez.com/files/AIMIconEdit.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AIMIconEdit.exe",
+          "sourceList": "Web page: 8",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/aimfilez-com/aimiconedit-3488d8b8.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "aimicons-zip",
       "name": "aimicons.zip",
       "mirrors": [
@@ -13540,6 +16926,300 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/yt2/gamingh/aimicons.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/yt2/gamingh/aimicons.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimillusionzbeta-zip",
+      "name": "aimillusionzbeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimillusionzbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimillusionzbeta.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimillusionzbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimillusionzbeta.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimimpaler-zip",
+      "name": "aimimpaler.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimimpaler.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimimpaler.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimimpaler.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimimpaler.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aiminfinitybeta-zip",
+      "name": "aiminfinitybeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aiminfinitybeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aiminfinitybeta.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aiminfinitybeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aiminfinitybeta.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimip-zip",
+      "name": "Aimip.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/Aimip.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Aimip.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/punk3/hugewinky2/aimip.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/punk3/hugewinky2/aimip.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimiraqiannukev1-zip",
+      "name": "aimiraqiannukev1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimiraqiannukev1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimiraqiannukev1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimiraqiannukev1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimiraqiannukev1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimjesterx-zip",
+      "name": "aimjesterx.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimjesterx.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimjesterx.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimjesterx.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimjesterx.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimkaosaimpunterv3-zip",
+      "name": "aimkaosaimpunterv3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimkaosaimpunterv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimkaosaimpunterv3.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimkaosaimpunterv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimkaosaimpunterv3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimlamakilla-zip",
+      "name": "aimlamakilla.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimlamakilla.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimlamakilla.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimlamakilla.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimlamakilla.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimlightningaftershock-zip",
+      "name": "aimlightningaftershock.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimlightningaftershock.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimlightningaftershock.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimlightningaftershock.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimlightningaftershock.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimlightningv11-zip",
+      "name": "aimlightningv11.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimlightningv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimlightningv11.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimlightningv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimlightningv11.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimliquidwater-zip",
+      "name": "aimliquidwater.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimliquidwater.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimliquidwater.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimliquidwater.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimliquidwater.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimluxortoolzv21-zip",
+      "name": "aimluxortoolzv21.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimluxortoolzv21.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimluxortoolzv21.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimluxortoolzv21.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimluxortoolzv21.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimmadduxaim10-zip",
+      "name": "aimmadduxaim10.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmadduxaim10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmadduxaim10.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmadduxaim10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmadduxaim10.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimmafiafinal-zip",
+      "name": "aimmafiafinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmafiafinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmafiafinal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmafiafinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmafiafinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13569,19 +17249,229 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimmercy1-zip",
-      "name": "aimmercy1.zip",
+      "key": "aimmatrix-zip",
+      "name": "aimmatrix.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmercy1.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmercy1.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmatrix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmatrix.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/pa3/frankweb1/zip/icq/aimmercy1.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pa3/frankweb1/zip/icq/aimmercy1.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://24.185.191.87/progz/aimmatrix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmatrix.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimmeangreen-zip",
+      "name": "aimmeangreen.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmeangreen.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmeangreen.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmeangreen.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmeangreen.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimmeltedicev2-zip",
+      "name": "aimmeltedicev2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmeltedicev2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmeltedicev2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmeltedicev2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmeltedicev2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimmetallicaafterlife-zip",
+      "name": "aimmetallicaafterlife.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaafterlife.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmetallicaafterlife.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmetallicaafterlife.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimmetallicafinal-zip",
+      "name": "aimmetallicafinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicafinal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmetallicafinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmetallicafinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimmetallicaimmortal-zip",
+      "name": "aimmetallicaimmortal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmetallicaimmortal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimmetallicaimmortal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmetallicaimmortal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimnashsaimtoolzv2-zip",
+      "name": "aimnashsaimtoolzv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnashsaimtoolzv2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimnashsaimtoolzv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimnashsaimtoolzv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimnettooliezrevised-zip",
+      "name": "aimnettooliezrevised.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimnettooliezrevised.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnettooliezrevised.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimnettooliezrevised.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimnettooliezrevised.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimnirvanaaimtoolzv1-zip",
+      "name": "aimnirvanaaimtoolzv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnirvanaaimtoolzv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimnirvanaaimtoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimnirvanaaimtoolzv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimno2-zip",
+      "name": "aimno2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimno2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimno2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimno2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimno2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimnonstopscroll-zip",
+      "name": "aimnonstopscroll.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimnonstopscroll.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimnonstopscroll.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimnonstopscroll.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimnonstopscroll.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13603,6 +17493,111 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ult/netcrashxx/aimonfire.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ult/netcrashxx/aimonfire.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimoxygenbuildv11-zip",
+      "name": "aimoxygenbuildv11.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimoxygenbuildv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimoxygenbuildv11.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimoxygenbuildv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimoxygenbuildv11.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimpg13-zip",
+      "name": "aimpg13.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimpg13.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimpg13.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimpg13.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimpg13.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimphrozenphader-zip",
+      "name": "aimphrozenphader.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimphrozenphader.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimphrozenphader.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimphrozenphader.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimphrozenphader.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimphrozenrainv1-zip",
+      "name": "aimphrozenrainv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimphrozenrainv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimphrozenrainv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimphrozenrainv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimphrozenrainv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimphrozenrainv15-zip",
+      "name": "aimphrozenrainv15.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimphrozenrainv15.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimphrozenrainv15.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimphrozenrainv15.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimphrozenrainv15.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13653,6 +17648,300 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aimposerprog-zip",
+      "name": "aimposerprog.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimposerprog.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimposerprog.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimposerprog.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimposerprog.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimposfinal-zip",
+      "name": "aimposfinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimposfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimposfinal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimposfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimposfinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimpressurescramblerv10-zip",
+      "name": "aimpressurescramblerv10.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimpressurescramblerv10.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimpressurescramblerv10.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimprodigytoolzv1-zip",
+      "name": "aimprodigytoolzv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimprodigytoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimprodigytoolzv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimprodigytoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimprodigytoolzv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimprodigytoolzv25-zip",
+      "name": "aimprodigytoolzv25.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimprodigytoolzv25.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimprodigytoolzv25.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimprodigytoolzv25.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimprodigytoolzv25.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimprofessoraimv3-zip",
+      "name": "aimprofessoraimv3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimprofessoraimv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimprofessoraimv3.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimprofessoraimv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimprofessoraimv3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimproghavoksaimprog-zip",
+      "name": "aimproghavoksaimprog.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimproghavoksaimprog.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimprotozoav1-zip",
+      "name": "aimprotozoav1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimprotozoav1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimprotozoav1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimprotozoav1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimprotozoav1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimreflectionpunter-zip",
+      "name": "aimreflectionpunter.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimreflectionpunter.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimreflectionpunter.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimreflectionpunter.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimreflectionpunter.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimriinaimv11-zip",
+      "name": "aimriinaimv11.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimriinaimv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimriinaimv11.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimriinaimv11.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimriinaimv11.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimscrewball-zip",
+      "name": "aimscrewball.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimscrewball.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimscrewball.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimscrewball.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimscrewball.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimselectivegenocidev3-zip",
+      "name": "aimselectivegenocidev3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimselectivegenocidev3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimselectivegenocidev3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimsk8saimtoolzv21-zip",
+      "name": "aimsk8saimtoolzv21.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsk8saimtoolzv21.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimsk8saimtoolzv21.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsk8saimtoolzv21.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimsouthparkbeta-zip",
+      "name": "aimsouthparkbeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimsouthparkbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsouthparkbeta.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimsouthparkbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsouthparkbeta.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "aimspam-zip",
       "name": "aimspam.zip",
       "mirrors": [
@@ -13666,6 +17955,153 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/sql/1591/aimspam.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/sql/1591/aimspam.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimstaticxv2-zip",
+      "name": "aimstaticxv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimstaticxv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimstaticxv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimstevesaimprogeev2-zip",
+      "name": "aimstevesaimprogeev2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimstevesaimprogeev2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimsuperaim-zip",
+      "name": "aimsuperaim.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimsuperaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsuperaim.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimsynapse-zip",
+      "name": "aimsynapse.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimsynapse.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsynapse.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimsynapse.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsynapse.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimt2-zip",
+      "name": "aimt2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimt2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimt2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimt2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimt2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimtargettoolz-zip",
+      "name": "aimtargettoolz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimtargettoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimtargettoolz.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimtargettoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimtargettoolz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimtortureraizer-zip",
+      "name": "aimtortureraizer.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimtortureraizer.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimtortureraizer.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimtortureraizer.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimtortureraizer.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13695,19 +18131,145 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "aimzer0-zip",
-      "name": "aimzer0.zip",
+      "key": "aimturpentinerevisitedv1-zip",
+      "name": "aimturpentinerevisitedv1.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimzer0.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimzer0.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimturpentinerevisitedv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimturpentinerevisitedv1.zip",
           "sourceList": "Web page: AIM",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/aimzer0.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/aimzer0.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/aimturpentinerevisitedv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimturpentinerevisitedv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimunsakredfinal-zip",
+      "name": "aimunsakredfinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimunsakredfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimunsakredfinal.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimunsakredv2-zip",
+      "name": "aimunsakredv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimunsakredv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimunsakredv2.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimunsakredv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimunsakredv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimutils1-zip",
+      "name": "aimutils1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimutils1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimutils1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimutils1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimutils1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimvenomv5-zip",
+      "name": "aimvenomv5.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimvenomv5.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimvenomv5.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimvenomv5.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimvenomv5.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimxtoolzv1-zip",
+      "name": "aimxtoolzv1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimxtoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimxtoolzv1.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimxtoolzv1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimxtoolzv1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "aimzonefirev13-zip",
+      "name": "aimzonefirev13.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimzonefirev13.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimzonefirev13.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/aimzonefirev13.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimzonefirev13.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -13842,6 +18404,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "am-zip",
+      "name": "AM.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/AM/AM.zip",
+          "waybackUrl": "http://am.net/lib/TOOLS/AM/AM.zip",
+          "sourceList": "Web page: AM/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/email/1936/archivos/apuntes/am.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/email/1936/archivos/apuntes/am.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "amazing-zip",
       "name": "amazing.zip",
       "mirrors": [
@@ -13900,8 +18483,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/andone-3a0e43d6.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -14047,8 +18632,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/aocoms-85648694.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -14086,27 +18673,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ego/gray/files/aol25.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/gray/files/aol25.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "aol4free2-6v4-sit",
-      "name": "AOL4FREE2.6v4.sit",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "sourceList": "Web page: AOL4Free v4",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
-          "sourceList": "Web page: AOL4Free v4",
           "status": "candidate"
         }
       ],
@@ -14388,6 +18954,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "asub-exe",
+      "name": "Asub.EXE",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/Asub.EXE",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Asub.EXE",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimfilez.com/files/Asub.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/Asub.exe",
+          "sourceList": "Web page: 6",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/aimfilez-com/asub-1abf2bf0.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "athena-zip",
       "name": "athena.zip",
       "mirrors": [
@@ -14487,27 +19076,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.cybernyse.com/autolink.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/autolink.zip",
           "sourceList": "Web page: Progs Section 1",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "autoruns-exe",
-      "name": "autoruns.exe",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/autoruns.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -15167,6 +19735,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "buddykill-zip",
+      "name": "buddykill.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/buddykill.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/buddykill.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/buddykill.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "buffied-zip",
       "name": "buffied.zip",
       "mirrors": [
@@ -15482,27 +20071,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "charmap-exe",
-      "name": "CHARMAP.EXE",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/CHARMAP.EXE",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "chat-greets-zip",
       "name": "chat_greets.zip",
       "mirrors": [
@@ -15734,27 +20302,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "chatspam-zip",
-      "name": "chatspam.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
-          "sourceList": "Web page: prog's/misc a-m",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip",
-          "sourceList": "Web page: LensHell AIM progs",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "cheats-battlearenatoshiden-zip",
       "name": "cheats-battlearenatoshiden.zip",
       "mirrors": [
@@ -15915,6 +20462,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/cray/608/visualbasics/vbx/cmdialog.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cray/608/visualbasics/vbx/cmdialog.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "cnt223-zip",
+      "name": "cnt223.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/cnt223.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/cnt223.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cnt223.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/cnt223.zip",
+          "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         }
       ],
@@ -16394,6 +20962,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "crackex-zip",
+      "name": "crackex.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackex.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackex.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/crackex.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/crackex.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "cracking-zip",
       "name": "cracking.zip",
       "mirrors": [
@@ -16478,6 +21067,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "crackofdawn-zip",
+      "name": "crackofdawn.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackofdawn.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackofdawn.zip",
+          "sourceList": "Web page: cracker's",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackofdawn.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackofdawn.zip",
+          "sourceList": "Web page: Aim Crackers",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "cracksource-zip",
       "name": "cracksource.zip",
       "mirrors": [
@@ -16496,29 +21106,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/cracksource.zip"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 2
-    },
-    {
-      "key": "crackwhore-zip",
-      "name": "crackwhore.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.angelfire.com/ego/lost_silence/crackwhore.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ego2/evilden/crackwhore.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ego2/evilden/crackwhore.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/angelfire-com/crackwhore.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 2
@@ -18189,6 +22776,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "fbimage-zip",
+      "name": "fbimage.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/fbimage.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/fbimage.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/realm2/aimprankznstuff/fbimage.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/realm2/aimprankznstuff/fbimage.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "fed-zip",
       "name": "fed.zip",
       "mirrors": [
@@ -18244,6 +22852,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/headroom/344/ff/FF3.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/headroom/344/ff/FF3.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "fiddler2setup-exe",
+      "name": "Fiddler2Setup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
+          "sourceList": "Web page: ..",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
+          "sourceList": "Web page: Microsoft/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "fiddler4setup-exe",
+      "name": "fiddler4setup.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
+          "sourceList": "Web page: Microsoft/",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
+          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
+          "sourceList": "Web page: ..",
           "status": "candidate"
         }
       ],
@@ -18503,6 +23153,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "formatsn-exe",
+      "name": "formatsn.exe",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/formatsn.exe",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/formatsn.exe",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimfilez.com/files/formatsn.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/formatsn.exe",
+          "sourceList": "Web page: 3",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/aimfilez-com/formatsn-ac427d25.exe"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -19154,10 +23827,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [
-        "files/external/click-online2000-com/gothic-e59e9fc1.zip"
-      ],
-      "readyCount": 1,
+      "localFiles": [],
+      "readyCount": 0,
       "totalMirrors": 2
     },
     {
@@ -19986,6 +24657,69 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "icqicqzap-zip",
+      "name": "icqicqzap.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/icqicqzap.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/icqicqzap.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/icqicqzap.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/icqicqzap.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "icqinvinsible-zip",
+      "name": "icqinvinsible.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/icqinvinsible.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/icqinvinsible.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/icqinvinsible.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/icqinvinsible.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "icqwebaware-zip",
+      "name": "icqwebaware.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/icqwebaware.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/icqwebaware.zip",
+          "sourceList": "Web page: AIM",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/icqwebaware.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/icqwebaware.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "idle-zip",
       "name": "idle.zip",
       "mirrors": [
@@ -20106,6 +24840,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/home/limitless2002/javaappletxp/03/imagefader.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/home/limitless2002/javaappletxp/03/imagefader.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "imagescroll-zip",
+      "name": "imagescroll.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/imagescroll.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/imagescroll.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/imagescroll.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/imagescroll.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -20534,6 +25289,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "juvenile-zip",
+      "name": "juvenile.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/juvenile.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/juvenile.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/juvenile.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/juvenile.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "kajone-zip",
       "name": "kajone.zip",
       "mirrors": [
@@ -20723,19 +25499,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "lastresort-zip",
-      "name": "lastresort.zip",
+      "key": "lastdon-zip",
+      "name": "lastdon.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lastresort.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lastresort.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/lastdon.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lastdon.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/lastresort.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lastresort.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/lastdon.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lastdon.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -20870,19 +25646,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "lightningtoolz70-zip",
-      "name": "lightningtoolz70.zip",
+      "key": "light-zip",
+      "name": "light.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/lightningtoolz70.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lightningtoolz70.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/light.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/light.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/lightningtoolz70.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/lightningtoolz70.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "http://24.185.191.87/progz/light.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/light.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -20912,19 +25688,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "linktech-zip",
-      "name": "linktech.zip",
+      "key": "linkbeyond-zip",
+      "name": "linkbeyond.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/linktech.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktech.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/linkbeyond.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/linkbeyond.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/linktech.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/linktech.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/linkbeyond.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/linkbeyond.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -20933,19 +25709,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "liquidfire-zip",
-      "name": "liquidfire.zip",
+      "key": "linksender-zip",
+      "name": "linksender.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/liquidfire.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidfire.zip",
-          "sourceList": "Web page: c-coms",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/linksender.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/linksender.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/liquidfire.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidfire.zip",
+          "originalUrl": "http://24.185.191.87/progz/linksender.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/linksender.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "linksender2-zip",
+      "name": "linksender2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/linksender2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/linksender2.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/linksender2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/linksender2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -20966,48 +25763,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.angelfire.com/clone/irnbadboy/programs/boots/booters/liquidfreeze.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/irnbadboy/programs/boots/booters/liquidfreeze.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "liquidsoulbeta-zip",
-      "name": "liquidsoulbeta.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "littlemailpunt-zip",
-      "name": "littlemailpunt.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/littlemailpunt.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/littlemailpunt.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/dbz/shutdown/littlemailpunt.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dbz/shutdown/littlemailpunt.zip",
           "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
@@ -21101,19 +25856,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "lustv1-zip",
-      "name": "lustv1.zip",
+      "key": "lurker-zip",
+      "name": "lurker.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lustv1.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lustv1.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/lurker.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lurker.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/lustv1.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lustv1.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/lurker.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lurker.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -21135,6 +25890,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ab7/www.ptroberts.com/lvbuttons.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ab7/www.ptroberts.com/lvbuttons.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "macabre-zip",
+      "name": "macabre.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/macabre.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/macabre.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/macabre.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/macabre.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "macabrephoenix-zip",
+      "name": "macabrephoenix.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/macabrephoenix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/macabrephoenix.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/macabrephoenix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/macabrephoenix.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -21206,6 +26003,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "madhazard3-zip",
+      "name": "madhazard3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/madhazard3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/madhazard3.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/madhazard3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/madhazard3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "magic-zip",
       "name": "magic.zip",
       "mirrors": [
@@ -21219,69 +26037,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://click-online2000.com/progz/magic.zip",
           "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/magic.zip",
           "sourceList": "Web page: Click-Online AOL 4/5 progz",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "magictoolzfinal-zip",
-      "name": "magictoolzfinal.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/magictoolzfinal.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/resedit/1428/magictoolzfinal.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/resedit/1428/magictoolzfinal.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "magnetic-zip",
-      "name": "magnetic.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/magnetic.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/magnetic.zip",
-          "sourceList": "Web page: prog's/misc a-m",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/magnetic.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magnetic.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "mailerror-zip",
-      "name": "mailerror.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/mailerror.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/mailerror.zip",
-          "sourceList": "Web page: punter's",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/mailerror.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mailerror.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -21311,19 +26066,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "marioonlinev5-zip",
-      "name": "marioonlinev5.zip",
+      "key": "mario3-zip",
+      "name": "mario3.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/marioonlinev5.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/mario3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario3.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/marioonlinev5.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/mario3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mario3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -21332,19 +26087,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "mastafade-zip",
-      "name": "mastafade.zip",
+      "key": "mario4-zip",
+      "name": "mario4.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/mastafade.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/mastafade.zip",
-          "sourceList": "Web page: LensHell faders",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/mario4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario4.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/mastafade.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mastafade.zip",
+          "originalUrl": "http://24.185.191.87/progz/mario4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mario4.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "mastaidle-zip",
+      "name": "mastaidle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/mastaidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mastaidle.zip",
           "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/mastaidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mastaidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -21794,27 +26570,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "morbid-zip",
-      "name": "morbid.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/morbid.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/morbid.zip",
-          "sourceList": "Web page: prog's/misc a-m",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/morbid.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/morbid.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "morpheus-zip",
       "name": "morpheus.zip",
       "mirrors": [
@@ -21836,6 +26591,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "morphex-zip",
+      "name": "morphex.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/morphex.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/morphex.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/morphex.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/morphex.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "move-zip",
       "name": "move.zip",
       "mirrors": [
@@ -21849,6 +26625,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/extreme4/vbbreakdown/move.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme4/vbbreakdown/move.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "mp3mpd-zip",
+      "name": "mp3mpd.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/mp3mpd.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mp3mpd.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/mp3mpd.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mp3mpd.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -22053,6 +26850,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "n1assist-zip",
+      "name": "n1assist.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/n1assist.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/n1assist.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/n1assist.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/n1assist.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "n2k-zip",
+      "name": "n2k.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/n2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/n2k.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/n2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/n2k.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "nc11nt-zip",
       "name": "nc11nt.zip",
       "mirrors": [
@@ -22129,6 +26968,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://progstation.hypermart.net/neology.zip",
           "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/neology.zip",
           "sourceList": "Web page: http://progstation.hypermart.net/",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "neonlight-zip",
+      "name": "neonlight.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/neonlight.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/neonlight.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/neonlight.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/neonlight.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -22247,19 +27107,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "nfos-zip",
-      "name": "nfos.zip",
+      "key": "nh2-zip",
+      "name": "nh2.zip",
       "mirrors": [
         {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/other/nfos.zip",
-          "sourceList": "Web page: other",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/nh2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/nh2.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/other/nfos.zip",
-          "sourceList": "Web page: other",
+          "originalUrl": "http://24.185.191.87/progz/nh2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/nh2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -22352,27 +27212,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "npp-7-9-2-installer-exe",
-      "name": "npp.7.9.2.Installer.exe",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/npp.7.9.2.Installer.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "nslock15vb5-ocx-zip",
       "name": "nslock15vb5.ocx.zip",
       "mirrors": [
@@ -22386,6 +27225,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ct3/botz/nslock15vb5.ocx.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ct3/botz/nslock15vb5.ocx.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "numberpwlists-zip",
+      "name": "numberpwlists.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/numberpwlists.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/numberpwlists.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/numberpwlists.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/numberpwlists.zip",
+          "sourceList": "Web page: Aim Crackers",
           "status": "candidate"
         }
       ],
@@ -22583,6 +27443,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "outlawzidler-zip",
+      "name": "outlawzidler.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/outlawzidler.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/outlawzidler.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/outlawzidler.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/outlawzidler.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "outrage-zip",
+      "name": "outrage.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/outrage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/outrage.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/outrage.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/outrage.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "overloader-zip",
       "name": "overloader.zip",
       "mirrors": [
@@ -22667,27 +27569,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "paquin-zip",
-      "name": "paquin.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/paquin.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/paquin.zip",
-          "sourceList": "Web page: c-coms",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/paquin.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/paquin.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "paranoid-zip",
       "name": "paranoid.zip",
       "mirrors": [
@@ -22709,19 +27590,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "parasite-zip",
-      "name": "parasite.zip",
+      "key": "parfin-zip",
+      "name": "parfin.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/parasite.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/parasite.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/parfin.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/parfin.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/parasite.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/parasite.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/parfin.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/parfin.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -22793,6 +27674,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "patrycidebetav1-zip",
+      "name": "patrycidebetav1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/patrycidebetav1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/patrycidebetav1.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/patrycidebetav1.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/patrycidebetav1.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "pc-fp2ku-zip",
       "name": "pc_fp2ku.zip",
       "mirrors": [
@@ -22856,19 +27758,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "pelle-zip",
-      "name": "pelle.zip",
+      "key": "pen0ridle-zip",
+      "name": "pen0ridle.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pelle.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pelle.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/pen0ridle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pen0ridle.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/pelle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pelle.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/pen0ridle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/pen0ridle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -22898,6 +27800,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "percent-zip",
+      "name": "percent.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/percent.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/percent.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/percent.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/percent.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "percnt2-zip",
       "name": "percnt2.zip",
       "mirrors": [
@@ -22919,6 +27842,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "pest-zip",
+      "name": "pest.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/pest.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pest.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/pest.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/pest.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "phantomscroll-zip",
       "name": "phantomscroll.zip",
       "mirrors": [
@@ -22932,6 +27876,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/scary/subliminalsin/zipz/phantomscroll.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scary/subliminalsin/zipz/phantomscroll.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "phishdatidle-zip",
+      "name": "phishdatidle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/phishdatidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/phishdatidle.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/phishdatidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/phishdatidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -22974,27 +27939,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/clone/irnbadboy/programs/ycpl/phrases.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/irnbadboy/programs/ycpl/phrases.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "pianda-zip",
-      "name": "pianda.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/pianda.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pianda.zip",
-          "sourceList": "Web page: idler's",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/pianda.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pianda.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -23100,6 +28044,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/dc2/maniak2005/manual/pnutzcracker.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/dc2/maniak2005/manual/pnutzcracker.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "poisonusv2-zip",
+      "name": "poisonusv2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/poisonusv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/poisonusv2.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/poisonusv2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/poisonusv2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -23257,27 +28222,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "pride-zip",
-      "name": "pride.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pride.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pride.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/pride.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pride.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "prime-zip",
       "name": "prime.zip",
       "mirrors": [
@@ -23291,27 +28235,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/apple/116/86_programs/math/prime.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/apple/116/86_programs/math/prime.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "processexplorernt-zip",
-      "name": "ProcessExplorerNt.zip",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip",
-          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -23362,19 +28285,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "progee-zip",
-      "name": "progee.zip",
+      "key": "progeechatfix-zip",
+      "name": "progeechatfix.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/progee.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip",
-          "sourceList": "Web page: punter's",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/progeechatfix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/progee.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progee.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/progeechatfix.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progeechatfix.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -23467,27 +28390,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "progzone-zip",
-      "name": "progzone.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.oogle.net/downloads/progs/progzone.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/progzone.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/progzone.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progzone.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "propernouns-zip",
       "name": "propernouns.zip",
       "mirrors": [
@@ -23501,27 +28403,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/clone/irnbadboy/programs/ycpl/propernouns.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/clone/irnbadboy/programs/ycpl/propernouns.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "prophecy2k-zip",
-      "name": "prophecy2k.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/prophecy2k.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy2k.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/prophecy2k.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/prophecy2k.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -23564,6 +28445,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/dns/1303/psp6crack.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dns/1303/psp6crack.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "psy2kscroller-zip",
+      "name": "psy2kscroller.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/psy2kscroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/psy2kscroller.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/psy2kscroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/psy2kscroller.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -23719,19 +28621,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "pwlist-zip",
-      "name": "pwlist.zip",
+      "key": "pwlist2-zip",
+      "name": "pwlist2.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/pwlist.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/pwlist.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/pwlist2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/pwlist2.zip",
           "sourceList": "Web page: LensHell AIM progs",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/ultra/crackzone/files/pwlist.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ultra/crackzone/files/pwlist.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/pwlist2.zip",
+          "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/pwlist2.zip",
+          "sourceList": "Web page: Aim Crackers",
           "status": "candidate"
         }
       ],
@@ -23774,27 +28676,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/memphis/809/progs/quake2.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/memphis/809/progs/quake2.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "quick-zip",
-      "name": "quick.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/quick.zip",
-          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip",
-          "sourceList": "Web page: buster's",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/quick.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/quick.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -23887,27 +28768,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "rbg-zip",
-      "name": "rbg.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/rbg.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/rbg.zip",
-          "sourceList": "Web page: LensHell faders",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/rbg.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rbg.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "rct-zip",
       "name": "rct.zip",
       "mirrors": [
@@ -23991,29 +28851,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "remoteidle-zip",
-      "name": "remoteidle.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/remoteidle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/remoteidle.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/co2/fubudomain/remoteidle.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/co2/fubudomain/remoteidle.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/angelfire-com/remoteidle.zip"
-      ],
-      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -24437,6 +29274,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "roomie-zip",
+      "name": "roomie.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/roomie.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/roomie.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/roomie.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/roomie.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "roomrandomizer-zip",
       "name": "roomrandomizer.zip",
       "mirrors": [
@@ -24560,6 +29418,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "saimsa-exe",
+      "name": "SAIMsa.EXE",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/SAIMsa.EXE",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/SAIMsa.EXE",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimfilez.com/files/SAIMsa.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/SAIMsa.exe",
+          "sourceList": "Web page: 5",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/aimfilez-com/saimsa-a4b4a517.exe"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -24821,27 +29702,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "shade-zip",
-      "name": "shade.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/shade.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/shade.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/shade.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/shade.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "shakethatbooty-zip",
       "name": "shakethatbooty.zip",
       "mirrors": [
@@ -24989,27 +29849,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "simpletools-zip",
-      "name": "simpletools.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/simpletools.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/simpletools.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/simpletools.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/simpletools.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "sin-zip",
       "name": "sin.zip",
       "mirrors": [
@@ -25115,19 +29954,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "sleepyhollow-zip",
-      "name": "sleepyhollow.zip",
+      "key": "sleep2-zip",
+      "name": "sleep2.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.oogle.net/downloads/progs/sleepyhollow.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/sleepyhollow.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/sleep2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sleep2.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/sleepyhollow.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sleepyhollow.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/sleep2.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sleep2.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -25241,24 +30080,26 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "snoopidle-zip",
-      "name": "snoopidle.zip",
+      "key": "sntrader-exe",
+      "name": "SNTrader.exe",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/snoopidle.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/snoopidle.zip",
-          "sourceList": "Web page: idler's",
+          "originalUrl": "http://aimthings.com/aimfilez/SNTrader.exe",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/SNTrader.exe",
+          "sourceList": "Web page: Aim Filez",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/snoopidle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/snoopidle.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://aimfilez.com/files/SNTrader.exe",
+          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/SNTrader.exe",
+          "sourceList": "Web page: 4",
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/aimfilez-com/sntrader-d9f71739.exe"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -25275,6 +30116,69 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/super2/stanwong/programs/socket.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/super2/stanwong/programs/socket.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "solarmp3-zip",
+      "name": "solarmp3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/solarmp3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarmp3.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/solarmp3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarmp3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "solarwindsbetav13-zip",
+      "name": "solarwindsbetav13.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/solarwindsbetav13.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "son-zip",
+      "name": "son.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/son.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/son.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/son.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/son.zip",
+          "sourceList": "Web page: Aim Filez",
           "status": "candidate"
         }
       ],
@@ -25325,19 +30229,61 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "sonicgold-zip",
-      "name": "sonicgold.zip",
+      "key": "sourcemacro-zip",
+      "name": "sourcemacro.zip",
       "mirrors": [
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/sonicgold.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sonicgold.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/sourcemacro.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/sourcemacro.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/SourceMacro.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/SourceMacro.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "sourcescroller-zip",
+      "name": "sourcescroller.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/sourcescroller.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/sourcescroller.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/games5/outwar14/sourcescroller.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/games5/outwar14/sourcescroller.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "spaz-zip",
+      "name": "spaz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/spaz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/spaz.zip",
           "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://click-online2000.com/progz/sonicgold.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/sonicgold.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
+          "originalUrl": "http://24.185.191.87/progz/spaz.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/spaz.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -25366,27 +30312,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         "files/external/angelfire-com/speedoptimizer-v1-5-crack.zip"
       ],
       "readyCount": 1,
-      "totalMirrors": 2
-    },
-    {
-      "key": "sphere-zip",
-      "name": "sphere.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/sphere.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sphere.zip",
-          "sourceList": "Web page: c-coms",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/sphere.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sphere.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
       "totalMirrors": 2
     },
     {
@@ -25560,6 +30485,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "stealer-zip",
+      "name": "stealer.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/stealer.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/stealer.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/stealer.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/stealer.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "stealitv2-zip",
       "name": "stealitv2.zip",
       "mirrors": [
@@ -25594,27 +30540,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/ma4/fonts22/steelfish.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ma4/fonts22/steelfish.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "sti-zip",
-      "name": "sti.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/sti.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/sti.zip",
-          "sourceList": "Web page: idler's",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/sti.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sti.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -25678,6 +30603,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/rsi/1/HTMLobj-159/Suicides_scroller_BeTa_v1.0.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/rsi/1/HTMLobj-159/Suicides_scroller_BeTa_v1.0.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "suicidle-zip",
+      "name": "suicidle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/suicidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/suicidle.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/suicidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/suicidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -25770,48 +30716,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "super-zip",
-      "name": "super.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/super.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/sk3/darkemulation2/programme/super.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/sk3/darkemulation2/programme/super.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "surface-zip",
-      "name": "surface.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/surface.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/surface.zip",
-          "sourceList": "Web page: c-coms",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/surface.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/surface.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "swarm-zip",
       "name": "swarm.zip",
       "mirrors": [
@@ -25825,6 +30729,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/pa3/frankweb1/zip/fade/swarm.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/pa3/frankweb1/zip/fade/swarm.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "swift2k-zip",
+      "name": "swift2k.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/swift2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/swift2k.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/swift2k.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/swift2k.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -25867,27 +30792,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/tables.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/apple/116/85_programs/math/tables.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "tacobell-zip",
-      "name": "tacobell.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tacobell.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tacobell.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/tacobell.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tacobell.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -26129,6 +31033,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "terranova7-zip",
+      "name": "terranova7.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/terranova7.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/terranova7.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/terranova7.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/terranova7.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "test-zip",
       "name": "test.zip",
       "mirrors": [
@@ -26171,6 +31096,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "thedynastysetup-zip",
+      "name": "thedynastysetup.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/thedynastysetup.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thedynastysetup.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/thedynastysetup.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thedynastysetup.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "theo-nutcrackers-zip",
       "name": "theo_nutcrackers.zip",
       "mirrors": [
@@ -26192,19 +31138,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "theurge-zip",
-      "name": "theurge.zip",
+      "key": "thermalidle-zip",
+      "name": "thermalidle.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/theurge.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/theurge.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/thermalidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thermalidle.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/theurge.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/theurge.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/thermalidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thermalidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -26289,27 +31235,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/mech/ti-83/83programs/tictatoe.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mech/ti-83/83programs/tictatoe.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "tidle-zip",
-      "name": "tidle.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/tidle.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tidle.zip",
-          "sourceList": "Web page: idler's",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/tidle.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tidle.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -26423,27 +31348,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "tortuga3-zip",
-      "name": "tortuga3.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.oogle.net/downloads/progs/tortuga3.zip",
-          "waybackUrl": "https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/tortuga3.zip",
-          "sourceList": "Web page: Aol 4.0/5.0 Progs",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/tortuga3.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tortuga3.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "toxicity-zip",
       "name": "toxicity.zip",
       "mirrors": [
@@ -26478,27 +31382,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/turpas3/tp3_progs.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/turpas3/tp3_progs.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "trance-zip",
-      "name": "trance.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/trance.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/trance.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/trance.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/trance.zip",
-          "sourceList": "Web page: Section 2",
           "status": "candidate"
         }
       ],
@@ -26570,27 +31453,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "tweakuipowertoysetup-exe",
-      "name": "TweakUiPowertoySetup.exe",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "typo-zip",
       "name": "typo.zip",
       "mirrors": [
@@ -26645,27 +31507,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.angelfire.com/sd/bigpages/images/ugotmail.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/sd/bigpages/images/ugotmail.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "ultralinker-zip",
-      "name": "ultralinker.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/ultralinker.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/ultralinker.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/art/planb/progs/ultralinker.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/art/planb/progs/ultralinker.zip",
           "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
@@ -26751,6 +31592,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/hiphop2/azzkicker/hacking/unixcracker.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/hiphop2/azzkicker/hacking/unixcracker.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "unknown4-zip",
+      "name": "unknown4.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/unknown4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/unknown4.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/unknown4.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/unknown4.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -26864,19 +31726,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "v11-zip",
-      "name": "v11.zip",
+      "key": "user-zip",
+      "name": "user.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/v11.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/v11.zip",
-          "sourceList": "Web page: c-coms",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/user.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/user.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/v11.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/v11.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/user.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/user.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -27308,6 +32170,48 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "vtechidle-zip",
+      "name": "vtechidle.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/vtechidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/vtechidle.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/vtechidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/vtechidle.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "warnrate-zip",
+      "name": "warnrate.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/warnrate.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/warnrate.zip",
+          "sourceList": "Web page: LensHell AIM progs",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://aimthings.com/aimfilez/warnrate.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/warnrate.zip",
+          "sourceList": "Web page: Aim Filez",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
       "key": "watermessager-zip",
       "name": "watermessager.zip",
       "mirrors": [
@@ -27413,40 +32317,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "wicca-zip",
-      "name": "wicca.zip",
+      "key": "wickeddestruction-zip",
+      "name": "wickeddestruction.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wicca.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wicca.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/wickeddestruction.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wickeddestruction.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/wicca.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wicca.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "wild-zip",
-      "name": "wild.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wild.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip",
-          "sourceList": "Web page: prog's/misc n-z",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/wild.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wild.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/wickeddestruction.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wickeddestruction.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -27489,27 +32372,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/photoshop/23/winamp.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/photoshop/23/winamp.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "wincdemu-4-1-exe",
-      "name": "WinCDEmu-4.1.exe",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe",
-          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -27573,27 +32435,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/solo/933/winhellraise.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/solo/933/winhellraise.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "winhex-zip",
-      "name": "winhex.zip",
-      "mirrors": [
-        {
-          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
-          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/winhex.zip",
-          "sourceList": "Web page: oldscool_windows_tools",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
-          "waybackUrl": "https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip",
-          "sourceList": "Web page: oldscool_windows_tools",
           "status": "candidate"
         }
       ],
@@ -27791,19 +32632,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "wtf4-zip",
-      "name": "wtf4.zip",
+      "key": "wwbmp3-zip",
+      "name": "wwbmp3.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wtf4.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wtf4.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/wwbmp3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wwbmp3.zip",
+          "sourceList": "Web page: Section 2",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/wtf4.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wtf4.zip",
-          "sourceList": "Web page: Section 2",
+          "originalUrl": "http://24.185.191.87/progz/wwbmp3.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wwbmp3.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -28022,27 +32863,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "y2k-zip",
-      "name": "y2k.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://click-online2000.com/progz/y2k.zip",
-          "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/y2k.zip",
-          "sourceList": "Web page: Click-Online AOL 4/5 progz",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/y2k.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/y2k.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "y2m-zip",
       "name": "y2m.zip",
       "mirrors": [
@@ -28232,27 +33052,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "yuryignore-zip",
-      "name": "yuryignore.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/yuryignore.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/yuryignore.zip",
-          "sourceList": "Web page: x'ers",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/yuryignore.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/yuryignore.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
       "key": "zefotos-zip",
       "name": "zefotos.zip",
       "mirrors": [
@@ -28287,6 +33086,27 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/macro/170/roms/nes/zelda2.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/macro/170/roms/nes/zelda2.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "zombie-zip",
+      "name": "zombie.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/zombie.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/zombie.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/zombie.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/zombie.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
           "status": "candidate"
         }
       ],
@@ -29166,23 +33986,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
-      "key": "aimchange-exe",
-      "name": "aimChange.exe",
-      "mirrors": [
-        {
-          "originalUrl": "http://aimfilez.com/files/aimChange.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimChange.exe",
-          "sourceList": "Web page: AIMFilez files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/aimfilez-com/aimchange-d83f8223.exe"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 1
-    },
-    {
       "key": "aimcloner-exe",
       "name": "aimcloner.exe",
       "mirrors": [
@@ -29195,23 +33998,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/aimfilez-com/aimcloner-a85bcf2a.exe"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 1
-    },
-    {
-      "key": "aimiconedit-exe",
-      "name": "AIMIconEdit.exe",
-      "mirrors": [
-        {
-          "originalUrl": "http://aimfilez.com/files/AIMIconEdit.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AIMIconEdit.exe",
-          "sourceList": "Web page: 8",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/aimfilez-com/aimiconedit-3488d8b8.exe"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -29302,6 +34088,91 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "akiracoms-zip",
+      "name": "akiracoms.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/akiracoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/akiracoms.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/akiracoms-e38f9681.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "akiracoms2-zip",
+      "name": "akiracoms2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/akiracoms2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/akiracoms2.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/akiracoms2-a29f52cb.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "alphacoms2-zip",
+      "name": "alphacoms2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/alphacoms2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/alphacoms2.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/alphacoms2-de8de330.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "amex-zip",
+      "name": "amex.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/amex.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/amex.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/amex-3614a32b.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "amplim36-zip",
+      "name": "amplim36.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/amplim36.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/amplim36.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/amplim36-15b48813.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "anarchyaol-zip",
       "name": "anarchyaol.zip",
       "mirrors": [
@@ -29336,6 +34207,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "antilamer-zip",
+      "name": "antilamer.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/antilamer.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/antilamer.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/antilamer-ba387011.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "antimacro-zip",
       "name": "antimacro.zip",
       "mirrors": [
@@ -29348,6 +34236,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/antimacro.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "aob-zip",
+      "name": "aob.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aob.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aob.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/aob-4c0f25f5.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -29506,6 +34411,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "aonet-zip",
+      "name": "aonet.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aonet.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aonet.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/aonet-a9eb94ef.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "assgas-zip",
+      "name": "assgas.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/assgas.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/assgas.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/assgas-888df9f0.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "astroidlevel-zip",
       "name": "astroidlevel.zip",
       "mirrors": [
@@ -29523,18 +34462,69 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
-      "key": "asub-exe",
-      "name": "Asub.exe",
+      "key": "atomccom-zip",
+      "name": "atomccom.zip",
       "mirrors": [
         {
-          "originalUrl": "http://aimfilez.com/files/Asub.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/Asub.exe",
-          "sourceList": "Web page: 6",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/atomccom.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/atomccom.zip",
+          "sourceList": "Web page: c-coms",
           "status": "candidate"
         }
       ],
       "localFiles": [
-        "files/external/aimfilez-com/asub-1abf2bf0.exe"
+        "files/external/lenshellarchive-com/atomccom-cebe5178.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "audioassault-zip",
+      "name": "audioassault.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audioassault.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audioassault.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/audioassault-c4199924.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "audioassault2-zip",
+      "name": "audioassault2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audioassault2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audioassault2.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/audioassault2-c2f31d68.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "audiostylexp-zip",
+      "name": "audiostylexp.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audiostylexp.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audiostylexp.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/audiostylexp-7f2627f2.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -29569,6 +34559,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/bar-room-brawl.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "barronscom-zip",
+      "name": "barronscom.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/barronscom.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/barronscom.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/barronscom-a6bdd713.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "basikmp3-zip",
+      "name": "basikmp3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/basikmp3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/basikmp3.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/basikmp3-ce64f6f9.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -29880,23 +34904,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
-      "key": "code-zip",
-      "name": "code.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/code.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/code.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/angelfire-com/code.zip"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 1
-    },
-    {
       "key": "comctl32-ocx",
       "name": "comctl32.ocx",
       "mirrors": [
@@ -29977,6 +34984,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/computer-infomation.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "comsofguilt-zip",
+      "name": "comsofguilt.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comsofguilt.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comsofguilt.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/comsofguilt-43cc67a4.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -30305,23 +35329,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
-      "key": "exploitools-sit",
-      "name": "ExploiTools.sit",
-      "mirrors": [
-        {
-          "originalUrl": "http://aimfilez.com/files/ExploiTools.sit",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/ExploiTools.sit",
-          "sourceList": "Web page: Mac Files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/aimfilez-com/exploitools-24fc3a74.sit"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 1
-    },
-    {
       "key": "factors-zip",
       "name": "factors.zip",
       "mirrors": [
@@ -30419,23 +35426,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/form-mail.zip"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 1
-    },
-    {
-      "key": "formatsn-exe",
-      "name": "formatsn.exe",
-      "mirrors": [
-        {
-          "originalUrl": "http://aimfilez.com/files/formatsn.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/formatsn.exe",
-          "sourceList": "Web page: 3",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/aimfilez-com/formatsn-ac427d25.exe"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -31903,23 +36893,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
-      "key": "saimsa-exe",
-      "name": "SAIMsa.exe",
-      "mirrors": [
-        {
-          "originalUrl": "http://aimfilez.com/files/SAIMsa.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/SAIMsa.exe",
-          "sourceList": "Web page: 5",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/aimfilez-com/saimsa-a4b4a517.exe"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 1
-    },
-    {
       "key": "salat-zip",
       "name": "salat.zip",
       "mirrors": [
@@ -32153,23 +37126,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/aimfilez-com/smiley-c14cffa3.exe"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 1
-    },
-    {
-      "key": "sntrader-exe",
-      "name": "SNTrader.exe",
-      "mirrors": [
-        {
-          "originalUrl": "http://aimfilez.com/files/SNTrader.exe",
-          "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/SNTrader.exe",
-          "sourceList": "Web page: 4",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/aimfilez-com/sntrader-d9f71739.exe"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -32629,6 +37585,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/video-ocx.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "view2-zip",
+      "name": "view2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/view2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/view2.zip",
+          "sourceList": "Web page: c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/view2-b616cf26.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -34192,8 +39165,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "originalUrl": "http://www.angelfire.com/ak5/043_vbnmjhgfd/samp02.zip",
       "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ak5/043_vbnmjhgfd/samp02.zip",
       "name": "samp02.zip",
-      "localPath": "files/external/angelfire-com/samp02.zip",
-      "status": "ready",
+      "localPath": "",
+      "status": "invalid-archive",
       "size": 27782
     },
     {
@@ -34712,8 +39685,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "originalUrl": "http://www.angelfire.com/planet/lemonseeds/myprogs/files/code.zip",
       "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/planet/lemonseeds/myprogs/files/code.zip",
       "name": "code.zip",
-      "localPath": "files/external/angelfire-com/code.zip",
-      "status": "ready",
+      "localPath": "",
+      "status": "empty-file",
       "size": 0
     },
     {
@@ -37393,8 +42366,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/ExploiTools.sit",
       "name": "ExploiTools.sit",
       "discoveredText": "ExploiTools.sit",
-      "localPath": "files/external/aimfilez-com/exploitools-24fc3a74.sit",
-      "status": "ready",
+      "localPath": "",
+      "status": "html-replay",
       "size": 2577
     },
     {
@@ -37470,8 +42443,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "waybackUrl": "https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip",
       "name": "gothic.zip",
       "discoveredText": "gothic nightmares",
-      "localPath": "files/external/click-online2000-com/gothic-e59e9fc1.zip",
-      "status": "ready",
+      "localPath": "",
+      "status": "html-replay",
       "size": 20589
     },
     {
@@ -38406,6 +43379,3306 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "localPath": "files/external/coltpro-net/vb40032-213ca90f.dll",
       "status": "ready",
       "size": 722192
+    },
+    {
+      "sourceList": "Web page: Methodus Toolz downloads",
+      "sourceListUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/vbrun60.exe",
+      "waybackUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/vbrun60.exe",
+      "name": "vbrun60.exe",
+      "discoveredText": "download and install this file",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Methodus Toolz downloads",
+      "sourceListUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm",
+      "originalUrl": "http://methimages.hypermart.net/methodus.exe",
+      "waybackUrl": "https://web.archive.org/web/20001109201900/http://methimages.hypermart.net/methodus.exe",
+      "name": "methodus.exe",
+      "discoveredText": "Download Site #1",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2272
+    },
+    {
+      "sourceList": "Web page: Methodus Toolz downloads",
+      "sourceListUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm",
+      "originalUrl": "http://methodus.bizland.com/methodus.exe",
+      "waybackUrl": "https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe",
+      "name": "methodus.exe",
+      "discoveredText": "Download Site #2",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2253
+    },
+    {
+      "sourceList": "Web page: Methodus Toolz downloads",
+      "sourceListUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com:80/methodustoolz/download.htm",
+      "originalUrl": "http://www.methodus2000.com/methodustoolz/methodus.exe",
+      "waybackUrl": "https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe",
+      "name": "methodus.exe",
+      "discoveredText": "Download Site #3",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+      "sourceListUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2mirror.htm",
+      "originalUrl": "http://24.185.191.87/progz/methodus.zip",
+      "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip",
+      "name": "methodus.zip",
+      "discoveredText": "Methodus Toolz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: oldscool_windows_tools",
+      "sourceListUrl": "https://github.com/mikrodotnet/aol-progz/tree/main/oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/7z2107.exe",
+      "name": "7z2107.exe",
+      "discoveredText": "7z2107.exe",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 227983
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/acm.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/acm.exe",
+      "name": "acm.exe",
+      "discoveredText": "Acm",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/afk.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/afk.zip",
+      "name": "afk.zip",
+      "discoveredText": "afk bas",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/agmp3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/agmp3.zip",
+      "name": "agmp3.zip",
+      "discoveredText": "ag mp3 player",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: buster's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/aggression.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/aggression.zip",
+      "name": "aggression.zip",
+      "discoveredText": "aggression bust",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/aicrackse2.zip",
+      "name": "aicrackse2.zip",
+      "discoveredText": "ai-crack se²",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimaker1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimaker1.zip",
+      "name": "aimaker1.zip",
+      "discoveredText": "ai-maker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aicrackse2.zip",
+      "name": "aicrackse2.zip",
+      "discoveredText": "Aicrackse2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim95.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim95.zip",
+      "name": "aim95.zip",
+      "discoveredText": "aim 2.0 for win95",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim30.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim30.zip",
+      "name": "aim30.zip",
+      "discoveredText": "aim 3.0 for win95/NT",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim35beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim35beta.zip",
+      "name": "aim35beta.zip",
+      "discoveredText": "aim 3.5 for win95/NT",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim40.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim40.zip",
+      "name": "aim40.zip",
+      "discoveredText": "aim 4.0 for win95-NT",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim43.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim43.zip",
+      "name": "aim43.zip",
+      "discoveredText": "aim 4.3 for win95-NT",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim44.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim44.zip",
+      "name": "aim44.zip",
+      "discoveredText": "aim 4.4 for win95-NT",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aim47booterv45.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aim47booterv45.zip",
+      "name": "aim47booterv45.zip",
+      "discoveredText": "aim 4.7 booter v4.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim47beta2398.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim47beta2398.zip",
+      "name": "aim47beta2398.zip",
+      "discoveredText": "aim 4.7 for win95-NT",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim48.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim48.zip",
+      "name": "aim48.zip",
+      "discoveredText": "aim 4.8 for win95-NT",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim5.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim5.zip",
+      "name": "aim5.zip",
+      "discoveredText": "aim 5.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim5beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim5beta.zip",
+      "name": "aim5beta.zip",
+      "discoveredText": "aim 5.0 beta",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim51.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim51.zip",
+      "name": "aim51.zip",
+      "discoveredText": "aim 5.1",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2201
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim52.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim52.zip",
+      "name": "aim52.zip",
+      "discoveredText": "aim 5.2",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 4419
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim59.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim59.zip",
+      "name": "aim59.zip",
+      "discoveredText": "aim 5.9",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2201
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim65.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim65.zip",
+      "name": "aim65.zip",
+      "discoveredText": "aim 6.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictions.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictions.zip",
+      "name": "aimaddictions.zip",
+      "discoveredText": "aim addictions",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/addictionsfinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/addictionsfinal.zip",
+      "name": "addictionsfinal.zip",
+      "discoveredText": "aim addictions final",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictionse.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimaddictionse.zip",
+      "name": "aimaddictionse.zip",
+      "discoveredText": "aim addictions final se",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/AimAmp.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AimAmp.zip",
+      "name": "AimAmp.zip",
+      "discoveredText": "Aim Amp",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimattak.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimattak.zip",
+      "name": "aimattak.zip",
+      "discoveredText": "aim attak",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimbattletank.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimbattletank.zip",
+      "name": "aimbattletank.zip",
+      "discoveredText": "aim battle tank",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss.zip",
+      "name": "aimboss.zip",
+      "discoveredText": "aim boss",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimboss14.zip",
+      "name": "aimboss14.zip",
+      "discoveredText": "aim boss 1.4",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcensus.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcensus.zip",
+      "name": "aimcensus.zip",
+      "discoveredText": "aim census",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aimchange.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimchange.exe",
+      "name": "aimchange.exe",
+      "discoveredText": "Aim Change",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/crackers/aimcrak10.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/crackers/aimcrak10.zip",
+      "name": "aimcrak10.zip",
+      "discoveredText": "aim crak¹·º",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
+      "name": "aimcreate11.zip",
+      "discoveredText": "aim create 1.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
+      "name": "aimcreate21.zip",
+      "discoveredText": "aim create 2.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/deception15.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/deception15.zip",
+      "name": "deception15.zip",
+      "discoveredText": "aim deception 1.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/deception17.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/deception17.zip",
+      "name": "deception17.zip",
+      "discoveredText": "aim deception 1.7",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aimenhance12.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimenhance12.zip",
+      "name": "aimenhance12.zip",
+      "discoveredText": "Aim Enhance",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aimexploit.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimexploit.zip",
+      "name": "aimexploit.zip",
+      "discoveredText": "Aim Exploit",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip",
+      "name": "aimexploit.zip",
+      "discoveredText": "aim exploit chat flooder",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/Aim%20Exploit%20Register%201.1.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Aim%20Exploit%20Register%201.1.zip",
+      "name": "Aim%20Exploit%20Register%201.1.zip",
+      "discoveredText": "Aim Exploit Register 1.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aimfade.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimfade.zip",
+      "name": "aimfade.zip",
+      "discoveredText": "Aim Fade",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/faders/aimfadersuite.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/aimfadersuite.zip",
+      "name": "aimfadersuite.zip",
+      "discoveredText": "aim fader suite v1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aimforge.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimforge.zip",
+      "name": "aimforge.zip",
+      "discoveredText": "Aim Forge",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimfrysc.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimfrysc.zip",
+      "name": "aimfrysc.zip",
+      "discoveredText": "aim fry sc",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimfuck.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimfuck.zip",
+      "name": "aimfuck.zip",
+      "discoveredText": "aim fuck",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimhell2000v3.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimhell2000v3.zip",
+      "name": "aimhell2000v3.zip",
+      "discoveredText": "aim hell 2000 v3",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aiminfectionII.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aiminfectionII.zip",
+      "name": "aiminfectionII.zip",
+      "discoveredText": "Aim Infection II",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aipro.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aipro.zip",
+      "name": "aipro.zip",
+      "discoveredText": "aim invader 1.2 pro",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/invader77.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/invader77.zip",
+      "name": "invader77.zip",
+      "discoveredText": "aim invader 7.7",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/AI.EXE",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AI.EXE",
+      "name": "AI.EXE",
+      "discoveredText": "Aim Invader 9.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/AIM_Invader_ISpec.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AIM_Invader_ISpec.exe",
+      "name": "AIM_Invader_ISpec.exe",
+      "discoveredText": "AIM Invader I",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/invaderispec.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/invaderispec.zip",
+      "name": "invaderispec.zip",
+      "discoveredText": "aim invader ispec",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aiminvader35.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aiminvader35.zip",
+      "name": "aiminvader35.zip",
+      "discoveredText": "aim invader winsock ver 3.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip",
+      "name": "invaderupdate.zip",
+      "discoveredText": "aim invader winsock ver 3.5 (updated)",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/AIMIPStealer.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AIMIPStealer.zip",
+      "name": "AIMIPStealer.zip",
+      "discoveredText": "Aim Ip Stealer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimlinker.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimlinker.zip",
+      "name": "aimlinker.zip",
+      "discoveredText": "aim linker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimonfire.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/aimonfire.zip",
+      "name": "aimonfire.zip",
+      "discoveredText": "aim on fire",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aimoverflow.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimoverflow.zip",
+      "name": "aimoverflow.zip",
+      "discoveredText": "Aim Overflow",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimoverflow15.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimoverflow15.zip",
+      "name": "aimoverflow15.zip",
+      "discoveredText": "aim overflow 1.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimoverflow16.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimoverflow16.zip",
+      "name": "aimoverflow16.zip",
+      "discoveredText": "aim overflow 1.6",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/AIM%20OverFlow%201.6.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AIM%20OverFlow%201.6.zip",
+      "name": "AIM%20OverFlow%201.6.zip",
+      "discoveredText": "Aim OverFlow 1.6",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/phishers/aimbeta2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/phishers/aimbeta2.zip",
+      "name": "aimbeta2.zip",
+      "discoveredText": "aim phisher 2000",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
+      "name": "aimpluss.zip",
+      "discoveredText": "aim pluss",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimpwmodify.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimpwmodify.zip",
+      "name": "aimpwmodify.zip",
+      "discoveredText": "aim pw modify",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimrape2k5.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimrape2k5.zip",
+      "name": "aimrape2k5.zip",
+      "discoveredText": "aim rape 2k5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip",
+      "name": "aimremix3.zip",
+      "discoveredText": "aim remix 3.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip",
+      "name": "aimremixr.zip",
+      "discoveredText": "aim remix r",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimruler.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimruler.zip",
+      "name": "aimruler.zip",
+      "discoveredText": "aim ruler¹·¹",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimsnm1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimsnm1.zip",
+      "name": "aimsnm1.zip",
+      "discoveredText": "aim screen name maker 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimscrollbeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimscrollbeta.zip",
+      "name": "aimscrollbeta.zip",
+      "discoveredText": "aim scroller - beta",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimsniff.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimsniff.zip",
+      "name": "aimsniff.zip",
+      "discoveredText": "aim sniff",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimspawn2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimspawn2.zip",
+      "name": "aimspawn2.zip",
+      "discoveredText": "aim spawn²",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: APPLICATIONS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/apps.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/aimspy.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/aimspy.zip",
+      "name": "aimspy.zip",
+      "discoveredText": "Aim Spy",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimstudio102.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimstudio102.zip",
+      "name": "aimstudio102.zip",
+      "discoveredText": "aim studio 1.0.2 [public beta]",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/Asub.EXE",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Asub.EXE",
+      "name": "Asub.EXE",
+      "discoveredText": "Aim Sub",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimsufferage.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimsufferage.zip",
+      "name": "aimsufferage.zip",
+      "discoveredText": "aim sufferage",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/AIM_Sufferage.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AIM_Sufferage.zip",
+      "name": "AIM_Sufferage.zip",
+      "discoveredText": "Aim Sufferage",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/Aim%20Unlimited.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Aim%20Unlimited.zip",
+      "name": "Aim%20Unlimited.zip",
+      "discoveredText": "Aim Unlimited",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimunlimited.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimunlimited.zip",
+      "name": "aimunlimited.zip",
+      "discoveredText": "aim unlimited 1.3",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/unlimited14.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/unlimited14.zip",
+      "name": "unlimited14.zip",
+      "discoveredText": "aim unlimited 1.4",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimxpressionz.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimxpressionz.zip",
+      "name": "aimxpressionz.zip",
+      "discoveredText": "aim xpressionz 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/xpressionz15.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/xpressionz15.zip",
+      "name": "xpressionz15.zip",
+      "discoveredText": "aim xpressionz 1.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/aimbomb.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimbomb.zip",
+      "name": "aimbomb.zip",
+      "discoveredText": "aimbomb",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/aimboss14.zip",
+      "name": "aimboss14.zip",
+      "discoveredText": "AimBoss14",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimclone.zip",
+      "name": "aimclone.zip",
+      "discoveredText": "aimclone",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimer1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/aimer1.zip",
+      "name": "aimer1.zip",
+      "discoveredText": "aimer¹",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimer2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/aimer2.zip",
+      "name": "aimer2.zip",
+      "discoveredText": "aimer²",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimgroupv100.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimgroupv100.zip",
+      "name": "aimgroupv100.zip",
+      "discoveredText": "aimgroup v1.00",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/Aimip.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Aimip.zip",
+      "name": "Aimip.zip",
+      "discoveredText": "Aimip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimism.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimism.zip",
+      "name": "aimism.zip",
+      "discoveredText": "aimism",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/aimpopup2.0.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/aimpopup2.0.exe",
+      "name": "aimpopup2.0.exe",
+      "discoveredText": "Aimpopup2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/AIMPw124.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/AIMPw124.zip",
+      "name": "AIMPw124.zip",
+      "discoveredText": "AIMPw",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimraterape.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimraterape.zip",
+      "name": "aimraterape.zip",
+      "discoveredText": "aimrate rape v 1.00 [beta]",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/aimspy.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/aimspy.zip",
+      "name": "aimspy.zip",
+      "discoveredText": "aimspy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
+      "name": "aimster.zip",
+      "discoveredText": "aimster",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimx.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimx.zip",
+      "name": "aimx.zip",
+      "discoveredText": "aimx",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ajsmp3player.zip",
+      "name": "ajsmp3player.zip",
+      "discoveredText": "aimxp mp3 player",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/akiracoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/akiracoms.zip",
+      "name": "akiracoms.zip",
+      "discoveredText": "akira coms",
+      "localPath": "files/external/lenshellarchive-com/akiracoms-e38f9681.zip",
+      "status": "ready",
+      "size": 404773
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/akiracoms2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/akiracoms2.zip",
+      "name": "akiracoms2.zip",
+      "discoveredText": "akira coms² beta²",
+      "localPath": "files/external/lenshellarchive-com/akiracoms2-a29f52cb.zip",
+      "status": "ready",
+      "size": 802218
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/alqaedaol.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/alqaedaol.zip",
+      "name": "alqaedaol.zip",
+      "discoveredText": "al-qaeda-ol idle",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/alarmclock.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alarmclock.zip",
+      "name": "alarmclock.zip",
+      "discoveredText": "alarm clock",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/alien30.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alien30.zip",
+      "name": "alien30.zip",
+      "discoveredText": "alien 3.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/alien.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/alien.zip",
+      "name": "alien.zip",
+      "discoveredText": "alien toolz 1.1",
+      "localPath": "files/external/lenshellarchive-com/alien-6add2699.zip",
+      "status": "ready",
+      "size": 409562
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/alivev1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alivev1.zip",
+      "name": "alivev1.zip",
+      "discoveredText": "alive v1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/alive2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alive2.zip",
+      "name": "alive2.zip",
+      "discoveredText": "alive2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aligator.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aligator.zip",
+      "name": "aligator.zip",
+      "discoveredText": "alligator",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: ADOBE PLUG-INS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/plug.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/almantha.zip",
+      "waybackUrl": "https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/almantha.zip",
+      "name": "almantha.zip",
+      "discoveredText": "Almantha",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/almantha.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/almantha.zip",
+      "name": "almantha.zip",
+      "discoveredText": "almantha.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/alpha2k.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/alpha2k.zip",
+      "name": "alpha2k.zip",
+      "discoveredText": "alpha 2k idle",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/alpha3kmp3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alpha3kmp3.zip",
+      "name": "alpha3kmp3.zip",
+      "discoveredText": "alpha 3k mp3 player",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/alpha3kmp32.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alpha3kmp32.zip",
+      "name": "alpha3kmp32.zip",
+      "discoveredText": "alpha 3k mp3 player v2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/alphacoms2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/alphacoms2.zip",
+      "name": "alphacoms2.zip",
+      "discoveredText": "alpha ccoms v2",
+      "localPath": "files/external/lenshellarchive-com/alphacoms2-de8de330.zip",
+      "status": "ready",
+      "size": 122412
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/alphafade.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/alphafade.zip",
+      "name": "alphafade.zip",
+      "discoveredText": "alpha html fader",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: termer's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/alphatoser.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/alphatoser.zip",
+      "name": "alphatoser.zip",
+      "discoveredText": "alpha toser",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: buster's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip",
+      "name": "alpha3kbuster.zip",
+      "discoveredText": "alpha3k roombuster",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/amcmsgbox.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/amcmsgbox.zip",
+      "name": "amcmsgbox.zip",
+      "discoveredText": "amc's msgbox maker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip",
+      "name": "americaonfire.zip",
+      "discoveredText": "america on fire platinum",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/americanidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/americanidle.zip",
+      "name": "americanidle.zip",
+      "discoveredText": "american idle",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/amex.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/amex.zip",
+      "name": "amex.zip",
+      "discoveredText": "amex first c-com",
+      "localPath": "files/external/lenshellarchive-com/amex-3614a32b.zip",
+      "status": "ready",
+      "size": 22208
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/amplim36.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/amplim36.zip",
+      "name": "amplim36.zip",
+      "discoveredText": "amplimax mp3 c-com",
+      "localPath": "files/external/lenshellarchive-com/amplim36-15b48813.zip",
+      "status": "ready",
+      "size": 205549
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/amxidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/amxidler.zip",
+      "name": "amxidler.zip",
+      "discoveredText": "amx idler",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/analpredator.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/analpredator.zip",
+      "name": "analpredator.zip",
+      "discoveredText": "anal predator scroller",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/analrapage.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/analrapage.zip",
+      "name": "analrapage.zip",
+      "discoveredText": "anal rapage im answerer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/anarchy.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip",
+      "name": "anarchy.zip",
+      "discoveredText": "anarchy",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: buster's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/anarki.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/anarki.zip",
+      "name": "anarki.zip",
+      "discoveredText": "anarki room busta",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: buster's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/anarki2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/anarki2.zip",
+      "name": "anarki2.zip",
+      "discoveredText": "anarki room busta v2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: buster's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/ancienttech.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ancienttech.zip",
+      "name": "ancienttech.zip",
+      "discoveredText": "ancient tech",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/andone.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/andone.zip",
+      "name": "andone.zip",
+      "discoveredText": "and one",
+      "localPath": "files/external/lenshellarchive-com/andone-3a0e43d6.zip",
+      "status": "ready",
+      "size": 988704
+    },
+    {
+      "sourceList": "Web page: buster's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/anexbust.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/anexbust.zip",
+      "name": "anexbust.zip",
+      "discoveredText": "anex bust",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/angermanage.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/angermanage.zip",
+      "name": "angermanage.zip",
+      "discoveredText": "anger management",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/animeinc.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/animeinc.zip",
+      "name": "animeinc.zip",
+      "discoveredText": "anime inc - linker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/annihilation.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/annihilation.zip",
+      "name": "annihilation.zip",
+      "discoveredText": "annihilation",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/annoyerz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/annoyerz.zip",
+      "name": "annoyerz.zip",
+      "discoveredText": "annoyerz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/answerdat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/answerdat.zip",
+      "name": "answerdat.zip",
+      "discoveredText": "answer dat im",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/answerpro.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/answerpro.zip",
+      "name": "answerpro.zip",
+      "discoveredText": "answer pro",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/anthrax.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anthrax.zip",
+      "name": "anthrax.zip",
+      "discoveredText": "anthrax",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/anti1im.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti1im.zip",
+      "name": "anti1im.zip",
+      "discoveredText": "anti 1 im",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/antiaimfilter.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/antiaimfilter.zip",
+      "name": "antiaimfilter.zip",
+      "discoveredText": "anti aim filter ¹",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/antibot.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/antibot.zip",
+      "name": "antibot.zip",
+      "discoveredText": "Anti Bot",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/antierror.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/antierror.zip",
+      "name": "antierror.zip",
+      "discoveredText": "anti error",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/ah2b.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/ah2b.zip",
+      "name": "ah2b.zip",
+      "discoveredText": "anti hero&sup2;",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: termer's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/ah2b.zip.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aolantis/ah2b.zip.zip",
+      "name": "ah2b.zip.zip",
+      "discoveredText": "anti hero&sup2;",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/antilagbyk1d.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/antilagbyk1d.zip",
+      "name": "antilagbyk1d.zip",
+      "discoveredText": "anti lag by k1d",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/antilamer.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/antilamer.zip",
+      "name": "antilamer.zip",
+      "discoveredText": "anti lamer toolz ¹·° c-com",
+      "localPath": "files/external/lenshellarchive-com/antilamer-ba387011.zip",
+      "status": "ready",
+      "size": 593297
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/antitheft1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/antitheft1.zip",
+      "name": "antitheft1.zip",
+      "discoveredText": "anti right click",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: x'ers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/antisoc.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/antisoc.zip",
+      "name": "antisoc.zip",
+      "discoveredText": "anti social 2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/antiv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/antiv1.zip",
+      "name": "antiv1.zip",
+      "discoveredText": "anti v¹·º",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/anti_lag.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti_lag.zip",
+      "name": "anti_lag.zip",
+      "discoveredText": "anti_lag",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/antis/antiboot3.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/antis/antiboot3.zip",
+      "name": "antiboot3.zip",
+      "discoveredText": "anti-boot 3.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: mmer's/server's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/antifreeze.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/antifreeze.zip",
+      "name": "antifreeze.zip",
+      "discoveredText": "anti-freeze mm'er 2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip",
+      "name": "antilagbykid.zip",
+      "discoveredText": "anti-lag by kid",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/anti4.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anti4.zip",
+      "name": "anti4.zip",
+      "discoveredText": "antichrist 4.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: APPLICATIONS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/apps.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/Antidote.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/Antidote.zip",
+      "name": "Antidote.zip",
+      "discoveredText": "AntiDote",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/Antidote.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/Antidote.zip",
+      "name": "Antidote.zip",
+      "discoveredText": "Antidote.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/antilag.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/antilag.zip",
+      "name": "antilag.zip",
+      "discoveredText": "antilag by z0ne",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/antileech.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/antileech.zip",
+      "name": "antileech.zip",
+      "discoveredText": "antileech.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aocoms.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aocoms.zip",
+      "name": "aocoms.zip",
+      "discoveredText": "ao coms",
+      "localPath": "files/external/lenshellarchive-com/aocoms-85648694.zip",
+      "status": "ready",
+      "size": 747169
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/aophader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/aophader.zip",
+      "name": "aophader.zip",
+      "discoveredText": "ao phader",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aophish.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aophish.zip",
+      "name": "aophish.zip",
+      "discoveredText": "ao phishbowl",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/view2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/view2.zip",
+      "name": "view2.zip",
+      "discoveredText": "ao view final",
+      "localPath": "files/external/lenshellarchive-com/view2-b616cf26.zip",
+      "status": "ready",
+      "size": 252318
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ao50.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ao50.zip",
+      "name": "ao50.zip",
+      "discoveredText": "ao-5.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: cracker's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/aocrack11.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/aocrack11.zip",
+      "name": "aocrack11.zip",
+      "discoveredText": "ao-crack¹·¹",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/aoidle2k3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aoidle2k3.zip",
+      "name": "aoidle2k3.zip",
+      "discoveredText": "ao-idle 2k3",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aolinker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip",
+      "name": "aolinker.zip",
+      "discoveredText": "ao`linker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoascii.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoascii.zip",
+      "name": "aoascii.zip",
+      "discoveredText": "aoascii",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoasci2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoasci2.zip",
+      "name": "aoasci2.zip",
+      "discoveredText": "aoascii 2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/aofader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/aofader.zip",
+      "name": "aofader.zip",
+      "discoveredText": "aoassasins fader",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoimmachine.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoimmachine.zip",
+      "name": "aoimmachine.zip",
+      "discoveredText": "aoassasins im answering machine",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoassasin.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoassasin.zip",
+      "name": "aoassasin.zip",
+      "discoveredText": "aoassasins toolz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoassasin2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoassasin2.zip",
+      "name": "aoassasin2.zip",
+      "discoveredText": "aoassasins toolz v2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aob.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aob.zip",
+      "name": "aob.zip",
+      "discoveredText": "aoblunted c-com",
+      "localPath": "files/external/lenshellarchive-com/aob-4c0f25f5.zip",
+      "status": "ready",
+      "size": 67406
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aodirc060.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aodirc060.zip",
+      "name": "aodirc060.zip",
+      "discoveredText": "aodirc 0.6.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aodirc0615.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aodirc0615.zip",
+      "name": "aodirc0615.zip",
+      "discoveredText": "aodirc 0.6.15",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aodirc0585.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aodirc0585.zip",
+      "name": "aodirc0585.zip",
+      "discoveredText": "aodirc v0.5.85",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoevil.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoevil.zip",
+      "name": "aoevil.zip",
+      "discoveredText": "aoevil 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoh30b5.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoh30b5.zip",
+      "name": "aoh30b5.zip",
+      "discoveredText": "aohell 95",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 16006
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aolv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aolv1.zip",
+      "name": "aolv1.zip",
+      "discoveredText": "aol 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol11.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol11.zip",
+      "name": "aol11.zip",
+      "discoveredText": "aol 1.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol20.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol20.zip",
+      "name": "aol20.zip",
+      "discoveredText": "aol 2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
+      "name": "aol25.zip",
+      "discoveredText": "aol 2.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol3016.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol3016.zip",
+      "name": "aol3016.zip",
+      "discoveredText": "aol 3.0 16 bit",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol3032.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol3032.zip",
+      "name": "aol3032.zip",
+      "discoveredText": "aol 3.0 32 bit",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/aol32.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol32.zip",
+      "name": "aol32.zip",
+      "discoveredText": "aol 32 bas",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol4032.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol4032.zip",
+      "name": "aol4032.zip",
+      "discoveredText": "aol 4.0 32 bit",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 2204
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aol5udclose.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aol5udclose.zip",
+      "name": "aol5udclose.zip",
+      "discoveredText": "aol 5 update closer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/setup325.zip",
+      "name": "setup325.zip",
+      "discoveredText": "aol 5.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol6.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol6.zip",
+      "name": "aol6.zip",
+      "discoveredText": "aol 6.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/powersource.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/powersource.zip",
+      "name": "powersource.zip",
+      "discoveredText": "aol 7 forms",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/aol7idle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aol7idle.zip",
+      "name": "aol7idle.zip",
+      "discoveredText": "aol 7 idle",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7setup.zip",
+      "name": "aol7setup.zip",
+      "discoveredText": "aol 7.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol7beta.zip",
+      "name": "aol7beta.zip",
+      "discoveredText": "aol 7.0 beta",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol8.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol8.zip",
+      "name": "aol8.zip",
+      "discoveredText": "aol 8.0",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 4419
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip",
+      "name": "aol8chatbot.zip",
+      "discoveredText": "aol 8.0 chat bot",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/aol8ex.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol8ex.zip",
+      "name": "aol8ex.zip",
+      "discoveredText": "aol 8.0 example prog",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol8plus.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol8plus.zip",
+      "name": "aol8plus.zip",
+      "discoveredText": "aol 8.0 plus",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/aol8sendchat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol8sendchat.zip",
+      "name": "aol8sendchat.zip",
+      "discoveredText": "aol 8.0 send chat",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol90se.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol90se.zip",
+      "name": "aol90se.zip",
+      "discoveredText": "aol 9.0 security edition",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoltools.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoltools.zip",
+      "name": "aoltools.zip",
+      "discoveredText": "aol 9.0 tools",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL/AIM/Yahoo",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/aim-aol.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol91.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol91.zip",
+      "name": "aol91.zip",
+      "discoveredText": "aol 9.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: cracker's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/aolac124.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/aolac124.zip",
+      "name": "aolac124.zip",
+      "discoveredText": "aol account cracker 1.2.4",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comsofguilt.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comsofguilt.zip",
+      "name": "comsofguilt.zip",
+      "discoveredText": "aol coms of guilt v1.0",
+      "localPath": "files/external/lenshellarchive-com/comsofguilt-43cc67a4.zip",
+      "status": "ready",
+      "size": 374434
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aoleasytalk.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aoleasytalk.zip",
+      "name": "aoleasytalk.zip",
+      "discoveredText": "aol easy talk",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aolfiledlv5.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolfiledlv5.zip",
+      "name": "aolfiledlv5.zip",
+      "discoveredText": "aol file downloader v5.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aolfun.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolfun.zip",
+      "name": "aolfun.zip",
+      "discoveredText": "aol fun",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aolfun2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolfun2.zip",
+      "name": "aolfun2.zip",
+      "discoveredText": "aol fun 2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/aolidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aolidle.zip",
+      "name": "aolidle.zip",
+      "discoveredText": "aol idle toolz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/aolidle2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aolidle2.zip",
+      "name": "aolidle2.zip",
+      "discoveredText": "aol idle toolz ver 2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/aolmacros.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aolmacros.zip",
+      "name": "aolmacros.zip",
+      "discoveredText": "aol macros bas",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/profilesetter.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/profilesetter.zip",
+      "name": "profilesetter.zip",
+      "discoveredText": "aol profile setter 1.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aolvoicechat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolvoicechat.zip",
+      "name": "aolvoicechat.zip",
+      "discoveredText": "aol voice chat",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/aol40.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol40.zip",
+      "name": "aol40.zip",
+      "discoveredText": "aol40 bas",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: AOL4Free v4",
+      "sourceListUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+      "name": "AOL4FREE2.6v4.sit",
+      "discoveredText": "AOL4FREE2.6v4.sit",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 235134
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/aol7chat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/aol7chat.zip",
+      "name": "aol7chat.zip",
+      "discoveredText": "aol7chat.ocx",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aonet.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aonet.zip",
+      "name": "aonet.zip",
+      "discoveredText": "aonetwork c-com",
+      "localPath": "files/external/lenshellarchive-com/aonet-a9eb94ef.zip",
+      "status": "ready",
+      "size": 1461177
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aopunk.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aopunk.zip",
+      "name": "aopunk.zip",
+      "discoveredText": "aopunk 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/aowidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/aowidler.zip",
+      "name": "aowidler.zip",
+      "discoveredText": "aow idler 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: cracker's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/apocexe.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/apocexe.zip",
+      "name": "apocexe.zip",
+      "discoveredText": "apocalypse password cracker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/appsender.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/appsender.zip",
+      "name": "appsender.zip",
+      "discoveredText": "app sender",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/apple.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/apple.zip",
+      "name": "apple.zip",
+      "discoveredText": "Apple Sause",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aquariumv2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aquariumv2.zip",
+      "name": "aquariumv2.zip",
+      "discoveredText": "aquarium phish tank v2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/arc.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arc.zip",
+      "name": "arc.zip",
+      "discoveredText": "arc bas",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/arctic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/arctic.zip",
+      "name": "arctic.zip",
+      "discoveredText": "arctic idle",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: punter's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip",
+      "name": "arcticpunter2.zip",
+      "discoveredText": "arctic punter 2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/arena32.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arena32.zip",
+      "name": "arena32.zip",
+      "discoveredText": "arena32 bas",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: termer's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/termers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/argon.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/argon.zip",
+      "name": "argon.zip",
+      "discoveredText": "argon termer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: punter's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/armagedd.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/armagedd.zip",
+      "name": "armagedd.zip",
+      "discoveredText": "armageddon 1 im",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/armatech.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/armatech.zip",
+      "name": "armatech.zip",
+      "discoveredText": "armatech",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/armatechxp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/armatechxp.zip",
+      "name": "armatechxp.zip",
+      "discoveredText": "armatech xp",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/armegedon.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/armegedon.zip",
+      "name": "armegedon.zip",
+      "discoveredText": "armegedon beta1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/armorv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/armorv1.zip",
+      "name": "armorv1.zip",
+      "discoveredText": "armor v1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/ArmoredCrack.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/ArmoredCrack.zip",
+      "name": "ArmoredCrack.zip",
+      "discoveredText": "Armored Crack",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/busters/arcrack.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/arcrack.zip",
+      "name": "arcrack.zip",
+      "discoveredText": "armored room crack",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip",
+      "name": "armoredupdate.zip",
+      "discoveredText": "armored room crack update",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 4419
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ashelp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ashelp.zip",
+      "name": "ashelp.zip",
+      "discoveredText": "ascii helper 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ascii2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ascii2.zip",
+      "name": "ascii2.zip",
+      "discoveredText": "ascii helper 2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/assgas.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/assgas.zip",
+      "name": "assgas.zip",
+      "discoveredText": "ass gas",
+      "localPath": "files/external/lenshellarchive-com/assgas-888df9f0.zip",
+      "status": "ready",
+      "size": 836326
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/assidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/assidler.zip",
+      "name": "assidler.zip",
+      "discoveredText": "ass idler",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/asshole.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/asshole.zip",
+      "name": "asshole.zip",
+      "discoveredText": "asshole toolz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/assist.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/assist.zip",
+      "name": "assist.zip",
+      "discoveredText": "assist",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: mmer's/server's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/asteelemm.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/asteelemm.zip",
+      "name": "asteelemm.zip",
+      "discoveredText": "asteele mass mailer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/astro2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/astro2.zip",
+      "name": "astro2.zip",
+      "discoveredText": "astronomicon 2.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/atomccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/atomccom.zip",
+      "name": "atomccom.zip",
+      "discoveredText": "atomic c-coms",
+      "localPath": "files/external/lenshellarchive-com/atomccom-cebe5178.zip",
+      "status": "ready",
+      "size": 456089
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/atomicfader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/atomicfader.zip",
+      "name": "atomicfader.zip",
+      "discoveredText": "atomic fader",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/atrocity.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/atrocity.zip",
+      "name": "atrocity.zip",
+      "discoveredText": "atrocity",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/audiopackets.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/audiopackets.zip",
+      "name": "audiopackets.zip",
+      "discoveredText": "audio packets beta1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: x'ers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/audiox.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/audiox.zip",
+      "name": "audiox.zip",
+      "discoveredText": "audio x beta 1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audioassault.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audioassault.zip",
+      "name": "audioassault.zip",
+      "discoveredText": "audio-assault",
+      "localPath": "files/external/lenshellarchive-com/audioassault-c4199924.zip",
+      "status": "ready",
+      "size": 5561439
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audioassault2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audioassault2.zip",
+      "name": "audioassault2.zip",
+      "discoveredText": "audio-assault 2",
+      "localPath": "files/external/lenshellarchive-com/audioassault2-c2f31d68.zip",
+      "status": "ready",
+      "size": 4920866
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audiostylexp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audiostylexp.zip",
+      "name": "audiostylexp.zip",
+      "discoveredText": "audio.style",
+      "localPath": "files/external/lenshellarchive-com/audiostylexp-7f2627f2.zip",
+      "status": "ready",
+      "size": 86940
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip",
+      "name": "auroramacro.zip",
+      "discoveredText": "aurora macro studios",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: mmer's/server's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/aurora.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip",
+      "name": "aurora.zip",
+      "discoveredText": "aurora mass mailer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/aanti98.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/aanti98.zip",
+      "name": "aanti98.zip",
+      "discoveredText": "auto anti 98",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/autodlexample.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autodlexample.zip",
+      "name": "autodlexample.zip",
+      "discoveredText": "auto download example",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/autoflasher.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/autoflasher.zip",
+      "name": "autoflasher.zip",
+      "discoveredText": "auto flasher",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/autoflow.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/autoflow.zip",
+      "name": "autoflow.zip",
+      "discoveredText": "auto flow 1.5",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/autoreconnect.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip",
+      "name": "autoreconnect.zip",
+      "discoveredText": "auto reconnect",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/asn.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/asn.zip",
+      "name": "asn.zip",
+      "discoveredText": "auto save notepad version 1.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: x'ers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/autox2000.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/autox2000.zip",
+      "name": "autox2000.zip",
+      "discoveredText": "auto x 2000",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/autolink.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/autolink.zip",
+      "name": "autolink.zip",
+      "discoveredText": "auto-linker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Visual Basic Section",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/autorunmaker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autorunmaker.zip",
+      "name": "autorunmaker.zip",
+      "discoveredText": "autorun maker",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: oldscool_windows_tools",
+      "sourceListUrl": "https://github.com/mikrodotnet/aol-progz/tree/main/oldscool_windows_tools",
+      "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+      "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
+      "name": "autoruns.exe",
+      "discoveredText": "autoruns.exe",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 231898
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/autositebackup_v10.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/autositebackup_v10.zip",
+      "name": "autositebackup_v10.zip",
+      "discoveredText": "autositebackup_v10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/avakadavra.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/avakadavra.zip",
+      "name": "avakadavra.zip",
+      "discoveredText": "avakadavra toolz 1.o beta",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aviedllater.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aviedllater.zip",
+      "name": "aviedllater.zip",
+      "discoveredText": "avie auto download later",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: mmer's/server's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip",
+      "name": "aviemmer.zip",
+      "discoveredText": "avie mmer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/awayfactor.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/awayfactor.exe",
+      "name": "awayfactor.exe",
+      "discoveredText": "Away Factor",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/away2k.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/away2k.zip",
+      "name": "away2k.zip",
+      "discoveredText": "away2k",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/away2kbeta2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/away2kbeta2.zip",
+      "name": "away2kbeta2.zip",
+      "discoveredText": "away2k beta2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/axislink.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/axislink.zip",
+      "name": "axislink.zip",
+      "discoveredText": "axis-link",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/bgfade.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/bgfade.zip",
+      "name": "bgfade.zip",
+      "discoveredText": "background fade",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: anti's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/anti8.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti8.zip",
+      "name": "anti8.zip",
+      "discoveredText": "backs version 8",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/badmojo.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/badmojo.zip",
+      "name": "badmojo.zip",
+      "discoveredText": "bad mojo!",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/badscroll.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/badscroll.zip",
+      "name": "badscroll.zip",
+      "discoveredText": "badass scroller",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: punter's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/bahum.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/bahum.zip",
+      "name": "bahum.zip",
+      "discoveredText": "bahamut 4.0",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/bait.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bait.zip",
+      "name": "bait.zip",
+      "discoveredText": "bait that shizzle",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/bakedv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bakedv1.zip",
+      "name": "bakedv1.zip",
+      "discoveredText": "baked v1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: mmer's/server's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/balancemm.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/balancemm.zip",
+      "name": "balancemm.zip",
+      "discoveredText": "balance mmer",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/banner%20exchange%20v.91b.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/banner%20exchange%20v.91b.zip",
+      "name": "banner%20exchange%20v.91b.zip",
+      "discoveredText": "banner exchange v.91..&gt;",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/banshee2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/banshee2.zip",
+      "name": "banshee2.zip",
+      "discoveredText": "banshee 2",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/barrontoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/barrontoolz.zip",
+      "name": "barrontoolz.zip",
+      "discoveredText": "barron toolz",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/barronscom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/barronscom.zip",
+      "name": "barronscom.zip",
+      "discoveredText": "barron's c-com",
+      "localPath": "files/external/lenshellarchive-com/barronscom-a6bdd713.zip",
+      "status": "ready",
+      "size": 23684
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/basikmp3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/basikmp3.zip",
+      "name": "basikmp3.zip",
+      "discoveredText": "basik mp3",
+      "localPath": "files/external/lenshellarchive-com/basikmp3-ce64f6f9.zip",
+      "status": "ready",
+      "size": 107964
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/bauhaus3k.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bauhaus3k.zip",
+      "name": "bauhaus3k.zip",
+      "discoveredText": "bauhaus 3k",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/bawkbok.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bawkbok.zip",
+      "name": "bawkbok.zip",
+      "discoveredText": "bawkbok",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/bblidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bblidle.zip",
+      "name": "bblidle.zip",
+      "discoveredText": "bbl idle",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/bbl2idle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bbl2idle.zip",
+      "name": "bbl2idle.zip",
+      "discoveredText": "bbl idle²",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/bblidle3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bblidle3.zip",
+      "name": "bblidle3.zip",
+      "discoveredText": "bbl idle³",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bblidle31.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bblidle31.zip",
+      "name": "bblidle31.zip",
+      "discoveredText": "bbl idle³·¹",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/bblidle31.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bblidle31.zip",
+      "name": "bblidle31.zip",
+      "discoveredText": "bbl idle³·¹",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: idler's",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/bbl3revised.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bbl3revised.zip",
+      "name": "bbl3revised.zip",
+      "discoveredText": "bbl idle³·¹(revised)",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/bbe101.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bbe101.zip",
+      "name": "bbe101.zip",
+      "discoveredText": "be back eventually 1.0.1",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: prog's/misc a-m",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/beatbox.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/beatbox.zip",
+      "name": "beatbox.zip",
+      "discoveredText": "beatbox",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/imap.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/imap.zip",
+      "name": "imap.zip",
+      "discoveredText": "beav's image map code",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
     }
   ]
 };

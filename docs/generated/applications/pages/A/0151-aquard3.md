@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Source / developer file, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Readme.txt<br>Read Me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -87,6 +90,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Readme.txt<br>Read Me.txt | James Farmer (GonGy) (Readme.txt) | Fader / text styler<br>Source / developer file<br>AOL/AIM chat utility | none | Readme.txt includes archive-text author clue(s): James Farmer (GonGy).<br>Readme.txt has vocabulary for Fader / text styler, Source / developer file, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

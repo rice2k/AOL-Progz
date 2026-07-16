@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 7-8 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, Fader / text styler |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | styles.txt<br>read me or die!.txt<br>info.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | styles.txt<br>read me or die!.txt<br>info.ini | none | C-Com / command list<br>Fader / text styler | none | read me or die!.txt has vocabulary for C-Com / command list.<br>info.ini has vocabulary for Fader / text styler. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

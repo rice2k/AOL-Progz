@@ -28,18 +28,21 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.9 MB |
-| Matched web download links | 4 |
+| Matched web download links | 5 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1447-pianda-idle-by-nas.zip](../../../../../files/aol/aol-4-0/1447-pianda-idle-by-nas.zip)
-- Old-web / Wayback download leads: 4 link(s) listed below
+- Old-web / Wayback download leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/pianda.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/pianda.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/pianda.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/pianda.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/pianda.zip)
@@ -77,6 +80,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -89,6 +96,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | idler's | pianda idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pianda.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pianda.zip) | [http://lenshellarchive.com/Progs/aolidlers/pianda.zip](http://lenshellarchive.com/Progs/aolidlers/pianda.zip) |
 | Section 2 | Pianda Idle | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pianda.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/pianda.zip) | [http://www.cybernyse.com/downlowdz/pianda.zip](http://www.cybernyse.com/downlowdz/pianda.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Pianda Idle | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/pianda.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/pianda.zip) | [http://24.185.191.87/progz/pianda.zip](http://24.185.191.87/progz/pianda.zip) |
 | idler's | pianda idle v³ | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pianda3.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pianda3.zip) | [http://lenshellarchive.com/Progs/aolidlers/pianda3.zip](http://lenshellarchive.com/Progs/aolidlers/pianda3.zip) |
 | idler's | pianda idle v³ beta 2 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pibet2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pibet2.zip) | [http://lenshellarchive.com/Progs/aolidlers/pibet2.zip](http://lenshellarchive.com/Progs/aolidlers/pibet2.zip) |
 

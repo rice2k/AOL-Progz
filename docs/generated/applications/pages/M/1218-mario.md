@@ -28,19 +28,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 6 |
-| Matched mirror leads | 2 |
+| Matched web download links | 9 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1218-mario.zip](../../../../../files/aol/aol-4-0/1218-mario.zip)
-- Old-web / Wayback download leads: 6 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 9 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mario.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -90,8 +97,11 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/marioonlinev5.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip) | [http://www.oogle.net/downloads/progs/marioonlinev5.zip](http://www.oogle.net/downloads/progs/marioonlinev5.zip) |
 | Section 2 | Mario Online v3 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario3.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario3.zip) | [http://www.cybernyse.com/downlowdz/mario3.zip](http://www.cybernyse.com/downlowdz/mario3.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Mario Online v3 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mario3.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mario3.zip) | [http://24.185.191.87/progz/mario3.zip](http://24.185.191.87/progz/mario3.zip) |
 | Section 2 | Mario Online v4 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario4.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mario4.zip) | [http://www.cybernyse.com/downlowdz/mario4.zip](http://www.cybernyse.com/downlowdz/mario4.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Mario Online v4 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mario4.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mario4.zip) | [http://24.185.191.87/progz/mario4.zip](http://24.185.191.87/progz/mario4.zip) |
 | Section 2 | Mario Online v5 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip) | [http://www.cybernyse.com/downlowdz/marioonlinev5.zip](http://www.cybernyse.com/downlowdz/marioonlinev5.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Mario Online v5 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/marioonlinev5.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/marioonlinev5.zip) | [http://24.185.191.87/progz/marioonlinev5.zip](http://24.185.191.87/progz/marioonlinev5.zip) |
 | Visual Basic Section | mario2kv2 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mario2000v2.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mario2000v2.zip) | [http://lenshellarchive.com/VBfiles/mario2000v2.zip](http://lenshellarchive.com/VBfiles/mario2000v2.zip) |
 | prog's/misc n-z | super mario world | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/mario.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/mario.zip) | [http://lenshellarchive.com/Progs/aolprogs/mario.zip](http://lenshellarchive.com/Progs/aolprogs/mario.zip) |
 
@@ -101,6 +111,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | marioonlinev5.zip | [http://www.oogle.net/downloads/progs/marioonlinev5.zip](http://www.oogle.net/downloads/progs/marioonlinev5.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/marioonlinev5.zip) | unknown | candidate |
 | Section 2 | marioonlinev5.zip | [http://www.cybernyse.com/downlowdz/marioonlinev5.zip](http://www.cybernyse.com/downlowdz/marioonlinev5.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/marioonlinev5.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | marioonlinev5.zip | [http://24.185.191.87/progz/marioonlinev5.zip](http://24.185.191.87/progz/marioonlinev5.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/marioonlinev5.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/marioonlinev5.zip) | unknown | candidate |
 
 ### Web Image Leads
 

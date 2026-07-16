@@ -28,19 +28,22 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 5.0-7.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | non-VB |
 | Compile type | n/a |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 4.7 MB |
-| Matched web download links | 5 |
-| Matched mirror leads | 7 |
+| Matched web download links | 6 |
+| Matched mirror leads | 8 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +54,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1254-methodus3b2.zip](../../../../../files/aol/mixed/1254-methodus3b2.zip)
-- Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 7 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
+- Matched mirror leads: 8 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus toolz 3.0 for aol 5.0-7.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus%20toolz%203.0%20for%20aol%205.0-7.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus%20toolz%203.0%20for%20aol%205.0-7.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus%20toolz%203.0%20for%20aol%205.0-7.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/methodus%20toolz%203.0%20for%20aol%205.0-7.0.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -92,6 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/methodus.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip) | [http://www.oogle.net/downloads/progs/methodus.zip](http://www.oogle.net/downloads/progs/methodus.zip) |
 | prog's/misc a-m | methodus toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip) | [http://lenshellarchive.com/Progs/aolprogs/methodus.zip](http://lenshellarchive.com/Progs/aolprogs/methodus.zip) |
 | Section 2 | Methodus Toolz | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip) | [http://www.cybernyse.com/downlowdz/methodus.zip](http://www.cybernyse.com/downlowdz/methodus.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Methodus Toolz | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip) | [http://24.185.191.87/progz/methodus.zip](http://24.185.191.87/progz/methodus.zip) |
 | LensHell AIM progs | methodus toolz 3.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip) | [http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip](http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip) |
 
 ### Mirror Leads
@@ -102,9 +110,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Web page: prog's/misc a-m | methodus.zip | [http://lenshellarchive.com/Progs/aolprogs/methodus.zip](http://lenshellarchive.com/Progs/aolprogs/methodus.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip) | unknown | http-404 |
 | Web page: Section 2 | methodus.zip | [http://www.cybernyse.com/downlowdz/methodus.zip](http://www.cybernyse.com/downlowdz/methodus.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip) | unknown | http-404 |
 | Web page: LensHell AIM progs | methodus3b2.zip | [http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip](http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip) | unknown | http-404 |
-| Methodus Toolz downloads | methodus.exe | [http://methimages.hypermart.net/methodus.exe](http://methimages.hypermart.net/methodus.exe) | [https://web.archive.org/web/20001109201900/http://methimages.hypermart.net/methodus.exe](https://web.archive.org/web/20001109201900/http://methimages.hypermart.net/methodus.exe) | unknown | candidate |
-| Methodus Toolz downloads | methodus.exe | [http://methodus.bizland.com/methodus.exe](http://methodus.bizland.com/methodus.exe) | [https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe](https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe) | unknown | candidate |
-| Methodus Toolz downloads | methodus.exe | [http://www.methodus2000.com/methodustoolz/methodus.exe](http://www.methodus2000.com/methodustoolz/methodus.exe) | [https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe](https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe) | unknown | candidate |
+| Web page: Methodus Toolz downloads | methodus.exe | [http://methimages.hypermart.net/methodus.exe](http://methimages.hypermart.net/methodus.exe) | [https://web.archive.org/web/20001109201900/http://methimages.hypermart.net/methodus.exe](https://web.archive.org/web/20001109201900/http://methimages.hypermart.net/methodus.exe) | unknown | html-replay |
+| Web page: Methodus Toolz downloads | methodus.exe | [http://methodus.bizland.com/methodus.exe](http://methodus.bizland.com/methodus.exe) | [https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe](https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe) | unknown | html-replay |
+| Web page: Methodus Toolz downloads | methodus.exe | [http://www.methodus2000.com/methodustoolz/methodus.exe](http://www.methodus2000.com/methodustoolz/methodus.exe) | [https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe](https://web.archive.org/web/20001109201900/http://www.methodus2000.com/methodustoolz/methodus.exe) | unknown | http-404 |
+| Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | methodus.zip | [http://24.185.191.87/progz/methodus.zip](http://24.185.191.87/progz/methodus.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

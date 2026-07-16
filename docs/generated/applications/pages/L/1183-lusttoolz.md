@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, C-Com / command list, Source / developer file, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.8 MB |
-| Matched web download links | 2 |
+| Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1183-lusttoolz.zip](../../../../../files/aol/aol-4-0/1183-lusttoolz.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lustv1.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lustv1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lustv1.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lustv1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/lustv1.zip)
@@ -86,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | read me.txt | none | All-in-one prog suite<br>C-Com / command list<br>Source / developer file<br>AOL/AIM chat utility | none | read me.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file, AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -98,6 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | prog's/misc a-m | lust toolz v1 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lustv1.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lustv1.zip) | [http://lenshellarchive.com/Progs/aolprogs/lustv1.zip](http://lenshellarchive.com/Progs/aolprogs/lustv1.zip) |
 | Section 2 | Lust Toolz v1 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lustv1.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lustv1.zip) | [http://www.cybernyse.com/downlowdz/lustv1.zip](http://www.cybernyse.com/downlowdz/lustv1.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Lust Toolz v1 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lustv1.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lustv1.zip) | [http://24.185.191.87/progz/lustv1.zip](http://24.185.191.87/progz/lustv1.zip) |
 
 ### Mirror Leads
 

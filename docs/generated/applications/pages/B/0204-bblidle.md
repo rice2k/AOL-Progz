@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 5.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Fader / text styler, Idler / AFK bot, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | !!!!README!!!!!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | !!!!README!!!!!.txt | none | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Media / file utility | none | !!!!README!!!!!.txt has vocabulary for All-in-one prog suite, Fader / text styler, Idler / AFK bot, Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -2,7 +2,7 @@
 
 
 
-A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Readable archive text also suggests: Fader / text styler, Scroller / macro.
+A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Readable archive text also suggests: Fader / text styler, Scroller / macro. Recovered external ZIP text also suggests: Fader / text styler, Scroller / macro.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,11 +28,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Scroller / macro |
+| External ZIP text purpose clues | Fader / text styler, Scroller / macro |
 | Archive text files reviewed | presets/audio class.ini<br>presets/hmmm.ini<br>presets/inward.ini<br>presets/inward2.ini<br>presets/lexy =).ini<br>presets/myke.ini<br>presets/punt.ini<br>presets/punt2.ini<br>read me.txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -46,7 +49,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -81,6 +84,14 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | presets/audio class.ini<br>presets/hmmm.ini<br>presets/inward.ini<br>presets/inward2.ini<br>presets/lexy =).ini<br>presets/myke.ini<br>presets/punt.ini<br>presets/punt2.ini<br>read me.txt<br>aciddr0p.netReadMe.txt | none | Fader / text styler<br>Scroller / macro | none | presets/audio class.ini has vocabulary for Fader / text styler, Scroller / macro.<br>presets/hmmm.ini has vocabulary for Scroller / macro.<br>presets/inward.ini has vocabulary for Scroller / macro.<br>presets/inward2.ini has vocabulary for Scroller / macro.<br>presets/lexy =).ini has vocabulary for Scroller / macro.<br>presets/myke.ini has vocabulary for Scroller / macro.<br>presets/punt.ini has vocabulary for Fader / text styler, Scroller / macro.<br>presets/punt2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | [files/external/lenshellarchive-com/ccomsbeta3.zip](../../../../../files/external/lenshellarchive-com/ccomsbeta3.zip) | presets/audio class.ini<br>presets/hmmm.ini<br>presets/inward.ini<br>presets/inward2.ini<br>presets/lexy =).ini<br>presets/myke.ini | none | none | Fader / text styler<br>Scroller / macro | unknown | unknown |
 
 ### Source Mentions
 

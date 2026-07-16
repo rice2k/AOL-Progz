@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Media / file utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility, Punter / booter, All-in-one prog suite, C-Com / command list, Mass mailer / server, Account / TOS utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | README.TXT<br>APATHY.INI<br>luciferx/NAILZ.TXT<br>_conflicts/conflict.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 3 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | README.TXT<br>APATHY.INI<br>luciferx/NAILZ.TXT<br>_conflicts/conflict.txt | none | Media / file utility<br>Punter / booter<br>All-in-one prog suite<br>C-Com / command list<br>Mass mailer / server<br>Account / TOS utility<br>AOL/AIM chat utility | none | README.TXT has vocabulary for Media / file utility.<br>APATHY.INI has vocabulary for Punter / booter.<br>luciferx/NAILZ.TXT has vocabulary for All-in-one prog suite, Punter / booter, C-Com / command list, Mass mailer / server, Account / TOS utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

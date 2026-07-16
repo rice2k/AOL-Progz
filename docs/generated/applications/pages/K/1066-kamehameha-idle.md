@@ -28,11 +28,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | kamehameha idle/kame.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | kamehameha idle/kame.ini | none | Scroller / macro<br>AOL/AIM chat utility | none | kamehameha idle/kame.ini has vocabulary for Scroller / macro, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

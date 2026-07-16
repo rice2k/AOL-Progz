@@ -36,6 +36,7 @@ This section records original sites, Wayback captures, GitHub mirrors, source pa
 - [Crawled source pages](source-pages.md)
 - [Download links](download-links.md)
 - [External download recovery status](external-downloads.md)
+- [External ZIP text evidence](external-archive-text.md)
 - [AOL/AIM client and runtime downloads](aol-aim-client-downloads.md)
 - [Resource and directory links](resource-links.md)
 - [LoLToolz AIM progs source report](loltoolz-aim-progs.md)

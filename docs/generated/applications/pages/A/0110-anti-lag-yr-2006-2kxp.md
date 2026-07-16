@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 7-9 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 3 |
@@ -40,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.6 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,6 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0110-anti-lag.zip](../../../../../files/aol/aol-4-0/0110-anti-lag.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti lag aol7-9 yr2006 2kxp.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lag%20aol7-9%20yr2006%202kxp.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lag%20aol7-9%20yr2006%202kxp.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lag%20aol7-9%20yr2006%202kxp.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti%20lag%20aol7-9%20yr2006%202kxp.zip)
@@ -81,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | aciddr0p.netReadMe.txt | none | none | none | aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -96,7 +104,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: anti's | anti_lag.zip | [http://lenshellarchive.com/Progs/aolantis/anti_lag.zip](http://lenshellarchive.com/Progs/aolantis/anti_lag.zip) | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti_lag.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti_lag.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

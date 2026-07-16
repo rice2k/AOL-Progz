@@ -28,19 +28,22 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 4-5 |
 | Archive-text AOL/version mentions | AOL 5.0, AOL 6.0, AOL 4, AOL 5 |
+| External ZIP text version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Scroller / macro, Media / file utility, Account / TOS utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read me.txt<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 34 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 52 MB |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +54,8 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0650-elements-of-destruction.zip](../../../../../files/aol/mixed/0650-elements-of-destruction.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements of destruction aol4-5 password=click ownz all.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/elements%20of%20destruction%20aol4-5%20password%3Dclick%20ownz%20all.zip)
@@ -81,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Read me.txt<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt | none | All-in-one prog suite<br>Scroller / macro<br>Media / file utility<br>Account / TOS utility | AOL 5.0<br>AOL 6.0<br>AOL 4<br>AOL 5 | Read me.txt mentions AOL 5.0, AOL 6.0.<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.<br>_conflicts/conflict.txt mentions AOL 4, AOL 5.<br>_conflicts/conflict.txt has vocabulary for Account / TOS utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -91,11 +99,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Macintosh | Element | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/element.sit](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/element.sit) | [http://www.cybernyse.com/element.sit](http://www.cybernyse.com/element.sit) |
 | prog's/misc a-m | elements of destruction | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip) | [http://lenshellarchive.com/Progs/aolprogs/eod.zip](http://lenshellarchive.com/Progs/aolprogs/eod.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Macintosh | element.sit | [http://www.cybernyse.com/element.sit](http://www.cybernyse.com/element.sit) | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/element.sit](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/element.sit) | unknown | candidate |
 
 ### Web Image Leads
 

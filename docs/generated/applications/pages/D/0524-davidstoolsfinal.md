@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 5, AOL 4, AOL 3.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Room buster, C-Com / command list, Scroller / macro, Account / TOS utility, Source / developer file, Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | command list.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | command list.txt | none | All-in-one prog suite<br>Room buster<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | AOL 5<br>AOL 4<br>AOL 3.0 | command list.txt mentions AOL 5, AOL 4, AOL 3.0.<br>command list.txt has vocabulary for All-in-one prog suite, Room buster, C-Com / command list, Scroller / macro, Account / TOS utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

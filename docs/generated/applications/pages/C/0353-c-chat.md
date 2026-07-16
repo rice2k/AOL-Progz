@@ -28,18 +28,21 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4-5 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Chat / IM utility |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 6 |
+| Matched web download links | 7 |
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0353-cchat.zip](../../../../../files/aol/aol-4-0/0353-cchat.zip)
-- Old-web / Wayback download leads: 6 link(s) listed below
+- Old-web / Wayback download leads: 7 link(s) listed below
 - Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat aol4-5.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat%20aol4-5.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/c-chat%20aol4-5.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -94,6 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | LensHell AIM progs | chatagev1.1 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip](http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip) |
 | Titan Spaceports progs | iNfO's C-Chat | [https://web.archive.org/web/20010504044037/http://members.xoom.com/infosworld2/C-Chat.zip](https://web.archive.org/web/20010504044037/http://members.xoom.com/infosworld2/C-Chat.zip) | [http://members.xoom.com/infosworld2/C-Chat.zip](http://members.xoom.com/infosworld2/C-Chat.zip) |
 | Section 2 | Sonic Chat Toolz Gold | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sonicgold.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sonicgold.zip) | [http://www.cybernyse.com/downlowdz/sonicgold.zip](http://www.cybernyse.com/downlowdz/sonicgold.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Sonic Chat Toolz Gold | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sonicgold.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sonicgold.zip) | [http://24.185.191.87/progz/sonicgold.zip](http://24.185.191.87/progz/sonicgold.zip) |
 
 ### Mirror Leads
 

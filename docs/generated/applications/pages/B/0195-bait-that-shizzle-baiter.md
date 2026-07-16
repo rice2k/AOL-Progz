@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4-5 |
 | Archive-text AOL/version mentions | AOL 4.0, AOL 5.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Source / developer file |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me.txt<br>scroll.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | p-code |
 | Duplicate count | 3 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Read Me.txt<br>scroll.txt | none | Source / developer file<br>AOL/AIM chat utility | AOL 4.0<br>AOL 5.0 | Read Me.txt mentions AOL 4.0, AOL 5.0.<br>Read Me.txt has vocabulary for Source / developer file, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

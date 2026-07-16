@@ -28,18 +28,21 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Catalog AOL/version bucket | AOL 6.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 6.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Punter / booter |
 | Category | punter |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Punter / booter, Source / developer file, Screen-name utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Punt in the 2001/0distory.txt<br>Punt in the 2001/adistort.txt<br>Punt in the 2001/bdf.txt<br>Punt in the 2001/bdl.txt<br>Punt in the 2001/ReadMeNow.txt<br>Punt in the 2001/aol6mailblahdistortfreeze.txt<br>Punt in the 2001/PuntInThe2001.ini<br>Words From PHAT.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
-| Matched web download links | 3 |
+| Matched web download links | 4 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-6-0/1533-punt-in-the-2001.zip](../../../../../files/aol/aol-6-0/1533-punt-in-the-2001.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/punt2001.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/punt2001.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/punt2001.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/punt2001.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/6.0/punt2001.zip)
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Punt in the 2001/0distory.txt<br>Punt in the 2001/adistort.txt<br>Punt in the 2001/bdf.txt<br>Punt in the 2001/bdl.txt<br>Punt in the 2001/ReadMeNow.txt<br>Punt in the 2001/aol6mailblahdistortfreeze.txt<br>Punt in the 2001/PuntInThe2001.ini<br>Words From PHAT.txt | none | All-in-one prog suite<br>Punter / booter<br>Source / developer file<br>Screen-name utility | AOL 6.0 | Punt in the 2001/ReadMeNow.txt mentions AOL 6.0.<br>Punt in the 2001/ReadMeNow.txt has vocabulary for All-in-one prog suite, Punter / booter, Source / developer file.<br>Punt in the 2001/PuntInThe2001.ini has vocabulary for Screen-name utility.<br>Words From PHAT.txt mentions AOL 6.0.<br>Words From PHAT.txt has vocabulary for Punter / booter. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -98,6 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | AOL 6.0 PROGS | Punt 20001 | [https://web.archive.org/web/20010221025736/http://server39.hypermart.net/wipeout/punt2001.zip](https://web.archive.org/web/20010221025736/http://server39.hypermart.net/wipeout/punt2001.zip) | [http://server39.hypermart.net/wipeout/punt2001.zip](http://server39.hypermart.net/wipeout/punt2001.zip) |
 | punter's | punt in the 2001 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip) | [http://lenshellarchive.com/Progs/aolpunters/punt2001.zip](http://lenshellarchive.com/Progs/aolpunters/punt2001.zip) |
 | Section 2 | Punt in the 2001 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2001.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2001.zip) | [http://www.cybernyse.com/downlowdz/punt2001.zip](http://www.cybernyse.com/downlowdz/punt2001.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Punt in the 2001 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/punt2001.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/punt2001.zip) | [http://24.185.191.87/progz/punt2001.zip](http://24.185.191.87/progz/punt2001.zip) |
 
 ### Mirror Leads
 

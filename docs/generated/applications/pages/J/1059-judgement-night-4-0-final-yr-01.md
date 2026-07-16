@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 6.0 |
 | Inferred AOL version | AOL 6.0 |
 | Archive-text AOL/version mentions | AOL 4.0, AOL 5.0, AOL 6.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read First!!.txt<br>read me.txt<br>_conflicts/conflict.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 8 |
@@ -86,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Read First!!.txt<br>read me.txt<br>_conflicts/conflict.txt | none | Fader / text styler<br>Scroller / macro<br>Source / developer file<br>AOL/AIM chat utility | AOL 4.0<br>AOL 5.0<br>AOL 6.0 | Read First!!.txt mentions AOL 4.0, AOL 5.0.<br>Read First!!.txt has vocabulary for Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility.<br>_conflicts/conflict.txt mentions AOL 6.0. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

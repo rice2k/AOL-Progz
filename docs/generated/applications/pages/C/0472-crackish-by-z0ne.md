@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 9 |
 | Archive-text AOL/version mentions | AOL 9.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, Account / TOS utility, Screen-name utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Crackish/Description.txt<br>Crackish/Updates....txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Crackish/Description.txt<br>Crackish/Updates....txt<br>aciddr0p.netReadMe.txt | none | C-Com / command list<br>Account / TOS utility<br>Screen-name utility<br>AOL/AIM chat utility | AOL 9.0 | Crackish/Description.txt mentions AOL 9.0.<br>Crackish/Description.txt has vocabulary for C-Com / command list, Account / TOS utility, Screen-name utility, AOL/AIM chat utility.<br>Crackish/Updates....txt has vocabulary for C-Com / command list, Screen-name utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

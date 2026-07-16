@@ -28,11 +28,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Idler / AFK bot, Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | idler.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | idler.ini | none | Fader / text styler<br>Idler / AFK bot<br>Scroller / macro | none | idler.ini has vocabulary for Fader / text styler, Idler / AFK bot, Scroller / macro. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

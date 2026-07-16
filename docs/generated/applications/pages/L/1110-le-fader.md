@@ -28,11 +28,14 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 7.0, AOL 9.1 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | leanme.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -40,7 +43,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Download status | ready |
 | Local mirrored size | 3.3 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 5 |
+| Matched mirror leads | 6 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,7 +55,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 - Local mirrored archive: [files/aol/mixed/1110-le-fader.zip](../../../../../files/aol/mixed/1110-le-fader.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 5 link(s) listed below
+- Matched mirror leads: 6 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethalempirefaderaol9-9.1winXPvistayr2008.zip)
@@ -82,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | leanme.txt | none | Fader / text styler<br>AOL/AIM chat utility | AOL 7.0<br>AOL 9.1 | leanme.txt mentions AOL 7.0, AOL 9.1.<br>leanme.txt has vocabulary for Fader / text styler, AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -101,6 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | lethal.zip | [http://www.oogle.net/downloads/progs/lethal.zip](http://www.oogle.net/downloads/progs/lethal.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip) | unknown | candidate |
 | Section 2 | lethal.zip | [http://www.cybernyse.com/downlowdz/lethal.zip](http://www.cybernyse.com/downlowdz/lethal.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | lethal.zip | [http://24.185.191.87/progz/lethal.zip](http://24.185.191.87/progz/lethal.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip) | unknown | candidate |
 | prog's/misc a-m | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | unknown | candidate |
 | prog's/misc a-m | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal.zip](http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | unknown | candidate |
 | LensHell faders | lethalempirefader.zip | [http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) | unknown | candidate |

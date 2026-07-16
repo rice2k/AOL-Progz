@@ -28,11 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 6.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, C-Com / command list, Source / developer file, Scroller / macro, Account / TOS utility, Fader / text styler, Punter / booter, Mass mailer / server, AOL/AIM chat utility, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Dragon Toolz ReadME.txt<br>Brute Forcer.txt<br>Passwords.txt<br>WordList.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Dragon Toolz ReadME.txt<br>Brute Forcer.txt<br>Passwords.txt<br>WordList.txt | ize (WordList.txt) | All-in-one prog suite<br>C-Com / command list<br>Source / developer file<br>Scroller / macro<br>Account / TOS utility<br>Fader / text styler<br>Punter / booter<br>Mass mailer / server<br>AOL/AIM chat utility<br>Media / file utility | none | Dragon Toolz ReadME.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file.<br>Brute Forcer.txt has vocabulary for All-in-one prog suite, C-Com / command list, Scroller / macro, Account / TOS utility.<br>Passwords.txt has vocabulary for All-in-one prog suite, Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility.<br>WordList.txt includes archive-text author clue(s): ize.<br>WordList.txt has vocabulary for All-in-one prog suite, Punter / booter, Scroller / macro, Mass mailer / server, Account / TOS utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

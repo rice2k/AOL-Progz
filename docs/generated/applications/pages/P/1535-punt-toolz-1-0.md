@@ -28,11 +28,14 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 6.0, AOL 2.56 |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | punter |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me !.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -86,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | read me !.txt | none | All-in-one prog suite<br>Punter / booter<br>Media / file utility<br>AOL/AIM chat utility | AOL 6.0<br>AOL 2.56 | read me !.txt mentions AOL 6.0, AOL 2.56.<br>read me !.txt has vocabulary for All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

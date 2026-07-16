@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 3.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Punter / booter |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Punter / booter, AOL/AIM chat utility, Idler / AFK bot |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | one.ini<br>readme.txt<br>AutoTag.txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -40,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 536 KB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,6 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/1378-one.zip](../../../../../files/aol/aol-4-0/1378-one.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti1im.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti1im.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti1im.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti1im.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/anti1im.zip)
@@ -85,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | one.ini<br>readme.txt<br>AutoTag.txt<br>aciddr0p.netReadMe.txt | none | Punter / booter<br>AOL/AIM chat utility<br>Idler / AFK bot | AOL 3.0 | one.ini has vocabulary for Punter / booter, AOL/AIM chat utility.<br>readme.txt mentions AOL 3.0.<br>readme.txt has vocabulary for Idler / AFK bot, Punter / booter, AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -99,7 +107,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: anti's | anti1im.zip | [http://lenshellarchive.com/Progs/aolantis/anti1im.zip](http://lenshellarchive.com/Progs/aolantis/anti1im.zip) | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti1im.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti1im.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

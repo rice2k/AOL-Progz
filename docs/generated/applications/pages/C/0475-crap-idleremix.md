@@ -28,11 +28,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 6.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me slut!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | read me slut!.txt | none | Idler / AFK bot | none | read me slut!.txt has vocabulary for Idler / AFK bot. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

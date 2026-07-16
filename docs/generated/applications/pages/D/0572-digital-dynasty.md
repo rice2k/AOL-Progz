@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4.0, AOL 5.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Source / developer file, Media / file utility, AOL/AIM chat utility, Account / TOS utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | SOURCE CODE FOR SELL!.txt<br>FREE PHISH.TXT |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | SOURCE CODE FOR SELL!.txt<br>FREE PHISH.TXT | none | Fader / text styler<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility<br>Account / TOS utility | AOL 4.0<br>AOL 5.0 | SOURCE CODE FOR SELL!.txt mentions AOL 4.0, AOL 5.0.<br>SOURCE CODE FOR SELL!.txt has vocabulary for Fader / text styler, Source / developer file, Media / file utility, AOL/AIM chat utility.<br>FREE PHISH.TXT mentions AOL 4.0, AOL 5.0.<br>FREE PHISH.TXT has vocabulary for Account / TOS utility, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

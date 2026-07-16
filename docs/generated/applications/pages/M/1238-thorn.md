@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Source / developer file |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read First!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.7 MB |
-| Matched web download links | 5 |
+| Matched web download links | 6 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1238-mchat.zip](../../../../../files/aol/aol-4-0/1238-mchat.zip)
-- Old-web / Wayback download leads: 5 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
 - Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/thorn.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/thorn.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/thorn.zip)
@@ -87,6 +90,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Read First!.txt | none | Source / developer file<br>Media / file utility | none | Read First!.txt has vocabulary for Source / developer file, Media / file utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -100,6 +107,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/thorn.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip) | [http://www.oogle.net/downloads/progs/thorn.zip](http://www.oogle.net/downloads/progs/thorn.zip) |
 | prog's/misc n-z | thorn | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip) | [http://lenshellarchive.com/Progs/aolprogs/thorn.zip](http://lenshellarchive.com/Progs/aolprogs/thorn.zip) |
 | Section 2 | Thorn v3 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thorn.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thorn.zip) | [http://www.cybernyse.com/downlowdz/thorn.zip](http://www.cybernyse.com/downlowdz/thorn.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Thorn v3 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thorn.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thorn.zip) | [http://24.185.191.87/progz/thorn.zip](http://24.185.191.87/progz/thorn.zip) |
 | Click-Online AOL 4/5 progz | thorn v3.o | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn3.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn3.zip) | [http://click-online2000.com/progz/thorn3.zip](http://click-online2000.com/progz/thorn3.zip) |
 | Click-Online AOL 4/5 progz | thorn v4.o | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn4.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn4.zip) | [http://click-online2000.com/progz/thorn4.zip](http://click-online2000.com/progz/thorn4.zip) |
 

@@ -28,11 +28,14 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Color Spy/Read Me File.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Color Spy/Read Me File.txt | none | Media / file utility | none | Color Spy/Read Me File.txt has vocabulary for Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

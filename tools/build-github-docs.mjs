@@ -5,6 +5,11 @@ import vm from "node:vm";
 const rootDir = path.resolve(import.meta.dirname, "..");
 const generatedRoot = "docs/generated";
 const generatedDir = path.join(rootDir, generatedRoot);
+const showProgress = /^(1|true|yes)$/i.test(process.env.AOL_DOC_PROGRESS || "");
+
+function progress(message) {
+  if (showProgress) console.log(`[docs] ${message}`);
+}
 
 function readJson(relativePath, fallback) {
   const fullPath = path.join(rootDir, relativePath);
@@ -182,6 +187,7 @@ function appTags(program, embeddedUrls) {
   if (enrichment.manualPurposeSignals?.length) tags.add("has-manual-purpose-clues");
   if (enrichment.archivePurposeSignals?.length) tags.add("has-readme-purpose-clues");
   if (enrichment.archiveAolVersions?.length) tags.add("has-readme-aol-version-clues");
+  if (enrichment.externalArchiveTextEvidence?.length) tags.add("has-external-zip-text-evidence");
   if (enrichment.webDownloadLinks?.length) tags.add("has-old-web-downloads");
   return [...tags].sort();
 }
@@ -203,6 +209,13 @@ function appPurpose(program) {
   if (cues.length) bits.push(`Filename/catalog cues suggest: ${cues.join(", ")}.`);
   if (enrichment.archivePurposeSignals?.length) {
     bits.push(`Readable archive text also suggests: ${enrichment.archivePurposeSignals.slice(0, 6).join(", ")}.`);
+  }
+  const externalSignals = uniqueBy(
+    (enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.purposeSignals || []),
+    (item) => item,
+  );
+  if (externalSignals.length) {
+    bits.push(`Recovered external ZIP text also suggests: ${externalSignals.slice(0, 6).join(", ")}.`);
   }
   if (enrichment.manualPurposeSignals?.length) {
     bits.push(`Curated source evidence also suggests: ${enrichment.manualPurposeSignals.slice(0, 6).join(", ")}.`);
@@ -510,12 +523,17 @@ const urlIndex = readJson("data/url-index.json", { perProgram: {} });
 const webResources = readJson("data/web-resources.json", { pages: [], links: [] });
 const webAssets = readJson("data/web-assets.json", { assets: [] });
 const externalDownloads = readJson("data/external-downloads.json", { downloads: [], mirrorGroups: [] });
+const externalArchiveText = readJson("data/external-archive-text.json", { records: [], byLocalPath: {} });
 const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
 const programEnrichment = readJson("data/program-enrichment.json", { perProgram: {} });
 const externalDownloadByUrl = new Map((externalDownloads.downloads || []).map((item) => [canonicalUrl(item.originalUrl), item]));
 
 function recoveryForUrl(url) {
   return externalDownloadByUrl.get(canonicalUrl(url)) || null;
+}
+
+function externalTextFor(item) {
+  return item?.localPath ? externalArchiveText.byLocalPath?.[item.localPath] || null : null;
 }
 
 const userSuppliedLinks = [
@@ -666,6 +684,17 @@ function buildMasterLinks() {
     add({ url: item.originalUrl, label: item.name, kind: "external original download", source: item.sourceList, context: item.status });
     add({ url: item.waybackUrl, label: `${item.name} Wayback`, kind: "external Wayback download", source: item.sourceList, context: item.status });
   }
+  for (const record of externalArchiveText.records || []) {
+    for (const url of record.urls || []) {
+      add({
+        url,
+        label: url,
+        kind: "embedded external archive-text URL",
+        source: record.name || record.localPath || "external archive text",
+        context: record.localPath || record.sourceList || "",
+      });
+    }
+  }
   for (const candidate of missingCandidates.candidates || []) {
     for (const mirror of candidate.mirrors || []) {
       add({ url: mirror.url, label: candidate.fileName || candidate.key, kind: "missing-candidate original mirror", source: mirror.source, context: mirror.status });
@@ -725,9 +754,12 @@ for (const program of programs) {
 }
 
 for (const program of programs) {
+  if (program.index === 1 || program.index % 100 === 0) progress(`application pages: ${program.index}/${programs.length}`);
   const doc = appDocPaths.get(program.id);
   const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
   const enrichment = enrichmentFor(program);
+  const externalTextVersions = uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.versionMentions || []), (item) => item);
+  const externalTextPurposes = uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.purposeSignals || []), (item) => item);
   const tags = appTags(program, embedded);
   const screenshots = program.screenshots || [];
   const metadataRows = [
@@ -749,11 +781,20 @@ for (const program of programs) {
     ["Catalog AOL/version bucket", versionLabel(program)],
     ["Inferred AOL version", enrichment.inferredAolVersion || "unknown"],
     ["Archive-text AOL/version mentions", enrichment.archiveAolVersions?.length ? enrichment.archiveAolVersions.join(", ") : "unknown"],
+    [
+      "External ZIP text version mentions",
+      externalTextVersions.length ? externalTextVersions.join(", ") : "unknown",
+    ],
     ["Prog type", programType(program)],
     ["Category", program.category || "uncategorized"],
     ["Manual purpose clues", enrichment.manualPurposeSignals?.length ? enrichment.manualPurposeSignals.join(", ") : "unknown"],
     ["Archive-text purpose clues", enrichment.archivePurposeSignals?.length ? enrichment.archivePurposeSignals.join(", ") : "unknown"],
+    [
+      "External ZIP text purpose clues",
+      externalTextPurposes.length ? externalTextPurposes.join(", ") : "unknown",
+    ],
     ["Archive text files reviewed", enrichment.archiveTextFiles?.length ? enrichment.archiveTextFiles.join("<br>") : "none"],
+    ["Matched external ZIP text evidence", String(enrichment.externalArchiveTextEvidence?.length || 0)],
     ["Visual Basic", program.visualBasic || "unknown"],
     ["Compile type", program.compile || "unknown"],
     ["Duplicate count", String(program.duplicates || 0)],
@@ -803,6 +844,28 @@ for (const program of programs) {
         ),
       ].join("\n")
     : "### Archive Text Scan\n\nNo readable ReadMe/NFO/source text has been extracted for this entry yet.";
+
+  const externalArchiveTextBlock = enrichment.externalArchiveTextEvidence?.length
+    ? [
+        "### Matched External ZIP Text Evidence",
+        "",
+        "Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.",
+        "",
+        table(
+          ["Mirror/source", "Local file", "Text files", "Author clues", "Version clues", "Purpose clues", "Description clues", "URLs found inside"],
+          enrichment.externalArchiveTextEvidence.map((item) => [
+            item.sourceName || item.label || "external mirror",
+            item.localPath ? localLink(doc, item.localPath, item.localPath) : "",
+            item.textFiles?.slice(0, 6).join("<br>") || String(item.textFileCount || 0),
+            item.preferredAuthor || item.authorCandidates?.map((author) => author.name).slice(0, 4).join("<br>") || "none",
+            item.versionMentions?.slice(0, 6).join("<br>") || "none",
+            item.purposeSignals?.slice(0, 6).join("<br>") || "none",
+            item.descriptionCandidates?.map((description) => description.text).slice(0, 3).join("<br>") || "",
+            item.urls?.map((url) => link(url, url)).slice(0, 4).join("<br>") || "",
+          ]),
+        ),
+      ].join("\n")
+    : "### Matched External ZIP Text Evidence\n\nNo recovered external ZIP text is matched to this entry yet.";
 
   const screenshotBlock = screenshots.length
     ? [
@@ -924,6 +987,8 @@ for (const program of programs) {
     "",
     archiveTextBlock,
     "",
+    externalArchiveTextBlock,
+    "",
     webMentionBlock,
     "",
     webDownloadBlock,
@@ -1010,6 +1075,7 @@ writeDoc(
   ].join("\n"),
 );
 
+progress("top-level generated hub");
 writeDoc(
   `${generatedRoot}/README.md`,
   [
@@ -1038,6 +1104,7 @@ writeDoc(
         ["Programs with archive-text authors", String(programEnrichment.programsWithArchiveTextAuthors || 0)],
         ["Programs with archive-text purpose clues", String(programEnrichment.programsWithArchivePurposeSignals || 0)],
         ["Programs with archive-text AOL/version clues", String(programEnrichment.programsWithArchiveAolVersionMentions || 0)],
+        ["Programs with matched external ZIP text evidence", String(programEnrichment.programsWithExternalArchiveTextEvidence || 0)],
         ["Programs with author conflicts flagged", String(programEnrichment.programsWithAuthorConflicts || 0)],
         ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
         ["Crawled unique links", String(webResources.linkCount || 0)],
@@ -1045,6 +1112,10 @@ writeDoc(
         ["Master deduped link index", String(masterLinks.length)],
         ["User supplied priority links", String(uniqueBy(userSuppliedLinks, (item) => linkKey(item[2])).length)],
         ["Recovered external files", String(externalDownloads.readyCount || 0)],
+        ["External ZIPs with readable text", String(externalArchiveText.withTextFileCount || 0)],
+        ["External ZIPs with author clues", String(externalArchiveText.withAuthorCount || 0)],
+        ["External ZIPs with version clues", String(externalArchiveText.withVersionCount || 0)],
+        ["External ZIPs with purpose clues", String(externalArchiveText.withPurposeCount || 0)],
         ["External mirror groups", String(externalDownloads.mirrorGroupCount || 0)],
         ["Recovered web images", String(webAssets.readyCount || 0)],
       ],
@@ -1070,6 +1141,7 @@ writeDoc(
   ].join("\n"),
 );
 
+progress("application indexes");
 const byFirst = groupBy(programs, firstBucket);
 const firstRows = [...byFirst.entries()]
   .sort(([a], [b]) => a.localeCompare(b))
@@ -1169,6 +1241,7 @@ const enrichmentRows = programs
       enrichment.authorConflict ||
       enrichment.manualPurposeSignals?.length ||
       enrichment.archivePurposeSignals?.length ||
+      enrichment.externalArchiveTextEvidence?.length ||
       enrichment.archiveAolVersions?.length ||
       enrichment.inferredAolVersion ||
       enrichment.webDownloadLinks?.length ||
@@ -1190,10 +1263,14 @@ const enrichmentRows = programs
       enrichment.archiveAolVersions?.length ? enrichment.archiveAolVersions.join("<br>") : "",
       enrichment.manualPurposeSignals?.length ? enrichment.manualPurposeSignals.join("<br>") : "",
       enrichment.archivePurposeSignals?.length ? enrichment.archivePurposeSignals.join("<br>") : "",
+      uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.purposeSignals || []), (item) => item)
+        .slice(0, 8)
+        .join("<br>"),
       fileSizeLabel(program),
       String(enrichment.webDownloadLinks?.length || 0),
       String(enrichment.webMentions?.length || 0),
       String(enrichment.mirrorLinks?.length || 0),
+      String(enrichment.externalArchiveTextEvidence?.length || 0),
     ];
   });
 
@@ -1202,7 +1279,7 @@ writeDoc(
   [
     "# Program Metadata Enrichment Report",
     "",
-    `Generated from archive filenames, local file sizes, readable archive text, manual corrections, crawled source pages, old-page download links, and mirror lists. Improved names: **${programEnrichment.programsWithImprovedNames || 0}**. Archive-text authors: **${programEnrichment.programsWithArchiveTextAuthors || 0}**. Manual purpose clues: **${programEnrichment.programsWithManualPurposeSignals || 0}**. Archive-text purpose clues: **${programEnrichment.programsWithArchivePurposeSignals || 0}**. Author conflicts flagged: **${programEnrichment.programsWithAuthorConflicts || 0}**. Programs with web downloads: **${programEnrichment.programsWithWebDownloadLinks || 0}**. Programs with source mentions: **${programEnrichment.programsWithWebMentions || 0}**. Programs with mirror leads: **${programEnrichment.programsWithMirrorLinks || 0}**.`,
+    `Generated from archive filenames, local file sizes, readable archive text, external ZIP text evidence, manual corrections, crawled source pages, old-page download links, and mirror lists. Improved names: **${programEnrichment.programsWithImprovedNames || 0}**. Archive-text authors: **${programEnrichment.programsWithArchiveTextAuthors || 0}**. Manual purpose clues: **${programEnrichment.programsWithManualPurposeSignals || 0}**. Archive-text purpose clues: **${programEnrichment.programsWithArchivePurposeSignals || 0}**. Matched external ZIP text evidence: **${programEnrichment.programsWithExternalArchiveTextEvidence || 0}**. Author conflicts flagged: **${programEnrichment.programsWithAuthorConflicts || 0}**. Programs with web downloads: **${programEnrichment.programsWithWebDownloadLinks || 0}**. Programs with source mentions: **${programEnrichment.programsWithWebMentions || 0}**. Programs with mirror leads: **${programEnrichment.programsWithMirrorLinks || 0}**.`,
     "",
     table(
       [
@@ -1217,16 +1294,19 @@ writeDoc(
         "Archive-text AOL/version",
         "Manual purpose",
         "Archive-text purpose",
+        "External ZIP text purpose",
         "Size",
         "Web downloads",
         "Source mentions",
         "Mirror leads",
+        "External ZIP evidence",
       ],
       enrichmentRows,
     ),
   ].join("\n"),
 );
 
+progress("category, version, tag, and author indexes");
 const byCategory = groupBy(programs, (program) => program.category || "uncategorized");
 const categoryRows = [...byCategory.entries()]
   .sort((a, b) => b[1].length - a[1].length)
@@ -1339,6 +1419,7 @@ writeDoc(
   ].join("\n"),
 );
 
+progress("source reports");
 const sourceCollections = catalog.research?.sourceCollections || [];
 const sourceRows = sourceCollections.map((source) => [
   source.name,
@@ -1366,6 +1447,7 @@ writeDoc(
     "- [Crawled source pages](source-pages.md)",
     "- [Download links](download-links.md)",
     "- [External download recovery status](external-downloads.md)",
+    "- [External ZIP text evidence](external-archive-text.md)",
     "- [AOL/AIM client and runtime downloads](aol-aim-client-downloads.md)",
     "- [Resource and directory links](resource-links.md)",
     "- [LoLToolz AIM progs source report](loltoolz-aim-progs.md)",
@@ -1382,7 +1464,7 @@ writeDoc(
   [
     "# Master All-Links Index",
     "",
-    `This page deduplicates every URL currently known to the archive: user-supplied links, curated sources, crawled source pages, crawled page links, extracted download links, embedded archive-text URLs, external mirror URLs, missing-candidate mirrors, and recovered web-image URLs. Current unique URL count: **${masterLinks.length}**.`,
+    `This page deduplicates every URL currently known to the archive: user-supplied links, curated sources, crawled source pages, crawled page links, extracted download links, embedded archive-text URLs, recovered external ZIP text URLs, external mirror URLs, missing-candidate mirrors, and recovered web-image URLs. Current unique URL count: **${masterLinks.length}**.`,
     "",
     masterLinkTable(`${generatedRoot}/sources/all-links.md`, masterLinks),
   ].join("\n"),
@@ -1500,16 +1582,23 @@ writeDoc(
   ].join("\n"),
 );
 
-const externalDownloadRows = (externalDownloads.downloads || []).map((item) => [
-  item.name || fileStem(item.originalUrl || item.waybackUrl),
-  item.discoveredText || "",
-  item.sourceList || "",
-  item.status || "unknown",
-  formatBytes(item.size),
-  item.localPath ? localLink(`${generatedRoot}/sources/external-downloads.md`, item.localPath, item.localPath) : "not recovered",
-  item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
-  item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
-]);
+const externalDownloadRows = (externalDownloads.downloads || []).map((item) => {
+  const evidence = externalTextFor(item);
+  return [
+    item.name || fileStem(item.originalUrl || item.waybackUrl),
+    item.discoveredText || "",
+    item.sourceList || "",
+    item.status || "unknown",
+    formatBytes(item.size),
+    item.localPath ? localLink(`${generatedRoot}/sources/external-downloads.md`, item.localPath, item.localPath) : "not recovered",
+    evidence?.textFileCount ? String(evidence.textFileCount) : "",
+    evidence?.preferredAuthor || "",
+    evidence?.versionMentions?.slice(0, 4).join("<br>") || "",
+    evidence?.purposeSignals?.slice(0, 5).join("<br>") || "",
+    item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+    item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
+  ];
+});
 
 writeDoc(
   `${generatedRoot}/sources/external-downloads.md`,
@@ -1518,23 +1607,84 @@ writeDoc(
     "",
     `This table records every external download that has been attempted by the recovery pass. Ready files are mirrored locally under \`files/external/\`. Current recovered files: **${externalDownloads.readyCount || 0}** of **${externalDownloads.downloadCount || externalDownloadRows.length}** attempted downloads.`,
     "",
-    table(["File", "Label/context", "Source", "Status", "Size", "Local file", "Original URL", "Wayback/download URL"], externalDownloadRows),
+    table(
+      [
+        "File",
+        "Label/context",
+        "Source",
+        "Status",
+        "Size",
+        "Local file",
+        "Text files",
+        "Author clues",
+        "Version clues",
+        "Purpose clues",
+        "Original URL",
+        "Wayback/download URL",
+      ],
+      externalDownloadRows,
+    ),
+  ].join("\n"),
+);
+
+const externalArchiveTextRows = (externalArchiveText.records || [])
+  .filter((record) => record.scanned && record.textFileCount > 0)
+  .map((record) => [
+    record.name || fileStem(record.localPath),
+    record.localPath ? localLink(`${generatedRoot}/sources/external-archive-text.md`, record.localPath, record.localPath) : "",
+    record.sourceList || "",
+    String(record.textFileCount || 0),
+    record.textFiles?.slice(0, 6).join("<br>") || "",
+    record.preferredAuthor || "",
+    record.versionMentions?.slice(0, 8).join("<br>") || "",
+    record.purposeSignals?.slice(0, 8).join("<br>") || "",
+    record.descriptionCandidates?.map((item) => item.text).slice(0, 3).join("<br>") || "",
+    record.urls?.map((url) => link(url, url)).slice(0, 5).join("<br>") || "",
+  ]);
+
+writeDoc(
+  `${generatedRoot}/sources/external-archive-text.md`,
+  [
+    "# External ZIP Text Evidence",
+    "",
+    `Recovered external ZIPs are scanned for readmes, notes, HTML, source files, URL shortcuts, and other text-like entries. Current readable ZIPs: **${externalArchiveText.withTextFileCount || 0}** of **${externalArchiveText.scannedCount || 0}** scanned external ZIPs. This is provenance and description evidence only; binaries are not executed.`,
+    "",
+    table(
+      [
+        "File",
+        "Local file",
+        "Source",
+        "Text files",
+        "Text entries",
+        "Author clues",
+        "Version clues",
+        "Purpose clues",
+        "Description clues",
+        "URLs found inside",
+      ],
+      externalArchiveTextRows,
+    ),
   ].join("\n"),
 );
 
 const clientDownloadRows = (externalDownloads.downloads || [])
   .filter(isClientOrRuntimeDownload)
-  .map((item) => [
-    item.name || fileStem(item.originalUrl || item.waybackUrl),
-    inferredClientVersion(item),
-    item.discoveredText || "",
-    item.sourceList || "",
-    item.status || "unknown",
-    formatBytes(item.size),
-    item.localPath ? localLink(`${generatedRoot}/sources/aol-aim-client-downloads.md`, item.localPath, item.localPath) : "not recovered",
-    item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
-    item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
-  ]);
+  .map((item) => {
+    const evidence = externalTextFor(item);
+    return [
+      item.name || fileStem(item.originalUrl || item.waybackUrl),
+      inferredClientVersion(item),
+      item.discoveredText || "",
+      item.sourceList || "",
+      item.status || "unknown",
+      formatBytes(item.size),
+      item.localPath ? localLink(`${generatedRoot}/sources/aol-aim-client-downloads.md`, item.localPath, item.localPath) : "not recovered",
+      evidence?.versionMentions?.slice(0, 4).join("<br>") || "",
+      evidence?.purposeSignals?.slice(0, 5).join("<br>") || "",
+      item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+      item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
+    ];
+  });
 
 writeDoc(
   `${generatedRoot}/sources/aol-aim-client-downloads.md`,
@@ -1543,7 +1693,22 @@ writeDoc(
     "",
     "Versioned AOL/AIM installers, AIM utilities, AOL utilities, and DLL/OCX runtime support files recovered or attempted from user-supplied source pages. These are tracked separately from the prog catalog so client installers and runtimes do not get mistaken for authored progs.",
     "",
-    table(["File", "Inferred version", "Label/context", "Source", "Status", "Size", "Local file", "Original URL", "Wayback/download URL"], clientDownloadRows),
+    table(
+      [
+        "File",
+        "Inferred version",
+        "Label/context",
+        "Source",
+        "Status",
+        "Size",
+        "Local file",
+        "Text version clues",
+        "Text purpose clues",
+        "Original URL",
+        "Wayback/download URL",
+      ],
+      clientDownloadRows,
+    ),
   ].join("\n"),
 );
 
@@ -1632,7 +1797,18 @@ writeDoc(
     "These are filenames or program leads discovered from external old-web sources and compared against the main catalog. Ready counts mean at least one local mirror was recovered. Recovery statuses come from the external-file mirroring pass.",
     "",
     table(
-      ["Key", "Category", "Mirrors", "Recovery statuses", "Ready", "Ready local files"],
+      [
+        "Key",
+        "Category",
+        "Mirrors",
+        "Recovery statuses",
+        "Ready",
+        "Ready local files",
+        "Text author clues",
+        "Text version clues",
+        "Text purpose clues",
+        "URLs found inside",
+      ],
       (missingCandidates.candidates || []).map((candidate) => [
         candidate.key || candidate.fileName || "unknown",
         candidate.category || "unknown",
@@ -1643,6 +1819,10 @@ writeDoc(
         String(candidate.readyCount || candidate.readyLocalFiles?.length || 0),
         (candidate.readyLocalFiles || []).map((file) => localLink(`${generatedRoot}/sources/missing-candidates.md`, file, file)).join("<br>") ||
           "none",
+        candidate.externalTextAuthors?.slice(0, 4).join("<br>") || "",
+        candidate.externalTextVersions?.slice(0, 4).join("<br>") || "",
+        candidate.externalTextPurposeSignals?.slice(0, 5).join("<br>") || "",
+        (candidate.externalTextUrls || []).map((url) => link(url, url)).slice(0, 4).join("<br>") || "",
       ]),
     ),
   ].join("\n"),
@@ -1696,6 +1876,7 @@ writeDoc(
   ].join("\n"),
 );
 
+progress("statistics and glossary");
 writeDoc(
   `${generatedRoot}/screenshots/web-images.md`,
   [
@@ -1740,6 +1921,26 @@ writeDoc(
     "## Download Status",
     "",
     table(["Name", "Count"], (catalog.stats?.byDownloadStatus || []).map((item) => [item.name, String(item.count)])),
+    "",
+    "## Research And Recovery",
+    "",
+    table(
+      ["Metric", "Value"],
+      [
+        ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
+        ["Crawled links", String(webResources.linkCount || 0)],
+        ["Crawled download links", String(webResources.downloadCount || 0)],
+        ["Recovered external files", String(externalDownloads.readyCount || 0)],
+        ["External ZIPs scanned for text", String(externalArchiveText.scannedCount || 0)],
+        ["External ZIPs with readable text", String(externalArchiveText.withTextFileCount || 0)],
+        ["External ZIPs with author clues", String(externalArchiveText.withAuthorCount || 0)],
+        ["External ZIPs with version clues", String(externalArchiveText.withVersionCount || 0)],
+        ["External ZIPs with purpose clues", String(externalArchiveText.withPurposeCount || 0)],
+        ["Missing candidates", String(missingCandidates.candidateCount || missingCandidates.candidates?.length || 0)],
+        ["Recovered missing candidates", String(missingCandidates.readyCandidateCount || 0)],
+        ["Master deduped link index", String(masterLinks.length)],
+      ],
+    ),
   ].join("\n"),
 );
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Linker / chat linker |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Linker / chat linker, Source / developer file |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Fink�r Link�r Inf0.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Fink�r Link�r Inf0.txt | none | Linker / chat linker<br>Source / developer file | none | Fink�r Link�r Inf0.txt has vocabulary for Linker / chat linker, Source / developer file. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

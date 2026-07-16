@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Scroller / macro |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro, Media / file utility, All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | nrg.ini<br>nrgreadme.txt<br>roomz.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | nrg.ini<br>nrgreadme.txt<br>roomz.ini | none | Scroller / macro<br>Media / file utility<br>All-in-one prog suite<br>Mass mailer / server<br>AOL/AIM chat utility | none | nrg.ini has vocabulary for Scroller / macro, Media / file utility.<br>nrgreadme.txt has vocabulary for All-in-one prog suite, Scroller / macro, Mass mailer / server, Media / file utility, AOL/AIM chat utility.<br>roomz.ini has vocabulary for Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

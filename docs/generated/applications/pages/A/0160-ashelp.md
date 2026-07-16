@@ -28,11 +28,14 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Scroller / macro |
 | Category | scroller or macro |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -40,7 +43,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Download status | ready |
 | Local mirrored size | 1.1 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,7 +55,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 
 - Local mirrored archive: [files/aol/aol-4-0/0160-ascii.zip](../../../../../files/aol/aol-4-0/0160-ascii.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ashelp.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ashelp.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ashelp.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ashelp.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/ashelp.zip)
@@ -82,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | ReadMe.txt | none | Scroller / macro | none | ReadMe.txt has vocabulary for Scroller / macro. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -101,6 +108,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | ashelp.zip | [http://lenshellarchive.com/Progs/aolprogs/ashelp.zip](http://lenshellarchive.com/Progs/aolprogs/ashelp.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ashelp.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ashelp.zip) | unknown | http-404 |
+| Web page: prog's/misc a-m | ascii2.zip | [http://lenshellarchive.com/Progs/aolprogs/ascii2.zip](http://lenshellarchive.com/Progs/aolprogs/ascii2.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ascii2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ascii2.zip) | unknown | http-404 |
 | Visual Basic Section | visasciisource.zip | [http://lenshellarchive.com/VBfiles/visasciisource.zip](http://lenshellarchive.com/VBfiles/visasciisource.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/visasciisource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/visasciisource.zip) | unknown | candidate |
 
 ### Web Image Leads

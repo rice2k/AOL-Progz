@@ -28,19 +28,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 9.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | AOL/AIM chat utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Generation X/Description.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.9 MB |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0832-generation-x.zip](../../../../../files/aol/aol-4-0/0832-generation-x.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/generationx.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/generationx.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/generationx.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/generationx.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/generationx.zip)
@@ -81,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Generation X/Description.txt | none | AOL/AIM chat utility | AOL 9.0 | Generation X/Description.txt mentions AOL 9.0.<br>Generation X/Description.txt has vocabulary for AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -91,11 +99,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Macintosh | Degeneration X v 1.0 | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx) | [http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx](http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx) |
 | prog's/misc a-m | generation x | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/generationx.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/generationx.zip) | [http://lenshellarchive.com/Progs/aolprogs/generationx.zip](http://lenshellarchive.com/Progs/aolprogs/generationx.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Macintosh | Degeneration%20X%201.0%20palette.hqx | [http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx](http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx) | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Degeneration%20X%201.0%20palette.hqx) | unknown | candidate |
 
 ### Web Image Leads
 

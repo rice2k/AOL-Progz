@@ -28,11 +28,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 7.0 |
 | Archive-text AOL/version mentions | AOL 7.0, AOL 8.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Linker / chat linker |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ ME!!!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -82,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | READ ME!!!.txt | none | none | AOL 7.0<br>AOL 8.0 | READ ME!!!.txt mentions AOL 7.0, AOL 8.0. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -99,8 +106,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | aolinker.zip | [http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) | unknown | http-404 |
 | Progs Section 1 | aolinker.zip | [http://www.cybernyse.com/aolinker.zip](http://www.cybernyse.com/aolinker.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aolinker.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aolinker.zip) | unknown | candidate |
-| prog's/misc a-m | aolinker.zip | [http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | README~1.TXT |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -82,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | README~1.TXT | none | none | none | unknown |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -101,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Web page: Click-Online AOL 4/5 progz | gothic.zip | [http://click-online2000.com/progz/gothic.zip](http://click-online2000.com/progz/gothic.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip) | [files/external/click-online2000-com/gothic-e59e9fc1.zip](../../../../../files/external/click-online2000-com/gothic-e59e9fc1.zip) | ready |
+| Web page: Click-Online AOL 4/5 progz | gothic.zip | [http://click-online2000.com/progz/gothic.zip](http://click-online2000.com/progz/gothic.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip) | unknown | html-replay |
 | Progs Section 1 | gothicwithdll.zip | [http://www.cybernyse.com/gothicwithdll.zip](http://www.cybernyse.com/gothicwithdll.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip) | unknown | candidate |
 
 ### Web Image Leads

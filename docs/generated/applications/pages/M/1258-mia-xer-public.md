@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 5.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 5.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Media / file utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | mia x..read first.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | mia x..read first.txt | none | Media / file utility | AOL 5.0 | mia x..read first.txt mentions AOL 5.0.<br>mia x..read first.txt has vocabulary for Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,19 +28,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched web download links | 6 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
 
@@ -51,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/static.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/static.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/static.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/static.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/static.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -88,14 +95,22 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| curl/ | curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip | [http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip) | [http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip) |
+| curl/ | curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip) | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip) |
+| curl/ | curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z) | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z) |
 | c-coms | static comz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/static.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/static.zip) | [http://lenshellarchive.com/Progs/aolccoms/static.zip](http://lenshellarchive.com/Progs/aolccoms/static.zip) |
 | AIM | Static X v 2.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip) | [http://www.cybernyse.com/downlowdz/aimstaticxv2.zip](http://www.cybernyse.com/downlowdz/aimstaticxv2.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Static X v 2.0 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip) | [http://24.185.191.87/progz/aimstaticxv2.zip](http://24.185.191.87/progz/aimstaticxv2.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | AIM | aimstaticxv2.zip | [http://www.cybernyse.com/downlowdz/aimstaticxv2.zip](http://www.cybernyse.com/downlowdz/aimstaticxv2.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimstaticxv2.zip | [http://24.185.191.87/progz/aimstaticxv2.zip](http://24.185.191.87/progz/aimstaticxv2.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip) | unknown | candidate |
+| curl/ | curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip | [http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip) | [http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip) | unknown | candidate |
+| curl/ | curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip) | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip) | unknown | candidate |
+| curl/ | curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z) | [http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z](http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Media / file utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility, Scroller / macro, Punter / booter |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | !!SOUND.TXT<br>!!AGE.TXT<br>!!F-U.TXT<br>!!DANK.TXT<br>!!BITCH.TXT<br>!!PW.TXT |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | !!SOUND.TXT<br>!!AGE.TXT<br>!!F-U.TXT<br>!!DANK.TXT<br>!!BITCH.TXT<br>!!PW.TXT | none | Media / file utility<br>Scroller / macro<br>Punter / booter | none | !!SOUND.TXT has vocabulary for Media / file utility.<br>!!DANK.TXT has vocabulary for Scroller / macro.<br>!!PW.TXT has vocabulary for Punter / booter. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

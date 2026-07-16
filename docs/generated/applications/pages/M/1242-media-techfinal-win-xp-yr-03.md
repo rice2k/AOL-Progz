@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 8 |
 | Archive-text AOL/version mentions | AOL 8.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, AOL/AIM chat utility, Idler / AFK bot |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | prefs.ini<br>read me!!.txt<br>styles/flux.ini<br>styles/default.ini<br>styles/niche.ini<br>styles/myth.ini<br>styles/media.ini<br>styles/razid.ini<br>styles/reflex.ini<br>styles/operators.ini<br>styles/idle(rmx).ini<br>styles/plain.ini<br>styles/axion2.ini<br>styles/oo2.ini<br>styles/relax(rmx).ini<br>styles/reflex(rmx).ini<br>styles/visual dreams.ini<br>styles/link it.ini<br>styles/jon(rmx).ini<br>styles/girly.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | prefs.ini<br>read me!!.txt<br>styles/flux.ini<br>styles/default.ini<br>styles/niche.ini<br>styles/myth.ini<br>styles/media.ini<br>styles/razid.ini<br>styles/reflex.ini<br>styles/operators.ini<br>styles/idle(rmx).ini<br>styles/plain.ini<br>styles/axion2.ini<br>styles/oo2.ini<br>styles/relax(rmx).ini<br>styles/reflex(rmx).ini<br>styles/visual dreams.ini<br>styles/link it.ini<br>styles/jon(rmx).ini<br>styles/girly.ini | none | C-Com / command list<br>AOL/AIM chat utility<br>Idler / AFK bot | AOL 8.0 | read me!!.txt mentions AOL 8.0.<br>read me!!.txt has vocabulary for C-Com / command list, AOL/AIM chat utility.<br>styles/idle(rmx).ini has vocabulary for Idler / AFK bot.<br>styles/idle.ini has vocabulary for Idler / AFK bot. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

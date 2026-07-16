@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Idler / AFK bot, Source / developer file |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Ne0's Massacre.Vbp |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Ne0's Massacre.Vbp | none | Fader / text styler<br>Idler / AFK bot<br>Source / developer file | AOL 4 | Ne0's Massacre.Vbp mentions AOL 4.<br>Ne0's Massacre.Vbp has vocabulary for Fader / text styler, Idler / AFK bot, Source / developer file. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

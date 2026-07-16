@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -95,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Visual Basic Section | autoreconnect.zip | [http://lenshellarchive.com/VBfiles/autoreconnect.zip](http://lenshellarchive.com/VBfiles/autoreconnect.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip) | unknown | candidate |
+| Web page: Visual Basic Section | autoreconnect.zip | [http://lenshellarchive.com/VBfiles/autoreconnect.zip](http://lenshellarchive.com/VBfiles/autoreconnect.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

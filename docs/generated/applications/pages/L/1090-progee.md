@@ -28,19 +28,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ THIS FIRST!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 780 KB |
-| Matched web download links | 5 |
-| Matched mirror leads | 3 |
+| Matched web download links | 10 |
+| Matched mirror leads | 7 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1090-lag.zip](../../../../../files/aol/aol-4-0/1090-lag.zip)
-- Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 10 link(s) listed below
+- Matched mirror leads: 7 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/progee.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/progee.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/progee.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/progee.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/progee.zip)
@@ -86,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | READ THIS FIRST!.txt | none | none | none | unknown |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -98,17 +105,26 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | punter's | progee's lagger | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip) | [http://lenshellarchive.com/Progs/aolpunters/progee.zip](http://lenshellarchive.com/Progs/aolpunters/progee.zip) |
 | Section 2 | Progee's Lagger | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progee.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progee.zip) | [http://www.cybernyse.com/downlowdz/progee.zip](http://www.cybernyse.com/downlowdz/progee.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Progee's Lagger | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progee.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progee.zip) | [http://24.185.191.87/progz/progee.zip](http://24.185.191.87/progz/progee.zip) |
 | Section 2 | Progee's Send Chat Fixer | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip) | [http://www.cybernyse.com/downlowdz/progeechatfix.zip](http://www.cybernyse.com/downlowdz/progeechatfix.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Progee's Send Chat Fixer | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progeechatfix.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progeechatfix.zip) | [http://24.185.191.87/progz/progeechatfix.zip](http://24.185.191.87/progz/progeechatfix.zip) |
+| AIM Progs | Steve's AIM Progee 3 | [https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip](https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip) | [http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip](http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip) |
 | AIM | Steve's AIM Progee v 2 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip) | [http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip](http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Steve's AIM Progee v 2 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev2.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev2.zip) | [http://24.185.191.87/progz/aimstevesaimprogeev2.zip](http://24.185.191.87/progz/aimstevesaimprogeev2.zip) |
 | AIM | Steve's AIM Progee v 3 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip) | [http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip](http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Steve's AIM Progee v 3 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev3.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev3.zip) | [http://24.185.191.87/progz/aimstevesaimprogeev3.zip](http://24.185.191.87/progz/aimstevesaimprogeev3.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| AIM | aimstevesaimprogeev2.zip | [http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip](http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip) | unknown | candidate |
-| AIM | aimstevesaimprogeev2.zip | [http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip](http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip) | unknown | candidate |
+| AIM Progs | aimstevesaimprogeev3.zip | [http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip](http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip) | [https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip](https://web.archive.org/web/20010210203052/http://www.aol-progz.com/files/aim/aimstevesaimprogeev3.zip) | unknown | candidate |
+| AIM | aimstevesaimprogeev3.zip | [http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip](http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev2.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimstevesaimprogeev3.zip | [http://24.185.191.87/progz/aimstevesaimprogeev2.zip](http://24.185.191.87/progz/aimstevesaimprogeev2.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev2.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev2.zip) | unknown | candidate |
+| AIM | aimstevesaimprogeev3.zip | [http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip](http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstevesaimprogeev3.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimstevesaimprogeev3.zip | [http://24.185.191.87/progz/aimstevesaimprogeev3.zip](http://24.185.191.87/progz/aimstevesaimprogeev3.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev3.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstevesaimprogeev3.zip) | unknown | candidate |
 | Section 2 | progeechatfix.zip | [http://www.cybernyse.com/downlowdz/progeechatfix.zip](http://www.cybernyse.com/downlowdz/progeechatfix.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | progeechatfix.zip | [http://24.185.191.87/progz/progeechatfix.zip](http://24.185.191.87/progz/progeechatfix.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progeechatfix.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progeechatfix.zip) | unknown | candidate |
 
 ### Web Image Leads
 

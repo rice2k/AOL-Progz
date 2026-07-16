@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Source / developer file, Scroller / macro, AOL/AIM chat utility, All-in-one prog suite, Mass mailer / server |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | eFatalImpact v 0.1/Bin/eFatalImpact.html<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html<br>eFatalImpact v 0.1/Read Me Before use!.txt<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt<br>eFatalImpact v 0.1/Recovery/ReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -89,6 +92,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | eFatalImpact v 0.1/Bin/eFatalImpact.html<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html<br>eFatalImpact v 0.1/Read Me Before use!.txt<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt<br>eFatalImpact v 0.1/Recovery/ReadMe.txt | none | Fader / text styler<br>Source / developer file<br>Scroller / macro<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Mass mailer / server | none | eFatalImpact v 0.1/Bin/eFatalImpact.html has vocabulary for Fader / text styler, Source / developer file.<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html has vocabulary for Fader / text styler, Scroller / macro, AOL/AIM chat utility.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 3 |
+| Matched web download links | 4 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/simpletools14.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/simpletools14.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/simpletools14.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/simpletools14.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/simpletools14.zip)
@@ -77,6 +80,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -88,6 +95,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Section 2 | Simple Tools | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/simpletools.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/simpletools.zip) | [http://www.cybernyse.com/downlowdz/simpletools.zip](http://www.cybernyse.com/downlowdz/simpletools.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Simple Tools | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/simpletools.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/simpletools.zip) | [http://24.185.191.87/progz/simpletools.zip](http://24.185.191.87/progz/simpletools.zip) |
 | prog's/misc n-z | simple tools v1.0 [beta] | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/simpletools.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/simpletools.zip) | [http://lenshellarchive.com/Progs/aolprogs/simpletools.zip](http://lenshellarchive.com/Progs/aolprogs/simpletools.zip) |
 | prog's/misc n-z | simple tools v1.4 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/simpletools14.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/simpletools14.zip) | [http://lenshellarchive.com/Progs/aolprogs/simpletools14.zip](http://lenshellarchive.com/Progs/aolprogs/simpletools14.zip) |
 

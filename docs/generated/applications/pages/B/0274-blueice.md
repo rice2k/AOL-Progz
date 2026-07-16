@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Mass mailer / server |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadMe.txt<br>MadJester - Must Read.txt<br>Ericz Text File.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 4 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | ReadMe.txt<br>MadJester - Must Read.txt<br>Ericz Text File.txt | none | All-in-one prog suite<br>Mass mailer / server | none | ReadMe.txt has vocabulary for All-in-one prog suite, Mass mailer / server.<br>MadJester - Must Read.txt has vocabulary for All-in-one prog suite. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Screen-name utility, AOL/AIM chat utility, Account / TOS utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | Screen-name utility, AOL/AIM chat utility, Account / TOS utility |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 3 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -40,19 +43,19 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 1 |
-| Matched mirror leads | 5 |
+| Matched mirror leads | 6 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 5 link(s) listed below
+- Matched mirror leads: 6 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silence.zip)
@@ -78,6 +81,16 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/aimcreate11.zip](../../../../../files/external/angelfire-com/aimcreate11.zip) | Read me.txt | none | none | Screen-name utility<br>AOL/AIM chat utility | Basically creates AIM screennames, much easier than going to the aim website. There are a few of these out but I tried to add some unique features such as; | [http://eztrade.cjb.net](http://eztrade.cjb.net) |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/aimcreate21.zip](../../../../../files/external/angelfire-com/aimcreate21.zip) | Readme.txt | none | none | AOL/AIM chat utility | unknown | unknown |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/crackwhore.zip](../../../../../files/external/angelfire-com/crackwhore.zip) | crack-whore/crack.ini | none | none | Account / TOS utility<br>AOL/AIM chat utility | unknown | unknown |
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -97,8 +110,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | ProgzRescue Angelfire files | aimcreate11.zip | [http://www.angelfire.com/ego/lost_silence/aimcreate11.zip](http://www.angelfire.com/ego/lost_silence/aimcreate11.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate11.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate11.zip) | [files/external/angelfire-com/aimcreate11.zip](../../../../../files/external/angelfire-com/aimcreate11.zip) | ready |
 | ProgzRescue Angelfire files | aimcreate21.zip | [http://www.angelfire.com/ego/lost_silence/aimcreate21.zip](http://www.angelfire.com/ego/lost_silence/aimcreate21.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate21.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/aimcreate21.zip) | [files/external/angelfire-com/aimcreate21.zip](../../../../../files/external/angelfire-com/aimcreate21.zip) | ready |
 | ProgzRescue Angelfire files | crackwhore.zip | [http://www.angelfire.com/ego/lost_silence/crackwhore.zip](http://www.angelfire.com/ego/lost_silence/crackwhore.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip) | [files/external/angelfire-com/crackwhore.zip](../../../../../files/external/angelfire-com/crackwhore.zip) | ready |
-| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | unknown | candidate |
-| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | unknown | candidate |
+| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | unknown | http-404 |
+| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | unknown | http-404 |
+| Aim Crackers | crackwhore.zip | [http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | [https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | unknown | candidate |
 
 ### Web Image Leads
 

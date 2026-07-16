@@ -28,18 +28,21 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 4-6 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 3 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 4.4 MB |
-| Matched web download links | 3 |
+| Matched web download links | 4 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1124-lethal-fragment.zip](../../../../../files/aol/mixed/1124-lethal-fragment.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethal fragment %b3%b7%ba aol4-6 yr2k password=%fe [=alt0254].zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethal%20fragment%20%25b3%25b7%25ba%20aol4-6%20yr2k%20password%3D%25fe%20%5B%3Dalt0254%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethal%20fragment%20%25b3%25b7%25ba%20aol4-6%20yr2k%20password%3D%25fe%20%5B%3Dalt0254%5D.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethal%20fragment%20%25b3%25b7%25ba%20aol4-6%20yr2k%20password%3D%25fe%20%5B%3Dalt0254%5D.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/lethal%20fragment%20%25b3%25b7%25ba%20aol4-6%20yr2k%20password%3D%25fe%20%5B%3Dalt0254%5D.zip)
@@ -77,6 +80,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -88,6 +95,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Section 2 | Lethal Fragment | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip) | [http://www.cybernyse.com/downlowdz/lethal.zip](http://www.cybernyse.com/downlowdz/lethal.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Lethal Fragment | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip) | [http://24.185.191.87/progz/lethal.zip](http://24.185.191.87/progz/lethal.zip) |
 | prog's/misc a-m | lethal fragment ³·º | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | [http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) |
 | prog's/misc a-m | lethal fragment² | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | [http://lenshellarchive.com/Progs/aolprogs/lethal.zip](http://lenshellarchive.com/Progs/aolprogs/lethal.zip) |
 

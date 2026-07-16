@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4.0, AOL 9.0, AOL 4, AOL 9 |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, Screen-name utility, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | audiotech system/READ ME!!!.txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | audiotech system/READ ME!!!.txt<br>aciddr0p.netReadMe.txt | none | C-Com / command list<br>Screen-name utility<br>Media / file utility | AOL 4.0<br>AOL 9.0<br>AOL 4<br>AOL 9 | audiotech system/READ ME!!!.txt mentions AOL 4.0, AOL 9.0, AOL 4, AOL 9.<br>audiotech system/READ ME!!!.txt has vocabulary for C-Com / command list, Screen-name utility, Media / file utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

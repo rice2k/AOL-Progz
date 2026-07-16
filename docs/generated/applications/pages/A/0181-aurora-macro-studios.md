@@ -28,11 +28,14 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Scroller / macro |
 | Category | scroller or macro |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -40,7 +43,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,6 +55,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 
 - Local mirrored archive: [files/aol/aol-4-0/0181-aurora.zip](../../../../../files/aol/aol-4-0/0181-aurora.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aurora macro studios.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aurora%20macro%20studios.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aurora%20macro%20studios.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aurora%20macro%20studios.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/aurora%20macro%20studios.zip)
@@ -77,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -92,7 +100,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: mmer's/server's | aurora.zip | [http://lenshellarchive.com/Progs/aolmmservers/aurora.zip](http://lenshellarchive.com/Progs/aolmmservers/aurora.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

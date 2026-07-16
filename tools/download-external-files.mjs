@@ -10,6 +10,7 @@ const webResourcesPath = path.join(rootDir, "data", "web-resources.json");
 const limit = Number(process.env.AOL_EXTERNAL_DOWNLOAD_LIMIT || 50);
 const maxMb = Number(process.env.AOL_EXTERNAL_MAX_MB || 50);
 const timeoutMs = Number(process.env.AOL_EXTERNAL_TIMEOUT_MS || 25000);
+const retryExisting = /^(1|true|yes)$/i.test(process.env.AOL_EXTERNAL_RETRY || "");
 const sourceMatch = process.env.AOL_EXTERNAL_SOURCE_MATCH
   ? new RegExp(process.env.AOL_EXTERNAL_SOURCE_MATCH, "i")
   : null;
@@ -230,11 +231,38 @@ function targetFor(candidate) {
   return `files/external/${host}/${base}-${shortHash}${extension.toLowerCase()}`;
 }
 
+function validateLocalDownload(localPath) {
+  const target = path.join(rootDir, localPath);
+  if (!existsSync(target)) return { ok: false, status: "missing-local-file", size: 0 };
+  const size = statSync(target).size;
+  if (size <= 0) return { ok: false, status: "empty-file", size };
+  const buffer = readFileSync(target).subarray(0, 512);
+  const hex = buffer.subarray(0, 8).toString("hex");
+  const text = buffer.toString("latin1");
+  if (/^\s*</.test(text) || /<(?:!doctype\s+html|html|head)\b/i.test(text)) {
+    return { ok: false, status: "html-replay", size };
+  }
+  const lower = localPath.toLowerCase();
+  if (/\.(exe|dll|ocx|vbx)$/i.test(lower) && !hex.startsWith("4d5a")) {
+    return { ok: false, status: "invalid-executable", size };
+  }
+  if (/\.(zip|jar)$/i.test(lower) && !/^(504b|4d5a|1f8b|52617221)/i.test(hex)) {
+    return { ok: false, status: "invalid-archive", size };
+  }
+  if (/\.rar$/i.test(lower) && !hex.startsWith("52617221")) {
+    return { ok: false, status: "invalid-archive", size };
+  }
+  return { ok: true, status: "ready", size };
+}
+
 async function downloadFile(candidate) {
   const localPath = targetFor(candidate);
   const target = path.join(rootDir, localPath);
   if (existsSync(target) && statSync(target).size > 0) {
-    return { ...candidate, localPath, status: "ready", size: statSync(target).size };
+    const validation = validateLocalDownload(localPath);
+    return validation.ok
+      ? { ...candidate, localPath, status: "ready", size: validation.size }
+      : { ...candidate, localPath: "", status: validation.status, size: validation.size };
   }
 
   mkdirSync(path.dirname(target), { recursive: true });
@@ -265,6 +293,15 @@ async function downloadFile(candidate) {
     }
     await new Promise((resolve) => out.end(resolve));
     await import("node:fs").then(({ renameSync }) => renameSync(temp, target));
+    const validation = validateLocalDownload(localPath);
+    if (!validation.ok) {
+      try {
+        await import("node:fs").then(({ unlinkSync }) => unlinkSync(target));
+      } catch {
+        // The manifest status is enough if cleanup fails.
+      }
+      return { ...candidate, localPath: "", status: validation.status, size: validation.size };
+    }
     return { ...candidate, localPath, status: "ready", size };
   } catch (error) {
     return { ...candidate, localPath: "", status: error.name === "AbortError" ? "timeout" : "failed", size };
@@ -376,6 +413,15 @@ async function main() {
     : uniqueCandidates;
 
   const existing = readManifest().downloads || [];
+  for (const item of existing) {
+    if (item.status !== "ready" || !item.localPath) continue;
+    const validation = validateLocalDownload(item.localPath);
+    if (!validation.ok) {
+      item.status = validation.status;
+      item.localPath = "";
+      item.size = validation.size;
+    }
+  }
   const existingByUrl = new Map(existing.map((item) => [canonicalUrl(item.originalUrl), item]));
   const downloads = [...existing];
   let attempted = 0;
@@ -384,6 +430,7 @@ async function main() {
     const key = canonicalUrl(candidate.originalUrl);
     const previous = existingByUrl.get(key);
     if (previous?.status === "ready") continue;
+    if (previous && !retryExisting) continue;
     if (limit && attempted >= limit) break;
     attempted += 1;
     const result = await downloadFile(candidate);

@@ -2,1423 +2,2146 @@
 
 These are filenames or program leads discovered from external old-web sources and compared against the main catalog. Ready counts mean at least one local mirror was recovered. Recovery statuses come from the external-file mirroring pass.
 
-| Key | Category | Mirrors | Recovery statuses | Ready | Ready local files |
-| --- | --- | --- | --- | --- | --- |
-| netbuster | room buster | 28 | ready | 8 | [files/external/angelfire-com/netbuster131.zip](../../../files/external/angelfire-com/netbuster131.zip)<br>[files/external/angelfire-com/netbuster.zip](../../../files/external/angelfire-com/netbuster.zip)<br>[files/external/fortunecity-com/netbuster1-31.zip](../../../files/external/fortunecity-com/netbuster1-31.zip)<br>[files/external/fortunecity-com/netbuster1-12.zip](../../../files/external/fortunecity-com/netbuster1-12.zip)<br>[files/external/fortunecity-com/netbuster.zip](../../../files/external/fortunecity-com/netbuster.zip)<br>[files/external/fortunecity-com/netbuster1-30.zip](../../../files/external/fortunecity-com/netbuster1-30.zip)<br>[files/external/fortunecity-com/netbuster1-3.zip](../../../files/external/fortunecity-com/netbuster1-3.zip)<br>[files/external/fortunecity-com/netbuster131.zip](../../../files/external/fortunecity-com/netbuster131.zip) |
-| layout | unknown | 8 | ready | 8 | [files/external/angelfire-com/layout1.zip](../../../files/external/angelfire-com/layout1.zip)<br>[files/external/angelfire-com/layout2.zip](../../../files/external/angelfire-com/layout2.zip)<br>[files/external/angelfire-com/layout3.zip](../../../files/external/angelfire-com/layout3.zip)<br>[files/external/angelfire-com/layout4.zip](../../../files/external/angelfire-com/layout4.zip)<br>[files/external/angelfire-com/layout5.zip](../../../files/external/angelfire-com/layout5.zip)<br>[files/external/angelfire-com/layout6.zip](../../../files/external/angelfire-com/layout6.zip)<br>[files/external/angelfire-com/layout7.zip](../../../files/external/angelfire-com/layout7.zip)<br>[files/external/angelfire-com/layout8.zip](../../../files/external/angelfire-com/layout8.zip) |
-| setup | AOL/AIM client installer | 6 | candidate<br>ready | 4 | [files/external/am-net/aol7setup-852c70fb.exe](../../../files/external/am-net/aol7setup-852c70fb.exe)<br>[files/external/am-net/aol8setup-e289c5c2.exe](../../../files/external/am-net/aol8setup-e289c5c2.exe)<br>[files/external/am-net/aol9setup-89ef253b.exe](../../../files/external/am-net/aol9setup-89ef253b.exe)<br>[files/external/am-net/aolsetup-c3cdd1ed.exe](../../../files/external/am-net/aolsetup-c3cdd1ed.exe) |
-| msvbvm-dll | runtime/support file | 4 | candidate<br>ready | 3 | [files/external/aimfilez-com/msvbvm50-3e602dda.dll](../../../files/external/aimfilez-com/msvbvm50-3e602dda.dll)<br>[files/external/aimfilez-com/msvbvm60-117ab42e.dll](../../../files/external/aimfilez-com/msvbvm60-117ab42e.dll)<br>[files/external/coltpro-net/msvbvm60-af7ec917.dll](../../../files/external/coltpro-net/msvbvm60-af7ec917.dll) |
-| vb-dll | runtime/support file | 4 | ready<br>candidate | 3 | [files/external/aimfilez-com/vb40016-c8eb6c1a.dll](../../../files/external/aimfilez-com/vb40016-c8eb6c1a.dll)<br>[files/external/aimfilez-com/vb40032-f6349a6a.dll](../../../files/external/aimfilez-com/vb40032-f6349a6a.dll)<br>[files/external/coltpro-net/vb40032-213ca90f.dll](../../../files/external/coltpro-net/vb40032-213ca90f.dll) |
-| vbrun-dll | runtime/support file | 4 | ready<br>candidate | 3 | [files/external/aimfilez-com/vbrun100-348eb154.dll](../../../files/external/aimfilez-com/vbrun100-348eb154.dll)<br>[files/external/aimfilez-com/vbrun200-dc920038.dll](../../../files/external/aimfilez-com/vbrun200-dc920038.dll)<br>[files/external/aimfilez-com/vbrun300-194dc02b.dll](../../../files/external/aimfilez-com/vbrun300-194dc02b.dll) |
-| a | AOL/AIM client installer | 3 | ready | 3 | [files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe](../../../files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe)<br>[files/external/aimfilez-com/aim201-7-563a-91a26710.exe](../../../files/external/aimfilez-com/aim201-7-563a-91a26710.exe)<br>[files/external/aimfilez-com/aim202-0-731a-577898fa.exe](../../../files/external/aimfilez-com/aim202-0-731a-577898fa.exe) |
-| pascal | unknown | 3 | ready | 3 | [files/external/angelfire-com/pascal1.zip](../../../files/external/angelfire-com/pascal1.zip)<br>[files/external/angelfire-com/pascal2.zip](../../../files/external/angelfire-com/pascal2.zip)<br>[files/external/angelfire-com/pascal3.zip](../../../files/external/angelfire-com/pascal3.zip) |
-| wrar | unknown | 5 | candidate<br>ready | 2 | [files/external/angelfire-com/wrar280.zip](../../../files/external/angelfire-com/wrar280.zip)<br>[files/external/angelfire-com/wrar370.zip](../../../files/external/angelfire-com/wrar370.zip) |
-| create | AIM | 4 | candidate<br>ready | 2 | [files/external/angelfire-com/aimcreate11.zip](../../../files/external/angelfire-com/aimcreate11.zip)<br>[files/external/angelfire-com/aimcreate21.zip](../../../files/external/angelfire-com/aimcreate21.zip) |
-| msvbvm | runtime/support file | 4 | candidate<br>ready | 2 | [files/external/angelfire-com/msvbvm50.zip](../../../files/external/angelfire-com/msvbvm50.zip)<br>[files/external/angelfire-com/msvbvm60.zip](../../../files/external/angelfire-com/msvbvm60.zip) |
-| ss-d-vbx | runtime/support file | 3 | ready<br>candidate | 2 | [files/external/aimfilez-com/ss3d-8607dee6.vbx](../../../files/external/aimfilez-com/ss3d-8607dee6.vbx)<br>[files/external/aimfilez-com/ss3d2-8f499be5.vbx](../../../files/external/aimfilez-com/ss3d2-8f499be5.vbx) |
-| vb | runtime/support file | 3 | candidate<br>ready | 2 | [files/external/angelfire-com/vb.zip](../../../files/external/angelfire-com/vb.zip)<br>[files/external/angelfire-com/vb3.zip](../../../files/external/angelfire-com/vb3.zip) |
-| ccomsbeta | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/ccomsbeta2.zip](../../../files/external/lenshellarchive-com/ccomsbeta2.zip)<br>[files/external/lenshellarchive-com/ccomsbeta3.zip](../../../files/external/lenshellarchive-com/ccomsbeta3.zip) |
-| comdlg-ocx | runtime/support file | 2 | ready | 2 | [files/external/aimfilez-com/comdlg32-6ecdb713.ocx](../../../files/external/aimfilez-com/comdlg32-6ecdb713.ocx)<br>[files/external/coltpro-net/comdlg32-5dfecf61.ocx](../../../files/external/coltpro-net/comdlg32-5dfecf61.ocx) |
-| gonzo-fade | fader | 2 | ready | 2 | [files/external/angelfire-com/gonzo-fade.zip](../../../files/external/angelfire-com/gonzo-fade.zip)<br>[files/external/angelfire-com/gonzo-fade2.zip](../../../files/external/angelfire-com/gonzo-fade2.zip) |
-| revenge | AOL/AIM client installer | 2 | ready | 2 | [files/external/angelfire-com/revengeaol1.zip](../../../files/external/angelfire-com/revengeaol1.zip)<br>[files/external/angelfire-com/revengeaol2.zip](../../../files/external/angelfire-com/revengeaol2.zip) |
-| super | AIM | 5 | candidate<br>ready | 1 | [files/external/angelfire-com/superaim.zip](../../../files/external/angelfire-com/superaim.zip) |
-| spy | AIM | 3 | candidate<br>ready | 1 | [files/external/angelfire-com/aimspy.zip](../../../files/external/angelfire-com/aimspy.zip) |
-| netbusterkill | room buster | 3 | ready | 1 | [files/external/fortunecity-com/netbusterkill.zip](../../../files/external/fortunecity-com/netbusterkill.zip) |
-| booter | AOL/AIM client installer | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/booter1.zip](../../../files/external/angelfire-com/booter1.zip) |
-| dead | AIM | 2 | http-404<br>ready | 1 | [files/external/angelfire-com/deadaim-4.zip](../../../files/external/angelfire-com/deadaim-4.zip) |
-| iconedit | AIM | 2 | ready<br>candidate | 1 | [files/external/aimfilez-com/aimiconedit-3488d8b8.exe](../../../files/external/aimfilez-com/aimiconedit-3488d8b8.exe) |
-| popup | AIM | 2 | ready<br>candidate | 1 | [files/external/aimfilez-com/aimpopup-a2d9f1a6.exe](../../../files/external/aimfilez-com/aimpopup-a2d9f1a6.exe) |
-| buddykill | punter/booter | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/buddykill-bcd3802c.exe](../../../files/external/aimfilez-com/buddykill-bcd3802c.exe) |
-| chatscan-ocx | runtime/support file | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/chatscan3-2b12e4af.ocx](../../../files/external/aimfilez-com/chatscan3-2b12e4af.ocx) |
-| cracksource | hazardous/account or remote-control context | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/cracksource.zip](../../../files/external/angelfire-com/cracksource.zip) |
-| formatsn | AIM | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/formatsn-ac427d25.exe](../../../files/external/aimfilez-com/formatsn-ac427d25.exe) |
-| ghost | punter/booter | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe](../../../files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe) |
-| icondrop | punter/booter | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/icondrop2-0-69d20cfa.exe](../../../files/external/aimfilez-com/icondrop2-0-69d20cfa.exe) |
-| msinet-ocx | runtime/support file | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/msinet-a28f9137.ocx](../../../files/external/aimfilez-com/msinet-a28f9137.ocx) |
-| mswinsck-ocx | runtime/support file | 2 | ready<br>http-404 | 1 | [files/external/aimfilez-com/mswinsck-c21a93bd.ocx](../../../files/external/aimfilez-com/mswinsck-c21a93bd.ocx) |
-| remoteidle | idler/bot | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/remoteidle.zip](../../../files/external/angelfire-com/remoteidle.zip) |
-| setuprt | unknown | 2 | ready<br>candidate | 1 | [files/external/click-online2000-com/setuprt22-bf0dd433.exe](../../../files/external/click-online2000-com/setuprt22-bf0dd433.exe) |
-| vbrun-sp | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/vbrun60sp5.zip](../../../files/external/angelfire-com/vbrun60sp5.zip) |
-| winsck | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/winsck.zip](../../../files/external/angelfire-com/winsck.zip) |
-| mmnegtub | AIM | 1 | ready | 1 | [files/external/angelfire-com/35mmnegtub.zip](../../../files/external/angelfire-com/35mmnegtub.zip) |
-| aztecapocolypse | unknown | 1 | ready | 1 | [files/external/angelfire-com/4aztecapocolypse.zip](../../../files/external/angelfire-com/4aztecapocolypse.zip) |
-| sloughterinspace | unknown | 1 | ready | 1 | [files/external/angelfire-com/4sloughterinspace.zip](../../../files/external/angelfire-com/4sloughterinspace.zip) |
-| ball | unknown | 1 | ready | 1 | [files/external/angelfire-com/8-ball.zip](../../../files/external/angelfire-com/8-ball.zip) |
-| gardenofwar | unknown | 1 | ready | 1 | [files/external/angelfire-com/8gardenofwar98.zip](../../../files/external/angelfire-com/8gardenofwar98.zip) |
-| absoluteserials | unknown | 1 | ready | 1 | [files/external/angelfire-com/absoluteserials.zip](../../../files/external/angelfire-com/absoluteserials.zip) |
-| ac-install | unknown | 1 | ready | 1 | [files/external/am-net/ac-install-fe4d5a18.exe](../../../files/external/am-net/ac-install-fe4d5a18.exe) |
-| acid-rain | unknown | 1 | ready | 1 | [files/external/angelfire-com/acid-rain.zip](../../../files/external/angelfire-com/acid-rain.zip) |
-| acquafreezercrackbylucif-r | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/acquafreezercrackbylucif3r.zip](../../../files/external/angelfire-com/acquafreezercrackbylucif3r.zip) |
-| blocks | AIM | 1 | ready | 1 | [files/external/angelfire-com/aim-blocks.zip](../../../files/external/angelfire-com/aim-blocks.zip) |
-| install | AIM | 1 | ready | 1 | [files/external/am-net/aim-install-bea29830.exe](../../../files/external/am-net/aim-install-bea29830.exe) |
-| amp | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aimamp-b8bdc65e.exe](../../../files/external/aimfilez-com/aimamp-b8bdc65e.exe) |
-| change | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aimchange-d83f8223.exe](../../../files/external/aimfilez-com/aimchange-d83f8223.exe) |
-| r | AIM | 1 | ready | 1 | [files/external/angelfire-com/aimr2.zip](../../../files/external/angelfire-com/aimr2.zip) |
-| sm | AIM | 1 | ready | 1 | [files/external/angelfire-com/aimsm.zip](../../../files/external/angelfire-com/aimsm.zip) |
-| talk | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aimtalk20-3b135bf1.exe](../../../files/external/aimfilez-com/aimtalk20-3b135bf1.exe) |
-| antibot | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/antibot11-50be5e19.exe](../../../files/external/aimfilez-com/antibot11-50be5e19.exe) |
-| antimacro | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/antimacro.zip](../../../files/external/angelfire-com/antimacro.zip) |
-| communicator | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aolcommunicator-85109c9c.exe](../../../files/external/aimfilez-com/aolcommunicator-85109c9c.exe) |
-| astroidlevel | idler/bot | 1 | ready | 1 | [files/external/angelfire-com/astroidlevel.zip](../../../files/external/angelfire-com/astroidlevel.zip) |
-| asub | AIM | 1 | ready | 1 | [files/external/aimfilez-com/asub-1abf2bf0.exe](../../../files/external/aimfilez-com/asub-1abf2bf0.exe) |
-| auto | AOL/AIM client installer | 1 | ready | 1 | [files/external/angelfire-com/autoaim4.zip](../../../files/external/angelfire-com/autoaim4.zip) |
-| awaystate | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/awaystate-9d1caf3e.exe](../../../files/external/aimfilez-com/awaystate-9d1caf3e.exe) |
-| bar-room-brawl | room buster | 1 | ready | 1 | [files/external/angelfire-com/bar-room-brawl.zip](../../../files/external/angelfire-com/bar-room-brawl.zip) |
-| bens-megasound | unknown | 1 | ready | 1 | [files/external/angelfire-com/bens-megasound.zip](../../../files/external/angelfire-com/bens-megasound.zip) |
-| biorythm | unknown | 1 | ready | 1 | [files/external/angelfire-com/biorythm.zip](../../../files/external/angelfire-com/biorythm.zip) |
-| bnet | unknown | 1 | ready | 1 | [files/external/angelfire-com/bnettoolz.zip](../../../files/external/angelfire-com/bnettoolz.zip) |
-| boiolometro | unknown | 1 | ready | 1 | [files/external/angelfire-com/boiolometro.zip](../../../files/external/angelfire-com/boiolometro.zip) |
-| bookscrolls | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/bookscrolls.zip](../../../files/external/angelfire-com/bookscrolls.zip) |
-| bootscoot | punter/booter | 1 | ready | 1 | [files/external/angelfire-com/bootscoot.zip](../../../files/external/angelfire-com/bootscoot.zip) |
-| bud-setup | AIM | 1 | ready | 1 | [files/external/aimfilez-com/bud-setup-b6144227.exe](../../../files/external/aimfilez-com/bud-setup-b6144227.exe) |
-| caeo-rama | unknown | 1 | ready | 1 | [files/external/angelfire-com/caeo-programa.zip](../../../files/external/angelfire-com/caeo-programa.zip) |
-| chatocx-ocx | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/chatocx2-5f3e25fd.ocx](../../../files/external/coltpro-net/chatocx2-5f3e25fd.ocx) |
-| chatsource | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/chatsource.zip](../../../files/external/angelfire-com/chatsource.zip) |
-| cloc-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/cloc-5783db44.vbx](../../../files/external/aimfilez-com/cloc-5783db44.vbx) |
-| cmdialog-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/cmdialog-62a38b92.vbx](../../../files/external/aimfilez-com/cmdialog-62a38b92.vbx) |
-| code | unknown | 1 | ready | 1 | [files/external/angelfire-com/code.zip](../../../files/external/angelfire-com/code.zip) |
-| comct | unknown | 1 | ready | 1 | [files/external/angelfire-com/comct332.zip](../../../files/external/angelfire-com/comct332.zip) |
-| comctl-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/comctl32-e2ba15bc.ocx](../../../files/external/aimfilez-com/comctl32-e2ba15bc.ocx) |
-| comdlg-dll | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/comdlg32-ea31f2ea.dll](../../../files/external/coltpro-net/comdlg32-ea31f2ea.dll) |
-| commercialscript | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/commercialscript3.zip](../../../files/external/angelfire-com/commercialscript3.zip) |
-| compatibility-calc | unknown | 1 | ready | 1 | [files/external/angelfire-com/compatibility-calc.zip](../../../files/external/angelfire-com/compatibility-calc.zip) |
-| computer-infomation | unknown | 1 | ready | 1 | [files/external/angelfire-com/computer-infomation.zip](../../../files/external/angelfire-com/computer-infomation.zip) |
-| counter | unknown | 1 | ready | 1 | [files/external/angelfire-com/counter.zip](../../../files/external/angelfire-com/counter.zip) |
-| crackwhore | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/crackwhore.zip](../../../files/external/angelfire-com/crackwhore.zip) |
-| crackxp | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/crackxp.zip](../../../files/external/angelfire-com/crackxp.zip) |
-| creatincommercialsites | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/creatincommercialsites.zip](../../../files/external/angelfire-com/creatincommercialsites.zip) |
-| criminalchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/criminalchat.zip](../../../files/external/angelfire-com/criminalchat.zip) |
-| dap | unknown | 1 | ready | 1 | [files/external/angelfire-com/dap53.zip](../../../files/external/angelfire-com/dap53.zip) |
-| dbpush-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/dbpush-f26405e8.vbx](../../../files/external/aimfilez-com/dbpush-f26405e8.vbx) |
-| dbttip-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/dbttip-434e10d1.vbx](../../../files/external/aimfilez-com/dbttip-434e10d1.vbx) |
-| dc | AIM | 1 | ready | 1 | [files/external/aimfilez-com/dctool-df5f3a78.exe](../../../files/external/aimfilez-com/dctool-df5f3a78.exe) |
-| details | unknown | 1 | ready | 1 | [files/external/angelfire-com/details.zip](../../../files/external/angelfire-com/details.zip) |
-| determinante | unknown | 1 | ready | 1 | [files/external/angelfire-com/determinante.zip](../../../files/external/angelfire-com/determinante.zip) |
-| diablo-monsterskill-sorc | unknown | 1 | ready | 1 | [files/external/angelfire-com/diablo2-monsterskill-sorc.zip](../../../files/external/angelfire-com/diablo2-monsterskill-sorc.zip) |
-| dmc-r | unknown | 1 | ready | 1 | [files/external/angelfire-com/dmc-r7.zip](../../../files/external/angelfire-com/dmc-r7.zip) |
-| dotmacregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/dotmacregister-2552521a.exe](../../../files/external/aimfilez-com/dotmacregister-2552521a.exe) |
-| drapeauscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/drapeauscreensaver-mcld.zip](../../../files/external/angelfire-com/drapeauscreensaver-mcld.zip) |
-| dvbpl | unknown | 1 | ready | 1 | [files/external/angelfire-com/dvbpl-020619.zip](../../../files/external/angelfire-com/dvbpl-020619.zip) |
-| dwsbc-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/dwsbc32-66a535ca.ocx](../../../files/external/aimfilez-com/dwsbc32-66a535ca.ocx) |
-| email | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/email.zip](../../../files/external/angelfire-com/email.zip) |
-| emailcash | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailcash.zip](../../../files/external/angelfire-com/emailcash.zip) |
-| emailform | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailform.zip](../../../files/external/angelfire-com/emailform.zip) |
-| evbrtk | unknown | 1 | ready | 1 | [files/external/angelfire-com/evbrtk.zip](../../../files/external/angelfire-com/evbrtk.zip) |
-| evil-empire | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/evil-empire.zip](../../../files/external/angelfire-com/evil-empire.zip) |
-| evilgrunts | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/evilgrunts.zip](../../../files/external/angelfire-com/evilgrunts.zip) |
-| evilintentions | AIM | 1 | ready | 1 | [files/external/aimfilez-com/evilintentions2-a5d56efa.exe](../../../files/external/aimfilez-com/evilintentions2-a5d56efa.exe) |
-| exploi-s | AIM | 1 | ready | 1 | [files/external/aimfilez-com/exploitools-24fc3a74.sit](../../../files/external/aimfilez-com/exploitools-24fc3a74.sit) |
-| factors | unknown | 1 | ready | 1 | [files/external/angelfire-com/factors.zip](../../../files/external/angelfire-com/factors.zip) |
-| fbimage | AIM | 1 | ready | 1 | [files/external/aimfilez-com/fbimage-660afb3f.exe](../../../files/external/aimfilez-com/fbimage-660afb3f.exe) |
-| feuscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/feuscreensaver-mcld.zip](../../../files/external/angelfire-com/feuscreensaver-mcld.zip) |
-| film | unknown | 1 | ready | 1 | [files/external/angelfire-com/film.zip](../../../files/external/angelfire-com/film.zip) |
-| fish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/fish.zip](../../../files/external/angelfire-com/fish.zip) |
-| font | unknown | 1 | ready | 1 | [files/external/angelfire-com/font.zip](../../../files/external/angelfire-com/font.zip) |
-| form-mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/form-mail.zip](../../../files/external/angelfire-com/form-mail.zip) |
-| g-fade | fader | 1 | ready | 1 | [files/external/angelfire-com/g-fade.zip](../../../files/external/angelfire-com/g-fade.zip) |
-| gamespy-addcrack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/gamespy-v109addcrack.zip](../../../files/external/angelfire-com/gamespy-v109addcrack.zip) |
-| geotronics | unknown | 1 | ready | 1 | [files/external/angelfire-com/geotronics.zip](../../../files/external/angelfire-com/geotronics.zip) |
-| getbent | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/getbent.zip](../../../files/external/angelfire-com/getbent.zip) |
-| girl | unknown | 1 | ready | 1 | [files/external/angelfire-com/girl.zip](../../../files/external/angelfire-com/girl.zip) |
-| godcracker | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/godcracker3.zip](../../../files/external/angelfire-com/godcracker3.zip) |
-| goingtositesex | unknown | 1 | ready | 1 | [files/external/angelfire-com/goingtositesex.zip](../../../files/external/angelfire-com/goingtositesex.zip) |
-| goldfish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/goldfish.zip](../../../files/external/angelfire-com/goldfish.zip) |
-| grid-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/grid-9c49a1da.vbx](../../../files/external/aimfilez-com/grid-9c49a1da.vbx) |
-| hackers-crackdown | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/hackers-crackdown.zip](../../../files/external/angelfire-com/hackers-crackdown.zip) |
-| hellhound | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellhound.zip](../../../files/external/angelfire-com/hellhound.zip) |
-| hello | unknown | 1 | ready | 1 | [files/external/angelfire-com/hello.zip](../../../files/external/angelfire-com/hello.zip) |
-| hellsedit | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellsedit.zip](../../../files/external/angelfire-com/hellsedit.zip) |
-| hotmailhack | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/hotmailhack.zip](../../../files/external/angelfire-com/hotmailhack.zip) |
-| http-cracker-b | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/http-cracker-v113b.zip](../../../files/external/angelfire-com/http-cracker-v113b.zip) |
-| hyperinfo | AIM | 1 | ready | 1 | [files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe](../../../files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe) |
-| icons | unknown | 1 | ready | 1 | [files/external/angelfire-com/icons.zip](../../../files/external/angelfire-com/icons.zip) |
-| idlemon-dll | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/idlemon-f920c14a.dll](../../../files/external/aimfilez-com/idlemon-f920c14a.dll) |
-| ie-setup | unknown | 1 | ready | 1 | [files/external/angelfire-com/ie6setup.zip](../../../files/external/angelfire-com/ie6setup.zip) |
-| instantidler | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/instantidler52-59727d46.exe](../../../files/external/aimfilez-com/instantidler52-59727d46.exe) |
-| interface | unknown | 1 | ready | 1 | [files/external/angelfire-com/interface.zip](../../../files/external/angelfire-com/interface.zip) |
-| ispec | AIM | 1 | ready | 1 | [files/external/aimfilez-com/ispec-e3b22ea2.exe](../../../files/external/aimfilez-com/ispec-e3b22ea2.exe) |
-| iviewer | unknown | 1 | ready | 1 | [files/external/angelfire-com/iviewer.zip](../../../files/external/angelfire-com/iviewer.zip) |
-| ivypda | unknown | 1 | ready | 1 | [files/external/angelfire-com/ivypda.zip](../../../files/external/angelfire-com/ivypda.zip) |
-| jackbros | unknown | 1 | ready | 1 | [files/external/angelfire-com/jackbros.zip](../../../files/external/angelfire-com/jackbros.zip) |
-| jungledan | unknown | 1 | ready | 1 | [files/external/angelfire-com/jungledan.zip](../../../files/external/angelfire-com/jungledan.zip) |
-| klotski | unknown | 1 | ready | 1 | [files/external/angelfire-com/klotski.zip](../../../files/external/angelfire-com/klotski.zip) |
-| lsd | unknown | 1 | ready | 1 | [files/external/angelfire-com/lsd.zip](../../../files/external/angelfire-com/lsd.zip) |
-| magicsquare | unknown | 1 | ready | 1 | [files/external/angelfire-com/magicsquare.zip](../../../files/external/angelfire-com/magicsquare.zip) |
-| mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/mail555.zip](../../../files/external/angelfire-com/mail555.zip) |
-| mastermind | unknown | 1 | ready | 1 | [files/external/angelfire-com/mastermind.zip](../../../files/external/angelfire-com/mastermind.zip) |
-| mbar-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/mbar-4be76662.vbx](../../../files/external/aimfilez-com/mbar-4be76662.vbx) |
-| mcnh | unknown | 1 | ready | 1 | [files/external/angelfire-com/mcnh.zip](../../../files/external/angelfire-com/mcnh.zip) |
-| menus | unknown | 1 | ready | 1 | [files/external/angelfire-com/menus.zip](../../../files/external/angelfire-com/menus.zip) |
-| mikes-ram | unknown | 1 | ready | 1 | [files/external/angelfire-com/mikesprogram.zip](../../../files/external/angelfire-com/mikesprogram.zip) |
-| millionemails | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/millionemails.zip](../../../files/external/angelfire-com/millionemails.zip) |
-| moodyblues-cocacolacommercial | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/moodyblues-cocacolacommercial.zip](../../../files/external/angelfire-com/moodyblues-cocacolacommercial.zip) |
-| morse-code | unknown | 1 | ready | 1 | [files/external/angelfire-com/morse-code.zip](../../../files/external/angelfire-com/morse-code.zip) |
-| move-button | unknown | 1 | ready | 1 | [files/external/angelfire-com/move-button.zip](../../../files/external/angelfire-com/move-button.zip) |
-| movement | unknown | 1 | ready | 1 | [files/external/angelfire-com/movement.zip](../../../files/external/angelfire-com/movement.zip) |
-| mp-play-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/mp3play-fa471de0.ocx](../../../files/external/aimfilez-com/mp3play-fa471de0.ocx) |
-| mpegdll | unknown | 1 | ready | 1 | [files/external/angelfire-com/mpegdll.zip](../../../files/external/angelfire-com/mpegdll.zip) |
-| mpqoldstuff | unknown | 1 | ready | 1 | [files/external/angelfire-com/mpqoldstuff.zip](../../../files/external/angelfire-com/mpqoldstuff.zip) |
-| mscomctl-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/mscomctl-f5236d1d.ocx](../../../files/external/aimfilez-com/mscomctl-f5236d1d.ocx) |
-| mwgfxdll | unknown | 1 | ready | 1 | [files/external/angelfire-com/mwgfxdll.zip](../../../files/external/angelfire-com/mwgfxdll.zip) |
-| myim | AIM | 1 | ready | 1 | [files/external/aimfilez-com/myim-cbbb1634.exe](../../../files/external/aimfilez-com/myim-cbbb1634.exe) |
-| nesemu | unknown | 1 | ready | 1 | [files/external/angelfire-com/nesemu.zip](../../../files/external/angelfire-com/nesemu.zip) |
-| nesters | unknown | 1 | ready | 1 | [files/external/angelfire-com/nesters.zip](../../../files/external/angelfire-com/nesters.zip) |
-| netbus | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/fortunecity-com/netbus7.zip](../../../files/external/fortunecity-com/netbus7.zip) |
-| new-othello-exe | unknown | 1 | ready | 1 | [files/external/angelfire-com/new-othello-exe.zip](../../../files/external/angelfire-com/new-othello-exe.zip) |
-| oh-scroller | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/oh-scroller.zip](../../../files/external/angelfire-com/oh-scroller.zip) |
-| oleaut-dll | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/oleaut32-fbf48324.dll](../../../files/external/aimfilez-com/oleaut32-fbf48324.dll) |
-| olepro-dll | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/olepro32-33ec48d6.dll](../../../files/external/aimfilez-com/olepro32-33ec48d6.dll) |
-| opengl | unknown | 1 | ready | 1 | [files/external/angelfire-com/opengl.zip](../../../files/external/angelfire-com/opengl.zip) |
-| osamadies | unknown | 1 | ready | 1 | [files/external/angelfire-com/osamadies.zip](../../../files/external/angelfire-com/osamadies.zip) |
-| othelloexe | unknown | 1 | ready | 1 | [files/external/angelfire-com/othelloexe.zip](../../../files/external/angelfire-com/othelloexe.zip) |
-| painkilla | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/painkilla.zip](../../../files/external/angelfire-com/painkilla.zip) |
-| photoshopfix | unknown | 1 | ready | 1 | [files/external/angelfire-com/photoshopfix.zip](../../../files/external/angelfire-com/photoshopfix.zip) |
-| plasmascreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/plasmascreensaver-mcld.zip](../../../files/external/angelfire-com/plasmascreensaver-mcld.zip) |
-| playcd-ocx | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/playcd2-32333544.ocx](../../../files/external/coltpro-net/playcd2-32333544.ocx) |
-| pornblock | AIM | 1 | ready | 1 | [files/external/aimfilez-com/pornblock-ba69871f.exe](../../../files/external/aimfilez-com/pornblock-ba69871f.exe) |
-| ppvblock | unknown | 1 | ready | 1 | [files/external/angelfire-com/ppvblock1-2.zip](../../../files/external/angelfire-com/ppvblock1-2.zip) |
-| ppvblocker | unknown | 1 | ready | 1 | [files/external/angelfire-com/ppvblocker1-4.zip](../../../files/external/angelfire-com/ppvblocker1-4.zip) |
-| preservers | unknown | 1 | ready | 1 | [files/external/angelfire-com/preservers.zip](../../../files/external/angelfire-com/preservers.zip) |
-| q-asec | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3asec.zip](../../../files/external/angelfire-com/q3asec.zip) |
-| q-name | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3name.zip](../../../files/external/angelfire-com/q3name.zip) |
-| q-tweak | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3tweak1039.zip](../../../files/external/angelfire-com/q3tweak1039.zip) |
-| race | unknown | 1 | ready | 1 | [files/external/angelfire-com/race.zip](../../../files/external/angelfire-com/race.zip) |
-| random-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/random-scribble.zip](../../../files/external/angelfire-com/random-scribble.zip) |
-| ravehitter-serverlist | unknown | 1 | ready | 1 | [files/external/angelfire-com/ravehitter1-0serverlist.zip](../../../files/external/angelfire-com/ravehitter1-0serverlist.zip) |
-| regocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/regocx.zip](../../../files/external/angelfire-com/regocx.zip) |
-| reshack | AIM | 1 | ready | 1 | [files/external/aimfilez-com/reshack-ae82f47d.exe](../../../files/external/aimfilez-com/reshack-ae82f47d.exe) |
-| riched-dll | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/riched32-8462623b.dll](../../../files/external/coltpro-net/riched32-8462623b.dll) |
-| richtx-ocx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/richtx32-87eca7a6.ocx](../../../files/external/aimfilez-com/richtx32-87eca7a6.ocx) |
-| rotext-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/rotext-a99777db.vbx](../../../files/external/aimfilez-com/rotext-a99777db.vbx) |
-| s-sa | AIM | 1 | ready | 1 | [files/external/aimfilez-com/saimsa-a4b4a517.exe](../../../files/external/aimfilez-com/saimsa-a4b4a517.exe) |
-| salat | unknown | 1 | ready | 1 | [files/external/angelfire-com/salat.zip](../../../files/external/angelfire-com/salat.zip) |
-| samp | unknown | 1 | ready | 1 | [files/external/angelfire-com/samp02.zip](../../../files/external/angelfire-com/samp02.zip) |
-| sanidade | unknown | 1 | ready | 1 | [files/external/angelfire-com/sanidade.zip](../../../files/external/angelfire-com/sanidade.zip) |
-| sccur | unknown | 1 | ready | 1 | [files/external/angelfire-com/sccur.zip](../../../files/external/angelfire-com/sccur.zip) |
-| scriptfish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/scriptfish.zip](../../../files/external/angelfire-com/scriptfish.zip) |
-| scrolltextex | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/scrolltextex.zip](../../../files/external/angelfire-com/scrolltextex.zip) |
-| sendmail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/sendmail.zip](../../../files/external/angelfire-com/sendmail.zip) |
-| serveradver | unknown | 1 | ready | 1 | [files/external/angelfire-com/serveradver.zip](../../../files/external/angelfire-com/serveradver.zip) |
-| serverlook | unknown | 1 | ready | 1 | [files/external/angelfire-com/serverlook.zip](../../../files/external/angelfire-com/serverlook.zip) |
-| serverspopup | unknown | 1 | ready | 1 | [files/external/angelfire-com/serverspopup.zip](../../../files/external/angelfire-com/serverspopup.zip) |
-| setup-x | AOL/AIM client installer | 1 | ready | 1 | [files/external/am-net/setupaol60-9x-f6f5a4c2.exe](../../../files/external/am-net/setupaol60-9x-f6f5a4c2.exe) |
-| setup-kb | AOL/AIM client installer | 1 | ready | 1 | [files/external/am-net/setupaol602kb-c496c110.exe](../../../files/external/am-net/setupaol602kb-c496c110.exe) |
-| shell | unknown | 1 | ready | 1 | [files/external/angelfire-com/shell.zip](../../../files/external/angelfire-com/shell.zip) |
-| shellex | unknown | 1 | ready | 1 | [files/external/angelfire-com/shellex.zip](../../../files/external/angelfire-com/shellex.zip) |
-| shitclub | unknown | 1 | ready | 1 | [files/external/angelfire-com/shitclub.zip](../../../files/external/angelfire-com/shitclub.zip) |
-| silkboxers | unknown | 1 | ready | 1 | [files/external/angelfire-com/silkboxers.zip](../../../files/external/angelfire-com/silkboxers.zip) |
-| simple-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/simple-scribble.zip](../../../files/external/angelfire-com/simple-scribble.zip) |
-| smilebot | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/smilebot-64edb771.exe](../../../files/external/aimfilez-com/smilebot-64edb771.exe) |
-| smiley | AIM | 1 | ready | 1 | [files/external/aimfilez-com/smiley-c14cffa3.exe](../../../files/external/aimfilez-com/smiley-c14cffa3.exe) |
-| sntrader | AIM | 1 | ready | 1 | [files/external/aimfilez-com/sntrader-d9f71739.exe](../../../files/external/aimfilez-com/sntrader-d9f71739.exe) |
-| spammer | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/spammer.zip](../../../files/external/angelfire-com/spammer.zip) |
-| speed-type | unknown | 1 | ready | 1 | [files/external/angelfire-com/speed-type.zip](../../../files/external/angelfire-com/speed-type.zip) |
-| speedoptimizer-crack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/speedoptimizer-v1-5-crack.zip](../../../files/external/angelfire-com/speedoptimizer-v1-5-crack.zip) |
-| spokes | unknown | 1 | ready | 1 | [files/external/angelfire-com/spokes.zip](../../../files/external/angelfire-com/spokes.zip) |
-| ssprotoss | unknown | 1 | ready | 1 | [files/external/angelfire-com/ssprotoss.zip](../../../files/external/angelfire-com/ssprotoss.zip) |
-| staff-info | AIM | 1 | ready | 1 | [files/external/angelfire-com/staffaiminfo.zip](../../../files/external/angelfire-com/staffaiminfo.zip) |
-| starcraft | unknown | 1 | ready | 1 | [files/external/angelfire-com/starcraft.zip](../../../files/external/angelfire-com/starcraft.zip) |
-| stb-newcrackbylucif-r | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/stb970newcrackbylucif3r.zip](../../../files/external/angelfire-com/stb970newcrackbylucif3r.zip) |
-| stealthmail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/stealthmail.zip](../../../files/external/angelfire-com/stealthmail.zip) |
-| swmidis | unknown | 1 | ready | 1 | [files/external/angelfire-com/swmidis.zip](../../../files/external/angelfire-com/swmidis.zip) |
-| talkoffline | unknown | 1 | ready | 1 | [files/external/angelfire-com/talkoffline.zip](../../../files/external/angelfire-com/talkoffline.zip) |
-| taxer | unknown | 1 | ready | 1 | [files/external/angelfire-com/taxer.zip](../../../files/external/angelfire-com/taxer.zip) |
-| tc | unknown | 1 | ready | 1 | [files/external/angelfire-com/tc.zip](../../../files/external/angelfire-com/tc.zip) |
-| termin | unknown | 1 | ready | 1 | [files/external/angelfire-com/termin.zip](../../../files/external/angelfire-com/termin.zip) |
-| terminator | unknown | 1 | ready | 1 | [files/external/angelfire-com/terminator.zip](../../../files/external/angelfire-com/terminator.zip) |
-| terrangauntlet | unknown | 1 | ready | 1 | [files/external/angelfire-com/terrangauntlet.zip](../../../files/external/angelfire-com/terrangauntlet.zip) |
-| threed-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/threed-39aaa6ed.vbx](../../../files/external/aimfilez-com/threed-39aaa6ed.vbx) |
-| topazchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/topazchat.zip](../../../files/external/angelfire-com/topazchat.zip) |
-| trans | unknown | 1 | ready | 1 | [files/external/angelfire-com/trans.zip](../../../files/external/angelfire-com/trans.zip) |
-| tripeaks | room buster | 1 | ready | 1 | [files/external/angelfire-com/tripeaks.zip](../../../files/external/angelfire-com/tripeaks.zip) |
-| triple-arena | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/triple-arena.zip](../../../files/external/angelfire-com/triple-arena.zip) |
-| trispiral | unknown | 1 | ready | 1 | [files/external/angelfire-com/trispiral.zip](../../../files/external/angelfire-com/trispiral.zip) |
-| ts-server-fix | unknown | 1 | ready | 1 | [files/external/angelfire-com/ts-server-fix-v0-1-0.zip](../../../files/external/angelfire-com/ts-server-fix-v0-1-0.zip) |
-| twistersroombuster | room buster | 1 | ready | 1 | [files/external/angelfire-com/twistersroombuster.zip](../../../files/external/angelfire-com/twistersroombuster.zip) |
-| vb-in-lessons | unknown | 1 | ready | 1 | [files/external/angelfire-com/vb-in-12-lessons.zip](../../../files/external/angelfire-com/vb-in-12-lessons.zip) |
-| vb-chat-ocx | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/vb5chat2-0e54601c.ocx](../../../files/external/coltpro-net/vb5chat2-0e54601c.ocx) |
-| vba | unknown | 1 | ready | 1 | [files/external/angelfire-com/vba.zip](../../../files/external/angelfire-com/vba.zip) |
-| vbmsg-vbx | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/vbmsg-2305f301.vbx](../../../files/external/aimfilez-com/vbmsg-2305f301.vbx) |
-| vbulletin | unknown | 1 | ready | 1 | [files/external/angelfire-com/vbulletin-201.zip](../../../files/external/angelfire-com/vbulletin-201.zip) |
-| video-ocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/video-ocx.zip](../../../files/external/angelfire-com/video-ocx.zip) |
-| vnetbust | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/fortunecity-com/vnetbust.zip](../../../files/external/fortunecity-com/vnetbust.zip) |
-| warpedserver | unknown | 1 | ready | 1 | [files/external/angelfire-com/warpedserver.zip](../../../files/external/angelfire-com/warpedserver.zip) |
-| win-font | unknown | 1 | ready | 1 | [files/external/angelfire-com/win95font.zip](../../../files/external/angelfire-com/win95font.zip) |
-| winamp-full | unknown | 1 | ready | 1 | [files/external/angelfire-com/winamp281-full.zip](../../../files/external/angelfire-com/winamp281-full.zip) |
-| winsock-dll | runtime/support file | 1 | ready | 1 | [files/external/angelfire-com/winsock-dll.zip](../../../files/external/angelfire-com/winsock-dll.zip) |
-| xchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/xchat.zip](../../../files/external/angelfire-com/xchat.zip) |
-| xregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/xregister-859fa003.exe](../../../files/external/aimfilez-com/xregister-859fa003.exe) |
-| yoink | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/yoink.zip](../../../files/external/angelfire-com/yoink.zip) |
-| zerggifs | unknown | 1 | ready | 1 | [files/external/angelfire-com/zerggifs.zip](../../../files/external/angelfire-com/zerggifs.zip) |
-| zergscr | unknown | 1 | ready | 1 | [files/external/angelfire-com/zergscr.zip](../../../files/external/angelfire-com/zergscr.zip) |
-| zxp | unknown | 1 | ready | 1 | [files/external/angelfire-com/zxp.zip](../../../files/external/angelfire-com/zxp.zip) |
-| methodus | unknown | 6 | candidate<br>http-404 | 0 | none |
-| dos | unknown | 5 | candidate | 0 | none |
-| master | unknown | 5 | candidate<br>http-404 | 0 | none |
-| vbtips | unknown | 5 | candidate | 0 | none |
-| burning | AIM | 4 | candidate | 0 | none |
-| fury | AOL/AIM client installer | 4 | candidate | 0 | none |
-| lethal | unknown | 4 | candidate | 0 | none |
-| vbrun | unknown | 4 | candidate | 0 | none |
-| yahoo | AIM | 4 | candidate | 0 | none |
-| abomination | unknown | 3 | http-404<br>candidate | 0 | none |
-| utopia | AIM | 3 | candidate | 0 | none |
-| prodigy | AIM | 3 | candidate | 0 | none |
-| blackice | unknown | 3 | candidate | 0 | none |
-| botz | idler/bot | 3 | candidate | 0 | none |
-| dimorphic | unknown | 3 | candidate | 0 | none |
-| enervate | unknown | 3 | candidate | 0 | none |
-| envy | unknown | 3 | http-404<br>candidate | 0 | none |
-| exe-strings-db | unknown | 3 | candidate | 0 | none |
-| freakinb | unknown | 3 | candidate | 0 | none |
-| leetlink | AIM | 3 | candidate | 0 | none |
-| oracle | unknown | 3 | candidate<br>http-404 | 0 | none |
-| phaze | unknown | 3 | candidate | 0 | none |
-| pwlist | hazardous/account or remote-control context | 3 | http-404 | 0 | none |
-| threed | runtime/support file | 3 | candidate | 0 | none |
-| kfader | fader | 2 | candidate | 0 | none |
-| shoplayer | unknown | 2 | http-404 | 0 | none |
-| thelement | unknown | 2 | candidate<br>http-404 | 0 | none |
-| addweb | unknown | 2 | http-404 | 0 | none |
-| si | AIM | 2 | candidate | 0 | none |
-| utils | AIM | 2 | candidate | 0 | none |
-| armor | AIM | 2 | candidate | 0 | none |
-| boss | hazardous/account or remote-control context | 2 | candidate | 0 | none |
-| destroy | AOL/AIM client installer | 2 | candidate | 0 | none |
-| er | AIM | 2 | candidate | 0 | none |
-| exploit | chat/macro | 2 | candidate | 0 | none |
-| fatboy | AIM | 2 | candidate | 0 | none |
-| mercy | mass mailer/server | 2 | candidate | 0 | none |
-| overflow | punter/booter | 2 | candidate | 0 | none |
-| pg | AIM | 2 | candidate | 0 | none |
-| phrozenrain | AIM | 2 | candidate | 0 | none |
-| pluss | AIM | 2 | candidate<br>http-404 | 0 | none |
-| sk-s | AIM | 2 | candidate | 0 | none |
-| ster | AIM | 2 | candidate<br>http-404 | 0 | none |
-| steves-ee | AIM | 2 | candidate | 0 | none |
-| unlimited | AIM | 2 | candidate | 0 | none |
-| xpressionz | AIM | 2 | candidate | 0 | none |
-| almantha | unknown | 2 | candidate | 0 | none |
-| alphacoms | chat/macro | 2 | candidate | 0 | none |
-| andone | chat/macro | 2 | candidate | 0 | none |
-| antiboot | punter/booter | 2 | candidate | 0 | none |
-| antidote | unknown | 2 | candidate | 0 | none |
-| free | AOL/AIM client installer | 2 | candidate | 0 | none |
-| inker | unknown | 2 | candidate | 0 | none |
-| audioassault | chat/macro | 2 | candidate | 0 | none |
-| audiostyle | unknown | 2 | candidate | 0 | none |
-| autoruns | unknown | 2 | candidate | 0 | none |
-| blindidle | idler/bot | 2 | candidate | 0 | none |
-| brutoc | runtime/support file | 2 | candidate | 0 | none |
-| buddahlag | chat/macro | 2 | candidate | 0 | none |
-| cafe | unknown | 2 | candidate | 0 | none |
-| causticfinal | AIM | 2 | candidate | 0 | none |
-| charmap | unknown | 2 | candidate | 0 | none |
-| chatage | chat/macro | 2 | candidate | 0 | none |
-| chrome | unknown | 2 | candidate | 0 | none |
-| clonecd | unknown | 2 | candidate | 0 | none |
-| coffee | unknown | 2 | candidate | 0 | none |
-| conspericy | unknown | 2 | http-404<br>candidate | 0 | none |
-| cp | chat/macro | 2 | candidate | 0 | none |
-| crackzilla | hazardous/account or remote-control context | 2 | http-404<br>candidate | 0 | none |
-| cryofade | room buster | 2 | candidate | 0 | none |
-| ct | chat/macro | 2 | candidate | 0 | none |
-| cutehtml | unknown | 2 | candidate | 0 | none |
-| decadelite | unknown | 2 | candidate | 0 | none |
-| deception | punter/booter | 2 | candidate | 0 | none |
-| derty | unknown | 2 | candidate | 0 | none |
-| diganti | unknown | 2 | candidate | 0 | none |
-| evolution | AIM | 2 | candidate | 0 | none |
-| eyecandy | unknown | 2 | candidate | 0 | none |
-| eyecandyupdate | unknown | 2 | candidate | 0 | none |
-| eyeofrah | unknown | 2 | candidate | 0 | none |
-| fastproxy | unknown | 2 | candidate | 0 | none |
-| fearx | unknown | 2 | candidate | 0 | none |
-| fiddler-setup | unknown | 2 | candidate | 0 | none |
-| fiery | unknown | 2 | candidate | 0 | none |
-| fontlister | unknown | 2 | candidate | 0 | none |
-| frogbomb | unknown | 2 | candidate | 0 | none |
-| getright | unknown | 2 | candidate | 0 | none |
-| grabit-pro | unknown | 2 | candidate | 0 | none |
-| hax | hazardous/account or remote-control context | 2 | candidate | 0 | none |
-| ieeto | idler/bot | 2 | candidate | 0 | none |
-| imperialccoms | chat/macro | 2 | candidate | 0 | none |
-| invader | punter/booter | 2 | candidate | 0 | none |
-| ipgrabber | unknown | 2 | candidate | 0 | none |
-| iraqiannuke | punter/booter | 2 | candidate | 0 | none |
-| jamesbond | unknown | 2 | candidate | 0 | none |
-| jn | unknown | 2 | candidate | 0 | none |
-| kokomos | unknown | 2 | candidate | 0 | none |
-| kronic | unknown | 2 | candidate | 0 | none |
-| lamer | unknown | 2 | http-404<br>candidate | 0 | none |
-| lightning | unknown | 2 | candidate | 0 | none |
-| linksender | unknown | 2 | candidate | 0 | none |
-| liquidsoulbeta | room buster | 2 | candidate | 0 | none |
-| liquidwater | AIM | 2 | candidate | 0 | none |
-| marioonline | chat/macro | 2 | candidate | 0 | none |
-| midget | chat/macro | 2 | candidate | 0 | none |
-| mocks | unknown | 2 | candidate | 0 | none |
-| neology | unknown | 2 | candidate | 0 | none |
-| netbuspatch | hazardous/account or remote-control context | 2 | http-404 | 0 | none |
-| nfos | unknown | 2 | candidate | 0 | none |
-| nolimit | room buster | 2 | candidate | 0 | none |
-| npp-installer | unknown | 2 | candidate | 0 | none |
-| paranoia | unknown | 2 | candidate<br>http-404 | 0 | none |
-| pride | unknown | 2 | candidate | 0 | none |
-| processexplorernt | unknown | 2 | candidate | 0 | none |
-| sleepyhollow | unknown | 2 | candidate | 0 | none |
-| son | AIM | 2 | candidate | 0 | none |
-| sonicgold | chat/macro | 2 | candidate<br>http-404 | 0 | none |
-| sp | unknown | 2 | candidate | 0 | none |
-| t-m | hazardous/account or remote-control context | 2 | candidate | 0 | none |
-| target | AIM | 2 | candidate | 0 | none |
-| trail | unknown | 2 | candidate | 0 | none |
-| tweakuipowertoysetup | unknown | 2 | candidate | 0 | none |
-| unknown | unknown | 2 | candidate | 0 | none |
-| upall | unknown | 2 | candidate | 0 | none |
-| u | AIM | 2 | candidate | 0 | none |
-| vb-a | runtime/support file | 2 | candidate | 0 | none |
-| vbmsg | unknown | 2 | candidate | 0 | none |
-| wincdemu | unknown | 2 | candidate | 0 | none |
-| winhex | unknown | 2 | candidate | 0 | none |
-| wirecrack-source | hazardous/account or remote-control context | 2 | candidate | 0 | none |
-| wirecrack | hazardous/account or remote-control context | 2 | candidate | 0 | none |
-| wsftp | unknown | 2 | candidate | 0 | none |
-| xeno | unknown | 2 | candidate | 0 | none |
-| xenu | unknown | 2 | candidate | 0 | none |
-| xm-wa | unknown | 2 | candidate | 0 | none |
-| xmousebuttoncontrolsetup | unknown | 2 | candidate | 0 | none |
-| botbooter | punter/booter | 1 | candidate | 0 | none |
-| buddylink | AIM | 1 | candidate | 0 | none |
-| skinz | AIM | 1 | http-404 | 0 | none |
-| yrs | unknown | 1 | http-404 | 0 | none |
-| coolbutton | unknown | 1 | http-404 | 0 | none |
-| kchatlink | chat/macro | 1 | candidate | 0 | none |
-| anticrack | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
-| dfxapi | runtime/support file | 1 | http-404 | 0 | none |
-| dlabel | runtime/support file | 1 | http-404 | 0 | none |
-| dsmax | unknown | 1 | candidate | 0 | none |
-| kbuster | room buster | 1 | candidate | 0 | none |
-| shoelite | unknown | 1 | http-404 | 0 | none |
-| shoelitefinal | unknown | 1 | http-404 | 0 | none |
-| digitcombos | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| liteiiipro | unknown | 1 | candidate | 0 | none |
-| abbot | idler/bot | 1 | http-404 | 0 | none |
-| ac-passwordcracker | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
-| acidfader | fader | 1 | http-404 | 0 | none |
-| acidrein | AIM | 1 | http-404 | 0 | none |
-| actcndy | runtime/support file | 1 | http-404 | 0 | none |
-| activeskin | runtime/support file | 1 | http-404 | 0 | none |
-| addictionsfinal | punter/booter | 1 | candidate | 0 | none |
-| adiosamigos | unknown | 1 | candidate | 0 | none |
-| adobe | unknown | 1 | candidate | 0 | none |
-| advancedbeta | AIM | 1 | http-404 | 0 | none |
-| ah-b | unknown | 1 | candidate | 0 | none |
-| ah-b-zip | unknown | 1 | candidate | 0 | none |
-| addictions | punter/booter | 1 | candidate | 0 | none |
-| addictionse | punter/booter | 1 | candidate | 0 | none |
-| advlanche | AIM | 1 | candidate | 0 | none |
-| aid | AIM | 1 | candidate | 0 | none |
-| hellfinal | AIM | 1 | candidate | 0 | none |
-| onice | AIM | 1 | candidate | 0 | none |
-| tizank | AIM | 1 | candidate | 0 | none |
-| works | AIM | 1 | candidate | 0 | none |
-| aker | AIM | 1 | candidate | 0 | none |
-| aoanarchistutilities | AIM | 1 | candidate | 0 | none |
-| assimilation | mass mailer/server | 1 | candidate | 0 | none |
-| attak | punter/booter | 1 | candidate | 0 | none |
-| aztopdawg | AIM | 1 | candidate | 0 | none |
-| battletank | AIM | 1 | candidate | 0 | none |
-| blackoutbeta | AIM | 1 | candidate | 0 | none |
-| blood | AIM | 1 | candidate | 0 | none |
-| bloodbath | AIM | 1 | candidate | 0 | none |
-| blueeclipse | AIM | 1 | candidate | 0 | none |
-| bluefire | AIM | 1 | candidate | 0 | none |
-| bomb | punter/booter | 1 | candidate | 0 | none |
-| buddybomb | AIM | 1 | candidate | 0 | none |
-| buddyicons | AIM | 1 | candidate | 0 | none |
-| bulletscroller | chat/macro | 1 | candidate | 0 | none |
-| burninginside | AIM | 1 | candidate | 0 | none |
-| byrdfaderpro | fader | 1 | candidate | 0 | none |
-| cautionantibooter | punter/booter | 1 | candidate | 0 | none |
-| census | AIM | 1 | candidate | 0 | none |
-| chemicaltendancies | AIM | 1 | candidate | 0 | none |
-| crak | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crc | AIM | 1 | candidate | 0 | none |
-| creat | AIM | 1 | http-404 | 0 | none |
-| deadend | AIM | 1 | candidate | 0 | none |
-| distortion | AIM | 1 | candidate | 0 | none |
-| distortionfinal | AIM | 1 | candidate | 0 | none |
-| doom | AIM | 1 | candidate | 0 | none |
-| empyriefinal | AIM | 1 | candidate | 0 | none |
-| endlesscommands | AIM | 1 | candidate | 0 | none |
-| erozionbeta | AIM | 1 | candidate | 0 | none |
-| evil | AOL/AIM client installer | 1 | candidate | 0 | none |
-| fadersuite | fader | 1 | candidate | 0 | none |
-| flash | AIM | 1 | candidate | 0 | none |
-| flooder | chat/macro | 1 | candidate | 0 | none |
-| frysc | punter/booter | 1 | candidate | 0 | none |
-| fudo | AIM | 1 | candidate | 0 | none |
-| genocidalrage | AIM | 1 | candidate | 0 | none |
-| glock | AIM | 1 | candidate | 0 | none |
-| group | AIM | 1 | candidate | 0 | none |
-| hallucination | AIM | 1 | candidate | 0 | none |
-| happy | AIM | 1 | candidate | 0 | none |
-| hippie | AIM | 1 | candidate | 0 | none |
-| illusionzbeta | AIM | 1 | candidate | 0 | none |
-| impaler | AIM | 1 | candidate | 0 | none |
-| infinitybeta | AIM | 1 | candidate | 0 | none |
-| jesterx | AIM | 1 | candidate | 0 | none |
-| kaos-punter | punter/booter | 1 | candidate | 0 | none |
-| lamakilla | AIM | 1 | candidate | 0 | none |
-| lightningaftershock | AIM | 1 | candidate | 0 | none |
-| linker | AIM | 1 | candidate | 0 | none |
-| luxor | AIM | 1 | candidate | 0 | none |
-| maddux | AOL/AIM client installer | 1 | candidate | 0 | none |
-| mafiafinal | AIM | 1 | candidate | 0 | none |
-| mayka | AIM | 1 | candidate | 0 | none |
-| meangreen | AIM | 1 | candidate | 0 | none |
-| meltedice | AIM | 1 | candidate | 0 | none |
-| metallicaafterlife | AIM | 1 | candidate | 0 | none |
-| metallicafinal | AIM | 1 | candidate | 0 | none |
-| metallic-mortal | AIM | 1 | candidate | 0 | none |
-| nashs | AIM | 1 | candidate | 0 | none |
-| net-iezrevised | AIM | 1 | candidate | 0 | none |
-| nirvana | AIM | 1 | candidate | 0 | none |
-| no | AIM | 1 | candidate | 0 | none |
-| noads | AIM | 1 | candidate | 0 | none |
-| nonstopscroll | chat/macro | 1 | candidate | 0 | none |
-| onfire | AIM | 1 | candidate | 0 | none |
-| oxygenbuild | AIM | 1 | candidate | 0 | none |
-| phrozenphader | AIM | 1 | candidate | 0 | none |
-| poser | AIM | 1 | candidate | 0 | none |
-| pressurescrambler | AIM | 1 | candidate | 0 | none |
-| professor | AIM | 1 | candidate | 0 | none |
-| havoks | AIM | 1 | candidate | 0 | none |
-| protozoa | AIM | 1 | candidate | 0 | none |
-| pwlist-mill | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
-| pwmodify | AIM | 1 | candidate | 0 | none |
-| rape-k | punter/booter | 1 | candidate | 0 | none |
-| raterape | AIM | 1 | candidate | 0 | none |
-| reflectionpunter | punter/booter | 1 | candidate | 0 | none |
-| remixr | punter/booter | 1 | candidate | 0 | none |
-| riin | AIM | 1 | candidate | 0 | none |
-| ruler | punter/booter | 1 | candidate | 0 | none |
-| screwball | AIM | 1 | candidate | 0 | none |
-| scrollbeta | chat/macro | 1 | candidate | 0 | none |
-| selectivegenocide | AIM | 1 | candidate | 0 | none |
-| sniff | AIM | 1 | candidate | 0 | none |
-| snm | AIM | 1 | candidate | 0 | none |
-| southparkbeta | AIM | 1 | candidate | 0 | none |
-| spawn | AIM | 1 | candidate | 0 | none |
-| staticx | AIM | 1 | candidate | 0 | none |
-| studio | AIM | 1 | candidate | 0 | none |
-| sufferage | AIM | 1 | candidate | 0 | none |
-| synapse | AIM | 1 | candidate | 0 | none |
-| tortureraizer | AIM | 1 | candidate | 0 | none |
-| turpentinerevisited | AIM | 1 | candidate | 0 | none |
-| unsakredfinal | AIM | 1 | candidate | 0 | none |
-| unsakred | AIM | 1 | candidate | 0 | none |
-| venom | AIM | 1 | candidate | 0 | none |
-| zer | AIM | 1 | candidate | 0 | none |
-| zonefire | AIM | 1 | candidate | 0 | none |
-| aipro | punter/booter | 1 | candidate | 0 | none |
-| ajsmp-player | AIM | 1 | candidate | 0 | none |
-| alarmclock | unknown | 1 | candidate | 0 | none |
-| alf | unknown | 1 | candidate | 0 | none |
-| alienskin | AIM | 1 | candidate | 0 | none |
-| allaccess | unknown | 1 | candidate | 0 | none |
-| alpha-kbuster | room buster | 1 | candidate | 0 | none |
-| alterimage | unknown | 1 | candidate | 0 | none |
-| amazonclouddrivesetup | unknown | 1 | candidate | 0 | none |
-| amcmsgbox | unknown | 1 | candidate | 0 | none |
-| americaonfireplatinum | unknown | 1 | candidate | 0 | none |
-| amerikaencryptline | unknown | 1 | candidate | 0 | none |
-| amxidler | idler/bot | 1 | candidate | 0 | none |
-| annoypunter | punter/booter | 1 | candidate | 0 | none |
-| anomaly | runtime/support file | 1 | candidate | 0 | none |
-| answerdat | unknown | 1 | candidate | 0 | none |
-| anti-filter | AIM | 1 | candidate | 0 | none |
-| antifreeze | unknown | 1 | candidate | 0 | none |
-| antilagbykid | unknown | 1 | candidate | 0 | none |
-| antilamer | chat/macro | 1 | candidate | 0 | none |
-| antileech | unknown | 1 | candidate | 0 | none |
-| antitheft | unknown | 1 | candidate | 0 | none |
-| ao | unknown | 1 | candidate | 0 | none |
-| aob | chat/macro | 1 | candidate | 0 | none |
-| aoh-b | unknown | 1 | candidate | 0 | none |
-| s-archive | unknown | 1 | too-large | 0 | none |
-| german | AOL/AIM client installer | 1 | http-404 | 0 | none |
-| fix | AOL/AIM client installer | 1 | candidate | 0 | none |
-| chatbot | AOL/AIM client installer | 1 | candidate | 0 | none |
-| ex | AOL/AIM client installer | 1 | candidate | 0 | none |
-| plus | AOL/AIM client installer | 1 | candidate | 0 | none |
-| sendchat | AOL/AIM client installer | 1 | candidate | 0 | none |
-| se | AOL/AIM client installer | 1 | candidate | 0 | none |
-| ac | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| filedownloader | unknown | 1 | http-404 | 0 | none |
-| macros | chat/macro | 1 | candidate | 0 | none |
-| sjeb-s | unknown | 1 | candidate | 0 | none |
-| quickbuddy | AIM | 1 | candidate | 0 | none |
-| aonet | chat/macro | 1 | candidate | 0 | none |
-| aophader | fader | 1 | candidate | 0 | none |
-| aorem-te | unknown | 1 | candidate | 0 | none |
-| aoremote | unknown | 1 | candidate | 0 | none |
-| apocexe | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| arc | unknown | 1 | candidate | 0 | none |
-| arcrack | room buster | 1 | candidate | 0 | none |
-| arena | unknown | 1 | candidate | 0 | none |
-| armagedd | punter/booter | 1 | candidate | 0 | none |
-| armoredupdate | room buster | 1 | candidate | 0 | none |
-| asc | unknown | 1 | candidate | 0 | none |
-| assgas | chat/macro | 1 | candidate | 0 | none |
-| atex | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
-| atexscroll | chat/macro | 1 | http-404 | 0 | none |
-| atomccoms | chat/macro | 1 | candidate | 0 | none |
-| audiopackets | unknown | 1 | candidate | 0 | none |
-| audiostylexp | chat/macro | 1 | candidate | 0 | none |
-| auroramacro | chat/macro | 1 | candidate | 0 | none |
-| autodlexample | unknown | 1 | candidate | 0 | none |
-| autoflow | AIM | 1 | candidate | 0 | none |
-| autoreconnect | unknown | 1 | candidate | 0 | none |
-| autorunmaker | unknown | 1 | candidate | 0 | none |
-| autositebackup | unknown | 1 | candidate | 0 | none |
-| away-k | idler/bot | 1 | candidate | 0 | none |
-| b-it | unknown | 1 | http-404 | 0 | none |
-| badmojo | unknown | 1 | candidate | 0 | none |
-| bait | unknown | 1 | candidate | 0 | none |
-| banner-exchange-v-b | unknown | 1 | candidate | 0 | none |
-| bannerad | unknown | 1 | candidate | 0 | none |
-| banshee | punter/booter | 1 | candidate | 0 | none |
-| basfiles | unknown | 1 | candidate | 0 | none |
-| basic | unknown | 1 | candidate | 0 | none |
-| bbl-idle | idler/bot | 1 | candidate | 0 | none |
-| bdas | chat/macro | 1 | candidate | 0 | none |
-| beatbox | unknown | 1 | candidate | 0 | none |
-| bedtime | idler/bot | 1 | candidate | 0 | none |
-| beyonddestiny | unknown | 1 | candidate | 0 | none |
-| bgfade | fader | 1 | candidate | 0 | none |
-| biestly | unknown | 1 | candidate | 0 | none |
-| binary | unknown | 1 | candidate | 0 | none |
-| biobeast | unknown | 1 | candidate | 0 | none |
-| bl | room buster | 1 | candidate | 0 | none |
-| blackrosebas | unknown | 1 | candidate | 0 | none |
-| blackultra | unknown | 1 | candidate | 0 | none |
-| blazeidle | idler/bot | 1 | candidate | 0 | none |
-| blazeidler | idler/bot | 1 | candidate | 0 | none |
-| blc | unknown | 1 | candidate | 0 | none |
-| bleem | unknown | 1 | candidate | 0 | none |
-| blizacoms | chat/macro | 1 | candidate | 0 | none |
-| blizsvr | unknown | 1 | candidate | 0 | none |
-| blkmgc | unknown | 1 | candidate | 0 | none |
-| blue | idler/bot | 1 | candidate | 0 | none |
-| blueicepxer | room buster | 1 | candidate | 0 | none |
-| bluemurder | unknown | 1 | candidate | 0 | none |
-| bmr | room buster | 1 | candidate | 0 | none |
-| bofen | unknown | 1 | candidate | 0 | none |
-| boisccom | chat/macro | 1 | candidate | 0 | none |
-| bolt | AIM | 1 | candidate | 0 | none |
-| bonebuster | room buster | 1 | candidate | 0 | none |
-| bookofguests | unknown | 1 | candidate | 0 | none |
-| boot | punter/booter | 1 | candidate | 0 | none |
-| bootman | punter/booter | 1 | candidate | 0 | none |
-| bootshop | punter/booter | 1 | candidate | 0 | none |
-| borg | unknown | 1 | candidate | 0 | none |
-| bproom | room buster | 1 | candidate | 0 | none |
-| brbas | unknown | 1 | candidate | 0 | none |
-| brbidler | idler/bot | 1 | candidate | 0 | none |
-| bru | runtime/support file | 1 | candidate | 0 | none |
-| buddahidle | idler/bot | 1 | candidate | 0 | none |
-| buddahpwgen | unknown | 1 | candidate | 0 | none |
-| buddha | unknown | 1 | candidate | 0 | none |
-| buddy | AIM | 1 | candidate | 0 | none |
-| buddybegone | AIM | 1 | http-404 | 0 | none |
-| buddyblaster | mass mailer/server | 1 | http-404 | 0 | none |
-| buddymax | AIM | 1 | candidate | 0 | none |
-| buddysorter | AIM | 1 | http-404 | 0 | none |
-| bugshooting-setup | unknown | 1 | candidate | 0 | none |
-| build | unknown | 1 | http-404 | 0 | none |
-| bulletftp | unknown | 1 | candidate | 0 | none |
-| bustamove | room buster | 1 | candidate | 0 | none |
-| bustaroom | room buster | 1 | candidate | 0 | none |
-| bustaroomstellar | room buster | 1 | candidate | 0 | none |
-| bustazz | room buster | 1 | candidate | 0 | none |
-| bustdatshit | AIM | 1 | candidate | 0 | none |
-| butcher | unknown | 1 | candidate | 0 | none |
-| byrdfader | fader | 1 | candidate | 0 | none |
-| c-collector | unknown | 1 | candidate | 0 | none |
-| c-public | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| cab | unknown | 1 | candidate | 0 | none |
-| cast | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| ccrpprg | runtime/support file | 1 | candidate | 0 | none |
-| cdmage | unknown | 1 | candidate | 0 | none |
-| cdmage-b | unknown | 1 | candidate | 0 | none |
-| cell | AIM | 1 | candidate | 0 | none |
-| celluoid | chat/macro | 1 | candidate | 0 | none |
-| celluoidbeta | chat/macro | 1 | candidate | 0 | none |
-| cfade | fader | 1 | candidate | 0 | none |
-| cfc | punter/booter | 1 | candidate | 0 | none |
-| cfomg | unknown | 1 | candidate | 0 | none |
-| ch | chat/macro | 1 | candidate | 0 | none |
-| chamberbomb | punter/booter | 1 | candidate | 0 | none |
-| chaos | idler/bot | 1 | candidate | 0 | none |
-| chaosmp | unknown | 1 | candidate | 0 | none |
-| chaoticmayhem | unknown | 1 | candidate | 0 | none |
-| chatamp | chat/macro | 1 | candidate | 0 | none |
-| chatclear | chat/macro | 1 | candidate | 0 | none |
-| chatfix | chat/macro | 1 | candidate | 0 | none |
-| chatlink | chat/macro | 1 | candidate | 0 | none |
-| chatocx | runtime/support file | 1 | candidate | 0 | none |
-| chatpro | chat/macro | 1 | candidate | 0 | none |
-| chatprot | chat/macro | 1 | candidate | 0 | none |
-| chatrush | chat/macro | 1 | candidate | 0 | none |
-| chatscan | runtime/support file | 1 | candidate | 0 | none |
-| chatsp | mass mailer/server | 1 | candidate | 0 | none |
-| chat-beta | chat/macro | 1 | candidate | 0 | none |
-| chazt | AIM | 1 | candidate | 0 | none |
-| cheezy | idler/bot | 1 | candidate | 0 | none |
-| chex | unknown | 1 | candidate | 0 | none |
-| chickilla | punter/booter | 1 | candidate | 0 | none |
-| chip-kid | runtime/support file | 1 | candidate | 0 | none |
-| chronicbas | unknown | 1 | candidate | 0 | none |
-| chronicidle | idler/bot | 1 | candidate | 0 | none |
-| chronik | unknown | 1 | candidate | 0 | none |
-| cinemablue | idler/bot | 1 | candidate | 0 | none |
-| cinemagreen | idler/bot | 1 | candidate | 0 | none |
-| citrus | room buster | 1 | candidate | 0 | none |
-| clearhaze | chat/macro | 1 | candidate | 0 | none |
-| cleptobust | room buster | 1 | candidate | 0 | none |
-| cloc | runtime/support file | 1 | candidate | 0 | none |
-| cloneridle | idler/bot | 1 | candidate | 0 | none |
-| clonetech | unknown | 1 | candidate | 0 | none |
-| cmdialog | runtime/support file | 1 | candidate | 0 | none |
-| cobain-st | AIM | 1 | candidate | 0 | none |
-| codezap | AIM | 1 | http-404 | 0 | none |
-| coldlayout | idler/bot | 1 | candidate | 0 | none |
-| collapsecrush | punter/booter | 1 | candidate | 0 | none |
-| cology-source | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| colorcarnage | unknown | 1 | candidate | 0 | none |
-| colorfulsexfader | fader | 1 | candidate | 0 | none |
-| com-six-beta | unknown | 1 | http-404 | 0 | none |
-| comctl | runtime/support file | 1 | candidate | 0 | none |
-| comdlg | runtime/support file | 1 | candidate | 0 | none |
-| comillusionb | chat/macro | 1 | candidate | 0 | none |
-| compaccoms | chat/macro | 1 | http-404 | 0 | none |
-| cookiemonster | idler/bot | 1 | candidate | 0 | none |
-| coolfonts | unknown | 1 | candidate | 0 | none |
-| coolghost | unknown | 1 | candidate | 0 | none |
-| coolsendchat | chat/macro | 1 | candidate | 0 | none |
-| core | unknown | 1 | candidate | 0 | none |
-| coreapi | unknown | 1 | candidate | 0 | none |
-| corrupterrors | AIM | 1 | candidate | 0 | none |
-| cpudeathping | unknown | 1 | candidate | 0 | none |
-| cr-xz-ne | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| cracke | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crackerhelp | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crackerjack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crackex | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crackish | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| cracknet | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crackofdawn | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| cracks | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| crapidleremix | idler/bot | 1 | candidate | 0 | none |
-| crappyscroller | chat/macro | 1 | candidate | 0 | none |
-| crazyhobo | idler/bot | 1 | candidate | 0 | none |
-| creep | unknown | 1 | candidate | 0 | none |
-| crimsons | punter/booter | 1 | candidate | 0 | none |
-| critikism | mass mailer/server | 1 | candidate | 0 | none |
-| cruel | unknown | 1 | candidate | 0 | none |
-| cs | idler/bot | 1 | candidate | 0 | none |
-| cyclonemm | unknown | 1 | candidate | 0 | none |
-| d-k | AOL/AIM client installer | 1 | candidate | 0 | none |
-| dacracks | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| dahoaxbas | unknown | 1 | candidate | 0 | none |
-| d-gold | AIM | 1 | candidate | 0 | none |
-| darkagefader | fader | 1 | candidate | 0 | none |
-| darkangelz | unknown | 1 | candidate | 0 | none |
-| darkknight | AIM | 1 | candidate | 0 | none |
-| darknova | unknown | 1 | candidate | 0 | none |
-| darkshadow | punter/booter | 1 | candidate | 0 | none |
-| darkside-r | unknown | 1 | candidate | 0 | none |
-| darkzoid | AIM | 1 | http-404 | 0 | none |
-| dbpush | runtime/support file | 1 | candidate | 0 | none |
-| dbremix | unknown | 1 | http-404 | 0 | none |
-| dbttip | runtime/support file | 1 | candidate | 0 | none |
-| dcom | unknown | 1 | candidate | 0 | none |
-| dcsystray | runtime/support file | 1 | candidate | 0 | none |
-| deadair | unknown | 1 | candidate | 0 | none |
-| deadmassim | mass mailer/server | 1 | candidate | 0 | none |
-| deathby | AOL/AIM client installer | 1 | candidate | 0 | none |
-| deathcom | unknown | 1 | candidate | 0 | none |
-| decript | AOL/AIM client installer | 1 | candidate | 0 | none |
-| deltaforcebeta | unknown | 1 | candidate | 0 | none |
-| delusional | unknown | 1 | candidate | 0 | none |
-| dem | AOL/AIM client installer | 1 | candidate | 0 | none |
-| demented | unknown | 1 | candidate | 0 | none |
-| demolish | AOL/AIM client installer | 1 | candidate | 0 | none |
-| demonslash | punter/booter | 1 | candidate | 0 | none |
-| desi | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| destinyfinal | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| destroyer | chat/macro | 1 | candidate | 0 | none |
-| destructionfinal | unknown | 1 | candidate | 0 | none |
-| digitaldynastyfinal | unknown | 1 | candidate | 0 | none |
-| digitalidle | idler/bot | 1 | candidate | 0 | none |
-| digitalintake | chat/macro | 1 | candidate | 0 | none |
-| digitalinteruption | unknown | 1 | candidate | 0 | none |
-| digitek | unknown | 1 | candidate | 0 | none |
-| dist-k | unknown | 1 | candidate | 0 | none |
-| ditto | punter/booter | 1 | candidate | 0 | none |
-| dive | unknown | 1 | candidate | 0 | none |
-| dltech | idler/bot | 1 | candidate | 0 | none |
-| dogbar | runtime/support file | 1 | candidate | 0 | none |
-| domaincs | unknown | 1 | candidate | 0 | none |
-| dotcom | unknown | 1 | candidate | 0 | none |
-| downloadacceleratorpro | unknown | 1 | candidate | 0 | none |
-| dream | unknown | 1 | candidate | 0 | none |
-| dreamweaver | unknown | 1 | candidate | 0 | none |
-| drkevorkian | punter/booter | 1 | candidate | 0 | none |
-| droolz | unknown | 1 | candidate | 0 | none |
-| dry | chat/macro | 1 | candidate | 0 | none |
-| dsim | AIM | 1 | candidate | 0 | none |
-| dsk | unknown | 1 | candidate | 0 | none |
-| ds | AIM | 1 | candidate | 0 | none |
-| duff | unknown | 1 | candidate | 0 | none |
-| dupekill | chat/macro | 1 | candidate | 0 | none |
-| dwf | punter/booter | 1 | candidate | 0 | none |
-| dwkdfade | fader | 1 | candidate | 0 | none |
-| dwsbc | runtime/support file | 1 | candidate | 0 | none |
-| earth | unknown | 1 | candidate | 0 | none |
-| easycracking | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| echobotsource | idler/bot | 1 | candidate | 0 | none |
-| ectasy | AIM | 1 | candidate | 0 | none |
-| ec-cracker | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| editor | AIM | 1 | candidate | 0 | none |
-| eelitetalker | unknown | 1 | candidate | 0 | none |
-| effex | unknown | 1 | candidate | 0 | none |
-| eggs | unknown | 1 | candidate | 0 | none |
-| electric | unknown | 1 | candidate | 0 | none |
-| elite | unknown | 1 | candidate | 0 | none |
-| eliteprotection | unknown | 1 | candidate | 0 | none |
-| elitespammer | mass mailer/server | 1 | candidate | 0 | none |
-| elitespam | mass mailer/server | 1 | candidate | 0 | none |
-| elitetalker | unknown | 1 | candidate | 0 | none |
-| elixant | idler/bot | 1 | candidate | 0 | none |
-| emailw-subject | mass mailer/server | 1 | candidate | 0 | none |
-| emp-b | unknown | 1 | candidate | 0 | none |
-| emp-beta | unknown | 1 | candidate | 0 | none |
-| empyrie | AIM | 1 | candidate | 0 | none |
-| endposs | unknown | 1 | candidate | 0 | none |
-| enigmaencrypt | unknown | 1 | candidate | 0 | none |
-| enpcgsetup | unknown | 1 | candidate | 0 | none |
-| enterim | unknown | 1 | candidate | 0 | none |
-| envyfinal | unknown | 1 | candidate | 0 | none |
-| eses | unknown | 1 | candidate | 0 | none |
-| espidlez | idler/bot | 1 | candidate | 0 | none |
-| espxplister | unknown | 1 | candidate | 0 | none |
-| eternalccoms | chat/macro | 1 | candidate | 0 | none |
-| eternity | idler/bot | 1 | candidate | 0 | none |
-| evil-snmaker | AIM | 1 | candidate | 0 | none |
-| excollect | unknown | 1 | candidate | 0 | none |
-| exodusocx | unknown | 1 | candidate | 0 | none |
-| exorp | unknown | 1 | candidate | 0 | none |
-| explicit | unknown | 1 | candidate | 0 | none |
-| expressed | unknown | 1 | candidate | 0 | none |
-| expressions | unknown | 1 | candidate | 0 | none |
-| extremeelegance | unknown | 1 | candidate | 0 | none |
-| ez-gpo | unknown | 1 | candidate | 0 | none |
-| ez-save-setup | unknown | 1 | candidate | 0 | none |
-| ezaudio | unknown | 1 | candidate | 0 | none |
-| fademan | fader | 1 | candidate | 0 | none |
-| fadercolorz | fader | 1 | candidate | 0 | none |
-| fak | chat/macro | 1 | candidate | 0 | none |
-| fastmofo | AIM | 1 | candidate | 0 | none |
-| fataldestiny | unknown | 1 | candidate | 0 | none |
-| fatalillusions | unknown | 1 | candidate | 0 | none |
-| fatexyahoo | unknown | 1 | candidate | 0 | none |
-| fazerx | unknown | 1 | candidate | 0 | none |
-| fe | unknown | 1 | candidate | 0 | none |
-| fierce | chat/macro | 1 | candidate | 0 | none |
-| finalelement | unknown | 1 | candidate | 0 | none |
-| finalpeace | unknown | 1 | candidate | 0 | none |
-| fir-z-chatscan | runtime/support file | 1 | candidate | 0 | none |
-| firecatasciishop | chat/macro | 1 | candidate | 0 | none |
-| firstinline | punter/booter | 1 | candidate | 0 | none |
-| flashforge | unknown | 1 | candidate | 0 | none |
-| flashforge-b-d | unknown | 1 | candidate | 0 | none |
-| flatbtn | runtime/support file | 1 | candidate | 0 | none |
-| floodassault | punter/booter | 1 | candidate | 0 | none |
-| fluxidle | idler/bot | 1 | candidate | 0 | none |
-| fly | AOL/AIM client installer | 1 | candidate | 0 | none |
-| flyman | unknown | 1 | candidate | 0 | none |
-| flyw | unknown | 1 | candidate | 0 | none |
-| fonts | unknown | 1 | candidate | 0 | none |
-| formdragxp | unknown | 1 | candidate | 0 | none |
-| formtrick | unknown | 1 | candidate | 0 | none |
-| fourseasons | unknown | 1 | candidate | 0 | none |
-| fox | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| fpfksetup-revnum-web-prod | unknown | 1 | candidate | 0 | none |
-| fpfksetup | unknown | 1 | candidate | 0 | none |
-| fr | chat/macro | 1 | candidate | 0 | none |
-| frames | unknown | 1 | http-404 | 0 | none |
-| frantic | unknown | 1 | candidate | 0 | none |
-| freespy | unknown | 1 | candidate | 0 | none |
-| freongold | unknown | 1 | http-404 | 0 | none |
-| fresh | unknown | 1 | candidate | 0 | none |
-| frootfliy | unknown | 1 | candidate | 0 | none |
-| froz-nh-ll | unknown | 1 | candidate | 0 | none |
-| frozenhell | unknown | 1 | candidate | 0 | none |
-| frubal | AIM | 1 | candidate | 0 | none |
-| frui | unknown | 1 | candidate | 0 | none |
-| ftx | unknown | 1 | candidate | 0 | none |
-| fuji | chat/macro | 1 | candidate | 0 | none |
-| future | chat/macro | 1 | candidate | 0 | none |
-| garbage | unknown | 1 | candidate | 0 | none |
-| gather | unknown | 1 | http-404 | 0 | none |
-| gauge | runtime/support file | 1 | candidate | 0 | none |
-| gayrebirth | unknown | 1 | candidate | 0 | none |
-| generalcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| genozide | unknown | 1 | candidate | 0 | none |
-| genpr | AIM | 1 | candidate | 0 | none |
-| geocities | unknown | 1 | candidate | 0 | none |
-| getthat | AIM | 1 | candidate | 0 | none |
-| ginspar | unknown | 1 | candidate | 0 | none |
-| glitchx | punter/booter | 1 | http-404 | 0 | none |
-| glue | unknown | 1 | candidate | 0 | none |
-| goozies | unknown | 1 | candidate | 0 | none |
-| gothicwithdll | unknown | 1 | candidate | 0 | none |
-| gr-a | unknown | 1 | candidate | 0 | none |
-| grainofkokane | AIM | 1 | candidate | 0 | none |
-| grid | runtime/support file | 1 | candidate | 0 | none |
-| gwapitoslapper | punter/booter | 1 | candidate | 0 | none |
-| h-s | unknown | 1 | candidate | 0 | none |
-| h-olink | unknown | 1 | candidate | 0 | none |
-| hackers | unknown | 1 | candidate | 0 | none |
-| hackzoid | idler/bot | 1 | http-404 | 0 | none |
-| halfbaked | unknown | 1 | candidate | 0 | none |
-| hardcorehell | AIM | 1 | candidate | 0 | none |
-| heavymetal | chat/macro | 1 | candidate | 0 | none |
-| hellbooter | punter/booter | 1 | candidate | 0 | none |
-| hellflamez | unknown | 1 | candidate | 0 | none |
-| hellpunter | punter/booter | 1 | candidate | 0 | none |
-| hellpuntp | punter/booter | 1 | candidate | 0 | none |
-| hellsaudio | chat/macro | 1 | candidate | 0 | none |
-| hexen-bas | unknown | 1 | candidate | 0 | none |
-| hf-k | AIM | 1 | candidate | 0 | none |
-| hfade | fader | 1 | candidate | 0 | none |
-| hiderfnl | unknown | 1 | candidate | 0 | none |
-| hippo | punter/booter | 1 | candidate | 0 | none |
-| hit-chidler | idler/bot | 1 | candidate | 0 | none |
-| hiwind | chat/macro | 1 | candidate | 0 | none |
-| hix | AOL/AIM client installer | 1 | candidate | 0 | none |
-| holyzccom | chat/macro | 1 | candidate | 0 | none |
-| homer | AIM | 1 | candidate | 0 | none |
-| hook-beta | room buster | 1 | candidate | 0 | none |
-| hookbustbeta | room buster | 1 | candidate | 0 | none |
-| hookfinal | room buster | 1 | candidate | 0 | none |
-| hot-fader | fader | 1 | candidate | 0 | none |
-| hpcoms | chat/macro | 1 | candidate | 0 | none |
-| htechfinal | unknown | 1 | candidate | 0 | none |
-| htmlonly | idler/bot | 1 | candidate | 0 | none |
-| hty | unknown | 1 | candidate | 0 | none |
-| hurricanemp | unknown | 1 | candidate | 0 | none |
-| hwf | unknown | 1 | candidate | 0 | none |
-| hydra | unknown | 1 | candidate | 0 | none |
-| hypno | unknown | 1 | candidate | 0 | none |
-| i-fusion-box | unknown | 1 | candidate | 0 | none |
-| ibeuppin | unknown | 1 | candidate | 0 | none |
-| iccplatinum | unknown | 1 | candidate | 0 | none |
-| iconmaker | unknown | 1 | candidate | 0 | none |
-| icqicqzap | unknown | 1 | candidate | 0 | none |
-| icqinvinsible | unknown | 1 | candidate | 0 | none |
-| icqwebaware | unknown | 1 | candidate | 0 | none |
-| icyhot | unknown | 1 | candidate | 0 | none |
-| idlefordrugs | idler/bot | 1 | candidate | 0 | none |
-| idlerexbynegz | idler/bot | 1 | candidate | 0 | none |
-| idlestuffz | idler/bot | 1 | candidate | 0 | none |
-| imagerotate | unknown | 1 | candidate | 0 | none |
-| imagescroll | chat/macro | 1 | candidate | 0 | none |
-| imap | unknown | 1 | candidate | 0 | none |
-| imidling | idler/bot | 1 | candidate | 0 | none |
-| imout | idler/bot | 1 | candidate | 0 | none |
-| impact | AOL/AIM client installer | 1 | candidate | 0 | none |
-| implosion | punter/booter | 1 | candidate | 0 | none |
-| importtuner | chat/macro | 1 | candidate | 0 | none |
-| improvise | unknown | 1 | http-404 | 0 | none |
-| imspam | mass mailer/server | 1 | candidate | 0 | none |
-| indeo | unknown | 1 | candidate | 0 | none |
-| indifference | unknown | 1 | candidate | 0 | none |
-| infinimm | unknown | 1 | candidate | 0 | none |
-| info-t-lzwithdll | unknown | 1 | candidate | 0 | none |
-| info-t-lzwithoutdll | unknown | 1 | candidate | 0 | none |
-| information | unknown | 1 | candidate | 0 | none |
-| infosidle | idler/bot | 1 | candidate | 0 | none |
-| installspeedfan | unknown | 1 | candidate | 0 | none |
-| instinct | punter/booter | 1 | candidate | 0 | none |
-| intrepid | AIM | 1 | candidate | 0 | none |
-| invaderispec | punter/booter | 1 | candidate | 0 | none |
-| invaderupdate | AIM | 1 | candidate | 0 | none |
-| invizolinker | unknown | 1 | candidate | 0 | none |
-| ioware-w-x | unknown | 1 | candidate | 0 | none |
-| ipserve | AIM | 1 | candidate | 0 | none |
-| ipstealutilities | AIM | 1 | candidate | 0 | none |
-| ipswbeta | unknown | 1 | candidate | 0 | none |
-| iptpx | unknown | 1 | candidate | 0 | none |
-| it-format | unknown | 1 | candidate | 0 | none |
-| itankremix | unknown | 1 | candidate | 0 | none |
-| jabronix | unknown | 1 | candidate | 0 | none |
-| jackalbox | unknown | 1 | candidate | 0 | none |
-| jackalsidler | idler/bot | 1 | candidate | 0 | none |
-| jag | unknown | 1 | candidate | 0 | none |
-| jaruleplat | unknown | 1 | http-404 | 0 | none |
-| jcomz | chat/macro | 1 | candidate | 0 | none |
-| jd-k | unknown | 1 | candidate | 0 | none |
-| jeeperscreeper | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| jinxout | unknown | 1 | candidate | 0 | none |
-| jittertext | unknown | 1 | candidate | 0 | none |
-| jolt | idler/bot | 1 | candidate | 0 | none |
-| jscan | runtime/support file | 1 | candidate | 0 | none |
-| judgeday | unknown | 1 | candidate | 0 | none |
-| juvenile | idler/bot | 1 | candidate | 0 | none |
-| kajone | AIM | 1 | candidate | 0 | none |
-| kamehamehaidle | idler/bot | 1 | candidate | 0 | none |
-| kang | unknown | 1 | candidate | 0 | none |
-| kaos | unknown | 1 | candidate | 0 | none |
-| kaosforever | unknown | 1 | candidate | 0 | none |
-| kbang | unknown | 1 | candidate | 0 | none |
-| kdtbeta | unknown | 1 | candidate | 0 | none |
-| ke | unknown | 1 | candidate | 0 | none |
-| keygen | unknown | 1 | candidate | 0 | none |
-| killer | AIM | 1 | candidate | 0 | none |
-| kirby | unknown | 1 | candidate | 0 | none |
-| kire | unknown | 1 | candidate | 0 | none |
-| kiregood | unknown | 1 | candidate | 0 | none |
-| kitno | punter/booter | 1 | candidate | 0 | none |
-| knoxidle | idler/bot | 1 | candidate | 0 | none |
-| knucklesafter | unknown | 1 | candidate | 0 | none |
-| knuck-f | unknown | 1 | candidate | 0 | none |
-| korn | AIM | 1 | candidate | 0 | none |
-| krakerhelpa | unknown | 1 | candidate | 0 | none |
-| krayola | unknown | 1 | candidate | 0 | none |
-| kreater-b | unknown | 1 | candidate | 0 | none |
-| kreater | unknown | 1 | candidate | 0 | none |
-| krelixidle | idler/bot | 1 | candidate | 0 | none |
-| kungfoo | unknown | 1 | candidate | 0 | none |
-| kurupt | unknown | 1 | candidate | 0 | none |
-| lagem | unknown | 1 | candidate | 0 | none |
-| lagotron | unknown | 1 | candidate | 0 | none |
-| lagpandemic | unknown | 1 | candidate | 0 | none |
-| lagz | unknown | 1 | candidate | 0 | none |
-| lamescroller | chat/macro | 1 | candidate | 0 | none |
-| lastdon | unknown | 1 | candidate | 0 | none |
-| laststand | unknown | 1 | candidate | 0 | none |
-| lazyass | unknown | 1 | candidate | 0 | none |
-| leprecy | unknown | 1 | candidate | 0 | none |
-| less | unknown | 1 | candidate | 0 | none |
-| lethalempireanti | unknown | 1 | candidate | 0 | none |
-| lethalempirefader | fader | 1 | candidate | 0 | none |
-| limp | unknown | 1 | candidate | 0 | none |
-| linkbeyond | unknown | 1 | candidate | 0 | none |
-| linkdatho | unknown | 1 | candidate | 0 | none |
-| linktechbeta | unknown | 1 | candidate | 0 | none |
-| littlemailpunt | punter/booter | 1 | candidate | 0 | none |
-| lm | fader | 1 | candidate | 0 | none |
-| lobbywhore | unknown | 1 | candidate | 0 | none |
-| loginexample | unknown | 1 | candidate | 0 | none |
-| loserscan | runtime/support file | 1 | candidate | 0 | none |
-| ltclonetron | unknown | 1 | candidate | 0 | none |
-| ltk | punter/booter | 1 | candidate | 0 | none |
-| lurker | unknown | 1 | candidate | 0 | none |
-| lvbuttons | runtime/support file | 1 | candidate | 0 | none |
-| lw | punter/booter | 1 | candidate | 0 | none |
-| macabrephoenix | unknown | 1 | candidate | 0 | none |
-| macaddresschanger | unknown | 1 | candidate | 0 | none |
-| mach | punter/booter | 1 | candidate | 0 | none |
-| macromechine | chat/macro | 1 | candidate | 0 | none |
-| madcomz | chat/macro | 1 | candidate | 0 | none |
-| madhazard | unknown | 1 | candidate | 0 | none |
-| mafiafindwindow | unknown | 1 | candidate | 0 | none |
-| mafiafindwindowex | unknown | 1 | candidate | 0 | none |
-| mafiamm | mass mailer/server | 1 | candidate | 0 | none |
-| magicboot | punter/booter | 1 | candidate | 0 | none |
-| magic-final | unknown | 1 | candidate | 0 | none |
-| malfunction | unknown | 1 | candidate | 0 | none |
-| malicioushate | punter/booter | 1 | candidate | 0 | none |
-| mastaidle | idler/bot | 1 | candidate | 0 | none |
-| matrixcracker | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| mattsidler | idler/bot | 1 | candidate | 0 | none |
-| mbar | runtime/support file | 1 | candidate | 0 | none |
-| mclcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| mcspammer | mass mailer/server | 1 | candidate | 0 | none |
-| mdma | mass mailer/server | 1 | candidate | 0 | none |
-| mediasparks | unknown | 1 | candidate | 0 | none |
-| mediatech | chat/macro | 1 | candidate | 0 | none |
-| meditating | mass mailer/server | 1 | candidate | 0 | none |
-| messageman | unknown | 1 | candidate | 0 | none |
-| metamorphic | unknown | 1 | candidate | 0 | none |
-| metroididle | idler/bot | 1 | candidate | 0 | none |
-| metroididler | idler/bot | 1 | candidate | 0 | none |
-| midgetpwl | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| millenniumfmm | mass mailer/server | 1 | candidate | 0 | none |
-| minixpee | unknown | 1 | candidate | 0 | none |
-| mircadv | unknown | 1 | candidate | 0 | none |
-| mischiefbeta | unknown | 1 | candidate | 0 | none |
-| misfit | AIM | 1 | candidate | 0 | none |
-| mixed | unknown | 1 | candidate | 0 | none |
-| mmedia | chat/macro | 1 | candidate | 0 | none |
-| mmxpsource | chat/macro | 1 | candidate | 0 | none |
-| mobbot | punter/booter | 1 | candidate | 0 | none |
-| mobstarboot | punter/booter | 1 | candidate | 0 | none |
-| mobstar | AIM | 1 | candidate | 0 | none |
-| monkefade | fader | 1 | candidate | 0 | none |
-| morphex | unknown | 1 | candidate | 0 | none |
-| mortalityrt | room buster | 1 | candidate | 0 | none |
-| mothership | punter/booter | 1 | candidate | 0 | none |
-| mountainlayout | idler/bot | 1 | candidate | 0 | none |
-| mousebanner | unknown | 1 | candidate | 0 | none |
-| mouseover | unknown | 1 | candidate | 0 | none |
-| mouseoverlink | unknown | 1 | candidate | 0 | none |
-| mover | unknown | 1 | candidate | 0 | none |
-| mp-mpd | unknown | 1 | candidate | 0 | none |
-| mp-play | runtime/support file | 1 | candidate | 0 | none |
-| mplayerx | chat/macro | 1 | candidate | 0 | none |
-| mscomctl | runtime/support file | 1 | candidate | 0 | none |
-| msdxm | runtime/support file | 1 | candidate | 0 | none |
-| msgbox | unknown | 1 | candidate | 0 | none |
-| msinet | runtime/support file | 1 | candidate | 0 | none |
-| msstdfmt | runtime/support file | 1 | candidate | 0 | none |
-| msvcp | runtime/support file | 1 | candidate | 0 | none |
-| mswinsck | runtime/support file | 1 | candidate | 0 | none |
-| mtb | unknown | 1 | candidate | 0 | none |
-| multi | unknown | 1 | candidate | 0 | none |
-| murder | chat/macro | 1 | candidate | 0 | none |
-| mxt | AIM | 1 | candidate | 0 | none |
-| n-assist | unknown | 1 | candidate | 0 | none |
-| n-k | unknown | 1 | candidate | 0 | none |
-| name | idler/bot | 1 | candidate | 0 | none |
-| namealert | unknown | 1 | candidate | 0 | none |
-| napolean | unknown | 1 | candidate | 0 | none |
-| napster | unknown | 1 | candidate | 0 | none |
-| nash | unknown | 1 | candidate | 0 | none |
-| navb | unknown | 1 | candidate | 0 | none |
-| navsetup | unknown | 1 | candidate | 0 | none |
-| neeks | fader | 1 | candidate | 0 | none |
-| nemisis-b | AIM | 1 | candidate | 0 | none |
-| neonlight | unknown | 1 | candidate | 0 | none |
-| netimage | unknown | 1 | candidate | 0 | none |
-| newbiemsbox | unknown | 1 | candidate | 0 | none |
-| newbx | AIM | 1 | candidate | 0 | none |
-| newexe | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| newspro | unknown | 1 | candidate | 0 | none |
-| nh | unknown | 1 | candidate | 0 | none |
-| nigga | punter/booter | 1 | candidate | 0 | none |
-| nirext | unknown | 1 | candidate | 0 | none |
-| nitz | chat/macro | 1 | candidate | 0 | none |
-| nogi | mass mailer/server | 1 | candidate | 0 | none |
-| notepad | unknown | 1 | candidate | 0 | none |
-| nsis-setup | unknown | 1 | candidate | 0 | none |
-| ntsec | unknown | 1 | candidate | 0 | none |
-| numberpwlists | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| nyc | idler/bot | 1 | candidate | 0 | none |
-| nyte | unknown | 1 | candidate | 0 | none |
-| nytes-s | unknown | 1 | candidate | 0 | none |
-| oc | runtime/support file | 1 | candidate | 0 | none |
-| oda | unknown | 1 | candidate | 0 | none |
-| oleaut | runtime/support file | 1 | candidate | 0 | none |
-| olepro | runtime/support file | 1 | candidate | 0 | none |
-| ontop | unknown | 1 | candidate | 0 | none |
-| operationzero | unknown | 1 | candidate | 0 | none |
-| opticalphader | fader | 1 | candidate | 0 | none |
-| oralsacrafice | AIM | 1 | candidate | 0 | none |
-| osirismp | chat/macro | 1 | candidate | 0 | none |
-| osw | unknown | 1 | candidate | 0 | none |
-| outlawzidler | idler/bot | 1 | candidate | 0 | none |
-| outrage | unknown | 1 | candidate | 0 | none |
-| overxposure | idler/bot | 1 | candidate | 0 | none |
-| oxide | AIM | 1 | candidate | 0 | none |
-| oxsccoms | chat/macro | 1 | candidate | 0 | none |
-| p-p | punter/booter | 1 | candidate | 0 | none |
-| paranoid | unknown | 1 | candidate | 0 | none |
-| paraphernalia | room buster | 1 | candidate | 0 | none |
-| passwords | hazardous/account or remote-control context | 1 | http-404 | 0 | none |
-| pasteasy-setup | unknown | 1 | candidate | 0 | none |
-| patrycidebeta | unknown | 1 | candidate | 0 | none |
-| pen-ridle | idler/bot | 1 | candidate | 0 | none |
-| percent | unknown | 1 | candidate | 0 | none |
-| percnt | runtime/support file | 1 | candidate | 0 | none |
-| pest | unknown | 1 | candidate | 0 | none |
-| pezcorefisher | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| phade | fader | 1 | candidate | 0 | none |
-| phazerphade | fader | 1 | candidate | 0 | none |
-| phblogource | unknown | 1 | candidate | 0 | none |
-| phishdatidle | idler/bot | 1 | candidate | 0 | none |
-| phorgotten | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| phreakchat | room buster | 1 | http-404 | 0 | none |
-| phrosty | unknown | 1 | candidate | 0 | none |
-| pibet | idler/bot | 1 | candidate | 0 | none |
-| pinwheel | unknown | 1 | candidate | 0 | none |
-| pkreader | unknown | 1 | candidate | 0 | none |
-| playcd | runtime/support file | 1 | candidate | 0 | none |
-| plugingalaxy | unknown | 1 | candidate | 0 | none |
-| pmanswering | unknown | 1 | candidate | 0 | none |
-| poanti | punter/booter | 1 | candidate | 0 | none |
-| pogo | unknown | 1 | candidate | 0 | none |
-| popupbutton | runtime/support file | 1 | candidate | 0 | none |
-| popupyes-no | unknown | 1 | candidate | 0 | none |
-| position | unknown | 1 | candidate | 0 | none |
-| powersource | AOL/AIM client installer | 1 | candidate | 0 | none |
-| pridelands | unknown | 1 | http-404 | 0 | none |
-| primus | punter/booter | 1 | candidate | 0 | none |
-| eechatfix | chat/macro | 1 | candidate | 0 | none |
-| files | unknown | 1 | candidate | 0 | none |
-| projektkrak | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| prozac | room buster | 1 | candidate | 0 | none |
-| pscript | unknown | 1 | candidate | 0 | none |
-| psy-kscroller | chat/macro | 1 | candidate | 0 | none |
-| psychic | idler/bot | 1 | candidate | 0 | none |
-| ptfb | unknown | 1 | candidate | 0 | none |
-| ptfbadmn | unknown | 1 | candidate | 0 | none |
-| pulsarpunt | punter/booter | 1 | candidate | 0 | none |
-| punker | unknown | 1 | candidate | 0 | none |
-| punkmp | runtime/support file | 1 | candidate | 0 | none |
-| qb | unknown | 1 | candidate | 0 | none |
-| qmodem | unknown | 1 | candidate | 0 | none |
-| quickchange | AIM | 1 | candidate | 0 | none |
-| raeophobic | idler/bot | 1 | candidate | 0 | none |
-| rainbow | unknown | 1 | candidate | 0 | none |
-| rapidhacker | unknown | 1 | candidate | 0 | none |
-| raspbeta | chat/macro | 1 | candidate | 0 | none |
-| ravage | unknown | 1 | candidate | 0 | none |
-| redsparks | idler/bot | 1 | candidate | 0 | none |
-| remixbeta | chat/macro | 1 | candidate | 0 | none |
-| resurection | punter/booter | 1 | candidate | 0 | none |
-| revokescroller | chat/macro | 1 | candidate | 0 | none |
-| revolutionxccom | chat/macro | 1 | candidate | 0 | none |
-| rfi-lfi-xss-kit-v | unknown | 1 | candidate | 0 | none |
-| rgbcreator | unknown | 1 | candidate | 0 | none |
-| ri | room buster | 1 | candidate | 0 | none |
-| richtx | runtime/support file | 1 | candidate | 0 | none |
-| ridbanners | AIM | 1 | http-404 | 0 | none |
-| rightclick | unknown | 1 | candidate | 0 | none |
-| ritmancounter | unknown | 1 | candidate | 0 | none |
-| riven | unknown | 1 | candidate | 0 | none |
-| roomie | room buster | 1 | candidate | 0 | none |
-| rose | idler/bot | 1 | candidate | 0 | none |
-| rotext | runtime/support file | 1 | candidate | 0 | none |
-| rufus | unknown | 1 | candidate | 0 | none |
-| safety | unknown | 1 | candidate | 0 | none |
-| salem | unknown | 1 | candidate | 0 | none |
-| scan | runtime/support file | 1 | candidate | 0 | none |
-| scanchat | runtime/support file | 1 | candidate | 0 | none |
-| scanpunt | punter/booter | 1 | candidate | 0 | none |
-| scanthis | runtime/support file | 1 | candidate | 0 | none |
-| scbysc-m | unknown | 1 | candidate | 0 | none |
-| scroll | chat/macro | 1 | candidate | 0 | none |
-| scroller | chat/macro | 1 | candidate | 0 | none |
-| scrollmoreshit | chat/macro | 1 | candidate | 0 | none |
-| sctgold | chat/macro | 1 | candidate | 0 | none |
-| secrettext | AIM | 1 | candidate | 0 | none |
-| sendtosmugmug | unknown | 1 | candidate | 0 | none |
-| setting | runtime/support file | 1 | candidate | 0 | none |
-| setup-bullzippdfprinter | unknown | 1 | candidate | 0 | none |
-| setup-file-print-fedex-kinkos | unknown | 1 | candidate | 0 | none |
-| setup-skypeplus | unknown | 1 | candidate | 0 | none |
-| shadowbot | idler/bot | 1 | http-404 | 0 | none |
-| shithead | unknown | 1 | candidate | 0 | none |
-| shockp | chat/macro | 1 | candidate | 0 | none |
-| siegebust | room buster | 1 | candidate | 0 | none |
-| siks | AOL/AIM client installer | 1 | candidate | 0 | none |
-| silentbutterfly | unknown | 1 | candidate | 0 | none |
-| silenterrorz | punter/booter | 1 | candidate | 0 | none |
-| silverdeath | punter/booter | 1 | candidate | 0 | none |
-| simpleidle | idler/bot | 1 | candidate | 0 | none |
-| simplelayout | idler/bot | 1 | candidate | 0 | none |
-| sirvb | chat/macro | 1 | candidate | 0 | none |
-| sky-c | runtime/support file | 1 | candidate | 0 | none |
-| skypelogview | unknown | 1 | candidate | 0 | none |
-| skypesetup | unknown | 1 | candidate | 0 | none |
-| slamfinal | unknown | 1 | candidate | 0 | none |
-| sleekgray | idler/bot | 1 | candidate | 0 | none |
-| sleep | unknown | 1 | candidate | 0 | none |
-| sleepysetup | unknown | 1 | candidate | 0 | none |
-| slickrun | unknown | 1 | candidate | 0 | none |
-| smacksource | mass mailer/server | 1 | candidate | 0 | none |
-| smack-public | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| small | AIM | 1 | candidate | 0 | none |
-| smilehell | AIM | 1 | candidate | 0 | none |
-| smileyboot | punter/booter | 1 | candidate | 0 | none |
-| smileybot | idler/bot | 1 | candidate | 0 | none |
-| smileyunit | unknown | 1 | candidate | 0 | none |
-| snakebite | fader | 1 | candidate | 0 | none |
-| snexo | AIM | 1 | candidate | 0 | none |
-| snow | unknown | 1 | candidate | 0 | none |
-| snstudio | AIM | 1 | candidate | 0 | none |
-| socers | AIM | 1 | candidate | 0 | none |
-| solarmp | unknown | 1 | candidate | 0 | none |
-| solarwinds | unknown | 1 | http-404 | 0 | none |
-| solarwindsbeta | unknown | 1 | candidate | 0 | none |
-| sorcerress | punter/booter | 1 | candidate | 0 | none |
-| soulbeta | unknown | 1 | candidate | 0 | none |
-| sourcemacro | chat/macro | 1 | candidate | 0 | none |
-| sp-ce | unknown | 1 | candidate | 0 | none |
-| sp-imblocker | unknown | 1 | candidate | 0 | none |
-| spacelayout | idler/bot | 1 | candidate | 0 | none |
-| spamzilla | mass mailer/server | 1 | candidate | 0 | none |
-| spaz | unknown | 1 | candidate | 0 | none |
-| speedycrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| spider | unknown | 1 | candidate | 0 | none |
-| ss-d | runtime/support file | 1 | candidate | 0 | none |
-| ss-dvbx | runtime/support file | 1 | candidate | 0 | none |
-| ssa-d | runtime/support file | 1 | candidate | 0 | none |
-| ssspls | runtime/support file | 1 | candidate | 0 | none |
-| standard | punter/booter | 1 | candidate | 0 | none |
-| stealer | unknown | 1 | candidate | 0 | none |
-| stealthafk | idler/bot | 1 | candidate | 0 | none |
-| stereotype | chat/macro | 1 | candidate | 0 | none |
-| stkit | runtime/support file | 1 | candidate | 0 | none |
-| stonecolds | unknown | 1 | candidate | 0 | none |
-| stupidcunt | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| subprorape | AIM | 1 | candidate | 0 | none |
-| suicidle | idler/bot | 1 | candidate | 0 | none |
-| superfree | unknown | 1 | candidate | 0 | none |
-| supersub | runtime/support file | 1 | candidate | 0 | none |
-| svg-viewer-extension-i-signed | unknown | 1 | candidate | 0 | none |
-| svg-viewer-extension-x-signed | unknown | 1 | candidate | 0 | none |
-| swflash | runtime/support file | 1 | candidate | 0 | none |
-| swift-k | unknown | 1 | candidate | 0 | none |
-| swish | unknown | 1 | candidate | 0 | none |
-| systray | runtime/support file | 1 | candidate | 0 | none |
-| tabctl | runtime/support file | 1 | candidate | 0 | none |
-| table | unknown | 1 | candidate | 0 | none |
-| talconxer | unknown | 1 | candidate | 0 | none |
-| tameclone | AIM | 1 | candidate | 0 | none |
-| tankbank | unknown | 1 | candidate | 0 | none |
-| taskswitchxp | unknown | 1 | candidate | 0 | none |
-| teamviewer-en | unknown | 1 | candidate | 0 | none |
-| tekronbeta | chat/macro | 1 | candidate | 0 | none |
-| tentacles | idler/bot | 1 | candidate | 0 | none |
-| terranova | unknown | 1 | candidate | 0 | none |
-| thedynastysetup | unknown | 1 | candidate | 0 | none |
-| theend | punter/booter | 1 | candidate | 0 | none |
-| theessence | punter/booter | 1 | candidate | 0 | none |
-| theif | chat/macro | 1 | candidate | 0 | none |
-| thermalidle | idler/bot | 1 | candidate | 0 | none |
-| three-final | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| thumper | unknown | 1 | candidate | 0 | none |
-| thunder | punter/booter | 1 | candidate | 0 | none |
-| timeout | unknown | 1 | candidate | 0 | none |
-| timmya | idler/bot | 1 | candidate | 0 | none |
-| tncidle | idler/bot | 1 | candidate | 0 | none |
-| toc-sock | runtime/support file | 1 | candidate | 0 | none |
-| tocsock | runtime/support file | 1 | candidate | 0 | none |
-| topsitespro | unknown | 1 | candidate | 0 | none |
-| totaldestruct | punter/booter | 1 | candidate | 0 | none |
-| touchofdeath | punter/booter | 1 | candidate | 0 | none |
-| toxicfreeze | AIM | 1 | candidate | 0 | none |
-| toxicsource | unknown | 1 | candidate | 0 | none |
-| toyboat | chat/macro | 1 | candidate | 0 | none |
-| tpdtank | unknown | 1 | candidate | 0 | none |
-| tronix | mass mailer/server | 1 | http-404 | 0 | none |
-| truedesigns | idler/bot | 1 | candidate | 0 | none |
-| tsad | runtime/support file | 1 | candidate | 0 | none |
-| ugly-green | idler/bot | 1 | candidate | 0 | none |
-| uiso-pe | unknown | 1 | candidate | 0 | none |
-| ultraflood | punter/booter | 1 | candidate | 0 | none |
-| ultralinker | unknown | 1 | candidate | 0 | none |
-| ultrapunt | punter/booter | 1 | candidate | 0 | none |
-| uniidle | idler/bot | 1 | candidate | 0 | none |
-| unrestricted | AIM | 1 | candidate | 0 | none |
-| untamed | punter/booter | 1 | candidate | 0 | none |
-| untamedfade | fader | 1 | candidate | 0 | none |
-| untamedflood | punter/booter | 1 | candidate | 0 | none |
-| us | AOL/AIM client installer | 1 | candidate | 0 | none |
-| user | unknown | 1 | candidate | 0 | none |
-| vb-codes | unknown | 1 | candidate | 0 | none |
-| vb-codez | unknown | 1 | candidate | 0 | none |
-| vb-d | unknown | 1 | candidate | 0 | none |
-| vb-ccecompiler | unknown | 1 | candidate | 0 | none |
-| vb-chat | runtime/support file | 1 | candidate | 0 | none |
-| vb-shield | unknown | 1 | candidate | 0 | none |
-| vb-sp-a | runtime/support file | 1 | candidate | 0 | none |
-| vbbible | unknown | 1 | candidate | 0 | none |
-| vbcompact | unknown | 1 | candidate | 0 | none |
-| vbdecomp | unknown | 1 | candidate | 0 | none |
-| vbforms | unknown | 1 | candidate | 0 | none |
-| vbimex | unknown | 1 | candidate | 0 | none |
-| vbrun-exe | runtime/support file | 1 | candidate | 0 | none |
-| vbsafecode | unknown | 1 | candidate | 0 | none |
-| vbwfind | runtime/support file | 1 | candidate | 0 | none |
-| vc | AIM | 1 | candidate | 0 | none |
-| vdaddin | unknown | 1 | candidate | 0 | none |
-| visasciisource | chat/macro | 1 | candidate | 0 | none |
-| visdata | unknown | 1 | candidate | 0 | none |
-| vkbaspack | unknown | 1 | candidate | 0 | none |
-| vnc-e-x-x-win | unknown | 1 | candidate | 0 | none |
-| volumouse-setup | unknown | 1 | candidate | 0 | none |
-| voter | unknown | 1 | candidate | 0 | none |
-| vtechidle | idler/bot | 1 | candidate | 0 | none |
-| waidler | idler/bot | 1 | candidate | 0 | none |
-| war | idler/bot | 1 | candidate | 0 | none |
-| warnrate | punter/booter | 1 | candidate | 0 | none |
-| warnwar | AIM | 1 | candidate | 0 | none |
-| warp | unknown | 1 | candidate | 0 | none |
-| warrior-s | unknown | 1 | candidate | 0 | none |
-| wasteland | unknown | 1 | candidate | 0 | none |
-| watermenu | unknown | 1 | candidate | 0 | none |
-| wavcode | unknown | 1 | candidate | 0 | none |
-| wblind | unknown | 1 | candidate | 0 | none |
-| webbrowser | unknown | 1 | http-404 | 0 | none |
-| webby | idler/bot | 1 | candidate | 0 | none |
-| webskillz | unknown | 1 | candidate | 0 | none |
-| websters | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| weedboot | punter/booter | 1 | candidate | 0 | none |
-| welcome | unknown | 1 | candidate | 0 | none |
-| whatsappsetup | unknown | 1 | candidate | 0 | none |
-| wheelmovewnd-x | unknown | 1 | candidate | 0 | none |
-| whiteout | unknown | 1 | candidate | 0 | none |
-| wickeddestruction | unknown | 1 | candidate | 0 | none |
-| wildtank | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| winad | chat/macro | 1 | candidate | 0 | none |
-| win | AOL/AIM client installer | 1 | candidate | 0 | none |
-| win-ty | AOL/AIM client installer | 1 | candidate | 0 | none |
-| windjview-setup | unknown | 1 | candidate | 0 | none |
-| windowz | unknown | 1 | candidate | 0 | none |
-| wininstallle | unknown | 1 | candidate | 0 | none |
-| winontop | unknown | 1 | candidate | 0 | none |
-| winpins | unknown | 1 | candidate | 0 | none |
-| winpunt | punter/booter | 1 | candidate | 0 | none |
-| winrar-x | unknown | 1 | candidate | 0 | none |
-| winter | unknown | 1 | http-404 | 0 | none |
-| winzipgenbot | idler/bot | 1 | candidate | 0 | none |
-| winzipkey | unknown | 1 | candidate | 0 | none |
-| winzipkeygen | unknown | 1 | candidate | 0 | none |
-| wog | punter/booter | 1 | candidate | 0 | none |
-| woody | unknown | 1 | candidate | 0 | none |
-| woot | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| wrar-b | unknown | 1 | candidate | 0 | none |
-| wrath | unknown | 1 | candidate | 0 | none |
-| wwbmp | unknown | 1 | candidate | 0 | none |
-| wwwlink | unknown | 1 | candidate | 0 | none |
-| x-lite-win-l | unknown | 1 | candidate | 0 | none |
-| xbustsource | unknown | 1 | candidate | 0 | none |
-| xcoms | chat/macro | 1 | candidate | 0 | none |
-| xem | AIM | 1 | candidate | 0 | none |
-| xfactorf | punter/booter | 1 | candidate | 0 | none |
-| xlhorizon | unknown | 1 | candidate | 0 | none |
-| xobnisetup | unknown | 1 | candidate | 0 | none |
-| xpbuttons | runtime/support file | 1 | candidate | 0 | none |
-| xpme | unknown | 1 | candidate | 0 | none |
-| xproombust | room buster | 1 | candidate | 0 | none |
-| xreplace | unknown | 1 | candidate | 0 | none |
-| xreplace-registered | unknown | 1 | candidate | 0 | none |
-| yahbru | runtime/support file | 1 | candidate | 0 | none |
-| yahoops-final | unknown | 1 | candidate | 0 | none |
-| yahoosux | runtime/support file | 1 | candidate | 0 | none |
-| yahpro | runtime/support file | 1 | candidate | 0 | none |
-| ycrack | hazardous/account or remote-control context | 1 | candidate | 0 | none |
-| ymsg | runtime/support file | 1 | candidate | 0 | none |
-| youvegotmail | punter/booter | 1 | candidate | 0 | none |
-| ypunter | punter/booter | 1 | candidate | 0 | none |
-| zeplin-installer-x | unknown | 1 | candidate | 0 | none |
-| zerocrush | chat/macro | 1 | http-404 | 0 | none |
-| zig | unknown | 1 | candidate | 0 | none |
-| zonk | chat/macro | 1 | candidate | 0 | none |
+| Key | Category | Mirrors | Recovery statuses | Ready | Ready local files | Text author clues | Text version clues | Text purpose clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| netbuster | room buster | 28 | ready | 8 | [files/external/angelfire-com/netbuster131.zip](../../../files/external/angelfire-com/netbuster131.zip)<br>[files/external/angelfire-com/netbuster.zip](../../../files/external/angelfire-com/netbuster.zip)<br>[files/external/fortunecity-com/netbuster1-31.zip](../../../files/external/fortunecity-com/netbuster1-31.zip)<br>[files/external/fortunecity-com/netbuster1-12.zip](../../../files/external/fortunecity-com/netbuster1-12.zip)<br>[files/external/fortunecity-com/netbuster.zip](../../../files/external/fortunecity-com/netbuster.zip)<br>[files/external/fortunecity-com/netbuster1-30.zip](../../../files/external/fortunecity-com/netbuster1-30.zip)<br>[files/external/fortunecity-com/netbuster1-3.zip](../../../files/external/fortunecity-com/netbuster1-3.zip)<br>[files/external/fortunecity-com/netbuster131.zip](../../../files/external/fortunecity-com/netbuster131.zip) | unknown | unknown | Punter / booter<br>Mass mailer / server<br>Media / file utility<br>Fader / text styler<br>Account / TOS utility | [http://surf.to/netbuster](http://surf.to/netbuster)<br>[http://surf.to/netbuster}}}{\fs22](http://surf.to/netbuster}}}{\fs22) |
+| layout | unknown | 8 | ready | 8 | [files/external/angelfire-com/layout1.zip](../../../files/external/angelfire-com/layout1.zip)<br>[files/external/angelfire-com/layout2.zip](../../../files/external/angelfire-com/layout2.zip)<br>[files/external/angelfire-com/layout3.zip](../../../files/external/angelfire-com/layout3.zip)<br>[files/external/angelfire-com/layout4.zip](../../../files/external/angelfire-com/layout4.zip)<br>[files/external/angelfire-com/layout5.zip](../../../files/external/angelfire-com/layout5.zip)<br>[files/external/angelfire-com/layout6.zip](../../../files/external/angelfire-com/layout6.zip)<br>[files/external/angelfire-com/layout7.zip](../../../files/external/angelfire-com/layout7.zip)<br>[files/external/angelfire-com/layout8.zip](../../../files/external/angelfire-com/layout8.zip) | unknown | unknown | Media / file utility | [http://www.geocities.com/sd_scabx/](http://www.geocities.com/sd_scabx/) |
+| msvbvm | runtime/support file | 7 | ready<br>candidate | 5 | [files/external/angelfire-com/msvbvm50.zip](../../../files/external/angelfire-com/msvbvm50.zip)<br>[files/external/angelfire-com/msvbvm60.zip](../../../files/external/angelfire-com/msvbvm60.zip)<br>[files/external/aimfilez-com/msvbvm50-3e602dda.dll](../../../files/external/aimfilez-com/msvbvm50-3e602dda.dll)<br>[files/external/aimfilez-com/msvbvm60-117ab42e.dll](../../../files/external/aimfilez-com/msvbvm60-117ab42e.dll)<br>[files/external/coltpro-net/msvbvm60-af7ec917.dll](../../../files/external/coltpro-net/msvbvm60-af7ec917.dll) | unknown | unknown | unknown | unknown |
+| vb | runtime/support file | 6 | candidate<br>ready | 5 | [files/external/angelfire-com/vb.zip](../../../files/external/angelfire-com/vb.zip)<br>[files/external/angelfire-com/vb3.zip](../../../files/external/angelfire-com/vb3.zip)<br>[files/external/aimfilez-com/vb40016-c8eb6c1a.dll](../../../files/external/aimfilez-com/vb40016-c8eb6c1a.dll)<br>[files/external/aimfilez-com/vb40032-f6349a6a.dll](../../../files/external/aimfilez-com/vb40032-f6349a6a.dll)<br>[files/external/coltpro-net/vb40032-213ca90f.dll](../../../files/external/coltpro-net/vb40032-213ca90f.dll) | Jelsoft Enterprises Limited<br>here, you can back up your vBulletin database<br>here, you can control all aspects of your vBulletin forums<br>user | unknown | Fader / text styler<br>Account / TOS utility<br>Source / developer file<br>Mass mailer / server<br>Media / file utility | [http://www.vbul](http://www.vbul)<br>[http://www.vbulletin.com](http://www.vbulletin.com)<br>[http://vbulletin.com/members/](http://vbulletin.com/members/)<br>[http://www.\\6\](http://www.\\6\) |
+| setup | AOL/AIM client installer | 6 | http-404<br>ready | 4 | [files/external/am-net/aol7setup-852c70fb.exe](../../../files/external/am-net/aol7setup-852c70fb.exe)<br>[files/external/am-net/aol8setup-e289c5c2.exe](../../../files/external/am-net/aol8setup-e289c5c2.exe)<br>[files/external/am-net/aol9setup-89ef253b.exe](../../../files/external/am-net/aol9setup-89ef253b.exe)<br>[files/external/am-net/aolsetup-c3cdd1ed.exe](../../../files/external/am-net/aolsetup-c3cdd1ed.exe) | unknown | unknown | unknown | unknown |
+| vbrun | unknown | 7 | http-404<br>candidate<br>ready | 3 | [files/external/aimfilez-com/vbrun100-348eb154.dll](../../../files/external/aimfilez-com/vbrun100-348eb154.dll)<br>[files/external/aimfilez-com/vbrun200-dc920038.dll](../../../files/external/aimfilez-com/vbrun200-dc920038.dll)<br>[files/external/aimfilez-com/vbrun300-194dc02b.dll](../../../files/external/aimfilez-com/vbrun300-194dc02b.dll) | unknown | unknown | unknown | unknown |
+| comdlg | runtime/support file | 4 | candidate<br>ready | 3 | [files/external/aimfilez-com/comdlg32-6ecdb713.ocx](../../../files/external/aimfilez-com/comdlg32-6ecdb713.ocx)<br>[files/external/coltpro-net/comdlg32-ea31f2ea.dll](../../../files/external/coltpro-net/comdlg32-ea31f2ea.dll)<br>[files/external/coltpro-net/comdlg32-5dfecf61.ocx](../../../files/external/coltpro-net/comdlg32-5dfecf61.ocx) | unknown | unknown | unknown | unknown |
+| a | AOL/AIM client installer | 3 | ready | 3 | [files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe](../../../files/external/aimfilez-com/aim201-0-414a-db4b7ca6.exe)<br>[files/external/aimfilez-com/aim201-7-563a-91a26710.exe](../../../files/external/aimfilez-com/aim201-7-563a-91a26710.exe)<br>[files/external/aimfilez-com/aim202-0-731a-577898fa.exe](../../../files/external/aimfilez-com/aim202-0-731a-577898fa.exe) | unknown | unknown | unknown | unknown |
+| pascal | unknown | 3 | ready | 3 | [files/external/angelfire-com/pascal1.zip](../../../files/external/angelfire-com/pascal1.zip)<br>[files/external/angelfire-com/pascal2.zip](../../../files/external/angelfire-com/pascal2.zip)<br>[files/external/angelfire-com/pascal3.zip](../../../files/external/angelfire-com/pascal3.zip) | selecting<br>a DOS<br>putting the NODPMI switch into your<br>the Borland DOS | unknown | All-in-one prog suite<br>Fader / text styler<br>Punter / booter<br>C-Com / command list<br>Mass mailer / server | unknown |
+| wrar | unknown | 5 | candidate<br>ready | 2 | [files/external/angelfire-com/wrar280.zip](../../../files/external/angelfire-com/wrar280.zip)<br>[files/external/angelfire-com/wrar370.zip](../../../files/external/angelfire-com/wrar370.zip) | unknown | unknown | unknown | unknown |
+| create | AIM | 4 | http-404<br>ready | 2 | [files/external/angelfire-com/aimcreate11.zip](../../../files/external/angelfire-com/aimcreate11.zip)<br>[files/external/angelfire-com/aimcreate21.zip](../../../files/external/angelfire-com/aimcreate21.zip) | unknown | unknown | Screen-name utility<br>AOL/AIM chat utility | [http://eztrade.cjb.net](http://eztrade.cjb.net) |
+| ss-d | runtime/support file | 4 | ready<br>candidate | 2 | [files/external/aimfilez-com/ss3d-8607dee6.vbx](../../../files/external/aimfilez-com/ss3d-8607dee6.vbx)<br>[files/external/aimfilez-com/ss3d2-8f499be5.vbx](../../../files/external/aimfilez-com/ss3d2-8f499be5.vbx) | unknown | unknown | unknown | unknown |
+| audioassault | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/audioassault-c4199924.zip](../../../files/external/lenshellarchive-com/audioassault-c4199924.zip)<br>[files/external/lenshellarchive-com/audioassault2-c2f31d68.zip](../../../files/external/lenshellarchive-com/audioassault2-c2f31d68.zip) | unknown | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility<br>Fader / text styler | [http://www.aa2k.cjb.net](http://www.aa2k.cjb.net) |
+| ccomsbeta | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/ccomsbeta2.zip](../../../files/external/lenshellarchive-com/ccomsbeta2.zip)<br>[files/external/lenshellarchive-com/ccomsbeta3.zip](../../../files/external/lenshellarchive-com/ccomsbeta3.zip) | unknown | unknown | Scroller / macro<br>Fader / text styler | unknown |
+| gonzo-fade | fader | 2 | ready | 2 | [files/external/angelfire-com/gonzo-fade.zip](../../../files/external/angelfire-com/gonzo-fade.zip)<br>[files/external/angelfire-com/gonzo-fade2.zip](../../../files/external/angelfire-com/gonzo-fade2.zip) | unknown | unknown | Fader / text styler | unknown |
+| revenge | AOL/AIM client installer | 2 | ready | 2 | [files/external/angelfire-com/revengeaol1.zip](../../../files/external/angelfire-com/revengeaol1.zip)<br>[files/external/angelfire-com/revengeaol2.zip](../../../files/external/angelfire-com/revengeaol2.zip) | unknown | unknown | unknown | unknown |
+| super | AIM | 7 | candidate<br>ready | 1 | [files/external/angelfire-com/superaim.zip](../../../files/external/angelfire-com/superaim.zip) | unknown | unknown | AOL/AIM chat utility | unknown |
+| threed | runtime/support file | 4 | candidate<br>ready | 1 | [files/external/aimfilez-com/threed-39aaa6ed.vbx](../../../files/external/aimfilez-com/threed-39aaa6ed.vbx) | unknown | unknown | unknown | unknown |
+| vbrun-sp | runtime/support file | 4 | candidate<br>ready | 1 | [files/external/angelfire-com/vbrun60sp5.zip](../../../files/external/angelfire-com/vbrun60sp5.zip) | unknown | unknown | unknown | unknown |
+| dead | AIM | 3 | http-404<br>candidate<br>ready | 1 | [files/external/angelfire-com/deadaim-4.zip](../../../files/external/angelfire-com/deadaim-4.zip) | unknown | unknown | unknown | unknown |
+| iconedit | AIM | 3 | candidate<br>ready | 1 | [files/external/aimfilez-com/aimiconedit-3488d8b8.exe](../../../files/external/aimfilez-com/aimiconedit-3488d8b8.exe) | unknown | unknown | unknown | unknown |
+| popup | AIM | 3 | ready<br>http-404<br>candidate | 1 | [files/external/aimfilez-com/aimpopup-a2d9f1a6.exe](../../../files/external/aimfilez-com/aimpopup-a2d9f1a6.exe) | unknown | unknown | unknown | unknown |
+| spy | AIM | 3 | http-404<br>ready | 1 | [files/external/angelfire-com/aimspy.zip](../../../files/external/angelfire-com/aimspy.zip) | unknown | unknown | Idler / AFK bot<br>AOL/AIM chat utility | [http://i.am/aorta](http://i.am/aorta) |
+| buddykill | AIM | 3 | candidate<br>ready | 1 | [files/external/aimfilez-com/buddykill-bcd3802c.exe](../../../files/external/aimfilez-com/buddykill-bcd3802c.exe) | unknown | unknown | unknown | unknown |
+| chatscan | runtime/support file | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/chatscan3-2b12e4af.ocx](../../../files/external/aimfilez-com/chatscan3-2b12e4af.ocx) | unknown | unknown | unknown | unknown |
+| formatsn | AIM | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/formatsn-ac427d25.exe](../../../files/external/aimfilez-com/formatsn-ac427d25.exe) | unknown | unknown | unknown | unknown |
+| ghost | AIM | 3 | candidate<br>ready | 1 | [files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe](../../../files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe) | unknown | unknown | unknown | unknown |
+| icondrop | AIM | 3 | candidate<br>ready | 1 | [files/external/aimfilez-com/icondrop2-0-69d20cfa.exe](../../../files/external/aimfilez-com/icondrop2-0-69d20cfa.exe) | unknown | unknown | unknown | unknown |
+| msinet | runtime/support file | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/msinet-a28f9137.ocx](../../../files/external/aimfilez-com/msinet-a28f9137.ocx) | unknown | unknown | unknown | unknown |
+| mswinsck | runtime/support file | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/mswinsck-c21a93bd.ocx](../../../files/external/aimfilez-com/mswinsck-c21a93bd.ocx) | unknown | unknown | unknown | unknown |
+| netbusterkill | room buster | 3 | ready | 1 | [files/external/fortunecity-com/netbusterkill.zip](../../../files/external/fortunecity-com/netbusterkill.zip) | unknown | unknown | unknown | unknown |
+| remoteidle | idler/bot | 3 | candidate<br>ready | 1 | [files/external/angelfire-com/remoteidle.zip](../../../files/external/angelfire-com/remoteidle.zip) | unknown | unknown | unknown | unknown |
+| vbmsg | unknown | 3 | candidate<br>ready | 1 | [files/external/aimfilez-com/vbmsg-2305f301.vbx](../../../files/external/aimfilez-com/vbmsg-2305f301.vbx) | unknown | unknown | unknown | unknown |
+| booter | AOL/AIM client installer | 2 | http-404<br>ready | 1 | [files/external/angelfire-com/booter1.zip](../../../files/external/angelfire-com/booter1.zip) | unknown | unknown | Source / developer file<br>Fader / text styler<br>C-Com / command list | unknown |
+| amp | AIM | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/aimamp-b8bdc65e.exe](../../../files/external/aimfilez-com/aimamp-b8bdc65e.exe) | unknown | unknown | unknown | unknown |
+| change | AIM | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/aimchange-d83f8223.exe](../../../files/external/aimfilez-com/aimchange-d83f8223.exe) | unknown | unknown | unknown | unknown |
+| alphacoms | chat/macro | 2 | candidate<br>ready | 1 | [files/external/lenshellarchive-com/alphacoms2-de8de330.zip](../../../files/external/lenshellarchive-com/alphacoms2-de8de330.zip) | unknown | unknown | unknown | unknown |
+| andone | chat/macro | 2 | ready<br>candidate | 1 | [files/external/lenshellarchive-com/andone-3a0e43d6.zip](../../../files/external/lenshellarchive-com/andone-3a0e43d6.zip) | unknown | unknown | unknown | unknown |
+| antibot | idler/bot | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/antibot11-50be5e19.exe](../../../files/external/aimfilez-com/antibot11-50be5e19.exe) | unknown | unknown | unknown | unknown |
+| asub | AIM | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/asub-1abf2bf0.exe](../../../files/external/aimfilez-com/asub-1abf2bf0.exe) | unknown | unknown | unknown | unknown |
+| chatocx | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/coltpro-net/chatocx2-5f3e25fd.ocx](../../../files/external/coltpro-net/chatocx2-5f3e25fd.ocx) | unknown | unknown | unknown | unknown |
+| cloc | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/cloc-5783db44.vbx](../../../files/external/aimfilez-com/cloc-5783db44.vbx) | unknown | unknown | unknown | unknown |
+| cmdialog | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/cmdialog-62a38b92.vbx](../../../files/external/aimfilez-com/cmdialog-62a38b92.vbx) | unknown | unknown | unknown | unknown |
+| comctl | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/comctl32-e2ba15bc.ocx](../../../files/external/aimfilez-com/comctl32-e2ba15bc.ocx) | unknown | unknown | unknown | unknown |
+| cracksource | hazardous/account or remote-control context | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/cracksource.zip](../../../files/external/angelfire-com/cracksource.zip) | unknown | unknown | Fader / text styler<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility | [http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=](http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=) |
+| crackwhore | idler/bot | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/crackwhore.zip](../../../files/external/angelfire-com/crackwhore.zip) | unknown | unknown | Account / TOS utility<br>AOL/AIM chat utility | unknown |
+| dbpush | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/dbpush-f26405e8.vbx](../../../files/external/aimfilez-com/dbpush-f26405e8.vbx) | unknown | unknown | unknown | unknown |
+| dbttip | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/dbttip-434e10d1.vbx](../../../files/external/aimfilez-com/dbttip-434e10d1.vbx) | unknown | unknown | unknown | unknown |
+| dc | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/dctool-df5f3a78.exe](../../../files/external/aimfilez-com/dctool-df5f3a78.exe) | unknown | unknown | unknown | unknown |
+| dwsbc | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/dwsbc32-66a535ca.ocx](../../../files/external/aimfilez-com/dwsbc32-66a535ca.ocx) | unknown | unknown | unknown | unknown |
+| fbimage | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/fbimage-660afb3f.exe](../../../files/external/aimfilez-com/fbimage-660afb3f.exe) | unknown | unknown | unknown | unknown |
+| grid | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/grid-9c49a1da.vbx](../../../files/external/aimfilez-com/grid-9c49a1da.vbx) | unknown | unknown | unknown | unknown |
+| mbar | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/mbar-4be76662.vbx](../../../files/external/aimfilez-com/mbar-4be76662.vbx) | unknown | unknown | unknown | unknown |
+| mp-play | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/mp3play-fa471de0.ocx](../../../files/external/aimfilez-com/mp3play-fa471de0.ocx) | unknown | unknown | unknown | unknown |
+| mscomctl | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/mscomctl-f5236d1d.ocx](../../../files/external/aimfilez-com/mscomctl-f5236d1d.ocx) | unknown | unknown | unknown | unknown |
+| oleaut | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/oleaut32-fbf48324.dll](../../../files/external/aimfilez-com/oleaut32-fbf48324.dll) | unknown | unknown | unknown | unknown |
+| olepro | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/olepro32-33ec48d6.dll](../../../files/external/aimfilez-com/olepro32-33ec48d6.dll) | unknown | unknown | unknown | unknown |
+| playcd | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/coltpro-net/playcd2-32333544.ocx](../../../files/external/coltpro-net/playcd2-32333544.ocx) | unknown | unknown | unknown | unknown |
+| pornblock | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/pornblock-ba69871f.exe](../../../files/external/aimfilez-com/pornblock-ba69871f.exe) | unknown | unknown | unknown | unknown |
+| r | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/aimr2.zip](../../../files/external/angelfire-com/aimr2.zip) | unknown | unknown | Account / TOS utility<br>AOL/AIM chat utility | [Http://www.dark-e.com](Http://www.dark-e.com) |
+| richtx | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/richtx32-87eca7a6.ocx](../../../files/external/aimfilez-com/richtx32-87eca7a6.ocx) | unknown | unknown | unknown | unknown |
+| rotext | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/rotext-a99777db.vbx](../../../files/external/aimfilez-com/rotext-a99777db.vbx) | unknown | unknown | unknown | unknown |
+| s-sa | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/saimsa-a4b4a517.exe](../../../files/external/aimfilez-com/saimsa-a4b4a517.exe) | unknown | unknown | unknown | unknown |
+| setuprt | unknown | 2 | ready<br>candidate | 1 | [files/external/click-online2000-com/setuprt22-bf0dd433.exe](../../../files/external/click-online2000-com/setuprt22-bf0dd433.exe) | unknown | unknown | unknown | unknown |
+| smilebot | idler/bot | 2 | ready<br>candidate | 1 | [files/external/aimfilez-com/smilebot-64edb771.exe](../../../files/external/aimfilez-com/smilebot-64edb771.exe) | unknown | unknown | unknown | unknown |
+| sntrader | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/sntrader-d9f71739.exe](../../../files/external/aimfilez-com/sntrader-d9f71739.exe) | unknown | unknown | unknown | unknown |
+| vb-chat | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/coltpro-net/vb5chat2-0e54601c.ocx](../../../files/external/coltpro-net/vb5chat2-0e54601c.ocx) | unknown | unknown | unknown | unknown |
+| winsck | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/winsck.zip](../../../files/external/angelfire-com/winsck.zip) | unknown | unknown | Source / developer file<br>Media / file utility | [http://www.deathsdoor.com/paragon](http://www.deathsdoor.com/paragon) |
+| mmnegtub | AIM | 1 | ready | 1 | [files/external/angelfire-com/35mmnegtub.zip](../../../files/external/angelfire-com/35mmnegtub.zip) | unknown | unknown | unknown | unknown |
+| aztecapocolypse | unknown | 1 | ready | 1 | [files/external/angelfire-com/4aztecapocolypse.zip](../../../files/external/angelfire-com/4aztecapocolypse.zip) | unknown | unknown | unknown | unknown |
+| sloughterinspace | unknown | 1 | ready | 1 | [files/external/angelfire-com/4sloughterinspace.zip](../../../files/external/angelfire-com/4sloughterinspace.zip) | unknown | unknown | unknown | unknown |
+| ball | unknown | 1 | ready | 1 | [files/external/angelfire-com/8-ball.zip](../../../files/external/angelfire-com/8-ball.zip) | BEN LEED | unknown | unknown | unknown |
+| gardenofwar | unknown | 1 | ready | 1 | [files/external/angelfire-com/8gardenofwar98.zip](../../../files/external/angelfire-com/8gardenofwar98.zip) | unknown | unknown | unknown | unknown |
+| absoluteserials | unknown | 1 | ready | 1 | [files/external/angelfire-com/absoluteserials.zip](../../../files/external/angelfire-com/absoluteserials.zip) | unknown | unknown | unknown | unknown |
+| ac-install | unknown | 1 | ready | 1 | [files/external/am-net/ac-install-fe4d5a18.exe](../../../files/external/am-net/ac-install-fe4d5a18.exe) | unknown | unknown | unknown | unknown |
+| acid-rain | unknown | 1 | ready | 1 | [files/external/angelfire-com/acid-rain.zip](../../../files/external/angelfire-com/acid-rain.zip) | BEN LEED | unknown | unknown | unknown |
+| acquafreezercrackbylucif-r | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/acquafreezercrackbylucif3r.zip](../../../files/external/angelfire-com/acquafreezercrackbylucif3r.zip) | Lucif3r | unknown | C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Media / file utility | [http://www.rev0xlu3s.com](http://www.rev0xlu3s.com) |
+| blocks | AIM | 1 | ready | 1 | [files/external/angelfire-com/aim-blocks.zip](../../../files/external/angelfire-com/aim-blocks.zip) | unknown | unknown | C-Com / command list<br>AOL/AIM chat utility | unknown |
+| install | AIM | 1 | ready | 1 | [files/external/am-net/aim-install-bea29830.exe](../../../files/external/am-net/aim-install-bea29830.exe) | unknown | unknown | unknown | unknown |
+| sm | AIM | 1 | ready | 1 | [files/external/angelfire-com/aimsm.zip](../../../files/external/angelfire-com/aimsm.zip) | unknown | unknown | unknown | unknown |
+| talk | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aimtalk20-3b135bf1.exe](../../../files/external/aimfilez-com/aimtalk20-3b135bf1.exe) | unknown | unknown | unknown | unknown |
+| antilamer | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/antilamer-ba387011.zip](../../../files/external/lenshellarchive-com/antilamer-ba387011.zip) | unknown | unknown | unknown | unknown |
+| antimacro | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/antimacro.zip](../../../files/external/angelfire-com/antimacro.zip) | unknown | unknown | unknown | unknown |
+| aob | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/aob-4c0f25f5.zip](../../../files/external/lenshellarchive-com/aob-4c0f25f5.zip) | unknown | unknown | Idler / AFK bot<br>AOL/AIM chat utility | unknown |
+| communicator | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aolcommunicator-85109c9c.exe](../../../files/external/aimfilez-com/aolcommunicator-85109c9c.exe) | unknown | unknown | unknown | unknown |
+| aonet | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/aonet-a9eb94ef.zip](../../../files/external/lenshellarchive-com/aonet-a9eb94ef.zip) | unknown | unknown | unknown | unknown |
+| assgas | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/assgas-888df9f0.zip](../../../files/external/lenshellarchive-com/assgas-888df9f0.zip) | unknown | unknown | C-Com / command list | unknown |
+| astroidlevel | idler/bot | 1 | ready | 1 | [files/external/angelfire-com/astroidlevel.zip](../../../files/external/angelfire-com/astroidlevel.zip) | Descent Mission Builder II | unknown | Fader / text styler<br>Source / developer file<br>Media / file utility | unknown |
+| audiostylexp | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/audiostylexp-7f2627f2.zip](../../../files/external/lenshellarchive-com/audiostylexp-7f2627f2.zip) | unknown | unknown | Fader / text styler<br>C-Com / command list | unknown |
+| auto | AOL/AIM client installer | 1 | ready | 1 | [files/external/angelfire-com/autoaim4.zip](../../../files/external/angelfire-com/autoaim4.zip) | unknown | unknown | Idler / AFK bot<br>C-Com / command list | [http://www.mewgood.com/](http://www.mewgood.com/) |
+| awaystate | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/awaystate-9d1caf3e.exe](../../../files/external/aimfilez-com/awaystate-9d1caf3e.exe) | unknown | unknown | unknown | unknown |
+| bar-room-brawl | room buster | 1 | ready | 1 | [files/external/angelfire-com/bar-room-brawl.zip](../../../files/external/angelfire-com/bar-room-brawl.zip) | unknown | unknown | unknown | unknown |
+| bens-megasound | unknown | 1 | ready | 1 | [files/external/angelfire-com/bens-megasound.zip](../../../files/external/angelfire-com/bens-megasound.zip) | BEN LEED | unknown | unknown | unknown |
+| biorythm | unknown | 1 | ready | 1 | [files/external/angelfire-com/biorythm.zip](../../../files/external/angelfire-com/biorythm.zip) | unknown | unknown | Fader / text styler<br>Source / developer file | unknown |
+| bnet | unknown | 1 | ready | 1 | [files/external/angelfire-com/bnettoolz.zip](../../../files/external/angelfire-com/bnettoolz.zip) | unknown | unknown | All-in-one prog suite<br>Source / developer file<br>AOL/AIM chat utility | [http://66.197.205.195/\\|](http://66.197.205.195/\|)<br>[http://www.worldoutrage.com](http://www.worldoutrage.com)<br>[http://www.vbforums.com](http://www.vbforums.com) |
+| boiolometro | unknown | 1 | ready | 1 | [files/external/angelfire-com/boiolometro.zip](../../../files/external/angelfire-com/boiolometro.zip) | unknown | unknown | unknown | unknown |
+| bookscrolls | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/bookscrolls.zip](../../../files/external/angelfire-com/bookscrolls.zip) | unknown | unknown | unknown | unknown |
+| bootscoot | punter/booter | 1 | ready | 1 | [files/external/angelfire-com/bootscoot.zip](../../../files/external/angelfire-com/bootscoot.zip) | unknown | unknown | unknown | unknown |
+| bud-setup | AIM | 1 | ready | 1 | [files/external/aimfilez-com/bud-setup-b6144227.exe](../../../files/external/aimfilez-com/bud-setup-b6144227.exe) | unknown | unknown | unknown | unknown |
+| caeo-rama | unknown | 1 | ready | 1 | [files/external/angelfire-com/caeo-programa.zip](../../../files/external/angelfire-com/caeo-programa.zip) | unknown | unknown | unknown | unknown |
+| chatsource | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/chatsource.zip](../../../files/external/angelfire-com/chatsource.zip) | problems that might be<br>'s reputation will not be affected by problems that might be<br>others<br>obtaining a | unknown | Fader / text styler<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Idler / AFK bot<br>Account / TOS utility | unknown |
+| comct | unknown | 1 | ready | 1 | [files/external/angelfire-com/comct332.zip](../../../files/external/angelfire-com/comct332.zip) | unknown | unknown | unknown | unknown |
+| commercialscript | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/commercialscript3.zip](../../../files/external/angelfire-com/commercialscript3.zip) | unknown | unknown | unknown | [http://vpchat.com/autochat](http://vpchat.com/autochat) |
+| compatibility-calc | unknown | 1 | ready | 1 | [files/external/angelfire-com/compatibility-calc.zip](../../../files/external/angelfire-com/compatibility-calc.zip) | BEN LEED | unknown | unknown | unknown |
+| computer-infomation | unknown | 1 | ready | 1 | [files/external/angelfire-com/computer-infomation.zip](../../../files/external/angelfire-com/computer-infomation.zip) | unknown | unknown | unknown | unknown |
+| counter | unknown | 1 | ready | 1 | [files/external/angelfire-com/counter.zip](../../../files/external/angelfire-com/counter.zip) | BEN LEED | unknown | unknown | unknown |
+| crackxp | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/crackxp.zip](../../../files/external/angelfire-com/crackxp.zip) | unknown | unknown | unknown | unknown |
+| creatincommercialsites | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/creatincommercialsites.zip](../../../files/external/angelfire-com/creatincommercialsites.zip) | which you could call any other<br>allowing it to directly refer to something else<br>people as far away as the Netherlands<br>the time we get to Part II | unknown | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server | [http://www.hampton.org](http://www.hampton.org)<br>[http://www.yahoo.com/Business_and_Economy/Companies/Internet_Services/Internet_Consulting/](http://www.yahoo.com/Business_and_Economy/Companies/Internet_Services/Internet_Consulting/)<br>[http://www.yahoo.com/Business_and_Economy/Companies/Computers/Consulting/](http://www.yahoo.com/Business_and_Economy/Companies/Computers/Consulting/)<br>[http://www.occ.com](http://www.occ.com) |
+| criminalchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/criminalchat.zip](../../../files/external/angelfire-com/criminalchat.zip) | unknown | unknown | Mass mailer / server | unknown |
+| dap | unknown | 1 | ready | 1 | [files/external/angelfire-com/dap53.zip](../../../files/external/angelfire-com/dap53.zip) | unknown | unknown | unknown | unknown |
+| details | unknown | 1 | ready | 1 | [files/external/angelfire-com/details.zip](../../../files/external/angelfire-com/details.zip) | unknown | unknown | unknown | unknown |
+| determinante | unknown | 1 | ready | 1 | [files/external/angelfire-com/determinante.zip](../../../files/external/angelfire-com/determinante.zip) | unknown | unknown | unknown | unknown |
+| diablo-monsterskill-sorc | unknown | 1 | ready | 1 | [files/external/angelfire-com/diablo2-monsterskill-sorc.zip](../../../files/external/angelfire-com/diablo2-monsterskill-sorc.zip) | unknown | unknown | AOL/AIM chat utility | unknown |
+| dmc-r | unknown | 1 | ready | 1 | [files/external/angelfire-com/dmc-r7.zip](../../../files/external/angelfire-com/dmc-r7.zip) | unknown | unknown | unknown | unknown |
+| dotmacregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/dotmacregister-2552521a.exe](../../../files/external/aimfilez-com/dotmacregister-2552521a.exe) | unknown | unknown | unknown | unknown |
+| drapeauscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/drapeauscreensaver-mcld.zip](../../../files/external/angelfire-com/drapeauscreensaver-mcld.zip) | mclodo | unknown | Media / file utility | unknown |
+| dvbpl | unknown | 1 | ready | 1 | [files/external/angelfire-com/dvbpl-020619.zip](../../../files/external/angelfire-com/dvbpl-020619.zip) | Klaus Schmidinger<br>Dave Chapman<br>DVBVideoLAN run Graphedit | unknown | Mass mailer / server<br>Source / developer file<br>Media / file utility | [http://www.linuxstb.org/dvbstream](http://www.linuxstb.org/dvbstream)<br>[http://www.linuxtv.org](http://www.linuxtv.org)<br>[http://www.elecard.com](http://www.elecard.com) |
+| email | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/email.zip](../../../files/external/angelfire-com/email.zip) | unknown | unknown | unknown | [http://www.helpdesk.mircx.com/scripts](http://www.helpdesk.mircx.com/scripts) |
+| emailcash | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailcash.zip](../../../files/external/angelfire-com/emailcash.zip) | unknown | unknown | unknown | unknown |
+| emailform | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailform.zip](../../../files/external/angelfire-com/emailform.zip) | unknown | unknown | unknown | unknown |
+| evbrtk | unknown | 1 | ready | 1 | [files/external/angelfire-com/evbrtk.zip](../../../files/external/angelfire-com/evbrtk.zip) | unknown | unknown | unknown | unknown |
+| evil-empire | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/evil-empire.zip](../../../files/external/angelfire-com/evil-empire.zip) | David Guerra and noodle | unknown | All-in-one prog suite | unknown |
+| evilgrunts | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/evilgrunts.zip](../../../files/external/angelfire-com/evilgrunts.zip) | unknown | unknown | unknown | unknown |
+| evilintentions | AIM | 1 | ready | 1 | [files/external/aimfilez-com/evilintentions2-a5d56efa.exe](../../../files/external/aimfilez-com/evilintentions2-a5d56efa.exe) | unknown | unknown | unknown | unknown |
+| factors | unknown | 1 | ready | 1 | [files/external/angelfire-com/factors.zip](../../../files/external/angelfire-com/factors.zip) | unknown | unknown | unknown | unknown |
+| feuscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/feuscreensaver-mcld.zip](../../../files/external/angelfire-com/feuscreensaver-mcld.zip) | mclodo | unknown | Source / developer file | unknown |
+| film | unknown | 1 | ready | 1 | [files/external/angelfire-com/film.zip](../../../files/external/angelfire-com/film.zip) | unknown | unknown | unknown | unknown |
+| fish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/fish.zip](../../../files/external/angelfire-com/fish.zip) | unknown | unknown | unknown | unknown |
+| font | unknown | 1 | ready | 1 | [files/external/angelfire-com/font.zip](../../../files/external/angelfire-com/font.zip) | unknown | unknown | Fader / text styler | unknown |
+| form-mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/form-mail.zip](../../../files/external/angelfire-com/form-mail.zip) | leaving this field<br>commas<br>browsers and your server | unknown | Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server<br>Media / file utility | [http://www.worldwidemart.com/scripts/](http://www.worldwidemart.com/scripts/)<br>[http://www.worldwidemart.com/scripts/faq/](http://www.worldwidemart.com/scripts/faq/)<br>[http://www.worldwidemart.com](http://www.worldwidemart.com)<br>[http://your.host.com/to/file.html](http://your.host.com/to/file.html) |
+| g-fade | fader | 1 | ready | 1 | [files/external/angelfire-com/g-fade.zip](../../../files/external/angelfire-com/g-fade.zip) | unknown | unknown | Fader / text styler | unknown |
+| gamespy-addcrack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/gamespy-v109addcrack.zip](../../../files/external/angelfire-com/gamespy-v109addcrack.zip) | GameSpy Industries | unknown | Account / TOS utility<br>Source / developer file | unknown |
+| geotronics | unknown | 1 | ready | 1 | [files/external/angelfire-com/geotronics.zip](../../../files/external/angelfire-com/geotronics.zip) | unknown | unknown | Source / developer file<br>Fader / text styler<br>Media / file utility<br>C-Com / command list | unknown |
+| getbent | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/getbent.zip](../../../files/external/angelfire-com/getbent.zip) | unknown | unknown | All-in-one prog suite | unknown |
+| girl | unknown | 1 | ready | 1 | [files/external/angelfire-com/girl.zip](../../../files/external/angelfire-com/girl.zip) | unknown | unknown | unknown | unknown |
+| godcracker | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/godcracker3.zip](../../../files/external/angelfire-com/godcracker3.zip) | unknown | unknown | unknown | unknown |
+| goingtositesex | unknown | 1 | ready | 1 | [files/external/angelfire-com/goingtositesex.zip](../../../files/external/angelfire-com/goingtositesex.zip) | unknown | unknown | Fader / text styler<br>Source / developer file | [http://www.angelfire.com/ny3/visualbasic](http://www.angelfire.com/ny3/visualbasic) |
+| goldfish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/goldfish.zip](../../../files/external/angelfire-com/goldfish.zip) | unknown | unknown | unknown | unknown |
+| hackers-crackdown | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/hackers-crackdown.zip](../../../files/external/angelfire-com/hackers-crackdown.zip) | unknown | unknown | unknown | unknown |
+| hellhound | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellhound.zip](../../../files/external/angelfire-com/hellhound.zip) | unknown | unknown | unknown | unknown |
+| hello | unknown | 1 | ready | 1 | [files/external/angelfire-com/hello.zip](../../../files/external/angelfire-com/hello.zip) | unknown | unknown | unknown | unknown |
+| hellsedit | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellsedit.zip](../../../files/external/angelfire-com/hellsedit.zip) | unknown | unknown | Scroller / macro<br>Media / file utility<br>Fader / text styler<br>Account / TOS utility | [http://members.xoom.com/ffbn/fi.htm](http://members.xoom.com/ffbn/fi.htm)<br>[http://www.geocities.com/SiliconValley/Horizon/6342](http://www.geocities.com/SiliconValley/Horizon/6342) |
+| hotmailhack | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/hotmailhack.zip](../../../files/external/angelfire-com/hotmailhack.zip) | rightclicking it and selecting | unknown | All-in-one prog suite<br>Fader / text styler<br>Mass mailer / server<br>Account / TOS utility<br>Source / developer file | [http://www.yourmom.com](http://www.yourmom.com)<br>[http://www.stickdeath.com/](http://www.stickdeath.com/) |
+| http-cracker-b | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/http-cracker-v113b.zip](../../../files/external/angelfire-com/http-cracker-v113b.zip) | unknown | unknown | unknown | unknown |
+| hyperinfo | AIM | 1 | ready | 1 | [files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe](../../../files/external/aimfilez-com/hyperinfo-dc7c3a7e.exe) | unknown | unknown | unknown | unknown |
+| icons | unknown | 1 | ready | 1 | [files/external/angelfire-com/icons.zip](../../../files/external/angelfire-com/icons.zip) | unknown | unknown | unknown | unknown |
+| idlemon | runtime/support file | 1 | ready | 1 | [files/external/aimfilez-com/idlemon-f920c14a.dll](../../../files/external/aimfilez-com/idlemon-f920c14a.dll) | unknown | unknown | unknown | unknown |
+| ie-setup | unknown | 1 | ready | 1 | [files/external/angelfire-com/ie6setup.zip](../../../files/external/angelfire-com/ie6setup.zip) | unknown | unknown | unknown | unknown |
+| instantidler | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/instantidler52-59727d46.exe](../../../files/external/aimfilez-com/instantidler52-59727d46.exe) | unknown | unknown | unknown | unknown |
+| interface | unknown | 1 | ready | 1 | [files/external/angelfire-com/interface.zip](../../../files/external/angelfire-com/interface.zip) | Clint LaFever<br>is added in column_click | unknown | Fader / text styler<br>Source / developer file<br>Media / file utility | [http://vbasic.iscool.net](http://vbasic.iscool.net) |
+| ispec | AIM | 1 | ready | 1 | [files/external/aimfilez-com/ispec-e3b22ea2.exe](../../../files/external/aimfilez-com/ispec-e3b22ea2.exe) | unknown | unknown | unknown | unknown |
+| iviewer | unknown | 1 | ready | 1 | [files/external/angelfire-com/iviewer.zip](../../../files/external/angelfire-com/iviewer.zip) | unchecking 'Toolbar' in the View menu<br>saying so in the Options menu<br>Imran | unknown | Fader / text styler<br>Scroller / macro<br>Source / developer file<br>Media / file utility<br>C-Com / command list | [http://www.pureblacklight.com/ivy](http://www.pureblacklight.com/ivy) |
+| ivypda | unknown | 1 | ready | 1 | [files/external/angelfire-com/ivypda.zip](../../../files/external/angelfire-com/ivypda.zip) | unknown | unknown | unknown | unknown |
+| jackbros | unknown | 1 | ready | 1 | [files/external/angelfire-com/jackbros.zip](../../../files/external/angelfire-com/jackbros.zip) | ROMNation | unknown | Fader / text styler | [http://www.romnation.net/](http://www.romnation.net/) |
+| jungledan | unknown | 1 | ready | 1 | [files/external/angelfire-com/jungledan.zip](../../../files/external/angelfire-com/jungledan.zip) | unknown | unknown | unknown | unknown |
+| klotski | unknown | 1 | ready | 1 | [files/external/angelfire-com/klotski.zip](../../../files/external/angelfire-com/klotski.zip) | unknown | unknown | Fader / text styler<br>Source / developer file | unknown |
+| lsd | unknown | 1 | ready | 1 | [files/external/angelfire-com/lsd.zip](../../../files/external/angelfire-com/lsd.zip) | Tiba 2000 | unknown | unknown | [http://www.angelfire.com/de2/eletronica4](http://www.angelfire.com/de2/eletronica4) |
+| magicsquare | unknown | 1 | ready | 1 | [files/external/angelfire-com/magicsquare.zip](../../../files/external/angelfire-com/magicsquare.zip) | unknown | unknown | unknown | unknown |
+| mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/mail555.zip](../../../files/external/angelfire-com/mail555.zip) | others will not reflect on the original<br>' reputations<br>software<br>offering | unknown | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Scroller / macro | [http://www.namesweb.ltd.uk/vlh](http://www.namesweb.ltd.uk/vlh)<br>[http://www.your-site.co.uk/vlist](http://www.your-site.co.uk/vlist)<br>[http://www.albakr.net](http://www.albakr.net)<br>[http://www.albakr.net/vb/index.php](http://www.albakr.net/vb/index.php) |
+| mastermind | unknown | 1 | ready | 1 | [files/external/angelfire-com/mastermind.zip](../../../files/external/angelfire-com/mastermind.zip) | unknown | unknown | unknown | [http://go.microsoft.com/fwlink/?LinkId=9832](http://go.microsoft.com/fwlink/?LinkId=9832) |
+| mcnh | unknown | 1 | ready | 1 | [files/external/angelfire-com/mcnh.zip](../../../files/external/angelfire-com/mcnh.zip) | unknown | unknown | unknown | unknown |
+| menus | unknown | 1 | ready | 1 | [files/external/angelfire-com/menus.zip](../../../files/external/angelfire-com/menus.zip) | unknown | unknown | unknown | unknown |
+| mikes-ram | unknown | 1 | ready | 1 | [files/external/angelfire-com/mikesprogram.zip](../../../files/external/angelfire-com/mikesprogram.zip) | unknown | unknown | unknown | unknown |
+| millionemails | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/millionemails.zip](../../../files/external/angelfire-com/millionemails.zip) | 2005<br>sending out a simple email<br>the top Internet Pros and eCommerce leaders<br>asking one simple question | unknown | Fader / text styler<br>Media / file utility<br>All-in-one prog suite<br>Idler / AFK bot<br>Mass mailer / server | [http://www.profitjump.com/milliondollaremails/affiliates.html](http://www.profitjump.com/milliondollaremails/affiliates.html)<br>[http://www.profitjump.com/rbot/](http://www.profitjump.com/rbot/)<br>[http://www.roibot.com/mde.cgi?ROIbotID_campaign](http://www.roibot.com/mde.cgi?ROIbotID_campaign)<br>[http://www.profitjump.com](http://www.profitjump.com) |
+| moodyblues-cocacolacommercial | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/moodyblues-cocacolacommercial.zip](../../../files/external/angelfire-com/moodyblues-cocacolacommercial.zip) | unknown | unknown | unknown | unknown |
+| morse-code | unknown | 1 | ready | 1 | [files/external/angelfire-com/morse-code.zip](../../../files/external/angelfire-com/morse-code.zip) | BEN LEED | unknown | unknown | unknown |
+| move-button | unknown | 1 | ready | 1 | [files/external/angelfire-com/move-button.zip](../../../files/external/angelfire-com/move-button.zip) | BEN LEED | unknown | unknown | unknown |
+| movement | unknown | 1 | ready | 1 | [files/external/angelfire-com/movement.zip](../../../files/external/angelfire-com/movement.zip) | BEN LEED | unknown | unknown | unknown |
+| mpegdll | unknown | 1 | ready | 1 | [files/external/angelfire-com/mpegdll.zip](../../../files/external/angelfire-com/mpegdll.zip) | unknown | unknown | Media / file utility | unknown |
+| mpqoldstuff | unknown | 1 | ready | 1 | [files/external/angelfire-com/mpqoldstuff.zip](../../../files/external/angelfire-com/mpqoldstuff.zip) | unknown | unknown | unknown | unknown |
+| mwgfxdll | unknown | 1 | ready | 1 | [files/external/angelfire-com/mwgfxdll.zip](../../../files/external/angelfire-com/mwgfxdll.zip) | unknown | unknown | unknown | unknown |
+| myim | AIM | 1 | ready | 1 | [files/external/aimfilez-com/myim-cbbb1634.exe](../../../files/external/aimfilez-com/myim-cbbb1634.exe) | unknown | unknown | unknown | unknown |
+| nesemu | unknown | 1 | ready | 1 | [files/external/angelfire-com/nesemu.zip](../../../files/external/angelfire-com/nesemu.zip) | JoshMan<br>raising the sound<br>lowering the sound buffer frequency to a smaller<br>one | unknown | Idler / AFK bot<br>Source / developer file<br>Media / file utility<br>Fader / text styler<br>C-Com / command list | [http://nestron.emuunlim.com](http://nestron.emuunlim.com) |
+| nesters | unknown | 1 | ready | 1 | [files/external/angelfire-com/nesters.zip](../../../files/external/angelfire-com/nesters.zip) | ROMNation | unknown | Fader / text styler | [http://www.romnation.net/](http://www.romnation.net/) |
+| netbus | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/fortunecity-com/netbus7.zip](../../../files/external/fortunecity-com/netbus7.zip) | unknown | unknown | Fader / text styler<br>C-Com / command list<br>Mass mailer / server<br>Account / TOS utility<br>Media / file utility | unknown |
+| new-othello-exe | unknown | 1 | ready | 1 | [files/external/angelfire-com/new-othello-exe.zip](../../../files/external/angelfire-com/new-othello-exe.zip) | some guy a bunch of years ago | unknown | Media / file utility | unknown |
+| oh-scroller | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/oh-scroller.zip](../../../files/external/angelfire-com/oh-scroller.zip) | unknown | unknown | unknown | unknown |
+| opengl | unknown | 1 | ready | 1 | [files/external/angelfire-com/opengl.zip](../../../files/external/angelfire-com/opengl.zip) | unknown | unknown | unknown | unknown |
+| osamadies | unknown | 1 | ready | 1 | [files/external/angelfire-com/osamadies.zip](../../../files/external/angelfire-com/osamadies.zip) | unknown | unknown | unknown | unknown |
+| othelloexe | unknown | 1 | ready | 1 | [files/external/angelfire-com/othelloexe.zip](../../../files/external/angelfire-com/othelloexe.zip) | unknown | unknown | unknown | unknown |
+| painkilla | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/painkilla.zip](../../../files/external/angelfire-com/painkilla.zip) | unknown | unknown | unknown | unknown |
+| photoshopfix | unknown | 1 | ready | 1 | [files/external/angelfire-com/photoshopfix.zip](../../../files/external/angelfire-com/photoshopfix.zip) | unknown | unknown | unknown | unknown |
+| plasmascreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/plasmascreensaver-mcld.zip](../../../files/external/angelfire-com/plasmascreensaver-mcld.zip) | mclodo | unknown | unknown | unknown |
+| ppvblock | unknown | 1 | ready | 1 | [files/external/angelfire-com/ppvblock1-2.zip](../../../files/external/angelfire-com/ppvblock1-2.zip) | unknown | unknown | unknown | unknown |
+| ppvblocker | unknown | 1 | ready | 1 | [files/external/angelfire-com/ppvblocker1-4.zip](../../../files/external/angelfire-com/ppvblocker1-4.zip) | unknown | unknown | unknown | [ftp://borgo.dns2go.com](ftp://borgo.dns2go.com) |
+| preservers | unknown | 1 | ready | 1 | [files/external/angelfire-com/preservers.zip](../../../files/external/angelfire-com/preservers.zip) | JAMARO | unknown | unknown | [http://come.to/jamaro](http://come.to/jamaro) |
+| q-asec | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3asec.zip](../../../files/external/angelfire-com/q3asec.zip) | TopGear with help from the bind | unknown | unknown | [http://www.planetquake.com/thebind/](http://www.planetquake.com/thebind/) |
+| q-name | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3name.zip](../../../files/external/angelfire-com/q3name.zip) | unknown | unknown | unknown | unknown |
+| q-tweak | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3tweak1039.zip](../../../files/external/angelfire-com/q3tweak1039.zip) | unknown | unknown | unknown | unknown |
+| race | unknown | 1 | ready | 1 | [files/external/angelfire-com/race.zip](../../../files/external/angelfire-com/race.zip) | BEN LEED | unknown | unknown | unknown |
+| random-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/random-scribble.zip](../../../files/external/angelfire-com/random-scribble.zip) | BEN LEED | unknown | unknown | unknown |
+| ravehitter-serverlist | unknown | 1 | ready | 1 | [files/external/angelfire-com/ravehitter1-0serverlist.zip](../../../files/external/angelfire-com/ravehitter1-0serverlist.zip) | unknown | unknown | unknown | unknown |
+| regocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/regocx.zip](../../../files/external/angelfire-com/regocx.zip) | unknown | unknown | unknown | unknown |
+| reshack | AIM | 1 | ready | 1 | [files/external/aimfilez-com/reshack-ae82f47d.exe](../../../files/external/aimfilez-com/reshack-ae82f47d.exe) | unknown | unknown | unknown | unknown |
+| riched | runtime/support file | 1 | ready | 1 | [files/external/coltpro-net/riched32-8462623b.dll](../../../files/external/coltpro-net/riched32-8462623b.dll) | unknown | unknown | unknown | unknown |
+| salat | unknown | 1 | ready | 1 | [files/external/angelfire-com/salat.zip](../../../files/external/angelfire-com/salat.zip) | unknown | unknown | Fader / text styler | [http://www.geocities.com/SiliconValley/Vista/9311](http://www.geocities.com/SiliconValley/Vista/9311) |
+| sanidade | unknown | 1 | ready | 1 | [files/external/angelfire-com/sanidade.zip](../../../files/external/angelfire-com/sanidade.zip) | unknown | unknown | unknown | unknown |
+| sccur | unknown | 1 | ready | 1 | [files/external/angelfire-com/sccur.zip](../../../files/external/angelfire-com/sccur.zip) | unknown | unknown | unknown | unknown |
+| scriptfish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/scriptfish.zip](../../../files/external/angelfire-com/scriptfish.zip) | attachment to a previous condition of existence<br>applying it's own TAB key completion<br>Necroman<br>popular request | unknown | Mass mailer / server<br>AOL/AIM chat utility<br>Idler / AFK bot<br>Punter / booter<br>C-Com / command list | [http://www.mirc.com](http://www.mirc.com)<br>[http://www.mirc.co.uk](http://www.mirc.co.uk)<br>[http://www.mirc.com.ar](http://www.mirc.com.ar)<br>[http://mirc.eon.net.au](http://mirc.eon.net.au) |
+| scrolltextex | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/scrolltextex.zip](../../../files/external/angelfire-com/scrolltextex.zip) | unknown | unknown | Fader / text styler<br>Scroller / macro<br>Source / developer file | [http://www.angelfire.com/ny3/visualbasic](http://www.angelfire.com/ny3/visualbasic) |
+| sendmail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/sendmail.zip](../../../files/external/angelfire-com/sendmail.zip) | the SMTP protocol | unknown | C-Com / command list<br>Scroller / macro<br>Mass mailer / server<br>Source / developer file | unknown |
+| serveradver | unknown | 1 | ready | 1 | [files/external/angelfire-com/serveradver.zip](../../../files/external/angelfire-com/serveradver.zip) | JAMARO | unknown | unknown | [http://come.to/jamaro](http://come.to/jamaro) |
+| serverlook | unknown | 1 | ready | 1 | [files/external/angelfire-com/serverlook.zip](../../../files/external/angelfire-com/serverlook.zip) | unknown | unknown | unknown | unknown |
+| serverspopup | unknown | 1 | ready | 1 | [files/external/angelfire-com/serverspopup.zip](../../../files/external/angelfire-com/serverspopup.zip) | JAMARO | unknown | unknown | [http://come.to/jamaro](http://come.to/jamaro) |
+| setup-x | AOL/AIM client installer | 1 | ready | 1 | [files/external/am-net/setupaol60-9x-f6f5a4c2.exe](../../../files/external/am-net/setupaol60-9x-f6f5a4c2.exe) | unknown | unknown | unknown | unknown |
+| setup-kb | AOL/AIM client installer | 1 | ready | 1 | [files/external/am-net/setupaol602kb-c496c110.exe](../../../files/external/am-net/setupaol602kb-c496c110.exe) | unknown | unknown | unknown | unknown |
+| shell | unknown | 1 | ready | 1 | [files/external/angelfire-com/shell.zip](../../../files/external/angelfire-com/shell.zip) | unknown | unknown | unknown | unknown |
+| shellex | unknown | 1 | ready | 1 | [files/external/angelfire-com/shellex.zip](../../../files/external/angelfire-com/shellex.zip) | unknown | unknown | Fader / text styler<br>Source / developer file | [http://www.angelfire.com/ny3/visualbasic](http://www.angelfire.com/ny3/visualbasic) |
+| shitclub | unknown | 1 | ready | 1 | [files/external/angelfire-com/shitclub.zip](../../../files/external/angelfire-com/shitclub.zip) | unknown | unknown | unknown | unknown |
+| silkboxers | unknown | 1 | ready | 1 | [files/external/angelfire-com/silkboxers.zip](../../../files/external/angelfire-com/silkboxers.zip) | unknown | unknown | unknown | [http://WWW.angelfire.com/freak/SIMfullyDelicious](http://WWW.angelfire.com/freak/SIMfullyDelicious) |
+| simple-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/simple-scribble.zip](../../../files/external/angelfire-com/simple-scribble.zip) | unknown | unknown | unknown | unknown |
+| smiley | AIM | 1 | ready | 1 | [files/external/aimfilez-com/smiley-c14cffa3.exe](../../../files/external/aimfilez-com/smiley-c14cffa3.exe) | unknown | unknown | unknown | unknown |
+| spammer | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/spammer.zip](../../../files/external/angelfire-com/spammer.zip) | unknown | unknown | unknown | unknown |
+| speed-type | unknown | 1 | ready | 1 | [files/external/angelfire-com/speed-type.zip](../../../files/external/angelfire-com/speed-type.zip) | unknown | unknown | unknown | unknown |
+| speedoptimizer-crack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/speedoptimizer-v1-5-crack.zip](../../../files/external/angelfire-com/speedoptimizer-v1-5-crack.zip) | unknown | unknown | Account / TOS utility | [http://www.speedbit.com](http://www.speedbit.com)<br>[http://zor.org/tsrh](http://zor.org/tsrh) |
+| spokes | unknown | 1 | ready | 1 | [files/external/angelfire-com/spokes.zip](../../../files/external/angelfire-com/spokes.zip) | BEN LEED | unknown | Source / developer file<br>Media / file utility | unknown |
+| ssprotoss | unknown | 1 | ready | 1 | [files/external/angelfire-com/ssprotoss.zip](../../../files/external/angelfire-com/ssprotoss.zip) | unknown | unknown | unknown | [http://www.densetsu.com/xproductions/index.htm](http://www.densetsu.com/xproductions/index.htm) |
+| staff-info | AIM | 1 | ready | 1 | [files/external/angelfire-com/staffaiminfo.zip](../../../files/external/angelfire-com/staffaiminfo.zip) | unknown | AIM 1.75 | C-Com / command list<br>Mass mailer / server<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | [http://come.to/aolf](http://come.to/aolf)<br>[http://come.to/Cygon](http://come.to/Cygon)<br>[http://www.aoelite.com](http://www.aoelite.com)<br>[http://wosonline.aoelite.com](http://wosonline.aoelite.com) |
+| starcraft | unknown | 1 | ready | 1 | [files/external/angelfire-com/starcraft.zip](../../../files/external/angelfire-com/starcraft.zip) | unknown | unknown | unknown | unknown |
+| stb-newcrackbylucif-r | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/stb970newcrackbylucif3r.zip](../../../files/external/angelfire-com/stb970newcrackbylucif3r.zip) | Lucif3r | unknown | C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>Idler / AFK bot | [http://www.rev0xlu3s.com](http://www.rev0xlu3s.com) |
+| stealthmail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/stealthmail.zip](../../../files/external/angelfire-com/stealthmail.zip) | Amecisco shall be covered by this Agreement | unknown | Mass mailer / server | [http://www.keylogger.com](http://www.keylogger.com) |
+| swmidis | unknown | 1 | ready | 1 | [files/external/angelfire-com/swmidis.zip](../../../files/external/angelfire-com/swmidis.zip) | unknown | unknown | unknown | unknown |
+| talkoffline | unknown | 1 | ready | 1 | [files/external/angelfire-com/talkoffline.zip](../../../files/external/angelfire-com/talkoffline.zip) | unknown | unknown | unknown | unknown |
+| taxer | unknown | 1 | ready | 1 | [files/external/angelfire-com/taxer.zip](../../../files/external/angelfire-com/taxer.zip) | unknown | unknown | unknown | unknown |
+| tc | unknown | 1 | ready | 1 | [files/external/angelfire-com/tc.zip](../../../files/external/angelfire-com/tc.zip) | unknown | unknown | unknown | unknown |
+| termin | unknown | 1 | ready | 1 | [files/external/angelfire-com/termin.zip](../../../files/external/angelfire-com/termin.zip) | unknown | unknown | unknown | unknown |
+| terminator | unknown | 1 | ready | 1 | [files/external/angelfire-com/terminator.zip](../../../files/external/angelfire-com/terminator.zip) | unknown | unknown | unknown | unknown |
+| terrangauntlet | unknown | 1 | ready | 1 | [files/external/angelfire-com/terrangauntlet.zip](../../../files/external/angelfire-com/terrangauntlet.zip) | unknown | unknown | Source / developer file<br>Media / file utility | [http://www.warnet.com/pyro/starcraft/index.shtml](http://www.warnet.com/pyro/starcraft/index.shtml) |
+| topazchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/topazchat.zip](../../../files/external/angelfire-com/topazchat.zip) | excessive advertising<br>left to right, the Tool Bar buttons are as follows: par | unknown | Idler / AFK bot<br>Punter / booter<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server | unknown |
+| trans | unknown | 1 | ready | 1 | [files/external/angelfire-com/trans.zip](../../../files/external/angelfire-com/trans.zip) | unknown | unknown | unknown | unknown |
+| tripeaks | room buster | 1 | ready | 1 | [files/external/angelfire-com/tripeaks.zip](../../../files/external/angelfire-com/tripeaks.zip) | unknown | unknown | unknown | unknown |
+| triple-arena | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/triple-arena.zip](../../../files/external/angelfire-com/triple-arena.zip) | unknown | unknown | All-in-one prog suite | [http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) |
+| trispiral | unknown | 1 | ready | 1 | [files/external/angelfire-com/trispiral.zip](../../../files/external/angelfire-com/trispiral.zip) | unknown | unknown | unknown | unknown |
+| ts-server-fix | unknown | 1 | ready | 1 | [files/external/angelfire-com/ts-server-fix-v0-1-0.zip](../../../files/external/angelfire-com/ts-server-fix-v0-1-0.zip) | unknown | unknown | unknown | unknown |
+| twistersroombuster | room buster | 1 | ready | 1 | [files/external/angelfire-com/twistersroombuster.zip](../../../files/external/angelfire-com/twistersroombuster.zip) | unknown | unknown | unknown | unknown |
+| vb-in-lessons | unknown | 1 | ready | 1 | [files/external/angelfire-com/vb-in-12-lessons.zip](../../../files/external/angelfire-com/vb-in-12-lessons.zip) | unknown | unknown | unknown | unknown |
+| vba | unknown | 1 | ready | 1 | [files/external/angelfire-com/vba.zip](../../../files/external/angelfire-com/vba.zip) | the emulator<br>not allowing<br>executing<br>Forgotten | unknown | All-in-one prog suite<br>Source / developer file<br>Media / file utility | [http://www.paypal.com](http://www.paypal.com)<br>[http://vboy.emuhq.com/faq.shtml](http://vboy.emuhq.com/faq.shtml)<br>[http://vboy.emuhq.com/contact.shtml](http://vboy.emuhq.com/contact.shtml)<br>[http://vboy.emuhq.com](http://vboy.emuhq.com) |
+| vbulletin | unknown | 1 | ready | 1 | [files/external/angelfire-com/vbulletin-201.zip](../../../files/external/angelfire-com/vbulletin-201.zip) | startdate DESC<br>announcement<br>thread,post<br>calendar_events | unknown | AOL/AIM chat utility<br>Source / developer file<br>Media / file utility<br>Mass mailer / server<br>Account / TOS utility | [http://www.vbulletin.com](http://www.vbulletin.com)<br>[http://www.\\6\](http://www.\\6\)<br>[http://www.\\5\](http://www.\\5\)<br>[http://vbulletin.com/members/](http://vbulletin.com/members/) |
+| video-ocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/video-ocx.zip](../../../files/external/angelfire-com/video-ocx.zip) | unknown | unknown | unknown | [http://www.securehack.com/](http://www.securehack.com/)<br>[http://cman.mytopsitelist.com/jump.php?cmd=in&list_id=top&site_id=robert42](http://cman.mytopsitelist.com/jump.php?cmd=in&list_id=top&site_id=robert42)<br>[http://69.22.169.138/~digital/](http://69.22.169.138/~digital/)<br>[http://WWW.E-HACK.TK](http://WWW.E-HACK.TK) |
+| vnetbust | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/fortunecity-com/vnetbust.zip](../../../files/external/fortunecity-com/vnetbust.zip) | unknown | unknown | unknown | unknown |
+| warpedserver | unknown | 1 | ready | 1 | [files/external/angelfire-com/warpedserver.zip](../../../files/external/angelfire-com/warpedserver.zip) | removing the<br>marty's | unknown | AOL/AIM chat utility<br>Fader / text styler<br>Punter / booter<br>Scroller / macro<br>Mass mailer / server | [http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe](http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe) |
+| win-font | unknown | 1 | ready | 1 | [files/external/angelfire-com/win95font.zip](../../../files/external/angelfire-com/win95font.zip) | unknown | unknown | unknown | unknown |
+| winamp-full | unknown | 1 | ready | 1 | [files/external/angelfire-com/winamp281-full.zip](../../../files/external/angelfire-com/winamp281-full.zip) | unknown | unknown | unknown | unknown |
+| winsock-dll | runtime/support file | 1 | ready | 1 | [files/external/angelfire-com/winsock-dll.zip](../../../files/external/angelfire-com/winsock-dll.zip) | unknown | unknown | unknown | unknown |
+| xchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/xchat.zip](../../../files/external/angelfire-com/xchat.zip) | unknown | unknown | unknown | unknown |
+| xregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/xregister-859fa003.exe](../../../files/external/aimfilez-com/xregister-859fa003.exe) | unknown | unknown | unknown | unknown |
+| yoink | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/yoink.zip](../../../files/external/angelfire-com/yoink.zip) | the room above and will suck anyone in the area in | unknown | All-in-one prog suite<br>AOL/AIM chat utility | [http://www.gamedesign.net](http://www.gamedesign.net)<br>[http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) |
+| zerggifs | unknown | 1 | ready | 1 | [files/external/angelfire-com/zerggifs.zip](../../../files/external/angelfire-com/zerggifs.zip) | unknown | unknown | unknown | unknown |
+| zergscr | unknown | 1 | ready | 1 | [files/external/angelfire-com/zergscr.zip](../../../files/external/angelfire-com/zergscr.zip) | unknown | unknown | Media / file utility | [http://www.geocities.com/Area51/Orion/1343/](http://www.geocities.com/Area51/Orion/1343/) |
+| zxp | unknown | 1 | ready | 1 | [files/external/angelfire-com/zxp.zip](../../../files/external/angelfire-com/zxp.zip) | unknown | unknown | Fader / text styler<br>Source / developer file<br>Media / file utility<br>C-Com / command list | unknown |
+| picpick-inst | unknown | 14 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tclcurl-threaded-ssl | unknown | 13 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-win-nossl | unknown | 12 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-win-ssl | unknown | 12 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| picpick | unknown | 11 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| powarc | unknown | 11 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winzip | unknown | 11 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kix | unknown | 10 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setpoint | unknown | 10 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl | unknown | 9 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcbe | unknown | 9 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| burning | AIM | 8 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-ssl-win | unknown | 8 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ica-e | unknown | 8 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| prodigy | AIM | 7 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cc-d | unknown | 7 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| methodus | unknown | 7 | html-replay<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fury | AOL/AIM client installer | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jicacomponents | unknown | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jre-u-windows-x | unknown | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| light-image-resizer-setup | unknown | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mw-enu | unknown | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| utopia | AIM | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| steves-ee | AIM | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| atlassian-confluence-x | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| atlassian-jira-software-x | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| autoruns | unknown | 5 | candidate<br>html-replay | 0 | none | unknown | unknown | unknown | unknown |
+| dos | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iata-enu | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lethal | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| master | unknown | 5 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| pcns-win | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pwlist | hazardous/account or remote-control context | 5 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setuprst | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbtips | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winima | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| abomination | unknown | 4 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| utils | AIM | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| overflow | AIM | 4 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| phrozenrain | AIM | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fiddler-setup | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jre-u-windows-i | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lightning | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| linksender | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-e | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oracle | unknown | 4 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| phaze | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rufus | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| savce-allwin-en | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sendtotoys | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| teracopy | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tweakuipowertoysetup | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| web-ica-e | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wzcline | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wzipse | unknown | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| yahoo | AIM | 4 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| za | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unlimited | AIM | 3 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| si | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| armor | AIM | 3 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| boss | hazardous/account or remote-control context | 3 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bulletscroller | chat/macro | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| burninginside | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| destroy | AOL/AIM client installer | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| exploit | AIM | 3 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fatboy | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mercy | mass mailer/server | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pg | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sk-s | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| free | AOL/AIM client installer | 3 | candidate<br>html-replay | 0 | none | unknown | unknown | unknown | unknown |
+| blackice | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| botz | idler/bot | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| byrdfader | fader | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| causticfinal | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| charmap | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chiputil | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dimorphic | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| enervate | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| envy | unknown | 3 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| evolution | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| exe-strings-db | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| f-flpy | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| freakinb | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| infinst-enu | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iraqiannuke | punter/booter | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| leetlink | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| liquidsoulbeta | room buster | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| liquidwater | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| marioonline | chat/macro | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netscape | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nfos | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| npp-installer | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ns-setupb | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| openssl-d-win-bin | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcns | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pride | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| processexplorernt | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| psexec | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ps-s | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sleep | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sleepyhollow | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| son | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sonicgold | chat/macro | 3 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| target | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tclcurl-ssl | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unknown | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win-openssl-light-e | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win-openssl-e | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wincdemu | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winhex | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zoominstaller | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kfader | fader | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shoplayer | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| thelement | unknown | 2 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| z-x | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| addweb | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| advlanche | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hellfinal | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| onice | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tizank | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| works | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aoanarchistutilities | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| assimilation | mass mailer/server | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aztopdawg | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blackoutbeta | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blood | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bloodbath | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blueeclipse | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bluefire | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddybomb | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| byrdfaderpro | fader | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cautionantibooter | punter/booter | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chemicaltendancies | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crc | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| deadend | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| distortion | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| distortionfinal | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| doom | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| empyriefinal | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| endlesscommands | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| er | AIM | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| erozionbeta | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| evil | AOL/AIM client installer | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flash | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flooder | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fudo | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| genocidalrage | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| glock | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hallucination | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| happy | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hippie | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| illusionzbeta | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| impaler | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| infinitybeta | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jesterx | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kaos-punter | punter/booter | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lamakilla | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lightningaftershock | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| luxor | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| maddux | AOL/AIM client installer | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mafiafinal | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| meangreen | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| meltedice | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metallicaafterlife | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metallicafinal | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metallic-mortal | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nashs | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| net-iezrevised | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nirvana | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| no | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nonstopscroll | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oxygenbuild | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| phrozenphader | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pluss | AIM | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| poser | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pressurescrambler | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| professor | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| havoks | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| protozoa | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| reflectionpunter | punter/booter | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| riin | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| screwball | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| selectivegenocide | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| southparkbeta | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| staticx | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ster | AIM | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| sufferage | AIM | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| synapse | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tortureraizer | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| turpentinerevisited | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unsakredfinal | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unsakred | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| venom | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xpressionz | AIM | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| zer | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zonefire | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| almantha | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| antiboot | punter/booter | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| antidote | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| inker | unknown | 2 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| apcsecuritywizard | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| audiostyle | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blindidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| brutoc | runtime/support file | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddahlag | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bugshooting-setup | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cafe | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cc-e | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatage | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chrome | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| citrus | room buster | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| clonecd | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cmdopeninstall | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| coffee | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| conspericy | unknown | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cp | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackex | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackofdawn | hazardous/account or remote-control context | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackzilla | hazardous/account or remote-control context | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cryofade | room buster | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ct | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-win-ssl-devel | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-win-mingw | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| currports | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cutehtml | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cygintl | runtime/support file | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| decadelite | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| deception | punter/booter | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| derty | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| diganti | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| diskmark | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| diskview | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ebookreaderinstall | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eyecandy | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eyecandyupdate | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eyeofrah | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| f-flpy-x | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fastproxy | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fearx | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fiddler | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fiery | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| findutil | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fontlister | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frogbomb | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frst | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| g-p | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| getright | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| grabit-pro | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hax | hazardous/account or remote-control context | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iaa-enu | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| icqicqzap | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| icqinvinsible | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| icqwebaware | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ieeto | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| imagescroll | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| immc | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| imperialccoms | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| infinst-autol | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| invader | punter/booter | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ipgrabber | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jamesbond | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jdk-windows-x-bin | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jn | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| juvenile | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kixforms | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kokomos | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kronic | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kx | runtime/support file | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lamer | unknown | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lastdon | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| linkbeyond | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| littlemailpunt | punter/booter | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| logioptionsplus-installer-offline | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| logioptionsplus-installer | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lurker | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| macabrephoenix | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| madhazard | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| magic-final | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mastaidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| midget | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mocks | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| morphex | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mp-mpd | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msreader | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-e-p | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-assist | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-k | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-full | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-ccksetup | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-setup | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| neology | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| neonlight | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netbuspatch | hazardous/account or remote-control context | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| nh | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nolimit | room buster | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nrf-command-line-s-installer | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ns-setup-full | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nsb-install | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nsb | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| numberpwlists | hazardous/account or remote-control context | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| openssl-a-win-bin | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| outlawzidler | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| outrage | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pacl | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| paint-net-install | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| paranoia | unknown | 2 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| patrycidebeta | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcns-win-x | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pd-free | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pen-ridle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| percent | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pest | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| phishdatidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| picasa | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| procexp | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eechatfix | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| psy-kscroller | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| registerdns | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| regx | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| roomie | room buster | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scroller | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setpoint-x | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| solarmp | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| solarwindsbeta | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sourcemacro | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sp | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| spaz | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stealer | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| suicidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| swift-k | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| synctoysetuppackage-x | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| t-m | hazardous/account or remote-control context | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tclcurl | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| terranova | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| thedynastysetup | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| thermalidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| timeout | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| trail | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tweakui | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ultralinker | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| upall | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| updati | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| user | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| u | AIM | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-a | runtime/support file | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbftp | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-viclient-all | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vtechidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| warnrate | punter/booter | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wickeddestruction | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wima | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windowsdesktopsearch-kb-x-enu | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winzip-build | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winzip-sr | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wirecrack-source | hazardous/account or remote-control context | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wirecrack | hazardous/account or remote-control context | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wsftp | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wwbmp | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xeno | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xenu | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xm-wa | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xmousebuttoncontrolsetup | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| madcow | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| f-c-a-c-aebu-c-aen-c-a-c-ae | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| botbooter | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddylink | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| skinz | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| yrs | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| coolbutton | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| date | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| i | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| raspios-buster-armhf-lite | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kchatlink | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| anticrack | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| dfxapi | runtime/support file | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| dlabel | runtime/support file | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| dsmax | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kbuster | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| updt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shoelite | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| shoelitefinal | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| digitcombos | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| liteiiipro | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aawsepersonal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| abbot | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ac-st | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ac-filter-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ac-passwordcracker | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| accessenum | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| accesspv | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| acidfader | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| acidrein | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| aciniupd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| acl-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| acm | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| acregl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| acsr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| act-outlook-free-email | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| act-hotfixforword | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| act-sdk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| actcndy | runtime/support file | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| actdiag | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| actexplorer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| activeskin | runtime/support file | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| activexsdkcore | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adapterwatch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adberdr-en-us | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| addictionsfinal | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| addnotetolookup-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| addon-sdk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adiosamigos | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| admfiles-windows-sp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| admn-f | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adobe-update | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adobe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adoconnectionstring | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adsi-sdk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| adssecurity | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| advancedbeta | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| aenima-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| afw-trial | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ah-b | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ah-b-zip | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ai | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ai-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| invader-ispec | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| exploit-register | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| addictions | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| addictionse | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| aid | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aker | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| attak | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| battletank | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bomb | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| buddyicons | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| census | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| crak | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| creat | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| enhance | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fadersuite | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| forge | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| frysc | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| group | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| infectionii | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ip | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ipstealer | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| linker | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| mayka | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| noads | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| onfire | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| pw | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| pwlist-mill | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| pwmodify | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| rape-k | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| raterape | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| remixr | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ruler | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| scrollbeta | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| sniff | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| snm | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| spawn | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| studio | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| aipro | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| airdroid-desktop-client | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ajsmp-player | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| alarmclock | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| alert | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| alf | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| alienskin | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| allaccess | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| alpha-kbuster | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| alterimage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| am | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| amaya-windowsnt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| amazonclouddrivesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| amcmsgbox | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| americaonfireplatinum | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| amerikaencryptline | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| amimageresizer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ams-ii | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| amxidler | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| annoypunter | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| anomaly | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| answerdat | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| anti-filter | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| antifreeze | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| antilagbykid | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| antileech | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| antitheft | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ao | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| aoh-b | unknown | 1 | html-replay | 0 | none | unknown | unknown | unknown | unknown |
+| aokorn-b-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| s-archive | unknown | 1 | too-large | 0 | none | unknown | unknown | unknown | unknown |
+| german | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fix | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatbot | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ex | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| plus | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| sendchat | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| se | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ac | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| filedownloader | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| macros | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| sjeb-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| quickbuddy | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aonuke-palette | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aopeck | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aophader | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| aorem-te | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aoremote | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aotagged | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| apc-device-ip-configuration-wizard | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| apcproxynlm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| apocexe | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| apple | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| applicationsignaturebuilder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| arc | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| arcrack | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| arena | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| armagedd | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| armoredcrack | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| armoredupdate | room buster | 1 | html-replay | 0 | none | unknown | unknown | unknown | unknown |
+| asc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ashampoo-burning-studio-free | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| asintranet | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| aspnetuserpass | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| asteriskpasswordlogger | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| asterwin | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| atex | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| atexscroll | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| atlassian-crucible-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| atlassian-fisheye-x | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| atm-eng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| atomccoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| audio-encoder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| audiopackets | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| auroramacro | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| autodlexample | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| autoflow | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| autoit-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| autolog | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| autoreconnect | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| autorunmaker | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| autositebackup | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| away-k | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| awayfactor | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| b-it | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| baby | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| badmojo | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bait | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| balenaetcher-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| banner-exchange-v-b | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bannerad | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| banshee | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| basfiles | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| basic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bbl-idle | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bdas | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| beatbox | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bedtime | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bench | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| beycomp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| beyonddestiny | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bgfade | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bginfo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bhodemon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| biestly | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| binary | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| biobeast | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bitratecalc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bl | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| black-box | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blackrosebas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blackultra | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blazeidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blazeidler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bleem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blizacoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blizsvr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blizzard-by-tweek | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blkmgc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blue | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blue-cross | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blueicepxer | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bluemurder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bmr | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bnt-acc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bnt-i | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bofen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| boisccom | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bolt | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bomba | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bone | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bonebuster | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bonjourpssetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| boo-s-harrasser | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bookofguests | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| boot | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bootableusbflashwriter | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bootman | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bootshop | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| borg | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| botconfig | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| botformat | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bproom | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| brbas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| brbidler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| brokamac | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bru-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bru | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddahidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddahpwgen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddha | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddy | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddybegone | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| buddyblaster | mass mailer/server | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| buddymax | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddyrankmod | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| buddysorter | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| buddytell | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| build | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| bulletftp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bullshit | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| burnaware-free | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bustamove | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bustaroom | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bustaroomstellar | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bustazz | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| bustdatshit | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| butcher | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| butility | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| c-collector | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| c-public | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ca-cert-bundle-pem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cab-sdk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cab | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cacls | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| callattn | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| canvas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| capture | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cast | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cazipxp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cballet | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cck-d | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ccrpprg | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cdbxp-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cddae | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cdmage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cdmage-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cell | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| celluoid | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| celluoidbeta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cfade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cfc | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cfomg | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ch | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chamberbomb | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chaos | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chaosmp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chaoticmayhem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatamp | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatblock | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatclear | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatfix | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatlink | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatpro | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatprot | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatrush | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatsp | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chat-beta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chatwelcome | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chazt | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| checkras | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cheezy | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chex | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chickilla | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chip-kid | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chipid | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chkuser | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| choice | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chromecanarysetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chromesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chromestandalonesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chronicbas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chronicidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| chronik | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cinemablue | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cinemagreen | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cksum | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| claddvd-xp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| claddvdxp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cleancrash | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cleanflood | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| clearhaze | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cleartweaksetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cleartypetuner | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cleptobust | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| clientremote | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| clientremotefiles | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cloneridle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| clonetech | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| close | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cmdopen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cobain-st | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| code | unknown | 1 | empty-file | 0 | none | unknown | unknown | unknown | unknown |
+| codezap | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| coldlayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| collapsecrush | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cology-source | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| color-rocker-xp | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| colorcarnage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| colorfulsexfader | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| com-six-beta | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| comillusionb | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| commonpass | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| compaccoms | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| comportregistrysettings | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| confg | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| congetfile | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| conin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cookiemonster | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| coolfonts | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| coolghost | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| coolsendchat | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| copy-clipboard-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| core | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| coreapi | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| coret | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| corrupterrors | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cp-e | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cpu-z | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cpudeathping | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cpuss | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cr-xz-ne | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cracke | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackerhelp | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackerjack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackish | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackit | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cracknet | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cracks | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crapidleremix | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crappyscroller | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crazyhobo | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| createcd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| creep | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crimsons | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| critikism | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crlupd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cron | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crosstheborder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cruel | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cs | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cs-k-fp-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-withssh | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-ssl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-ssl-sspi-zlib-static-bin-w | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-rtmp-ssh-ssl-sspi-zlib-idn-static-bin-w | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| curl-rtmp-ssh-ssl-sspi-zlib-winidn-static-bin-w | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| currprocess | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| custom-away | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cyclonemm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cygwin | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| d-k | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dacracks | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dahoaxbas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| d-gold | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dak-palette-hqx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| daliworld-b-full | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dao | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darkagefader | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darkangelz | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darkice | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darkknight | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darknova | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darkshadow | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darkside-r | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| darkzoid | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| datastax-ddc-bin-tar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dbremix | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| dc-exploits | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dcom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dcsystray | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ddrk-web | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| deadair | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| deadmassim | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| deathby | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| deathcom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| decript | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| defptr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| degeneration-x-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dell-perc-i-integrated-a-r | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| delold | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| deltaforcebeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| delusional | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dem | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| demented | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| demolish | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| demonslash | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| desi | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| destinyfinal | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| destroyer | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| destructionfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dewez-s-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dfs-i | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dfs-win-client | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| diamond-macro-pre | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| digitaldynastyfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| digitalidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| digitalintake | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| digitalinteruption | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| digitek | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| diskdeviceview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dist-k | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ditto | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dive | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| divfix | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| divx-alpha | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dlmsw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dltech | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dlw-ds | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| docmem-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| docmem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dogbar | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| domaincs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dotcom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| downloadacceleratorpro | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dream | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dreamweaver | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| drivermanager-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| driverstoreexplorer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| driverview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| drkevorkian | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| droolz | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dry | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dsim | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dsk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dsofile | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ds | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dtouch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| du | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| duff | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dupekill | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| duplinator-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dvdcloner | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dvdshrink-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dvdstylerportable-paf | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dvplayer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dwf | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dwfviewersetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dwfwriter-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dwhois | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dwkdfade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| earth | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| easycracking | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| echobotsource | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ectasy | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ec-cracker | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| editor | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eelitetalker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| effex | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eggs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| electric | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| element | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| elite | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eliteprotection | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| elitespammer | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| elitespam | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| elitetalker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| elixant | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| emailw-subject | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| emissary-ie | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| emp-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| emp-beta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| employeeproductivityeducation | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| empyrie | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| emsisoftemergencykit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| enabler | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| endposs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| enigmaencrypt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| enpcgsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| enterim | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| envyfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| epe-zip | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| erunt-h | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| erunt-j | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| esefile | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eses | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| espidlez | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| espxplister | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| essysadmin-s-windows-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| etbox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eternalccoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eternity | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eventsentryadminassistant-windows-x-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| evil-snmaker | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| excollect | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| exebuilder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| exodusocx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| exorp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| explicit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| exploi-s | AIM | 1 | html-replay | 0 | none | unknown | unknown | unknown | unknown |
+| expressdownloaderandinstallerfordx-anddotnet | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| expressed | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| expressions | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| extremeelegance | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ez-gpo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ez-save-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ezaudio | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fademan | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fadercolorz | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fak | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fastmofo | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fatal-error-by-tasz-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fataldestiny | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fatalillusions | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fate-x-final-beta-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fatexyahoo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fazerx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fdread | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fiddlersetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fierce | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fileacl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| filedatechanger | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| filespy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| filever | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| filmon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| finalelement | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| finalpeace | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fir-z-chatscan | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| firecatasciishop | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| firstinline | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fixblast | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fixcred | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fixesbot | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fixgoner | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fixlove | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fixwelch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fixzotob | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fl-der-ppc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flashforge | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flashforge-b-d | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flaskmpeg | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flatbtn | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| floodassault | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fluxidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fly | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flyman | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flyw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| foldersreport | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fonts | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| formdragxp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| formtrick | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fourseasons | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fox | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fpfksetup-revnum-web-prod | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fpfksetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fr | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frames | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| frantic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| freespy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| freongold | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fresh | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| freshdiagnose | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| freshview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frootfliy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| froz-nh-ll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frozenhell | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frubal | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frui | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fsutil | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ftx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fuji | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| future | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fxnetsky | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fxsasser | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| g-e | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gapdebug-update-offline-installer-windows | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| garbage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gateway-img | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gather | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| gauge | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gayrebirth | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gdidet | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gdiobj | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gdiplus-dnld | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| generalcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| genozide | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| genpr | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| geocities | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| getopenclipboardwindow | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| getthat | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gettype | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| getvers | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| giantantispyware | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ginspar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| glitchx | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| glue | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| going-to-mexico | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googleadseditorsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googleappssyncsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googlecalendarsync | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googlechromeenterprisebundle | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googledrivefilestream | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googledrivefssetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googleearthwin-eard | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| googlevoiceandvideosetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| goozies | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gothicwithdll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gpautobackup-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gr-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| grainofkokane | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| groupless-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| grouplookup-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| groupmaker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gwapitoslapper | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| h-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| h-olink | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hackers | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hackzoid | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| halfbaked | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hardcorehell | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hardlinkshellext-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hardlinkshellext-win-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hardlinkshellext-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| head | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| heavymetal | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hellbooter | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hellflamez | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hellpunter | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hellpuntp | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hellsaudio | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hexen-bas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hf-k | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hfade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hh | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hiderfnl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hippo | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hit-chidler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hiwind | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hix | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| holyzccom | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| homer | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hook-beta | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hookbustbeta | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hookfinal | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hostname | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hot-fader | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hpcoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hpdriverconfigurationutility | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| htechfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| htmlhelpworkshop | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| htmlonly | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hty | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hurricanemp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hwf | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hydra | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| hypno | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| i-fusion-box | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| i-comp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iaa | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iata-f-floppy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ibeuppin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| icaweb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iccplatinum | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iconmaker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iconsext-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| icq-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| icyhot | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| idk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| idlefordrugs | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| idlerexbynegz | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| idlestuffz | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iecookieview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iehistoryview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ietimeout-se | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| imager | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| imagerotate | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| imap | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| imidling | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| imout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| impact | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| implosion | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| importtuner | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| improvise | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| imspam | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| indeo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| indifference | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| inetcpl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| inetload-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| inetmon-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| infinimm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| infinst-enu-last-support-for-chipsets | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| info-t-lzwithdll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| info-t-lzwithoutdll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| information | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| infosidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| installspeedfan | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| instinct | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| instructions | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| insync | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| internetlinks | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| intrepid | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| inuse | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| invaderispec | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| invaderupdate | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| invizolinker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iometer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ioware-w-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ipmiutil-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ipmiutil | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ipnetinfo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ipserve | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ipstealutilities | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ipswbeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| iptpx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| irotate | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| isipp-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| it-format | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| itankremix | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jabronix | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jackalbox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jackalsidler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jag | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jaruleplat | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| jcomz | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jd-k | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jdk-linux-x-bin-tar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jdk-u-windows-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jdk-u-linux-x-tar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jeeperscreeper | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jinxout | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jittertext | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jolt | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| journalviewer-kb-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jscan | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jtds-dist | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| judgeday | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| junction | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| jxpiinstall | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kajone | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kamehamehaidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kang | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kaos | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kaosforever | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kbang | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kdtbeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ke | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| keepbusy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kewlioshitfromeveryopalette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| keyfinder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| keygen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kill | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| killer | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kirby | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kire | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kiregood | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kitno | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kix-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kixformsdesigner-beta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kixhelp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kixscripts-editor-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| knoxidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| knucklesafter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| knuck-f | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| korn | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| krakerhelpa | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| krayola | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kreater-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kreater | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| krelixidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kungfoo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| kurupt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lagem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lagotron | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lagpandemic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lagz | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lamescroller | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| laststand | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lazyass | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ldmdump | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| leprecy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| less | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lethalempireanti | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lethalempirefader | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lghub-installer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| libicon | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| libintl | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lic-win-eng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| licensepackageauthoring | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| limp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| linkdatho | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| linkmagic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| linktechbeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| listdlls | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| listviewandboxdataexporter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lm | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lobbywhore | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| locationfindersetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lockoutresetter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| logicamerasettings | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| loginexample | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| logituneinstall | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| logonsessions | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| loserscan | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lost | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ltclonetron | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ltfviewr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ltk | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lvbuttons | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lviewp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lw | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mac-havok-gold-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| macaddresschanger | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| macformatter | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mach | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| macromechine | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| madcomz | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mafiafindwindow | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mafiafindwindowex | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mafiamm | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| magicboot | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| magicdisc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| magiciso | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| makescut | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| malfunction | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| malicioushate | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| matrixcracker | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mattsidler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| max | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mclcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mcspammer | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mdma | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| me-consumer-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mediasparks | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mediatech | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| meditating | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| memtest | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| messageman | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metabaseport | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metallica-v-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metamorphic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metapath | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metroididle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| metroididler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| microsoft-windows-journal-viewer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| microsoftcomponentinstallersdkforwindows | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| midgetpwl | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| millenniumfmm | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mimeview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| minixpee | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mirc-t | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mircadv | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mischiefbeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| misfit | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mixed | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mkwact-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mla-sql-lite | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mmd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mmedia | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mmxpsource | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mobb | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mobbot | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mobstarboot | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mobstar | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| modprof | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| monkefade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mortalityrt | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mothership | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mountainlayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mousebanner | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mouseover | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mouseoverlink | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mover | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mplayerx | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msagent | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msdownloadmanagerdelregkey | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msdownloadmanagerfornetscape | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msdxm | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msftedit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msg-direct | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msgbox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msicuu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msklc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msnchatsecfix | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msnscreensaversetup-nolongerrequiresmsnsearch-bar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msnscreensaversetup-requiresmsnsearch-bar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msstdfmt | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msvbvm-dll | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msvcp | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| msvcr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mtb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mtr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| multi-bot | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| multi | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| multicommander-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| multicommander-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| multilookup-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| murder | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mv | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mwadvanced-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mxt | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| myuninst | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| n-e-n | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nailmail | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| name | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| namealert | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| namemaker | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| napolean | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| napster | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nash | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| navb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| navsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nbench | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| neeks | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nemisis-b | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| neroinfo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netdom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netimage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netscapass | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netscape-navigator-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netscapeimsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| netuser | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| newbiemsbox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| newbx | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| newexe | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| newspro | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nginx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nigga | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nimdascn | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nimo-build | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nircmddll-samples | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nircmddll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nirext | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nitz | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nogi | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| noobcrash | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nosegoe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| notepad | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| noteslookups-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nrfconnectsetup-ia | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ns-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ns-ccksetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nsb-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nsis-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nssm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nsync | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ntfs-r | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ntfs-ro | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ntiogen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ntouch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ntsec | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ntsplit-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nvwls | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nwcctr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nyc | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nyte | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nytes-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| objectdbxoesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oc | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oda | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| officeins | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| officespy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oggds | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| om-mgmtstat-dell-web-win-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| om-srvadmin-dell-web-winx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oneclickinstaller | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ontop | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| openssl-b-win-bin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| openssl-g-win-bin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| openssl-c | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| openssl-e-win-bin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| opentrigger-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| operationzero | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| opticalphader | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| options-installer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oralsacrafice | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oreo-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| osirismp | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| osrbic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| osrscsi | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| osrscsi-vista-only-beta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| osw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| outlookconduitupdater | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| overxposure | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oxide | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oxsccoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oyabun | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| oyster | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| p-p | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| packagefortheweb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| palmdesktop-np-eng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| palmdesktop-eng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| palmdesktopwin-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| palmoutlook-updateeng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| paranoid | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| paraphernalia | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| passwordchange | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| passwords | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| pasteasy-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcanypass | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcceval | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcns-linux | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcns-netware | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcns-linux-tar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcns-win-servercore | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcpls | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcplus | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pcweb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pd-free-download | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pdffillininstaller | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| peid | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pendmoves | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| percnt | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pezcorefisher | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| phade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| phazerphade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| phblogource | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| phorgotten | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| phreakchat | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| phrosty | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pibet | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| picasa-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| picasaweb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| picsaver-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pictureitanddigitalimageviewtemp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pinglog | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pinwheel | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pixelformer-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pixplay | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pkreader | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| placesbarsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| planet-x-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| plink | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| plugingalaxy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pmanswering | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pmon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| poanti | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pogo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pooltag | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| popupbutton | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| popupyes-no | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| position | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| postman-win-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| po | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| poweriso | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| powermenusetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| powersource | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| prcview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pridelands | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| primus | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| processexplorer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| files | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| projektkrak | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| prozac | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ps | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| psa-se-us | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| psapi | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pscript | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| psp-ev | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| psshutdown | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pstrip-shareware | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| psychic | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ptfb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ptfbadmn | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pulsarpunt | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| punker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| punkmp | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| punyscreen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pwroff | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| pwssecup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| qb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| qbcdpro | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| qchain | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| qmodem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| queryexpress | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| quickbooks-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| quickchange | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| quicktour-np-eng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| quickvu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| quikphon | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| qvp-ev | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| qvtnet | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| raeophobic | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rainbow | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rapidhacker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| raspbeta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rasperm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ravage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rawviewersetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rbupdate | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rdpremoteenabler | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| realproducer-basic-windows-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| reboot | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| redsparks | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| regh | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| regit-olp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| regjump | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| regmon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| regscanner | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| remixbeta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| reportviewer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| resedit-sea | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| resurection | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| revealasteriskpasswordsinie | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| revfhrft | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| revokescroller | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| revolutionxccom | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rfi-lfi-xss-kit-v | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rgbcreator | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ri | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ridbanners | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| rightclick | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ritmancounter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| riven | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rmtshare | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rootsupd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rose | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rscloudfiles | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rte | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rtfifilter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rts | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| safarisetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| safety | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| salem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| samp | unknown | 1 | invalid-archive | 0 | none | unknown | unknown | unknown | unknown |
+| sav-allwin-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sav-mr-mp-allwin-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| savce-mp-allwin-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| savce-pp-allwin-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| savce-mp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| savpluginutil | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scan | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scanchat | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scanpunt | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scanthis | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scbysc-m | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scr-webregfix | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| screennamedeception | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scroll | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scrollmoreshit | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| scrplayer-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sctgold | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sdformatter-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| seamonkey-en-us-win-installer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| secrettext | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sendtosmugmug | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| servicemanager-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| serviwin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setacl-activex-binary | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setacl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setpass | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setpoint-smart | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setting | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setup-bullzippdfprinter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setup-file-print-fedex-kinkos | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setup-nl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setup-ph | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setup-skypeplus | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| setupclonecd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sevinst | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sfpcontrol | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shadowbot | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| shadowexplorer-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shares | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shexview-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shfolder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shithead | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shockp | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shorten | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| showkeyplus | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| showmbrs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| shutdown | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| siegebust | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| siks | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| silentbutterfly | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| silenterrorz | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| silverdeath | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| simpleidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| simplelayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sircrackbeta | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sirvb | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sky-c | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| skypelogview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| skypesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| skypesetupfull | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| slamfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sleekgray | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sleepysetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| slickrun | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| smacksource | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| smack-public | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| small | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| smaripper | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| smilehell | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| smileyboot | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| smileybot | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| smileyunit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| snakebite | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| snanimator | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sndeception | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| snexo | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| snow | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| snstudio | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| socers | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| solarwinds | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| solid-odbc-driver-w | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sorcerress | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sortx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| soulbeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sourcescroller | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sp-ce | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sp-imblocker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| spacelayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| spamzilla | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| spchapi | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| speedycrack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| speu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| spider | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| spybotsd | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sqlenterprisemanagerpasswordview | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sqliostress | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ss-dvbx | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ssa-d | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ssd-tar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ssspls | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stackql-linux-amd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stackql-windows-amd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| standard | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| startuprun | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stealthafk | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stereotype | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stinger | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stkit | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stonecolds | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| strtl-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| stupidcunt | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| subprorape | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| superfree | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| supersub | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| suswol | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| svg-viewer-extension-i-signed | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| svg-viewer-extension-x-signed | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| swflash | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| swish | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sybase-ct-lib-linux-elf-tar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| symdiag | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sysshrs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| systray | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tabctl | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| table | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tail | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| talconxer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tameclone | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tankbank | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| taskmanager | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| taskswitchxp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tbox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tclcurl-tar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tcmd-ax | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tcmdr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tcpview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tda-install-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| teamviewer-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tekronbeta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tentacles | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| textview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| that-was-andjusticepalette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| theend | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| theessence | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| thefolderspy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| theif | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| thrdmk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| three-final | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| throttlewatch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| thumper | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| thunder | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| timezone-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| timmya | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tlusetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tmpgenc-free | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tncidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| toc-sock | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tocsock | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| topgrd | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| topsitespro | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| totaldestruct | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| touchofdeath | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| toxicfreeze | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| toxicsource | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| toyboat | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tpdtank | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| transferhack | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| treesizefreesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| treesizefreesetupold | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| triggerreport-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tronix | mass mailer/server | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| truedesigns | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tsad | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ts-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tsunami-filter-pack-mini | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tweakuipowertoysetup-ia | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tzedit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ucf-nwcc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ugly-green | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| uiso-pe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ultraflood | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ultrapunt | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unetbootin-win | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| uniidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unlocker-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unlocker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unrestricted | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| untamed | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| untamedfade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| untamedflood | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| unzip | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| updati-prior | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| updatn | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| us | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| usrtogrp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| uvs-trialeng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-codes | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-codez | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-d | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-dll | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-ccecompiler | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-shield | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vb-sp-a | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vba-kb-x-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbarrayconvert | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbbible | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbcdedit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbcompact | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbdecomp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbforms | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbimex | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbrun-dll | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbrun-exe | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbsafecode | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vbwfind | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vc | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vdaddin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| virtualclonedrive | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| virtualdub | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| visasciisource | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| visdata | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vkbaspack | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vkeyinst | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vlc-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-converter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-converter-all | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-converter-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-guest-check | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-mount | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-player | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vmware-viclient | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vnc-e-x-x-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| volumouse-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| voter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vpc-sp-update | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vpremote | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vrd-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vrdsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vs-sp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vshadow | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vso-image-resizer-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| vsssdk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| w-k-usb-wiz | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| w-ex-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| w-deskmnu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| w-doshere | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| w-findx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| w-sendtox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| waidler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wap-singlemachineinstallation | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| war | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| warned | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| warnwar | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| warp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| warrior-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wasteland | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| watermenu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wavcode | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wbemdump | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wblind | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| web-wiz-rte-c | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| webalert | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| webbrowser | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| webby | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| webedge-winnt-demo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| webfldrs-kb-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| webskillz | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| websters | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| weedboot | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| welcome | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| whatsappsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wheelmovewnd-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| white-zombie-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| whiteout | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wid-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wildtank | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win-openssl-light-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win-openssl-light-g | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win-openssl-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win-xpasswordview | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winad | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| win-ty | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windatareflector-setup-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windirstat-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windirstatportable-rev-paf | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windjview-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windows-kb-enu-sasserremoval | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windows-kb-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windows-kb-ia-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windows-kb-x-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windowsdesktopsearch-kb-xp-x-enu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windowz | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| windv | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winexp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winhide | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winimage-extract | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wininstallle | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winlister | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winobj | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winontop | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winpins | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winpunt | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winrar-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winset | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winter | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| winx-hd-converter-deluxe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winxpvirtualcdcontrolpanel | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winzipgenbot | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winzipkey | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| winzipkeygen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wipeout | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wipeoutfree | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wllmedia | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wnsyscon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wog | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| woody | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| woot | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wp-sp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wps-netadmin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wrar-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wrath | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wshwicontrol | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wssfrontpage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wwwlink | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| wzcourier | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| x-lite-win-l | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xbustsource | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xcoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xem | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xfactorf | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xlhorizon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xmlexplorer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xobnisetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xpbuttons | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xpme | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xproombust | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xq-comregisterex | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xr-b-otp-ver | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xreplace | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xreplace-registered | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xrusbser-signed-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xvid | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| xyplorer-full | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| yahbru | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| yahoops-final | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| yahoosux | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| yahpro | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ycrack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ymsg | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| youvegotmail | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ypunter | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zeplin-installer-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zerocrush | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| zig | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zipinst | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zipnlm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zlib-bin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| zonk | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |

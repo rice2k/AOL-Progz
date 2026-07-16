@@ -28,11 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 7 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | non-VB |
 | Compile type | n/a |
 | Duplicate count | 2 |
@@ -77,6 +80,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 ### Archive Text Scan
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

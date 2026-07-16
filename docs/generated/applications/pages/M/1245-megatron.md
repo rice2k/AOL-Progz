@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 7, AOL 8 |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, AOL/AIM chat utility, Fader / text styler, Scroller / macro, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | about.txt<br>info.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | about.txt<br>info.ini | none | C-Com / command list<br>AOL/AIM chat utility<br>Fader / text styler<br>Scroller / macro<br>Media / file utility | AOL 7<br>AOL 8 | about.txt mentions AOL 7, AOL 8.<br>about.txt has vocabulary for C-Com / command list, AOL/AIM chat utility.<br>info.ini has vocabulary for Fader / text styler, Scroller / macro, Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

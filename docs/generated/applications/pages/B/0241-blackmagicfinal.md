@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 8, AOL 7 |
+| External ZIP text version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Account / TOS utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READTHIS.txt<br>aciddr0p.netReadMe.txt<br>passwords.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | non-VB |
 | Compile type | n/a |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | READTHIS.txt<br>aciddr0p.netReadMe.txt<br>passwords.txt | none | Account / TOS utility | AOL 8<br>AOL 7 | READTHIS.txt mentions AOL 8, AOL 7.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note.<br>passwords.txt has vocabulary for Account / TOS utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

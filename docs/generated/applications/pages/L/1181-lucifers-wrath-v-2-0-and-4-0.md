@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 3.0 |
 | Archive-text AOL/version mentions | AOL 3.0, AOL 4.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | progworld.html<br>Progworld.nfo<br>Read Me.txt<br>HackingWebPages.zip<br>_conflicts/conflict.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | unknown |
 | Duplicate count | 12 |
@@ -86,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | progworld.html<br>Progworld.nfo<br>Read Me.txt<br>HackingWebPages.zip<br>_conflicts/conflict.txt | none | All-in-one prog suite<br>AOL/AIM chat utility | AOL 3.0<br>AOL 4.0 | Progworld.nfo has vocabulary for All-in-one prog suite.<br>HackingWebPages.zip has vocabulary for AOL/AIM chat utility.<br>_conflicts/conflict.txt mentions AOL 3.0, AOL 4.0. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

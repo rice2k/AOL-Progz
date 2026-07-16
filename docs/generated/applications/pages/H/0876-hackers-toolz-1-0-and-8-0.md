@@ -28,11 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 7.0 |
 | Archive-text AOL/version mentions | AOL 7, AOL 8, AOL 8.0, AOL 6.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Source / developer file, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | ReadMe.txt | Jordan (ReadMe.txt) | All-in-one prog suite<br>Source / developer file<br>AOL/AIM chat utility | AOL 7<br>AOL 8<br>AOL 8.0<br>AOL 6.0 | ReadMe.txt includes archive-text author clue(s): Jordan.<br>ReadMe.txt mentions AOL 7, AOL 8, AOL 8.0, AOL 6.0.<br>ReadMe.txt has vocabulary for All-in-one prog suite, Source / developer file, AOL/AIM chat utility.<br>ReadMe.txt references API Spy by Oogle as supporting tooling; that is not treated as the program author by itself. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,11 +28,14 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Scroller / macro |
 | Category | scroller or macro |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Punter / booter |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | html punt code.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | html punt code.txt | none | Punter / booter | none | html punt code.txt has vocabulary for Punter / booter. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

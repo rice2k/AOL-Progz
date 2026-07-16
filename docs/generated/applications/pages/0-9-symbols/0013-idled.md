@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 5, AOL 6, AOL 4 |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot, Source / developer file, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | readme.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | readme.txt | none | Idler / AFK bot<br>Source / developer file<br>Media / file utility | AOL 5<br>AOL 6<br>AOL 4 | readme.txt mentions AOL 5, AOL 6, AOL 4.<br>readme.txt has vocabulary for Idler / AFK bot, Source / developer file, Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

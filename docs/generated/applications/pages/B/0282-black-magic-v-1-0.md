@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 7.0 |
 | Archive-text AOL/version mentions | AOL 7 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Idler / AFK bot, Punter / booter, C-Com / command list, Scroller / macro, Mass mailer / server, Account / TOS utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READTHIS.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | non-VB |
 | Compile type | n/a |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | READTHIS.txt | none | Fader / text styler<br>Idler / AFK bot<br>Punter / booter<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility<br>AOL/AIM chat utility | AOL 7 | READTHIS.txt mentions AOL 7.<br>READTHIS.txt has vocabulary for Fader / text styler, Idler / AFK bot, Punter / booter, C-Com / command list, Scroller / macro. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

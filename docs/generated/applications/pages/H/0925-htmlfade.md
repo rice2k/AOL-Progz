@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Linker / chat linker, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | readme.txt<br>READ NOW!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 4 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | readme.txt<br>READ NOW!.txt | none | All-in-one prog suite<br>Linker / chat linker<br>AOL/AIM chat utility | none | readme.txt has vocabulary for All-in-one prog suite.<br>READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

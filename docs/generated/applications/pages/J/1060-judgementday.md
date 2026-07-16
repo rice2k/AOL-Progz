@@ -28,11 +28,14 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4-5 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | ReadMe.txt | none | Source / developer file<br>Media / file utility | none | ReadMe.txt has vocabulary for Source / developer file, Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

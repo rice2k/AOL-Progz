@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 3, AOL 4, AOL 4.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Punter / booter |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Punter / booter, Source / developer file, Account / TOS utility, Screen-name utility, Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | INSTALL.LOG<br>CUBE.TXT<br>CUBE.BAS |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 3 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | INSTALL.LOG<br>CUBE.TXT<br>CUBE.BAS | none | Punter / booter<br>Source / developer file<br>Account / TOS utility<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | AOL 3<br>AOL 4<br>AOL 4.0 | INSTALL.LOG has vocabulary for Punter / booter, Source / developer file.<br>CUBE.TXT has vocabulary for Punter / booter.<br>CUBE.BAS mentions AOL 3, AOL 4, AOL 4.0.<br>CUBE.BAS has vocabulary for Account / TOS utility, Screen-name utility, Source / developer file, Media / file utility, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

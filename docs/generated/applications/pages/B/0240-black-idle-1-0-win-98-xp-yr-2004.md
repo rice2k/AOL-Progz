@@ -28,11 +28,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 8-9 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -76,6 +79,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 ### Archive Text Scan
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 25, AOL 30, AOL 4.0, AOL 2.5 |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Mass mailer / server, Account / TOS utility, Screen-name utility, Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | info.txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | info.txt<br>aciddr0p.netReadMe.txt | none | All-in-one prog suite<br>Mass mailer / server<br>Account / TOS utility<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | AOL 25<br>AOL 30<br>AOL 4.0<br>AOL 2.5 | info.txt mentions AOL 25, AOL 30, AOL 4.0, AOL 2.5.<br>info.txt has vocabulary for All-in-one prog suite, Mass mailer / server, Account / TOS utility, Screen-name utility, Media / file utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

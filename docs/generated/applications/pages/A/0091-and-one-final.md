@@ -28,11 +28,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 4 |
@@ -82,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | aciddr0p.netReadMe.txt | none | none | none | aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -99,7 +106,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| c-coms | andone.zip | [http://lenshellarchive.com/Progs/aolccoms/andone.zip](http://lenshellarchive.com/Progs/aolccoms/andone.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/andone.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/andone.zip) | unknown | candidate |
+| Web page: c-coms | andone.zip | [http://lenshellarchive.com/Progs/aolccoms/andone.zip](http://lenshellarchive.com/Progs/aolccoms/andone.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/andone.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/andone.zip) | [files/external/lenshellarchive-com/andone-3a0e43d6.zip](../../../../../files/external/lenshellarchive-com/andone-3a0e43d6.zip) | ready |
 | Progs Section 1 | andone.zip | [http://www.cybernyse.com/andone.zip](http://www.cybernyse.com/andone.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/andone.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/andone.zip) | unknown | candidate |
 
 ### Web Image Leads

@@ -28,11 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 6.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility, Source / developer file, Media / file utility, All-in-one prog suite, Account / TOS utility, Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt<br>Progzhell Toolz Version Blog/Download_Source.txt<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt<br>Progzhell Toolz Version Blog/TipOfDay.txt<br>Progzhell Toolz Version Blog/Whats_New.txt<br>Progzhell Toolz Version Blog/Whats_Next.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt<br>Progzhell Toolz Version Blog/Download_Source.txt<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt<br>Progzhell Toolz Version Blog/TipOfDay.txt<br>Progzhell Toolz Version Blog/Whats_New.txt<br>Progzhell Toolz Version Blog/Whats_Next.txt | none | AOL/AIM chat utility<br>Source / developer file<br>Media / file utility<br>All-in-one prog suite<br>Account / TOS utility<br>Scroller / macro | none | Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt has vocabulary for AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/Download_Source.txt has vocabulary for Source / developer file, Media / file utility.<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/TipOfDay.txt has vocabulary for All-in-one prog suite, Account / TOS utility, Media / file utility, AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/Whats_New.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.<br>Progzhell Toolz Version Blog/Whats_Next.txt has vocabulary for AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 7.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Source / developer file |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Fader / text styler, Scroller / macro, Account / TOS utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | itank/greets.txt<br>itank/read me.txt<br>itank/Settings.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | itank/greets.txt<br>itank/read me.txt<br>itank/Settings.ini | Chris + Logik (itank/read me.txt) | Source / developer file<br>Fader / text styler<br>Scroller / macro<br>Account / TOS utility | AOL 7.0 | itank/read me.txt includes archive-text author clue(s): Chris + Logik.<br>itank/read me.txt has vocabulary for Source / developer file.<br>itank/Settings.ini mentions AOL 7.0.<br>itank/Settings.ini has vocabulary for Fader / text styler, Scroller / macro, Account / TOS utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

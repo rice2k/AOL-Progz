@@ -28,11 +28,14 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 7.0, AOL 9.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Readme.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Readme.txt | none | Fader / text styler | AOL 7.0<br>AOL 9.0 | Readme.txt mentions AOL 7.0, AOL 9.0.<br>Readme.txt has vocabulary for Fader / text styler. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

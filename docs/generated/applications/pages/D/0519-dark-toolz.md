@@ -28,18 +28,21 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 5 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
-| Matched web download links | 3 |
+| Matched web download links | 4 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0519-dark-toolz.zip](../../../../../files/aol/aol-4-0/0519-dark-toolz.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dark toolz for aol 5.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dark%20toolz%20for%20aol%205.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dark%20toolz%20for%20aol%205.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dark%20toolz%20for%20aol%205.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dark%20toolz%20for%20aol%205.zip)
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Read Me.txt | none | Media / file utility | none | Read Me.txt has vocabulary for Media / file utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -98,6 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | c-coms | dark toolz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip](http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip) |
 | Progs Section 1 | Dark Toolz | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/darktoolz.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/darktoolz.zip) | [http://www.cybernyse.com/darktoolz.zip](http://www.cybernyse.com/darktoolz.zip) |
 | AIM | Dark Toolz v 1.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip) | [http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip](http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Dark Toolz v 1.0 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdarktoolzv1.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdarktoolzv1.zip) | [http://24.185.191.87/progz/aimdarktoolzv1.zip](http://24.185.191.87/progz/aimdarktoolzv1.zip) |
 
 ### Mirror Leads
 

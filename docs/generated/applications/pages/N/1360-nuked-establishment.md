@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Media / file utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | p-code |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
-| Matched web download links | 3 |
+| Matched web download links | 4 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1360-nuked-establishment.zip](../../../../../files/aol/aol-4-0/1360-nuked-establishment.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/nuked.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/nuked.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/nuked.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/nuked.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/nuked.zip)
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | Read Me.txt | none | Media / file utility<br>AOL/AIM chat utility | none | Read Me.txt has vocabulary for Media / file utility, AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -94,6 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/nuked.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/nuked.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/nuked.zip) | [http://www.oogle.net/downloads/progs/nuked.zip](http://www.oogle.net/downloads/progs/nuked.zip) |
 | prog's/misc n-z | nuked establishment | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nuked.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nuked.zip) | [http://lenshellarchive.com/Progs/aolprogs/nuked.zip](http://lenshellarchive.com/Progs/aolprogs/nuked.zip) |
 | Section 2 | Nuked Establishment | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/nuked.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/nuked.zip) | [http://www.cybernyse.com/downlowdz/nuked.zip](http://www.cybernyse.com/downlowdz/nuked.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Nuked Establishment | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/nuked.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/nuked.zip) | [http://24.185.191.87/progz/nuked.zip](http://24.185.191.87/progz/nuked.zip) |
 
 ### Mirror Leads
 

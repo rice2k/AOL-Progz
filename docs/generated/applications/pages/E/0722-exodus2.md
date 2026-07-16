@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 2.5, AOL 3.0, AOL 95, AOL 30 |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Idler / AFK bot, Room buster, Punter / booter, Scroller / macro, Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Exodus Read First.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Exodus Read First.txt | none | All-in-one prog suite<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>Scroller / macro<br>Media / file utility<br>AOL/AIM chat utility | AOL 2.5<br>AOL 3.0<br>AOL 95<br>AOL 30 | Exodus Read First.txt mentions AOL 2.5, AOL 3.0, AOL 95, AOL 30.<br>Exodus Read First.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Room buster, Punter / booter, Scroller / macro. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

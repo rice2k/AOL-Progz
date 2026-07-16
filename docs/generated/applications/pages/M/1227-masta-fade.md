@@ -28,18 +28,21 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 758 KB |
-| Matched web download links | 2 |
+| Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1227-masta-fade.zip](../../../../../files/aol/aol-4-0/1227-masta-fade.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mastafade.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mastafade.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mastafade.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mastafade.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/mastafade.zip)
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | read me.txt | none | Fader / text styler<br>AOL/AIM chat utility | none | read me.txt has vocabulary for Fader / text styler, AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -92,6 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Section 2 | masta fade | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mastafade.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/mastafade.zip) | [http://www.cybernyse.com/downlowdz/mastafade.zip](http://www.cybernyse.com/downlowdz/mastafade.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | masta fade | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mastafade.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/mastafade.zip) | [http://24.185.191.87/progz/mastafade.zip](http://24.185.191.87/progz/mastafade.zip) |
 | LensHell faders | masta inc. fader | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/mastafade.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/mastafade.zip) | [http://lenshellarchive.com/Progs/aolfaders/mastafade.zip](http://lenshellarchive.com/Progs/aolfaders/mastafade.zip) |
 
 ### Mirror Leads

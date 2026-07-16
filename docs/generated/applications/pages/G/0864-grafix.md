@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4 |
+| External ZIP text version mentions | unknown |
 | Prog type | Punter / booter |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Punter / booter, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me.txt<br>IMPORTANT!!!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | read me.txt<br>IMPORTANT!!!.txt | none | Punter / booter<br>Media / file utility | AOL 4 | read me.txt mentions AOL 4.<br>read me.txt has vocabulary for Punter / booter, Media / file utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -474,6 +474,7 @@ async function main() {
   const programs = catalog.programs || [];
   const webResources = readJson("data/web-resources.json", { pages: [], links: [] });
   const externalDownloads = readJson("data/external-downloads.json", { downloads: [], mirrorGroups: [] });
+  const externalArchiveText = readJson("data/external-archive-text.json", { byLocalPath: {} });
   const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
   const archiveTextMetadata = readJson("data/archive-text-metadata.json", { perProgram: {} });
   const inferredById = new Map(programs.map((program) => [program.id, inferFromFilename(program)]));
@@ -507,6 +508,7 @@ async function main() {
       webDownloadLinks: [],
       webImageLinks: [],
       mirrorLinks: [],
+      externalArchiveTextEvidence: [],
     };
   }
 
@@ -621,8 +623,9 @@ async function main() {
   for (const item of externalDownloads.downloads || []) {
     const match = matchProgram(item.name, item.originalUrl, item.waybackUrl);
     if (!match) continue;
+    const record = perProgram[match.program.id];
     addLimited(
-      perProgram[match.program.id].mirrorLinks,
+      record.mirrorLinks,
       {
         sourceName: item.sourceList || "external URL list",
         label: item.name || basenameFromUrl(item.originalUrl),
@@ -635,6 +638,30 @@ async function main() {
       (mirror) => mirror.originalUrl || mirror.waybackUrl,
       24,
     );
+    const evidence = item.localPath ? externalArchiveText.byLocalPath?.[item.localPath] : null;
+    if (evidence?.scanned && evidence.textFileCount > 0) {
+      addLimited(
+        record.externalArchiveTextEvidence,
+        {
+          sourceName: item.sourceList || "external URL list",
+          label: item.name || basenameFromUrl(item.originalUrl),
+          localPath: item.localPath || "",
+          originalUrl: item.originalUrl || "",
+          waybackUrl: item.waybackUrl || "",
+          textFileCount: evidence.textFileCount || 0,
+          textFiles: evidence.textFiles || [],
+          preferredAuthor: evidence.preferredAuthor || "",
+          authorCandidates: evidence.authorCandidates || [],
+          purposeSignals: evidence.purposeSignals || [],
+          versionMentions: evidence.versionMentions || [],
+          descriptionCandidates: evidence.descriptionCandidates || [],
+          urls: evidence.urls || [],
+          matchedBy: match.matchedBy,
+        },
+        (archiveEvidence) => archiveEvidence.localPath || archiveEvidence.originalUrl,
+        8,
+      );
+    }
   }
   for (const candidate of missingCandidates.candidates || []) {
     const match = matchProgram(candidate.fileName || candidate.key, ...(candidate.mirrors || []).map((mirror) => mirror.url || mirror.waybackUrl));
@@ -682,6 +709,7 @@ async function main() {
     programsWithWebDownloadLinks: records.filter((item) => item.webDownloadLinks.length).length,
     programsWithWebImageLinks: records.filter((item) => item.webImageLinks.length).length,
     programsWithMirrorLinks: records.filter((item) => item.mirrorLinks.length).length,
+    programsWithExternalArchiveTextEvidence: records.filter((item) => item.externalArchiveTextEvidence.length).length,
     fetchedDetails,
     perProgram,
   };

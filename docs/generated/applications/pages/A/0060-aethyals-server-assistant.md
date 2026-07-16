@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 8.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Mass mailer / server |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Room buster, Mass mailer / server, Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Aethyal's Server Assistant/ReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Aethyal's Server Assistant/ReadMe.txt | none | All-in-one prog suite<br>Room buster<br>Mass mailer / server<br>Media / file utility<br>AOL/AIM chat utility | AOL 8.0 | Aethyal's Server Assistant/ReadMe.txt mentions AOL 8.0.<br>Aethyal's Server Assistant/ReadMe.txt has vocabulary for All-in-one prog suite, Room buster, Mass mailer / server, Media / file utility, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,11 +28,14 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4 |
+| External ZIP text version mentions | unknown |
 | Prog type | Mass mailer / server |
 | Category | mass mailer |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot, Mass mailer / server, Screen-name utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Read Me!.txt | none | Idler / AFK bot<br>Mass mailer / server<br>Screen-name utility<br>AOL/AIM chat utility | AOL 4 | Read Me!.txt mentions AOL 4.<br>Read Me!.txt has vocabulary for Idler / AFK bot, Mass mailer / server, Screen-name utility, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

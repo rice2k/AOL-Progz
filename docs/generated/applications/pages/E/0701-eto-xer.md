@@ -28,11 +28,14 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ETO x'r/READ ME .txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | ETO x'r/READ ME .txt | none | C-Com / command list | none | ETO x'r/READ ME .txt has vocabulary for C-Com / command list. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

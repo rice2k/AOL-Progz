@@ -28,11 +28,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 7-9 |
 | Archive-text AOL/version mentions | AOL 7.0, AOL 9.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Chat / IM utility |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | chat room manager/READ ME!!!.txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | chat room manager/READ ME!!!.txt<br>aciddr0p.netReadMe.txt | none | Source / developer file<br>AOL/AIM chat utility | AOL 7.0<br>AOL 9.0 | chat room manager/READ ME!!!.txt mentions AOL 7.0, AOL 9.0.<br>chat room manager/READ ME!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

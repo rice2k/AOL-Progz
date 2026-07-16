@@ -2,7 +2,7 @@
 
 Catalog label: **break**.
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Fader / text styler, C-Com / command list, Mass mailer / server, Account / TOS utility, Media / file utility, Punter / booter.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,30 +28,33 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | Fader / text styler, C-Com / command list, Mass mailer / server, Account / TOS utility, Media / file utility, Punter / booter |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 2 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 3 |
+| Matched web download links | 4 |
 | Matched mirror leads | 24 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0297-break.zip](../../../../../files/aol/aol-4-0/0297-break.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Matched mirror leads: 24 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter break for aol 4.0 and 5.0 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip)
@@ -78,6 +81,15 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ProgzRescue FortuneCity Skyscraper files | [files/external/fortunecity-com/netbus7.zip](../../../../../files/external/fortunecity-com/netbus7.zip) | NetBus.rtf | none | none | Fader / text styler<br>C-Com / command list<br>Mass mailer / server<br>Account / TOS utility<br>Media / file utility | \par }{\b\fs24\ul Description}{\b\fs24<br>\par }{\b\fs24\ul Features}{\fs24<br>Upload any file from you to the target computer. With this feature it will be possible to remotely update Patch with a new version. | unknown |
+| ProgzRescue FortuneCity Skyscraper files | [files/external/fortunecity-com/netbuster1-31.zip](../../../../../files/external/fortunecity-com/netbuster1-31.zip) | readme.txt | none | none | Punter / booter<br>Mass mailer / server<br>Media / file utility | improved in this version. It should now remove all NetBus servers.<br>The latest version of netbuster can be found at http://surf.to/netbuster | [http://surf.to/netbuster](http://surf.to/netbuster) |
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -90,6 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | prog's/misc n-z | spring break | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip) | [http://lenshellarchive.com/Progs/aolprogs/sb.zip](http://lenshellarchive.com/Progs/aolprogs/sb.zip) |
 | Section 2 | Spring Break | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip) | [http://www.cybernyse.com/downlowdz/sb.zip](http://www.cybernyse.com/downlowdz/sb.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Spring Break | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sb.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sb.zip) | [http://24.185.191.87/progz/sb.zip](http://24.185.191.87/progz/sb.zip) |
 | c-coms | winter break | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip) | [http://lenshellarchive.com/Progs/aolccoms/break.zip](http://lenshellarchive.com/Progs/aolccoms/break.zip) |
 
 ### Mirror Leads

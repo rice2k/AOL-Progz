@@ -2,7 +2,7 @@
 
 
 
-A text effect utility, usually for color fades, styled text, profile text, room text, or IM formatting. Filename/catalog cues suggest: text fading.
+A text effect utility, usually for color fades, styled text, profile text, room text, or IM formatting. Filename/catalog cues suggest: text fading. Recovered external ZIP text also suggests: Fader / text styler.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,11 +28,14 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | Fader / text styler |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -46,7 +49,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
 
 ## Source And Files
 
@@ -77,6 +80,14 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 ### Archive Text Scan
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
+
+### Matched External ZIP Text Evidence
+
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/g-fade.zip](../../../../../files/external/angelfire-com/g-fade.zip) | G fade/viscolor.txt<br>G fade/pledit.txt | none | none | Fader / text styler | unknown | unknown |
 
 ### Source Mentions
 

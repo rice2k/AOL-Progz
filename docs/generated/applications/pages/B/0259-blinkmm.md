@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 790 KB |
-| Matched web download links | 1 |
+| Matched web download links | 2 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0259-blinkmm.zip](../../../../../files/aol/aol-4-0/0259-blinkmm.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/blink.zip)
@@ -82,6 +85,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -93,6 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | mmer's/server's | blink mm'er | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip) | [http://lenshellarchive.com/Progs/aolmmservers/blink.zip](http://lenshellarchive.com/Progs/aolmmservers/blink.zip) |
+| Macintosh | Blink v 1.0 | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/bLiNkv1.0.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/bLiNkv1.0.hqx) | [http://www.cybernyse.com/bLiNkv1.0.hqx](http://www.cybernyse.com/bLiNkv1.0.hqx) |
 
 ### Mirror Leads
 

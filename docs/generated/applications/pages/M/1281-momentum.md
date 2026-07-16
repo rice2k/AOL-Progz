@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Idler / AFK bot, Scroller / macro, Linker / chat linker, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | CREDITS.TXT<br>README.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | CREDITS.TXT<br>README.txt | none | All-in-one prog suite<br>Idler / AFK bot<br>Scroller / macro<br>Linker / chat linker<br>AOL/AIM chat utility | none | CREDITS.TXT has vocabulary for All-in-one prog suite, Idler / AFK bot.<br>README.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Scroller / macro, Linker / chat linker, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

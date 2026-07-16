@@ -37,6 +37,7 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | #aol-2-5 | 33 | [open](aol-2-5.md) |
 | #punter | 27 | [open](punter.md) |
 | #aim | 20 | [open](aim.md) |
+| #has-external-zip-text-evidence | 20 | [open](has-external-zip-text-evidence.md) |
 | #mass-mailer | 19 | [open](mass-mailer.md) |
 | #aol-7-0 | 16 | [open](aol-7-0.md) |
 | #has-archive-text-author | 15 | [open](has-archive-text-author.md) |

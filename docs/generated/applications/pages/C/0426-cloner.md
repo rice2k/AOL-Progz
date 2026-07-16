@@ -28,19 +28,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 738 KB |
-| Matched web download links | 1 |
-| Matched mirror leads | 2 |
+| Matched web download links | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0426-cloner.zip](../../../../../files/aol/aol-4-0/0426-cloner.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip)
@@ -82,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | aciddr0p.netReadMe.txt | none | none | none | aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -93,6 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | 2 | aimcloner.exe | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe) | [http://aimfilez.com/files/aimcloner.exe](http://aimfilez.com/files/aimcloner.exe) |
+| Multimedia/ | dvdcloner.exe | [http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe](http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe) | [http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe](http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe) |
 
 ### Mirror Leads
 
@@ -100,6 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: 2 | aimcloner.exe | [http://aimfilez.com/files/aimcloner.exe](http://aimfilez.com/files/aimcloner.exe) | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe) | [files/external/aimfilez-com/aimcloner-a85bcf2a.exe](../../../../../files/external/aimfilez-com/aimcloner-a85bcf2a.exe) | ready |
 | idler's | cloneridle.zip | [http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip](http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip) | unknown | candidate |
+| Multimedia/ | dvdcloner.exe | [http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe](http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe) | [http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe](http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe) | unknown | candidate |
 
 ### Web Image Leads
 

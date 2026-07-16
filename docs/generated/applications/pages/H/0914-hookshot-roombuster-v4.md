@@ -28,11 +28,14 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Room buster |
 | Category | room buster |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Media / file utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | README!!.txt<br>OCX PROBLEMS-READ.txt<br>OCXReg.txt<br>file_id.diz<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 4 |
@@ -85,6 +88,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | README!!.txt<br>OCX PROBLEMS-READ.txt<br>OCXReg.txt<br>file_id.diz<br>aciddr0p.netReadMe.txt | none | Source / developer file<br>Media / file utility | none | OCX PROBLEMS-READ.txt has vocabulary for Source / developer file.<br>OCXReg.txt has vocabulary for Source / developer file, Media / file utility.<br>file_id.diz has vocabulary for Source / developer file.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

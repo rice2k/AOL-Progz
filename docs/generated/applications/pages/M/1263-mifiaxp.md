@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 8.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Punter / booter |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Punter / booter, C-Com / command list, Source / developer file, AOL/AIM chat utility, Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ ME!.txt<br>mafiaXP.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | READ ME!.txt<br>mafiaXP.ini | none | Punter / booter<br>C-Com / command list<br>Source / developer file<br>AOL/AIM chat utility<br>Scroller / macro | AOL 8.0 | READ ME!.txt mentions AOL 8.0.<br>READ ME!.txt has vocabulary for Punter / booter, C-Com / command list, Source / developer file, AOL/AIM chat utility.<br>mafiaXP.ini has vocabulary for Scroller / macro. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

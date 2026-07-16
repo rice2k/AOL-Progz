@@ -28,19 +28,22 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 5 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Punter / booter |
 | Category | punter |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,7 +54,8 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0757-fatal2000.zip](../../../../../files/aol/aol-4-0/0757-fatal2000.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal error 2000-chat punter for aol 5 yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip)
@@ -77,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -87,12 +95,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| Macintosh | Fatal Error | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) | [http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) |
 | punter's | fatal error 2000-chat punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) | [http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) |
 | Yahoo Progs | fatal fuckup y!9 | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Macintosh | fatal%20error%20by%20tasz%20Palette.hqx | [http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) | unknown | candidate |
 
 ### Web Image Leads
 

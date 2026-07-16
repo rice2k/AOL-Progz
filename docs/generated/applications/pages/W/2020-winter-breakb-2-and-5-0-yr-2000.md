@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 4.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 4 |
+| Matched web download links | 5 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/2020-wb2.zip](../../../../../files/aol/aol-4-0/2020-wb2.zip)
-- Old-web / Wayback download leads: 4 link(s) listed below
+- Old-web / Wayback download leads: 5 link(s) listed below
 - Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter break%b2 for aol 4.0 and 5.0 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%25b2%20for%20aol%204.0%20and%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%25b2%20for%20aol%204.0%20and%205.0%20yr2000.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -92,6 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Click-Online AOL 4/5 progz | winter break² | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/wb2.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/wb2.zip) | [http://click-online2000.com/progz/wb2.zip](http://click-online2000.com/progz/wb2.zip) |
 | c-coms | winter break² | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/wb2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/wb2.zip) | [http://lenshellarchive.com/Progs/aolccoms/wb2.zip](http://lenshellarchive.com/Progs/aolccoms/wb2.zip) |
 | Section 2 | Winter Break² | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wb2.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wb2.zip) | [http://www.cybernyse.com/downlowdz/wb2.zip](http://www.cybernyse.com/downlowdz/wb2.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Winter Break² | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wb2.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wb2.zip) | [http://24.185.191.87/progz/wb2.zip](http://24.185.191.87/progz/wb2.zip) |
 
 ### Mirror Leads
 

@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Scroller / macro |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro, Mass mailer / server, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me.txt<br>read_this.txt<br>aciddr0p.netReadMe.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 3 |
@@ -84,6 +87,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | read me.txt<br>read_this.txt<br>aciddr0p.netReadMe.txt | qb and dank (read me.txt) | Scroller / macro<br>Mass mailer / server<br>AOL/AIM chat utility | none | read me.txt includes archive-text author clue(s): qb and dank.<br>read_this.txt has vocabulary for Scroller / macro, Mass mailer / server, AOL/AIM chat utility.<br>read_this.txt includes a mirror/download-source note.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

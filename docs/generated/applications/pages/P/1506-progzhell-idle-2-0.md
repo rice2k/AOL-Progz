@@ -28,11 +28,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility, Idler / AFK bot, C-Com / command list |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Disclaimer Important Read Before Useing Prog.txt<br>Whats New.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Disclaimer Important Read Before Useing Prog.txt<br>Whats New.txt | none | AOL/AIM chat utility<br>Idler / AFK bot<br>C-Com / command list | none | Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility.<br>Whats New.txt has vocabulary for Idler / AFK bot, C-Com / command list, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

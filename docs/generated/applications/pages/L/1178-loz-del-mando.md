@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 8.0, AOL 9.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Scroller / macro |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | !!!!!!ReaD Me!!!!!!!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | !!!!!!ReaD Me!!!!!!!.txt | none | Scroller / macro | AOL 8.0<br>AOL 9.0 | !!!!!!ReaD Me!!!!!!!.txt mentions AOL 8.0, AOL 9.0.<br>!!!!!!ReaD Me!!!!!!!.txt has vocabulary for Scroller / macro. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

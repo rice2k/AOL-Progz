@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Scroller / macro |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | paquin.ini |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB5 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 4.9 MB |
-| Matched web download links | 2 |
+| Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1401-paquin-coms-by-almo.zip](../../../../../files/aol/aol-4-0/1401-paquin-coms-by-almo.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/paquin.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/paquin.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/paquin.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/paquin.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/paquin.zip)
@@ -81,6 +84,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | paquin.ini | none | Scroller / macro | none | paquin.ini has vocabulary for Scroller / macro. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -93,6 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | c-coms | paquin coms | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/paquin.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/paquin.zip) | [http://lenshellarchive.com/Progs/aolccoms/paquin.zip](http://lenshellarchive.com/Progs/aolccoms/paquin.zip) |
 | Section 2 | Paquin Coms | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/paquin.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/paquin.zip) | [http://www.cybernyse.com/downlowdz/paquin.zip](http://www.cybernyse.com/downlowdz/paquin.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Paquin Coms | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/paquin.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/paquin.zip) | [http://24.185.191.87/progz/paquin.zip](http://24.185.191.87/progz/paquin.zip) |
 
 ### Mirror Leads
 

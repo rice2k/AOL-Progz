@@ -28,11 +28,14 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | argon termer password=85203/Liquidinfo.txt<br>Liquidinfo.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB4-16 |
 | Compile type | p-code |
 | Duplicate count | 3 |
@@ -40,7 +43,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Download status | ready |
 | Local mirrored size | 3.3 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,6 +55,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 - Local mirrored archive: [files/aol/aol-4-0/0155-argon.zip](../../../../../files/aol/aol-4-0/0155-argon.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/argon termer password=85203.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/argon%20termer%20password%3D85203.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/argon%20termer%20password%3D85203.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/argon%20termer%20password%3D85203.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/argon%20termer%20password%3D85203.zip)
@@ -85,6 +89,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | argon termer password=85203/Liquidinfo.txt<br>Liquidinfo.txt | none | AOL/AIM chat utility | none | argon termer password=85203/Liquidinfo.txt has vocabulary for AOL/AIM chat utility.<br>Liquidinfo.txt has vocabulary for AOL/AIM chat utility. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -99,7 +107,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: termer's | argon.zip | [http://lenshellarchive.com/Progs/aoltermers/argon.zip](http://lenshellarchive.com/Progs/aoltermers/argon.zip) | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/argon.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/argon.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

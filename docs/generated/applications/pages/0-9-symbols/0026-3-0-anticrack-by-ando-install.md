@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | AOL 5 |
 | Archive-text AOL/version mentions | AOL 5.0, AOL 8.0, AOL 9.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Account / TOS utility |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Account / TOS utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me Newbie.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | non-VB |
 | Compile type | n/a |
 | Duplicate count | 3 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | Read Me Newbie.txt | none | Account / TOS utility<br>AOL/AIM chat utility | AOL 5.0<br>AOL 8.0<br>AOL 9.0 | Read Me Newbie.txt mentions AOL 5.0, AOL 8.0, AOL 9.0.<br>Read Me Newbie.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

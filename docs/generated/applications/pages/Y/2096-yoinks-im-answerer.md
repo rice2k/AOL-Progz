@@ -2,7 +2,7 @@
 
 
 
-A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only.
+A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Recovered external ZIP text also suggests: All-in-one prog suite, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,11 +28,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Chat / IM utility |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | All-in-one prog suite, AOL/AIM chat utility |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -46,7 +49,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -77,6 +80,14 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 ### Archive Text Scan
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
+
+### Matched External ZIP Text Evidence
+
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/yoink.zip](../../../../../files/external/angelfire-com/yoink.zip) | tfc/maps/yoink.txt<br>tfc/maps/yoinkreadme.txt | the room above and will suck anyone in the area in | none | All-in-one prog suite<br>AOL/AIM chat utility | Description: Pure chaos. This is a 2 team map where you get the ball | [http://www.gamedesign.net](http://www.gamedesign.net)<br>[http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) |
 
 ### Source Mentions
 

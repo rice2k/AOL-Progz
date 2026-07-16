@@ -28,11 +28,14 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 9 |
 | Archive-text AOL/version mentions | AOL 9.0 |
+| External ZIP text version mentions | unknown |
 | Prog type | Room buster |
 | Category | room buster |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Room buster, AOL/AIM chat utility |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | aciddr0p.netReadMe2.txt<br>Read Me.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 4 |
@@ -80,6 +83,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
 | --- | --- | --- | --- | --- |
 | aciddr0p.netReadMe2.txt<br>Read Me.txt | none | Fader / text styler<br>Room buster<br>AOL/AIM chat utility | AOL 9.0 | aciddr0p.netReadMe2.txt includes a mirror/download-source note.<br>Read Me.txt mentions AOL 9.0.<br>Read Me.txt has vocabulary for Fader / text styler, Room buster, AOL/AIM chat utility. |
+
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
 
 ### Source Mentions
 

@@ -28,19 +28,22 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Source / developer file |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ ME!.txt |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB3 |
 | Compile type | p-code |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.8 MB |
-| Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched web download links | 4 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +54,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0886-havok.zip](../../../../../files/aol/aol-4-0/0886-havok.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/havok.zip)
@@ -82,6 +85,10 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 | --- | --- | --- | --- | --- |
 | READ ME!.txt | none | Source / developer file | none | READ ME!.txt has vocabulary for Source / developer file. |
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -93,13 +100,17 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | prog's/misc a-m | havok | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip) | [http://lenshellarchive.com/Progs/aolprogs/havok.zip](http://lenshellarchive.com/Progs/aolprogs/havok.zip) |
+| Macintosh | Mac Havoc Gold | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) | [http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) |
 | AIM | Prog Havok's AIM Prog | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) | [http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Prog Havok's AIM Prog | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip) | [http://24.185.191.87/progz/aimproghavoksaimprog.zip](http://24.185.191.87/progz/aimproghavoksaimprog.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | AIM | aimproghavoksaimprog.zip | [http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimproghavoksaimprog.zip | [http://24.185.191.87/progz/aimproghavoksaimprog.zip](http://24.185.191.87/progz/aimproghavoksaimprog.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip) | unknown | candidate |
+| Macintosh | Mac%20Havok%20Gold%20Palette.hqx | [http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) | unknown | candidate |
 
 ### Web Image Leads
 

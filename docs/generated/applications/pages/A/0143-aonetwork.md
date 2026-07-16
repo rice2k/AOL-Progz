@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 3 |
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -94,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| c-coms | aonet.zip | [http://lenshellarchive.com/Progs/aolccoms/aonet.zip](http://lenshellarchive.com/Progs/aolccoms/aonet.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aonet.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aonet.zip) | unknown | candidate |
+| Web page: c-coms | aonet.zip | [http://lenshellarchive.com/Progs/aolccoms/aonet.zip](http://lenshellarchive.com/Progs/aolccoms/aonet.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aonet.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aonet.zip) | [files/external/lenshellarchive-com/aonet-a9eb94ef.zip](../../../../../files/external/lenshellarchive-com/aonet-a9eb94ef.zip) | ready |
 
 ### Web Image Leads
 

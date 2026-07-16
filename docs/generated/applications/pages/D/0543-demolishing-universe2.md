@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 223 KB |
-| Matched web download links | 6 |
+| Matched web download links | 8 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0543-demolishing-universe2.zip](../../../../../files/aol/aol-4-0/0543-demolishing-universe2.zip)
-- Old-web / Wayback download leads: 6 link(s) listed below
+- Old-web / Wayback download leads: 8 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demolishing.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demolishing.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demolishing.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demolishing.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demolishing.zip)
@@ -77,6 +80,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -88,9 +95,11 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | AIM | Demolishing AIM | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim.zip) | [http://www.cybernyse.com/downlowdz/aimdemolishingaim.zip](http://www.cybernyse.com/downlowdz/aimdemolishingaim.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Demolishing AIM | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim.zip) | [http://24.185.191.87/progz/aimdemolishingaim.zip](http://24.185.191.87/progz/aimdemolishingaim.zip) |
 | LensHell AIM progs | demolishing aim 1.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/demolishaim.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/demolishaim.zip) | [http://lenshellarchive.com/Progs/aolprogs/demolishaim.zip](http://lenshellarchive.com/Progs/aolprogs/demolishaim.zip) |
 | LensHell AIM progs | demolishing aim 2.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/demaim2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/demaim2.zip) | [http://lenshellarchive.com/Progs/aolprogs/demaim2.zip](http://lenshellarchive.com/Progs/aolprogs/demaim2.zip) |
 | AIM | Demolishing AIM v 2.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip) | [http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip](http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Demolishing AIM v 2.0 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim20.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim20.zip) | [http://24.185.191.87/progz/aimdemolishingaim20.zip](http://24.185.191.87/progz/aimdemolishingaim20.zip) |
 | prog's/misc a-m | demolishing universe | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip) | [http://lenshellarchive.com/Progs/aolprogs/demolishing.zip](http://lenshellarchive.com/Progs/aolprogs/demolishing.zip) |
 | Oogle AIM progs | http://www.oogle.net/downloads/progs/demolishingaim20.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/demolishingaim20.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/demolishingaim20.zip) | [http://www.oogle.net/downloads/progs/demolishingaim20.zip](http://www.oogle.net/downloads/progs/demolishingaim20.zip) |
 

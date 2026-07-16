@@ -28,19 +28,22 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched web download links | 3 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -51,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/rawsocketv1.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/rawsocketv1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/rawsocketv1.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/rawsocketv1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/rawsocketv1.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -90,12 +97,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | prog's/misc n-z | raw socket - ip stealer v 1.0 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rawsocketv1.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rawsocketv1.zip) | [http://lenshellarchive.com/Progs/aolprogs/rawsocketv1.zip](http://lenshellarchive.com/Progs/aolprogs/rawsocketv1.zip) |
 | Section 2 | Stealer | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/stealer.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/stealer.zip) | [http://www.cybernyse.com/downlowdz/stealer.zip](http://www.cybernyse.com/downlowdz/stealer.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Stealer | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/stealer.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/stealer.zip) | [http://24.185.191.87/progz/stealer.zip](http://24.185.191.87/progz/stealer.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Section 2 | stealer.zip | [http://www.cybernyse.com/downlowdz/stealer.zip](http://www.cybernyse.com/downlowdz/stealer.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/stealer.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/stealer.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | stealer.zip | [http://24.185.191.87/progz/stealer.zip](http://24.185.191.87/progz/stealer.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/stealer.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/stealer.zip) | unknown | candidate |
 
 ### Web Image Leads
 

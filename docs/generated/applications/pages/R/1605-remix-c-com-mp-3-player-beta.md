@@ -28,11 +28,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog AOL/version bucket | AOL 5.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | C-Com / command list |
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -40,7 +43,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 5 |
-| Matched mirror leads | 4 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -52,7 +55,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 - Local mirrored archive: [files/aol/aol-5-0/1605-remix.zip](../../../../../files/aol/aol-5-0/1605-remix.zip)
 - Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 4 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/remix ccom mp3 player beta.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/remix%20ccom%20mp3%20player%20beta.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/remix%20ccom%20mp3%20player%20beta.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/remix%20ccom%20mp3%20player%20beta.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/remix%20ccom%20mp3%20player%20beta.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -100,7 +107,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: 9 | AimRemix3.0.exe | [http://aimfilez.com/files/AimRemix3.0.exe](http://aimfilez.com/files/AimRemix3.0.exe) | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AimRemix3.0.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AimRemix3.0.exe) | unknown | failed |
 | Web page: Hadez progs | dbremix.zip | [http://dnx-online.net/~hadez/files/dbremix.zip](http://dnx-online.net/~hadez/files/dbremix.zip) | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip) | unknown | http-404 |
-| LensHell AIM progs | aimremixr.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) | unknown | candidate |
+| Web page: LensHell AIM progs | aimremix3.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip](http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip) | unknown | http-404 |
+| Web page: LensHell AIM progs | aimremixr.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) | unknown | http-404 |
 | c-coms | remixbeta.zip | [http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | unknown | candidate |
 
 ### Web Image Leads

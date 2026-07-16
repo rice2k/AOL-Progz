@@ -2,7 +2,7 @@
 
 Catalog label: **f2**.
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Idler / AFK bot, C-Com / command list, Mass mailer / server, Media / file utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,11 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | Mixed/unknown |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | Idler / AFK bot, C-Com / command list, Mass mailer / server, Media / file utility |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 3 |
@@ -46,7 +49,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -77,6 +80,14 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 ### Archive Text Scan
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
+
+### Matched External ZIP Text Evidence
+
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/form-mail.zip](../../../../../files/external/angelfire-com/form-mail.zip) | formmail/README | leaving this field | none | Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server<br>Media / file utility | # Selling the code for this program without prior written consent is #<br>work with your existing forms. Other hidden configuration fields can also<br>be used to enhance the operation of FormMail on your site. Version 1.6 of | [http://www.worldwidemart.com/scripts/](http://www.worldwidemart.com/scripts/)<br>[http://www.worldwidemart.com/scripts/faq/](http://www.worldwidemart.com/scripts/faq/)<br>[http://www.worldwidemart.com](http://www.worldwidemart.com)<br>[http://your.host.com/to/file.html](http://your.host.com/to/file.html) |
 
 ### Source Mentions
 

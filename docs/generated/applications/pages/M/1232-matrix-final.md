@@ -28,18 +28,21 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 5.0 |
 | Archive-text AOL/version mentions | unknown |
+| External ZIP text version mentions | unknown |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
+| Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.2 MB |
-| Matched web download links | 3 |
+| Matched web download links | 4 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -51,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1232-matrixfinal.zip](../../../../../files/aol/aol-4-0/1232-matrixfinal.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/matrix final for aol 5.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/matrix%20final%20for%20aol%205.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/matrix%20final%20for%20aol%205.0.zip)
@@ -78,6 +81,10 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
+### Matched External ZIP Text Evidence
+
+No recovered external ZIP text is matched to this entry yet.
+
 ### Source Mentions
 
 No specific old-page program mention is matched to this entry yet.
@@ -91,6 +98,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Click-Online AOL 4/5 progz | matrix final | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/matrixfinal.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/matrixfinal.zip) | [http://click-online2000.com/progz/matrixfinal.zip](http://click-online2000.com/progz/matrixfinal.zip) |
 | c-coms | matrix final | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/matrixfinal.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/matrixfinal.zip) | [http://lenshellarchive.com/Progs/aolccoms/matrixfinal.zip](http://lenshellarchive.com/Progs/aolccoms/matrixfinal.zip) |
 | Section 2 | Matrix Final | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/matrix.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/matrix.zip) | [http://www.cybernyse.com/downlowdz/matrix.zip](http://www.cybernyse.com/downlowdz/matrix.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Matrix Final | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/matrix.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/matrix.zip) | [http://24.185.191.87/progz/matrix.zip](http://24.185.191.87/progz/matrix.zip) |
 
 ### Mirror Leads
 
