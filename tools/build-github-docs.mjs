@@ -770,6 +770,7 @@ const userSuppliedLinks = [
   ["Oogle Rampage script tutorials", "Rampage Toolz scripting/source lead", "https://web.archive.org/web/20001205033300/http://www.oogle.net/o_tutorial.htm"],
   ["Rampage Toolz 1.1 Source", "Oogle source page", "https://web.archive.org/web/20010119175900/http://www.oogle.net/rt1source/"],
   ["Rampage Toolz 1.1 source ZIP", "Wayback source-code download lead", "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip"],
+  ["Rampage Toolz 1.1 source ZIP reference copy", "AOLUnderground mirror source-code file", "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip"],
   ["Rampage Toolz 2 source code", "Wayback download lead", "https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip"],
   ["Rampage Toolz 2 setup", "Wayback download lead", "https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe"],
   ["Rampage Script SDK", "Wayback download lead", "https://web.archive.org/web/20001205033300/http://www.oogle.net/downloads/rscript.zip"],

@@ -111,6 +111,7 @@ function cleanCandidateName(value) {
     .replace(/\b(?:e-?mail|mail|homepage|website|site|url|contact)\b\s*:.*$/i, " ")
     .replace(/\b(?:http|https|ftp):\/\/\S+/gi, " ")
     .replace(/\bwww\.\S+/gi, " ")
+    .replace(/\s+(?:with|using|except|and\s+or)\b.*$/i, "")
     .replace(/[<>{}[\]|\\]+/g, " ")
     .replace(/^[-=:+*#~\s]+|[-=:+*#~.\s]+$/g, "")
     .replace(/\s+/g, " ")
@@ -123,7 +124,7 @@ function cleanCandidateName(value) {
   if (/\b(?:unknown|none|n\/a|readme|downloaded|download|install|setup|license|thanks|please|visit|click|program|proggie|aol|aim|authorize|webpage|web\s*page|homepage|if|was|were|about)\b/i.test(text)) {
     return "";
   }
-  if (/^(?:default|true|false|null|nothing|warning|error|version|private|public|function|sub|object|value|property)$/i.test(text)) {
+  if (/^(?:default|true|false|null|nothing|warning|error|version|private|public|function|sub|object|value|property|char)$/i.test(text)) {
     return "";
   }
   if (/^(?:calling|pressing|returns?|sets?|used|using|copy|open|close|insert|delete|select|clicking)\b/i.test(text)) {
@@ -160,8 +161,14 @@ function extractAuthorCandidates(text, sourceFile) {
     match = line.match(/^(?:created|coded|programmed|written|made|compiled|designed)\s+by\s*:?\s*(.{2,80})$/i);
     if (match) addAuthorCandidate(candidates, match[1], sourceFile, "byline");
 
+    match = line.match(/\b(?:created|coded|programmed|written|made|compiled|designed)\s+by\s+([a-z0-9][a-z0-9_ .'-]{2,50})(?:\s+(?:with|using|except|and\s+or)\b|[.,;)"']|$)/i);
+    if (match) addAuthorCandidate(candidates, match[1], sourceFile, "inline byline");
+
     match = line.match(/^(?:code|prog|program|tool|toolz|proggy|archive|zip)\s+by\s*:?\s*(.{2,80})$/i);
     if (match) addAuthorCandidate(candidates, match[1], sourceFile, "program by");
+
+    match = line.match(/^(?:title|versionproductname|versionlegalcopyright|versionfiledescription)\s*=\s*["']?.*?\bby\s+([a-z0-9][a-z0-9_ .'-]{2,50})(?:\s+-|[.,;)"']|$)/i);
+    if (match) addAuthorCandidate(candidates, match[1], sourceFile, "project metadata by");
 
     match = line.match(/\bby\s+([a-z0-9][a-z0-9_ .'-]{2,50})$/i);
     if (match) addAuthorCandidate(candidates, match[1], sourceFile, "trailing by");

@@ -2,7 +2,7 @@
 
 
 
-A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface. Recovered external ZIP text also suggests: All-in-one prog suite. Curated source evidence also suggests: All-in-one prog suite, AOL/AIM chat utility, Scroller / macro.
+A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface. Recovered external ZIP text also suggests: All-in-one prog suite, Fader / text styler, Idler / AFK bot, Room buster, Punter / booter, C-Com / command list. Curated source evidence also suggests: All-in-one prog suite, AOL/AIM chat utility, Scroller / macro.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,14 +28,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
-| External ZIP text version mentions | unknown |
+| External ZIP text version mentions | AOL 4.0, AOL 5.0 |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | All-in-one prog suite, AOL/AIM chat utility, Scroller / macro |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | All-in-one prog suite |
+| External ZIP text purpose clues | All-in-one prog suite, Fader / text styler, Idler / AFK bot, Room buster, Punter / booter, C-Com / command list, Scroller / macro, Mass mailer / server, Account / TOS utility, Screen-name utility, Source / developer file, Media / file utility, AOL/AIM chat utility |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 2 |
+| Matched external ZIP text evidence | 3 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -43,7 +43,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 15 |
-| Matched mirror leads | 15 |
+| Matched mirror leads | 16 |
 | Web research mentions | 2 |
 | Web image leads | 4 |
 | Author confidence | manual source correction |
@@ -62,7 +62,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 - Local mirrored archive: [files/aol/aol-4-0/1574-rampage-toolz.zip](../../../../../files/aol/aol-4-0/1574-rampage-toolz.zip)
 - Old-web / Wayback download leads: 15 link(s) listed below
-- Matched mirror leads: 15 link(s) listed below
+- Matched mirror leads: 16 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/rampage.zip)
@@ -96,6 +96,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User-supplied Oogle Rampage source leads | [files/external/oogle-net/skin-elite-3ae954b5.zip](../../../../../files/external/oogle-net/skin-elite-3ae954b5.zip) | elite.ini | none | none | All-in-one prog suite | unknown | unknown |
 | User-supplied Oogle Rampage source leads | [files/external/oogle-net/skin-insane-e3c85f67.zip](../../../../../files/external/oogle-net/skin-insane-e3c85f67.zip) | insane.ini | none | none | none | unknown | unknown |
+| AOLUnderground reference mirror source-code files | [files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip](../../../../../files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip) | rampage-frm1.frm<br>Rampage Toolz.vbp<br>rampage-explode4.frm<br>rampage-explode3.frm<br>rampage-explode2.frm<br>rampage-explode1.frm | Oogle | AOL 4.0<br>AOL 5.0 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>C-Com / command list | If GetUser = "" Then MsgBox "WARNING:" & Chr(13) & "It appears that you are not online and therefore most of this prog's features will not work for you.", vbExclamation, "Warning"<br>dStatus "Sends as command for this prog"<br>Private Sub Winsock1_Error(ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean) | [http://www.oogle.net](http://www.oogle.net)<br>[http://www.oogle.net/rampage/](http://www.oogle.net/rampage/)<br>[http://www.angelfire.com/ct/oogle/coolprog.html](http://www.angelfire.com/ct/oogle/coolprog.html)<br>[http://www.oogle.net/rampage/help.htm](http://www.oogle.net/rampage/help.htm) |
 
 ### Source Mentions
 
@@ -144,6 +145,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | rampage.zip | [http://24.185.191.87/progz/rampage.zip](http://24.185.191.87/progz/rampage.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip) | unknown | http-404 |
 | ProgzRescue FortuneCity Skyscraper files | rampage.zip | [http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip](http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/2/rampage.zip) | [files/external/fortunecity-com/rampage-d0db1655.zip](../../../../../files/external/fortunecity-com/rampage-d0db1655.zip) | ready |
 | User-supplied Oogle Rampage source leads | rt1_src.zip | [http://www.oogle.net/rt1source/rt1_src.zip](http://www.oogle.net/rt1source/rt1_src.zip) | [https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip](https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip) | unknown | http-404 |
+| AOLUnderground reference mirror source-code files | rt1_src.zip | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip) | [files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip](../../../../../files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip) | ready |
 | Click-Online AOL 4/5 progz | setuprt22.exe | [http://click-online2000.com/progz/setuprt22.exe](http://click-online2000.com/progz/setuprt22.exe) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/setuprt22.exe](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/setuprt22.exe) | [files/external/click-online2000-com/setuprt22-bf0dd433.exe](../../../../../files/external/click-online2000-com/setuprt22-bf0dd433.exe) | ready |
 
 ### Web Image Leads

@@ -30,16 +30,16 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 | Crawled source pages | 1502 |
 | Crawled unique links | 19900 |
 | Crawled download links | 6258 |
-| Master deduped link index | 33911 |
-| Deduped original/download URLs | 12853 |
-| User supplied priority links | 91 |
-| Recovered external files | 581 |
-| Recovered local file records | 2638 |
-| External ZIPs with readable text | 216 |
-| External ZIPs with author clues | 69 |
-| External ZIPs with version clues | 8 |
-| External ZIPs with purpose clues | 160 |
-| External mirror groups | 1793 |
+| Master deduped link index | 33920 |
+| Deduped original/download URLs | 12855 |
+| User supplied priority links | 92 |
+| Recovered external files | 582 |
+| Recovered local file records | 2639 |
+| External ZIPs with readable text | 217 |
+| External ZIPs with author clues | 70 |
+| External ZIPs with version clues | 9 |
+| External ZIPs with purpose clues | 161 |
+| External mirror groups | 1794 |
 | Recovered web images | 168 |
 
 ## Browse

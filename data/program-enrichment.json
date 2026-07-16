@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:11:16.978Z",
+  "generatedAt": "2026-07-16T23:03:25.992Z",
   "programCount": 2139,
   "programsWithImprovedNames": 519,
   "programsWithInferredAuthors": 10,
@@ -14648,7 +14648,7 @@
             {
               "name": "myke",
               "sourceFile": "Module1.bas",
-              "pattern": "trailing by"
+              "pattern": "inline byline"
             }
           ],
           "purposeSignals": [
@@ -45435,7 +45435,7 @@
             {
               "name": "offering",
               "sourceFile": "vlist/Legal-ramble.txt",
-              "pattern": "trailing by"
+              "pattern": "inline byline"
             },
             {
               "name": "third parties to",
@@ -45453,6 +45453,11 @@
               "pattern": "trailing by"
             },
             {
+              "name": "APPLICABLE LAW",
+              "sourceFile": "vlist/Legal-ramble.txt",
+              "pattern": "trailing by"
+            },
+            {
               "name": "APPLICABLE LAW OR AGREED TO IN WRITING",
               "sourceFile": "vlist/Legal-ramble.txt",
               "pattern": "trailing by"
@@ -45465,7 +45470,7 @@
             {
               "name": "James Hacker",
               "sourceFile": "vlist/Legal-ramble.txt",
-              "pattern": "trailing by"
+              "pattern": "inline byline"
             }
           ],
           "purposeSignals": [
@@ -45580,6 +45585,11 @@
               "name": "user",
               "sourceFile": "admin/user.php",
               "pattern": "from user"
+            },
+            {
+              "name": "this user will be set to guest",
+              "sourceFile": "admin/user.php",
+              "pattern": "inline byline"
             },
             {
               "name": "avatar\");",
@@ -80267,6 +80277,15 @@
           "matchedBy": "manual-route:oogle-rampage"
         },
         {
+          "sourceName": "AOLUnderground reference mirror source-code files",
+          "label": "rt1_src.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
+          "status": "ready",
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
           "sourceName": "Click-Online AOL 4/5 progz",
           "label": "setuprt22.exe",
           "originalUrl": "http://click-online2000.com/progz/setuprt22.exe",
@@ -80313,6 +80332,122 @@
           "versionMentions": [],
           "descriptionCandidates": [],
           "urls": [],
+          "matchedBy": "manual-route:oogle-rampage"
+        },
+        {
+          "sourceName": "AOLUnderground reference mirror source-code files",
+          "label": "rt1_src.zip",
+          "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "textFileCount": 48,
+          "textFiles": [
+            "rampage-frm1.frm",
+            "Rampage Toolz.vbp",
+            "rampage-explode4.frm",
+            "rampage-explode3.frm",
+            "rampage-explode2.frm",
+            "rampage-explode1.frm",
+            "rampage-frm2.frm",
+            "rampage-scrconfig.frm",
+            "rampage-massim.frm",
+            "rampage-sncollect.frm",
+            "rampage-frmsave.frm",
+            "rampage-frmopen.frm",
+            "rampage-rawhack.Frm",
+            "rampage-frmoptions.frm",
+            "rampage-ipgrab.Frm",
+            "rampage-mcrdraw.frm",
+            "rampage-loadmacro.frm",
+            "rampage-savemacro.frm",
+            "rampage-apispy.frm",
+            "rampage-emailoogle.frm",
+            "rampage-frmsendmail.frm",
+            "rampage-frmoogcheck.frm",
+            "rampage-frmphish.frm",
+            "rampage-frmmacro.frm",
+            "rampage-frmterm.frm",
+            "rampagefrmfade.frm",
+            "rampage-fakeprog.frm",
+            "rampage-frmroombust.frm",
+            "rampage-frmimmanip.frm",
+            "rampage-frmscreensaver.frm"
+          ],
+          "preferredAuthor": "Oogle",
+          "authorCandidates": [
+            {
+              "name": "Oogle",
+              "sourceFile": "Rampage Toolz.vbp",
+              "pattern": "project metadata by"
+            },
+            {
+              "name": "Oogle - A.w.s.f",
+              "sourceFile": "Rampage Toolz.vbp",
+              "pattern": "project metadata by"
+            }
+          ],
+          "purposeSignals": [
+            "All-in-one prog suite",
+            "Fader / text styler",
+            "Idler / AFK bot",
+            "Room buster",
+            "Punter / booter",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Mass mailer / server",
+            "Account / TOS utility",
+            "Screen-name utility",
+            "Source / developer file",
+            "Media / file utility",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [
+            "AOL 4.0",
+            "AOL 5.0"
+          ],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "rampage-frm1.frm",
+              "text": "If GetUser = \"\" Then MsgBox \"WARNING:\" & Chr(13) & \"It appears that you are not online and therefore most of this prog's features will not work for you.\", vbExclamation, \"Warning\""
+            },
+            {
+              "sourceFile": "rampage-frm1.frm",
+              "text": "dStatus \"Sends as command for this prog\""
+            },
+            {
+              "sourceFile": "rampage-frm1.frm",
+              "text": "Private Sub Winsock1_Error(ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean)"
+            },
+            {
+              "sourceFile": "rampage-rawhack.Frm",
+              "text": "AddText 1, \">If you know the protocol you can use this program to chat on IRC servers or learn how servers on other computers, as well as your own work.\""
+            },
+            {
+              "sourceFile": "rampage-rawhack.Frm",
+              "text": "AddText 1, \">Error Number \" & Number & \". \" & Description"
+            },
+            {
+              "sourceFile": "rampage-frmAbout.frm",
+              "text": "Caption = \"-Version 1.1 for AOL 4.0 and 5.0 Beta\""
+            },
+            {
+              "sourceFile": "rampage-frmAbout.frm",
+              "text": "' Validate Existance Of Known 32 Bit File Version"
+            }
+          ],
+          "urls": [
+            "http://www.oogle.net",
+            "http://www.oogle.net/rampage/",
+            "http://www.angelfire.com/ct/oogle/coolprog.html",
+            "http://www.oogle.net/rampage/help.htm",
+            "http://aimprogs.hypermart.net/sn.html",
+            "http://www.awsf.cjb.net/",
+            "http://www.oogle.net/",
+            "http://younghackers.freeservers.com/",
+            "http://www.awsf.net/rampage/",
+            "http://www.awsf.net/",
+            "http://www.oogle.net/rampage"
+          ],
           "matchedBy": "manual-route:oogle-rampage"
         }
       ]

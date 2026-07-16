@@ -9205,6 +9205,19 @@
   },
   {
     "kind": "external recovered file",
+    "name": "rt1_src.zip",
+    "status": "ready",
+    "size": "734.1 KB",
+    "bytes": 751737,
+    "sha1": "d0c2f4886c24206170be2f81a9c9c0b560027c8e",
+    "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
+    "source": "AOLUnderground reference mirror source-code files",
+    "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+    "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+    "detailPage": ""
+  },
+  {
+    "kind": "external recovered file",
     "name": "SAIMsa.exe",
     "status": "ready",
     "size": "3.7 MB",

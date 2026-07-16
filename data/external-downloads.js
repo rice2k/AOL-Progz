@@ -1,12 +1,12 @@
 window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
-  "generatedAt": "2026-07-16T21:31:37.997Z",
+  "generatedAt": "2026-07-16T22:40:11.673Z",
   "sourceListCount": 3,
-  "candidateCount": 19604,
-  "downloadCount": 2206,
-  "readyCount": 581,
-  "mirrorGroupCount": 1793,
+  "candidateCount": 19605,
+  "downloadCount": 2207,
+  "readyCount": 582,
+  "mirrorGroupCount": 1794,
   "byStatus": {
-    "ready": 581,
+    "ready": 582,
     "invalid-archive": 8,
     "empty-file": 1,
     "http-404": 1571,
@@ -31446,6 +31446,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "rt1-src-zip",
+      "name": "rt1_src.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.oogle.net/rt1source/rt1_src.zip",
+          "waybackUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+          "sourceList": "User-supplied Oogle Rampage source leads",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "sourceList": "AOLUnderground reference mirror source-code files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -69297,6 +69320,19 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "localPath": "",
       "status": "http-404",
       "size": 0
+    },
+    {
+      "name": "rt1_src.zip",
+      "sourceList": "AOLUnderground reference mirror source-code files",
+      "sourceListUrl": "https://aolunderground.com/proggies/",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+      "discoveredText": "Rampage Toolz 1.1 source-code ZIP recovered from the AOLUnderground public archive mirror; recorded as a reference copy, not an authorship source.",
+      "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
+      "status": "ready",
+      "size": 751737,
+      "sha1": "d0c2f4886c24206170be2f81a9c9c0b560027c8e"
     }
   ]
 };

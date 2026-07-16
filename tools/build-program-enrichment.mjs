@@ -389,7 +389,7 @@ function buildProgramMatcher(programs, inferredById) {
     const joinedValues = values.filter(Boolean).join(" ");
     if (
       rampageProgram &&
-      /(oogle\.net\/rampage\/skin_|oogle\.net\/rt1source\/rt1_src|oogle\.net\/downloads\/rscript|oogle\.net\/downloads\/script_tutorial|oogle\.net\/rampage\/setuprt22|oogle\.com\/download\/rampagetools2source)/i.test(
+      /(oogle\.net\/rampage\/skin_|oogle\.net\/rt1source\/rt1_src|oogle\.net\/downloads\/rscript|oogle\.net\/downloads\/script_tutorial|oogle\.net\/rampage\/setuprt22|oogle\.com\/download\/rampagetools2source|\/rt1_src\.zip|rampage toolz 1\.1 source)/i.test(
         joinedValues,
       )
     ) {

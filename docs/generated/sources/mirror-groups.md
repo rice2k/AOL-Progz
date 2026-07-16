@@ -1177,6 +1177,7 @@ Mirror groups preserve multiple original download URLs for the same or similarly
 | roomstud-zip | 2 | 0 | unknown |
 | rotext-zip | 2 | 0 | unknown |
 | rougue-bathroom1-zip | 2 | 0 | unknown |
+| rt1-src-zip | 2 | 1 | unknown |
 | rupture-zip | 2 | 0 | unknown |
 | sailormoon-zip | 2 | 0 | unknown |
 | saimsa-exe | 2 | 1 | unknown |

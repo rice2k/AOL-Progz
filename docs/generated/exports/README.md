@@ -5,5 +5,5 @@ Plain CSV and JSON files for sorting, filtering, importing into spreadsheets, or
 | Export | Rows | CSV | JSON |
 | --- | --- | --- | --- |
 | Main catalog with confidence fields | 2139 | [catalog.csv](catalog.csv) | [catalog.json](catalog.json) |
-| Recovered local files | 2638 | [recovered-files.csv](recovered-files.csv) | [recovered-files.json](recovered-files.json) |
-| Deduped original/download URLs | 12853 | [original-download-urls.csv](original-download-urls.csv) | [original-download-urls.json](original-download-urls.json) |
+| Recovered local files | 2639 | [recovered-files.csv](recovered-files.csv) | [recovered-files.json](recovered-files.json) |
+| Deduped original/download URLs | 12855 | [original-download-urls.csv](original-download-urls.csv) | [original-download-urls.json](original-download-urls.json) |

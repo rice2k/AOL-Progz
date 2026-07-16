@@ -90,25 +90,25 @@
 | Metric | Value |
 | --- | --- |
 | GitHub working-tree size | 3.2 GB |
-| Git object store size | 4.4 GB |
+| Git object store size | 4.6 GB |
 | files/ directory size | 2.9 GB |
 | assets/ directory size | 17.3 MB |
 | docs/ directory size | 68.9 MB |
-| data/ directory size | 190.3 MB |
+| data/ directory size | 190.4 MB |
 | Crawled source pages | 1502 |
 | Crawled links | 19900 |
 | Crawled download links | 6258 |
-| Recovered external files | 581 |
-| Local recovered file records | 2638 |
-| External ZIPs scanned for text | 405 |
-| External ZIPs with readable text | 216 |
-| External ZIPs with author clues | 69 |
-| External ZIPs with version clues | 8 |
-| External ZIPs with purpose clues | 160 |
+| Recovered external files | 582 |
+| Local recovered file records | 2639 |
+| External ZIPs scanned for text | 406 |
+| External ZIPs with readable text | 217 |
+| External ZIPs with author clues | 70 |
+| External ZIPs with version clues | 9 |
+| External ZIPs with purpose clues | 161 |
 | Missing candidates | 3111 |
-| Recovered missing candidates | 336 |
-| Master deduped link index | 33911 |
-| Deduped original/download URLs | 12853 |
+| Recovered missing candidates | 337 |
+| Master deduped link index | 33920 |
+| Deduped original/download URLs | 12855 |
 | Programs needing manual review | 1947 |
 | High-priority review entries | 1287 |
 | Medium-priority review entries | 660 |

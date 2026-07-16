@@ -1,13 +1,13 @@
 window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
-  "generatedAt": "2026-07-16T21:33:40.418Z",
-  "readyDownloadCount": 581,
-  "recordCount": 581,
-  "scannedCount": 405,
-  "withTextFileCount": 216,
-  "withAuthorCount": 69,
-  "withPurposeCount": 160,
-  "withVersionCount": 8,
-  "withUrlCount": 112,
+  "generatedAt": "2026-07-16T22:43:14.749Z",
+  "readyDownloadCount": 582,
+  "recordCount": 582,
+  "scannedCount": 406,
+  "withTextFileCount": 217,
+  "withAuthorCount": 70,
+  "withPurposeCount": 161,
+  "withVersionCount": 9,
+  "withUrlCount": 113,
   "byLocalPath": {
     "files/external/angelfire-com/scriptfish.zip": {
       "name": "scriptfish.zip",
@@ -288,7 +288,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "DVBVideoLAN run Graphedit",
           "sourceFile": "dvbpl-020619/README.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "Klaus Schmidinger",
@@ -2355,9 +2355,19 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "from your database and onto the web"
         },
         {
+          "name": "cash",
+          "sourceFile": "Creating Commercial Web Sites/ccw16wd.htm",
+          "pattern": "inline byline"
+        },
+        {
           "name": "its use",
           "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
           "pattern": "trailing by"
+        },
+        {
+          "name": "many companies",
+          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
+          "pattern": "inline byline"
         },
         {
           "name": "simply opening a graphic",
@@ -2380,7 +2390,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "trailing by"
         },
         {
-          "name": "a chapter dealing with marketing online",
+          "name": "a chapter dealing",
           "sourceFile": "Creating Commercial Web Sites/ccw19wd.htm",
           "pattern": "trailing by"
         },
@@ -2478,6 +2488,11 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "name": "the object for public use",
           "sourceFile": "Creating Commercial Web Sites/ccwxh.htm",
           "pattern": "trailing by"
+        },
+        {
+          "name": "those who want to keep it",
+          "sourceFile": "Creating Commercial Web Sites/ccwxj.htm",
+          "pattern": "inline byline"
         },
         {
           "name": "means of storing all the data it can to a temporary",
@@ -3721,12 +3736,12 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       ],
       "authorCandidates": [
         {
-          "name": "TopGear with help from the bind",
+          "name": "TopGear",
           "sourceFile": "readme.txt",
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "TopGear with help from the bind",
+      "preferredAuthor": "TopGear",
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [
@@ -4054,7 +4069,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "a DOS",
           "sourceFile": "README",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         },
         {
           "name": "putting the NODPMI switch into your",
@@ -4996,7 +5011,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "offering access to copy",
           "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         },
         {
           "name": "being compiled or",
@@ -5009,7 +5024,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "trailing by"
         },
         {
-          "name": "third parties with",
+          "name": "third parties",
           "sourceFile": "Chat/license.txt",
           "pattern": "trailing by"
         },
@@ -5046,7 +5061,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "James Random Hacker",
           "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "problems that might be",
@@ -5566,7 +5581,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "offering",
           "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         },
         {
           "name": "third parties to",
@@ -5584,6 +5599,11 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "trailing by"
         },
         {
+          "name": "APPLICABLE LAW",
+          "sourceFile": "vlist/Legal-ramble.txt",
+          "pattern": "trailing by"
+        },
+        {
           "name": "APPLICABLE LAW OR AGREED TO IN WRITING",
           "sourceFile": "vlist/Legal-ramble.txt",
           "pattern": "trailing by"
@@ -5596,7 +5616,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "James Hacker",
           "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "others will not reflect on the original",
@@ -5715,6 +5735,11 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "name": "user",
           "sourceFile": "admin/user.php",
           "pattern": "from user"
+        },
+        {
+          "name": "this user will be set to guest",
+          "sourceFile": "admin/user.php",
+          "pattern": "inline byline"
         },
         {
           "name": "avatar\");",
@@ -6266,7 +6291,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "Descent Mission Builder II",
           "sourceFile": "ReadMe!.doc",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "Descent Mission Builder II",
@@ -10406,7 +10431,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "myke",
           "sourceFile": "Module1.bas",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "myke",
@@ -13057,6 +13082,126 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
+    },
+    "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip": {
+      "name": "rt1_src.zip",
+      "sourceList": "AOLUnderground reference mirror source-code files",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+      "discoveredText": "Rampage Toolz 1.1 source-code ZIP recovered from the AOLUnderground public archive mirror; recorded as a reference copy, not an authorship source.",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
+      "localSize": 751737,
+      "localSizeLabel": "734 KB",
+      "textFileCount": 48,
+      "textFiles": [
+        "rampage-frm1.frm",
+        "Rampage Toolz.vbp",
+        "rampage-explode4.frm",
+        "rampage-explode3.frm",
+        "rampage-explode2.frm",
+        "rampage-explode1.frm",
+        "rampage-frm2.frm",
+        "rampage-scrconfig.frm",
+        "rampage-massim.frm",
+        "rampage-sncollect.frm",
+        "rampage-frmsave.frm",
+        "rampage-frmopen.frm",
+        "rampage-rawhack.Frm",
+        "rampage-frmoptions.frm",
+        "rampage-ipgrab.Frm",
+        "rampage-mcrdraw.frm",
+        "rampage-loadmacro.frm",
+        "rampage-savemacro.frm",
+        "rampage-apispy.frm",
+        "rampage-emailoogle.frm",
+        "rampage-frmsendmail.frm",
+        "rampage-frmoogcheck.frm",
+        "rampage-frmphish.frm",
+        "rampage-frmmacro.frm",
+        "rampage-frmterm.frm",
+        "rampagefrmfade.frm",
+        "rampage-fakeprog.frm",
+        "rampage-frmroombust.frm",
+        "rampage-frmimmanip.frm",
+        "rampage-frmscreensaver.frm"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Oogle",
+          "sourceFile": "Rampage Toolz.vbp",
+          "pattern": "project metadata by"
+        },
+        {
+          "name": "Oogle - A.w.s.f",
+          "sourceFile": "Rampage Toolz.vbp",
+          "pattern": "project metadata by"
+        }
+      ],
+      "preferredAuthor": "Oogle",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "urls": [
+        "http://www.oogle.net",
+        "http://www.oogle.net/rampage/",
+        "http://www.angelfire.com/ct/oogle/coolprog.html",
+        "http://www.oogle.net/rampage/help.htm",
+        "http://aimprogs.hypermart.net/sn.html",
+        "http://www.awsf.cjb.net/",
+        "http://www.oogle.net/",
+        "http://younghackers.freeservers.com/",
+        "http://www.awsf.net/rampage/",
+        "http://www.awsf.net/",
+        "http://www.oogle.net/rampage"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "If GetUser = \"\" Then MsgBox \"WARNING:\" & Chr(13) & \"It appears that you are not online and therefore most of this prog's features will not work for you.\", vbExclamation, \"Warning\""
+        },
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "dStatus \"Sends as command for this prog\""
+        },
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "Private Sub Winsock1_Error(ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean)"
+        },
+        {
+          "sourceFile": "rampage-rawhack.Frm",
+          "text": "AddText 1, \">If you know the protocol you can use this program to chat on IRC servers or learn how servers on other computers, as well as your own work.\""
+        },
+        {
+          "sourceFile": "rampage-rawhack.Frm",
+          "text": "AddText 1, \">Error Number \" & Number & \". \" & Description"
+        },
+        {
+          "sourceFile": "rampage-frmAbout.frm",
+          "text": "Caption = \"-Version 1.1 for AOL 4.0 and 5.0 Beta\""
+        },
+        {
+          "sourceFile": "rampage-frmAbout.frm",
+          "text": "' Validate Existance Of Known 32 Bit File Version"
+        }
+      ]
     }
   },
   "records": [
@@ -13339,7 +13484,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "DVBVideoLAN run Graphedit",
           "sourceFile": "dvbpl-020619/README.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "Klaus Schmidinger",
@@ -15406,9 +15551,19 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "from your database and onto the web"
         },
         {
+          "name": "cash",
+          "sourceFile": "Creating Commercial Web Sites/ccw16wd.htm",
+          "pattern": "inline byline"
+        },
+        {
           "name": "its use",
           "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
           "pattern": "trailing by"
+        },
+        {
+          "name": "many companies",
+          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
+          "pattern": "inline byline"
         },
         {
           "name": "simply opening a graphic",
@@ -15431,7 +15586,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "trailing by"
         },
         {
-          "name": "a chapter dealing with marketing online",
+          "name": "a chapter dealing",
           "sourceFile": "Creating Commercial Web Sites/ccw19wd.htm",
           "pattern": "trailing by"
         },
@@ -15529,6 +15684,11 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "name": "the object for public use",
           "sourceFile": "Creating Commercial Web Sites/ccwxh.htm",
           "pattern": "trailing by"
+        },
+        {
+          "name": "those who want to keep it",
+          "sourceFile": "Creating Commercial Web Sites/ccwxj.htm",
+          "pattern": "inline byline"
         },
         {
           "name": "means of storing all the data it can to a temporary",
@@ -16772,12 +16932,12 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       ],
       "authorCandidates": [
         {
-          "name": "TopGear with help from the bind",
+          "name": "TopGear",
           "sourceFile": "readme.txt",
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "TopGear with help from the bind",
+      "preferredAuthor": "TopGear",
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [
@@ -17105,7 +17265,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "a DOS",
           "sourceFile": "README",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         },
         {
           "name": "putting the NODPMI switch into your",
@@ -18047,7 +18207,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "offering access to copy",
           "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         },
         {
           "name": "being compiled or",
@@ -18060,7 +18220,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "trailing by"
         },
         {
-          "name": "third parties with",
+          "name": "third parties",
           "sourceFile": "Chat/license.txt",
           "pattern": "trailing by"
         },
@@ -18097,7 +18257,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "James Random Hacker",
           "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "problems that might be",
@@ -18617,7 +18777,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "offering",
           "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         },
         {
           "name": "third parties to",
@@ -18635,6 +18795,11 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "pattern": "trailing by"
         },
         {
+          "name": "APPLICABLE LAW",
+          "sourceFile": "vlist/Legal-ramble.txt",
+          "pattern": "trailing by"
+        },
+        {
           "name": "APPLICABLE LAW OR AGREED TO IN WRITING",
           "sourceFile": "vlist/Legal-ramble.txt",
           "pattern": "trailing by"
@@ -18647,7 +18812,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "James Hacker",
           "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "others will not reflect on the original",
@@ -18766,6 +18931,11 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
           "name": "user",
           "sourceFile": "admin/user.php",
           "pattern": "from user"
+        },
+        {
+          "name": "this user will be set to guest",
+          "sourceFile": "admin/user.php",
+          "pattern": "inline byline"
         },
         {
           "name": "avatar\");",
@@ -19317,7 +19487,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "Descent Mission Builder II",
           "sourceFile": "ReadMe!.doc",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "Descent Mission Builder II",
@@ -24759,7 +24929,7 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
         {
           "name": "myke",
           "sourceFile": "Module1.bas",
-          "pattern": "trailing by"
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "myke",
@@ -27410,6 +27580,126 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
+    },
+    {
+      "name": "rt1_src.zip",
+      "sourceList": "AOLUnderground reference mirror source-code files",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+      "discoveredText": "Rampage Toolz 1.1 source-code ZIP recovered from the AOLUnderground public archive mirror; recorded as a reference copy, not an authorship source.",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
+      "localSize": 751737,
+      "localSizeLabel": "734 KB",
+      "textFileCount": 48,
+      "textFiles": [
+        "rampage-frm1.frm",
+        "Rampage Toolz.vbp",
+        "rampage-explode4.frm",
+        "rampage-explode3.frm",
+        "rampage-explode2.frm",
+        "rampage-explode1.frm",
+        "rampage-frm2.frm",
+        "rampage-scrconfig.frm",
+        "rampage-massim.frm",
+        "rampage-sncollect.frm",
+        "rampage-frmsave.frm",
+        "rampage-frmopen.frm",
+        "rampage-rawhack.Frm",
+        "rampage-frmoptions.frm",
+        "rampage-ipgrab.Frm",
+        "rampage-mcrdraw.frm",
+        "rampage-loadmacro.frm",
+        "rampage-savemacro.frm",
+        "rampage-apispy.frm",
+        "rampage-emailoogle.frm",
+        "rampage-frmsendmail.frm",
+        "rampage-frmoogcheck.frm",
+        "rampage-frmphish.frm",
+        "rampage-frmmacro.frm",
+        "rampage-frmterm.frm",
+        "rampagefrmfade.frm",
+        "rampage-fakeprog.frm",
+        "rampage-frmroombust.frm",
+        "rampage-frmimmanip.frm",
+        "rampage-frmscreensaver.frm"
+      ],
+      "authorCandidates": [
+        {
+          "name": "Oogle",
+          "sourceFile": "Rampage Toolz.vbp",
+          "pattern": "project metadata by"
+        },
+        {
+          "name": "Oogle - A.w.s.f",
+          "sourceFile": "Rampage Toolz.vbp",
+          "pattern": "project metadata by"
+        }
+      ],
+      "preferredAuthor": "Oogle",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "urls": [
+        "http://www.oogle.net",
+        "http://www.oogle.net/rampage/",
+        "http://www.angelfire.com/ct/oogle/coolprog.html",
+        "http://www.oogle.net/rampage/help.htm",
+        "http://aimprogs.hypermart.net/sn.html",
+        "http://www.awsf.cjb.net/",
+        "http://www.oogle.net/",
+        "http://younghackers.freeservers.com/",
+        "http://www.awsf.net/rampage/",
+        "http://www.awsf.net/",
+        "http://www.oogle.net/rampage"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "If GetUser = \"\" Then MsgBox \"WARNING:\" & Chr(13) & \"It appears that you are not online and therefore most of this prog's features will not work for you.\", vbExclamation, \"Warning\""
+        },
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "dStatus \"Sends as command for this prog\""
+        },
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "Private Sub Winsock1_Error(ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean)"
+        },
+        {
+          "sourceFile": "rampage-rawhack.Frm",
+          "text": "AddText 1, \">If you know the protocol you can use this program to chat on IRC servers or learn how servers on other computers, as well as your own work.\""
+        },
+        {
+          "sourceFile": "rampage-rawhack.Frm",
+          "text": "AddText 1, \">Error Number \" & Number & \". \" & Description"
+        },
+        {
+          "sourceFile": "rampage-frmAbout.frm",
+          "text": "Caption = \"-Version 1.1 for AOL 4.0 and 5.0 Beta\""
+        },
+        {
+          "sourceFile": "rampage-frmAbout.frm",
+          "text": "' Validate Existance Of Known 32 Bit File Version"
+        }
+      ]
     }
   ]
 };

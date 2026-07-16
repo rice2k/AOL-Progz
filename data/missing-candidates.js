@@ -1,7 +1,7 @@
 window.AOL_PROGZ_MISSING_CANDIDATES = {
-  "generatedAt": "2026-07-16T21:33:04.413Z",
+  "generatedAt": "2026-07-16T22:58:34.895Z",
   "candidateCount": 3111,
-  "readyCandidateCount": 336,
+  "readyCandidateCount": 337,
   "candidates": [
     {
       "key": "layout",
@@ -228,10 +228,10 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "here, you can back up your vBulletin database",
         "here, you can control all aspects of your vBulletin forums",
         "user",
+        "this user will be set to guest",
         "avatar\");",
         "title",
-        "post,thread",
-        "thread.threadid"
+        "post,thread"
       ],
       "externalTextPurposeSignals": [
         "Fader / text styler",
@@ -3815,6 +3815,92 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "rt-src",
+      "fileName": "rt1_src.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://www.oogle.net/rt1source/rt1_src.zip",
+          "waybackUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
+          "source": "Rampage Toolz 1.1 Source disclaimer",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+          "source": "AOLUnderground reference mirror source-code files",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip"
+      ],
+      "sourcePages": [
+        "Rampage Toolz 1.1 Source disclaimer"
+      ],
+      "externalTextAuthors": [
+        "Oogle",
+        "Oogle - A.w.s.f"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility"
+      ],
+      "externalTextVersions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "externalTextUrls": [
+        "http://www.oogle.net",
+        "http://www.oogle.net/rampage/",
+        "http://www.angelfire.com/ct/oogle/coolprog.html",
+        "http://www.oogle.net/rampage/help.htm",
+        "http://aimprogs.hypermart.net/sn.html",
+        "http://www.awsf.cjb.net/",
+        "http://www.oogle.net/",
+        "http://younghackers.freeservers.com/",
+        "http://www.awsf.net/rampage/",
+        "http://www.awsf.net/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "If GetUser = \"\" Then MsgBox \"WARNING:\" & Chr(13) & \"It appears that you are not online and therefore most of this prog's features will not work for you.\", vbExclamation, \"Warning\""
+        },
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "dStatus \"Sends as command for this prog\""
+        },
+        {
+          "sourceFile": "rampage-frm1.frm",
+          "text": "Private Sub Winsock1_Error(ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean)"
+        },
+        {
+          "sourceFile": "rampage-rawhack.Frm",
+          "text": "AddText 1, \">If you know the protocol you can use this program to chat on IRC servers or learn how servers on other computers, as well as your own work.\""
+        },
+        {
+          "sourceFile": "rampage-rawhack.Frm",
+          "text": "AddText 1, \">Error Number \" & Number & \". \" & Description"
+        },
+        {
+          "sourceFile": "rampage-frmAbout.frm",
+          "text": "Caption = \"-Version 1.1 for AOL 4.0 and 5.0 Beta\""
+        }
+      ],
+      "externalTextFileCount": 48,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -8007,7 +8093,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "third parties to",
         "the Free",
         "the two goals",
-        "APPLICABLE LAW OR AGREED TO IN WRITING"
+        "APPLICABLE LAW"
       ],
       "externalTextPurposeSignals": [
         "Idler / AFK bot",
@@ -9106,7 +9192,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "sourcePages": [],
       "externalTextAuthors": [
-        "TopGear with help from the bind"
+        "TopGear"
       ],
       "externalTextPurposeSignals": [],
       "externalTextVersions": [],
@@ -9959,11 +10045,13 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite"
+      ],
       "externalTextVersions": [],
       "externalTextUrls": [],
       "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -9988,7 +10076,7 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextVersions": [],
       "externalTextUrls": [],
       "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -72045,31 +72133,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "rt-src",
-      "fileName": "rt1_src.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://www.oogle.net/rt1source/rt1_src.zip",
-          "waybackUrl": "https://web.archive.org/web/20000619003422/http://www.oogle.net/rt1source/rt1_src.zip",
-          "source": "Rampage Toolz 1.1 Source disclaimer",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "Rampage Toolz 1.1 Source disclaimer"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],

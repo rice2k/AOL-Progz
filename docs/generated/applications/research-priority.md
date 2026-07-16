@@ -1921,7 +1921,7 @@ A sorted queue for metadata cleanup. High and medium entries should be reviewed 
 | [Quicky Gag](pages/Q/1565-quicky-gag.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [Quicky Gag3](pages/Q/1566-quicky-gag3.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [Raid~1](pages/R/1573-raid1.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
-| [Rampage Toolz](pages/R/1574-rampage-toolz.md) | medium (4) | matched external ZIP text to verify<br>web image lead needs screenshot match | Open the external ZIP text evidence page and promote reliable author/version/purpose clues. | 15 | 15 | 2 | 0 |
+| [Rampage Toolz](pages/R/1574-rampage-toolz.md) | medium (4) | matched external ZIP text to verify<br>web image lead needs screenshot match | Open the external ZIP text evidence page and promote reliable author/version/purpose clues. | 15 | 16 | 3 | 0 |
 | [Rampage Toolz 2.0](pages/R/1575-rampage-toolz-2-0.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 11 | 1 | 0 | 0 |
 | [rancid1](pages/R/1577-rancid1.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |
 | [RatTrap](pages/R/1584-rattrap.md) | medium (4) | category uncertain | Scan readable text and old source-page labels to assign category/type. | 1 | 0 | 0 | 0 |

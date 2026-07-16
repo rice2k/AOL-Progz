@@ -117,6 +117,19 @@ const directDownloads = [
     discoveredText: "Rampage Toolz 1.1 source-code ZIP linked from Oogle's archived source page.",
   },
   {
+    name: "rt1_src.zip",
+    sourceList: "AOLUnderground reference mirror source-code files",
+    sourceListUrl: "https://aolunderground.com/proggies/",
+    originalUrl:
+      "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+    waybackUrl:
+      "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/rt1_src.zip",
+    downloadUrl:
+      "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/rt1_src.zip",
+    discoveredText:
+      "Rampage Toolz 1.1 source-code ZIP recovered from the AOLUnderground public archive mirror; recorded as a reference copy, not an authorship source.",
+  },
+  {
     name: "setuprt22.exe",
     sourceList: "User-supplied Oogle Rampage source leads",
     originalUrl: "http://www.oogle.net/rampage/setuprt22.exe",
