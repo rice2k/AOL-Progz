@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.5 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0652-elite-gather-revised.zip](../../../../../files/aol/aol-4-0/0652-elite-gather-revised.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elitegather.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elitegather.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elitegather.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elitegather.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elitegather.zip)
@@ -96,13 +101,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Hadez progs | Click Here | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/gather.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/gather.zip) | [http://dnx-online.net/~hadez/files/gather.zip](http://dnx-online.net/~hadez/files/gather.zip) |
-| prog's/misc a-m | elite gather | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip) | [http://lenshellarchive.com/Progs/aolprogs/elitegather.zip](http://lenshellarchive.com/Progs/aolprogs/elitegather.zip) |
+| LensHell misc progs A-M | elite gather | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip) | [http://lenshellarchive.com/Progs/aolprogs/elitegather.zip](http://lenshellarchive.com/Progs/aolprogs/elitegather.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Hadez progs | gather.zip | [http://dnx-online.net/~hadez/files/gather.zip](http://dnx-online.net/~hadez/files/gather.zip) | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/gather.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/gather.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | elitegather.zip | [http://lenshellarchive.com/Progs/aolprogs/elitegather.zip](http://lenshellarchive.com/Progs/aolprogs/elitegather.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

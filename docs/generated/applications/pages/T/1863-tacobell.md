@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | unknown |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | taco bell toolz | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tacobell.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tacobell.zip) | [http://lenshellarchive.com/Progs/aolprogs/tacobell.zip](http://lenshellarchive.com/Progs/aolprogs/tacobell.zip) |
+| LensHell misc progs N-Z | taco bell toolz | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tacobell.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tacobell.zip) | [http://lenshellarchive.com/Progs/aolprogs/tacobell.zip](http://lenshellarchive.com/Progs/aolprogs/tacobell.zip) |
 | Section 2 | Taco-Bell Toolz | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tacobell.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tacobell.zip) | [http://www.cybernyse.com/downlowdz/tacobell.zip](http://www.cybernyse.com/downlowdz/tacobell.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Taco-Bell Toolz | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tacobell.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tacobell.zip) | [http://24.185.191.87/progz/tacobell.zip](http://24.185.191.87/progz/tacobell.zip) |
 

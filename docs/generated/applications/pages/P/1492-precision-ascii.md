@@ -46,10 +46,15 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | precision ascii | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/precision.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/precision.zip) | [http://lenshellarchive.com/Progs/aolprogs/precision.zip](http://lenshellarchive.com/Progs/aolprogs/precision.zip) |
+| LensHell misc progs N-Z | precision ascii | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/precision.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/precision.zip) | [http://lenshellarchive.com/Progs/aolprogs/precision.zip](http://lenshellarchive.com/Progs/aolprogs/precision.zip) |
 
 ### Mirror Leads
 

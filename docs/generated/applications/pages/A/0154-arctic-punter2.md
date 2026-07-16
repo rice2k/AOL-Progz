@@ -46,10 +46,15 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | arctic punter 2 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip) | [http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip](http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip) |
+| LensHell punters | arctic punter 2 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip) | [http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip](http://lenshellarchive.com/Progs/aolpunters/arcticpunter2.zip) |
 
 ### Mirror Leads
 

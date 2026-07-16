@@ -43,18 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 4 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/techno.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/techno.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/techno.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/techno.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/techno.zip)
@@ -95,13 +101,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip) | [http://www.lilbudbot.com/aimthings/layouts/Techno.zip](http://www.lilbudbot.com/aimthings/layouts/Techno.zip) |
-| prog's/misc n-z | techno terror² | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/techno.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/techno.zip) | [http://lenshellarchive.com/Progs/aolprogs/techno.zip](http://lenshellarchive.com/Progs/aolprogs/techno.zip) |
+| LensHell misc progs N-Z | techno terror² | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/techno.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/techno.zip) | [http://lenshellarchive.com/Progs/aolprogs/techno.zip](http://lenshellarchive.com/Progs/aolprogs/techno.zip) |
 | Section 2 | Techno Terror² | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/techno.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/techno.zip) | [http://www.cybernyse.com/downlowdz/techno.zip](http://www.cybernyse.com/downlowdz/techno.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Techno Terror² | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/techno.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/techno.zip) | [http://24.185.191.87/progz/techno.zip](http://24.185.191.87/progz/techno.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Free Layouts | Techno.zip | [http://www.lilbudbot.com/aimthings/layouts/Techno.zip](http://www.lilbudbot.com/aimthings/layouts/Techno.zip) | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 4 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-5-0/0803-fusion.zip](../../../../../files/aol/aol-5-0/0803-fusion.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion x for aol 5.0 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip)
@@ -97,13 +102,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Titan Spaceports progs | Cold Fusion 1.0 | [https://web.archive.org/web/20010504044037/http://members.tripod.com/dlmatrix/CFOmg.zip](https://web.archive.org/web/20010504044037/http://members.tripod.com/dlmatrix/CFOmg.zip) | [http://members.tripod.com/dlmatrix/CFOmg.zip](http://members.tripod.com/dlmatrix/CFOmg.zip) |
 | Titan Spaceports progs | Cold Fusion 3 Macro Theif | [https://web.archive.org/web/20010504044037/http://members.xoom.com/matrixdl/theif.zip](https://web.archive.org/web/20010504044037/http://members.xoom.com/matrixdl/theif.zip) | [http://members.xoom.com/matrixdl/theif.zip](http://members.xoom.com/matrixdl/theif.zip) |
-| c-coms | fusion x | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip) | [http://lenshellarchive.com/Progs/aolccoms/fusion.zip](http://lenshellarchive.com/Progs/aolccoms/fusion.zip) |
+| LensHell c-coms | fusion x | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip) | [http://lenshellarchive.com/Progs/aolccoms/fusion.zip](http://lenshellarchive.com/Progs/aolccoms/fusion.zip) |
 | Progs Section 1 | I2 Fusion ToolBox | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip) | [http://www.cybernyse.com/i2fusiontoolbox.zip](http://www.cybernyse.com/i2fusiontoolbox.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell c-coms | fusion.zip | [http://lenshellarchive.com/Progs/aolccoms/fusion.zip](http://lenshellarchive.com/Progs/aolccoms/fusion.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip) | [files/external/lenshellarchive-com/fusion-163af7fc.zip](../../../../../files/external/lenshellarchive-com/fusion-163af7fc.zip) | ready |
 | Progs Section 1 | i2fusiontoolbox.zip | [http://www.cybernyse.com/i2fusiontoolbox.zip](http://www.cybernyse.com/i2fusiontoolbox.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip) | unknown | candidate |
 
 ### Web Image Leads

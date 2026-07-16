@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | unknown |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -102,7 +107,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | godzilla | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/godzilla.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/godzilla.zip) | [http://lenshellarchive.com/Progs/aolprogs/godzilla.zip](http://lenshellarchive.com/Progs/aolprogs/godzilla.zip) |
+| LensHell misc progs A-M | godzilla | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/godzilla.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/godzilla.zip) | [http://lenshellarchive.com/Progs/aolprogs/godzilla.zip](http://lenshellarchive.com/Progs/aolprogs/godzilla.zip) |
 
 ### Mirror Leads
 

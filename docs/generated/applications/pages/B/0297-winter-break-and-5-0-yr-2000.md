@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 24 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
+| Author confidence | unknown |
+| Category confidence | external ZIP text |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -102,10 +107,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip | [http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip](http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip) | [http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip](http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip) |
-| prog's/misc n-z | spring break | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip) | [http://lenshellarchive.com/Progs/aolprogs/sb.zip](http://lenshellarchive.com/Progs/aolprogs/sb.zip) |
+| LensHell misc progs N-Z | spring break | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip) | [http://lenshellarchive.com/Progs/aolprogs/sb.zip](http://lenshellarchive.com/Progs/aolprogs/sb.zip) |
 | Section 2 | Spring Break | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip) | [http://www.cybernyse.com/downlowdz/sb.zip](http://www.cybernyse.com/downlowdz/sb.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Spring Break | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sb.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sb.zip) | [http://24.185.191.87/progz/sb.zip](http://24.185.191.87/progz/sb.zip) |
-| c-coms | winter break | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip) | [http://lenshellarchive.com/Progs/aolccoms/break.zip](http://lenshellarchive.com/Progs/aolccoms/break.zip) |
+| LensHell c-coms | winter break | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip) | [http://lenshellarchive.com/Progs/aolccoms/break.zip](http://lenshellarchive.com/Progs/aolccoms/break.zip) |
 
 ### Mirror Leads
 

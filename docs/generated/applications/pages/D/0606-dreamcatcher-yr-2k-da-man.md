@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#password-metadata](../../../tags/password-metadata.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md)
 
 ## Source And Files
 
@@ -96,8 +101,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Progs Section 1 | Dream Catcher | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dreamcatcher.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dreamcatcher.zip) | [http://www.cybernyse.com/dreamcatcher.zip](http://www.cybernyse.com/dreamcatcher.zip) |
+| LensHell misc progs A-M | dreamcatcher | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip) | [http://lenshellarchive.com/Progs/aolprogs/dream.zip](http://lenshellarchive.com/Progs/aolprogs/dream.zip) |
 | Click-Online AOL 4/5 progz | dreamcatcher | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/dreamcatcher.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/dreamcatcher.zip) | [http://click-online2000.com/progz/dreamcatcher.zip](http://click-online2000.com/progz/dreamcatcher.zip) |
-| prog's/misc a-m | dreamcatcher | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip) | [http://lenshellarchive.com/Progs/aolprogs/dream.zip](http://lenshellarchive.com/Progs/aolprogs/dream.zip) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/dreamcatcher.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dreamcatcher.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/dreamcatcher.zip) | [http://www.oogle.net/downloads/progs/dreamcatcher.zip](http://www.oogle.net/downloads/progs/dreamcatcher.zip) |
 
 ### Mirror Leads

@@ -43,18 +43,24 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0744-fadedat.zip](../../../../../files/aol/aol-4-0/0744-fadedat.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fade dat shintz for aol 4.0 and 5.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fade%20dat%20shintz%20for%20aol%204.0%20and%205.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fade%20dat%20shintz%20for%20aol%204.0%20and%205.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fade%20dat%20shintz%20for%20aol%204.0%20and%205.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fade%20dat%20shintz%20for%20aol%204.0%20and%205.0.zip)
@@ -95,11 +101,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell faders | fade dat shintz | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat.zip) | [http://lenshellarchive.com/Progs/aolfaders/fadedat.zip](http://lenshellarchive.com/Progs/aolfaders/fadedat.zip) |
-| Visual Basic Section | fadedat bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip) | [http://lenshellarchive.com/VBfiles/fadedat.zip](http://lenshellarchive.com/VBfiles/fadedat.zip) |
+| LensHell Visual Basic | fadedat bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip) | [http://lenshellarchive.com/VBfiles/fadedat.zip](http://lenshellarchive.com/VBfiles/fadedat.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell faders | fadedat.zip | [http://lenshellarchive.com/Progs/aolfaders/fadedat.zip](http://lenshellarchive.com/Progs/aolfaders/fadedat.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat.zip) | unknown | http-404 |
+| Web page: LensHell Visual Basic | fadedat.zip | [http://lenshellarchive.com/VBfiles/fadedat.zip](http://lenshellarchive.com/VBfiles/fadedat.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

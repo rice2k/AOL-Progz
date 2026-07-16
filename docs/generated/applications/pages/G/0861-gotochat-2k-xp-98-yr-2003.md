@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| buster's | gotochat version 1 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip) | [http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip](http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip) |
+| LensHell busters | gotochat version 1 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip) | [http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip](http://lenshellarchive.com/Progs/aolbusters/gotochatv1.zip) |
 
 ### Mirror Leads
 

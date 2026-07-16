@@ -1,17 +1,17 @@
 window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
-  "generatedAt": "2026-07-16T12:09:39.039Z",
+  "generatedAt": "2026-07-16T14:33:17.807Z",
   "sourceListCount": 3,
-  "candidateCount": 18446,
-  "downloadCount": 1463,
-  "readyCount": 502,
-  "mirrorGroupCount": 1667,
+  "candidateCount": 18448,
+  "downloadCount": 1783,
+  "readyCount": 526,
+  "mirrorGroupCount": 1686,
   "byStatus": {
-    "ready": 502,
+    "ready": 526,
     "invalid-archive": 8,
     "empty-file": 1,
-    "http-404": 929,
+    "http-404": 1224,
     "failed": 5,
-    "html-replay": 11,
+    "html-replay": 12,
     "too-large": 1,
     "out-of-scope": 6
   },
@@ -228,8 +228,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vbrun300.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vbrun300.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vbrun300.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -393,8 +393,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/msvbvm60.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -549,7 +549,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crack.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crack.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -1218,7 +1218,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/server.zip",
           "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/server.zip",
-          "sourceList": "Web page: mmer's/server's",
+          "sourceList": "Web page: LensHell mailers and servers",
           "status": "candidate"
         },
         {
@@ -1874,7 +1874,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/scroll.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -1954,8 +1954,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -2691,7 +2691,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -2969,8 +2969,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/chatscan3.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/chatscan3.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/chatscan3.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -3097,8 +3097,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/ocxreg.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/ocxreg.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/ocxreg.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -3161,13 +3161,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/vbmsg.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/vbmsg.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vbmsg.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vbmsg.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vbmsg.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -3281,7 +3281,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/buster.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/buster.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -3338,7 +3338,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cracker.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracker.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -3515,7 +3515,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idletech2.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletech2.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -3797,8 +3797,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vbrun100.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vbrun100.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vbrun100.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -4434,8 +4434,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -4884,8 +4884,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/mswinsck.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/mswinsck.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/mswinsck.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -4936,7 +4936,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/sb.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -5065,7 +5065,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/vbrun60.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/vbrun60.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -5188,7 +5188,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/aol40.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol40.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -5227,7 +5227,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/chatcom2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chatcom2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -5346,7 +5346,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cracks.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracks.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -5385,7 +5385,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eod2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod2.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -5580,7 +5580,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -5619,7 +5619,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/mario.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/mario.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -5658,7 +5658,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/monkefade3.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/monkefade3.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -5696,8 +5696,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/mscomctl.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/mscomctl.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/mscomctl.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -5735,8 +5735,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/msinet.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/msinet.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/msinet.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -5781,7 +5781,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/neon.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/neon.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -5853,7 +5853,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pokemon.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pokemon.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -6087,7 +6087,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/punt2001.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -6165,7 +6165,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -6448,7 +6448,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/toad.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/toad.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -6519,8 +6519,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vb5chat2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb5chat2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb5chat2.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -6597,8 +6597,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vbwfind.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vbwfind.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vbwfind.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -6775,7 +6775,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimster.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -6841,7 +6841,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/aol32.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol32.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -7038,8 +7038,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/comdlg32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/comdlg32.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/comdlg32.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -7091,6 +7091,39 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.fortunecity.com/skyscraper/data/538/crackerjack.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/data/538/crackerjack.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [],
+      "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "dos32-zip",
+      "name": "dos32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dos32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://server39.hypermart.net/wipeout/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip",
+          "sourceList": "Web page: VISUAL BASIC",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
+          "waybackUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
+          "sourceList": "Web page: Alpha32",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/journal/vb/download/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/journal/vb/download/dos32.zip",
+          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -7237,7 +7270,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -7259,8 +7292,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/gadget-f4b025cf.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 4
     },
     {
@@ -7507,7 +7542,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -7540,7 +7575,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -7567,7 +7602,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -7639,7 +7674,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -7804,7 +7839,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/nuked.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nuked.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -7870,7 +7905,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -7963,13 +7998,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/platinum.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/platinum.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/platinum.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/platinum.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -8035,7 +8070,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8062,7 +8097,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/punjabiacid.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8167,7 +8202,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revolutionx.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8227,7 +8262,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/speedy.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/speedy.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -8332,7 +8367,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/techno.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/techno.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8431,7 +8466,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/thorn.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8493,7 +8528,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tortuga.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tortuga.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8592,7 +8627,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/vampire.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/vampire.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8624,8 +8659,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vb40032dll.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40032dll.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb40032dll.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -8657,8 +8692,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/vbrun200dll.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vbrun200dll.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vbrun200dll.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -8726,7 +8761,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/wb2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/wb2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -8798,7 +8833,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolxers/x2x.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/x2x.zip",
-          "sourceList": "Web page: x'ers",
+          "sourceList": "Web page: LensHell xers",
           "status": "candidate"
         },
         {
@@ -8864,7 +8899,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/yoyov2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/yoyov2.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8891,7 +8926,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/zerolimits4.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/zerolimits4.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -8924,7 +8959,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/007.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/007.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -8978,7 +9013,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/3dmaze.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/3dmaze.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -9034,7 +9069,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/access.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip",
-          "sourceList": "Web page: buster's",
+          "sourceList": "Web page: LensHell busters",
           "status": "candidate"
         },
         {
@@ -9198,7 +9233,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim95.zip",
           "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim95.zip",
-          "sourceList": "Web page: AOL/AIM/Yahoo",
+          "sourceList": "Web page: LensHell AOL AIM Yahoo clients",
           "status": "candidate"
         },
         {
@@ -9713,7 +9748,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/alien.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/alien.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -9742,7 +9777,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/anarchy.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -9796,7 +9831,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/anthrax.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anthrax.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -9823,7 +9858,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/anti.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/anti.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -10049,7 +10084,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/blackout.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackout.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -10124,13 +10159,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/blueice.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blueice.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/blueice.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blueice.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -10178,7 +10213,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/brain.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/brain.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -10261,7 +10296,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cchat.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchat.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -10373,7 +10408,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -10453,8 +10488,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/cloc.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/cloc.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/cloc.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -10508,7 +10543,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/co2coms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/co2coms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -10564,7 +10599,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/corruption.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/corruption.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -10838,7 +10873,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackzilla.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackzilla.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -10919,7 +10954,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/cryofade.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofade.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -10999,8 +11034,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/dbpush.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/dbpush.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/dbpush.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -11060,7 +11095,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/devastation.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/devastation.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -11081,7 +11116,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dimorphic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dimorphic.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -11094,33 +11129,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.cybernyse.com/dimorphic.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dimorphic.zip",
           "sourceList": "Web page: Progs Section 1",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 3
-    },
-    {
-      "key": "dos32-zip",
-      "name": "dos32.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dos32.zip",
-          "sourceList": "Web page: Visual Basic Section",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://server39.hypermart.net/wipeout/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip",
-          "sourceList": "Web page: VISUAL BASIC",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/journal/vb/download/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/journal/vb/download/dos32.zip",
-          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -11162,7 +11170,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -11216,7 +11224,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/enervate.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/enervate.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -11243,7 +11251,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -11259,8 +11267,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/eternal-afef7c91.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -11330,7 +11340,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/fadedat.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -11384,7 +11394,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -11394,8 +11404,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/fatal-d185679f.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -11405,7 +11417,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -11622,8 +11634,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/gauge.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/gauge.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/gauge.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -11704,7 +11716,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/global.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/global.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -11759,8 +11771,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/grid.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/grid.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/grid.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -11787,7 +11799,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/gta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gta.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -11868,7 +11880,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hellrais.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hellrais.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -12034,7 +12046,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/igneous.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/igneous.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -12142,7 +12154,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/juggalo.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -12196,7 +12208,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lastresort.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lastresort.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -12304,7 +12316,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/linktech.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktech.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -12331,7 +12343,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/liquidfire.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidfire.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -12439,7 +12451,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lustv1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lustv1.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -12493,7 +12505,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/magnetic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/magnetic.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -12574,7 +12586,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/mailerror.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/mailerror.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -12682,7 +12694,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/mixed.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -12738,7 +12750,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/morbid.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/morbid.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -12765,7 +12777,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/msgbox.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/msgbox.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -12791,8 +12803,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/msvbvm50dll.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/msvbvm50dll.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/msvbvm50dll.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -13012,7 +13024,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/paquin.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/paquin.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -13039,7 +13051,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/parasite.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/parasite.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -13093,7 +13105,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pelle.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pelle.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -13147,7 +13159,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/pianda.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/pianda.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -13201,7 +13213,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pride.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pride.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -13286,7 +13298,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/progee.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -13340,7 +13352,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/prophecy2k.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy2k.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -13475,7 +13487,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/quick.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip",
-          "sourceList": "Web page: buster's",
+          "sourceList": "Web page: LensHell busters",
           "status": "candidate"
         },
         {
@@ -13557,8 +13569,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/richtx32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/richtx32.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/richtx32.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -13666,7 +13678,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/shade.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/shade.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -13747,7 +13759,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/simpletools.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/simpletools.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -13828,7 +13840,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/snoopidle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/snoopidle.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -13855,7 +13867,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/solar.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/solar.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -13938,7 +13950,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/sphere.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sphere.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -13991,8 +14003,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/ss3dvbx.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/ss3dvbx.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/ss3dvbx.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -14077,7 +14089,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/sti.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/sti.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -14131,7 +14143,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/surface.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/surface.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -14184,8 +14196,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/systray.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/systray.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/systray.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -14211,8 +14223,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/tabctl32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/tabctl32.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/tabctl32.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -14239,7 +14251,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tacobell.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tacobell.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14266,7 +14278,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/tempest.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/tempest.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14374,7 +14386,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/theurge.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/theurge.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14400,8 +14412,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/threed.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/threed.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/threed.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -14428,7 +14440,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/tidle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tidle.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -14455,7 +14467,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/timer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/timer.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14563,7 +14575,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/trance.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/trance.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14727,7 +14739,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/v11.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/v11.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -14754,13 +14766,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/vapor.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/vapor.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/vapor.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/vapor.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -14810,7 +14822,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/vb3d.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/vb3d.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -14837,7 +14849,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wave.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wave.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14864,7 +14876,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wicca.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wicca.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14891,7 +14903,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wild.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -14975,8 +14987,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/winsck.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/winsck.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/winsck.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -15086,7 +15098,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/wtf4.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wtf4.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -15113,7 +15125,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/xbust.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xbust.zip",
-          "sourceList": "Web page: buster's",
+          "sourceList": "Web page: LensHell busters",
           "status": "candidate"
         },
         {
@@ -15221,7 +15233,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolxers/yuryignore.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/yuryignore.zip",
-          "sourceList": "Web page: x'ers",
+          "sourceList": "Web page: LensHell xers",
           "status": "candidate"
         },
         {
@@ -15302,7 +15314,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/1im.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/1im.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -15364,8 +15376,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/3dlabel.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/3dlabel.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/3dlabel.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -15554,7 +15566,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/abbotaim.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/abbotaim.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -15575,7 +15587,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/abomination.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/abomination.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -15596,7 +15608,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/abuseme.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/abuseme.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -15662,8 +15674,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/actcndy2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/actcndy2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/actcndy2.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -15683,8 +15695,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/activeskin.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/activeskin.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/activeskin.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -15810,13 +15822,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/afk.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/afk.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/afk.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/afk.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         }
       ],
@@ -15978,7 +15990,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aim44.zip",
           "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aim44.zip",
-          "sourceList": "Web page: AOL/AIM/Yahoo",
+          "sourceList": "Web page: LensHell AOL AIM Yahoo clients",
           "status": "candidate"
         },
         {
@@ -18172,7 +18184,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aimpluss.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -19014,7 +19026,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/andone.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/andone.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -19037,7 +19049,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/annihilation.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/annihilation.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -19121,7 +19133,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolantis/antilag.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/antilag.zip",
-          "sourceList": "Web page: anti's",
+          "sourceList": "Web page: LensHell antis",
           "status": "candidate"
         },
         {
@@ -19163,7 +19175,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aocoms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aocoms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -19207,7 +19219,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
           "waybackUrl": "https://web.archive.org/web/20111002114229/http://lenshellarchive.com/Progs/aol-aim-yahoo/aol25.zip",
-          "sourceList": "Web page: AOL/AIM/Yahoo",
+          "sourceList": "Web page: LensHell AOL AIM Yahoo clients",
           "status": "candidate"
         },
         {
@@ -19227,8 +19239,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/aol7chat.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/aol7chat.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/aol7chat.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -19291,7 +19303,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aolinker.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -19375,7 +19387,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/arc.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arc.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -19459,7 +19471,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ascii.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/ascii.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -19608,7 +19620,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/aurora.zip",
           "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip",
-          "sourceList": "Web page: mmer's/server's",
+          "sourceList": "Web page: LensHell mailers and servers",
           "status": "candidate"
         },
         {
@@ -19652,7 +19664,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/autolink.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/autolink.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -19841,7 +19853,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/bauhaus3k.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bauhaus3k.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -19862,13 +19874,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bblidle31.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bblidle31.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/bblidle31.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/bblidle31.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         }
       ],
@@ -19925,7 +19937,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/biosphere.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/biosphere.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -19967,13 +19979,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/blind.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/blind.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/blind.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blind.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         }
       ],
@@ -19988,7 +20000,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blindcoms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blindcoms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -20032,7 +20044,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -20286,7 +20298,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/break.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/break.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -20433,7 +20445,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7final.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7final.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -20731,7 +20743,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cf3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cf3.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -20815,7 +20827,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatbattle.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatbattle.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -20962,13 +20974,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatriot.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatriot.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chatriot.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chatriot.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         }
       ],
@@ -21046,7 +21058,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/christmas98.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/christmas98.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -21067,7 +21079,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chrome.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -21088,7 +21100,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chronic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chronic.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -21129,8 +21141,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/cmdialog.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/cmdialog.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/cmdialog.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -21214,7 +21226,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/coldfusion.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/coldfusion.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -21301,8 +21313,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/comctl32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/comctl32.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/comctl32.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -21347,7 +21359,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comic.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -21645,7 +21657,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackerhelp.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackerhelp.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -21771,7 +21783,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackofdawn.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackofdawn.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -21792,7 +21804,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/cracksource.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cracksource.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -21878,7 +21890,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/cryofadev2.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofadev2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -21920,7 +21932,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/cube.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cube.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -21962,7 +21974,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/cuntpunt.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/cuntpunt.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -22025,7 +22037,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cyanosis.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cyanosis.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -22048,7 +22060,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cyclone.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cyclone.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -22069,7 +22081,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cyclone2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cyclone2.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -22111,7 +22123,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dangerzone.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dangerzone.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -22176,13 +22188,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darksoul.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darksoul.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/darksoul.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/darksoul.zip",
-          "sourceList": "Web page: buster's",
+          "sourceList": "Web page: LensHell busters",
           "status": "candidate"
         }
       ],
@@ -22197,7 +22209,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -22285,7 +22297,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/db3turbo.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/db3turbo.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -22305,8 +22317,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/dbttip.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/dbttip.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/dbttip.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -22390,7 +22402,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/decipher.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/decipher.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -22411,13 +22423,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/defcon.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/defcon.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/defcon.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/defcon.zip",
-          "sourceList": "Web page: termer's",
+          "sourceList": "Web page: LensHell termers",
           "status": "candidate"
         }
       ],
@@ -22474,7 +22486,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/demolishing.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -22495,7 +22507,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/demon.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -22537,7 +22549,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/destruction.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destruction.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -22623,7 +22635,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/diablo2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/diablo2.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -22644,7 +22656,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/digitalimpact.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/digitalimpact.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -22730,7 +22742,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dnalphaidle3.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dnalphaidle3.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -22877,7 +22889,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/drunkidle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/drunkidle.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -22940,7 +22952,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dt2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dt2.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -23067,8 +23079,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/dwsbc32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/dwsbc32.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/dwsbc32.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -23152,7 +23164,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/edits.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edits.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -23173,7 +23185,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/electrik.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -23299,7 +23311,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eod.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -23320,7 +23332,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/epidemic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/epidemic.zip",
-          "sourceList": "Web page: mmer's/server's",
+          "sourceList": "Web page: LensHell mailers and servers",
           "status": "candidate"
         },
         {
@@ -23341,7 +23353,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/erotica.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/erotica.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -23362,7 +23374,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/error.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/error.zip",
-          "sourceList": "Web page: punter's",
+          "sourceList": "Web page: LensHell punters",
           "status": "candidate"
         },
         {
@@ -23410,7 +23422,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         }
       ],
@@ -23614,7 +23626,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fed.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fed.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -23624,8 +23636,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/lenshellarchive-com/fed-719dd179.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -23677,7 +23691,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fiery.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fiery.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -23704,7 +23718,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/final.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/final.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         }
       ],
@@ -23719,7 +23733,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/finger.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/finger.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -23844,8 +23858,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/flatbtn2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/flatbtn2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/flatbtn2.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -23942,9 +23956,10 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         }
       ],
       "localFiles": [
-        "files/external/aimfilez-com/formatsn-ac427d25.exe"
+        "files/external/aimfilez-com/formatsn-ac427d25.exe",
+        "files/external/aimthings-com/formatsn-56448406.exe"
       ],
-      "readyCount": 1,
+      "readyCount": 2,
       "totalMirrors": 2
     },
     {
@@ -23975,7 +23990,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/forsaken.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/forsaken.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -24059,7 +24074,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/freon.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freon.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -24101,7 +24116,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -24586,7 +24601,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/goldmm.zip",
           "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/goldmm.zip",
-          "sourceList": "Web page: mmer's/server's",
+          "sourceList": "Web page: LensHell mailers and servers",
           "status": "candidate"
         },
         {
@@ -24670,7 +24685,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/grafik.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grafik.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -24691,7 +24706,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gravity.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gravity.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -24775,7 +24790,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/guardian.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/guardian.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -25260,7 +25275,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/hixaim2.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hixaim2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -25409,7 +25424,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hyperlinker2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker2.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -25430,7 +25445,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/icc.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/icc.zip",
-          "sourceList": "Web page: cracker's",
+          "sourceList": "Web page: LensHell crackers",
           "status": "candidate"
         },
         {
@@ -25472,7 +25487,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/icp.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/icp.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -25726,7 +25741,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/inflames.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/inflames.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -25747,7 +25762,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/insane.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/insane.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -25830,14 +25845,14 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/ipgrabberv10.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120617/http://lenshellarchive.com/Progs/miscprogs/ipgrabberv10.zip",
-          "sourceList": "Web page: LensHellArchive Updates",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/miscprogs/ipgrabberv10.zip",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/tutorials/ipgrabberv10.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/tutorials/ipgrabberv10.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         }
       ],
@@ -25915,7 +25930,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/itankremix.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/itankremix.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -25978,7 +25993,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/jarule2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/jarule2.zip",
-          "sourceList": "Web page: termer's",
+          "sourceList": "Web page: LensHell termers",
           "status": "candidate"
         },
         {
@@ -26104,7 +26119,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/judgementday.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/judgementday.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -26125,7 +26140,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -26377,7 +26392,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/kronic1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/kronic1.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -26446,7 +26461,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/legos.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/legos.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         }
       ],
@@ -26482,7 +26497,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lethal3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -26775,8 +26790,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/lvbuttons.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/lvbuttons.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/lvbuttons.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -26923,7 +26938,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/magic.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip",
-          "sourceList": "Web page: buster's",
+          "sourceList": "Web page: LensHell busters",
           "status": "candidate"
         },
         {
@@ -27028,7 +27043,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/matrixfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/matrixfinal.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -27048,8 +27063,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/mbar.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/mbar.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/mbar.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -27070,7 +27085,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -27091,13 +27106,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/mdk.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/mdk.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/mdk.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/mdk.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         }
       ],
@@ -27594,8 +27609,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/mp3play.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/mp3play.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/mp3play.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -28300,7 +28315,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/omega.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/omega.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -28321,7 +28336,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/ontop.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/ontop.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -28489,7 +28504,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/paranoid.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/paranoid.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -28680,7 +28695,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -28721,8 +28736,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/percnt2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/percnt2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/percnt2.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -28913,7 +28928,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/plasma.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/plasma.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -29039,13 +29054,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/poof.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/poof.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/poof.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/poof.zip",
-          "sourceList": "Web page: termer's",
+          "sourceList": "Web page: LensHell termers",
           "status": "candidate"
         }
       ],
@@ -29250,8 +29265,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/progfiles.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/progfiles.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/progfiles.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -29484,7 +29499,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/puma.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/puma.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -29610,7 +29625,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pwshexer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/pwshexer.zip",
-          "sourceList": "Web page: prog's/misc a-m",
+          "sourceList": "Web page: LensHell misc progs A-M",
           "status": "candidate"
         },
         {
@@ -29673,7 +29688,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/radioactive.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/radioactive.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -29736,7 +29751,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rawphish.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rawphish.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -29822,7 +29837,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/remote.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/remote.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         },
         {
@@ -30177,15 +30192,15 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "name": "revxfinal.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/revxfinal.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/revxfinal.zip",
-          "sourceList": "Web page: Yahoo Progs",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/revxfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revxfinal.zip",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/revxfinal.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revxfinal.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/revxfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/revxfinal.zip",
+          "sourceList": "Web page: Yahoo Progs",
           "status": "candidate"
         }
       ],
@@ -30198,15 +30213,15 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "name": "revxtreme.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/revxtreme.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/revxtreme.zip",
-          "sourceList": "Web page: Yahoo Progs",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/revxtreme.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revxtreme.zip",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/revxtreme.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/revxtreme.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/revxtreme.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/revxtreme.zip",
+          "sourceList": "Web page: Yahoo Progs",
           "status": "candidate"
         }
       ],
@@ -30325,8 +30340,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/rotext.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/rotext.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/rotext.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -30389,7 +30404,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/sailormoon.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sailormoon.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -30474,8 +30489,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/scanchat.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/scanchat.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/scanchat.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -30496,7 +30511,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/scorpion1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scorpion1.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -30517,7 +30532,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/scramble.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scramble.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -30775,7 +30790,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/sharkbait2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sharkbait2.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -30880,13 +30895,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/simple.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/simple.zip",
-          "sourceList": "Web page: buster's",
+          "sourceList": "Web page: LensHell busters",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolxers/simple.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/simple.zip",
-          "sourceList": "Web page: x'ers",
+          "sourceList": "Web page: LensHell xers",
           "status": "candidate"
         }
       ],
@@ -30922,7 +30937,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/VBfiles/sirvb6.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/sirvb6.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
@@ -30943,7 +30958,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/skateboardingtoolz2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/skateboardingtoolz2.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -31515,8 +31530,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/ss3d2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/ss3d2.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/ss3d2.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -31600,7 +31615,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/static2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/static2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -31684,13 +31699,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/stolen.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/stolen.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/stolen.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/stolen.zip",
-          "sourceList": "Web page: termer's",
+          "sourceList": "Web page: LensHell termers",
           "status": "candidate"
         }
       ],
@@ -31852,7 +31867,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/swarm.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/swarm.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -32294,8 +32309,8 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "mirrors": [
         {
           "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/threed32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/threed32.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/threed32.zip",
+          "sourceList": "Web page: LensHell runtime files",
           "status": "candidate"
         },
         {
@@ -32337,7 +32352,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/thunderscroll.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thunderscroll.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -32484,7 +32499,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/toolz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/toolz.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         },
         {
@@ -32658,7 +32673,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/typo.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/typo.zip",
-          "sourceList": "Web page: prog's/misc n-z",
+          "sourceList": "Web page: LensHell misc progs N-Z",
           "status": "candidate"
         }
       ],
@@ -32736,7 +32751,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/undertaker.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/undertaker.zip",
-          "sourceList": "Web page: termer's",
+          "sourceList": "Web page: LensHell termers",
           "status": "candidate"
         },
         {
@@ -33684,7 +33699,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/winzipkeygen.zip",
           "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/winzipkeygen.zip",
-          "sourceList": "Web page: Miscellaneous Progs",
+          "sourceList": "Web page: LensHell miscellaneous files",
           "status": "candidate"
         },
         {
@@ -33703,15 +33718,15 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "name": "wirecrackv11-source.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv11-source.zip",
-          "waybackUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv11-source.zip",
-          "sourceList": "Web page: cam0",
+          "originalUrl": "http://lenshellarchive.com/tutorials/wirecrackv11-source.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/tutorials/wirecrackv11-source.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/tutorials/wirecrackv11-source.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/tutorials/wirecrackv11-source.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "originalUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv11-source.zip",
+          "waybackUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv11-source.zip",
+          "sourceList": "Web page: cam0",
           "status": "candidate"
         }
       ],
@@ -33724,15 +33739,15 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "name": "wirecrackv12-source.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv12-source.zip",
-          "waybackUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv12-source.zip",
-          "sourceList": "Web page: cam0",
+          "originalUrl": "http://lenshellarchive.com/tutorials/wirecrackv12-source.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/tutorials/wirecrackv12-source.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://lenshellarchive.com/tutorials/wirecrackv12-source.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/tutorials/wirecrackv12-source.zip",
-          "sourceList": "Web page: Visual Basic Section",
+          "originalUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv12-source.zip",
+          "waybackUrl": "http://lenshellprogarchive.com/tutorials/wirecrackv12-source.zip",
+          "sourceList": "Web page: cam0",
           "status": "candidate"
         }
       ],
@@ -33894,7 +33909,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolxers/x.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/x.zip",
-          "sourceList": "Web page: x'ers",
+          "sourceList": "Web page: LensHell xers",
           "status": "candidate"
         },
         {
@@ -33915,7 +33930,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/x1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/x1.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         },
         {
@@ -34083,13 +34098,13 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/xtreme.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xtreme.zip",
-          "sourceList": "Web page: buster's",
+          "sourceList": "Web page: LensHell busters",
           "status": "candidate"
         },
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/xtreme.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/xtreme.zip",
-          "sourceList": "Web page: idler's",
+          "sourceList": "Web page: LensHell idlers",
           "status": "candidate"
         }
       ],
@@ -34411,7 +34426,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/4sho2beta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/4sho2beta.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -34530,7 +34545,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/accom2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/accom2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35363,7 +35378,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/akiracoms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/akiracoms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35380,7 +35395,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/akiracoms2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/akiracoms2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35397,7 +35412,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/alphacoms2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/alphacoms2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35414,7 +35429,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/amex.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/amex.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35431,7 +35446,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/amplim36.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/amplim36.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35482,7 +35497,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/antilamer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/antilamer.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35516,7 +35531,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aob.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aob.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35686,7 +35701,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/aonet.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/aonet.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35703,7 +35718,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/assgas.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/assgas.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35754,7 +35769,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/atomccom.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/atomccom.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35771,7 +35786,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audioassault.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audioassault.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35788,7 +35803,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audioassault2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audioassault2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35805,7 +35820,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/audiostylexp.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/audiostylexp.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35856,7 +35871,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/barronscom.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/barronscom.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35873,7 +35888,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/basikmp3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/basikmp3.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35890,7 +35905,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bd22.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35924,7 +35939,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bf.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35941,7 +35956,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bf2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bf2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35975,7 +35990,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackout1beta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackout1beta.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -35992,7 +36007,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackout2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackout2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36009,7 +36024,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackoutcomz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackoutcomz.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36026,7 +36041,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blackportal.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blackportal.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36043,7 +36058,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blizah.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizah.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36060,7 +36075,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/blunted.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blunted.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36094,7 +36109,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/boisccom.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36111,7 +36126,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/booked.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/booked.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36145,7 +36160,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/bootbot.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bootbot.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36264,7 +36279,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7beta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7beta.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36281,7 +36296,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c0m7beta2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c0m7beta2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36298,7 +36313,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/c12.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/c12.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36332,7 +36347,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/casocoms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/casocoms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36349,7 +36364,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36366,7 +36381,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cchatembeta3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cchatembeta3.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36383,7 +36398,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccom1.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccom1.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36400,7 +36415,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccompublic.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36417,7 +36432,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36434,7 +36449,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36451,7 +36466,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/celluoid.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/celluoid.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36468,7 +36483,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/celluoidbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/celluoidbeta.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36553,7 +36568,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36570,7 +36585,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/chillin.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36587,12 +36602,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/chillin15.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
       "localFiles": [
         "files/external/lenshellarchive-com/chillin15-b7993881.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "cinemablue-zip",
+      "name": "cinemablue.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+          "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+          "sourceList": "Web page: Free Layouts",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lilbudbot-com/cinemablue-a0e7558d.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -36604,7 +36636,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/clearhaze.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/clearhaze.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36655,7 +36687,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cold.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cold.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36672,7 +36704,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cold10.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cold10.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36689,7 +36721,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comchamber.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comchamber.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36740,7 +36772,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comillusionb2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comillusionb2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36808,7 +36840,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comsofguilt.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comsofguilt.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36825,7 +36857,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cool.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cool.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36842,7 +36874,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/covert12.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/covert12.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36859,7 +36891,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cp.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cp.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36876,7 +36908,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cp2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cp2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36910,7 +36942,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/creamccoms.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/creamccoms.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36961,7 +36993,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dacomz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dacomz.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -36995,7 +37027,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37080,7 +37112,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/decapiccomz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/decapiccomz.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37114,7 +37146,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/defcom.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/defcom.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37131,7 +37163,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37148,7 +37180,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/demonic.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/demonic.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37165,7 +37197,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/destroyer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/destroyer.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37216,7 +37248,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/digitalintakev3.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/digitalintakev3.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37233,7 +37265,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dingo.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dingo.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37250,7 +37282,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dioxide.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dioxide.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37267,7 +37299,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/directbeta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/directbeta.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37301,7 +37333,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/domination.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/domination.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37318,7 +37350,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/domination2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/domination2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37335,7 +37367,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dope.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dope.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37386,7 +37418,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dt20.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dt20.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37403,7 +37435,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dubcd.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dubcd.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -37426,6 +37458,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/aimfilez-com/dwsbc32-66a535ca.ocx"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "eebeta-zip",
+      "name": "eebeta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/eebeta-0a3e07a9.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -37460,6 +37509,57 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/emailform.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "emoties-zip",
+      "name": "emoties.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/emoties-d87775e5.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "empeethree-zip",
+      "name": "empeethree.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/empeethree-779dad0a.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "ep34311-zip",
+      "name": "ep34311.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/ep34311-bb1614af.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -37533,6 +37633,74 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "exclosure-zip",
+      "name": "exclosure.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/exclosure-95c6bcba.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "exodusowner1-zip",
+      "name": "exodusowner1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/exodusowner1-d3357fd3.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "explict-zip",
+      "name": "explict.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/explict-58d60259.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "extremefinal-zip",
+      "name": "extremefinal.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/extremefinal-e4047c91.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "factors-zip",
       "name": "factors.zip",
       "mirrors": [
@@ -37562,6 +37730,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/aimfilez-com/fader-77181647.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "fak-zip",
+      "name": "fak.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/fak-2bbbc1ef.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -37601,6 +37786,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "fierce20-zip",
+      "name": "fierce20.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/fierce20-2b7abf04.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "film-zip",
       "name": "film.zip",
       "mirrors": [
@@ -37618,6 +37820,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "floppity-zip",
+      "name": "floppity.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/floppity-904f58d5.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "form-mail-zip",
       "name": "form-mail.zip",
       "mirrors": [
@@ -37630,6 +37849,125 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/form-mail.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "fr2-zip",
+      "name": "fr2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/fr2-39efba82.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "freakyccom-zip",
+      "name": "freakyccom.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/freakyccom-e3587f2c.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "fu3beta-zip",
+      "name": "fu3beta.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/fu3beta-bae374b9.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "fuji-zip",
+      "name": "fuji.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/fuji-7d28ac78.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "fusion-zip",
+      "name": "fusion.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/fusion-163af7fc.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "fusionx22-zip",
+      "name": "fusionx22.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/fusionx22-9bb21c48.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "future-zip",
+      "name": "future.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/future.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/future.zip",
+          "sourceList": "Web page: LensHell c-coms",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/lenshellarchive-com/future-0fbedade.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -40089,7 +40427,7 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/view2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/view2.zip",
-          "sourceList": "Web page: c-coms",
+          "sourceList": "Web page: LensHell c-coms",
           "status": "candidate"
         }
       ],
@@ -57666,6 +58004,3846 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "name": "dycesbusta.zip",
       "discoveredText": "dyces room buster",
       "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/dycesbusta.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/green.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.zip",
+      "name": "green.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/blue.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/blue.zip",
+      "name": "blue.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/blue.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/rose.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/rose.zip",
+      "name": "rose.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/rose.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/tentacles.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/tentacles.zip",
+      "name": "tentacles.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/tentacles.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/elixant.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/elixant.zip",
+      "name": "elixant.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/elixant.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/truedesignsv5.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/truedesignsv5.zip",
+      "name": "truedesignsv5.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/truedesignsv5.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/crazyhobo.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/crazyhobo.zip",
+      "name": "crazyhobo.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/crazyhobo.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/webby.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/webby.zip",
+      "name": "webby.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/webby.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/sleekgray.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/sleekgray.zip",
+      "name": "sleekgray.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/sleekgray.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/ct.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/ct.zip",
+      "name": "ct.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/ct.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/cookiemonster.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cookiemonster.zip",
+      "name": "cookiemonster.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cookiemonster.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/legos.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.zip",
+      "name": "legos.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/redsparks.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/redsparks.zip",
+      "name": "redsparks.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/redsparks.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/spacelayout.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/spacelayout.zip",
+      "name": "spacelayout.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/spacelayout.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+      "name": "cinemablue.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+      "localPath": "files/external/lilbudbot-com/cinemablue-a0e7558d.zip",
+      "status": "ready",
+      "size": 55989
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/nyc.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/nyc.zip",
+      "name": "nyc.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/nyc.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip",
+      "name": "cinemagreen.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/coldlayout.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/coldlayout.zip",
+      "name": "coldlayout.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/coldlayout.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip",
+      "name": "Ugly%20Green.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/simplelayout.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/simplelayout.zip",
+      "name": "simplelayout.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/simplelayout.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/mountainlayout.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/mountainlayout.zip",
+      "name": "mountainlayout.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/mountainlayout.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/cs.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cs.zip",
+      "name": "cs.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cs.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/Techno.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip",
+      "name": "Techno.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Techno.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/war.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/war.zip",
+      "name": "war.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/war.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Free Layouts",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/freelayouts.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip",
+      "name": "htmlonly.zip",
+      "discoveredText": "Click",
+      "downloadUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/cnt223.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/cnt223.zip",
+      "name": "cnt223.zip",
+      "discoveredText": "Cnt223",
+      "downloadUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/cnt223.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/commonpass.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/commonpass.zip",
+      "name": "commonpass.zip",
+      "discoveredText": "Common Passwords",
+      "downloadUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/commonpass.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackex.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackex.zip",
+      "name": "crackex.zip",
+      "discoveredText": "CrackEx",
+      "downloadUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackex.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackit.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackit.zip",
+      "name": "crackit.zip",
+      "discoveredText": "CrackIt",
+      "downloadUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackit.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackofdawn.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackofdawn.zip",
+      "name": "crackofdawn.zip",
+      "discoveredText": "CrackOfDawn",
+      "downloadUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackofdawn.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Crackers",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimcrackers.htm",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip",
+      "waybackUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip",
+      "name": "crackwhore.zip",
+      "discoveredText": "CrackWhore",
+      "downloadUrl": "https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dycesspammer.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dycesspammer.zip",
+      "name": "dycesspammer.zip",
+      "discoveredText": "dyces spammer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dycesspammer.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dycesidler2000.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dycesidler2000.zip",
+      "name": "dycesidler2000.zip",
+      "discoveredText": "dycez idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dycesidler2000.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dycezidler2001.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dycezidler2001.zip",
+      "name": "dycezidler2001.zip",
+      "discoveredText": "dycez idler 2001",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dycezidler2001.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip",
+      "name": "dynamic.zip",
+      "discoveredText": "dynamic massmailer",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/emp3v2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp3v2.zip",
+      "name": "emp3v2.zip",
+      "discoveredText": "e = mp3 v2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp3v2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ewire.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ewire.zip",
+      "name": "ewire.zip",
+      "discoveredText": "e wire server getter",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ewire.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ezrapebeta2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezrapebeta2.zip",
+      "name": "ezrapebeta2.zip",
+      "discoveredText": "e.z.rape 4.0 final beta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezrapebeta2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ezrfinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezrfinal.zip",
+      "name": "ezrfinal.zip",
+      "discoveredText": "e.z.rape final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezrfinal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip",
+      "name": "earthsiege.zip",
+      "discoveredText": "earth siege v1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/earthsiege.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/earth2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/earth2.zip",
+      "name": "earth2.zip",
+      "discoveredText": "earth siege v2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/earth2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/crackers/easycracking.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/crackers/easycracking.zip",
+      "name": "easycracking.zip",
+      "discoveredText": "easy cracking",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/crackers/easycracking.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ecclonerv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ecclonerv1.zip",
+      "name": "ecclonerv1.zip",
+      "discoveredText": "ec cloner v.¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ecclonerv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/ecv3cracker.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/ecv3cracker.zip",
+      "name": "ecv3cracker.zip",
+      "discoveredText": "ec v.3 cracker",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/ecv3cracker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/echo.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/echo.zip",
+      "name": "echo.zip",
+      "discoveredText": "echo idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/echo.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/echobotsource.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/echobotsource.zip",
+      "name": "echobotsource.zip",
+      "discoveredText": "echo-bot source",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/echobotsource.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/echoside.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/echoside.zip",
+      "name": "echoside.zip",
+      "discoveredText": "echoside v1 idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/echoside.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eclypse50.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eclypse50.zip",
+      "name": "eclypse50.zip",
+      "discoveredText": "eclypse 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eclypse50.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eclypse11.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eclypse11.zip",
+      "name": "eclypse11.zip",
+      "discoveredText": "eclypse 1.1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eclypse11.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eclypse12.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eclypse12.zip",
+      "name": "eclypse12.zip",
+      "discoveredText": "eclypse 1.2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eclypse12.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/ectasytoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ectasytoolz.zip",
+      "name": "ectasytoolz.zip",
+      "discoveredText": "ectasy toolz",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/ectasytoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/edits.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edits.zip",
+      "name": "edits.zip",
+      "discoveredText": "edit's toolz 1.1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edits.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip",
+      "name": "eelitetalker.zip",
+      "discoveredText": "eelite talker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip",
+      "name": "efatalimpactv1.zip",
+      "discoveredText": "efatal impact v 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/effex.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/effex.zip",
+      "name": "effex.zip",
+      "discoveredText": "effex bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/effex.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/eibeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eibeta.zip",
+      "name": "eibeta.zip",
+      "discoveredText": "ei idle beta",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eibeta.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/eibetavee.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eibetavee.zip",
+      "name": "eibetavee.zip",
+      "discoveredText": "ei idle beta v. e-e",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eibetavee.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/electricfader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/electricfader.zip",
+      "name": "electricfader.zip",
+      "discoveredText": "electric fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/electricfader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/electricidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip",
+      "name": "electricidle.zip",
+      "discoveredText": "electric idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/electricidle2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle2.zip",
+      "name": "electricidle2.zip",
+      "discoveredText": "electric idle²",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/es.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/es.zip",
+      "name": "es.zip",
+      "discoveredText": "electric spark",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/es.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/electrik.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip",
+      "name": "electrik.zip",
+      "discoveredText": "electrik x2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eod.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip",
+      "name": "eod.zip",
+      "discoveredText": "elements of destruction",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eod2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod2.zip",
+      "name": "eod2.zip",
+      "discoveredText": "elements of destruction 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/elite2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elite2.zip",
+      "name": "elite2.zip",
+      "discoveredText": "elite ²·º",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elite2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/elitebusta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/elitebusta.zip",
+      "name": "elitebusta.zip",
+      "discoveredText": "elite busta ¹·º",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/elitebusta.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/et.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/et.zip",
+      "name": "et.zip",
+      "discoveredText": "elite cc tank",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/et.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/elitegather.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip",
+      "name": "elitegather.zip",
+      "discoveredText": "elite gather",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/elitegather3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather3.zip",
+      "name": "elitegather3.zip",
+      "discoveredText": "elite gather3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitegather3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/eliteidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eliteidler.zip",
+      "name": "eliteidler.zip",
+      "discoveredText": "elite idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eliteidler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eisv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eisv1.zip",
+      "name": "eisv1.zip",
+      "discoveredText": "elite ip spoofer v1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eisv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell miscellaneous files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/misc.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/enpcgsetup.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/enpcgsetup.zip",
+      "name": "enpcgsetup.zip",
+      "discoveredText": "elite nezz pager code generator v3",
+      "downloadUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/enpcgsetup.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/eliteprotection.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/eliteprotection.zip",
+      "name": "eliteprotection.zip",
+      "discoveredText": "elite protection",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/eliteprotection.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/elites.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip",
+      "name": "elites.zip",
+      "discoveredText": "elite scroller ¹·º",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip",
+      "name": "elitespammer.zip",
+      "discoveredText": "elite spammer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip",
+      "name": "elitespamv1.zip",
+      "discoveredText": "elite spammer v1",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip",
+      "name": "elitetalker.zip",
+      "discoveredText": "elite talker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/elysium2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elysium2.zip",
+      "name": "elysium2.zip",
+      "discoveredText": "elysium ultra gate 2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elysium2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+      "name": "empeethree.zip",
+      "discoveredText": "em-pee three player",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+      "localPath": "files/external/lenshellarchive-com/empeethree-779dad0a.zip",
+      "status": "ready",
+      "size": 242891
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+      "name": "ep34311.zip",
+      "discoveredText": "em-pee three player version 4.2.11",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+      "localPath": "files/external/lenshellarchive-com/ep34311-bb1614af.zip",
+      "status": "ready",
+      "size": 373925
+    },
+    {
+      "sourceList": "Web page: HTML/CGI Code",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/html.html",
+      "originalUrl": "http://lenshellarchive.com/html/emailw-subject.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/emailw-subject.zip",
+      "name": "emailw-subject.zip",
+      "discoveredText": "email w/ subject",
+      "downloadUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/emailw-subject.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/emericatoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emericatoolz.zip",
+      "name": "emericatoolz.zip",
+      "discoveredText": "emerica toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emericatoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/eminem2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eminem2.zip",
+      "name": "eminem2.zip",
+      "discoveredText": "eminem's ieeto idler 2",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eminem2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/eii22.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eii22.zip",
+      "name": "eii22.zip",
+      "discoveredText": "eminem's ieeto idler ².²",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eii22.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+      "name": "emoties.zip",
+      "discoveredText": "emoties",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+      "localPath": "files/external/lenshellarchive-com/emoties-d87775e5.zip",
+      "status": "ready",
+      "size": 133408
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/emp3beta1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp3beta1.zip",
+      "name": "emp3beta1.zip",
+      "discoveredText": "emp³ beta 1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp3beta1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/emp3b2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp3b2.zip",
+      "name": "emp3b2.zip",
+      "discoveredText": "emp³ beta 2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp3b2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/emperormmbeta2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/emperormmbeta2.zip",
+      "name": "emperormmbeta2.zip",
+      "discoveredText": "emperor mass mailer beta ²",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/emperormmbeta2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/empirep3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/empirep3.zip",
+      "name": "empirep3.zip",
+      "discoveredText": "empire p³",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/empirep3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/empbust.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip",
+      "name": "empbust.zip",
+      "discoveredText": "empire room bust",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/emp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp.zip",
+      "name": "emp.zip",
+      "discoveredText": "empowered tools",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/emp.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/etv2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/etv2.zip",
+      "name": "etv2.zip",
+      "discoveredText": "empowered tools v2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/etv2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/empyrealftp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/empyrealftp.zip",
+      "name": "empyrealftp.zip",
+      "discoveredText": "empyreal ftp",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/empyrealftp.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/empyreal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/empyreal.zip",
+      "name": "empyreal.zip",
+      "discoveredText": "empyreal profile tag",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/empyreal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/empyrie.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/empyrie.zip",
+      "name": "empyrie.zip",
+      "discoveredText": "empyrie final",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/empyrie.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/endless.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip",
+      "name": "endless.zip",
+      "discoveredText": "endless idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/endposs.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/endposs.zip",
+      "name": "endposs.zip",
+      "discoveredText": "endless possibilities",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/endposs.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/enervate.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/enervate.zip",
+      "name": "enervate.zip",
+      "discoveredText": "enervate y2k",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/enervate.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/enigmaencrypt.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/enigmaencrypt.zip",
+      "name": "enigmaencrypt.zip",
+      "discoveredText": "enigma encrypt",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/enigmaencrypt.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/enterim7.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/enterim7.zip",
+      "name": "enterim7.zip",
+      "discoveredText": "enterance im 7.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/enterim7.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/entity2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/entity2.zip",
+      "name": "entity2.zip",
+      "discoveredText": "entity server 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/entity2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/envision.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/envision.zip",
+      "name": "envision.zip",
+      "discoveredText": "envision's phader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/envision.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/envy10.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/envy10.zip",
+      "name": "envy10.zip",
+      "discoveredText": "envy 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/envy10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/envyfinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/envyfinal.zip",
+      "name": "envyfinal.zip",
+      "discoveredText": "envy final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/envyfinal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ep103.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ep103.zip",
+      "name": "ep103.zip",
+      "discoveredText": "ep ascii 1.03",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ep103.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ett.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ett.zip",
+      "name": "ett.zip",
+      "discoveredText": "epic tiny tools",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ett.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/epidemic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/epidemic.zip",
+      "name": "epidemic.zip",
+      "discoveredText": "epidemic mail server v.2",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/epidemic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/equal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/equal.zip",
+      "name": "equal.zip",
+      "discoveredText": "equalizer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/equal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/erotica.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/erotica.zip",
+      "name": "erotica.zip",
+      "discoveredText": "erotica",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/erotica.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/boot.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/boot.zip",
+      "name": "boot.zip",
+      "discoveredText": "error booter 5.0",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/boot.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/errorboot.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errorboot.zip",
+      "name": "errorboot.zip",
+      "discoveredText": "error booter 5.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errorboot.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/erroridler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/erroridler.zip",
+      "name": "erroridler.zip",
+      "discoveredText": "error idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/erroridler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/errorme.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errorme.zip",
+      "name": "errorme.zip",
+      "discoveredText": "error me 1",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errorme.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/errorscroller.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/errorscroller.zip",
+      "name": "errorscroller.zip",
+      "discoveredText": "error scroller",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/errorscroller.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/errortools.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errortools.zip",
+      "name": "errortools.zip",
+      "discoveredText": "error tools",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/errortools.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/errorv12.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/errorv12.zip",
+      "name": "errorv12.zip",
+      "discoveredText": "error v¹·²",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/errorv12.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/errorr1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/errorr1.zip",
+      "name": "errorr1.zip",
+      "discoveredText": "errorr fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/errorr1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip",
+      "name": "esmidle3.zip",
+      "discoveredText": "esm idle 3.0",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip",
+      "name": "esmidle3.zip",
+      "discoveredText": "esm idle 3.0",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/espidlez.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/espidlez.zip",
+      "name": "espidlez.zip",
+      "discoveredText": "esp idlez",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/espidlez.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/espxplister.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/espxplister.zip",
+      "name": "espxplister.zip",
+      "discoveredText": "esp xp lister",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/espxplister.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/ettu21.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu21.zip",
+      "name": "ettu21.zip",
+      "discoveredText": "et tu idle ?",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu21.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/ettu24.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu24.zip",
+      "name": "ettu24.zip",
+      "discoveredText": "et tu idle ? - beta 4",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu24.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/ettu23.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip",
+      "name": "ettu23.zip",
+      "discoveredText": "et tu idle ? beta (3)",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
+      "name": "eternal.zip",
+      "discoveredText": "eternal c-coms v3",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
+      "localPath": "files/external/lenshellarchive-com/eternal-afef7c91.zip",
+      "status": "ready",
+      "size": 143479
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/eternal.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/eternal.zip",
+      "name": "eternal.zip",
+      "discoveredText": "eternal darkness",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/eternal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eternaldarkness.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eternaldarkness.zip",
+      "name": "eternaldarkness.zip",
+      "discoveredText": "eternal darkness ¹.º",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eternaldarkness.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ed2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ed2.zip",
+      "name": "ed2.zip",
+      "discoveredText": "eternal darkness ².º",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ed2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/edfinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip",
+      "name": "edfinal.zip",
+      "discoveredText": "eternal darkness final",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eternaldl.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eternaldl.zip",
+      "name": "eternaldl.zip",
+      "discoveredText": "eternal download later v1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eternaldl.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eternallinkv2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eternallinkv2.zip",
+      "name": "eternallinkv2.zip",
+      "discoveredText": "eternal linkage v2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eternallinkv2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/eofader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/eofader.zip",
+      "name": "eofader.zip",
+      "discoveredText": "eternal outlawz fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/eofader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/eternalv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/eternalv1.zip",
+      "name": "eternalv1.zip",
+      "discoveredText": "eternal v1 roombuster",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/eternalv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/eternity3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eternity3.zip",
+      "name": "eternity3.zip",
+      "discoveredText": "eternity idle 3",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/eternity3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ethertoolz2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ethertoolz2.zip",
+      "name": "ethertoolz2.zip",
+      "discoveredText": "ether toolz 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ethertoolz2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/etoxr.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/etoxr.zip",
+      "name": "etoxr.zip",
+      "discoveredText": "eto x'r",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/etoxr.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/evenflow2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evenflow2.zip",
+      "name": "evenflow2.zip",
+      "discoveredText": "evenflow linker 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evenflow2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/evenflow25.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evenflow25.zip",
+      "name": "evenflow25.zip",
+      "discoveredText": "evenflow linker 2.5",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evenflow25.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/everyday.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/everyday.zip",
+      "name": "everyday.zip",
+      "discoveredText": "everyday atrocity",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/everyday.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/everyday2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/everyday2.zip",
+      "name": "everyday2.zip",
+      "discoveredText": "everyday atrocity v²",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/everyday2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/anti.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/anti.zip",
+      "name": "anti.zip",
+      "discoveredText": "everything you need to make an anti",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/anti.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/evilaimsnmaker.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/evilaimsnmaker.zip",
+      "name": "evilaimsnmaker.zip",
+      "discoveredText": "evil aim sn maker",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/evilaimsnmaker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/evildeath.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evildeath.zip",
+      "name": "evildeath.zip",
+      "discoveredText": "evil death",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evildeath.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/ew2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/ew2.zip",
+      "name": "ew2.zip",
+      "discoveredText": "evil wayz punta 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/ew2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/evilx.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/evilx.zip",
+      "name": "evilx.zip",
+      "discoveredText": "evil x'er",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/evilx.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/evilded2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evilded2.zip",
+      "name": "evilded2.zip",
+      "discoveredText": "evilded toolz 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evilded2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/evilsempire.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evilsempire.zip",
+      "name": "evilsempire.zip",
+      "discoveredText": "evils empire",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/evilsempire.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/evilzidler10.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/evilzidler10.zip",
+      "name": "evilzidler10.zip",
+      "discoveredText": "evilz idler 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/evilzidler10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/evolution2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/evolution2.zip",
+      "name": "evolution2.zip",
+      "discoveredText": "evolution 2.0",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/evolution2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/excollect13.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/excollect13.zip",
+      "name": "excollect13.zip",
+      "discoveredText": "ex collect 1.3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/excollect13.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/exorp3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exorp3.zip",
+      "name": "exorp3.zip",
+      "discoveredText": "ex0r.p3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exorp3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/excell.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/excell.zip",
+      "name": "excell.zip",
+      "discoveredText": "excell to hell",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/excell.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/139.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/139.zip",
+      "name": "139.zip",
+      "discoveredText": "excite port 139 scanner",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/139.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell antis",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/antis.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolantis/exitfnl.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/exitfnl.zip",
+      "name": "exitfnl.zip",
+      "discoveredText": "exit light final",
+      "downloadUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/exitfnl.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/exodusmp3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exodusmp3.zip",
+      "name": "exodusmp3.zip",
+      "discoveredText": "exodus mp³",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exodusmp3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/exodusocx.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/exodusocx.zip",
+      "name": "exodusocx.zip",
+      "discoveredText": "exodus ocx",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/exodusocx.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+      "name": "exodusowner1.zip",
+      "discoveredText": "exodus owner 1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+      "localPath": "files/external/lenshellarchive-com/exodusowner1-d3357fd3.zip",
+      "status": "ready",
+      "size": 141434
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/exodus2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exodus2.zip",
+      "name": "exodus2.zip",
+      "discoveredText": "exodus toolz 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exodus2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/exorcist30.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exorcist30.zip",
+      "name": "exorcist30.zip",
+      "discoveredText": "exorcist 3.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exorcist30.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/exotic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/exotic.zip",
+      "name": "exotic.zip",
+      "discoveredText": "exotic mm'er",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/exotic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/expertlinker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/expertlinker.zip",
+      "name": "expertlinker.zip",
+      "discoveredText": "expert linker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/expertlinker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/exp2setupec.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setupec.zip",
+      "name": "exp2setupec.zip",
+      "discoveredText": "expert linker v2.0 economy class [public]",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setupec.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/exp2setupfc.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setupfc.zip",
+      "name": "exp2setupfc.zip",
+      "discoveredText": "expert linker v2.0 first class [public]",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setupfc.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip",
+      "name": "exp2setuprc.zip",
+      "discoveredText": "expert linker v2.0 rich class [public]",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+      "name": "explict.zip",
+      "discoveredText": "explict ver 1",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+      "localPath": "files/external/lenshellarchive-com/explict-58d60259.zip",
+      "status": "ready",
+      "size": 4568572
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/exploit.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/exploit.zip",
+      "name": "exploit.zip",
+      "discoveredText": "exploit",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/exploit.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/explosive.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/explosive.zip",
+      "name": "explosive.zip",
+      "discoveredText": "explosive toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/explosive.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell miscellaneous files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/misc.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/expressed.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/expressed.zip",
+      "name": "expressed.zip",
+      "discoveredText": "expressed",
+      "downloadUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/expressed.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/expressions.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/expressions.zip",
+      "name": "expressions.zip",
+      "discoveredText": "expressions linker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/expressions.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+      "name": "exclosure.zip",
+      "discoveredText": "extreme closure",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+      "localPath": "files/external/lenshellarchive-com/exclosure-95c6bcba.zip",
+      "status": "ready",
+      "size": 239291
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+      "name": "extremefinal.zip",
+      "discoveredText": "extreme closure final",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+      "localPath": "files/external/lenshellarchive-com/extremefinal-e4047c91.zip",
+      "status": "ready",
+      "size": 357707
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+      "name": "eebeta.zip",
+      "discoveredText": "extreme elegance",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+      "localPath": "files/external/lenshellarchive-com/eebeta-0a3e07a9.zip",
+      "status": "ready",
+      "size": 432430
+    },
+    {
+      "sourceList": "Web page: ADOBE PLUG-INS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/plug.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/eyecandy.zip",
+      "waybackUrl": "https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandy.zip",
+      "name": "eyecandy.zip",
+      "discoveredText": "Eye candy",
+      "downloadUrl": "https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: ADOBE PLUG-INS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/plug.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/eyecandyupdate.zip",
+      "waybackUrl": "https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip",
+      "name": "eyecandyupdate.zip",
+      "discoveredText": "Eye Candy Update",
+      "downloadUrl": "https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/eor15.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eor15.zip",
+      "name": "eor15.zip",
+      "discoveredText": "eye of rah 1.5",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eor15.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/eyecandy.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandy.zip",
+      "name": "eyecandy.zip",
+      "discoveredText": "eyecandy.zip",
+      "downloadUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/eyecandyupdate.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip",
+      "name": "eyecandyupdate.zip",
+      "discoveredText": "eyecandyupdate.zip",
+      "downloadUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ezlink.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezlink.zip",
+      "name": "ezlink.zip",
+      "discoveredText": "ez link°",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezlink.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ezaudio.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezaudio.zip",
+      "name": "ezaudio.zip",
+      "discoveredText": "ez-audio[final]",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezaudio.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ezrape.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezrape.zip",
+      "name": "ezrape.zip",
+      "discoveredText": "ez-rape 4.0 beta 1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ezrape.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+      "name": "fak.zip",
+      "discoveredText": "fa,k",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+      "localPath": "files/external/lenshellarchive-com/fak-2bbbc1ef.zip",
+      "status": "ready",
+      "size": 219211
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/factorsfade.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/factorsfade.zip",
+      "name": "factorsfade.zip",
+      "discoveredText": "factor's fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/factorsfade.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/fada1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fada1.zip",
+      "name": "fada1.zip",
+      "discoveredText": "fada¹",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fada1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/fadedat15.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat15.zip",
+      "name": "fadedat15.zip",
+      "discoveredText": "fade dat 1.5",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat15.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/fadedat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat.zip",
+      "name": "fadedat.zip",
+      "discoveredText": "fade dat shintz",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fadedat.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/fade1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fade1.zip",
+      "name": "fade1.zip",
+      "discoveredText": "fade¹",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/fade1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/fadedat.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip",
+      "name": "fadedat.zip",
+      "discoveredText": "fadedat bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fadedat.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/fademan.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fademan.zip",
+      "name": "fademan.zip",
+      "discoveredText": "fademan bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fademan.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/fadercolorz10.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/VBfiles/fadercolorz10.zip",
+      "name": "fadercolorz10.zip",
+      "discoveredText": "fader colorz 1.0 beta",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/VBfiles/fadercolorz10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/fader.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/fader.zip",
+      "name": "fader.zip",
+      "discoveredText": "fader.zip",
+      "downloadUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/fader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/faimxp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/faimxp.zip",
+      "name": "faimxp.zip",
+      "discoveredText": "faim xp",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/faimxp.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fakeprogee.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fakeprogee.zip",
+      "name": "fakeprogee.zip",
+      "discoveredText": "fake progee maker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fakeprogee.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+      "name": "fr2.zip",
+      "discoveredText": "false reality v2",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+      "localPath": "files/external/lenshellarchive-com/fr2-39efba82.zip",
+      "status": "ready",
+      "size": 445085
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fantasy.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fantasy.zip",
+      "name": "fantasy.zip",
+      "discoveredText": "fantasy scroller",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fantasy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fast4.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fast4.zip",
+      "name": "fast4.zip",
+      "discoveredText": "fast 4 spammer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fast4.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/fastmofo.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/fastmofo.zip",
+      "name": "fastmofo.zip",
+      "discoveredText": "fast mofo",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/fastmofo.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fastproxy.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fastproxy.zip",
+      "name": "fastproxy.zip",
+      "discoveredText": "fast proxy",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fastproxy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fastproxy2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fastproxy2.zip",
+      "name": "fastproxy2.zip",
+      "discoveredText": "fast proxy²",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fastproxy2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/faterror.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/faterror.zip",
+      "name": "faterror.zip",
+      "discoveredText": "fat error",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/faterror.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fev10.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fev10.zip",
+      "name": "fev10.zip",
+      "discoveredText": "fatal eclipse v1.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fev10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/faterr1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/faterr1.zip",
+      "name": "faterr1.zip",
+      "discoveredText": "fatal error 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/faterr1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip",
+      "name": "fatal2000.zip",
+      "discoveredText": "fatal error 2000-chat punter",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fatalexcept1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fatalexcept1.zip",
+      "name": "fatalexcept1.zip",
+      "discoveredText": "fatal exception v¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fatalexcept1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fatalex1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fatalex1.zip",
+      "name": "fatalex1.zip",
+      "discoveredText": "fatal exception v¹ beta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fatalex1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip",
+      "name": "fatal.zip",
+      "discoveredText": "fatal fuckup y!9",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
+      "name": "fatal.zip",
+      "discoveredText": "fatal toolz c-com",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
+      "localPath": "files/external/lenshellarchive-com/fatal-d185679f.zip",
+      "status": "ready",
+      "size": 363368
+    },
+    {
+      "sourceList": "Web page: LensHell crackers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/fatcrapv2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/fatcrapv2.zip",
+      "name": "fatcrapv2.zip",
+      "discoveredText": "fatcrap v2",
+      "downloadUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/fatcrapv2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fate0.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fate0.zip",
+      "name": "fate0.zip",
+      "discoveredText": "fate 0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fate0.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/fatex42.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/fatex42.zip",
+      "name": "fatex42.zip",
+      "discoveredText": "fate 4 mass mailer",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/fatex42.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell mailers and servers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/mm-serv.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/fatexs1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/fatexs1.zip",
+      "name": "fatexs1.zip",
+      "discoveredText": "fate 4 server",
+      "downloadUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/fatexs1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/fatexyahoo.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/fatexyahoo.zip",
+      "name": "fatexyahoo.zip",
+      "discoveredText": "fate x v¹",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/fatexyahoo.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fatex25.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fatex25.zip",
+      "name": "fatex25.zip",
+      "discoveredText": "fatex 2.5",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fatex25.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/fazerx.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/fazerx.zip",
+      "name": "fazerx.zip",
+      "discoveredText": "fazer-x",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/fazerx.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/fbimage.zip",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/fbimage.zip",
+      "name": "fbimage.zip",
+      "discoveredText": "Fbimage",
+      "downloadUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/fbimage.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/feartoolz.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/feartoolz.zip",
+      "name": "feartoolz.zip",
+      "discoveredText": "fear toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/feartoolz.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fearx.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fearx.zip",
+      "name": "fearx.zip",
+      "discoveredText": "fear x",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fearx.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fedex.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fedex.zip",
+      "name": "fedex.zip",
+      "discoveredText": "fed ex",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fedex.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+      "name": "fierce20.zip",
+      "discoveredText": "fierce online 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+      "localPath": "files/external/lenshellarchive-com/fierce20-2b7abf04.zip",
+      "status": "ready",
+      "size": 671821
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fiery.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fiery.zip",
+      "name": "fiery.zip",
+      "discoveredText": "fiery ice 3.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fiery.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/filesafe.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/filesafe.zip",
+      "name": "filesafe.zip",
+      "discoveredText": "filesafe 98",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/filesafe.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fsprof9.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fsprof9.zip",
+      "name": "fsprof9.zip",
+      "discoveredText": "filesafe professional",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fsprof9.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LolToolz progs",
+      "sourceListUrl": "https://web.archive.org/web/20021018083822/http://www.geocities.com:80/loltoolz/progs.html",
+      "originalUrl": "http://members.aol.com/ixixixi0ixixixi/Final.zip",
+      "waybackUrl": "https://web.archive.org/web/20021018083822/http://members.aol.com/ixixixi0ixixixi/Final.zip",
+      "name": "Final.zip",
+      "discoveredText": "Final Destination",
+      "downloadUrl": "https://web.archive.org/web/20021018083822/http://members.aol.com/ixixixi0ixixixi/Final.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip",
+      "name": "finaldestination.zip",
+      "discoveredText": "final destination¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/finalelement.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finalelement.zip",
+      "name": "finalelement.zip",
+      "discoveredText": "final element",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finalelement.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/finalpeace.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finalpeace.zip",
+      "name": "finalpeace.zip",
+      "discoveredText": "final peace",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finalpeace.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/finalresults.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/finalresults.zip",
+      "name": "finalresults.zip",
+      "discoveredText": "final results",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/finalresults.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/finaltech.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/finaltech.zip",
+      "name": "finaltech.zip",
+      "discoveredText": "final tech",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/finaltech.zip",
+      "localPath": "",
+      "status": "html-replay",
+      "size": 4417
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/finell.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/finell.zip",
+      "name": "finell.zip",
+      "discoveredText": "finellophobia xer",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/finell.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/finkerlinker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finkerlinker.zip",
+      "name": "finkerlinker.zip",
+      "discoveredText": "finker linker",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finkerlinker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell runtime files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/files.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/fir3z_chatscan.zip",
+      "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/fir3z_chatscan.zip",
+      "name": "fir3z_chatscan.zip",
+      "discoveredText": "fir3z_chatscan.ocx",
+      "downloadUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/fir3z_chatscan.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fireemblem.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fireemblem.zip",
+      "name": "fireemblem.zip",
+      "discoveredText": "fire emblem²",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fireemblem.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/firefader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/firefader.zip",
+      "name": "firefader.zip",
+      "discoveredText": "fire fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/firefader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/firesmail.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/firesmail.zip",
+      "name": "firesmail.zip",
+      "discoveredText": "fires mail punt",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/firesmail.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/firetoolz11.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/firetoolz11.zip",
+      "name": "firetoolz11.zip",
+      "discoveredText": "firetoolz 1.1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/firetoolz11.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ftx3.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ftx3.zip",
+      "name": "ftx3.zip",
+      "discoveredText": "firetoolz 3.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ftx3.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/firstinline.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/firstinline.zip",
+      "name": "firstinline.zip",
+      "discoveredText": "first in line",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/firstinline.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flamescrolla.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flamescrolla.zip",
+      "name": "flamescrolla.zip",
+      "discoveredText": "flame scrolla",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flamescrolla.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flamesf.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flamesf.zip",
+      "name": "flamesf.zip",
+      "discoveredText": "flame scrolla [final]",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flamesf.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: APPLICATIONS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/apps.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/flashforge[1].zip",
+      "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/flashforge[1].zip",
+      "name": "flashforge[1].zip",
+      "discoveredText": "Flash Forge",
+      "downloadUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/flashforge[1].zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/flashforge%5b1%5d.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/flashforge%5b1%5d.zip",
+      "name": "flashforge%5b1%5d.zip",
+      "discoveredText": "flashforge[1].zip",
+      "downloadUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/flashforge%5b1%5d.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole10.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole10.zip",
+      "name": "flashole10.zip",
+      "discoveredText": "flashole v1.0 beta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole10.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole11.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole11.zip",
+      "name": "flashole11.zip",
+      "discoveredText": "flashole v1.1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole11.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole12.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole12.zip",
+      "name": "flashole12.zip",
+      "discoveredText": "flashole v1.2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole12.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole13.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole13.zip",
+      "name": "flashole13.zip",
+      "discoveredText": "flashole v1.3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole13.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole14.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole14.zip",
+      "name": "flashole14.zip",
+      "discoveredText": "flashole v1.4",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole14.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole15.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole15.zip",
+      "name": "flashole15.zip",
+      "discoveredText": "flashole v1.5",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole15.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole17.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole17.zip",
+      "name": "flashole17.zip",
+      "discoveredText": "flashole v1.7",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole17.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flashole20.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole20.zip",
+      "name": "flashole20.zip",
+      "discoveredText": "flashole v2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flashole20.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell runtime files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/files.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/flatbtn2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/flatbtn2.zip",
+      "name": "flatbtn2.zip",
+      "discoveredText": "flatbtn2.ocx",
+      "downloadUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/flatbtn2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/pwshexer.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/pwshexer.zip",
+      "name": "pwshexer.zip",
+      "discoveredText": "flaws pws hexer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/pwshexer.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/flem.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flem.zip",
+      "name": "flem.zip",
+      "discoveredText": "flem &sup1;&middot;&ordm;",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/flem.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip",
+      "name": "floodassault.zip",
+      "discoveredText": "flood assault v1.1",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/floodtext.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip",
+      "name": "floodtext.zip",
+      "discoveredText": "flood text",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+      "name": "floppity.zip",
+      "discoveredText": "floppity toolz",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+      "localPath": "files/external/lenshellarchive-com/floppity-904f58d5.zip",
+      "status": "ready",
+      "size": 1363588
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/flowidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/flowidle.zip",
+      "name": "flowidle.zip",
+      "discoveredText": "flow idle",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/flowidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/fluxidle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fluxidle.zip",
+      "name": "fluxidle.zip",
+      "discoveredText": "flux idle example",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/fluxidle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/flyaim35.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyaim35.zip",
+      "name": "flyaim35.zip",
+      "discoveredText": "flyaim35 bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyaim35.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/flyman2000.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyman2000.zip",
+      "name": "flyman2000.zip",
+      "discoveredText": "flyman2000 bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyman2000.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: APPLICATIONS",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/apps.html",
+      "originalUrl": "http://server38.hypermart.net/progstation/fontlister.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/fontlister.zip",
+      "name": "fontlister.zip",
+      "discoveredText": "Font Lister",
+      "downloadUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/fontlister.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: http://progstation.hypermart.net/",
+      "sourceListUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/",
+      "originalUrl": "http://progstation.hypermart.net/fontlister.zip",
+      "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/fontlister.zip",
+      "name": "fontlister.zip",
+      "discoveredText": "fontlister.zip",
+      "downloadUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/fontlister.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/foreveridle.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/foreveridle.zip",
+      "name": "foreveridle.zip",
+      "discoveredText": "forever idling",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/foreveridle.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/formdragxp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/formdragxp.zip",
+      "name": "formdragxp.zip",
+      "discoveredText": "form drag example",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/formdragxp.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/formtrick.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/formtrick.zip",
+      "name": "formtrick.zip",
+      "discoveredText": "form trick",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/formtrick.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Aim Filez",
+      "sourceListUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
+      "originalUrl": "http://aimthings.com/aimfilez/formatsn.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/formatsn.exe",
+      "name": "formatsn.exe",
+      "discoveredText": "Format Sn",
+      "downloadUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/formatsn.exe",
+      "localPath": "files/external/aimthings-com/formatsn-56448406.exe",
+      "status": "ready",
+      "size": 1664621
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/forsaken.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/forsaken.zip",
+      "name": "forsaken.zip",
+      "discoveredText": "forsaken",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/forsaken.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/four20.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/four20.zip",
+      "name": "four20.zip",
+      "discoveredText": "four 20",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/four20.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/phishers/foxaim.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/phishers/foxaim.zip",
+      "name": "foxaim.zip",
+      "discoveredText": "fox's aim phisher",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/phishers/foxaim.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fragsend.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fragsend.zip",
+      "name": "fragsend.zip",
+      "discoveredText": "frag link sender 1.3",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fragsend.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fraglink2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fraglink2.zip",
+      "name": "fraglink2.zip",
+      "discoveredText": "frag link sender 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fraglink2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell miscellaneous files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/misc.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/miscprogs/frantic.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/frantic.zip",
+      "name": "frantic.zip",
+      "discoveredText": "frantic amp 1.06",
+      "downloadUrl": "https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/frantic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+      "name": "freakyccom.zip",
+      "discoveredText": "freaky c-com",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+      "localPath": "files/external/lenshellarchive-com/freakyccom-e3587f2c.zip",
+      "status": "ready",
+      "size": 95478
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/freespy.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/freespy.zip",
+      "name": "freespy.zip",
+      "discoveredText": "free spy",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/freespy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/freeprogzfader.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/freeprogzfader.zip",
+      "name": "freeprogzfader.zip",
+      "discoveredText": "freeprogz fader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/freeprogzfader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Progs Section 1",
+      "sourceListUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
+      "originalUrl": "http://www.cybernyse.com/freeprogzfader.zip",
+      "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freeprogzfader.zip",
+      "name": "freeprogzfader.zip",
+      "discoveredText": "FreeProgz Fader",
+      "downloadUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freeprogzfader.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/freezev1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/freezev1.zip",
+      "name": "freezev1.zip",
+      "discoveredText": "freeze v1",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/freezev1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/freon.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freon.zip",
+      "name": "freon.zip",
+      "discoveredText": "freon 4.0",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freon.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/freong.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freong.zip",
+      "name": "freong.zip",
+      "discoveredText": "freon gold",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/freong.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/frogbomb2.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/frogbomb2.zip",
+      "name": "frogbomb2.zip",
+      "discoveredText": "frog-bomb²",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/frogbomb2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/frogbomb21.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/frogbomb21.zip",
+      "name": "frogbomb21.zip",
+      "discoveredText": "frog-bomb²·¹",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/frogbomb21.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: Yahoo Progs",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/yahoo.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/frootfliy.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/frootfliy.zip",
+      "name": "frootfliy.zip",
+      "discoveredText": "froot fliy",
+      "downloadUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/frootfliy.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ft2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ft2.zip",
+      "name": "ft2.zip",
+      "discoveredText": "frost toolz 2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ft2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/frozenhell.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/frozenhell.zip",
+      "name": "frozenhell.zip",
+      "discoveredText": "froz3n h3ll",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/frozenhell.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fznsoulsv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fznsoulsv1.zip",
+      "name": "fznsoulsv1.zip",
+      "discoveredText": "frozen souls v1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fznsoulsv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell Visual Basic",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
+      "originalUrl": "http://lenshellarchive.com/VBfiles/frubal420.zip",
+      "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/frubal420.zip",
+      "name": "frubal420.zip",
+      "discoveredText": "frubal420 bas",
+      "downloadUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/frubal420.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+      "name": "fu3beta.zip",
+      "discoveredText": "fu³ beta",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+      "localPath": "files/external/lenshellarchive-com/fu3beta-bae374b9.zip",
+      "status": "ready",
+      "size": 80059
+    },
+    {
+      "sourceList": "Web page: LensHell punters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/fuck1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fuck1.zip",
+      "name": "fuck1.zip",
+      "discoveredText": "fuck your anti network punter",
+      "downloadUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fuck1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip",
+      "name": "fuctidle1.zip",
+      "discoveredText": "fuct idle¹",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fugly.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fugly.zip",
+      "name": "fugly.zip",
+      "discoveredText": "fugly",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fugly.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+      "name": "fuji.zip",
+      "discoveredText": "fuji coms",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+      "localPath": "files/external/lenshellarchive-com/fuji-7d28ac78.zip",
+      "status": "ready",
+      "size": 74678
+    },
+    {
+      "sourceList": "Web page: LensHell xers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/xer.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolxers/bish2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/bish2.zip",
+      "name": "bish2.zip",
+      "discoveredText": "fuk off bish²",
+      "downloadUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/bish2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/funkymunkee.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/funkymunkee.zip",
+      "name": "funkymunkee.zip",
+      "discoveredText": "funky munkee chat phader",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/funkymunkee.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fed.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fed.zip",
+      "name": "fed.zip",
+      "discoveredText": "fuqed c-chat 1.3",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fed.zip",
+      "localPath": "files/external/lenshellarchive-com/fed-719dd179.zip",
+      "status": "ready",
+      "size": 125274
+    },
+    {
+      "sourceList": "Web page: LensHell AIM progs",
+      "sourceListUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip",
+      "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip",
+      "name": "fury33.zip",
+      "discoveredText": "fury aim tools 3.3",
+      "downloadUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/fury33.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fuselinker.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fuselinker.zip",
+      "name": "fuselinker.zip",
+      "discoveredText": "fuse linker¹·º beta",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fuselinker.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/fusionidler.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fusionidler.zip",
+      "name": "fusionidler.zip",
+      "discoveredText": "fusion idler",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fusionidler.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fusionspam.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fusionspam.zip",
+      "name": "fusionspam.zip",
+      "discoveredText": "fusion spammer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/fusionspam.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+      "name": "fusion.zip",
+      "discoveredText": "fusion x",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+      "localPath": "files/external/lenshellarchive-com/fusion-163af7fc.zip",
+      "status": "ready",
+      "size": 51154
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+      "name": "fusionx22.zip",
+      "discoveredText": "fusion x 2.2",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+      "localPath": "files/external/lenshellarchive-com/fusionx22-9bb21c48.zip",
+      "status": "ready",
+      "size": 612025
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/future.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/future.zip",
+      "name": "future.zip",
+      "discoveredText": "future comz",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/future.zip",
+      "localPath": "files/external/lenshellarchive-com/future-0fbedade.zip",
+      "status": "ready",
+      "size": 493696
+    },
+    {
+      "sourceList": "Web page: LensHell idlers",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/gone.zip",
+      "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/gone.zip",
+      "name": "gone.zip",
+      "discoveredText": "g0ne v.1.0 beta",
+      "downloadUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/gone.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell c-coms",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
+      "name": "gadget.zip",
+      "discoveredText": "gadget c-com",
+      "downloadUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
+      "localPath": "files/external/lenshellarchive-com/gadget-f4b025cf.zip",
+      "status": "ready",
+      "size": 605609
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gagdafuck.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagdafuck.zip",
+      "name": "gagdafuck.zip",
+      "discoveredText": "gag da fuck",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagdafuck.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gagematec.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec.zip",
+      "name": "gagematec.zip",
+      "discoveredText": "gagematec",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip",
+      "name": "gagematec2.zip",
+      "discoveredText": "gagematec²",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip",
+      "name": "gagematec21.zip",
+      "discoveredText": "gagematec²·¹",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gagster2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagster2.zip",
+      "name": "gagster2.zip",
+      "discoveredText": "gagster²",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagster2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gagstic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagstic.zip",
+      "name": "gagstic.zip",
+      "discoveredText": "gagstic",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagstic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gagstorm2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagstorm2.zip",
+      "name": "gagstorm2.zip",
+      "discoveredText": "gagstorm2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagstorm2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gaimpublic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gaimpublic.zip",
+      "name": "gaimpublic.zip",
+      "discoveredText": "gaim public",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gaimpublic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell busters",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/busters.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/galactic.zip",
+      "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/galactic.zip",
+      "name": "galactic.zip",
+      "discoveredText": "galactic buster",
+      "downloadUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/galactic.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gangstaapp.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gangstaapp.zip",
+      "name": "gangstaapp.zip",
+      "discoveredText": "gangsta appsender",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gangstaapp.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell faders",
+      "sourceListUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/gaterfader2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/gaterfader2.zip",
+      "name": "gaterfader2.zip",
+      "discoveredText": "gater fader 2.0",
+      "downloadUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/gaterfader2.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell runtime files",
+      "sourceListUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/files.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/gauge.zip",
+      "waybackUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/gauge.zip",
+      "name": "gauge.zip",
+      "discoveredText": "gauge.vbx",
+      "downloadUrl": "https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/gauge.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayprogram.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayprogram.zip",
+      "name": "gayprogram.zip",
+      "discoveredText": "gay program",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayprogram.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gaytemper.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gaytemper.zip",
+      "name": "gaytemper.zip",
+      "discoveredText": "gay program temper vs dreamer",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gaytemper.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayrebirth.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayrebirth.zip",
+      "name": "gayrebirth.zip",
+      "discoveredText": "gay program the rebirth",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayrebirth.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayscroll.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayscroll.zip",
+      "name": "gayscroll.zip",
+      "discoveredText": "gay scroll",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayscroll.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayscrollnew.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayscrollnew.zip",
+      "name": "gayscrollnew.zip",
+      "discoveredText": "gay scroll",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayscrollnew.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayv1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv1.zip",
+      "name": "gayv1.zip",
+      "discoveredText": "gay v.1",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv1.zip",
+      "localPath": "",
+      "status": "http-404",
+      "size": 0
+    },
+    {
+      "sourceList": "Web page: LensHell misc progs A-M",
+      "sourceListUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/gayv2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv2.zip",
+      "name": "gayv2.zip",
+      "discoveredText": "gay v.2",
+      "downloadUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gayv2.zip",
       "localPath": "",
       "status": "http-404",
       "size": 0

@@ -1,13 +1,13 @@
 window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
-  "generatedAt": "2026-07-16T12:10:00.179Z",
-  "readyDownloadCount": 502,
-  "recordCount": 502,
-  "scannedCount": 361,
-  "withTextFileCount": 197,
+  "generatedAt": "2026-07-16T14:41:25.387Z",
+  "readyDownloadCount": 526,
+  "recordCount": 526,
+  "scannedCount": 384,
+  "withTextFileCount": 208,
   "withAuthorCount": 69,
-  "withPurposeCount": 145,
+  "withPurposeCount": 155,
   "withVersionCount": 7,
-  "withUrlCount": 104,
+  "withUrlCount": 110,
   "byLocalPath": {
     "files/external/angelfire-com/scriptfish.zip": {
       "name": "scriptfish.zip",
@@ -11625,6 +11625,582 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lilbudbot-com/cinemablue-a0e7558d.zip": {
+      "name": "cinemablue.zip",
+      "sourceList": "Web page: Free Layouts",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+      "discoveredText": "Click",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lilbudbot-com/cinemablue-a0e7558d.zip",
+      "localSize": 55989,
+      "localSizeLabel": "55 KB",
+      "textFileCount": 3,
+      "textFiles": [
+        "layout6/Blueish/iframe.html",
+        "layout6/Blueish/layout2.html",
+        "layout6/Blueish/TMP1mti42pwvf.htm"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/empeethree-779dad0a.zip": {
+      "name": "empeethree.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+      "discoveredText": "em-pee three player",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/empeethree-779dad0a.zip",
+      "localSize": 242891,
+      "localSizeLabel": "237 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/ep34311-bb1614af.zip": {
+      "name": "ep34311.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+      "discoveredText": "em-pee three player version 4.2.11",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/ep34311-bb1614af.zip",
+      "localSize": 373925,
+      "localSizeLabel": "365 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "Thanks for downloading em-pee three player version 4!"
+        },
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "I hope you enjoy this program."
+        },
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "2. please check to see if you have the program turned on silent before you think it's not responding to your commands, and as always, make sure you have downloaded the right version for your system and AOL version."
+        },
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "note: depending on what version and windows version you have you will need to adjust this accordingly"
+        }
+      ]
+    },
+    "files/external/lenshellarchive-com/emoties-d87775e5.zip": {
+      "name": "emoties.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+      "discoveredText": "emoties",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/emoties-d87775e5.zip",
+      "localSize": 133408,
+      "localSizeLabel": "130 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/eternal-afef7c91.zip": {
+      "name": "eternal.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
+      "discoveredText": "eternal c-coms v3",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/eternal-afef7c91.zip",
+      "localSize": 143479,
+      "localSizeLabel": "140 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "MorFeuS's ReaLM.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://members.dencity.com/morfeus/index.html´`·.·´`"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/exodusowner1-d3357fd3.zip": {
+      "name": "exodusowner1.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+      "discoveredText": "exodus owner 1.0",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/exodusowner1-d3357fd3.zip",
+      "localSize": 141434,
+      "localSizeLabel": "138 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/explict-58d60259.zip": {
+      "name": "explict.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+      "discoveredText": "explict ver 1",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/explict-58d60259.zip",
+      "localSize": 4568572,
+      "localSizeLabel": "4.4 MB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/exclosure-95c6bcba.zip": {
+      "name": "exclosure.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+      "discoveredText": "extreme closure",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/exclosure-95c6bcba.zip",
+      "localSize": 239291,
+      "localSizeLabel": "234 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "read me 1st.txt",
+        "READ ME!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility",
+        "C-Com / command list"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.leet.as/menacizm"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "READ ME!!!!.txt",
+          "text": "200 coms theres only 68 right now this prog u got from me"
+        }
+      ]
+    },
+    "files/external/lenshellarchive-com/extremefinal-e4047c91.zip": {
+      "name": "extremefinal.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+      "discoveredText": "extreme closure final",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/extremefinal-e4047c91.zip",
+      "localSize": 357707,
+      "localSizeLabel": "349 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "read me 1st.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.leet.as/menacizm",
+        "http://www.leet.as/de3k"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/eebeta-0a3e07a9.zip": {
+      "name": "eebeta.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+      "discoveredText": "extreme elegance",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/eebeta-0a3e07a9.zip",
+      "localSize": 432430,
+      "localSizeLabel": "422 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/fak-2bbbc1ef.zip": {
+      "name": "fak.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+      "discoveredText": "fa,k",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fak-2bbbc1ef.zip",
+      "localSize": 219211,
+      "localSizeLabel": "214 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/fr2-39efba82.zip": {
+      "name": "fr2.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+      "discoveredText": "false reality v2",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fr2-39efba82.zip",
+      "localSize": 445085,
+      "localSizeLabel": "435 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/fatal-d185679f.zip": {
+      "name": "fatal.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
+      "discoveredText": "fatal toolz c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fatal-d185679f.zip",
+      "localSize": 363368,
+      "localSizeLabel": "355 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/fierce20-2b7abf04.zip": {
+      "name": "fierce20.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+      "discoveredText": "fierce online 2.0",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fierce20-2b7abf04.zip",
+      "localSize": 671821,
+      "localSizeLabel": "656 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/floppity-904f58d5.zip": {
+      "name": "floppity.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+      "discoveredText": "floppity toolz",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/floppity-904f58d5.zip",
+      "localSize": 1363588,
+      "localSizeLabel": "1.3 MB",
+      "textFileCount": 2,
+      "textFiles": [
+        "ReadThisBe4using.txt",
+        "DaWg.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [
+        "http://WWW.Lenshell.Com"
+      ],
+      "descriptionCandidates": []
+    },
+    "files/external/aimthings-com/formatsn-56448406.exe": {
+      "name": "formatsn.exe",
+      "sourceList": "Web page: Aim Filez",
+      "originalUrl": "http://aimthings.com/aimfilez/formatsn.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/formatsn.exe",
+      "discoveredText": "Format Sn",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/aimthings-com/formatsn-56448406.exe"
+    },
+    "files/external/lenshellarchive-com/freakyccom-e3587f2c.zip": {
+      "name": "freakyccom.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+      "discoveredText": "freaky c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/freakyccom-e3587f2c.zip",
+      "localSize": 95478,
+      "localSizeLabel": "93 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/fu3beta-bae374b9.zip": {
+      "name": "fu3beta.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+      "discoveredText": "fu³ beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fu3beta-bae374b9.zip",
+      "localSize": 80059,
+      "localSizeLabel": "78 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "readme.txt",
+          "text": "in next beta or full version."
+        }
+      ]
+    },
+    "files/external/lenshellarchive-com/fuji-7d28ac78.zip": {
+      "name": "fuji.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+      "discoveredText": "fuji coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fuji-7d28ac78.zip",
+      "localSize": 74678,
+      "localSizeLabel": "73 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "data/fuji.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Scroller / macro",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/fed-719dd179.zip": {
+      "name": "fed.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fed.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fed.zip",
+      "discoveredText": "fuqed c-chat 1.3",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fed-719dd179.zip",
+      "localSize": 125274,
+      "localSizeLabel": "122 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.namekz-realm.com"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "readme.txt",
+          "text": "You have downloaded this Program from Namekz-realm.If you did not some mother fucker is linking"
+        },
+        {
+          "sourceFile": "readme.txt",
+          "text": "from me.Please let me know where you got this program from thank you"
+        }
+      ]
+    },
+    "files/external/lenshellarchive-com/fusion-163af7fc.zip": {
+      "name": "fusion.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+      "discoveredText": "fusion x",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fusion-163af7fc.zip",
+      "localSize": 51154,
+      "localSizeLabel": "50 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/fusionx22-9bb21c48.zip": {
+      "name": "fusionx22.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+      "discoveredText": "fusion x 2.2",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fusionx22-9bb21c48.zip",
+      "localSize": 612025,
+      "localSizeLabel": "598 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/future-0fbedade.zip": {
+      "name": "future.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/future.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/future.zip",
+      "discoveredText": "future comz",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/future-0fbedade.zip",
+      "localSize": 493696,
+      "localSizeLabel": "482 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "readme.txt",
+        "handle.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    "files/external/lenshellarchive-com/gadget-f4b025cf.zip": {
+      "name": "gadget.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
+      "discoveredText": "gadget c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/gadget-f4b025cf.zip",
+      "localSize": 605609,
+      "localSizeLabel": "591 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "READ THIS NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://terrorsquad.simplenet.com"
+      ],
       "descriptionCandidates": []
     }
   },
@@ -24547,6 +25123,582 @@ window.AOL_PROGZ_EXTERNAL_ARCHIVE_TEXT = {
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "cinemablue.zip",
+      "sourceList": "Web page: Free Layouts",
+      "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+      "waybackUrl": "https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemablue.zip",
+      "discoveredText": "Click",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lilbudbot-com/cinemablue-a0e7558d.zip",
+      "localSize": 55989,
+      "localSizeLabel": "55 KB",
+      "textFileCount": 3,
+      "textFiles": [
+        "layout6/Blueish/iframe.html",
+        "layout6/Blueish/layout2.html",
+        "layout6/Blueish/TMP1mti42pwvf.htm"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Fader / text styler",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "empeethree.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip",
+      "discoveredText": "em-pee three player",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/empeethree-779dad0a.zip",
+      "localSize": 242891,
+      "localSizeLabel": "237 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "ep34311.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ep34311.zip",
+      "discoveredText": "em-pee three player version 4.2.11",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/ep34311-bb1614af.zip",
+      "localSize": 373925,
+      "localSizeLabel": "365 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "Read Me.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "Thanks for downloading em-pee three player version 4!"
+        },
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "I hope you enjoy this program."
+        },
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "2. please check to see if you have the program turned on silent before you think it's not responding to your commands, and as always, make sure you have downloaded the right version for your system and AOL version."
+        },
+        {
+          "sourceFile": "Read Me.txt",
+          "text": "note: depending on what version and windows version you have you will need to adjust this accordingly"
+        }
+      ]
+    },
+    {
+      "name": "emoties.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/emoties.zip",
+      "discoveredText": "emoties",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/emoties-d87775e5.zip",
+      "localSize": 133408,
+      "localSizeLabel": "130 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "eternal.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eternal.zip",
+      "discoveredText": "eternal c-coms v3",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/eternal-afef7c91.zip",
+      "localSize": 143479,
+      "localSizeLabel": "140 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "MorFeuS's ReaLM.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://members.dencity.com/morfeus/index.html´`·.·´`"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "exodusowner1.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exodusowner1.zip",
+      "discoveredText": "exodus owner 1.0",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/exodusowner1-d3357fd3.zip",
+      "localSize": 141434,
+      "localSizeLabel": "138 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "explict.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/explict.zip",
+      "discoveredText": "explict ver 1",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/explict-58d60259.zip",
+      "localSize": 4568572,
+      "localSizeLabel": "4.4 MB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "exclosure.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/exclosure.zip",
+      "discoveredText": "extreme closure",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/exclosure-95c6bcba.zip",
+      "localSize": 239291,
+      "localSizeLabel": "234 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "read me 1st.txt",
+        "READ ME!!!!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility",
+        "C-Com / command list"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.leet.as/menacizm"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "READ ME!!!!.txt",
+          "text": "200 coms theres only 68 right now this prog u got from me"
+        }
+      ]
+    },
+    {
+      "name": "extremefinal.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/extremefinal.zip",
+      "discoveredText": "extreme closure final",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/extremefinal-e4047c91.zip",
+      "localSize": 357707,
+      "localSizeLabel": "349 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "read me 1st.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.leet.as/menacizm",
+        "http://www.leet.as/de3k"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "eebeta.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/eebeta.zip",
+      "discoveredText": "extreme elegance",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/eebeta-0a3e07a9.zip",
+      "localSize": 432430,
+      "localSizeLabel": "422 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "fak.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fak.zip",
+      "discoveredText": "fa,k",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fak-2bbbc1ef.zip",
+      "localSize": 219211,
+      "localSizeLabel": "214 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "fr2.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fr2.zip",
+      "discoveredText": "false reality v2",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fr2-39efba82.zip",
+      "localSize": 445085,
+      "localSizeLabel": "435 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "fatal.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fatal.zip",
+      "discoveredText": "fatal toolz c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fatal-d185679f.zip",
+      "localSize": 363368,
+      "localSizeLabel": "355 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "fierce20.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fierce20.zip",
+      "discoveredText": "fierce online 2.0",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fierce20-2b7abf04.zip",
+      "localSize": 671821,
+      "localSizeLabel": "656 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "floppity.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip",
+      "discoveredText": "floppity toolz",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/floppity-904f58d5.zip",
+      "localSize": 1363588,
+      "localSizeLabel": "1.3 MB",
+      "textFileCount": 2,
+      "textFiles": [
+        "ReadThisBe4using.txt",
+        "DaWg.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [
+        "http://WWW.Lenshell.Com"
+      ],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "formatsn.exe",
+      "sourceList": "Web page: Aim Filez",
+      "originalUrl": "http://aimthings.com/aimfilez/formatsn.exe",
+      "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/formatsn.exe",
+      "discoveredText": "Format Sn",
+      "status": "ready",
+      "scanned": false,
+      "reason": "unsupported-archive-type",
+      "localPath": "files/external/aimthings-com/formatsn-56448406.exe"
+    },
+    {
+      "name": "freakyccom.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/freakyccom.zip",
+      "discoveredText": "freaky c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/freakyccom-e3587f2c.zip",
+      "localSize": 95478,
+      "localSizeLabel": "93 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "fu3beta.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fu3beta.zip",
+      "discoveredText": "fu³ beta",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fu3beta-bae374b9.zip",
+      "localSize": 80059,
+      "localSizeLabel": "78 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "readme.txt",
+          "text": "in next beta or full version."
+        }
+      ]
+    },
+    {
+      "name": "fuji.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fuji.zip",
+      "discoveredText": "fuji coms",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fuji-7d28ac78.zip",
+      "localSize": 74678,
+      "localSizeLabel": "73 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "data/fuji.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite",
+        "Scroller / macro",
+        "Media / file utility"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "fed.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fed.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fed.zip",
+      "discoveredText": "fuqed c-chat 1.3",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fed-719dd179.zip",
+      "localSize": 125274,
+      "localSizeLabel": "122 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "readme.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://www.namekz-realm.com"
+      ],
+      "descriptionCandidates": [
+        {
+          "sourceFile": "readme.txt",
+          "text": "You have downloaded this Program from Namekz-realm.If you did not some mother fucker is linking"
+        },
+        {
+          "sourceFile": "readme.txt",
+          "text": "from me.Please let me know where you got this program from thank you"
+        }
+      ]
+    },
+    {
+      "name": "fusion.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip",
+      "discoveredText": "fusion x",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fusion-163af7fc.zip",
+      "localSize": 51154,
+      "localSizeLabel": "50 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "fusionx22.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip",
+      "discoveredText": "fusion x 2.2",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/fusionx22-9bb21c48.zip",
+      "localSize": 612025,
+      "localSizeLabel": "598 KB",
+      "textFileCount": 0,
+      "textFiles": [],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "future.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/future.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/future.zip",
+      "discoveredText": "future comz",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/future-0fbedade.zip",
+      "localSize": 493696,
+      "localSizeLabel": "482 KB",
+      "textFileCount": 2,
+      "textFiles": [
+        "readme.txt",
+        "handle.ini"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "Source / developer file"
+      ],
+      "versionMentions": [],
+      "urls": [],
+      "descriptionCandidates": []
+    },
+    {
+      "name": "gadget.zip",
+      "sourceList": "Web page: LensHell c-coms",
+      "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
+      "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip",
+      "discoveredText": "gadget c-com",
+      "status": "ready",
+      "scanned": true,
+      "localPath": "files/external/lenshellarchive-com/gadget-f4b025cf.zip",
+      "localSize": 605609,
+      "localSizeLabel": "591 KB",
+      "textFileCount": 1,
+      "textFiles": [
+        "READ THIS NOW!.txt"
+      ],
+      "authorCandidates": [],
+      "preferredAuthor": "",
+      "purposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "versionMentions": [],
+      "urls": [
+        "http://terrorsquad.simplenet.com"
+      ],
       "descriptionCandidates": []
     }
   ]

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 3 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -99,8 +104,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| LensHell misc progs A-M | gothic nightmares | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip) | [http://lenshellarchive.com/Progs/aolprogs/gn.zip](http://lenshellarchive.com/Progs/aolprogs/gn.zip) |
 | Click-Online AOL 4/5 progz | gothic nightmares | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gothic.zip) | [http://click-online2000.com/progz/gothic.zip](http://click-online2000.com/progz/gothic.zip) |
-| prog's/misc a-m | gothic nightmares | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gn.zip) | [http://lenshellarchive.com/Progs/aolprogs/gn.zip](http://lenshellarchive.com/Progs/aolprogs/gn.zip) |
 | Progs Section 1 | Gothic Nightmares | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothic.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothic.zip) | [http://www.cybernyse.com/gothic.zip](http://www.cybernyse.com/gothic.zip) |
 | Progs Section 1 | Gothic Nightmares | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gothicwithdll.zip) | [http://www.cybernyse.com/gothicwithdll.zip](http://www.cybernyse.com/gothicwithdll.zip) |
 
@@ -117,7 +122,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | JustinAKAPaste AOL/AIM Progs | Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1) |
 | AOL Prog HeLLRaiSER Video | Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1) |
-| AOL/AIM Exploits | gothic.png | [https://justinakapaste.com/wp-content/uploads/random/gothic.png](https://justinakapaste.com/wp-content/uploads/random/gothic.png) | [https://justinakapaste.com/wp-content/uploads/random/gothic.png](https://justinakapaste.com/wp-content/uploads/random/gothic.png) |
+| JustinAKAPaste AOL/AIM Prog Read Mes | gothic.png | [https://justinakapaste.com/wp-content/uploads/random/gothic.png](https://justinakapaste.com/wp-content/uploads/random/gothic.png) | [https://justinakapaste.com/wp-content/uploads/random/gothic.png](https://justinakapaste.com/wp-content/uploads/random/gothic.png) |
 
 ## Related Indexes
 

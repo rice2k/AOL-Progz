@@ -43,18 +43,24 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Download status | ready |
 | Local mirrored size | 1.6 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0797-fuct-idle-by-losi.zip](../../../../../files/aol/aol-4-0/0797-fuct-idle-by-losi.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fuctidle1.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fuctidle1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fuctidle1.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fuctidle1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fuctidle1.zip)
@@ -94,11 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | fuct idle¹ | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip) | [http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip](http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip) |
+| LensHell idlers | fuct idle¹ | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip) | [http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip](http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell idlers | fuctidle1.zip | [http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip](http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/fuctidle1.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

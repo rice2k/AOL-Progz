@@ -24,3 +24,45 @@ Terms are preserved as AOL/AIM scene vocabulary. Abuse-related terms are documen
 | Termer | account abuse category | A tool category associated with trying to terminate or kill an AOL account. This was illegal and is included only as archive vocabulary. |
 | OH account | account context | Scene shorthand often used around account status, billing, or overhead-account lore. Kept here as vocabulary, not as operational guidance. |
 | Misc prog | mixed category | A catch-all label for programs that did not fit a single category or bundled many features into one tool. |
+
+## Category Map
+
+Broad archive categories used by the generated catalog.
+
+| Category | Count | Meaning |
+| --- | --- | --- |
+| uncategorized | 1596 | The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. |
+| idler or bot | 170 | A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-era sessions. |
+| all-in-one prog | 79 | A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface. |
+| chat or IM tool | 67 | A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. |
+| account or TOS tool | 51 | Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. |
+| fader or text tool | 44 | A text effect utility, usually for color fades, styled text, profile text, room text, or IM formatting. |
+| room buster | 43 | A room-entry or room-disruption category associated with repeatedly trying to enter full rooms or interact with room state. |
+| scroller or macro | 38 | A macro, ASCII art, canned-command, or repeated-text utility for chat/profile output. |
+| punter | 27 | A disruptive disconnect/booting category from AOL chat-room history. Preserved as historical vocabulary only. |
+| mass mailer | 19 | Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. |
+| development or source | 3 | Source code, Visual Basic material, controls, modules, tutorials, or development support files. |
+| screen name tool | 2 | A screen-name checker, scanner, maker, or related identity-management utility. |
+
+## Prog Type Map
+
+More specific inferred functions used for browsing and review.
+
+| Prog type | Count |
+| --- | --- |
+| Unknown / needs review | 1259 |
+| Idler / AFK bot | 190 |
+| All-in-one prog suite | 139 |
+| Fader / text styler | 81 |
+| Account / TOS utility | 71 |
+| C-Com / command list | 50 |
+| Scroller / macro | 48 |
+| Room buster | 47 |
+| Linker / chat linker | 45 |
+| Media / file utility | 45 |
+| Source / developer file | 40 |
+| Punter / booter | 39 |
+| Mass mailer / server | 35 |
+| AOL/AIM chat utility | 28 |
+| Chat / IM utility | 20 |
+| Screen-name utility | 2 |

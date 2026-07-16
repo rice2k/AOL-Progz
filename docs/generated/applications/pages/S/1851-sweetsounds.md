@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | sweet sounds | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sweet.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sweet.zip) | [http://lenshellarchive.com/Progs/aolccoms/sweet.zip](http://lenshellarchive.com/Progs/aolccoms/sweet.zip) |
+| LensHell c-coms | sweet sounds | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sweet.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sweet.zip) | [http://lenshellarchive.com/Progs/aolccoms/sweet.zip](http://lenshellarchive.com/Progs/aolccoms/sweet.zip) |
 
 ### Mirror Leads
 

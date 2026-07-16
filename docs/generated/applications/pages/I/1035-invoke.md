@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 0 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 2 |
+| Web image leads | 3 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local catalog mirror |
+| Manual review flags | category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -106,6 +111,7 @@ No external mirror leads are matched to this entry yet.
 | --- | --- | --- | --- |
 | aol star | AOL-Invoke-List.png?fit=1408%2C768&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1) |
 | Rampage Toolz (Read Me) | AOL-Invoke-List.png?fit=75%2C41&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1) |
+| Y! Birthday Cracker | winvoke.jpg?fit=64%2C75&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2022/01/winvoke.jpg?fit=64%2C75&amp;ssl=1) |
 
 ## Related Indexes
 

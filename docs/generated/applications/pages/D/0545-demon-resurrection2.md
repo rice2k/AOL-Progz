@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 4 |
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 2 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -104,8 +109,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Progs Section 1 | Demon 2000 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/demon2000.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/demon2000.zip) | [http://www.cybernyse.com/demon2000.zip](http://www.cybernyse.com/demon2000.zip) |
-| punter's | demon resurrection | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip) | [http://lenshellarchive.com/Progs/aolpunters/demon.zip](http://lenshellarchive.com/Progs/aolpunters/demon.zip) |
-| punter's | demon resurrection² | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip) | [http://lenshellarchive.com/Progs/aolpunters/demon2.zip](http://lenshellarchive.com/Progs/aolpunters/demon2.zip) |
+| LensHell punters | demon resurrection | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip) | [http://lenshellarchive.com/Progs/aolpunters/demon.zip](http://lenshellarchive.com/Progs/aolpunters/demon.zip) |
+| LensHell punters | demon resurrection² | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip) | [http://lenshellarchive.com/Progs/aolpunters/demon2.zip](http://lenshellarchive.com/Progs/aolpunters/demon2.zip) |
 | Yahoo Progs | demon slash invite bomber | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip) |
 
 ### Mirror Leads
@@ -118,7 +123,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AOL Printing in Northern Virginia | cyberdemon.gif | [https://justinakapaste.com/wp-content/uploads/random/cyberdemon.gif](https://justinakapaste.com/wp-content/uploads/random/cyberdemon.gif) | [https://justinakapaste.com/wp-content/uploads/random/cyberdemon.gif](https://justinakapaste.com/wp-content/uploads/random/cyberdemon.gif) |
+| Load More | Demon-Slash-Invite-Bomber.png?fit=369%2C184&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2015/03/Demon-Slash-Invite-Bomber.png?fit=369%2C184&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2015/03/Demon-Slash-Invite-Bomber.png?fit=369%2C184&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2015/03/Demon-Slash-Invite-Bomber.png?fit=369%2C184&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2015/03/Demon-Slash-Invite-Bomber.png?fit=369%2C184&amp;ssl=1) |
 
 ## Related Indexes
 

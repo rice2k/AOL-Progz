@@ -35,7 +35,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive-text purpose clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadThisBe4using.txt<br>DaWg.txt |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -43,18 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.8 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0778-fl0ppity-to0lz.zip](../../../../../files/aol/aol-4-0/0778-fl0ppity-to0lz.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floppity.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floppity.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floppity.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floppity.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floppity.zip)
@@ -90,7 +96,11 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell c-coms | [files/external/lenshellarchive-com/floppity-904f58d5.zip](../../../../../files/external/lenshellarchive-com/floppity-904f58d5.zip) | ReadThisBe4using.txt<br>DaWg.txt | none | none | none | unknown | [http://WWW.Lenshell.Com](http://WWW.Lenshell.Com) |
 
 ### Source Mentions
 
@@ -102,12 +112,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | floppity toolz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip) | [http://lenshellarchive.com/Progs/aolccoms/floppity.zip](http://lenshellarchive.com/Progs/aolccoms/floppity.zip) |
+| LensHell c-coms | floppity toolz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip) | [http://lenshellarchive.com/Progs/aolccoms/floppity.zip](http://lenshellarchive.com/Progs/aolccoms/floppity.zip) |
 | Progs Section 1 | Floppity Toolz [beta] | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/floppitytoolz.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/floppitytoolz.zip) | [http://www.cybernyse.com/floppitytoolz.zip](http://www.cybernyse.com/floppitytoolz.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell c-coms | floppity.zip | [http://lenshellarchive.com/Progs/aolccoms/floppity.zip](http://lenshellarchive.com/Progs/aolccoms/floppity.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/floppity.zip) | [files/external/lenshellarchive-com/floppity-904f58d5.zip](../../../../../files/external/lenshellarchive-com/floppity-904f58d5.zip) | ready |
 
 ### Web Image Leads
 

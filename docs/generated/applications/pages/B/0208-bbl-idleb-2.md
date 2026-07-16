@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local catalog mirror |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#idler-or-bot](../../../tags/idler-or-bot.md)
+[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | chamber bomb'z 1.0 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) | [http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) |
+| LensHell punters | chamber bomb'z 1.0 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) | [http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) |
 
 ### Mirror Leads
 

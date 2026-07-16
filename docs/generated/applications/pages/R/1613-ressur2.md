@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#password-metadata](../../../tags/password-metadata.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | ressurection punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/res.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/res.zip) | [http://lenshellarchive.com/Progs/aolpunters/res.zip](http://lenshellarchive.com/Progs/aolpunters/res.zip) |
+| LensHell punters | ressurection punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/res.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/res.zip) | [http://lenshellarchive.com/Progs/aolpunters/res.zip](http://lenshellarchive.com/Progs/aolpunters/res.zip) |
 
 ### Mirror Leads
 

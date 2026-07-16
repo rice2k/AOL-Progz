@@ -46,10 +46,15 @@ A screen-name checker, scanner, maker, or related identity-management utility. F
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local catalog mirror |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-7-0](../../../tags/aol-7-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#screen-name-tool](../../../tags/screen-name-tool.md)
+[#aol](../../../tags/aol.md) [#aol-7-0](../../../tags/aol-7-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#screen-name-tool](../../../tags/screen-name-tool.md)
 
 ## Source And Files
 

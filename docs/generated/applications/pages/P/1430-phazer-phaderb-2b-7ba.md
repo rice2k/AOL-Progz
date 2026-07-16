@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -106,7 +111,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Aol 4.0/5.0 Progs | phaze.zip | [http://www.oogle.net/downloads/progs/phaze.zip](http://www.oogle.net/downloads/progs/phaze.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/phaze.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/phaze.zip) | unknown | candidate |
 | Section 2 | phaze.zip | [http://www.cybernyse.com/downlowdz/phaze.zip](http://www.cybernyse.com/downlowdz/phaze.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/phaze.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/phaze.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | phaze.zip | [http://24.185.191.87/progz/phaze.zip](http://24.185.191.87/progz/phaze.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/phaze.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/phaze.zip) | unknown | candidate |
-| c-coms | phaze.zip | [http://lenshellarchive.com/Progs/aolccoms/phaze.zip](http://lenshellarchive.com/Progs/aolccoms/phaze.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip) | unknown | candidate |
+| LensHell c-coms | phaze.zip | [http://lenshellarchive.com/Progs/aolccoms/phaze.zip](http://lenshellarchive.com/Progs/aolccoms/phaze.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/phaze.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -46,10 +46,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#room-buster](../../../tags/room-buster.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md)
 
 ## Source And Files
 
@@ -107,8 +112,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: LensHell AIM progs | invaderupdate.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip](http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip) | unknown | http-404 |
 | Web page: LensHell AIM progs | armoredupdate.zip | [http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip](http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip) | unknown | html-replay |
-| ADOBE PLUG-INS | eyecandyupdate.zip | [http://server38.hypermart.net/progstation/eyecandyupdate.zip](http://server38.hypermart.net/progstation/eyecandyupdate.zip) | [https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip](https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip) | unknown | candidate |
-| http://progstation.hypermart.net/ | eyecandyupdate.zip | [http://progstation.hypermart.net/eyecandyupdate.zip](http://progstation.hypermart.net/eyecandyupdate.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip) | unknown | candidate |
+| Web page: ADOBE PLUG-INS | eyecandyupdate.zip | [http://server38.hypermart.net/progstation/eyecandyupdate.zip](http://server38.hypermart.net/progstation/eyecandyupdate.zip) | [https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip](https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip) | unknown | http-404 |
+| Web page: http://progstation.hypermart.net/ | eyecandyupdate.zip | [http://progstation.hypermart.net/eyecandyupdate.zip](http://progstation.hypermart.net/eyecandyupdate.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip) | unknown | http-404 |
 | found-geocities-silicon-valley-files.txt | ppal10502_update.zip | [http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip](http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip) | [http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip](http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip) | unknown | candidate |
 
 ### Web Image Leads

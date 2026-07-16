@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | external mirror |
+| Manual review flags | author unknown, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -96,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | 4 | InstantIdler52.exe | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/InstantIdler52.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/InstantIdler52.exe) | [http://aimfilez.com/files/InstantIdler52.exe](http://aimfilez.com/files/InstantIdler52.exe) |
-| idler's | tonedawg's idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/tidle.zip](http://lenshellarchive.com/Progs/aolidlers/tidle.zip) |
+| LensHell idlers | tonedawg's idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/tidle.zip](http://lenshellarchive.com/Progs/aolidlers/tidle.zip) |
 | Section 2 | ToneDawg's Idle | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tidle.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/tidle.zip) | [http://www.cybernyse.com/downlowdz/tidle.zip](http://www.cybernyse.com/downlowdz/tidle.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | ToneDawg's Idle | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tidle.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/tidle.zip) | [http://24.185.191.87/progz/tidle.zip](http://24.185.191.87/progz/tidle.zip) |
 

@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#password-metadata](../../../tags/password-metadata.md) [#vb6](../../../tags/vb6.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | millennium server toolz 6.0 | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/mst6.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/mst6.zip) | [http://lenshellarchive.com/Progs/aolmmservers/mst6.zip](http://lenshellarchive.com/Progs/aolmmservers/mst6.zip) |
+| LensHell mailers and servers | millennium server toolz 6.0 | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/mst6.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/mst6.zip) | [http://lenshellarchive.com/Progs/aolmmservers/mst6.zip](http://lenshellarchive.com/Progs/aolmmservers/mst6.zip) |
 
 ### Mirror Leads
 

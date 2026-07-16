@@ -46,10 +46,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#room-buster](../../../tags/room-buster.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| buster's | quik bust 1.0 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quikbust.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quikbust.zip) | [http://lenshellarchive.com/Progs/aolbusters/quikbust.zip](http://lenshellarchive.com/Progs/aolbusters/quikbust.zip) |
+| LensHell busters | quik bust 1.0 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quikbust.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quikbust.zip) | [http://lenshellarchive.com/Progs/aolbusters/quikbust.zip](http://lenshellarchive.com/Progs/aolbusters/quikbust.zip) |
 
 ### Mirror Leads
 

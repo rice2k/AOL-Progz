@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,14 +100,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | hider | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip) | [http://lenshellarchive.com/Progs/aolprogs/hider.zip](http://lenshellarchive.com/Progs/aolprogs/hider.zip) |
-| Visual Basic Section | hiderfinal bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip) | [http://lenshellarchive.com/VBfiles/hiderfnl.zip](http://lenshellarchive.com/VBfiles/hiderfnl.zip) |
+| LensHell misc progs A-M | hider | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip) | [http://lenshellarchive.com/Progs/aolprogs/hider.zip](http://lenshellarchive.com/Progs/aolprogs/hider.zip) |
+| LensHell Visual Basic | hiderfinal bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip) | [http://lenshellarchive.com/VBfiles/hiderfnl.zip](http://lenshellarchive.com/VBfiles/hiderfnl.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Visual Basic Section | hiderfnl.zip | [http://lenshellarchive.com/VBfiles/hiderfnl.zip](http://lenshellarchive.com/VBfiles/hiderfnl.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip) | unknown | candidate |
+| LensHell Visual Basic | hiderfnl.zip | [http://lenshellarchive.com/VBfiles/hiderfnl.zip](http://lenshellarchive.com/VBfiles/hiderfnl.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip) | unknown | candidate |
 
 ### Web Image Leads
 

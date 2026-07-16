@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Click-Online AOL 4/5 progz | igneous | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/igneous.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/igneous.zip) | [http://click-online2000.com/progz/igneous.zip](http://click-online2000.com/progz/igneous.zip) |
 | Progs Section 1 | Igneous | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/igneous.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/igneous.zip) | [http://www.cybernyse.com/igneous.zip](http://www.cybernyse.com/igneous.zip) |
-| c-coms | igneous c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/igneous.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/igneous.zip) | [http://lenshellarchive.com/Progs/aolccoms/igneous.zip](http://lenshellarchive.com/Progs/aolccoms/igneous.zip) |
+| LensHell c-coms | igneous c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/igneous.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/igneous.zip) | [http://lenshellarchive.com/Progs/aolccoms/igneous.zip](http://lenshellarchive.com/Progs/aolccoms/igneous.zip) |
 
 ### Mirror Leads
 

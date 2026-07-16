@@ -46,10 +46,15 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | wizardz punt 4.0 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip) | [http://lenshellarchive.com/Progs/aolpunters/wizard.zip](http://lenshellarchive.com/Progs/aolpunters/wizard.zip) |
+| LensHell punters | wizardz punt 4.0 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip) | [http://lenshellarchive.com/Progs/aolpunters/wizard.zip](http://lenshellarchive.com/Progs/aolpunters/wizard.zip) |
 
 ### Mirror Leads
 

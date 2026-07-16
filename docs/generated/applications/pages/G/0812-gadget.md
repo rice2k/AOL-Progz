@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: All-in-one prog suite.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: All-in-one prog suite. Recovered external ZIP text also suggests: All-in-one prog suite.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -33,9 +33,9 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | All-in-one prog suite |
 | Archive text files reviewed | solar/message from HyPeR.txt<br>READ THIS NOW!.txt |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 3 |
@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 4.4 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0812-gadget.zip](../../../../../files/aol/aol-4-0/0812-gadget.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gadget.zip)
@@ -93,7 +98,11 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell c-coms | [files/external/lenshellarchive-com/gadget-f4b025cf.zip](../../../../../files/external/lenshellarchive-com/gadget-f4b025cf.zip) | READ THIS NOW!.txt | none | none | All-in-one prog suite | unknown | [http://terrorsquad.simplenet.com](http://terrorsquad.simplenet.com) |
 
 ### Source Mentions
 
@@ -107,13 +116,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Click-Online AOL 4/5 progz | gadget | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip) | [http://click-online2000.com/progz/gadget.zip](http://click-online2000.com/progz/gadget.zip) |
 | Progs Section 1 | Gadget | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gadget.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/gadget.zip) | [http://www.cybernyse.com/gadget.zip](http://www.cybernyse.com/gadget.zip) |
-| c-coms | gadget c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip) | [http://lenshellarchive.com/Progs/aolccoms/gadget.zip](http://lenshellarchive.com/Progs/aolccoms/gadget.zip) |
+| LensHell c-coms | gadget c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip) | [http://lenshellarchive.com/Progs/aolccoms/gadget.zip](http://lenshellarchive.com/Progs/aolccoms/gadget.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Click-Online AOL 4/5 progz | gadget.zip | [http://click-online2000.com/progz/gadget.zip](http://click-online2000.com/progz/gadget.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/gadget.zip) | unknown | http-404 |
+| Web page: LensHell c-coms | gadget.zip | [http://lenshellarchive.com/Progs/aolccoms/gadget.zip](http://lenshellarchive.com/Progs/aolccoms/gadget.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/gadget.zip) | [files/external/lenshellarchive-com/gadget-f4b025cf.zip](../../../../../files/external/lenshellarchive-com/gadget-f4b025cf.zip) | ready |
 
 ### Web Image Leads
 

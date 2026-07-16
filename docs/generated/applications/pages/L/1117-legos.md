@@ -43,18 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 417 KB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1117-legos.zip](../../../../../files/aol/aol-4-0/1117-legos.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/legos.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/legos.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/legos.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/legos.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/legos.zip)
@@ -95,11 +101,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.zip) | [http://www.lilbudbot.com/aimthings/layouts/legos.zip](http://www.lilbudbot.com/aimthings/layouts/legos.zip) |
-| idler's | legos idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/legos.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/legos.zip) | [http://lenshellarchive.com/Progs/aolidlers/legos.zip](http://lenshellarchive.com/Progs/aolidlers/legos.zip) |
+| LensHell idlers | legos idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/legos.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/legos.zip) | [http://lenshellarchive.com/Progs/aolidlers/legos.zip](http://lenshellarchive.com/Progs/aolidlers/legos.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Free Layouts | legos.zip | [http://www.lilbudbot.com/aimthings/layouts/legos.zip](http://www.lilbudbot.com/aimthings/layouts/legos.zip) | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

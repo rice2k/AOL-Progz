@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -100,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Progs Section 1 | Aø-linker | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aolinker.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/aolinker.zip) | [http://www.cybernyse.com/aolinker.zip](http://www.cybernyse.com/aolinker.zip) |
-| prog's/misc a-m | ao`linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) | [http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) |
+| LensHell misc progs A-M | ao`linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) | [http://lenshellarchive.com/Progs/aolprogs/aolinker.zip](http://lenshellarchive.com/Progs/aolprogs/aolinker.zip) |
 
 ### Mirror Leads
 

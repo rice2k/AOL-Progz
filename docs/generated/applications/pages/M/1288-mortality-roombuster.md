@@ -45,11 +45,16 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched web download links | 8 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 5 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,14 +100,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| buster's | alpha3k roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip) | [http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip](http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip) |
-| buster's | hookshot roombuster 5.0 beta 1 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip) | [http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip](http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip) |
-| buster's | hookshot roombuster v3.0 beta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip](http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip) |
-| buster's | hookshot roombuster v3.0 final | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip](http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip) |
-| buster's | hookshot roombuster v3.1 beta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip) |
-| buster's | hookshot roombuster v4.0 beta 2 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip) |
-| buster's | hookshot roombuster v4.0 beta 3 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip) |
-| buster's | mortality roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/mbuster.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/mbuster.zip) | [http://lenshellarchive.com/Progs/aolbusters/mbuster.zip](http://lenshellarchive.com/Progs/aolbusters/mbuster.zip) |
+| LensHell busters | alpha3k roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip) | [http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip](http://lenshellarchive.com/Progs/aolbusters/alpha3kbuster.zip) |
+| LensHell busters | hookshot roombuster 5.0 beta 1 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip) | [http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip](http://lenshellarchive.com/Progs/aolbusters/hook5beta.zip) |
+| LensHell busters | hookshot roombuster v3.0 beta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip](http://lenshellarchive.com/Progs/aolbusters/hookbustbeta.zip) |
+| LensHell busters | hookshot roombuster v3.0 final | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip](http://lenshellarchive.com/Progs/aolbusters/hookfinal.zip) |
+| LensHell busters | hookshot roombuster v3.1 beta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust31.zip) |
+| LensHell busters | hookshot roombuster v4.0 beta 2 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust42.zip) |
+| LensHell busters | hookshot roombuster v4.0 beta 3 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust43.zip) |
+| LensHell busters | mortality roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/mbuster.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/mbuster.zip) | [http://lenshellarchive.com/Progs/aolbusters/mbuster.zip](http://lenshellarchive.com/Progs/aolbusters/mbuster.zip) |
 
 ### Mirror Leads
 
@@ -112,7 +117,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Murder Sty Wrote Room Buster | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?ssl=1) |
+| Murder Sty Wrote Room Buster | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?ssl=1) |
+| AOL Scam Sites | Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?fit=500%2C382&amp;ssl=1) |
+| Murder Sty Wrote Room Buster | Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-1.png?resize=500%2C382&#038;ssl=1) |
+| Murder Sty Wrote Room Buster | Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/09/Murder-Sty-Wrote-RoomBuster-2.png?resize=501%2C384&#038;ssl=1) |
 
 ## Related Indexes
 

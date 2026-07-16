@@ -43,19 +43,24 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Download status | ready |
 | Local mirrored size | 736 KB |
 | Matched web download links | 1 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0646-electric-idle.zip](../../../../../files/aol/aol-4-0/0646-electric-idle.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electricidle.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electricidle.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electricidle.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electricidle.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electricidle.zip)
@@ -95,12 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | electric idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/electricidle.zip](http://lenshellarchive.com/Progs/aolidlers/electricidle.zip) |
+| LensHell idlers | electric idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/electricidle.zip](http://lenshellarchive.com/Progs/aolidlers/electricidle.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell idlers | electricidle.zip | [http://lenshellarchive.com/Progs/aolidlers/electricidle.zip](http://lenshellarchive.com/Progs/aolidlers/electricidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/electricidle.zip) | unknown | http-404 |
 | Progs Section 1 | electric.zip | [http://www.cybernyse.com/electric.zip](http://www.cybernyse.com/electric.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/electric.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/electric.zip) | unknown | candidate |
 
 ### Web Image Leads

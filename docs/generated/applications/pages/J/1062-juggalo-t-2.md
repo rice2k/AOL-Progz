@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -95,8 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Progs Section 1 | Juggalo Toolz 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalotoolz2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalotoolz2.zip) | [http://www.cybernyse.com/juggalotoolz2.zip](http://www.cybernyse.com/juggalotoolz2.zip) |
+| LensHell misc progs A-M | juggalo toolz 2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip) | [http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip](http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip) |
 | Click-Online AOL 4/5 progz | juggalo toolz 2.0 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo2.zip) | [http://click-online2000.com/progz/juggalo2.zip](http://click-online2000.com/progz/juggalo2.zip) |
-| prog's/misc a-m | juggalo toolz 2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip) | [http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip](http://lenshellarchive.com/Progs/aolprogs/juggalo2.zip) |
 
 ### Mirror Leads
 

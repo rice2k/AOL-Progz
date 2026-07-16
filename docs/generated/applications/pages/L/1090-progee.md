@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 7 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -103,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | progee's lagger | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip) | [http://lenshellarchive.com/Progs/aolpunters/progee.zip](http://lenshellarchive.com/Progs/aolpunters/progee.zip) |
+| LensHell punters | progee's lagger | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/progee.zip) | [http://lenshellarchive.com/Progs/aolpunters/progee.zip](http://lenshellarchive.com/Progs/aolpunters/progee.zip) |
 | Section 2 | Progee's Lagger | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progee.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progee.zip) | [http://www.cybernyse.com/downlowdz/progee.zip](http://www.cybernyse.com/downlowdz/progee.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Progee's Lagger | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progee.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/progee.zip) | [http://24.185.191.87/progz/progee.zip](http://24.185.191.87/progz/progee.zip) |
 | Section 2 | Progee's Send Chat Fixer | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/progeechatfix.zip) | [http://www.cybernyse.com/downlowdz/progeechatfix.zip](http://www.cybernyse.com/downlowdz/progeechatfix.zip) |

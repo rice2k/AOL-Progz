@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | unknown |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | shade | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/shade.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/shade.zip) | [http://lenshellarchive.com/Progs/aolprogs/shade.zip](http://lenshellarchive.com/Progs/aolprogs/shade.zip) |
+| LensHell misc progs N-Z | shade | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/shade.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/shade.zip) | [http://lenshellarchive.com/Progs/aolprogs/shade.zip](http://lenshellarchive.com/Progs/aolprogs/shade.zip) |
 | Section 2 | Shade | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/shade.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/shade.zip) | [http://www.cybernyse.com/downlowdz/shade.zip](http://www.cybernyse.com/downlowdz/shade.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Shade | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/shade.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/shade.zip) | [http://24.185.191.87/progz/shade.zip](http://24.185.191.87/progz/shade.zip) |
 
@@ -106,7 +111,7 @@ No external mirror leads are matched to this entry yet.
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
-| AoHell | f-shades.gif | [https://justinakapaste.com/wp-content/uploads/random/f-shades.gif](https://justinakapaste.com/wp-content/uploads/random/f-shades.gif) | [https://justinakapaste.com/wp-content/uploads/random/f-shades.gif](https://justinakapaste.com/wp-content/uploads/random/f-shades.gif) |
+| Tunnel of AOL CDs | f-shades.gif | [https://justinakapaste.com/wp-content/uploads/random/f-shades.gif](https://justinakapaste.com/wp-content/uploads/random/f-shades.gif) | [https://justinakapaste.com/wp-content/uploads/random/f-shades.gif](https://justinakapaste.com/wp-content/uploads/random/f-shades.gif) |
 
 ## Related Indexes
 

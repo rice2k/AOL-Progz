@@ -43,18 +43,24 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Download status | ready |
 | Local mirrored size | 594 KB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#room-buster](../../../tags/room-buster.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0315-bust.zip](../../../../../files/aol/aol-4-0/0315-bust.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empbust.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empbust.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empbust.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empbust.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empbust.zip)
@@ -94,11 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| buster's | empire room bust | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip) | [http://lenshellarchive.com/Progs/aolbusters/empbust.zip](http://lenshellarchive.com/Progs/aolbusters/empbust.zip) |
+| LensHell busters | empire room bust | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip) | [http://lenshellarchive.com/Progs/aolbusters/empbust.zip](http://lenshellarchive.com/Progs/aolbusters/empbust.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell busters | empbust.zip | [http://lenshellarchive.com/Progs/aolbusters/empbust.zip](http://lenshellarchive.com/Progs/aolbusters/empbust.zip) | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/empbust.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

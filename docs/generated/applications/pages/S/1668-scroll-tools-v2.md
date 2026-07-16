@@ -46,10 +46,15 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | scroll tools v² | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip) | [http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip](http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip) |
+| LensHell misc progs N-Z | scroll tools v² | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip) | [http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip](http://lenshellarchive.com/Progs/aolprogs/scrolltoolsv2.zip) |
 
 ### Mirror Leads
 

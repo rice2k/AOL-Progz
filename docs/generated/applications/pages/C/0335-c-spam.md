@@ -46,10 +46,15 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | readme/archive text |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -103,8 +108,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | c-spam | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip) | [http://lenshellarchive.com/Progs/aolprogs/cspam.zip](http://lenshellarchive.com/Progs/aolprogs/cspam.zip) |
-| prog's/misc a-m | m.c. spammer | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | [http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) |
+| LensHell misc progs A-M | c-spam | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip) | [http://lenshellarchive.com/Progs/aolprogs/cspam.zip](http://lenshellarchive.com/Progs/aolprogs/cspam.zip) |
+| LensHell misc progs A-M | m.c. spammer | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | [http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) |
 | LensHell AIM progs | spamzilla | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) |
 
 ### Mirror Leads
@@ -112,7 +117,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: prog's/misc a-m | cspam.zip | [http://lenshellarchive.com/Progs/aolprogs/cspam.zip](http://lenshellarchive.com/Progs/aolprogs/cspam.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cspam.zip) | unknown | http-404 |
-| prog's/misc a-m | mcspammer.zip | [http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | unknown | candidate |
+| LensHell misc progs A-M | mcspammer.zip | [http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/mcspammer.zip) | unknown | candidate |
 | LensHell AIM progs | spamzilla.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/spamzilla.zip) | unknown | candidate |
 
 ### Web Image Leads

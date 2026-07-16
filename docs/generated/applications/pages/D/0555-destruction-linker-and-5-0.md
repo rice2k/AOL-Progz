@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | destruction linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destruction.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destruction.zip) | [http://lenshellarchive.com/Progs/aolprogs/destruction.zip](http://lenshellarchive.com/Progs/aolprogs/destruction.zip) |
+| LensHell misc progs A-M | destruction linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destruction.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destruction.zip) | [http://lenshellarchive.com/Progs/aolprogs/destruction.zip](http://lenshellarchive.com/Progs/aolprogs/destruction.zip) |
 | Yahoo Progs | total destruction 1.5 | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/totaldestruct.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/totaldestruct.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/totaldestruct.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/totaldestruct.zip) |
 
 ### Mirror Leads

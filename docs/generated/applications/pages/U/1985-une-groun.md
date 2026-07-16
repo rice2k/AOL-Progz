@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 24 |
 | Web research mentions | 0 |
 | Web image leads | 12 |
+| Author confidence | unknown |
+| Category confidence | external ZIP text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -122,7 +127,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | oldscool_windows_tools | ProcessExplorerNt.zip | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/ProcessExplorerNt.zip) |
 | oldscool_windows_tools | TweakUiPowertoySetup.exe | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe) |
 | oldscool_windows_tools | TweakUiPowertoySetup.exe | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/TweakUiPowertoySetup.exe) |
-| prog's/misc n-z | under ground | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/underground.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/underground.zip) | [http://lenshellarchive.com/Progs/aolprogs/underground.zip](http://lenshellarchive.com/Progs/aolprogs/underground.zip) |
+| LensHell misc progs N-Z | under ground | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/underground.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/underground.zip) | [http://lenshellarchive.com/Progs/aolprogs/underground.zip](http://lenshellarchive.com/Progs/aolprogs/underground.zip) |
 | oldscool_windows_tools | WinCDEmu-4.1.exe | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe) |
 | oldscool_windows_tools | WinCDEmu-4.1.exe | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe) |
 | oldscool_windows_tools | winhex.zip | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip) |

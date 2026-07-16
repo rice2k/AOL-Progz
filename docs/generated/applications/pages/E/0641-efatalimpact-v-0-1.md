@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | unknown |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0641-efatalimpact-v-0-1.zip](../../../../../files/aol/mixed/0641-efatalimpact-v-0-1.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/efatalimpactv1.zip)
@@ -107,14 +112,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | efatal impact v 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) | [http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) |
-| mmer's/server's | impact aol40 server | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | [http://lenshellarchive.com/Progs/aolmmservers/impact.zip](http://lenshellarchive.com/Progs/aolmmservers/impact.zip) |
+| LensHell misc progs A-M | efatal impact v 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) | [http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) |
+| LensHell mailers and servers | impact aol40 server | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | [http://lenshellarchive.com/Progs/aolmmservers/impact.zip](http://lenshellarchive.com/Progs/aolmmservers/impact.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| mmer's/server's | impact.zip | [http://lenshellarchive.com/Progs/aolmmservers/impact.zip](http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | unknown | candidate |
+| Web page: LensHell misc progs A-M | efatalimpactv1.zip | [http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/efatalimpactv1.zip) | unknown | http-404 |
+| LensHell mailers and servers | impact.zip | [http://lenshellarchive.com/Progs/aolmmservers/impact.zip](http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/impact.zip) | unknown | candidate |
 
 ### Web Image Leads
 

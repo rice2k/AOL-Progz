@@ -43,18 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0770-final-destination.zip](../../../../../files/aol/aol-4-0/0770-final-destination.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/finaldestination.zip)
@@ -105,12 +111,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | LolToolz progs | Final Destination | [https://web.archive.org/web/20021018083822/http://members.aol.com/ixixixi0ixixixi/Final.zip](https://web.archive.org/web/20021018083822/http://members.aol.com/ixixixi0ixixixi/Final.zip) | [http://members.aol.com/ixixixi0ixixixi/Final.zip](http://members.aol.com/ixixixi0ixixixi/Final.zip) |
 | Progs Section 1 | Final Destination | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/finaldestination.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/finaldestination.zip) | [http://www.cybernyse.com/finaldestination.zip](http://www.cybernyse.com/finaldestination.zip) |
-| prog's/misc a-m | final destination¹ | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) | [http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) |
+| LensHell misc progs A-M | final destination¹ | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) | [http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/finaldestination.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/finaldestination.zip) | [http://www.oogle.net/downloads/progs/finaldestination.zip](http://www.oogle.net/downloads/progs/finaldestination.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell misc progs A-M | finaldestination.zip | [http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/finaldestination.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

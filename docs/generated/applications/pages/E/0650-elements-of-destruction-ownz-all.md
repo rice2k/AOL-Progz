@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -100,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Macintosh | Element | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/element.sit](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/element.sit) | [http://www.cybernyse.com/element.sit](http://www.cybernyse.com/element.sit) |
-| prog's/misc a-m | elements of destruction | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip) | [http://lenshellarchive.com/Progs/aolprogs/eod.zip](http://lenshellarchive.com/Progs/aolprogs/eod.zip) |
+| LensHell misc progs A-M | elements of destruction | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eod.zip) | [http://lenshellarchive.com/Progs/aolprogs/eod.zip](http://lenshellarchive.com/Progs/aolprogs/eod.zip) |
 
 ### Mirror Leads
 

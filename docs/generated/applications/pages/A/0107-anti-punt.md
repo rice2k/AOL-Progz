@@ -46,10 +46,15 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| anti's | poa anti punter | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/poanti.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/poanti.zip) | [http://lenshellarchive.com/Progs/aolantis/poanti.zip](http://lenshellarchive.com/Progs/aolantis/poanti.zip) |
+| LensHell antis | poa anti punter | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/poanti.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/poanti.zip) | [http://lenshellarchive.com/Progs/aolantis/poanti.zip](http://lenshellarchive.com/Progs/aolantis/poanti.zip) |
 
 ### Mirror Leads
 

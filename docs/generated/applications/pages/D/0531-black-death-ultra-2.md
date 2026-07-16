@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 7 |
 | Web research mentions | 1 |
 | Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-3-0](../../../tags/aol-3-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-3-0](../../../tags/aol-3-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -101,13 +106,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | black death ultra 2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackultra.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackultra.zip) | [http://lenshellarchive.com/Progs/aolprogs/blackultra.zip](http://lenshellarchive.com/Progs/aolprogs/blackultra.zip) |
-| prog's/misc a-m | cpu death ping 2.0 final | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) | [http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) |
+| LensHell misc progs A-M | black death ultra 2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackultra.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackultra.zip) | [http://lenshellarchive.com/Progs/aolprogs/blackultra.zip](http://lenshellarchive.com/Progs/aolprogs/blackultra.zip) |
+| LensHell misc progs A-M | cpu death ping 2.0 final | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) | [http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) |
 | LensHell AIM progs | death by aim | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) |
 | Progs Section 1 | Death Com 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dcom2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dcom2.zip) | [http://www.cybernyse.com/dcom2.zip](http://www.cybernyse.com/dcom2.zip) |
 | Progs Section 1 | Death Com 3 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip) | [http://www.cybernyse.com/deathcom3.zip](http://www.cybernyse.com/deathcom3.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP | [http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP](http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP) | [http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP](http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP) |
-| prog's/misc a-m | kaotic death toolz beta2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip) | [http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip](http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip) |
+| LensHell misc progs A-M | kaotic death toolz beta2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip) | [http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip](http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip) |
 | Yahoo Progs | silver death | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip) |
 | Yahoo Progs | touch of death | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip) |
 

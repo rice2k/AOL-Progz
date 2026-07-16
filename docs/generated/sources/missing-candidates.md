@@ -16,6 +16,7 @@ These are filenames or program leads discovered from external old-web sources an
 | wrar | unknown | 5 | candidate<br>ready | 2 | [files/external/angelfire-com/wrar280.zip](../../../files/external/angelfire-com/wrar280.zip)<br>[files/external/angelfire-com/wrar370.zip](../../../files/external/angelfire-com/wrar370.zip) | unknown | unknown | unknown | unknown |
 | create | AIM | 4 | http-404<br>ready | 2 | [files/external/angelfire-com/aimcreate11.zip](../../../files/external/angelfire-com/aimcreate11.zip)<br>[files/external/angelfire-com/aimcreate21.zip](../../../files/external/angelfire-com/aimcreate21.zip) | unknown | unknown | Screen-name utility<br>AOL/AIM chat utility | [http://eztrade.cjb.net](http://eztrade.cjb.net) |
 | ss-d | runtime/support file | 4 | ready<br>candidate | 2 | [files/external/aimfilez-com/ss3d-8607dee6.vbx](../../../files/external/aimfilez-com/ss3d-8607dee6.vbx)<br>[files/external/aimfilez-com/ss3d2-8f499be5.vbx](../../../files/external/aimfilez-com/ss3d2-8f499be5.vbx) | unknown | unknown | unknown | unknown |
+| formatsn | AIM | 3 | ready<br>http-404 | 2 | [files/external/aimfilez-com/formatsn-ac427d25.exe](../../../files/external/aimfilez-com/formatsn-ac427d25.exe)<br>[files/external/aimthings-com/formatsn-56448406.exe](../../../files/external/aimthings-com/formatsn-56448406.exe) | unknown | unknown | unknown | unknown |
 | audioassault | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/audioassault-c4199924.zip](../../../files/external/lenshellarchive-com/audioassault-c4199924.zip)<br>[files/external/lenshellarchive-com/audioassault2-c2f31d68.zip](../../../files/external/lenshellarchive-com/audioassault2-c2f31d68.zip) | unknown | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility<br>Fader / text styler | [http://www.aa2k.cjb.net](http://www.aa2k.cjb.net) |
 | ccomsbeta | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/ccomsbeta2.zip](../../../files/external/lenshellarchive-com/ccomsbeta2.zip)<br>[files/external/lenshellarchive-com/ccomsbeta3.zip](../../../files/external/lenshellarchive-com/ccomsbeta3.zip) | unknown | unknown | Scroller / macro<br>Fader / text styler | unknown |
 | cp | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/cp-96688f0a.zip](../../../files/external/lenshellarchive-com/cp-96688f0a.zip)<br>[files/external/lenshellarchive-com/cp2-cdb95981.zip](../../../files/external/lenshellarchive-com/cp2-cdb95981.zip) | unknown | unknown | Media / file utility | unknown |
@@ -35,7 +36,6 @@ These are filenames or program leads discovered from external old-web sources an
 | charmap | unknown | 3 | ready | 1 | [files/external/github-com/charmap-d85ed7f1.exe](../../../files/external/github-com/charmap-d85ed7f1.exe) | unknown | unknown | unknown | unknown |
 | chatscan | runtime/support file | 3 | http-404<br>ready | 1 | [files/external/aimfilez-com/chatscan3-2b12e4af.ocx](../../../files/external/aimfilez-com/chatscan3-2b12e4af.ocx) | unknown | unknown | unknown | unknown |
 | dc | AIM | 3 | http-404<br>ready<br>candidate | 1 | [files/external/aimfilez-com/dctool-df5f3a78.exe](../../../files/external/aimfilez-com/dctool-df5f3a78.exe) | unknown | unknown | unknown | unknown |
-| formatsn | AIM | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/formatsn-ac427d25.exe](../../../files/external/aimfilez-com/formatsn-ac427d25.exe) | unknown | unknown | unknown | unknown |
 | ghost | AIM | 3 | candidate<br>ready | 1 | [files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe](../../../files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe) | unknown | unknown | unknown | unknown |
 | icondrop | AIM | 3 | candidate<br>ready | 1 | [files/external/aimfilez-com/icondrop2-0-69d20cfa.exe](../../../files/external/aimfilez-com/icondrop2-0-69d20cfa.exe) | unknown | unknown | unknown | unknown |
 | msinet | runtime/support file | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/msinet-a28f9137.ocx](../../../files/external/aimfilez-com/msinet-a28f9137.ocx) | unknown | unknown | unknown | unknown |
@@ -61,11 +61,11 @@ These are filenames or program leads discovered from external old-web sources an
 | cmdialog | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/cmdialog-62a38b92.vbx](../../../files/external/aimfilez-com/cmdialog-62a38b92.vbx) | unknown | unknown | unknown | unknown |
 | comctl | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/comctl32-e2ba15bc.ocx](../../../files/external/aimfilez-com/comctl32-e2ba15bc.ocx) | unknown | unknown | unknown | unknown |
 | cracksource | hazardous/account or remote-control context | 2 | http-404<br>ready | 1 | [files/external/angelfire-com/cracksource.zip](../../../files/external/angelfire-com/cracksource.zip) | unknown | unknown | Fader / text styler<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility | [http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=](http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=) |
-| crackwhore | idler/bot | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/crackwhore.zip](../../../files/external/angelfire-com/crackwhore.zip) | unknown | unknown | Account / TOS utility<br>AOL/AIM chat utility | unknown |
+| crackwhore | idler/bot | 2 | http-404<br>ready | 1 | [files/external/angelfire-com/crackwhore.zip](../../../files/external/angelfire-com/crackwhore.zip) | unknown | unknown | Account / TOS utility<br>AOL/AIM chat utility | unknown |
 | dbpush | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/dbpush-f26405e8.vbx](../../../files/external/aimfilez-com/dbpush-f26405e8.vbx) | unknown | unknown | unknown | unknown |
 | dbttip | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/dbttip-434e10d1.vbx](../../../files/external/aimfilez-com/dbttip-434e10d1.vbx) | unknown | unknown | unknown | unknown |
 | dwsbc | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/dwsbc32-66a535ca.ocx](../../../files/external/aimfilez-com/dwsbc32-66a535ca.ocx) | unknown | unknown | unknown | unknown |
-| fbimage | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/fbimage-660afb3f.exe](../../../files/external/aimfilez-com/fbimage-660afb3f.exe) | unknown | unknown | unknown | unknown |
+| fbimage | AIM | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/fbimage-660afb3f.exe](../../../files/external/aimfilez-com/fbimage-660afb3f.exe) | unknown | unknown | unknown | unknown |
 | grid | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/grid-9c49a1da.vbx](../../../files/external/aimfilez-com/grid-9c49a1da.vbx) | unknown | unknown | unknown | unknown |
 | hacker | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/hacker-ed0d3167.zip](../../../files/external/angelfire-com/hacker-ed0d3167.zip) | unknown | unknown | unknown | unknown |
 | hello | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/hello.zip](../../../files/external/angelfire-com/hello.zip) | unknown | unknown | unknown | unknown |
@@ -129,6 +129,7 @@ These are filenames or program leads discovered from external old-web sources an
 | celluoidbeta | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/celluoidbeta-79d174aa.zip](../../../files/external/lenshellarchive-com/celluoidbeta-79d174aa.zip) | unknown | unknown | unknown | unknown |
 | cerberus | unknown | 1 | ready | 1 | [files/external/angelfire-com/cerberus-9cd12720.zip](../../../files/external/angelfire-com/cerberus-9cd12720.zip) | unknown | unknown | unknown | unknown |
 | chatsource | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/chatsource.zip](../../../files/external/angelfire-com/chatsource.zip) | problems that might be<br>'s reputation will not be affected by problems that might be<br>others<br>obtaining a | unknown | Fader / text styler<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Idler / AFK bot<br>Account / TOS utility | unknown |
+| cinemablue | idler/bot | 1 | ready | 1 | [files/external/lilbudbot-com/cinemablue-a0e7558d.zip](../../../files/external/lilbudbot-com/cinemablue-a0e7558d.zip) | unknown | unknown | Fader / text styler<br>AOL/AIM chat utility | unknown |
 | clearhaze | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/clearhaze-97e1323d.zip](../../../files/external/lenshellarchive-com/clearhaze-97e1323d.zip) | unknown | unknown | unknown | unknown |
 | comct | unknown | 1 | ready | 1 | [files/external/angelfire-com/comct332.zip](../../../files/external/angelfire-com/comct332.zip) | unknown | unknown | unknown | unknown |
 | comillusionb | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/comillusionb2-902f8936.zip](../../../files/external/lenshellarchive-com/comillusionb2-902f8936.zip) | unknown | unknown | unknown | unknown |
@@ -160,11 +161,16 @@ These are filenames or program leads discovered from external old-web sources an
 | evilgrunts | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/evilgrunts.zip](../../../files/external/angelfire-com/evilgrunts.zip) | unknown | unknown | unknown | unknown |
 | evilintentions | AIM | 1 | ready | 1 | [files/external/aimfilez-com/evilintentions2-a5d56efa.exe](../../../files/external/aimfilez-com/evilintentions2-a5d56efa.exe) | unknown | unknown | unknown | unknown |
 | factors | unknown | 1 | ready | 1 | [files/external/angelfire-com/factors.zip](../../../files/external/angelfire-com/factors.zip) | unknown | unknown | unknown | unknown |
+| fak | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/fak-2bbbc1ef.zip](../../../files/external/lenshellarchive-com/fak-2bbbc1ef.zip) | unknown | unknown | unknown | unknown |
 | feuscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/feuscreensaver-mcld.zip](../../../files/external/angelfire-com/feuscreensaver-mcld.zip) | mclodo | unknown | Source / developer file | unknown |
+| fierce | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/fierce20-2b7abf04.zip](../../../files/external/lenshellarchive-com/fierce20-2b7abf04.zip) | unknown | unknown | unknown | unknown |
 | film | unknown | 1 | ready | 1 | [files/external/angelfire-com/film.zip](../../../files/external/angelfire-com/film.zip) | unknown | unknown | unknown | unknown |
 | fish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/fish.zip](../../../files/external/angelfire-com/fish.zip) | unknown | unknown | unknown | unknown |
 | font | unknown | 1 | ready | 1 | [files/external/angelfire-com/font.zip](../../../files/external/angelfire-com/font.zip) | unknown | unknown | Fader / text styler | unknown |
 | form-mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/form-mail.zip](../../../files/external/angelfire-com/form-mail.zip) | leaving this field<br>commas<br>browsers and your server | unknown | Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server<br>Media / file utility | [http://www.worldwidemart.com/scripts/](http://www.worldwidemart.com/scripts/)<br>[http://www.worldwidemart.com/scripts/faq/](http://www.worldwidemart.com/scripts/faq/)<br>[http://www.worldwidemart.com](http://www.worldwidemart.com)<br>[http://your.host.com/to/file.html](http://your.host.com/to/file.html) |
+| fr | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/fr2-39efba82.zip](../../../files/external/lenshellarchive-com/fr2-39efba82.zip) | unknown | unknown | unknown | unknown |
+| fuji | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/fuji-7d28ac78.zip](../../../files/external/lenshellarchive-com/fuji-7d28ac78.zip) | unknown | unknown | All-in-one prog suite<br>Scroller / macro<br>Media / file utility | unknown |
+| future | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/future-0fbedade.zip](../../../files/external/lenshellarchive-com/future-0fbedade.zip) | unknown | unknown | Source / developer file | unknown |
 | g-fade | fader | 1 | ready | 1 | [files/external/angelfire-com/g-fade.zip](../../../files/external/angelfire-com/g-fade.zip) | unknown | unknown | Fader / text styler | unknown |
 | gamespy-addcrack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/gamespy-v109addcrack.zip](../../../files/external/angelfire-com/gamespy-v109addcrack.zip) | GameSpy Industries | unknown | Account / TOS utility<br>Source / developer file | unknown |
 | geotronics | unknown | 1 | ready | 1 | [files/external/angelfire-com/geotronics.zip](../../../files/external/angelfire-com/geotronics.zip) | unknown | unknown | Source / developer file<br>Fader / text styler<br>Media / file utility<br>C-Com / command list | unknown |
@@ -308,9 +314,9 @@ These are filenames or program leads discovered from external old-web sources an
 | burning | AIM | 8 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | prodigy | AIM | 7 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dejavu | unknown | 7 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| dos | unknown | 7 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | methodus | unknown | 7 | html-replay<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| fury | AOL/AIM client installer | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| dos | unknown | 6 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fury | AOL/AIM client installer | 6 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | iss | unknown | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | utopia | AIM | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | steves-ee | AIM | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -342,7 +348,7 @@ These are filenames or program leads discovered from external old-web sources an
 | bulletscroller | chat/macro | 3 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | burninginside | AIM | 3 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | destroy | AOL/AIM client installer | 3 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| exploit | AIM | 3 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| exploit | AIM | 3 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fatboy | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mercy | mass mailer/server | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pg | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -353,9 +359,9 @@ These are filenames or program leads discovered from external old-web sources an
 | causticfinal | AIM | 3 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dimorphic | unknown | 3 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | djdasm-beta | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| enervate | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| enervate | unknown | 3 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | envy | unknown | 3 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
-| evolution | AIM | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| evolution | AIM | 3 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
 | exe-strings-db | unknown | 3 | invalid-archive | 0 | none | unknown | unknown | unknown | unknown |
 | fmd | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fonts | unknown | 3 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -469,7 +475,7 @@ These are filenames or program leads discovered from external old-web sources an
 | blindidle | idler/bot | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | bll | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | bmp | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| boot | punter/booter | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| boot | punter/booter | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
 | brutoc | runtime/support file | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | buddahlag | chat/macro | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | cafe | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -484,11 +490,11 @@ These are filenames or program leads discovered from external old-web sources an
 | comdr | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | comet-u | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | conspericy | unknown | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
-| crackex | idler/bot | 2 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| crackofdawn | hazardous/account or remote-control context | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackex | idler/bot | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| crackofdawn | hazardous/account or remote-control context | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crackzilla | hazardous/account or remote-control context | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | cryofade | room buster | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| ct | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ct | chat/macro | 2 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | cutehtml | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | decadelite | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | deception | punter/booter | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -499,19 +505,19 @@ These are filenames or program leads discovered from external old-web sources an
 | driver | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | du | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dwhtml | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| eyecandy | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| eyecandyupdate | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eyecandy | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| eyecandyupdate | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | eyeofrah | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | f-k | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fastproxy | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fastproxy | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fc | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fearx | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fearx | unknown | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fiddler-setup | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fiery | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fiery | unknown | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
 | findfile | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fontlister | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fontlister | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fotos | unknown | 2 | out-of-scope | 0 | none | unknown | unknown | unknown | unknown |
-| frogbomb | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frogbomb | unknown | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | g | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | grabit-pro | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | graphic | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -534,7 +540,7 @@ These are filenames or program leads discovered from external old-web sources an
 | killer | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | kokomos | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | kronic | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| lamer | unknown | 2 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
+| lamer | unknown | 2 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | lastdon | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | linkbeyond | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | littlemailpunt | punter/booter | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -876,7 +882,7 @@ These are filenames or program leads discovered from external old-web sources an
 | blizzard-by-tweek | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | blkmgc | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | blowit-dos | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| blue | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| blue | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | blue-cross | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | blueicepxer | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | bluemurder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1001,8 +1007,7 @@ These are filenames or program leads discovered from external old-web sources an
 | chronicbas | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | chronicidle | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | chronik | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| cinemablue | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| cinemagreen | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cinemagreen | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | cint | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | cj | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | classes | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1021,7 +1026,7 @@ These are filenames or program leads discovered from external old-web sources an
 | codelk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | coders | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | codezap | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| coldlayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| coldlayout | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | collapsecrush | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | cology-source | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | color-rocker-xp | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -1029,13 +1034,13 @@ These are filenames or program leads discovered from external old-web sources an
 | colorfulsexfader | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | com-six-beta | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | comment-remover | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| commonpass | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| commonpass | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | compaccoms | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | comphelpgen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | compiler | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | converts | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | cooke | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| cookiemonster | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cookiemonster | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | coolfonts | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | coolghost | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | coolsendchat | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -1049,14 +1054,14 @@ These are filenames or program leads discovered from external old-web sources an
 | crackerhelp | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crackerjack | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crackish | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| crackit | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crackit | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | cracknet | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crackout | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | cracks | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | crapidleremix | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crappyscroller | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | craps | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| crazyhobo | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| crazyhobo | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | credits | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | creep | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crimsons | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -1065,7 +1070,7 @@ These are filenames or program leads discovered from external old-web sources an
 | cruel | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crw-e-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | cryptylight | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| cs | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| cs | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | ctip | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ctlibconnect | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ctsqlmon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1196,45 +1201,45 @@ These are filenames or program leads discovered from external old-web sources an
 | dwf | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | dwkdfade | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | dyna | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| earth | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| easycracking | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| earth | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| easycracking | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | easys | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| echobotsource | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| ectasy | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| ec-cracker | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| echobotsource | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ectasy | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| ec-cracker | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | ed-mit-book | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | editor | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | edwin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| eelitetalker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| effex | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eelitetalker | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| effex | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | efontw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | egavga | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | eggs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ego | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | electric | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | element | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| elite | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| eliteprotection | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| elitespammer | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| elitespam | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| elitetalker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| elixant | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| elite | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| eliteprotection | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| elitespammer | mass mailer/server | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| elitespam | mass mailer/server | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| elitetalker | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| elixant | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | elriolobo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| emailw-subject | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| emailw-subject | mass mailer/server | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | emd-vox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| emp-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| emp-beta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| emp-b | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| emp-beta | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | empire | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| empyrie | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| empyrie | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | ems | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | encrypt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| endposs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| endposs | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | enganim | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| enigmaencrypt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| enpcgsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| enterim | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| enigmaencrypt | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| enpcgsetup | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| enterim | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | entpsrom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| envyfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| envyfinal | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | ephem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | eprom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | eqstk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1245,113 +1250,108 @@ These are filenames or program leads discovered from external old-web sources an
 | esheep | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | esnnecp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | esn | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| espidlez | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| espxplister | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| espidlez | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| espxplister | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | etchings | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | eternalccoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| eternity | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| evil-snmaker | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| eternity | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| evil-snmaker | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | exal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | excelcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| excollect | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| exodusocx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| exorp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| excollect | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| exodusocx | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| exorp | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | explicit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | exploi-s | AIM | 1 | html-replay | 0 | none | unknown | unknown | unknown | unknown |
-| expressed | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| expressions | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| expressed | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| expressions | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | extendedcharactermap | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | extremeelegance | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | eyes | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ez-gpo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ez-save-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| ezaudio | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ezaudio | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | f-dos | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | f-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fabskin | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fademan | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fadercolorz | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fak | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fademan | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fadercolorz | fader | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | faq | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fastmofo | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fastmofo | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fatal-error-by-tasz-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fataldestiny | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fatalillusions | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fate-x-final-beta-palette | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fatexyahoo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fazerx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fatexyahoo | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fazerx | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fc-k | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fdo-manual | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fdx-maft | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | federico | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | felix | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fe | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | ff-trainer | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ffmts | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fhack | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fierce | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fighter | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | figlet-js-lib | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fileattr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fileedit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fileopen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| finalelement | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| finalpeace | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fir-z-chatscan | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| finalelement | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| finalpeace | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| fir-z-chatscan | runtime/support file | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | firecatasciishop | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | firstattempt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | firstbas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| firstinline | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| firstinline | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fixmpg | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fl-der-ppc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| flashforge | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| flashforge-b-d | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| flatbtn | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flashforge | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| flashforge-b-d | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| flatbtn | runtime/support file | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flight | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| floodassault | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| floodassault | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flopio | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fluxidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fluxidle | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flvplay | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fly-dos | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fly | AOL/AIM client installer | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fly | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flyingp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| flyman | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| flyman | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flyw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fonte | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fontt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| formdragxp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| formdragxp | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | forminfo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| formtrick | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| formtrick | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | formula | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fourseasons | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fox | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| fox | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fparser | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fpfksetup-revnum-web-prod | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fpfksetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fr | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fractal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | frames | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| frantic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frantic | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | freemem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | freepeeksrc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| freespy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| freespy | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | freewheel | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | freongold | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fresh | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | frogbit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| frootfliy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frootfliy | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | froz-nh-ll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| frozenhell | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| frubal | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| frozenhell | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| frubal | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | frui | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ftv-demo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| ftx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fuji | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ftx | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | functio | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | funnybar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | funprint | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| future | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fxpack | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | g-c-compiler-tips | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | game | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1360,8 +1360,8 @@ These are filenames or program leads discovered from external old-web sources an
 | garbage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | gareth | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | gather | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| gauge | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| gayrebirth | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| gauge | runtime/support file | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
+| gayrebirth | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | gemmas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | generalcrack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | genozide | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1438,7 +1438,7 @@ These are filenames or program leads discovered from external old-web sources an
 | hpcoms | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | htechfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | html-hlp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| htmlonly | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| htmlonly | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | hty | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | hulk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | hunt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1706,7 +1706,7 @@ These are filenames or program leads discovered from external old-web sources an
 | mortalityrt | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mothership | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | motor | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| mountainlayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| mountainlayout | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | mousebanner | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mousebn | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mouseover | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1790,7 +1790,7 @@ These are filenames or program leads discovered from external old-web sources an
 | nviewlib | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | nvwls | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | nwtp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| nyc | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| nyc | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | nyte | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | nytes-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | oc | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1938,7 +1938,7 @@ These are filenames or program leads discovered from external old-web sources an
 | rcsno | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rdelay | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | realj | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| redsparks | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| redsparks | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | refi | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | regclean | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | regcode | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1964,7 +1964,7 @@ These are filenames or program leads discovered from external old-web sources an
 | rmd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | roadmap | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rockhard | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| rose | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| rose | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | row | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rspano | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rspanons | room buster | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2026,7 +2026,7 @@ These are filenames or program leads discovered from external old-web sources an
 | sim | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | simcity | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | simpleidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| simplelayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| simplelayout | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | simples | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | simulator | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | sircrackbeta | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2035,7 +2035,7 @@ These are filenames or program leads discovered from external old-web sources an
 | skypelogview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | skypesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | slamfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| sleekgray | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| sleekgray | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | sleepysetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | slickrun | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | smacksource | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2071,7 +2071,7 @@ These are filenames or program leads discovered from external old-web sources an
 | sourcescroller | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | sp-ce | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | sp-imblocker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| spacelayout | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| spacelayout | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | spamzilla | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | speedycrack | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | spider | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2136,7 +2136,7 @@ These are filenames or program leads discovered from external old-web sources an
 | teamviewer-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tekronbeta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | template | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| tentacles | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| tentacles | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | terrain | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | text | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | textedit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2188,7 +2188,7 @@ These are filenames or program leads discovered from external old-web sources an
 | trigoder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | trimfile | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tronix | mass mailer/server | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| truedesigns | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| truedesigns | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | tsad | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ttf-resistors | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2202,7 +2202,7 @@ These are filenames or program leads discovered from external old-web sources an
 | u-lcpm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | uasm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ubgirl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| ugly-green | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| ugly-green | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | uiso-pe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ultraflood | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ultrapunt | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2268,7 +2268,7 @@ These are filenames or program leads discovered from external old-web sources an
 | w-kfdemo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | w-tpl | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | waidler | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| war | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| war | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | warned | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | warnwar | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | warp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2283,7 +2283,7 @@ These are filenames or program leads discovered from external old-web sources an
 | wc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | wdasm-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | webbrowser | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| webby | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
+| webby | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | webscrub | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | webskillz | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | websters | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |

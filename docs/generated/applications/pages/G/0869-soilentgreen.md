@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 630 KB |
 | Matched web download links | 5 |
-| Matched mirror leads | 4 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0869-green.zip](../../../../../files/aol/aol-4-0/0869-green.zip)
 - Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 4 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/soilentgreen.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/soilentgreen.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/soilentgreen.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/soilentgreen.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/soilentgreen.zip)
@@ -100,19 +105,20 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.zip) | [http://www.lilbudbot.com/aimthings/layouts/green.zip](http://www.lilbudbot.com/aimthings/layouts/green.zip) |
-| prog's/misc a-m | green eggs and spam | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gespam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gespam.zip) | [http://lenshellarchive.com/Progs/aolprogs/gespam.zip](http://lenshellarchive.com/Progs/aolprogs/gespam.zip) |
+| LensHell misc progs A-M | green eggs and spam | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gespam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gespam.zip) | [http://lenshellarchive.com/Progs/aolprogs/gespam.zip](http://lenshellarchive.com/Progs/aolprogs/gespam.zip) |
 | AIM | Mean Green | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmeangreen.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmeangreen.zip) | [http://www.cybernyse.com/downlowdz/aimmeangreen.zip](http://www.cybernyse.com/downlowdz/aimmeangreen.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Mean Green | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmeangreen.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmeangreen.zip) | [http://24.185.191.87/progz/aimmeangreen.zip](http://24.185.191.87/progz/aimmeangreen.zip) |
-| mmer's/server's | soilent green warez server | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip) | [http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip](http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip) |
+| LensHell mailers and servers | soilent green warez server | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip) | [http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip](http://lenshellarchive.com/Progs/aolmmservers/soilentgreen.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: Free Layouts | green.zip | [http://www.lilbudbot.com/aimthings/layouts/green.zip](http://www.lilbudbot.com/aimthings/layouts/green.zip) | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.zip) | unknown | http-404 |
+| Web page: Free Layouts | cinemagreen.zip | [http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip](http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip) | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip) | unknown | http-404 |
+| Web page: Free Layouts | Ugly%20Green.zip | [http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip](http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip) | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip) | unknown | http-404 |
 | AIM | aimmeangreen.zip | [http://www.cybernyse.com/downlowdz/aimmeangreen.zip](http://www.cybernyse.com/downlowdz/aimmeangreen.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmeangreen.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmeangreen.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimmeangreen.zip | [http://24.185.191.87/progz/aimmeangreen.zip](http://24.185.191.87/progz/aimmeangreen.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmeangreen.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmeangreen.zip) | unknown | candidate |
-| Free Layouts | cinemagreen.zip | [http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip](http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip) | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cinemagreen.zip) | unknown | candidate |
-| Free Layouts | Ugly%20Green.zip | [http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip](http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip) | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/Ugly%20Green.zip) | unknown | candidate |
 
 ### Web Image Leads
 

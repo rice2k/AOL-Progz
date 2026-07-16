@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 932 KB |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0688-esmidle3.zip](../../../../../files/aol/aol-4-0/0688-esmidle3.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/esmidle3.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/esmidle3.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/esmidle3.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/esmidle3.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/esmidle3.zip)
@@ -104,13 +109,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell AIM progs | esm idle 3.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip) | [http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip](http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip) |
-| idler's | esm idle 3.0 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip) | [http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip](http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip) |
+| LensHell idlers | esm idle 3.0 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip) | [http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip](http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: idler's | idle3.zip | [http://lenshellarchive.com/Progs/aolidlers/idle3.zip](http://lenshellarchive.com/Progs/aolidlers/idle3.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle3.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle3.zip) | unknown | http-404 |
+| Web page: LensHell AIM progs | esmidle3.zip | [http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip](http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/esmidle3.zip) | unknown | http-404 |
+| Web page: LensHell idlers | esmidle3.zip | [http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip](http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/esmidle3.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

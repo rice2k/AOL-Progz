@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 3 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/idletech2.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/idletech2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/idletech2.zip) | [http://www.oogle.net/downloads/progs/idletech2.zip](http://www.oogle.net/downloads/progs/idletech2.zip) |
-| idler's | idle tech 2 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletech2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletech2.zip) | [http://lenshellarchive.com/Progs/aolidlers/idletech2.zip](http://lenshellarchive.com/Progs/aolidlers/idletech2.zip) |
+| LensHell idlers | idle tech 2 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletech2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idletech2.zip) | [http://lenshellarchive.com/Progs/aolidlers/idletech2.zip](http://lenshellarchive.com/Progs/aolidlers/idletech2.zip) |
 | Progs Section 1 | Idle Tech 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/idletech2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/idletech2.zip) | [http://www.cybernyse.com/idletech2.zip](http://www.cybernyse.com/idletech2.zip) |
 
 ### Mirror Leads
@@ -108,7 +113,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Employee Sections | idletech2.jpg?fit=213%2C324&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/idletech2.jpg?fit=213%2C324&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/idletech2.jpg?fit=213%2C324&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/idletech2.jpg?fit=213%2C324&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/idletech2.jpg?fit=213%2C324&amp;ssl=1) |
 
 ## Related Indexes
 

@@ -46,10 +46,15 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | ups mm'er | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip) | [http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip](http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip) |
+| LensHell mailers and servers | ups mm'er | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip) | [http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip](http://lenshellarchive.com/Progs/aolmmservers/upsmm.zip) |
 
 ### Mirror Leads
 

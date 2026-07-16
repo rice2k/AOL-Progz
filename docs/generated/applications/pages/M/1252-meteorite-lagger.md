@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | meteorite lagger | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/meteorite.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/meteorite.zip) | [http://lenshellarchive.com/Progs/aolpunters/meteorite.zip](http://lenshellarchive.com/Progs/aolpunters/meteorite.zip) |
+| LensHell punters | meteorite lagger | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/meteorite.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/meteorite.zip) | [http://lenshellarchive.com/Progs/aolpunters/meteorite.zip](http://lenshellarchive.com/Progs/aolpunters/meteorite.zip) |
 
 ### Mirror Leads
 

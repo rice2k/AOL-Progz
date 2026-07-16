@@ -46,10 +46,15 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -97,14 +102,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM | Clone | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimclone.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimclone.zip) | [http://www.cybernyse.com/downlowdz/aimclone.zip](http://www.cybernyse.com/downlowdz/aimclone.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Clone | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimclone.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimclone.zip) | [http://24.185.191.87/progz/aimclone.zip](http://24.185.191.87/progz/aimclone.zip) |
-| prog's/misc n-z | pakistani clone scroller | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcs.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcs.zip) | [http://lenshellarchive.com/Progs/aolprogs/pcs.zip](http://lenshellarchive.com/Progs/aolprogs/pcs.zip) |
-| Visual Basic Section | scroll bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip) | [http://lenshellarchive.com/VBfiles/scroll.zip](http://lenshellarchive.com/VBfiles/scroll.zip) |
+| LensHell misc progs N-Z | pakistani clone scroller | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcs.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcs.zip) | [http://lenshellarchive.com/Progs/aolprogs/pcs.zip](http://lenshellarchive.com/Progs/aolprogs/pcs.zip) |
+| LensHell Visual Basic | scroll bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip) | [http://lenshellarchive.com/VBfiles/scroll.zip](http://lenshellarchive.com/VBfiles/scroll.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Visual Basic Section | scroll.zip | [http://lenshellarchive.com/VBfiles/scroll.zip](http://lenshellarchive.com/VBfiles/scroll.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip) | unknown | candidate |
+| LensHell Visual Basic | scroll.zip | [http://lenshellarchive.com/VBfiles/scroll.zip](http://lenshellarchive.com/VBfiles/scroll.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/scroll.zip) | unknown | candidate |
 
 ### Web Image Leads
 

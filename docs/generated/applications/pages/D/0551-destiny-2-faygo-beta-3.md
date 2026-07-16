@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb3](../../../tags/vb3.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -103,8 +108,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| cracker's | destiny password cracker² beta² | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/destiny.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/destiny.zip) | [http://lenshellarchive.com/Progs/aolcrackers/destiny.zip](http://lenshellarchive.com/Progs/aolcrackers/destiny.zip) |
-| cracker's | destiny password cracker² by faygo beta³ | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/newexe.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/newexe.zip) | [http://lenshellarchive.com/Progs/aolcrackers/newexe.zip](http://lenshellarchive.com/Progs/aolcrackers/newexe.zip) |
+| LensHell crackers | destiny password cracker² beta² | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/destiny.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/destiny.zip) | [http://lenshellarchive.com/Progs/aolcrackers/destiny.zip](http://lenshellarchive.com/Progs/aolcrackers/destiny.zip) |
+| LensHell crackers | destiny password cracker² by faygo beta³ | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/newexe.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/newexe.zip) | [http://lenshellarchive.com/Progs/aolcrackers/newexe.zip](http://lenshellarchive.com/Progs/aolcrackers/newexe.zip) |
 
 ### Mirror Leads
 

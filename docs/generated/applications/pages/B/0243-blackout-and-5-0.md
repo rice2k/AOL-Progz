@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Black Out Beta | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimblackoutbeta.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimblackoutbeta.zip) | [http://24.185.191.87/progz/aimblackoutbeta.zip](http://24.185.191.87/progz/aimblackoutbeta.zip) |
 | LensHell AIM progs | black out v1 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip](http://lenshellarchive.com/Progs/aimprogs/misc/blackout.zip) |
 | LensHell AIM progs | black out v2 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip](http://lenshellarchive.com/Progs/aimprogs/misc/blackoutv2.zip) |
-| prog's/misc a-m | blackout | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackout.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackout.zip) | [http://lenshellarchive.com/Progs/aolprogs/blackout.zip](http://lenshellarchive.com/Progs/aolprogs/blackout.zip) |
+| LensHell misc progs A-M | blackout | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackout.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/blackout.zip) | [http://lenshellarchive.com/Progs/aolprogs/blackout.zip](http://lenshellarchive.com/Progs/aolprogs/blackout.zip) |
 
 ### Mirror Leads
 

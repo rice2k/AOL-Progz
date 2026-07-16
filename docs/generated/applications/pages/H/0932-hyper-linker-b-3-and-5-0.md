@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md)
+[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | hyper linker ³ | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip) | [http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip](http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip) |
+| LensHell misc progs A-M | hyper linker ³ | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip) | [http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip](http://lenshellarchive.com/Progs/aolprogs/hyperlinker3.zip) |
 
 ### Mirror Leads
 

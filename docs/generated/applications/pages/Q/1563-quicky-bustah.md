@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip | [http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip](http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip) | [http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip](http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip) |
 | QuickBust | QuickBust | [https://web.archive.org/web/20010428185859/http://coolkid.text2k.net/files/QB.zip](https://web.archive.org/web/20010428185859/http://coolkid.text2k.net/files/QB.zip) | [http://coolkid.text2k.net/files/QB.zip](http://coolkid.text2k.net/files/QB.zip) |
 | LensHell AIM progs | quickchange | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip](http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip) |
-| buster's | quicky busta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip) | [http://lenshellarchive.com/Progs/aolbusters/quick.zip](http://lenshellarchive.com/Progs/aolbusters/quick.zip) |
+| LensHell busters | quicky busta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip) | [http://lenshellarchive.com/Progs/aolbusters/quick.zip](http://lenshellarchive.com/Progs/aolbusters/quick.zip) |
 | Section 2 | Quicky Busta | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/quick.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/quick.zip) | [http://www.cybernyse.com/downlowdz/quick.zip](http://www.cybernyse.com/downlowdz/quick.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Quicky Busta | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/quick.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/quick.zip) | [http://24.185.191.87/progz/quick.zip](http://24.185.191.87/progz/quick.zip) |
 

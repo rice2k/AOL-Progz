@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -97,16 +102,16 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Section 2 | Speedy Advertiser | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/speedy.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/speedy.zip) | [http://www.cybernyse.com/downlowdz/speedy.zip](http://www.cybernyse.com/downlowdz/speedy.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Speedy Advertiser | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/speedy.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/speedy.zip) | [http://24.185.191.87/progz/speedy.zip](http://24.185.191.87/progz/speedy.zip) |
-| idler's | speedy idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/speedy.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/speedy.zip) | [http://lenshellarchive.com/Progs/aolidlers/speedy.zip](http://lenshellarchive.com/Progs/aolidlers/speedy.zip) |
+| LensHell idlers | speedy idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/speedy.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/speedy.zip) | [http://lenshellarchive.com/Progs/aolidlers/speedy.zip](http://lenshellarchive.com/Progs/aolidlers/speedy.zip) |
 | Section 2 | Speedy Room Buster | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/buster.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/buster.zip) | [http://www.cybernyse.com/downlowdz/buster.zip](http://www.cybernyse.com/downlowdz/buster.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Speedy Room Buster | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/buster.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/buster.zip) | [http://24.185.191.87/progz/buster.zip](http://24.185.191.87/progz/buster.zip) |
-| buster's | speedy roombust v.1.2 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip) | [http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip](http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip) |
+| LensHell busters | speedy roombust v.1.2 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip) | [http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip](http://lenshellarchive.com/Progs/aolbusters/speedyrb12.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| cracker's | speedycrack.zip | [http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip](http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip) | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip) | unknown | candidate |
+| LensHell crackers | speedycrack.zip | [http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip](http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip) | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/speedycrack.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -106,7 +111,7 @@ No additional old-page download links are matched to this entry yet.
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: c-coms | ccomsbeta2.zip | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) | [files/external/lenshellarchive-com/ccomsbeta2.zip](../../../../../files/external/lenshellarchive-com/ccomsbeta2.zip) | ready |
-| c-coms | ccomsbeta2.zip | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | unknown | ready |
+| LensHell c-coms | ccomsbeta2.zip | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | unknown | ready |
 
 ### Web Image Leads
 

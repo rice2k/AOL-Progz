@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0669-endless.zip](../../../../../files/aol/aol-4-0/0669-endless.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/endless.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/endless.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/endless.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/endless.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/endless.zip)
@@ -97,13 +102,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM | Endless Commands v 1 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip) | [http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip](http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Endless Commands v 1 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimendlesscommandsv1.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimendlesscommandsv1.zip) | [http://24.185.191.87/progz/aimendlesscommandsv1.zip](http://24.185.191.87/progz/aimendlesscommandsv1.zip) |
-| idler's | endless idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip) | [http://lenshellarchive.com/Progs/aolidlers/endless.zip](http://lenshellarchive.com/Progs/aolidlers/endless.zip) |
-| prog's/misc a-m | endless possibilities | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/endposs.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/endposs.zip) | [http://lenshellarchive.com/Progs/aolprogs/endposs.zip](http://lenshellarchive.com/Progs/aolprogs/endposs.zip) |
+| LensHell idlers | endless idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip) | [http://lenshellarchive.com/Progs/aolidlers/endless.zip](http://lenshellarchive.com/Progs/aolidlers/endless.zip) |
+| LensHell misc progs A-M | endless possibilities | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/endposs.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/endposs.zip) | [http://lenshellarchive.com/Progs/aolprogs/endposs.zip](http://lenshellarchive.com/Progs/aolprogs/endposs.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell idlers | endless.zip | [http://lenshellarchive.com/Progs/aolidlers/endless.zip](http://lenshellarchive.com/Progs/aolidlers/endless.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/endless.zip) | unknown | http-404 |
 | AIM | aimendlesscommandsv1.zip | [http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip](http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimendlesscommandsv1.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimendlesscommandsv1.zip | [http://24.185.191.87/progz/aimendlesscommandsv1.zip](http://24.185.191.87/progz/aimendlesscommandsv1.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimendlesscommandsv1.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimendlesscommandsv1.zip) | unknown | candidate |
 

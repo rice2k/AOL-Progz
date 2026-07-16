@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0657-elites.zip](../../../../../files/aol/aol-4-0/0657-elites.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elites.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elites.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elites.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elites.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/elites.zip)
@@ -95,16 +100,17 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | elite scroller ¹·º | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip) | [http://lenshellarchive.com/Progs/aolprogs/elites.zip](http://lenshellarchive.com/Progs/aolprogs/elites.zip) |
-| prog's/misc a-m | elite spammer | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) | [http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) |
+| LensHell misc progs A-M | elite scroller ¹·º | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip) | [http://lenshellarchive.com/Progs/aolprogs/elites.zip](http://lenshellarchive.com/Progs/aolprogs/elites.zip) |
+| LensHell misc progs A-M | elite spammer | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) | [http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) |
 | LensHell AIM progs | elite spammer v1 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip](http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | elitespammer.zip | [http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) | unknown | candidate |
-| LensHell AIM progs | elitespamv1.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip](http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip) | unknown | candidate |
+| Web page: LensHell misc progs A-M | elites.zip | [http://lenshellarchive.com/Progs/aolprogs/elites.zip](http://lenshellarchive.com/Progs/aolprogs/elites.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elites.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | elitespammer.zip | [http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitespammer.zip) | unknown | http-404 |
+| Web page: LensHell AIM progs | elitespamv1.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip](http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/elitespamv1.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

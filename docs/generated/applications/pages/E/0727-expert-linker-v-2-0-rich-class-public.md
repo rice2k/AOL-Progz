@@ -43,18 +43,24 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 2.3 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md)
+[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0727-exp2setuprc.zip](../../../../../files/aol/mixed/0727-exp2setuprc.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/expert linker v2.0 rich class [public] for aol 2.5-7.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/expert%20linker%20v2.0%20rich%20class%20%5Bpublic%5D%20for%20aol%202.5-7.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/expert%20linker%20v2.0%20rich%20class%20%5Bpublic%5D%20for%20aol%202.5-7.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/expert%20linker%20v2.0%20rich%20class%20%5Bpublic%5D%20for%20aol%202.5-7.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/expert%20linker%20v2.0%20rich%20class%20%5Bpublic%5D%20for%20aol%202.5-7.zip)
@@ -94,11 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | expert linker v2.0 rich class [public] | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip) | [http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip](http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip) |
+| LensHell misc progs A-M | expert linker v2.0 rich class [public] | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip) | [http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip](http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell misc progs A-M | exp2setuprc.zip | [http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip](http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/exp2setuprc.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

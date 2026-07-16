@@ -46,10 +46,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| buster's | ghost buster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip) | [http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip](http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip) |
+| LensHell busters | ghost buster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip) | [http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip](http://lenshellarchive.com/Progs/aolbusters/ghostbuster.zip) |
 
 ### Mirror Leads
 

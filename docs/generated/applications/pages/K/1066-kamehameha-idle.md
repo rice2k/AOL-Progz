@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | kamehameha idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip) | [http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip](http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip) |
+| LensHell idlers | kamehameha idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip) | [http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip](http://lenshellarchive.com/Progs/aolidlers/kamehameha.zip) |
 | Progs Section 1 | Kamehameha Idle | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/kamehamehaidle.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/kamehamehaidle.zip) | [http://www.cybernyse.com/kamehamehaidle.zip](http://www.cybernyse.com/kamehamehaidle.zip) |
 
 ### Mirror Leads

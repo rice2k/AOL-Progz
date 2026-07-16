@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 0 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local catalog mirror |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-3-0](../../../tags/aol-3-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-3-0](../../../tags/aol-3-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -98,7 +103,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Fate X | IceDropMassMailer-3.png?fit=506%2C360&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/IceDropMassMailer-3.png?fit=506%2C360&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/IceDropMassMailer-3.png?fit=506%2C360&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/IceDropMassMailer-3.png?fit=506%2C360&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/IceDropMassMailer-3.png?fit=506%2C360&amp;ssl=1) |
 
 ## Related Indexes
 

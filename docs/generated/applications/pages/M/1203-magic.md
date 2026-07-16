@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 7 |
 | Matched mirror leads | 6 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -104,7 +109,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell AIM progs | magic b00t | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) |
-| buster's | magic roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip) | [http://lenshellarchive.com/Progs/aolbusters/magic.zip](http://lenshellarchive.com/Progs/aolbusters/magic.zip) |
+| LensHell busters | magic roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip) | [http://lenshellarchive.com/Progs/aolbusters/magic.zip](http://lenshellarchive.com/Progs/aolbusters/magic.zip) |
 | Click-Online AOL 4/5 progz | magic toolz | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/magic.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/magic.zip) | [http://click-online2000.com/progz/magic.zip](http://click-online2000.com/progz/magic.zip) |
 | Section 2 | Magic Toolz 5.0 Beta | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolz.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolz.zip) | [http://www.cybernyse.com/downlowdz/magictoolz.zip](http://www.cybernyse.com/downlowdz/magictoolz.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Magic Toolz 5.0 Beta | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolz.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolz.zip) | [http://24.185.191.87/progz/magictoolz.zip](http://24.185.191.87/progz/magictoolz.zip) |
@@ -124,7 +129,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Old GIFs | MagicToolz-1.png?fit=485%2C110&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/MagicToolz-1.png?fit=485%2C110&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/MagicToolz-1.png?fit=485%2C110&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/MagicToolz-1.png?fit=485%2C110&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/MagicToolz-1.png?fit=485%2C110&amp;ssl=1) |
 
 ## Related Indexes
 

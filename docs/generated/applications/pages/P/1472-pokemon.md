@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -95,8 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| LensHell misc progs N-Z | pokemon | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pokemon.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pokemon.zip) | [http://lenshellarchive.com/Progs/aolprogs/pokemon.zip](http://lenshellarchive.com/Progs/aolprogs/pokemon.zip) |
 | Click-Online AOL 4/5 progz | pokemon | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/pokemon.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/pokemon.zip) | [http://click-online2000.com/progz/pokemon.zip](http://click-online2000.com/progz/pokemon.zip) |
-| prog's/misc n-z | pokemon | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pokemon.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pokemon.zip) | [http://lenshellarchive.com/Progs/aolprogs/pokemon.zip](http://lenshellarchive.com/Progs/aolprogs/pokemon.zip) |
 | SuperPokémon! | SuperPokémon! Compilation Edition | [https://web.archive.org/web/20010429023955/http://coolkid.text2k.net/files/SP_CE.zip](https://web.archive.org/web/20010429023955/http://coolkid.text2k.net/files/SP_CE.zip) | [http://coolkid.text2k.net/files/SP_CE.zip](http://coolkid.text2k.net/files/SP_CE.zip) |
 | SuperPokémon! | SuperPokémon! v1.0 | [https://web.archive.org/web/20010429023955/http://coolkid.text2k.net/files/SP_v1.zip](https://web.archive.org/web/20010429023955/http://coolkid.text2k.net/files/SP_v1.zip) | [http://coolkid.text2k.net/files/SP_v1.zip](http://coolkid.text2k.net/files/SP_v1.zip) |
 | SuperPokémon! | SuperPokémon! v2.0 | [https://web.archive.org/web/20010429023955/http://coolkid.text2k.net/files/SP_v2.zip](https://web.archive.org/web/20010429023955/http://coolkid.text2k.net/files/SP_v2.zip) | [http://coolkid.text2k.net/files/SP_v2.zip](http://coolkid.text2k.net/files/SP_v2.zip) |

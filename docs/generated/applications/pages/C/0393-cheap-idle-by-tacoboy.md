@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -103,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | cheap idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheap.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheap.zip) | [http://lenshellarchive.com/Progs/aolidlers/cheap.zip](http://lenshellarchive.com/Progs/aolidlers/cheap.zip) |
+| LensHell idlers | cheap idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheap.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheap.zip) | [http://lenshellarchive.com/Progs/aolidlers/cheap.zip](http://lenshellarchive.com/Progs/aolidlers/cheap.zip) |
 
 ### Mirror Leads
 

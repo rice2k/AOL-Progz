@@ -1,12 +1,12 @@
 window.AOL_PROGZ_WEB_ASSETS = {
-  "generatedAt": "2026-07-16T11:45:27.223Z",
-  "assetCount": 892,
-  "readyCount": 165,
+  "generatedAt": "2026-07-16T14:40:41.623Z",
+  "assetCount": 893,
+  "readyCount": 166,
   "byStatus": {
-    "http-404": 685,
-    "ready": 165,
-    "not-image": 19,
-    "failed": 23
+    "http-404": 689,
+    "ready": 166,
+    "failed": 22,
+    "not-image": 16
   },
   "assets": [
     {
@@ -180,7 +180,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "http://www.aol-progz.com/index.shtml",
       "pageUrl": "https://web.archive.org/web/20010301094602/http://www.aol-progz.com/index.shtml",
       "localPath": "",
-      "status": "not-image",
+      "status": "failed",
       "size": 0
     },
     {
@@ -898,7 +898,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "AimThings",
       "pageUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1008,7 +1008,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "AimThings",
       "pageUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1019,7 +1019,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "AimThings",
       "pageUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1173,7 +1173,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1206,7 +1206,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1228,7 +1228,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1250,7 +1250,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1261,7 +1261,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1272,7 +1272,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1283,7 +1283,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1294,7 +1294,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1305,7 +1305,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1316,7 +1316,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1327,7 +1327,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1338,7 +1338,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1349,7 +1349,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1360,7 +1360,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1371,7 +1371,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1382,7 +1382,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1393,7 +1393,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1404,7 +1404,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1415,7 +1415,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1426,7 +1426,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -1437,7 +1437,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1459,7 +1459,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1481,7 +1481,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1503,7 +1503,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1525,7 +1525,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1547,7 +1547,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1569,7 +1569,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1591,7 +1591,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1613,7 +1613,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1635,7 +1635,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1657,7 +1657,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -1679,7 +1679,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "LensHellArchive Games",
       "pageUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
       "localPath": "",
-      "status": "failed",
+      "status": "http-404",
       "size": 0
     },
     {
@@ -9601,7 +9601,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "RiceJerry links",
       "pageUrl": "https://web.archive.org/web/20010223212351/http://www.8op.com:80/ricejerry/links.html",
       "localPath": "",
-      "status": "http-404",
+      "status": "failed",
       "size": 0
     },
     {
@@ -9647,7 +9647,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "Home",
       "pageUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/aaa.html",
       "localPath": "",
-      "status": "not-image",
+      "status": "failed",
       "size": 0
     },
     {
@@ -9704,7 +9704,7 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "pageName": "ProgStation AIM",
       "pageUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net:80/aim.html",
       "localPath": "",
-      "status": "not-image",
+      "status": "failed",
       "size": 0
     },
     {
@@ -9948,6 +9948,17 @@ window.AOL_PROGZ_WEB_ASSETS = {
       "localPath": "",
       "status": "http-404",
       "size": 0
+    },
+    {
+      "text": "icon-loader.svg",
+      "url": "https://aolunderground.com/wp-content/plugins/seriously-simple-podcasting/assets/css/images/player/images/icon-loader.svg",
+      "originalUrl": "https://aolunderground.com/wp-content/plugins/seriously-simple-podcasting/assets/css/images/player/images/icon-loader.svg",
+      "type": "image",
+      "pageName": "Tau – Co-creator of AOL-Files.com",
+      "pageUrl": "https://aolunderground.com/podcast/tau/?fbclid=IwAR22UsGaT0Xdso0jmlVArAfN9urHxJz2e0raPAK18jEwfyGRbGvYP-E54tQ",
+      "localPath": "assets/web-resources/aolunderground-com/icon-loader.svg",
+      "status": "ready",
+      "size": 1005
     }
   ]
 };

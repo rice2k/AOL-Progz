@@ -46,10 +46,15 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-8-0](../../../tags/aol-8-0.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-8-0](../../../tags/aol-8-0.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Visual Basic Section | mp3 control | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/aolccoms/mp3control.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/aolccoms/mp3control.zip) | [http://lenshellarchive.com/Progs/aolccoms/mp3control.zip](http://lenshellarchive.com/Progs/aolccoms/mp3control.zip) |
+| LensHell c-coms | mp3 control | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/mp3control.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/mp3control.zip) | [http://lenshellarchive.com/Progs/aolccoms/mp3control.zip](http://lenshellarchive.com/Progs/aolccoms/mp3control.zip) |
 
 ### Mirror Leads
 

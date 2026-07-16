@@ -46,10 +46,15 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local catalog mirror |
+| Manual review flags | no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-screenshots](../../../tags/has-screenshots.md) [#tools](../../../tags/tools.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-screenshots](../../../tags/has-screenshots.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#tools](../../../tags/tools.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

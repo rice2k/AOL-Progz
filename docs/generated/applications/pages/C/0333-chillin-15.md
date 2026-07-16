@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 8 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -95,14 +100,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | chillin c-coms v1½ | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) | [http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) |
+| LensHell c-coms | chillin c-coms v1½ | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) | [http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) |
 | Click-Online AOL 4/5 progz | compac coms beta 1 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip) | [http://click-online2000.com/progz/compaccoms.zip](http://click-online2000.com/progz/compaccoms.zip) |
 | LensHell AIM progs | dry c-com | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip](http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip) |
 | Progs Section 1 | Holyz C-Coms | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/holyzccom.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/holyzccom.zip) | [http://www.cybernyse.com/holyzccom.zip](http://www.cybernyse.com/holyzccom.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip | [http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip](http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip) | [http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip](http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip) |
 | Progs Section 1 | Imperial C-Coms | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccoms.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccoms.zip) | [http://www.cybernyse.com/imperialccoms.zip](http://www.cybernyse.com/imperialccoms.zip) |
 | Progs Section 1 | Imperial C-Coms v2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccomsv2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccomsv2.zip) | [http://www.cybernyse.com/imperialccomsv2.zip](http://www.cybernyse.com/imperialccomsv2.zip) |
-| c-coms | magic toolz c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip](http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip) |
+| LensHell c-coms | magic toolz c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip](http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip) |
 
 ### Mirror Leads
 

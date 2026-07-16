@@ -43,18 +43,24 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0704-ettu23.zip](../../../../../files/aol/aol-4-0/0704-ettu23.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/et tu idle beta (3) for aol 4.0-6.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/et%20tu%20idle%20beta%20(3)%20for%20aol%204.0-6.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/et%20tu%20idle%20beta%20(3)%20for%20aol%204.0-6.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/et%20tu%20idle%20beta%20(3)%20for%20aol%204.0-6.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/et%20tu%20idle%20beta%20(3)%20for%20aol%204.0-6.0.zip)
@@ -94,11 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | et tu idle ? beta (3) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip) | [http://lenshellarchive.com/Progs/aolidlers/ettu23.zip](http://lenshellarchive.com/Progs/aolidlers/ettu23.zip) |
+| LensHell idlers | et tu idle ? beta (3) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip) | [http://lenshellarchive.com/Progs/aolidlers/ettu23.zip](http://lenshellarchive.com/Progs/aolidlers/ettu23.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell idlers | ettu23.zip | [http://lenshellarchive.com/Progs/aolidlers/ettu23.zip](http://lenshellarchive.com/Progs/aolidlers/ettu23.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ettu23.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -95,10 +100,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | / . . \ ccoms beta 2 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) |
-| c-coms | / . . \ ccoms beta 3 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) |
+| LensHell c-coms | / . . \ ccoms beta 2 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) |
+| LensHell c-coms | / . . \ ccoms beta 3 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip) |
-| c-coms | serial-com beta | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sbeta.zip) | [http://lenshellarchive.com/Progs/aolccoms/sbeta.zip](http://lenshellarchive.com/Progs/aolccoms/sbeta.zip) |
+| LensHell c-coms | serial-com beta | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sbeta.zip) | [http://lenshellarchive.com/Progs/aolccoms/sbeta.zip](http://lenshellarchive.com/Progs/aolccoms/sbeta.zip) |
 | Section 2 | Solar Winds Beta¹·³ | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip) | [http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip](http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Solar Winds Beta¹·³ | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip) | [http://24.185.191.87/progz/solarwindsbetav13.zip](http://24.185.191.87/progz/solarwindsbetav13.zip) |
 

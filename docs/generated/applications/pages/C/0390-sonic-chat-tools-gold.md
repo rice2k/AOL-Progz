@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -96,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM | AIM Chat Toolz | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip) | [http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip](http://www.cybernyse.com/downlowdz/aimaimchattoolz.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | AIM Chat Toolz | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimchattoolz.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimaimchattoolz.zip) | [http://24.185.191.87/progz/aimaimchattoolz.zip](http://24.185.191.87/progz/aimaimchattoolz.zip) |
-| c-coms | sonic chat tools gold | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sctgold.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sctgold.zip) | [http://lenshellarchive.com/Progs/aolccoms/sctgold.zip](http://lenshellarchive.com/Progs/aolccoms/sctgold.zip) |
+| LensHell c-coms | sonic chat tools gold | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sctgold.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sctgold.zip) | [http://lenshellarchive.com/Progs/aolccoms/sctgold.zip](http://lenshellarchive.com/Progs/aolccoms/sctgold.zip) |
 
 ### Mirror Leads
 

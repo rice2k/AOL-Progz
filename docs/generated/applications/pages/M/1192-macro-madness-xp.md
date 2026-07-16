@@ -46,10 +46,15 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -102,7 +107,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | macro madness xp | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip) | [http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip](http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip) |
+| LensHell misc progs A-M | macro madness xp | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip) | [http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip](http://lenshellarchive.com/Progs/aolprogs/madnessxp.zip) |
 
 ### Mirror Leads
 

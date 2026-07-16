@@ -45,11 +45,16 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched web download links | 4 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Progs Section 1 | Chat Toolz 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chattoolz2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chattoolz2.zip) | [http://www.cybernyse.com/chattoolz2.zip](http://www.cybernyse.com/chattoolz2.zip) |
 | LensHell AIM progs | chat toolz2.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) |
-| prog's/misc a-m | chat toolz2.0 beta | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) |
+| LensHell misc progs A-M | chat toolz2.0 beta | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/chattoolz2.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/chattoolz2.zip) | [http://www.oogle.net/downloads/progs/chattoolz2.zip](http://www.oogle.net/downloads/progs/chattoolz2.zip) |
 
 ### Mirror Leads
@@ -109,7 +114,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Make AOL Great Again | ChatToolz2-1.png?fit=180%2C75&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/06/ChatToolz2-1.png?fit=180%2C75&amp;ssl=1) |
 
 ## Related Indexes
 

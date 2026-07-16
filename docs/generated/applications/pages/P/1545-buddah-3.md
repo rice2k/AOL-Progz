@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | unknown |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| cracker's | buddah password cracker 3 | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip) | [http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip](http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip) |
+| LensHell crackers | buddah password cracker 3 | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip) | [http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip](http://lenshellarchive.com/Progs/aolcrackers/pwc3b.zip) |
 
 ### Mirror Leads
 

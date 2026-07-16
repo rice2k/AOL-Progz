@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-8-0](../../../tags/aol-8-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md)
+[#aol](../../../tags/aol.md) [#aol-8-0](../../../tags/aol-8-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | aol 8.0 chat bot | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip) | [http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip](http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip) |
+| LensHell misc progs A-M | aol 8.0 chat bot | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip) | [http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip](http://lenshellarchive.com/Progs/aolprogs/aol8chatbot.zip) |
 
 ### Mirror Leads
 

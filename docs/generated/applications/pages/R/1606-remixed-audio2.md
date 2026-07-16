@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | external ZIP text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | external mirror |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -99,15 +104,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Visual Basic Section | mixed bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip) | [http://lenshellarchive.com/VBfiles/mixed.zip](http://lenshellarchive.com/VBfiles/mixed.zip) |
-| prog's/misc n-z | remixed audio² beta 1.01 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip) | [http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip](http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip) |
+| LensHell Visual Basic | mixed bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip) | [http://lenshellarchive.com/VBfiles/mixed.zip](http://lenshellarchive.com/VBfiles/mixed.zip) |
+| LensHell misc progs N-Z | remixed audio² beta 1.01 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip) | [http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip](http://lenshellarchive.com/Progs/aolprogs/remaudio2.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | mixed.zip | [http://www.angelfire.com/electronic2/progz101/mixed.zip](http://www.angelfire.com/electronic2/progz101/mixed.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip) | [files/external/angelfire-com/mixed-2e564198.zip](../../../../../files/external/angelfire-com/mixed-2e564198.zip) | ready |
-| Visual Basic Section | mixed.zip | [http://lenshellarchive.com/VBfiles/mixed.zip](http://lenshellarchive.com/VBfiles/mixed.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip) | unknown | candidate |
+| LensHell Visual Basic | mixed.zip | [http://lenshellarchive.com/VBfiles/mixed.zip](http://lenshellarchive.com/VBfiles/mixed.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip) | unknown | candidate |
 
 ### Web Image Leads
 

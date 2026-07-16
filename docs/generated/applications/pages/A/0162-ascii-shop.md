@@ -46,10 +46,15 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | unknown |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,10 +99,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | big dick ascii shop2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bdas2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bdas2.zip) | [http://lenshellarchive.com/Progs/aolprogs/bdas2.zip](http://lenshellarchive.com/Progs/aolprogs/bdas2.zip) |
+| LensHell misc progs A-M | big dick ascii shop2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bdas2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/bdas2.zip) | [http://lenshellarchive.com/Progs/aolprogs/bdas2.zip](http://lenshellarchive.com/Progs/aolprogs/bdas2.zip) |
 | Progs Section 1 | FireCat Ascii Shop | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/firecatasciishop.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/firecatasciishop.zip) | [http://www.cybernyse.com/firecatasciishop.zip](http://www.cybernyse.com/firecatasciishop.zip) |
-| prog's/misc n-z | odd ball ascii | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip) | [http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip](http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip) |
-| prog's/misc n-z | react ascii shop ¹·¹ public beta [6] | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip) | [http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip](http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip) |
+| LensHell misc progs N-Z | odd ball ascii | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip) | [http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip](http://lenshellarchive.com/Progs/aolprogs/oddballascii.zip) |
+| LensHell misc progs N-Z | react ascii shop ¹·¹ public beta [6] | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip) | [http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip](http://lenshellarchive.com/Progs/aolprogs/raspbeta6.zip) |
 
 ### Mirror Leads
 

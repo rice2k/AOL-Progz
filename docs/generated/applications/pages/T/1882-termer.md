@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | main local file missing, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| termer's | immortality termer beta1 | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip) | [http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip](http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip) |
+| LensHell termers | immortality termer beta1 | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip) | [http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip](http://lenshellarchive.com/Progs/aoltermers/immortalitybeta.zip) |
 
 ### Mirror Leads
 

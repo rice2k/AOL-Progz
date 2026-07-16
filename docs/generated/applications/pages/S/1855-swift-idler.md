@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | swift idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip) | [http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip](http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip) |
+| LensHell idlers | swift idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip) | [http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip](http://lenshellarchive.com/Progs/aolidlers/swiftidler.zip) |
 
 ### Mirror Leads
 
@@ -102,7 +107,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AOL Disks by numb | Swift-Idler.png?fit=205%2C65&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/08/Swift-Idler.png?fit=205%2C65&amp;ssl=1) |
 
 ## Related Indexes
 

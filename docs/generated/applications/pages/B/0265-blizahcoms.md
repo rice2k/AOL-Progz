@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -96,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Progs Section 1 | Blizah Coms 1.2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blizahcoms.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/blizahcoms.zip) | [http://www.cybernyse.com/blizahcoms.zip](http://www.cybernyse.com/blizahcoms.zip) |
-| c-coms | blizah coms beta 1.1 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip) | [http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip](http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip) |
+| LensHell c-coms | blizah coms beta 1.1 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip) | [http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip](http://lenshellarchive.com/Progs/aolccoms/blizahcoms.zip) |
 
 ### Mirror Leads
 

@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,9 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | simple idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip](http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip) |
-| buster's | simple room bust 1.0 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/simple.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/simple.zip) | [http://lenshellarchive.com/Progs/aolbusters/simple.zip](http://lenshellarchive.com/Progs/aolbusters/simple.zip) |
-| x'ers | simple x'er | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/simple.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/simple.zip) | [http://lenshellarchive.com/Progs/aolxers/simple.zip](http://lenshellarchive.com/Progs/aolxers/simple.zip) |
+| LensHell idlers | simple idle | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip) | [http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip](http://lenshellarchive.com/Progs/aolidlers/simpleidle.zip) |
+| LensHell busters | simple room bust 1.0 | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/simple.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/simple.zip) | [http://lenshellarchive.com/Progs/aolbusters/simple.zip](http://lenshellarchive.com/Progs/aolbusters/simple.zip) |
+| LensHell xers | simple x'er | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/simple.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/simple.zip) | [http://lenshellarchive.com/Progs/aolxers/simple.zip](http://lenshellarchive.com/Progs/aolxers/simple.zip) |
 
 ### Mirror Leads
 

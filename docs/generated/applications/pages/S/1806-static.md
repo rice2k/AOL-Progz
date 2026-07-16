@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 3 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | unknown |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | static comz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/static.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/static.zip) | [http://lenshellarchive.com/Progs/aolccoms/static.zip](http://lenshellarchive.com/Progs/aolccoms/static.zip) |
+| LensHell c-coms | static comz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/static.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/static.zip) | [http://lenshellarchive.com/Progs/aolccoms/static.zip](http://lenshellarchive.com/Progs/aolccoms/static.zip) |
 | AIM | Static X v 2.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimstaticxv2.zip) | [http://www.cybernyse.com/downlowdz/aimstaticxv2.zip](http://www.cybernyse.com/downlowdz/aimstaticxv2.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Static X v 2.0 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip) | [http://24.185.191.87/progz/aimstaticxv2.zip](http://24.185.191.87/progz/aimstaticxv2.zip) |
 

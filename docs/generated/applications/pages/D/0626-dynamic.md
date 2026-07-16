@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.5 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 3 |
+| Author confidence | catalog only |
+| Category confidence | external ZIP text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0626-dynamic.zip](../../../../../files/aol/aol-4-0/0626-dynamic.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dynamic.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dynamic.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dynamic.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dynamic.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dynamic.zip)
@@ -99,19 +104,22 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | dynamic massmailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip) | [http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip](http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip) |
+| LensHell mailers and servers | dynamic massmailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip) | [http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip](http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue FortuneCity Skyscraper files | netbuster1_31.zip | [http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/dynamic/84/netbuster1_31.zip) | [files/external/angelfire-com/netbuster131.zip](../../../../../files/external/angelfire-com/netbuster131.zip) | ready |
+| Web page: LensHell mailers and servers | dynamic.zip | [http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip](http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dynamic.zip) | unknown | http-404 |
 
 ### Web Image Leads
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
 | mmer | all_dynamic_psi.gif?fit=259%2C310&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1) |
+| All Dynamic y! spammer | all_dynamic_psi.gif?resize=259%2C310&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?resize=259%2C310&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?resize=259%2C310&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?resize=259%2C310&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?resize=259%2C310&#038;ssl=1) |
+| All Dynamic y! spammer | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?ssl=1) |
 
 ## Related Indexes
 

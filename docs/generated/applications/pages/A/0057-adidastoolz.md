@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | adidas toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/adidas.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/adidas.zip) | [http://lenshellarchive.com/Progs/aolprogs/adidas.zip](http://lenshellarchive.com/Progs/aolprogs/adidas.zip) |
+| LensHell misc progs A-M | adidas toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/adidas.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/adidas.zip) | [http://lenshellarchive.com/Progs/aolprogs/adidas.zip](http://lenshellarchive.com/Progs/aolprogs/adidas.zip) |
 | Progs Section 1 | Adidas Toolz | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/adidastoolz.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/adidastoolz.zip) | [http://www.cybernyse.com/adidastoolz.zip](http://www.cybernyse.com/adidastoolz.zip) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/adidastoolz.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/adidastoolz.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/adidastoolz.zip) | [http://www.oogle.net/downloads/progs/adidastoolz.zip](http://www.oogle.net/downloads/progs/adidastoolz.zip) |
 

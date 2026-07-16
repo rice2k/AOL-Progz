@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| termer's | visual snipe | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/snipe.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/snipe.zip) | [http://lenshellarchive.com/Progs/aoltermers/snipe.zip](http://lenshellarchive.com/Progs/aoltermers/snipe.zip) |
+| LensHell termers | visual snipe | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/snipe.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/snipe.zip) | [http://lenshellarchive.com/Progs/aoltermers/snipe.zip](http://lenshellarchive.com/Progs/aoltermers/snipe.zip) |
 
 ### Mirror Leads
 

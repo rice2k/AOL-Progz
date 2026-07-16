@@ -10,8 +10,8 @@ scene links.**
   <a href="docs/generated/applications/all-programs-detailed.md">
     <img alt="Catalog: 2,139 apps" src="https://img.shields.io/badge/catalog-2%2C139%20apps-18D5D1?style=for-the-badge&labelColor=101820">
   </a>
-  <a href="files/">
-    <img alt="Mirrored files: 1,672" src="https://img.shields.io/badge/mirrored%20files-1%2C672-64DC8A?style=for-the-badge&labelColor=101820">
+  <a href="docs/generated/sources/recovered-files.md">
+    <img alt="Recovered files: 2,364" src="https://img.shields.io/badge/recovered%20files-2%2C364-64DC8A?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/statistics.md">
     <img alt="Local archive size: 2.2 GB" src="https://img.shields.io/badge/local%20archive-2.2%20GB-FFD34D?style=for-the-badge&labelColor=101820">
@@ -20,13 +20,13 @@ scene links.**
 
 <p align="center">
   <a href="docs/generated/sources/all-links.md">
-    <img alt="Master links: 18,366 URLs" src="https://img.shields.io/badge/master%20links-18%2C366%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
+    <img alt="Master links: 28,564 URLs" src="https://img.shields.io/badge/master%20links-28%2C564%20URLs-7AA8FF?style=for-the-badge&labelColor=101820">
   </a>
-  <a href="docs/generated/sources/download-links.md">
-    <img alt="Crawled download links: 3,726" src="https://img.shields.io/badge/crawled%20downloads-3%2C726-FF5B8F?style=for-the-badge&labelColor=101820">
+  <a href="docs/generated/sources/original-download-urls.md">
+    <img alt="Original URLs: 9,621" src="https://img.shields.io/badge/original%20URLs-9%2C621-FF5B8F?style=for-the-badge&labelColor=101820">
   </a>
   <a href="docs/generated/applications/all-program-downloads.md">
-    <img alt="Web download matches: 2,008" src="https://img.shields.io/badge/web%20matches-2%2C008-BB8CFF?style=for-the-badge&labelColor=101820">
+    <img alt="Web download matches: 2,009" src="https://img.shields.io/badge/web%20matches-2%2C009-BB8CFF?style=for-the-badge&labelColor=101820">
   </a>
 </p>
 
@@ -45,17 +45,31 @@ scene links.**
 
 | Browse | What it shows |
 | --- | --- |
+| [Master progs table](docs/generated/applications/all-progs-master.md) | The main all-progs list with best-known name, catalog label, archive filename, category, prog type, AOL/version clues, author confidence, local file, old-web leads, reference URLs, embedded URLs, screenshots, and review flags. |
 | [Detailed all-progs inventory](docs/generated/applications/all-programs-detailed.md) | Every cataloged prog/app with best-known name, catalog label, archive filename, size, inferred prog type, category, AOL version clues, evidence-first author, local file, old-web lead count, reference mirror, embedded URLs, and screenshot count. |
 | [All program download links](docs/generated/applications/all-program-downloads.md) | Every catalog entry with local file, matched old-page download links, recovered mirror leads, and the reference repository mirror kept separate from original old-web sources. |
 | [Program metadata enrichment report](docs/generated/applications/enrichment-report.md) | Best-name improvements, manual corrections, readme/archive-text author clues, AOL-version clues, web download lead counts, source mentions, and mirror-lead counts. |
+| [Metadata confidence report](docs/generated/applications/metadata-confidence.md) | Per-program confidence for author, category, AOL/version, and source evidence, plus review flags for weak or conflicting records. |
+| [Needs manual review](docs/generated/applications/needs-manual-review.md) | Entries where authors, categories, screenshots, text evidence, source status, or sensitive historical categories need future review. |
+| [Author conflicts](docs/generated/applications/author-conflicts.md) | Entries where catalog, filename, manual, or readable-text author clues disagree. |
 | [Web research mentions](docs/generated/applications/web-research-mentions.md) | Strong program-level mentions extracted from source pages such as AOLUnderground.com. |
 | [Master all-links index](docs/generated/sources/all-links.md) | Deduped master list of user-supplied links, crawled links, download links, embedded archive URLs, mirrors, and source pages. |
+| [Original download URLs](docs/generated/sources/original-download-urls.md) | Deduped original and Wayback download URLs with source, status, local file, and matched program page where known. |
+| [Recovered files](docs/generated/sources/recovered-files.md) | Main catalog files, recovered external files, runtime files, utilities, and web images with local paths and SHA1 hashes when available. |
 | [Links you supplied](docs/generated/sources/user-supplied-links.md) | The priority source links from the request, preserved as their own page. |
 | [Sources and old-school links](docs/generated/sources/README.md) | Curated source notes, crawled pages, mirror groups, missing candidates, Methodus2000, FreeProgz, LensHell, RiceJerry, LolToolz, and more. |
+| [Top source sites](docs/generated/sources/top-source-sites.md) | Source pages ranked by links, download leads, recovery attempts, recovered files, image attempts, and recovered images. |
 | [External download recovery status](docs/generated/sources/external-downloads.md) | Every attempted external recovery URL with status, source page, original URL, Wayback/download URL, size, and local file when recovered. |
 | [AOL/AIM client and runtime downloads](docs/generated/sources/aol-aim-client-downloads.md) | Versioned AIM/AOL installers, AIM utilities, AOL utilities, and DLL/OCX runtime support files tracked separately from the prog catalog. |
+| [DLL/OCX runtime files](docs/generated/sources/runtime-files.md) | Recovered and attempted Visual Basic/Windows support files that old progs commonly needed. |
+| [DeadAIM and AIM enhancers](docs/generated/sources/deadaim-aim-enhancers.md) | AIM-specific utilities and enhancer leads kept separate from classic AOL prog categories. |
+| [AOL utilities](docs/generated/sources/aol-utilities.md) | AOL client installers and AOL-specific utilities such as Format SN, Master AOL, and AOL file downloaders. |
+| [Recovered missing candidates](docs/generated/sources/missing-ready.md) | Old-web candidate files that are not matched to the main catalog yet but do have recovered local mirrors. |
+| [Plain CSV/JSON exports](docs/generated/exports/README.md) | Spreadsheet-ready catalog, recovered-file, and original/download URL exports. |
 | [Categories](docs/generated/categories/README.md) | Punters, room busters, faders, idlers, C-Coms/chat tools, mailers, source packs, all-in-one progs, and uncategorized items. |
+| [Prog type index](docs/generated/categories/type-index.md) | A more specific browse index for inferred functions such as fader, idler, linker, C-Com, room buster, source file, and utility. |
 | [AOL version buckets](docs/generated/versions/README.md) | AOL 2.5, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, tools, and mixed/unknown buckets. |
+| [Timeline](docs/generated/applications/timeline.md) | AOL/AIM-era context plus source capture-year counts from the crawl. |
 | [Screenshots and recovered web images](docs/generated/screenshots/README.md) | Program screenshots plus recovered old-site images from crawled pages. |
 | [Glossary](docs/generated/GLOSSARY.md) | Scene vocabulary for progs, punters, booters, room busters, C-Coms, faders, idlers, MMers, servers, crackers, phishers, termers, and X'ers. |
 | [Archive safety notes](ARCHIVE-SAFETY.md) | Historical preservation warnings and safe-inspection guidance. |
@@ -72,22 +86,26 @@ scene links.**
 | Programs with embedded URLs | 170 |
 | URLs found in readable archive text | 234 |
 | Programs with improved best-known names | 519 |
-| Programs with matched web download leads | 2,008 |
+| Programs with matched web download leads | 2,009 |
+| Deduped original/download URLs | 9,621 |
 | Archive-text author clues | 15 |
 | Archive-text purpose clues | 324 |
 | Archive-text AOL/version clues | 106 |
 | Author conflicts flagged | 12 |
-| Matched web download links | 2,603 |
-| Programs with mirror leads | 234 |
+| Matched old-web download links | 2,800 |
+| Programs with mirror leads | 803 |
+| Matched external mirror leads | 1,217 |
 | Strong source-page program mentions | 7 |
-| Crawled source pages | 394 |
-| Unique crawled links | 8,600 |
-| Crawled download links | 3,726 |
-| Missing candidates from old-web sources | 1,418 |
-| Missing candidates with local recovery | 248 |
-| Recovered external files | 360 |
-| External mirror groups | 1,340 |
-| Recovered web images | 87 |
+| Crawled source pages | 1,200 |
+| Fetched source pages | 1,056 |
+| Unique crawled links | 16,796 |
+| Crawled download links | 5,147 |
+| Missing candidates from old-web sources | 2,365 |
+| Missing candidates with local recovery | 306 |
+| Recovered external files | 526 |
+| Local recovered file records | 2,364 |
+| External mirror groups | 1,686 |
+| Recovered web images | 166 |
 
 The site includes:
 
@@ -113,6 +131,11 @@ The site includes:
   discovered in repository text and safely readable archive text.
 - A separate enrichment index that improves weak catalog labels from archive
   filenames and old-page evidence while preserving the original catalog label.
+- Metadata confidence and manual-review reports for author, category,
+  AOL/version, source evidence, screenshots, readable text, and sensitive
+  historical categories.
+- Plain CSV/JSON exports for the catalog, recovered local files, and deduped
+  original/download URLs.
 - Crawled old resource pages and link directories, including FreeProgz,
   RiceJerry, LolToolz, LoLToolz AIM, LensHellArchive, Methodus2000, Oogle,
   ProgStation, AimThings, CoolKid/Text2k, AM.NET, Click-Online, ColtPro,

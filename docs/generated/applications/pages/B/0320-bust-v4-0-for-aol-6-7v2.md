@@ -46,10 +46,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local catalog mirror |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#room-buster](../../../tags/room-buster.md)
+[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md)
 
 ## Source And Files
 

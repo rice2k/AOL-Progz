@@ -43,19 +43,24 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Download status | ready |
 | Local mirrored size | 969 KB |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0790-freeprogz-fader.zip](../../../../../files/aol/aol-4-0/0790-freeprogz-fader.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/freeprogzfader.zip)
@@ -103,6 +108,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue FortuneCity Skyscraper files | freeprogzfader.zip | [http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip](http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip) | [https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip](https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/powercable/226/HTMLobj-264/freeprogzfader.zip) | [files/external/fortunecity-com/freeprogzfader-6ae8695b.zip](../../../../../files/external/fortunecity-com/freeprogzfader-6ae8695b.zip) | ready |
+| Web page: LensHell faders | freeprogzfader.zip | [http://lenshellarchive.com/Progs/aolfaders/freeprogzfader.zip](http://lenshellarchive.com/Progs/aolfaders/freeprogzfader.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/freeprogzfader.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/freeprogzfader.zip) | unknown | http-404 |
+| Web page: Progs Section 1 | freeprogzfader.zip | [http://www.cybernyse.com/freeprogzfader.zip](http://www.cybernyse.com/freeprogzfader.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freeprogzfader.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/freeprogzfader.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | corruption of the mind v2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/corruption.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/corruption.zip) | [http://lenshellarchive.com/Progs/aolprogs/corruption.zip](http://lenshellarchive.com/Progs/aolprogs/corruption.zip) |
+| LensHell misc progs A-M | corruption of the mind v2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/corruption.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/corruption.zip) | [http://lenshellarchive.com/Progs/aolprogs/corruption.zip](http://lenshellarchive.com/Progs/aolprogs/corruption.zip) |
 | Click-Online AOL 4/5 progz | corruption of the Mind v2 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/corruption.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/corruption.zip) | [http://click-online2000.com/progz/corruption.zip](http://click-online2000.com/progz/corruption.zip) |
 | Progs Section 1 | Corruption of the Mind v2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/corruption.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/corruption.zip) | [http://www.cybernyse.com/corruption.zip](http://www.cybernyse.com/corruption.zip) |
 | LensHell AIM progs | corruptional errors | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/corrupterrors.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/corrupterrors.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/corrupterrors.zip](http://lenshellarchive.com/Progs/aimprogs/misc/corrupterrors.zip) |

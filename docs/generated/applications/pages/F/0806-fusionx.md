@@ -43,18 +43,24 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Download status | ready |
 | Local mirrored size | 1.9 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#password-metadata](../../../tags/password-metadata.md) [#vb5](../../../tags/vb5.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0806-fusionx.zip](../../../../../files/aol/aol-4-0/0806-fusionx.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fusion x 2.2 aol5 password=purmie.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fusion%20x%202.2%20aol5%20password%3Dpurmie.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fusion%20x%202.2%20aol5%20password%3Dpurmie.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fusion%20x%202.2%20aol5%20password%3Dpurmie.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fusion%20x%202.2%20aol5%20password%3Dpurmie.zip)
@@ -94,12 +100,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | fusion x 2.2 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip) | [http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip](http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip) |
+| LensHell c-coms | fusion x 2.2 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip) | [http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip](http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip) |
 | Progs Section 1 | Fusion X'er | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/fusionx.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/fusionx.zip) | [http://www.cybernyse.com/fusionx.zip](http://www.cybernyse.com/fusionx.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell c-coms | fusionx22.zip | [http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip](http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusionx22.zip) | [files/external/lenshellarchive-com/fusionx22-9bb21c48.zip](../../../../../files/external/lenshellarchive-com/fusionx22-9bb21c48.zip) | ready |
 
 ### Web Image Leads
 

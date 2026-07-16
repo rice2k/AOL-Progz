@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | brain damage ².² | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip) | [http://lenshellarchive.com/Progs/aolccoms/bd22.zip](http://lenshellarchive.com/Progs/aolccoms/bd22.zip) |
+| LensHell c-coms | brain damage ².² | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/bd22.zip) | [http://lenshellarchive.com/Progs/aolccoms/bd22.zip](http://lenshellarchive.com/Progs/aolccoms/bd22.zip) |
 | Progs Section 1 | Brain Damage ².² | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/braindamagev22.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/braindamagev22.zip) | [http://www.cybernyse.com/braindamagev22.zip](http://www.cybernyse.com/braindamagev22.zip) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/braindamagev22.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/braindamagev22.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/braindamagev22.zip) | [http://www.oogle.net/downloads/progs/braindamagev22.zip](http://www.oogle.net/downloads/progs/braindamagev22.zip) |
 

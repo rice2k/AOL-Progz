@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -96,10 +101,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/juggalotoolz2.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/juggalotoolz2.zip) | [http://www.oogle.net/downloads/progs/juggalotoolz2.zip](http://www.oogle.net/downloads/progs/juggalotoolz2.zip) |
+| LensHell misc progs A-M | juggalo toolz 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) | [http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) |
 | Click-Online AOL 4/5 progz | juggalo toolz 1.0 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/juggalo.zip) | [http://click-online2000.com/progz/juggalo.zip](http://click-online2000.com/progz/juggalo.zip) |
-| prog's/misc a-m | juggalo toolz 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) | [http://lenshellarchive.com/Progs/aolprogs/juggalo.zip](http://lenshellarchive.com/Progs/aolprogs/juggalo.zip) |
 | Progs Section 1 | Juggalo Toolz 1.0 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalo.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/juggalo.zip) | [http://www.cybernyse.com/juggalo.zip](http://www.cybernyse.com/juggalo.zip) |
-| Visual Basic Section | juggalo32 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip) | [http://lenshellarchive.com/VBfiles/juggalo32.zip](http://lenshellarchive.com/VBfiles/juggalo32.zip) |
+| LensHell Visual Basic | juggalo32 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/juggalo32.zip) | [http://lenshellarchive.com/VBfiles/juggalo32.zip](http://lenshellarchive.com/VBfiles/juggalo32.zip) |
 
 ### Mirror Leads
 

@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 6.1 MB |
 | Matched web download links | 5 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0639-edfinal.zip](../../../../../files/aol/mixed/0639-edfinal.zip)
 - Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/eternal darkness final aol4-5 yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/eternal%20darkness%20final%20%20aol4-5%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/eternal%20darkness%20final%20%20aol4-5%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/eternal%20darkness%20final%20%20aol4-5%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/eternal%20darkness%20final%20%20aol4-5%20yr2k.zip)
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM | Eternal Darkness | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimeternaldarkness.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimeternaldarkness.zip) | [http://www.cybernyse.com/downlowdz/aimeternaldarkness.zip](http://www.cybernyse.com/downlowdz/aimeternaldarkness.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Eternal Darkness | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimeternaldarkness.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimeternaldarkness.zip) | [http://24.185.191.87/progz/aimeternaldarkness.zip](http://24.185.191.87/progz/aimeternaldarkness.zip) |
-| prog's/misc a-m | eternal darkness final | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip) | [http://lenshellarchive.com/Progs/aolprogs/edfinal.zip](http://lenshellarchive.com/Progs/aolprogs/edfinal.zip) |
+| LensHell misc progs A-M | eternal darkness final | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip) | [http://lenshellarchive.com/Progs/aolprogs/edfinal.zip](http://lenshellarchive.com/Progs/aolprogs/edfinal.zip) |
 | AIM | Unsakred Final | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip) | [http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip](http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Unsakred Final | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimunsakredfinal.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimunsakredfinal.zip) | [http://24.185.191.87/progz/aimunsakredfinal.zip](http://24.185.191.87/progz/aimunsakredfinal.zip) |
 
@@ -105,6 +110,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell misc progs A-M | edfinal.zip | [http://lenshellarchive.com/Progs/aolprogs/edfinal.zip](http://lenshellarchive.com/Progs/aolprogs/edfinal.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edfinal.zip) | unknown | http-404 |
 | AIM | aimunsakredfinal.zip | [http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip](http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimunsakredfinal.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimunsakredfinal.zip | [http://24.185.191.87/progz/aimunsakredfinal.zip](http://24.185.191.87/progz/aimunsakredfinal.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimunsakredfinal.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimunsakredfinal.zip) | unknown | candidate |
 

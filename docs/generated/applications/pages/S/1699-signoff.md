@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | cast aim phisher | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cast.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cast.zip) | [http://lenshellarchive.com/Progs/aolprogs/cast.zip](http://lenshellarchive.com/Progs/aolprogs/cast.zip) |
+| LensHell misc progs A-M | cast aim phisher | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cast.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cast.zip) | [http://lenshellarchive.com/Progs/aolprogs/cast.zip](http://lenshellarchive.com/Progs/aolprogs/cast.zip) |
 
 ### Mirror Leads
 

@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb5](../../../tags/vb5.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -102,7 +107,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | dark toolz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip](http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip) |
+| LensHell c-coms | dark toolz | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip](http://lenshellarchive.com/Progs/aolccoms/darktoolz.zip) |
 | Progs Section 1 | Dark Toolz | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/darktoolz.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/darktoolz.zip) | [http://www.cybernyse.com/darktoolz.zip](http://www.cybernyse.com/darktoolz.zip) |
 | AIM | Dark Toolz v 1.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip) | [http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip](http://www.cybernyse.com/downlowdz/aimdarktoolzv1.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Dark Toolz v 1.0 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdarktoolzv1.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdarktoolzv1.zip) | [http://24.185.191.87/progz/aimdarktoolzv1.zip](http://24.185.191.87/progz/aimdarktoolzv1.zip) |

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -94,10 +99,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | link tech | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip) | [http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip](http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip) |
+| LensHell misc progs A-M | link tech | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip) | [http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip](http://lenshellarchive.com/Progs/aolprogs/linktechbeta.zip) |
 | Section 2 | Link Tech | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/linktech.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/linktech.zip) | [http://www.cybernyse.com/downlowdz/linktech.zip](http://www.cybernyse.com/downlowdz/linktech.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Link Tech | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/linktech.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/linktech.zip) | [http://24.185.191.87/progz/linktech.zip](http://24.185.191.87/progz/linktech.zip) |
-| prog's/misc a-m | link tech 1 rebuild | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktech.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktech.zip) | [http://lenshellarchive.com/Progs/aolprogs/linktech.zip](http://lenshellarchive.com/Progs/aolprogs/linktech.zip) |
+| LensHell misc progs A-M | link tech 1 rebuild | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktech.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/linktech.zip) | [http://lenshellarchive.com/Progs/aolprogs/linktech.zip](http://lenshellarchive.com/Progs/aolprogs/linktech.zip) |
 
 ### Mirror Leads
 

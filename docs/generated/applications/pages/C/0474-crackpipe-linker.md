@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | crackpipe linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip) | [http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip](http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip) |
+| LensHell misc progs A-M | crackpipe linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip) | [http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip](http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip) |
 
 ### Mirror Leads
 

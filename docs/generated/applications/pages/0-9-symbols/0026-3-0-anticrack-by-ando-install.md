@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| anti's | 3.0 anticrack | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/30anticrack.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/30anticrack.zip) | [http://lenshellarchive.com/Progs/aolantis/30anticrack.zip](http://lenshellarchive.com/Progs/aolantis/30anticrack.zip) |
+| LensHell antis | 3.0 anticrack | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/30anticrack.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/30anticrack.zip) | [http://lenshellarchive.com/Progs/aolantis/30anticrack.zip](http://lenshellarchive.com/Progs/aolantis/30anticrack.zip) |
 
 ### Mirror Leads
 

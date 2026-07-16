@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb6](../../../tags/vb6.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -96,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Section 2 | Wild Tools 2 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wild.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/wild.zip) | [http://www.cybernyse.com/downlowdz/wild.zip](http://www.cybernyse.com/downlowdz/wild.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Wild Tools 2 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wild.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wild.zip) | [http://24.185.191.87/progz/wild.zip](http://24.185.191.87/progz/wild.zip) |
-| prog's/misc n-z | wild toolz 2 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip) | [http://lenshellarchive.com/Progs/aolprogs/wild.zip](http://lenshellarchive.com/Progs/aolprogs/wild.zip) |
+| LensHell misc progs N-Z | wild toolz 2 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wild.zip) | [http://lenshellarchive.com/Progs/aolprogs/wild.zip](http://lenshellarchive.com/Progs/aolprogs/wild.zip) |
 
 ### Mirror Leads
 

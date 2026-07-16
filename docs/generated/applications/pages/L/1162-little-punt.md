@@ -46,10 +46,15 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -96,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Section 2 | Little Punt | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/littlepunt.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/littlepunt.zip) | [http://www.cybernyse.com/downlowdz/littlepunt.zip](http://www.cybernyse.com/downlowdz/littlepunt.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Little Punt | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/littlepunt.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/littlepunt.zip) | [http://24.185.191.87/progz/littlepunt.zip](http://24.185.191.87/progz/littlepunt.zip) |
-| punter's | little punt final | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip) | [http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip](http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip) |
+| LensHell punters | little punt final | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip) | [http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip](http://lenshellarchive.com/Progs/aolpunters/littlepunt.zip) |
 
 ### Mirror Leads
 

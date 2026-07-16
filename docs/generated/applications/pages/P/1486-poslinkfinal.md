@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -100,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM | POS Final | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimposfinal.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimposfinal.zip) | [http://www.cybernyse.com/downlowdz/aimposfinal.zip](http://www.cybernyse.com/downlowdz/aimposfinal.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | POS Final | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimposfinal.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimposfinal.zip) | [http://24.185.191.87/progz/aimposfinal.zip](http://24.185.191.87/progz/aimposfinal.zip) |
-| prog's/misc n-z | pos linker final | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/posfinal.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/posfinal.zip) | [http://lenshellarchive.com/Progs/aolprogs/posfinal.zip](http://lenshellarchive.com/Progs/aolprogs/posfinal.zip) |
+| LensHell misc progs N-Z | pos linker final | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/posfinal.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/posfinal.zip) | [http://lenshellarchive.com/Progs/aolprogs/posfinal.zip](http://lenshellarchive.com/Progs/aolprogs/posfinal.zip) |
 
 ### Mirror Leads
 

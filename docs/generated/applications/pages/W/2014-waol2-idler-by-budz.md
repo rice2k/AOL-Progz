@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | waol2 idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip) | [http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip](http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip) |
+| LensHell idlers | waol2 idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip) | [http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip](http://lenshellarchive.com/Progs/aolidlers/waol2idler.zip) |
 
 ### Mirror Leads
 

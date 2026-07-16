@@ -43,19 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0649-electrik.zip](../../../../../files/aol/aol-4-0/0649-electrik.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electrik.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electrik.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electrik.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electrik.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/electrik.zip)
@@ -95,8 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| LensHell misc progs A-M | electrik x2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip) | [http://lenshellarchive.com/Progs/aolprogs/electrik.zip](http://lenshellarchive.com/Progs/aolprogs/electrik.zip) |
 | Click-Online AOL 4/5 progz | electrik x2 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/electrik.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/electrik.zip) | [http://click-online2000.com/progz/electrik.zip](http://click-online2000.com/progz/electrik.zip) |
-| prog's/misc a-m | electrik x2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip) | [http://lenshellarchive.com/Progs/aolprogs/electrik.zip](http://lenshellarchive.com/Progs/aolprogs/electrik.zip) |
 | Progs Section 1 | Electrik x2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/electric.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/electric.zip) | [http://www.cybernyse.com/electric.zip](http://www.cybernyse.com/electric.zip) |
 
 ### Mirror Leads
@@ -104,6 +109,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Click-Online AOL 4/5 progz | electrik.zip | [http://click-online2000.com/progz/electrik.zip](http://click-online2000.com/progz/electrik.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/electrik.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/electrik.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | electrik.zip | [http://lenshellarchive.com/Progs/aolprogs/electrik.zip](http://lenshellarchive.com/Progs/aolprogs/electrik.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/electrik.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

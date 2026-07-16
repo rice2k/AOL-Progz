@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 0 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | unknown |
+| Source confidence | catalog metadata only |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -98,7 +103,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Y! Birthday Cracker | uccom4.jpg?fit=274%2C350&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/uccom4.jpg?fit=274%2C350&amp;ssl=1) |
 
 ## Related Indexes
 

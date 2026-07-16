@@ -46,10 +46,15 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -103,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | AOL 6.0 PROGS | Punt 20001 | [https://web.archive.org/web/20010221025736/http://server39.hypermart.net/wipeout/punt2001.zip](https://web.archive.org/web/20010221025736/http://server39.hypermart.net/wipeout/punt2001.zip) | [http://server39.hypermart.net/wipeout/punt2001.zip](http://server39.hypermart.net/wipeout/punt2001.zip) |
-| punter's | punt in the 2001 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip) | [http://lenshellarchive.com/Progs/aolpunters/punt2001.zip](http://lenshellarchive.com/Progs/aolpunters/punt2001.zip) |
+| LensHell punters | punt in the 2001 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/punt2001.zip) | [http://lenshellarchive.com/Progs/aolpunters/punt2001.zip](http://lenshellarchive.com/Progs/aolpunters/punt2001.zip) |
 | Section 2 | Punt in the 2001 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2001.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/punt2001.zip) | [http://www.cybernyse.com/downlowdz/punt2001.zip](http://www.cybernyse.com/downlowdz/punt2001.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Punt in the 2001 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/punt2001.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/punt2001.zip) | [http://24.185.191.87/progz/punt2001.zip](http://24.185.191.87/progz/punt2001.zip) |
 

@@ -46,10 +46,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -103,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| buster's | hookshot roombuster v4.0 beta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip) |
+| LensHell busters | hookshot roombuster v4.0 beta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip) | [http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip](http://lenshellarchive.com/Progs/aolbusters/hookbust4.zip) |
 
 ### Mirror Leads
 

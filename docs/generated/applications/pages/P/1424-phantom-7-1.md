@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | phantom 7.15 | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/phantom.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/phantom.zip) | [http://lenshellarchive.com/Progs/aolmmservers/phantom.zip](http://lenshellarchive.com/Progs/aolmmservers/phantom.zip) |
+| LensHell mailers and servers | phantom 7.15 | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/phantom.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/phantom.zip) | [http://lenshellarchive.com/Progs/aolmmservers/phantom.zip](http://lenshellarchive.com/Progs/aolmmservers/phantom.zip) |
 
 ### Mirror Leads
 

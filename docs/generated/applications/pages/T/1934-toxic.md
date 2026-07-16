@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -95,8 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Visual Basic Section | toxic 1.0 source code | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip) | [http://lenshellarchive.com/VBfiles/toxicsource.zip](http://lenshellarchive.com/VBfiles/toxicsource.zip) |
-| idler's | toxic creation | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/toxic.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/toxic.zip) | [http://lenshellarchive.com/Progs/aolidlers/toxic.zip](http://lenshellarchive.com/Progs/aolidlers/toxic.zip) |
+| LensHell Visual Basic | toxic 1.0 source code | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip) | [http://lenshellarchive.com/VBfiles/toxicsource.zip](http://lenshellarchive.com/VBfiles/toxicsource.zip) |
+| LensHell idlers | toxic creation | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/toxic.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/toxic.zip) | [http://lenshellarchive.com/Progs/aolidlers/toxic.zip](http://lenshellarchive.com/Progs/aolidlers/toxic.zip) |
 | LensHell AIM progs | toxic freeze | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip](http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip) |
 
 ### Mirror Leads
@@ -104,7 +109,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | LensHell AIM progs | toxicfreeze.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip](http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/toxicfreeze.zip) | unknown | candidate |
-| Visual Basic Section | toxicsource.zip | [http://lenshellarchive.com/VBfiles/toxicsource.zip](http://lenshellarchive.com/VBfiles/toxicsource.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip) | unknown | candidate |
+| LensHell Visual Basic | toxicsource.zip | [http://lenshellarchive.com/VBfiles/toxicsource.zip](http://lenshellarchive.com/VBfiles/toxicsource.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/toxicsource.zip) | unknown | candidate |
 
 ### Web Image Leads
 

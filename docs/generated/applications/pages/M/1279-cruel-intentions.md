@@ -46,10 +46,15 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md)
+[#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | cruel intentions | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cruel.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cruel.zip) | [http://lenshellarchive.com/Progs/aolprogs/cruel.zip](http://lenshellarchive.com/Progs/aolprogs/cruel.zip) |
+| LensHell misc progs A-M | cruel intentions | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cruel.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cruel.zip) | [http://lenshellarchive.com/Progs/aolprogs/cruel.zip](http://lenshellarchive.com/Progs/aolprogs/cruel.zip) |
 
 ### Mirror Leads
 

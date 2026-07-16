@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 6 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | external ZIP text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | external mirror |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -101,7 +106,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| x'ers | silence is bliss | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/silence.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/silence.zip) | [http://lenshellarchive.com/Progs/aolxers/silence.zip](http://lenshellarchive.com/Progs/aolxers/silence.zip) |
+| LensHell xers | silence is bliss | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/silence.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/silence.zip) | [http://lenshellarchive.com/Progs/aolxers/silence.zip](http://lenshellarchive.com/Progs/aolxers/silence.zip) |
 
 ### Mirror Leads
 
@@ -112,7 +117,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | ProgzRescue Angelfire files | crackwhore.zip | [http://www.angelfire.com/ego/lost_silence/crackwhore.zip](http://www.angelfire.com/ego/lost_silence/crackwhore.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ego/lost_silence/crackwhore.zip) | [files/external/angelfire-com/crackwhore.zip](../../../../../files/external/angelfire-com/crackwhore.zip) | ready |
 | LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | unknown | http-404 |
 | LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | unknown | http-404 |
-| Aim Crackers | crackwhore.zip | [http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | [https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | unknown | candidate |
+| Aim Crackers | crackwhore.zip | [http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | [https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip](https://web.archive.org/web/20030616090538/http://www.lilbudbot.com/aimthings/aimcrackers/crackwhore.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md)
 
 ## Source And Files
 
@@ -95,14 +100,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | metamorphic toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) | [http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) |
-| prog's/misc a-m | metamorphic toolz 2.1 beta 1 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip) | [http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip](http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip) |
+| LensHell misc progs A-M | metamorphic toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) | [http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) |
+| LensHell misc progs A-M | metamorphic toolz 2.1 beta 1 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip) | [http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip](http://lenshellarchive.com/Progs/aolprogs/metaexe21.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | metamorphic.zip | [http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) | unknown | candidate |
+| LensHell misc progs A-M | metamorphic.zip | [http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/metamorphic.zip) | unknown | candidate |
 
 ### Web Image Leads
 

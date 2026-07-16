@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -105,7 +110,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/thorn.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/thorn.zip) | [http://www.oogle.net/downloads/progs/thorn.zip](http://www.oogle.net/downloads/progs/thorn.zip) |
-| prog's/misc n-z | thorn | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip) | [http://lenshellarchive.com/Progs/aolprogs/thorn.zip](http://lenshellarchive.com/Progs/aolprogs/thorn.zip) |
+| LensHell misc progs N-Z | thorn | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/thorn.zip) | [http://lenshellarchive.com/Progs/aolprogs/thorn.zip](http://lenshellarchive.com/Progs/aolprogs/thorn.zip) |
 | Section 2 | Thorn v3 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thorn.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thorn.zip) | [http://www.cybernyse.com/downlowdz/thorn.zip](http://www.cybernyse.com/downlowdz/thorn.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Thorn v3 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thorn.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thorn.zip) | [http://24.185.191.87/progz/thorn.zip](http://24.185.191.87/progz/thorn.zip) |
 | Click-Online AOL 4/5 progz | thorn v3.o | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn3.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/thorn3.zip) | [http://click-online2000.com/progz/thorn3.zip](http://click-online2000.com/progz/thorn3.zip) |

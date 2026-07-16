@@ -89,15 +89,21 @@
 
 | Metric | Value |
 | --- | --- |
-| Crawled source pages | 900 |
-| Crawled links | 15338 |
-| Crawled download links | 5145 |
-| Recovered external files | 502 |
-| External ZIPs scanned for text | 361 |
-| External ZIPs with readable text | 197 |
+| Crawled source pages | 1200 |
+| Crawled links | 16796 |
+| Crawled download links | 5147 |
+| Recovered external files | 526 |
+| Local recovered file records | 2364 |
+| External ZIPs scanned for text | 384 |
+| External ZIPs with readable text | 208 |
 | External ZIPs with author clues | 69 |
 | External ZIPs with version clues | 7 |
-| External ZIPs with purpose clues | 145 |
+| External ZIPs with purpose clues | 155 |
 | Missing candidates | 2365 |
-| Recovered missing candidates | 300 |
-| Master deduped link index | 27032 |
+| Recovered missing candidates | 306 |
+| Master deduped link index | 28564 |
+| Deduped original/download URLs | 9621 |
+| Programs needing manual review | 2138 |
+| Runtime DLL/OCX leads | 42 |
+| DeadAIM/AIM enhancer leads | 172 |
+| AOL utility/client leads | 32 |

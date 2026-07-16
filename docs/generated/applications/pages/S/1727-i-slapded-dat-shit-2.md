@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| anti's | i slapded dat shit 2.0 | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/slap.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/slap.zip) | [http://lenshellarchive.com/Progs/aolantis/slap.zip](http://lenshellarchive.com/Progs/aolantis/slap.zip) |
+| LensHell antis | i slapded dat shit 2.0 | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/slap.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/slap.zip) | [http://lenshellarchive.com/Progs/aolantis/slap.zip](http://lenshellarchive.com/Progs/aolantis/slap.zip) |
 
 ### Mirror Leads
 

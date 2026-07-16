@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | unknown |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/prophecy3.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/prophecy3.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/prophecy3.zip) | [http://www.oogle.net/downloads/progs/prophecy3.zip](http://www.oogle.net/downloads/progs/prophecy3.zip) |
-| prog's/misc n-z | prophecy 3.0 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip) | [http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip](http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip) |
+| LensHell misc progs N-Z | prophecy 3.0 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip) | [http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip](http://lenshellarchive.com/Progs/aolprogs/prophecy3.zip) |
 | Section 2 | Prophecy 3.0 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/prophecy3.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/prophecy3.zip) | [http://www.cybernyse.com/downlowdz/prophecy3.zip](http://www.cybernyse.com/downlowdz/prophecy3.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Prophecy 3.0 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/prophecy3.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/prophecy3.zip) | [http://24.185.191.87/progz/prophecy3.zip](http://24.185.191.87/progz/prophecy3.zip) |
 | Click-Online AOL 4/5 progz | prophecy³·° | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/p3.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/p3.zip) | [http://click-online2000.com/progz/p3.zip](http://click-online2000.com/progz/p3.zip) |

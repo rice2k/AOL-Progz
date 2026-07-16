@@ -46,10 +46,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#room-buster](../../../tags/room-buster.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell faders | dawicked fader | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/dwkdfade.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/dwkdfade.zip) | [http://lenshellarchive.com/Progs/aolfaders/dwkdfade.zip](http://lenshellarchive.com/Progs/aolfaders/dwkdfade.zip) |
-| buster's | wicked room buster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/wicked.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/wicked.zip) | [http://lenshellarchive.com/Progs/aolbusters/wicked.zip](http://lenshellarchive.com/Progs/aolbusters/wicked.zip) |
+| LensHell busters | wicked room buster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/wicked.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/wicked.zip) | [http://lenshellarchive.com/Progs/aolbusters/wicked.zip](http://lenshellarchive.com/Progs/aolbusters/wicked.zip) |
 
 ### Mirror Leads
 

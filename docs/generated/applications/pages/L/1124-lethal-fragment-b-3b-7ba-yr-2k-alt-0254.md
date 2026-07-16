@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -96,8 +101,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Section 2 | Lethal Fragment | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip) | [http://www.cybernyse.com/downlowdz/lethal.zip](http://www.cybernyse.com/downlowdz/lethal.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Lethal Fragment | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip) | [http://24.185.191.87/progz/lethal.zip](http://24.185.191.87/progz/lethal.zip) |
-| prog's/misc a-m | lethal fragment ³·º | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | [http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) |
-| prog's/misc a-m | lethal fragment² | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | [http://lenshellarchive.com/Progs/aolprogs/lethal.zip](http://lenshellarchive.com/Progs/aolprogs/lethal.zip) |
+| LensHell misc progs A-M | lethal fragment ³·º | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | [http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) |
+| LensHell misc progs A-M | lethal fragment² | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | [http://lenshellarchive.com/Progs/aolprogs/lethal.zip](http://lenshellarchive.com/Progs/aolprogs/lethal.zip) |
 
 ### Mirror Leads
 

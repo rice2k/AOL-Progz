@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 11 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | external ZIP text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -100,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| x'ers | golden xer | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip) | [http://lenshellarchive.com/Progs/aolxers/golden.zip](http://lenshellarchive.com/Progs/aolxers/golden.zip) |
+| LensHell xers | golden xer | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip) | [http://lenshellarchive.com/Progs/aolxers/golden.zip](http://lenshellarchive.com/Progs/aolxers/golden.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP | [http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP](http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP) | [http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP](http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP) |
 
 ### Mirror Leads
@@ -111,7 +116,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | ProgzRescue Angelfire files | emailform.zip | [http://www.angelfire.com/80s/golden/emailform.zip](http://www.angelfire.com/80s/golden/emailform.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/emailform.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/emailform.zip) | [files/external/angelfire-com/emailform.zip](../../../../../files/external/angelfire-com/emailform.zip) | ready |
 | ProgzRescue Angelfire files | mail555.zip | [http://www.angelfire.com/80s/golden/mail555.zip](http://www.angelfire.com/80s/golden/mail555.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/mail555.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/mail555.zip) | [files/external/angelfire-com/mail555.zip](../../../../../files/external/angelfire-com/mail555.zip) | ready |
 | ProgzRescue Angelfire files | vb.zip | [http://www.angelfire.com/80s/golden/vb.zip](http://www.angelfire.com/80s/golden/vb.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/vb.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/80s/golden/vb.zip) | [files/external/angelfire-com/vb.zip](../../../../../files/external/angelfire-com/vb.zip) | ready |
-| Visual Basic Section | vb40016.zip | [http://lenshellarchive.com/Progs/vbxdll/vb40016.zip](http://lenshellarchive.com/Progs/vbxdll/vb40016.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip) | unknown | candidate |
+| LensHell runtime files | vb40016.zip | [http://lenshellarchive.com/Progs/vbxdll/vb40016.zip](http://lenshellarchive.com/Progs/vbxdll/vb40016.zip) | [https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip](https://web.archive.org/web/20110903032738/http://lenshellarchive.com/Progs/vbxdll/vb40016.zip) | unknown | candidate |
 | Missing Files | vb40016.zip | [http://www.aimfilez.com/files/missing/vb40016.dll](http://www.aimfilez.com/files/missing/vb40016.dll) | [https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll](https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40016.dll) | unknown | ready |
 | Missing Files | vb40016.zip | [http://www.aimfilez.com/files/missing/vb40032.dll](http://www.aimfilez.com/files/missing/vb40032.dll) | [https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll](https://web.archive.org/web/20040204004437/http://www.aimfilez.com/files/missing/vb40032.dll) | unknown | ready |
 | ProgzRescue Angelfire files | vb40016.zip | [http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip](http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip) | unknown | ready |

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-3-0](../../../tags/aol-3-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-3-0](../../../tags/aol-3-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -96,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | VISUAL BASIC | Buddy | [https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip](https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip) | [http://server39.hypermart.net/wipeout/buddy.zip](http://server39.hypermart.net/wipeout/buddy.zip) |
-| prog's/misc a-m | buddy list saver | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) | [http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) |
+| LensHell misc progs A-M | buddy list saver | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) | [http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP | [http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP](http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP) | [http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP](http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP) |
 
 ### Mirror Leads

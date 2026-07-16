@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -95,9 +100,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | blackrose chat punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose.zip) | [http://lenshellarchive.com/Progs/aolpunters/blackrose.zip](http://lenshellarchive.com/Progs/aolpunters/blackrose.zip) |
-| punter's | blackrose chatpunter v2 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip) | [http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip](http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip) |
-| Visual Basic Section | blackrose2003 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/brbas2003.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/brbas2003.zip) | [http://lenshellarchive.com/VBfiles/brbas2003.zip](http://lenshellarchive.com/VBfiles/brbas2003.zip) |
+| LensHell punters | blackrose chat punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose.zip) | [http://lenshellarchive.com/Progs/aolpunters/blackrose.zip](http://lenshellarchive.com/Progs/aolpunters/blackrose.zip) |
+| LensHell punters | blackrose chatpunter v2 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip) | [http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip](http://lenshellarchive.com/Progs/aolpunters/blackrose2.zip) |
+| LensHell Visual Basic | blackrose2003 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/brbas2003.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/brbas2003.zip) | [http://lenshellarchive.com/VBfiles/brbas2003.zip](http://lenshellarchive.com/VBfiles/brbas2003.zip) |
 
 ### Mirror Leads
 

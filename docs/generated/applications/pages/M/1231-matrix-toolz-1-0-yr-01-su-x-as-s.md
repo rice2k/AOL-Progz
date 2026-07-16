@@ -46,10 +46,15 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, sensitive historical category |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -100,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM | Matrix | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmatrix.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimmatrix.zip) | [http://www.cybernyse.com/downlowdz/aimmatrix.zip](http://www.cybernyse.com/downlowdz/aimmatrix.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Matrix | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmatrix.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimmatrix.zip) | [http://24.185.191.87/progz/aimmatrix.zip](http://24.185.191.87/progz/aimmatrix.zip) |
-| prog's/misc a-m | matrix toolz 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/matrix10.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/matrix10.zip) | [http://lenshellarchive.com/Progs/aolprogs/matrix10.zip](http://lenshellarchive.com/Progs/aolprogs/matrix10.zip) |
+| LensHell misc progs A-M | matrix toolz 1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/matrix10.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/matrix10.zip) | [http://lenshellarchive.com/Progs/aolprogs/matrix10.zip](http://lenshellarchive.com/Progs/aolprogs/matrix10.zip) |
 
 ### Mirror Leads
 

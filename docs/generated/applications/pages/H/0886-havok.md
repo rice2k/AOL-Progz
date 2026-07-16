@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb3](../../../tags/vb3.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | havok | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip) | [http://lenshellarchive.com/Progs/aolprogs/havok.zip](http://lenshellarchive.com/Progs/aolprogs/havok.zip) |
+| LensHell misc progs A-M | havok | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/havok.zip) | [http://lenshellarchive.com/Progs/aolprogs/havok.zip](http://lenshellarchive.com/Progs/aolprogs/havok.zip) |
 | Macintosh | Mac Havoc Gold | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) | [http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx](http://www.cybernyse.com/Mac%20Havok%20Gold%20Palette.hqx) |
 | AIM | Prog Havok's AIM Prog | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) | [http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip](http://www.cybernyse.com/downlowdz/aimproghavoksaimprog.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Prog Havok's AIM Prog | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimproghavoksaimprog.zip) | [http://24.185.191.87/progz/aimproghavoksaimprog.zip](http://24.185.191.87/progz/aimproghavoksaimprog.zip) |

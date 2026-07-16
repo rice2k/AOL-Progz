@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | readme/archive text |
+| Category confidence | readme/archive text |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -103,7 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | dragon toolz 1.8 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip) | [http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip](http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip) |
+| LensHell misc progs A-M | dragon toolz 1.8 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip) | [http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip](http://lenshellarchive.com/Progs/aolprogs/dtoolz18.zip) |
 
 ### Mirror Leads
 

@@ -46,10 +46,15 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| x'ers | blue x'er | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/bluexer.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/bluexer.zip) | [http://lenshellarchive.com/Progs/aolxers/bluexer.zip](http://lenshellarchive.com/Progs/aolxers/bluexer.zip) |
+| LensHell xers | blue x'er | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/bluexer.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/bluexer.zip) | [http://lenshellarchive.com/Progs/aolxers/bluexer.zip](http://lenshellarchive.com/Progs/aolxers/bluexer.zip) |
 
 ### Mirror Leads
 

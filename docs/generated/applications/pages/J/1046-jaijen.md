@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | jai jen punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/jaijen.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/jaijen.zip) | [http://lenshellarchive.com/Progs/aolpunters/jaijen.zip](http://lenshellarchive.com/Progs/aolpunters/jaijen.zip) |
+| LensHell punters | jai jen punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/jaijen.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/jaijen.zip) | [http://lenshellarchive.com/Progs/aolpunters/jaijen.zip](http://lenshellarchive.com/Progs/aolpunters/jaijen.zip) |
 
 ### Mirror Leads
 
@@ -102,7 +107,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| MoDeM JaMMeR | JaiJenPunter-1.png?fit=75%2C23&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/JaiJenPunter-1.png?fit=75%2C23&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/JaiJenPunter-1.png?fit=75%2C23&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/JaiJenPunter-1.png?fit=75%2C23&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/JaiJenPunter-1.png?fit=75%2C23&amp;ssl=1) |
 
 ## Related Indexes
 

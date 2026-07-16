@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -99,8 +104,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| anti's | anti_lag | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti_lag.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti_lag.zip) | [http://lenshellarchive.com/Progs/aolantis/anti_lag.zip](http://lenshellarchive.com/Progs/aolantis/anti_lag.zip) |
-| prog's/misc a-m | anti-lag by kid | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip) | [http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip](http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip) |
+| LensHell antis | anti_lag | [https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti_lag.zip](https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/anti_lag.zip) | [http://lenshellarchive.com/Progs/aolantis/anti_lag.zip](http://lenshellarchive.com/Progs/aolantis/anti_lag.zip) |
+| LensHell misc progs A-M | anti-lag by kid | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip) | [http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip](http://lenshellarchive.com/Progs/aolprogs/antilagbykid.zip) |
 
 ### Mirror Leads
 

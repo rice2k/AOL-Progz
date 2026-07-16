@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb4-32](../../../tags/vb4-32.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Section 2 | Lolz Toolz 3 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lolztoolz.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lolztoolz.zip) | [http://www.cybernyse.com/downlowdz/lolztoolz.zip](http://www.cybernyse.com/downlowdz/lolztoolz.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Lolz Toolz 3 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lolztoolz.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lolztoolz.zip) | [http://24.185.191.87/progz/lolztoolz.zip](http://24.185.191.87/progz/lolztoolz.zip) |
-| c-coms | lolz toolz 3.0 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip](http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip) |
+| LensHell c-coms | lolz toolz 3.0 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip](http://lenshellarchive.com/Progs/aolccoms/lolztoolz.zip) |
 | Click-Online AOL 4/5 progz | lølz tøølz ³·° | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/lolztoolz.zip) | [http://click-online2000.com/progz/lolztoolz.zip](http://click-online2000.com/progz/lolztoolz.zip) |
 
 ### Mirror Leads

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| termer's | genocide¹ | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genocide.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genocide.zip) | [http://lenshellarchive.com/Progs/aoltermers/genocide.zip](http://lenshellarchive.com/Progs/aoltermers/genocide.zip) |
+| LensHell termers | genocide¹ | [https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genocide.zip](https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/genocide.zip) | [http://lenshellarchive.com/Progs/aoltermers/genocide.zip](http://lenshellarchive.com/Progs/aoltermers/genocide.zip) |
 | AIM | Selective Genocide v 3 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip) | [http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip](http://www.cybernyse.com/downlowdz/aimselectivegenocidev3.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Selective Genocide v 3 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimselectivegenocidev3.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimselectivegenocidev3.zip) | [http://24.185.191.87/progz/aimselectivegenocidev3.zip](http://24.185.191.87/progz/aimselectivegenocidev3.zip) |
 

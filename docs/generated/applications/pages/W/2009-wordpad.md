@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | unknown |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | w0rd pad | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wordpad.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wordpad.zip) | [http://lenshellarchive.com/Progs/aolprogs/wordpad.zip](http://lenshellarchive.com/Progs/aolprogs/wordpad.zip) |
+| LensHell misc progs N-Z | w0rd pad | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wordpad.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/wordpad.zip) | [http://lenshellarchive.com/Progs/aolprogs/wordpad.zip](http://lenshellarchive.com/Progs/aolprogs/wordpad.zip) |
 
 ### Mirror Leads
 

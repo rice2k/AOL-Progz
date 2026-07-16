@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -104,7 +109,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | lucifer's wrath v2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/wrath2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/wrath2.zip) | [http://lenshellarchive.com/Progs/aolprogs/wrath2.zip](http://lenshellarchive.com/Progs/aolprogs/wrath2.zip) |
+| LensHell misc progs A-M | lucifer's wrath v2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/wrath2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/wrath2.zip) | [http://lenshellarchive.com/Progs/aolprogs/wrath2.zip](http://lenshellarchive.com/Progs/aolprogs/wrath2.zip) |
 
 ### Mirror Leads
 

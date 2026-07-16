@@ -46,10 +46,15 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md)
 
 ## Source And Files
 
@@ -95,8 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | aurora macro studios | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip) | [http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip](http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip) |
-| mmer's/server's | aurora mass mailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip) | [http://lenshellarchive.com/Progs/aolmmservers/aurora.zip](http://lenshellarchive.com/Progs/aolmmservers/aurora.zip) |
+| LensHell misc progs A-M | aurora macro studios | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip) | [http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip](http://lenshellarchive.com/Progs/aolprogs/auroramacro.zip) |
+| LensHell mailers and servers | aurora mass mailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aurora.zip) | [http://lenshellarchive.com/Progs/aolmmservers/aurora.zip](http://lenshellarchive.com/Progs/aolmmservers/aurora.zip) |
 
 ### Mirror Leads
 

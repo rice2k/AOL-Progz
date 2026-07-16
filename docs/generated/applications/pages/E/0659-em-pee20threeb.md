@@ -43,18 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 3.1 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0659-em-pee20threeb.zip](../../../../../files/aol/aol-4-0/0659-em-pee20threeb.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empeethree.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empeethree.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empeethree.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empeethree.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/empeethree.zip)
@@ -94,11 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| c-coms | em-pee three player | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip) | [http://lenshellarchive.com/Progs/aolccoms/empeethree.zip](http://lenshellarchive.com/Progs/aolccoms/empeethree.zip) |
+| LensHell c-coms | em-pee three player | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip) | [http://lenshellarchive.com/Progs/aolccoms/empeethree.zip](http://lenshellarchive.com/Progs/aolccoms/empeethree.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell c-coms | empeethree.zip | [http://lenshellarchive.com/Progs/aolccoms/empeethree.zip](http://lenshellarchive.com/Progs/aolccoms/empeethree.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/empeethree.zip) | [files/external/lenshellarchive-com/empeethree-779dad0a.zip](../../../../../files/external/lenshellarchive-com/empeethree-779dad0a.zip) | ready |
 
 ### Web Image Leads
 

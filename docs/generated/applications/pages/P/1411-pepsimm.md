@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | pepsi 3.0 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip) | [http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip](http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip) |
+| LensHell misc progs N-Z | pepsi 3.0 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip) | [http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip](http://lenshellarchive.com/Progs/aolprogs/pepsi30.zip) |
 | Section 2 | Pepsi 3.0 | [https://web.archive.org/web/20010613064806/http://www.angelfire.com/in/aolsecrets/images/PEPSI30.ZIP](https://web.archive.org/web/20010613064806/http://www.angelfire.com/in/aolsecrets/images/PEPSI30.ZIP) | [http://www.angelfire.com/in/aolsecrets/images/PEPSI30.ZIP](http://www.angelfire.com/in/aolsecrets/images/PEPSI30.ZIP) |
 
 ### Mirror Leads

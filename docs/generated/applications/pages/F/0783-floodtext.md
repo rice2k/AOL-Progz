@@ -43,19 +43,24 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
 | Matched web download links | 9 |
-| Matched mirror leads | 6 |
+| Matched mirror leads | 7 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0783-flood.zip](../../../../../files/aol/aol-4-0/0783-flood.zip)
 - Old-web / Wayback download leads: 9 link(s) listed below
-- Matched mirror leads: 6 link(s) listed below
+- Matched mirror leads: 7 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floodtext.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floodtext.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floodtext.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floodtext.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/floodtext.zip)
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | LensHell AIM progs | aim exploit chat flooder | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimexploit.zip) |
 | Aim Filez | Clean Flood | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/CleanFlood.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/CleanFlood.zip) | [http://aimthings.com/aimfilez/CleanFlood.zip](http://aimthings.com/aimfilez/CleanFlood.zip) |
 | LensHell AIM progs | flood assault v1.1 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip) | [http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip](http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip) |
-| prog's/misc a-m | flood text | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip) | [http://lenshellarchive.com/Progs/aolprogs/floodtext.zip](http://lenshellarchive.com/Progs/aolprogs/floodtext.zip) |
+| LensHell misc progs A-M | flood text | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip) | [http://lenshellarchive.com/Progs/aolprogs/floodtext.zip](http://lenshellarchive.com/Progs/aolprogs/floodtext.zip) |
 | AIM | Flooder | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimflooder.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimflooder.zip) | [http://www.cybernyse.com/downlowdz/aimflooder.zip](http://www.cybernyse.com/downlowdz/aimflooder.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Flooder | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflooder.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflooder.zip) | [http://24.185.191.87/progz/aimflooder.zip](http://24.185.191.87/progz/aimflooder.zip) |
 | LensHell AIM progs | ultra flood 1.2 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip) | [http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip](http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip) |
@@ -110,9 +115,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Aim Filez | CleanFlood.zip | [http://aimthings.com/aimfilez/CleanFlood.zip](http://aimthings.com/aimfilez/CleanFlood.zip) | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/CleanFlood.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/CleanFlood.zip) | unknown | http-404 |
+| Web page: LensHell AIM progs | floodassault.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip](http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | floodtext.zip | [http://lenshellarchive.com/Progs/aolprogs/floodtext.zip](http://lenshellarchive.com/Progs/aolprogs/floodtext.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/floodtext.zip) | unknown | http-404 |
 | AIM | aimflooder.zip | [http://www.cybernyse.com/downlowdz/aimflooder.zip](http://www.cybernyse.com/downlowdz/aimflooder.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimflooder.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimflooder.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | aimflooder.zip | [http://24.185.191.87/progz/aimflooder.zip](http://24.185.191.87/progz/aimflooder.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflooder.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflooder.zip) | unknown | candidate |
-| LensHell AIM progs | floodassault.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip](http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/floodassault.zip) | unknown | candidate |
 | LensHell AIM progs | ultraflood12.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip](http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/ultraflood12.zip) | unknown | candidate |
 | LensHell AIM progs | untamedflood.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/untamedflood.zip](http://lenshellarchive.com/Progs/aimprogs/punters/untamedflood.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/untamedflood.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/untamedflood.zip) | unknown | candidate |
 

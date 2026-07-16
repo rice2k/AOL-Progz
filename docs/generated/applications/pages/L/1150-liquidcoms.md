@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 6 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/liquidcoms.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidcoms.zip) | [http://www.oogle.net/downloads/progs/liquidcoms.zip](http://www.oogle.net/downloads/progs/liquidcoms.zip) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/liquidsoulbeta.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/liquidsoulbeta.zip) | [http://www.oogle.net/downloads/progs/liquidsoulbeta.zip](http://www.oogle.net/downloads/progs/liquidsoulbeta.zip) |
-| c-coms | liquid coms | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip) | [http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip](http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip) |
+| LensHell c-coms | liquid coms | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip) | [http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip](http://lenshellarchive.com/Progs/aolccoms/liquidcoms.zip) |
 | Section 2 | Liquid Coms | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidcoms.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidcoms.zip) | [http://www.cybernyse.com/downlowdz/liquidcoms.zip](http://www.cybernyse.com/downlowdz/liquidcoms.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Liquid Coms | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidcoms.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/liquidcoms.zip) | [http://24.185.191.87/progz/liquidcoms.zip](http://24.185.191.87/progz/liquidcoms.zip) |
 | Section 2 | Liquid Soul [beta] | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip) | [http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip](http://www.cybernyse.com/downlowdz/liquidsoulbeta.zip) |

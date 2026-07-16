@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 1 |
 | Web image leads | 4 |
+| Author confidence | filename/source inferred |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, author conflict, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | hydro chronic massmailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip) | [http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip](http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip) |
+| LensHell mailers and servers | hydro chronic massmailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip) | [http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip](http://lenshellarchive.com/Progs/aolmmservers/hydromm.zip) |
 | Progs Section 1 | Hydro Toolz | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/hydrotoolz.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/hydrotoolz.zip) | [http://www.cybernyse.com/hydrotoolz.zip](http://www.cybernyse.com/hydrotoolz.zip) |
 | AOLUnderground.com ProGGieS | https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip | [https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip) |
 

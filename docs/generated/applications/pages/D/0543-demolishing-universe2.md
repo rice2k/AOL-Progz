@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -101,7 +106,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | LensHell AIM progs | demolishing aim 2.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/demaim2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/demaim2.zip) | [http://lenshellarchive.com/Progs/aolprogs/demaim2.zip](http://lenshellarchive.com/Progs/aolprogs/demaim2.zip) |
 | AIM | Demolishing AIM v 2.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip) | [http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip](http://www.cybernyse.com/downlowdz/aimdemolishingaim20.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Demolishing AIM v 2.0 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim20.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimdemolishingaim20.zip) | [http://24.185.191.87/progz/aimdemolishingaim20.zip](http://24.185.191.87/progz/aimdemolishingaim20.zip) |
-| prog's/misc a-m | demolishing universe | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip) | [http://lenshellarchive.com/Progs/aolprogs/demolishing.zip](http://lenshellarchive.com/Progs/aolprogs/demolishing.zip) |
+| LensHell misc progs A-M | demolishing universe | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip) | [http://lenshellarchive.com/Progs/aolprogs/demolishing.zip](http://lenshellarchive.com/Progs/aolprogs/demolishing.zip) |
 | Oogle AIM progs | http://www.oogle.net/downloads/progs/demolishingaim20.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/demolishingaim20.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/demolishingaim20.zip) | [http://www.oogle.net/downloads/progs/demolishingaim20.zip](http://www.oogle.net/downloads/progs/demolishingaim20.zip) |
 
 ### Mirror Leads

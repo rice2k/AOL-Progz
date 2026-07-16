@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb5](../../../tags/vb5.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | haggard toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip) | [http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip](http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip) |
+| LensHell misc progs A-M | haggard toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip) | [http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip](http://lenshellarchive.com/Progs/aolprogs/haggardtoolz.zip) |
 
 ### Mirror Leads
 

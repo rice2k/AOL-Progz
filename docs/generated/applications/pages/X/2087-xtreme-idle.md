@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 12 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | main local file missing, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -96,8 +101,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Progs Section 1 | Extreme Elegance [beta] | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/extremeelegance.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/extremeelegance.zip) | [http://www.cybernyse.com/extremeelegance.zip](http://www.cybernyse.com/extremeelegance.zip) |
-| buster's | xtreme buster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xtreme.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xtreme.zip) | [http://lenshellarchive.com/Progs/aolbusters/xtreme.zip](http://lenshellarchive.com/Progs/aolbusters/xtreme.zip) |
-| idler's | xtreme idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/xtreme.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/xtreme.zip) | [http://lenshellarchive.com/Progs/aolidlers/xtreme.zip](http://lenshellarchive.com/Progs/aolidlers/xtreme.zip) |
+| LensHell busters | xtreme buster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xtreme.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xtreme.zip) | [http://lenshellarchive.com/Progs/aolbusters/xtreme.zip](http://lenshellarchive.com/Progs/aolbusters/xtreme.zip) |
+| LensHell idlers | xtreme idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/xtreme.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/xtreme.zip) | [http://lenshellarchive.com/Progs/aolidlers/xtreme.zip](http://lenshellarchive.com/Progs/aolidlers/xtreme.zip) |
 
 ### Mirror Leads
 

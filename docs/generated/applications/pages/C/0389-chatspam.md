@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aim](../../../tags/aim.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aim](../../../tags/aim.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | chat spam | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip) | [http://lenshellarchive.com/Progs/aolprogs/chatspam.zip](http://lenshellarchive.com/Progs/aolprogs/chatspam.zip) |
+| LensHell misc progs A-M | chat spam | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip) | [http://lenshellarchive.com/Progs/aolprogs/chatspam.zip](http://lenshellarchive.com/Progs/aolprogs/chatspam.zip) |
 | Aim Filez | Chat Spam | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/chatspam.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/chatspam.zip) | [http://aimthings.com/aimfilez/chatspam.zip](http://aimthings.com/aimfilez/chatspam.zip) |
 | LensHell AIM progs | chatspam | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip](http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip) |
 | 8 | chatspam.exe | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/chatspam.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/chatspam.exe) | [http://aimfilez.com/files/chatspam.exe](http://aimfilez.com/files/chatspam.exe) |

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| cracker's | x25.5x | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/x255x.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/x255x.zip) | [http://lenshellarchive.com/Progs/aolcrackers/x255x.zip](http://lenshellarchive.com/Progs/aolcrackers/x255x.zip) |
+| LensHell crackers | x25.5x | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/x255x.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/x255x.zip) | [http://lenshellarchive.com/Progs/aolcrackers/x255x.zip](http://lenshellarchive.com/Progs/aolcrackers/x255x.zip) |
 
 ### Mirror Leads
 

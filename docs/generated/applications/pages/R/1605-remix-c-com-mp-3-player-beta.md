@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-5-0](../../../tags/aol-5-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | LensHell AIM progs | aim remix r | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) | [http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) |
 | 9 | AimRemix3.0.exe | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AimRemix3.0.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/AimRemix3.0.exe) | [http://aimfilez.com/files/AimRemix3.0.exe](http://aimfilez.com/files/AimRemix3.0.exe) |
 | Hadez progs | Click Here | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip) | [http://dnx-online.net/~hadez/files/dbremix.zip](http://dnx-online.net/~hadez/files/dbremix.zip) |
-| c-coms | remix ccom mp3 player beta | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | [http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) |
+| LensHell c-coms | remix ccom mp3 player beta | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | [http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) |
 
 ### Mirror Leads
 
@@ -109,7 +114,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Web page: Hadez progs | dbremix.zip | [http://dnx-online.net/~hadez/files/dbremix.zip](http://dnx-online.net/~hadez/files/dbremix.zip) | [https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip](https://web.archive.org/web/20020611082332/http://dnx-online.net/~hadez/files/dbremix.zip) | unknown | http-404 |
 | Web page: LensHell AIM progs | aimremix3.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip](http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremix3.zip) | unknown | http-404 |
 | Web page: LensHell AIM progs | aimremixr.zip | [http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/aimremixr.zip) | unknown | http-404 |
-| c-coms | remixbeta.zip | [http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | unknown | candidate |
+| LensHell c-coms | remixbeta.zip | [http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/remixbeta.zip) | unknown | candidate |
 
 ### Web Image Leads
 

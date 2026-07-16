@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | readme/archive text |
+| Category confidence | readme/archive text |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, author conflict, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -104,13 +109,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bridge/1910/music.zip | [http://www.geocities.com/SiliconValley/Bridge/1910/music.zip](http://www.geocities.com/SiliconValley/Bridge/1910/music.zip) | [http://www.geocities.com/SiliconValley/Bridge/1910/music.zip](http://www.geocities.com/SiliconValley/Bridge/1910/music.zip) |
-| prog's/misc a-m | music mp3 player x - version 2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) | [http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) |
+| LensHell misc progs A-M | music mp3 player x - version 2.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) | [http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | mplayerx.zip | [http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) | unknown | candidate |
+| LensHell misc progs A-M | mplayerx.zip | [http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip) | unknown | candidate |
 | found-geocities-silicon-valley-files.txt | music.zip | [http://www.geocities.com/SiliconValley/Bridge/1910/music.zip](http://www.geocities.com/SiliconValley/Bridge/1910/music.zip) | [http://www.geocities.com/SiliconValley/Bridge/1910/music.zip](http://www.geocities.com/SiliconValley/Bridge/1910/music.zip) | unknown | candidate |
 
 ### Web Image Leads

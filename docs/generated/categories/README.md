@@ -16,3 +16,7 @@ Categories are inferred from catalog names, source paths, and archive vocabulary
 | mass mailer | 19 | Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. | [open](mass-mailer.md) |
 | development or source | 3 | Source code, Visual Basic material, controls, modules, tutorials, or development support files. | [open](development-or-source.md) |
 | screen name tool | 2 | A screen-name checker, scanner, maker, or related identity-management utility. | [open](screen-name-tool.md) |
+
+## More Specific Type Index
+
+- [Browse by inferred prog type](type-index.md)

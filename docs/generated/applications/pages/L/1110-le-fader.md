@@ -46,10 +46,15 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Matched mirror leads | 7 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -110,8 +115,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Aol 4.0/5.0 Progs | lethal.zip | [http://www.oogle.net/downloads/progs/lethal.zip](http://www.oogle.net/downloads/progs/lethal.zip) | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/lethal.zip) | unknown | candidate |
 | Section 2 | lethal.zip | [http://www.cybernyse.com/downlowdz/lethal.zip](http://www.cybernyse.com/downlowdz/lethal.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/lethal.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | lethal.zip | [http://24.185.191.87/progz/lethal.zip](http://24.185.191.87/progz/lethal.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/lethal.zip) | unknown | candidate |
-| prog's/misc a-m | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | unknown | candidate |
-| prog's/misc a-m | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal.zip](http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | unknown | candidate |
+| LensHell misc progs A-M | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal3.zip) | unknown | candidate |
+| LensHell misc progs A-M | lethal.zip | [http://lenshellarchive.com/Progs/aolprogs/lethal.zip](http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip) | unknown | candidate |
 | found-geocities-silicon-valley-files.txt | empire.zip | [http://www7.geocities.com:80/SiliconValley/9470/empire.zip](http://www7.geocities.com:80/SiliconValley/9470/empire.zip) | [http://www7.geocities.com:80/SiliconValley/9470/empire.zip](http://www7.geocities.com:80/SiliconValley/9470/empire.zip) | unknown | candidate |
 | LensHell faders | lethalempirefader.zip | [http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/lethalempirefader.zip) | unknown | candidate |
 

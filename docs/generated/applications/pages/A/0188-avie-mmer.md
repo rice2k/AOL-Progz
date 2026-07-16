@@ -46,10 +46,15 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | avie mmer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip) | [http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip](http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip) |
+| LensHell mailers and servers | avie mmer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip) | [http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip](http://lenshellarchive.com/Progs/aolmmservers/aviemmer.zip) |
 
 ### Mirror Leads
 

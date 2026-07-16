@@ -46,10 +46,15 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | unknown |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | handicapd - color spy | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/handicapd.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/handicapd.zip) | [http://lenshellarchive.com/Progs/aolprogs/handicapd.zip](http://lenshellarchive.com/Progs/aolprogs/handicapd.zip) |
+| LensHell misc progs A-M | handicapd - color spy | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/handicapd.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/handicapd.zip) | [http://lenshellarchive.com/Progs/aolprogs/handicapd.zip](http://lenshellarchive.com/Progs/aolprogs/handicapd.zip) |
 
 ### Mirror Leads
 

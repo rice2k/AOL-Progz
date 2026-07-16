@@ -46,10 +46,15 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -95,13 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | meditating mailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) | [http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) |
+| LensHell mailers and servers | meditating mailer | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) | [http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| mmer's/server's | meditating.zip | [http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) | unknown | candidate |
+| LensHell mailers and servers | meditating.zip | [http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/meditating.zip) | unknown | candidate |
 
 ### Web Image Leads
 

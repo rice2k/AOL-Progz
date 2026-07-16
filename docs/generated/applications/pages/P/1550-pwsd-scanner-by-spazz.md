@@ -46,10 +46,15 @@ A screen-name checker, scanner, maker, or related identity-management utility.
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | unknown |
+| Source confidence | old-web lead |
+| Manual review flags | main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#screen-name-tool](../../../tags/screen-name-tool.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#screen-name-tool](../../../tags/screen-name-tool.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | spazz2k | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip) | [http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip](http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip) |
+| LensHell misc progs N-Z | spazz2k | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip) | [http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip](http://lenshellarchive.com/Progs/aolprogs/spazz2k.zip) |
 
 ### Mirror Leads
 

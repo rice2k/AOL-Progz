@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -95,13 +100,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | lazyass gold | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) | [http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) |
+| LensHell misc progs A-M | lazyass gold | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) | [http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | lazyass.zip | [http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) | unknown | candidate |
+| LensHell misc progs A-M | lazyass.zip | [http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip) | unknown | candidate |
 
 ### Web Image Leads
 

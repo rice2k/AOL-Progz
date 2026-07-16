@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -94,7 +99,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | team volcom idle v2 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip) | [http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip](http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip) |
+| LensHell idlers | team volcom idle v2 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip) | [http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip](http://lenshellarchive.com/Progs/aolidlers/tvidle2.zip) |
 
 ### Mirror Leads
 

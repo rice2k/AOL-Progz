@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | grafik horrors | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grafik.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grafik.zip) | [http://lenshellarchive.com/Progs/aolprogs/grafik.zip](http://lenshellarchive.com/Progs/aolprogs/grafik.zip) |
+| LensHell misc progs A-M | grafik horrors | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grafik.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grafik.zip) | [http://lenshellarchive.com/Progs/aolprogs/grafik.zip](http://lenshellarchive.com/Progs/aolprogs/grafik.zip) |
 
 ### Mirror Leads
 

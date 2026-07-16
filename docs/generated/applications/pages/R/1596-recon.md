@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -95,8 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Visual Basic Section | auto reconnect | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip) | [http://lenshellarchive.com/VBfiles/autoreconnect.zip](http://lenshellarchive.com/VBfiles/autoreconnect.zip) |
-| prog's/misc n-z | recon aol 7 auto re-connect | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/recon.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/recon.zip) | [http://lenshellarchive.com/Progs/aolprogs/recon.zip](http://lenshellarchive.com/Progs/aolprogs/recon.zip) |
+| LensHell Visual Basic | auto reconnect | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/autoreconnect.zip) | [http://lenshellarchive.com/VBfiles/autoreconnect.zip](http://lenshellarchive.com/VBfiles/autoreconnect.zip) |
+| LensHell misc progs N-Z | recon aol 7 auto re-connect | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/recon.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/recon.zip) | [http://lenshellarchive.com/Progs/aolprogs/recon.zip](http://lenshellarchive.com/Progs/aolprogs/recon.zip) |
 
 ### Mirror Leads
 

@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 3 |
 | Web research mentions | 1 |
 | Web image leads | 4 |
+| Author confidence | manual source correction |
+| Category confidence | curated source clue |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | no readable text evidence |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-manual-purpose-clues](../../../tags/has-manual-purpose-clues.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-manual-purpose-clues](../../../tags/has-manual-purpose-clues.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | User-supplied Rampage/Oogle reference | Rampage Toolz 2 source code | [https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip](https://web.archive.org/web/20130805181931/http://www.oogle.com/download/rampagetools2source.zip) | [http://www.oogle.com/download/rampagetools2source.zip](http://www.oogle.com/download/rampagetools2source.zip) |
 | Oogle AIM progs | Rampage Toolz 2.0 setup | [https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe](https://web.archive.org/web/20010613064806/http://www.oogle.net/rampage/setuprt22.exe) | [http://www.oogle.net/rampage/setuprt22.exe](http://www.oogle.net/rampage/setuprt22.exe) |
-| prog's/misc n-z | rampage toolz | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip) | [http://lenshellarchive.com/Progs/aolprogs/rampage.zip](http://lenshellarchive.com/Progs/aolprogs/rampage.zip) |
+| LensHell misc progs N-Z | rampage toolz | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/rampage.zip) | [http://lenshellarchive.com/Progs/aolprogs/rampage.zip](http://lenshellarchive.com/Progs/aolprogs/rampage.zip) |
 | Click-Online AOL 4/5 progz | rampage toolz 1.0 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/rampage.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/rampage.zip) | [http://click-online2000.com/progz/rampage.zip](http://click-online2000.com/progz/rampage.zip) |
 | Section 2 | Rampage Toolz 1.1 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/rampage.zip) | [http://www.cybernyse.com/downlowdz/rampage.zip](http://www.cybernyse.com/downlowdz/rampage.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Rampage Toolz 1.1 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/rampage.zip) | [http://24.185.191.87/progz/rampage.zip](http://24.185.191.87/progz/rampage.zip) |

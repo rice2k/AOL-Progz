@@ -43,19 +43,24 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 3 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0757-fatal2000.zip](../../../../../files/aol/aol-4-0/0757-fatal2000.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal error 2000-chat punter for aol 5 yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/fatal%20error%202000-chat%20punter%20for%20aol%205%20yr2k.zip)
@@ -96,13 +101,16 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | Macintosh | Fatal Error | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) | [http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) |
-| punter's | fatal error 2000-chat punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) | [http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) |
+| LensHell punters | fatal error 2000-chat punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) | [http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) |
 | Yahoo Progs | fatal fuckup y!9 | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell punters | fatal2000.zip | [http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/fatal2000.zip) | unknown | http-404 |
+| Web page: Yahoo Progs | fatal.zip | [http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip) | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/fatal.zip) | unknown | http-404 |
+| Web page: LensHell c-coms | fatal.zip | [http://lenshellarchive.com/Progs/aolccoms/fatal.zip](http://lenshellarchive.com/Progs/aolccoms/fatal.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fatal.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fatal.zip) | [files/external/lenshellarchive-com/fatal-d185679f.zip](../../../../../files/external/lenshellarchive-com/fatal-d185679f.zip) | ready |
 | Macintosh | fatal%20error%20by%20tasz%20Palette.hqx | [http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/fatal%20error%20by%20tasz%20Palette.hqx) | unknown | candidate |
 
 ### Web Image Leads

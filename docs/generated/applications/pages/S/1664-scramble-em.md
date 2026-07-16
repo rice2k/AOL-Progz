@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM | Pressure Scrambler v 1.0 | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip) | [http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip](http://www.cybernyse.com/downlowdz/aimpressurescramblerv10.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Pressure Scrambler v 1.0 | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimpressurescramblerv10.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimpressurescramblerv10.zip) | [http://24.185.191.87/progz/aimpressurescramblerv10.zip](http://24.185.191.87/progz/aimpressurescramblerv10.zip) |
-| prog's/misc n-z | scramble em | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scramble.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scramble.zip) | [http://lenshellarchive.com/Progs/aolprogs/scramble.zip](http://lenshellarchive.com/Progs/aolprogs/scramble.zip) |
+| LensHell misc progs N-Z | scramble em | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scramble.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/scramble.zip) | [http://lenshellarchive.com/Progs/aolprogs/scramble.zip](http://lenshellarchive.com/Progs/aolprogs/scramble.zip) |
 
 ### Mirror Leads
 

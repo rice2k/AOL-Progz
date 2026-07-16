@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| idler's | lethal empire idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip) | [http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip](http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip) |
+| LensHell idlers | lethal empire idler | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip) | [http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip](http://lenshellarchive.com/Progs/aolidlers/lethalempireidler.zip) |
 
 ### Mirror Leads
 

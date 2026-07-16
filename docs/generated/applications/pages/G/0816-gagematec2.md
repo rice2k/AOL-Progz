@@ -43,18 +43,24 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.5 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0816-gagematec2.zip](../../../../../files/aol/aol-4-0/0816-gagematec2.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gagematec 2 aol7-9 winALL yr04.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gagematec%202%20aol7-9%20winALL%20yr04.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gagematec%202%20aol7-9%20winALL%20yr04.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gagematec%202%20aol7-9%20winALL%20yr04.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/gagematec%202%20aol7-9%20winALL%20yr04.zip)
@@ -98,12 +104,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | gagematec² | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip) | [http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip](http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip) |
-| prog's/misc a-m | gagematec²·¹ | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip) | [http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip](http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip) |
+| LensHell misc progs A-M | gagematec² | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip) | [http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip](http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip) |
+| LensHell misc progs A-M | gagematec²·¹ | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip) | [http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip](http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: LensHell misc progs A-M | gagematec2.zip | [http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip](http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec2.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | gagematec21.zip | [http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip](http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/gagematec21.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

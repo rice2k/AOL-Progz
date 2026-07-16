@@ -83,6 +83,31 @@ function writeDoc(relativePath, body) {
   writeFileSync(fullPath, `${body.trim()}\n`, "utf8");
 }
 
+function writeJson(relativePath, value) {
+  const fullPath = path.join(rootDir, relativePath);
+  mkdirSync(path.dirname(fullPath), { recursive: true });
+  writeFileSync(fullPath, `${JSON.stringify(value, null, 2)}\n`, "utf8");
+}
+
+function csvEscape(value) {
+  const text = clean(value);
+  if (/[",\n]/.test(text)) return `"${text.replace(/"/g, '""')}"`;
+  return text;
+}
+
+function csvTable(headers, rows) {
+  return [
+    headers.map(csvEscape).join(","),
+    ...rows.map((row) => row.map(csvEscape).join(",")),
+  ].join("\n");
+}
+
+function writeCsv(relativePath, headers, rows) {
+  const fullPath = path.join(rootDir, relativePath);
+  mkdirSync(path.dirname(fullPath), { recursive: true });
+  writeFileSync(fullPath, `${csvTable(headers, rows)}\n`, "utf8");
+}
+
 function relLink(fromDoc, target) {
   if (!target) return "";
   if (/^https?:\/\//i.test(target)) return target;
@@ -189,6 +214,7 @@ function appTags(program, embeddedUrls) {
   if (enrichment.archiveAolVersions?.length) tags.add("has-readme-aol-version-clues");
   if (enrichment.externalArchiveTextEvidence?.length) tags.add("has-external-zip-text-evidence");
   if (enrichment.webDownloadLinks?.length) tags.add("has-old-web-downloads");
+  if (manualReviewReasons(program).length) tags.add("needs-manual-review");
   return [...tags].sort();
 }
 
@@ -359,6 +385,84 @@ function archiveFileName(program) {
   return clean(enrichmentFor(program).archiveFilename) || path.posix.basename(clean(program.file) || clean(program.download?.path) || "");
 }
 
+function confidenceLabel(program, field) {
+  const enrichment = enrichmentFor(program);
+  if (field === "author") {
+    if (clean(enrichment.manualAuthor)) return "manual source correction";
+    if (clean(enrichment.archiveTextAuthor)) return "readme/archive text";
+    if (clean(enrichment.inferredAuthor)) return "filename/source inferred";
+    if (clean(program.author)) return "catalog only";
+    return "unknown";
+  }
+  if (field === "category") {
+    if (enrichment.manualPurposeSignals?.length) return "curated source clue";
+    if (enrichment.archivePurposeSignals?.length) return "readme/archive text";
+    if ((enrichment.externalArchiveTextEvidence || []).some((item) => item.purposeSignals?.length)) return "external ZIP text";
+    if (clean(program.category) && program.category !== "uncategorized") return "catalog/path inferred";
+    return "needs review";
+  }
+  if (field === "version") {
+    if (enrichment.archiveAolVersions?.length) return "readme/archive text";
+    if (clean(enrichment.inferredAolVersion)) return "filename/source inferred";
+    if (clean(program.versions)) return "catalog bucket";
+    return "unknown";
+  }
+  if (field === "source") {
+    if (program.download?.status === "ready" && (enrichment.webDownloadLinks?.length || enrichment.mirrorLinks?.some((item) => item.status === "ready"))) {
+      return "local + old-web lead";
+    }
+    if (program.download?.status === "ready") return "local catalog mirror";
+    if (enrichment.mirrorLinks?.some((item) => item.status === "ready")) return "external mirror";
+    if (enrichment.webDownloadLinks?.length) return "old-web lead";
+    return "catalog metadata only";
+  }
+  return "unknown";
+}
+
+function manualReviewReasons(program) {
+  const enrichment = enrichmentFor(program);
+  const reasons = [];
+  if (!primaryAuthor(program)) reasons.push("author unknown");
+  if (!clean(program.category) || program.category === "uncategorized") reasons.push("category uncertain");
+  if (programType(program) === "Unknown / needs review") reasons.push("type uncertain");
+  if (enrichment.authorConflict) reasons.push("author conflict");
+  if (!program.download?.path || program.download?.status !== "ready") reasons.push("main local file missing");
+  if (!program.screenshotCount && !enrichment.webImageLinks?.length) reasons.push("no screenshot or image lead");
+  if (/account|tos|punter|room buster|mass mailer/i.test(program.category || "")) reasons.push("sensitive historical category");
+  if (!enrichment.archiveTextFiles?.length && !enrichment.externalArchiveTextEvidence?.length) reasons.push("no readable text evidence");
+  return reasons;
+}
+
+function runtimeDownloadKind(item) {
+  const value = `${item.sourceList || ""} ${item.discoveredText || ""} ${item.name || ""} ${item.originalUrl || ""}`.toLowerCase();
+  const file = String(item.name || item.originalUrl || "").toLowerCase();
+  if (/\.(dll|ocx|vbx)(?:$|[?#])/.test(file) || /\b(msvbvm|comdlg|riched|chatocx|chatscan|msinet|mswinsck|vb5chat|vb40032|vb40016)\b/.test(value)) {
+    return "DLL/OCX runtime";
+  }
+  if (/\bdeadaim\b|jdennis\.net\/deadaim/.test(value)) return "DeadAIM / AIM enhancer";
+  if (/\b(aimplus|aim\s*pluss|aimster|aimcreat|aim\s*creation|aimfilez|aimthings)\b/.test(value)) return "AIM utility or enhancer";
+  if (/\b(format\s*sn|masteraol|aolfiledownloader|aol\s*file\s*downloader)\b/.test(value)) return "AOL utility";
+  if (/\b(aim44|aim\d|aim\s+\d|aol30german|aolp\d|setupaol|aolsetup|aol\dsetup)\b/.test(value)) return "AOL/AIM client installer";
+  return "other";
+}
+
+function isRuntimeDownload(item) {
+  return runtimeDownloadKind(item) === "DLL/OCX runtime";
+}
+
+function isDeadAimOrAimEnhancer(item) {
+  return /AIM/.test(runtimeDownloadKind(item)) || runtimeDownloadKind(item) === "DeadAIM / AIM enhancer";
+}
+
+function isAolUtilityDownload(item) {
+  const kind = runtimeDownloadKind(item);
+  return kind === "AOL utility" || kind === "AOL/AIM client installer";
+}
+
+function isDeadOrFalseLead(item) {
+  return /^(http-404|html-replay|invalid-archive|empty-file|out-of-scope|too-large|failed)$/i.test(item.status || "");
+}
+
 function joinedWebLinks(items, labelKey = "label", urlKey = "url") {
   const links = (items || [])
     .filter((item) => clean(item[urlKey] || item.originalUrl || item.waybackUrl))
@@ -418,11 +522,13 @@ function programInventoryTable(fromDoc, items) {
       "Category",
       "AOL/version",
       "Author",
+      "Author confidence",
       "Local file",
       "Old-web/download leads",
       "Reference mirror",
       "Embedded URLs",
       "Screens",
+      "Needs review",
     ],
     items.map((program) => {
       const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
@@ -437,11 +543,13 @@ function programInventoryTable(fromDoc, items) {
         program.category || "uncategorized",
         displayVersion(program),
         displayAuthor(program),
+        confidenceLabel(program, "author"),
         program.download?.path ? localLink(fromDoc, program.download.path, program.download.path) : program.download?.status || "remote-only",
         oldWebDownloadCount(program),
         joinedReferenceMirrorLinks(program),
         embedded.length ? embedded.map((item) => link(item.url, item.url)).join("<br>") : "",
         String(program.screenshotCount || 0),
+        manualReviewReasons(program).join("<br>"),
       ];
     }),
   );
@@ -766,6 +874,250 @@ for (const program of programs) {
   appDocPaths.set(program.id, `${generatedRoot}/applications/pages/${bucket}/${fileName}`);
 }
 
+function programExportRecord(program) {
+  const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
+  const enrichment = enrichmentFor(program);
+  return {
+    index: program.index,
+    id: program.id,
+    bestName: displayName(program),
+    catalogLabel: clean(program.name),
+    archiveFilename: archiveFileName(program),
+    fileSize: fileSizeLabel(program),
+    progType: programType(program),
+    category: clean(program.category) || "uncategorized",
+    platform: clean(program.platform) || "unknown",
+    aolVersion: displayVersion(program),
+    author: displayAuthor(program),
+    authorConfidence: confidenceLabel(program, "author"),
+    categoryConfidence: confidenceLabel(program, "category"),
+    versionConfidence: confidenceLabel(program, "version"),
+    sourceConfidence: confidenceLabel(program, "source"),
+    localFile: program.download?.path || "",
+    referenceUrl: program.download?.originalUrl || "",
+    rawSourceUrl: program.download?.rawUrl || "",
+    oldWebDownloadLinks: enrichment.webDownloadLinks?.length || 0,
+    mirrorLeads: enrichment.mirrorLinks?.length || 0,
+    webResearchMentions: enrichment.webMentions?.length || 0,
+    screenshots: program.screenshotCount || 0,
+    embeddedUrls: embedded.length,
+    manualReviewFlags: manualReviewReasons(program).join("; "),
+    tags: appTags(program, embedded).join("; "),
+    detailPage: appDocPaths.get(program.id) || "",
+  };
+}
+
+function recoveredFileRecords() {
+  const rows = [];
+  for (const program of programs) {
+    if (!program.download?.path) continue;
+    rows.push({
+      kind: "main catalog file",
+      name: displayName(program),
+      status: program.download.status || "ready",
+      size: program.download.sizeLabel || fileSizeLabel(program),
+      bytes: program.download.size || "",
+      sha1: "",
+      localPath: program.download.path,
+      source: program.file || "",
+      originalUrl: program.download.originalUrl || "",
+      waybackUrl: "",
+      detailPage: appDocPaths.get(program.id) || "",
+    });
+  }
+  for (const item of externalDownloads.downloads || []) {
+    if (item.status !== "ready" || !item.localPath) continue;
+    rows.push({
+      kind: runtimeDownloadKind(item) === "other" ? "external recovered file" : runtimeDownloadKind(item),
+      name: item.name || fileStem(item.originalUrl || item.waybackUrl),
+      status: item.status || "ready",
+      size: formatBytes(item.size),
+      bytes: item.size || "",
+      sha1: item.sha1 || "",
+      localPath: item.localPath,
+      source: item.sourceList || "",
+      originalUrl: item.originalUrl || "",
+      waybackUrl: item.waybackUrl || item.downloadUrl || "",
+      detailPage: "",
+    });
+  }
+  for (const asset of webAssets.assets || []) {
+    if (asset.status !== "ready" || !asset.localPath) continue;
+    rows.push({
+      kind: "recovered web image",
+      name: asset.text || fileStem(asset.localPath),
+      status: asset.status || "ready",
+      size: formatBytes(asset.size),
+      bytes: asset.size || "",
+      sha1: "",
+      localPath: asset.localPath,
+      source: asset.pageName || "",
+      originalUrl: asset.originalUrl || asset.url || "",
+      waybackUrl: asset.url || "",
+      detailPage: "",
+    });
+  }
+  return uniqueBy(rows, (item) => `${item.kind}|${item.localPath}|${item.originalUrl}`).sort((a, b) => a.kind.localeCompare(b.kind) || a.name.localeCompare(b.name));
+}
+
+function originalDownloadRecords() {
+  const rows = [];
+  const add = (record) => {
+    const url = clean(record.url || record.originalUrl || record.waybackUrl);
+    if (!url) return;
+    rows.push({ ...record, url });
+  };
+  for (const program of programs) {
+    const detailPage = appDocPaths.get(program.id) || "";
+    const enrichment = enrichmentFor(program);
+    add({
+      name: displayName(program),
+      kind: "reference repository page",
+      status: program.download?.status || "",
+      source: program.file || "",
+      url: program.download?.originalUrl,
+      localPath: program.download?.path || "",
+      detailPage,
+    });
+    add({
+      name: displayName(program),
+      kind: "reference repository raw file",
+      status: program.download?.status || "",
+      source: program.file || "",
+      url: program.download?.rawUrl,
+      localPath: program.download?.path || "",
+      detailPage,
+    });
+    for (const item of enrichment.webDownloadLinks || []) {
+      add({
+        name: displayName(program),
+        kind: "old-web program download lead",
+        status: "lead",
+        source: item.sourceName || "",
+        url: item.originalUrl || item.url,
+        localPath: "",
+        detailPage,
+      });
+      add({
+        name: displayName(program),
+        kind: "Wayback program download lead",
+        status: "lead",
+        source: item.sourceName || "",
+        url: item.url,
+        localPath: "",
+        detailPage,
+      });
+    }
+    for (const item of enrichment.mirrorLinks || []) {
+      add({
+        name: displayName(program),
+        kind: "external mirror original URL",
+        status: item.status || "lead",
+        source: item.sourceName || "",
+        url: item.originalUrl,
+        localPath: item.localPath || "",
+        detailPage,
+      });
+      add({
+        name: displayName(program),
+        kind: "external mirror Wayback URL",
+        status: item.status || "lead",
+        source: item.sourceName || "",
+        url: item.waybackUrl,
+        localPath: item.localPath || "",
+        detailPage,
+      });
+    }
+  }
+  for (const item of externalDownloads.downloads || []) {
+    add({
+      name: item.name || fileStem(item.originalUrl || item.waybackUrl),
+      kind: "external recovery original URL",
+      status: item.status || "",
+      source: item.sourceList || "",
+      url: item.originalUrl,
+      localPath: item.localPath || "",
+      detailPage: "",
+    });
+    add({
+      name: item.name || fileStem(item.originalUrl || item.waybackUrl),
+      kind: "external recovery Wayback URL",
+      status: item.status || "",
+      source: item.sourceList || "",
+      url: item.waybackUrl || item.downloadUrl,
+      localPath: item.localPath || "",
+      detailPage: "",
+    });
+  }
+  for (const candidate of missingCandidates.candidates || []) {
+    for (const mirror of candidate.mirrors || []) {
+      add({
+        name: candidate.fileName || candidate.key || "missing candidate",
+        kind: "missing-candidate original URL",
+        status: mirror.status || "",
+        source: mirror.source || "",
+        url: mirror.url,
+        localPath: (candidate.readyLocalFiles || [])[0] || "",
+        detailPage: "",
+      });
+      add({
+        name: candidate.fileName || candidate.key || "missing candidate",
+        kind: "missing-candidate Wayback URL",
+        status: mirror.status || "",
+        source: mirror.source || "",
+        url: mirror.waybackUrl,
+        localPath: (candidate.readyLocalFiles || [])[0] || "",
+        detailPage: "",
+      });
+    }
+  }
+  return uniqueBy(rows, (item) => canonicalUrl(item.url)).sort((a, b) => urlHost(a.url).localeCompare(urlHost(b.url)) || a.url.localeCompare(b.url));
+}
+
+function sourceNameKey(value) {
+  return clean(value).replace(/^Web page:\s*/i, "").toLowerCase();
+}
+
+function sourceSiteRows() {
+  const externalBySource = new Map();
+  for (const item of externalDownloads.downloads || []) {
+    const key = sourceNameKey(item.sourceList || "");
+    const record = externalBySource.get(key) || { attempts: 0, ready: 0 };
+    record.attempts += 1;
+    if (item.status === "ready") record.ready += 1;
+    externalBySource.set(key, record);
+  }
+  const assetsBySource = new Map();
+  for (const asset of webAssets.assets || []) {
+    const key = sourceNameKey(asset.pageName || "");
+    const record = assetsBySource.get(key) || { images: 0, ready: 0 };
+    record.images += 1;
+    if (asset.status === "ready") record.ready += 1;
+    assetsBySource.set(key, record);
+  }
+  return (webResources.pages || [])
+    .map((page) => {
+      const key = sourceNameKey(page.name);
+      const external = externalBySource.get(key) || { attempts: 0, ready: 0 };
+      const assets = assetsBySource.get(key) || { images: 0, ready: 0 };
+      return {
+        name: page.name,
+        kind: page.kind || "",
+        status: page.ok ? "ok" : `not ok${page.status ? ` (${page.status})` : ""}`,
+        host: urlHost(page.url),
+        links: page.linkCount || 0,
+        downloads: page.downloadCount || 0,
+        externalAttempts: external.attempts,
+        recoveredDownloads: external.ready,
+        imageAttempts: assets.images,
+        recoveredImages: assets.ready,
+        localPath: page.localPath || "",
+        url: page.url,
+      };
+    })
+    .sort((a, b) => b.downloads - a.downloads || b.externalAttempts - a.externalAttempts || a.name.localeCompare(b.name));
+}
+
 const tagMap = new Map();
 for (const program of programs) {
   const embedded = urlIndex.perProgram?.[program.id]?.urls || [];
@@ -828,6 +1180,11 @@ for (const program of programs) {
     ["Matched mirror leads", String(enrichment.mirrorLinks?.length || 0)],
     ["Web research mentions", String(enrichment.webMentions?.length || 0)],
     ["Web image leads", String(enrichment.webImageLinks?.length || 0)],
+    ["Author confidence", confidenceLabel(program, "author")],
+    ["Category confidence", confidenceLabel(program, "category")],
+    ["AOL/version confidence", confidenceLabel(program, "version")],
+    ["Source confidence", confidenceLabel(program, "source")],
+    ["Manual review flags", manualReviewReasons(program).length ? manualReviewReasons(program).join(", ") : "none"],
   ];
 
   const sourceLinks = [
@@ -1078,16 +1435,30 @@ writeDoc(
     "",
     "- [Generated documentation hub](generated/README.md)",
     "- [All applications](generated/applications/all-applications.md)",
+    "- [Master progs table](generated/applications/all-progs-master.md)",
     "- [Detailed all-progs inventory](generated/applications/all-programs-detailed.md)",
     "- [All program download links](generated/applications/all-program-downloads.md)",
     "- [Web research mentions](generated/applications/web-research-mentions.md)",
     "- [Enrichment report](generated/applications/enrichment-report.md)",
+    "- [Metadata confidence report](generated/applications/metadata-confidence.md)",
+    "- [Author conflicts](generated/applications/author-conflicts.md)",
+    "- [Needs manual review](generated/applications/needs-manual-review.md)",
+    "- [Timeline](generated/applications/timeline.md)",
     "- [Master link index](generated/sources/all-links.md)",
     "- [Links you supplied](generated/sources/user-supplied-links.md)",
+    "- [Original download URLs](generated/sources/original-download-urls.md)",
+    "- [Recovered files](generated/sources/recovered-files.md)",
+    "- [Top source sites](generated/sources/top-source-sites.md)",
+    "- [Recovered missing candidates](generated/sources/missing-ready.md)",
+    "- [Runtime files](generated/sources/runtime-files.md)",
+    "- [DeadAIM and AIM enhancers](generated/sources/deadaim-aim-enhancers.md)",
+    "- [AOL utilities](generated/sources/aol-utilities.md)",
     "- [Categories](generated/categories/README.md)",
+    "- [Prog type index](generated/categories/type-index.md)",
     "- [AOL version buckets](generated/versions/README.md)",
     "- [Tags](generated/tags/README.md)",
     "- [Source pages and old-school links](generated/sources/README.md)",
+    "- [Plain data exports](generated/exports/README.md)",
     "- [Screenshots and recovered web images](generated/screenshots/README.md)",
     "- [Statistics](generated/statistics.md)",
     "- [Glossary](generated/GLOSSARY.md)",
@@ -1129,12 +1500,15 @@ writeDoc(
         ["Programs with archive-text AOL/version clues", String(programEnrichment.programsWithArchiveAolVersionMentions || 0)],
         ["Programs with matched external ZIP text evidence", String(programEnrichment.programsWithExternalArchiveTextEvidence || 0)],
         ["Programs with author conflicts flagged", String(programEnrichment.programsWithAuthorConflicts || 0)],
+        ["Programs needing manual review", String(programs.filter((program) => manualReviewReasons(program).length).length)],
         ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
         ["Crawled unique links", String(webResources.linkCount || 0)],
         ["Crawled download links", String(webResources.downloadCount || 0)],
         ["Master deduped link index", String(masterLinks.length)],
+        ["Deduped original/download URLs", String(originalDownloadRecords().length)],
         ["User supplied priority links", String(uniqueBy(userSuppliedLinks, (item) => linkKey(item[2])).length)],
         ["Recovered external files", String(externalDownloads.readyCount || 0)],
+        ["Recovered local file records", String(recoveredFileRecords().length)],
         ["External ZIPs with readable text", String(externalArchiveText.withTextFileCount || 0)],
         ["External ZIPs with author clues", String(externalArchiveText.withAuthorCount || 0)],
         ["External ZIPs with version clues", String(externalArchiveText.withVersionCount || 0)],
@@ -1147,16 +1521,30 @@ writeDoc(
     "## Browse",
     "",
     "- [Applications](applications/README.md)",
+    "- [Master progs table](applications/all-progs-master.md)",
     "- [Detailed all-progs inventory](applications/all-programs-detailed.md)",
     "- [All program download links](applications/all-program-downloads.md)",
     "- [Web research mentions](applications/web-research-mentions.md)",
     "- [Enrichment report](applications/enrichment-report.md)",
+    "- [Metadata confidence report](applications/metadata-confidence.md)",
+    "- [Author conflicts](applications/author-conflicts.md)",
+    "- [Needs manual review](applications/needs-manual-review.md)",
+    "- [Timeline](applications/timeline.md)",
     "- [Categories](categories/README.md)",
+    "- [Prog type index](categories/type-index.md)",
     "- [AOL versions](versions/README.md)",
     "- [Tags](tags/README.md)",
     "- [Authors](authors/README.md)",
     "- [Sources and old links](sources/README.md)",
     "- [Master link index](sources/all-links.md)",
+    "- [Original download URLs](sources/original-download-urls.md)",
+    "- [Recovered files](sources/recovered-files.md)",
+    "- [Top source sites](sources/top-source-sites.md)",
+    "- [Recovered missing candidates](sources/missing-ready.md)",
+    "- [Runtime files](sources/runtime-files.md)",
+    "- [DeadAIM and AIM enhancers](sources/deadaim-aim-enhancers.md)",
+    "- [AOL utilities](sources/aol-utilities.md)",
+    "- [Plain CSV/JSON exports](exports/README.md)",
     "- [Screenshots](screenshots/README.md)",
     "- [Statistics](statistics.md)",
     "- [Glossary](GLOSSARY.md)",
@@ -1190,10 +1578,15 @@ writeDoc(
     "",
     "## Complete List",
     "",
+    "- [Master progs table](all-progs-master.md)",
     "- [Detailed all-progs inventory](all-programs-detailed.md)",
     "- [All program download links](all-program-downloads.md)",
     "- [Web research mentions](web-research-mentions.md)",
     "- [Enrichment report](enrichment-report.md)",
+    "- [Metadata confidence report](metadata-confidence.md)",
+    "- [Author conflicts](author-conflicts.md)",
+    "- [Needs manual review](needs-manual-review.md)",
+    "- [Timeline](timeline.md)",
     "- [Compact all applications table](all-applications.md)",
   ].join("\n"),
 );
@@ -1201,6 +1594,17 @@ writeDoc(
 writeDoc(
   `${generatedRoot}/applications/all-applications.md`,
   ["# All Applications", "", appTable(`${generatedRoot}/applications/all-applications.md`, programs)].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/applications/all-progs-master.md`,
+  [
+    "# Master Progs Table",
+    "",
+    "This is the main researcher-facing progs list. It keeps the actual best-known name, original catalog label, category, prog type, AOL/AIM version clues, author, evidence confidence, local file, old web leads, original/reference URL fields, embedded URLs, and screenshot count in one table.",
+    "",
+    programInventoryTable(`${generatedRoot}/applications/all-progs-master.md`, programs),
+  ].join("\n"),
 );
 
 writeDoc(
@@ -1222,6 +1626,105 @@ writeDoc(
     "This page lists every main catalog entry with its local mirrored file when present, matched old-page download links, recovered mirror leads, and the reference repository mirror. Old-page links are provenance/recovery leads and may be dead, duplicated, or only available through Wayback.",
     "",
     programDownloadTable(`${generatedRoot}/applications/all-program-downloads.md`, programs),
+  ].join("\n"),
+);
+
+const confidenceRows = programs.map((program) => [
+  localLink(`${generatedRoot}/applications/metadata-confidence.md`, displayName(program), appDocPaths.get(program.id)),
+  program.name,
+  confidenceLabel(program, "author"),
+  confidenceLabel(program, "category"),
+  confidenceLabel(program, "version"),
+  confidenceLabel(program, "source"),
+  manualReviewReasons(program).join("<br>") || "none",
+]);
+
+const confidenceSummaryRows = [];
+for (const field of ["author", "category", "version", "source"]) {
+  const grouped = groupBy(programs, (program) => confidenceLabel(program, field));
+  for (const [label, items] of [...grouped.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))) {
+    confidenceSummaryRows.push([field, label, String(items.length)]);
+  }
+}
+
+writeDoc(
+  `${generatedRoot}/applications/metadata-confidence.md`,
+  [
+    "# Metadata Confidence Report",
+    "",
+    "This page makes uncertainty visible. Confidence labels explain whether author, category, AOL/version, and source information came from manual correction, readable archive text, filename/source inference, old-web leads, local mirrors, or catalog-only metadata.",
+    "",
+    "## Summary",
+    "",
+    table(["Field", "Confidence", "Count"], confidenceSummaryRows),
+    "",
+    "## Per Program",
+    "",
+    table(["Program", "Catalog label", "Author", "Category", "AOL/version", "Source", "Review flags"], confidenceRows),
+  ].join("\n"),
+);
+
+const manualReviewRows = programs
+  .map((program) => ({ program, reasons: manualReviewReasons(program) }))
+  .filter((item) => item.reasons.length)
+  .map(({ program, reasons }) => [
+    localLink(`${generatedRoot}/applications/needs-manual-review.md`, displayName(program), appDocPaths.get(program.id)),
+    program.name,
+    programType(program),
+    program.category || "uncategorized",
+    displayVersion(program),
+    displayAuthor(program),
+    reasons.join("<br>"),
+  ]);
+
+writeDoc(
+  `${generatedRoot}/applications/needs-manual-review.md`,
+  [
+    "# Needs Manual Review",
+    "",
+    "Entries listed here need future human review because at least one important field is weak, conflicting, sensitive, missing, or still without readable text/screenshot evidence.",
+    "",
+    table(["Program", "Catalog label", "Prog type", "Category", "AOL/version", "Author", "Review flags"], manualReviewRows),
+  ].join("\n"),
+);
+
+const sourceCaptureRows = Object.entries(
+  (webResources.pages || []).reduce((acc, page) => {
+    const match = clean(page.url).match(/web\.archive\.org\/web\/(\d{4})/i);
+    const year = match?.[1] || "live/unknown";
+    const record = acc[year] || { pages: 0, downloads: 0, links: 0 };
+    record.pages += 1;
+    record.downloads += page.downloadCount || 0;
+    record.links += page.linkCount || 0;
+    acc[year] = record;
+    return acc;
+  }, {}),
+)
+  .sort(([a], [b]) => a.localeCompare(b))
+  .map(([year, record]) => [year, String(record.pages), String(record.links), String(record.downloads)]);
+
+writeDoc(
+  `${generatedRoot}/applications/timeline.md`,
+  [
+    "# AOL/AIM Prog Era Timeline",
+    "",
+    "This timeline gives the GitHub archive historical context for AOL, AIM, ICQ, MSN Messenger, old source sites, and later rescue work. It is context for browsing, not a compatibility guarantee for any single file.",
+    "",
+    table(
+      ["Year", "Event", "Context", "Source"],
+      (catalog.research?.timeline || []).map((item) => [
+        item.year,
+        item.title,
+        item.description,
+        item.source ? link(item.source, item.source) : "",
+      ]),
+    ),
+    "",
+    "## Source Capture Years",
+    "",
+    "This table summarizes the Wayback capture years represented by crawled source pages.",
+    "",
+    table(["Capture year", "Pages", "Links", "Download links"], sourceCaptureRows),
   ].join("\n"),
 );
 
@@ -1329,6 +1832,36 @@ writeDoc(
   ].join("\n"),
 );
 
+const authorConflictRows = programs
+  .filter((program) => enrichmentFor(program).authorConflict)
+  .map((program) => {
+    const enrichment = enrichmentFor(program);
+    return [
+      localLink(`${generatedRoot}/applications/author-conflicts.md`, displayName(program), appDocPaths.get(program.id)),
+      program.name,
+      displayAuthor(program),
+      program.author || "",
+      enrichment.manualAuthor || "",
+      enrichment.archiveTextAuthor || "",
+      enrichment.inferredAuthor || "",
+      enrichment.authorConflict || "",
+    ];
+  });
+
+writeDoc(
+  `${generatedRoot}/applications/author-conflicts.md`,
+  [
+    "# Author Conflicts",
+    "",
+    "These entries have conflicting author clues between catalog metadata, manual notes, filename inference, or readable archive text. The conflict is preserved rather than silently choosing a final attribution.",
+    "",
+    table(
+      ["Program", "Catalog label", "Displayed author", "Catalog author", "Manual author", "Archive-text author", "Inferred author", "Conflict note"],
+      authorConflictRows,
+    ),
+  ].join("\n"),
+);
+
 progress("category, version, tag, and author indexes");
 const byCategory = groupBy(programs, (program) => program.category || "uncategorized");
 const categoryRows = [...byCategory.entries()]
@@ -1352,6 +1885,37 @@ const categoryRows = [...byCategory.entries()]
     return [category, String(items.length), categoryDescription(category), localLink(`${generatedRoot}/categories/README.md`, "open", page)];
   });
 
+const byType = groupBy(programs, programType);
+const typeRows = [...byType.entries()]
+  .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))
+  .map(([type, items]) => {
+    const page = `${generatedRoot}/categories/types/${slugify(type).slice(0, 90)}.md`;
+    writeDoc(
+      page,
+      [
+        `# Prog Type: ${type}`,
+        "",
+        "Prog type is inferred from names, archive paths, categories, and readable text clues. It is intentionally separate from the broader catalog category.",
+        "",
+        `**Count:** ${items.length}`,
+        "",
+        appTable(page, items),
+      ].join("\n"),
+    );
+    return [type, String(items.length), localLink(`${generatedRoot}/categories/type-index.md`, "open", page)];
+  });
+
+writeDoc(
+  `${generatedRoot}/categories/type-index.md`,
+  [
+    "# Prog Type Index",
+    "",
+    "This index groups programs by more specific inferred function: all-in-one suites, room busters, punters/booters, faders, idlers, C-Coms, scrollers/macros, linkers, mailers, account/TOS utilities, screen-name tools, source/developer files, media/file utilities, and chat/IM utilities.",
+    "",
+    table(["Prog type", "Count", "Page"], typeRows),
+  ].join("\n"),
+);
+
 writeDoc(
   `${generatedRoot}/categories/README.md`,
   [
@@ -1360,6 +1924,10 @@ writeDoc(
     "Categories are inferred from catalog names, source paths, and archive vocabulary. They are useful for browsing but should not be read as perfect compatibility or behavior claims.",
     "",
     table(["Category", "Count", "Meaning", "Page"], categoryRows),
+    "",
+    "## More Specific Type Index",
+    "",
+    "- [Browse by inferred prog type](type-index.md)",
   ].join("\n"),
 );
 
@@ -1468,15 +2036,25 @@ writeDoc(
     "- [Master all-links index](all-links.md)",
     "- [Links you supplied](user-supplied-links.md)",
     "- [Crawled source pages](source-pages.md)",
+    "- [Top source sites](top-source-sites.md)",
+    "- [Historical source context](historical-context.md)",
     "- [Download links](download-links.md)",
+    "- [Original download URLs](original-download-urls.md)",
+    "- [Recovered files](recovered-files.md)",
     "- [External download recovery status](external-downloads.md)",
     "- [External ZIP text evidence](external-archive-text.md)",
     "- [AOL/AIM client and runtime downloads](aol-aim-client-downloads.md)",
+    "- [DLL/OCX runtime files](runtime-files.md)",
+    "- [DeadAIM and AIM enhancers](deadaim-aim-enhancers.md)",
+    "- [AOL utilities](aol-utilities.md)",
     "- [Resource and directory links](resource-links.md)",
     "- [LoLToolz AIM progs source report](loltoolz-aim-progs.md)",
     "- [Embedded archive URLs](embedded-archive-urls.md)",
     "- [External mirror groups](mirror-groups.md)",
     "- [Missing candidates and recovered mirrors](missing-candidates.md)",
+    "- [Recovered missing candidates](missing-ready.md)",
+    "- [Dead or not recovered leads](dead-or-not-recovered-leads.md)",
+    "- [Old-school links by program](program-source-leads.md)",
     `- ${localLink(`${generatedRoot}/sources/README.md`, "Program web-research mentions", `${generatedRoot}/applications/web-research-mentions.md`)}`,
     `- ${localLink(`${generatedRoot}/sources/README.md`, "Methodus2000 source report", "docs/sources/methodus2000.md")}`,
   ].join("\n"),
@@ -1543,6 +2121,108 @@ writeDoc(
   ].join("\n"),
 );
 
+const sourceStatsRows = sourceSiteRows();
+writeDoc(
+  `${generatedRoot}/sources/top-source-sites.md`,
+  [
+    "# Top Source Sites",
+    "",
+    "Source pages ranked by discovered links, download leads, external recovery attempts, recovered downloads, image attempts, and recovered images. This helps show which old-school pages are producing the most useful evidence.",
+    "",
+    table(
+      ["Source/page", "Kind", "Status", "Host", "Links", "Downloads", "External attempts", "Recovered downloads", "Image attempts", "Recovered images", "Local copy", "URL"],
+      sourceStatsRows.map((item) => [
+        item.name,
+        item.kind,
+        item.status,
+        item.host,
+        String(item.links),
+        String(item.downloads),
+        String(item.externalAttempts),
+        String(item.recoveredDownloads),
+        String(item.imageAttempts),
+        String(item.recoveredImages),
+        item.localPath ? localLink(`${generatedRoot}/sources/top-source-sites.md`, item.localPath, item.localPath) : "",
+        link(item.url, item.url),
+      ]),
+    ),
+  ].join("\n"),
+);
+
+const historicalSourceRows = [
+  [
+    "FreeProgz",
+    "Wayback AOL prog hub",
+    "Early-2000s AOL/AIM prog portal with sections, links, and downloads. Useful for vocabulary, categories, old download paths, and link-directory leads.",
+    "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/",
+  ],
+  [
+    "Oogle / Rampage",
+    "AIM and tool author/source lead",
+    "Oogle pages and the Rampage Toolz material are useful for correcting authorship and separating Oogle-made tools from unrelated catalog entries.",
+    "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm",
+  ],
+  [
+    "LensHellArchive",
+    "categorized prog archive",
+    "One of the strongest category sources: antis, busters, C-Coms, crackers, faders, idlers, mailers/servers, punters, termers, X'ers, AIM tools, runtime files, and descriptions.",
+    "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/Index.html",
+  ],
+  [
+    "RiceJerry / LoLToolz",
+    "old link directory and prog pages",
+    "Useful for old scene links, AIM prog listings, direct download names, and leads that can be checked against the local archive.",
+    "https://web.archive.org/web/20010223212351/http://www.8op.com:80/ricejerry/links.html",
+  ],
+  [
+    "Methodus2000",
+    "prog pages and screenshots",
+    "Important for Methodus Toolz pages, screenshots, versions, and related download/source references.",
+    "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm",
+  ],
+  [
+    "ProgzRescue",
+    "Wayback recovery URL lists",
+    "Large recovered URL lists that feed mirror grouping, missing-candidate detection, and external-file recovery.",
+    "https://github.com/raysuelzer/ProgzRescue",
+  ],
+  [
+    "AM.NET AOL tools directory",
+    "client/runtime directory",
+    "AOL/AIM installers, utilities, and support files are tracked separately so client installers and runtimes do not get mixed into authored prog pages.",
+    "https://am.net/lib/TOOLS/AOL/",
+  ],
+  [
+    "DeadAIM / jdennis.net",
+    "AIM enhancement lead",
+    "DeadAIM is tracked as an AIM enhancer rather than a classic AOL punter/prog category.",
+    "https://web.archive.org/web/20031206092015/http://www.jdennis.net/DeadAIM/about.php",
+  ],
+  [
+    "AIMFilez",
+    "AIM files and missing runtimes",
+    "AIM-focused file pages and missing DLL/OCX support files help fill client and runtime gaps.",
+    "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
+  ],
+  [
+    "ColtPro",
+    "runtime/support files",
+    "ColtPro missing-files pages preserve common Visual Basic runtime dependencies used by many old Windows progs.",
+    "https://web.archive.org/web/20010923065731/http://www.coltpro.net/",
+  ],
+];
+
+writeDoc(
+  `${generatedRoot}/sources/historical-context.md`,
+  [
+    "# Historical Source Context",
+    "",
+    "These notes explain why major old-school links are in the archive and what kind of evidence they are useful for: screenshots, original download URLs, author clues, categories, AOL/AIM versions, runtime dependencies, or missing-program leads.",
+    "",
+    table(["Source", "Role", "Why it matters", "URL"], historicalSourceRows.map((row) => [row[0], row[1], row[2], link(row[3], row[3])])),
+  ].join("\n"),
+);
+
 const allCrawledLinks = [];
 for (const page of webResources.pages || []) {
   for (const item of page.links || []) {
@@ -1600,6 +2280,56 @@ writeDoc(
         item.pageName || "",
         link(item.url, item.url),
         item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+      ]),
+    ),
+  ].join("\n"),
+);
+
+const originalDownloads = originalDownloadRecords();
+writeDoc(
+  `${generatedRoot}/sources/original-download-urls.md`,
+  [
+    "# Original Download URLs",
+    "",
+    `Deduplicated original and Wayback download URLs collected from catalog references, old source pages, external recovery lists, missing-candidate mirrors, and matched per-program evidence. Current unique URL count: **${originalDownloads.length}**.`,
+    "",
+    table(
+      ["Name", "Kind", "Status", "Host", "Source", "Local file", "Program page", "URL"],
+      originalDownloads.map((item) => [
+        item.name || fileStem(item.url),
+        item.kind || "",
+        item.status || "",
+        urlHost(item.url),
+        item.source || "",
+        item.localPath ? localLink(`${generatedRoot}/sources/original-download-urls.md`, item.localPath, item.localPath) : "",
+        item.detailPage ? localLink(`${generatedRoot}/sources/original-download-urls.md`, "open", item.detailPage) : "",
+        link(item.url, item.url),
+      ]),
+    ),
+  ].join("\n"),
+);
+
+const recoveredFiles = recoveredFileRecords();
+writeDoc(
+  `${generatedRoot}/sources/recovered-files.md`,
+  [
+    "# Recovered Files",
+    "",
+    `All local files currently represented in the GitHub archive: main catalog archives, recovered external downloads, recovered AOL/AIM utilities, DLL/OCX runtime files, and mirrored web images. Current local record count: **${recoveredFiles.length}**.`,
+    "",
+    table(
+      ["Kind", "Name", "Status", "Size", "SHA1", "Local file", "Source", "Original URL", "Wayback/download URL", "Program page"],
+      recoveredFiles.map((item) => [
+        item.kind,
+        item.name,
+        item.status,
+        item.size,
+        item.sha1,
+        item.localPath ? localLink(`${generatedRoot}/sources/recovered-files.md`, item.localPath, item.localPath) : "",
+        item.source,
+        item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+        item.waybackUrl ? link(item.waybackUrl, item.waybackUrl) : "",
+        item.detailPage ? localLink(`${generatedRoot}/sources/recovered-files.md`, "open", item.detailPage) : "",
       ]),
     ),
   ].join("\n"),
@@ -1747,6 +2477,73 @@ writeDoc(
   ].join("\n"),
 );
 
+function externalDownloadTable(fromDoc, items) {
+  return table(
+    [
+      "File",
+      "Kind",
+      "Inferred version",
+      "Label/context",
+      "Source",
+      "Status",
+      "Size",
+      "SHA1",
+      "Local file",
+      "Original URL",
+      "Wayback/download URL",
+    ],
+    items.map((item) => [
+      item.name || fileStem(item.originalUrl || item.waybackUrl),
+      runtimeDownloadKind(item),
+      inferredClientVersion(item),
+      item.discoveredText || "",
+      item.sourceList || "",
+      item.status || "unknown",
+      formatBytes(item.size),
+      item.sha1 || "",
+      item.localPath ? localLink(fromDoc, item.localPath, item.localPath) : "not recovered",
+      item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+      item.waybackUrl || item.downloadUrl ? link(item.waybackUrl || item.downloadUrl, item.waybackUrl || item.downloadUrl) : "",
+    ]),
+  );
+}
+
+const runtimeDownloads = (externalDownloads.downloads || []).filter(isRuntimeDownload);
+writeDoc(
+  `${generatedRoot}/sources/runtime-files.md`,
+  [
+    "# DLL/OCX Runtime Files",
+    "",
+    "Recovered or attempted Visual Basic and Windows support files such as DLL, OCX, and VB runtime dependencies. These are tracked as support files, not authored progs.",
+    "",
+    externalDownloadTable(`${generatedRoot}/sources/runtime-files.md`, runtimeDownloads),
+  ].join("\n"),
+);
+
+const aimEnhancerDownloads = (externalDownloads.downloads || []).filter(isDeadAimOrAimEnhancer);
+writeDoc(
+  `${generatedRoot}/sources/deadaim-aim-enhancers.md`,
+  [
+    "# DeadAIM And AIM Enhancers",
+    "",
+    "AIM-specific utilities and enhancers, including DeadAIM-related leads where recovered or attempted. These are separated from AOL-era punters/progs so AIM client add-ons can be researched cleanly.",
+    "",
+    externalDownloadTable(`${generatedRoot}/sources/deadaim-aim-enhancers.md`, aimEnhancerDownloads),
+  ].join("\n"),
+);
+
+const aolUtilityDownloads = (externalDownloads.downloads || []).filter(isAolUtilityDownload);
+writeDoc(
+  `${generatedRoot}/sources/aol-utilities.md`,
+  [
+    "# AOL Utilities And Client Installers",
+    "",
+    "AOL client installers and AOL-specific utilities such as Format SN, Master AOL, AOL file downloaders, and related versioned files. These are tracked separately from individual authored progs.",
+    "",
+    externalDownloadTable(`${generatedRoot}/sources/aol-utilities.md`, aolUtilityDownloads),
+  ].join("\n"),
+);
+
 writeDoc(
   `${generatedRoot}/sources/resource-links.md`,
   [
@@ -1863,9 +2660,186 @@ writeDoc(
   ].join("\n"),
 );
 
+const readyMissingRows = (missingCandidates.candidates || [])
+  .filter((candidate) => (candidate.readyCount || candidate.readyLocalFiles?.length || 0) > 0)
+  .sort((a, b) => (b.readyCount || b.readyLocalFiles?.length || 0) - (a.readyCount || a.readyLocalFiles?.length || 0))
+  .map((candidate) => [
+    candidate.key || candidate.fileName || "unknown",
+    candidate.fileName || "",
+    candidate.category || "unknown",
+    String(candidate.mirrorCount || candidate.mirrors?.length || 0),
+    String(candidate.readyCount || candidate.readyLocalFiles?.length || 0),
+    (candidate.readyLocalFiles || []).map((file) => localLink(`${generatedRoot}/sources/missing-ready.md`, file, file)).join("<br>"),
+    candidate.externalTextAuthors?.slice(0, 4).join("<br>") || "",
+    candidate.externalTextVersions?.slice(0, 4).join("<br>") || "",
+    candidate.externalTextPurposeSignals?.slice(0, 5).join("<br>") || "",
+    (candidate.externalTextUrls || []).map((url) => link(url, url)).slice(0, 4).join("<br>") || "",
+  ]);
+
+writeDoc(
+  `${generatedRoot}/sources/missing-ready.md`,
+  [
+    "# Recovered Missing Candidates",
+    "",
+    "These are old-web candidate files that were not cleanly matched to a main catalog entry but do have at least one recovered local mirror.",
+    "",
+    table(
+      ["Key", "Filename", "Category", "Mirrors", "Ready files", "Ready local files", "Text author clues", "Text version clues", "Text purpose clues", "URLs found inside"],
+      readyMissingRows,
+    ),
+  ].join("\n"),
+);
+
+const deadLeadRows = (externalDownloads.downloads || [])
+  .filter(isDeadOrFalseLead)
+  .sort((a, b) => (a.status || "").localeCompare(b.status || "") || (a.name || "").localeCompare(b.name || ""))
+  .map((item) => [
+    item.name || fileStem(item.originalUrl || item.waybackUrl),
+    item.status || "unknown",
+    item.sourceList || "",
+    item.discoveredText || "",
+    item.dedupeNote || "",
+    item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+    item.waybackUrl || item.downloadUrl ? link(item.waybackUrl || item.downloadUrl, item.waybackUrl || item.downloadUrl) : "",
+  ]);
+
+writeDoc(
+  `${generatedRoot}/sources/dead-or-not-recovered-leads.md`,
+  [
+    "# Dead Or Not Recovered Leads",
+    "",
+    "These attempted external download leads did not produce a usable local file during the latest recovery run. Statuses such as `http-404`, `html-replay`, `invalid-archive`, and `out-of-scope` are kept so the same dead leads are not repeatedly mistaken for recovered files.",
+    "",
+    table(["File", "Status", "Source", "Label/context", "Note", "Original URL", "Wayback/download URL"], deadLeadRows),
+  ].join("\n"),
+);
+
+const programSourceLeadRows = programs
+  .map((program) => {
+    const enrichment = enrichmentFor(program);
+    const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
+    return {
+      program,
+      enrichment,
+      embedded,
+      count:
+        (enrichment.webDownloadLinks?.length || 0) +
+        (enrichment.mirrorLinks?.length || 0) +
+        (enrichment.webMentions?.length || 0) +
+        embedded.length,
+    };
+  })
+  .filter((item) => item.count > 0)
+  .map(({ program, enrichment, embedded }) => [
+    localLink(`${generatedRoot}/sources/program-source-leads.md`, displayName(program), appDocPaths.get(program.id)),
+    program.name,
+    enrichment.webMentions?.map((item) => item.sourceName || item.label).slice(0, 6).join("<br>") || "",
+    enrichment.webDownloadLinks?.map((item) => item.sourceName || item.label).slice(0, 6).join("<br>") || "",
+    enrichment.mirrorLinks?.map((item) => `${item.status || "lead"}: ${item.sourceName || item.label || "mirror"}`).slice(0, 6).join("<br>") || "",
+    embedded.map((item) => link(item.url, item.url)).slice(0, 5).join("<br>") || "",
+  ]);
+
+writeDoc(
+  `${generatedRoot}/sources/program-source-leads.md`,
+  [
+    "# Old-School Links By Program",
+    "",
+    "Per-program map of source mentions, old download pages, mirror leads, and embedded URLs found inside readable archive text.",
+    "",
+    table(["Program", "Catalog label", "Source mentions", "Old-web download sources", "Mirror lead sources/status", "Embedded URLs"], programSourceLeadRows),
+  ].join("\n"),
+);
+
+progress("plain exports");
+const programExports = programs.map(programExportRecord);
+const programExportHeaders = [
+  "index",
+  "id",
+  "bestName",
+  "catalogLabel",
+  "archiveFilename",
+  "fileSize",
+  "progType",
+  "category",
+  "platform",
+  "aolVersion",
+  "author",
+  "authorConfidence",
+  "categoryConfidence",
+  "versionConfidence",
+  "sourceConfidence",
+  "localFile",
+  "referenceUrl",
+  "rawSourceUrl",
+  "oldWebDownloadLinks",
+  "mirrorLeads",
+  "webResearchMentions",
+  "screenshots",
+  "embeddedUrls",
+  "manualReviewFlags",
+  "tags",
+  "detailPage",
+];
+writeJson(`${generatedRoot}/exports/catalog.json`, programExports);
+writeCsv(
+  `${generatedRoot}/exports/catalog.csv`,
+  programExportHeaders,
+  programExports.map((item) => programExportHeaders.map((field) => item[field])),
+);
+
+const recoveredExportHeaders = ["kind", "name", "status", "size", "bytes", "sha1", "localPath", "source", "originalUrl", "waybackUrl", "detailPage"];
+writeJson(`${generatedRoot}/exports/recovered-files.json`, recoveredFiles);
+writeCsv(
+  `${generatedRoot}/exports/recovered-files.csv`,
+  recoveredExportHeaders,
+  recoveredFiles.map((item) => recoveredExportHeaders.map((field) => item[field])),
+);
+
+const originalUrlExportHeaders = ["name", "kind", "status", "source", "url", "localPath", "detailPage"];
+writeJson(`${generatedRoot}/exports/original-download-urls.json`, originalDownloads);
+writeCsv(
+  `${generatedRoot}/exports/original-download-urls.csv`,
+  originalUrlExportHeaders,
+  originalDownloads.map((item) => originalUrlExportHeaders.map((field) => item[field])),
+);
+
+writeDoc(
+  `${generatedRoot}/exports/README.md`,
+  [
+    "# Plain Data Exports",
+    "",
+    "Plain CSV and JSON files for sorting, filtering, importing into spreadsheets, or rebuilding a later website view.",
+    "",
+    table(
+      ["Export", "Rows", "CSV", "JSON"],
+      [
+        [
+          "Main catalog with confidence fields",
+          String(programExports.length),
+          localLink(`${generatedRoot}/exports/README.md`, "catalog.csv", `${generatedRoot}/exports/catalog.csv`),
+          localLink(`${generatedRoot}/exports/README.md`, "catalog.json", `${generatedRoot}/exports/catalog.json`),
+        ],
+        [
+          "Recovered local files",
+          String(recoveredFiles.length),
+          localLink(`${generatedRoot}/exports/README.md`, "recovered-files.csv", `${generatedRoot}/exports/recovered-files.csv`),
+          localLink(`${generatedRoot}/exports/README.md`, "recovered-files.json", `${generatedRoot}/exports/recovered-files.json`),
+        ],
+        [
+          "Deduped original/download URLs",
+          String(originalDownloads.length),
+          localLink(`${generatedRoot}/exports/README.md`, "original-download-urls.csv", `${generatedRoot}/exports/original-download-urls.csv`),
+          localLink(`${generatedRoot}/exports/README.md`, "original-download-urls.json", `${generatedRoot}/exports/original-download-urls.json`),
+        ],
+      ],
+    ),
+  ].join("\n"),
+);
+
 const screenshotPrograms = programs.filter((program) => program.screenshotCount > 0);
 const readyWebAssets = (webAssets.assets || []).filter((asset) => asset.status === "ready" && asset.localPath);
 const webAssetRows = (webAssets.assets || []).map((asset) => [
+  asset.localPath ? `![${md(asset.text || "web asset")}](${relLink(`${generatedRoot}/screenshots/web-images.md`, asset.localPath)})` : "",
   asset.text || fileStem(asset.originalUrl || asset.url),
   asset.status || "unknown",
   asset.localPath ? localLink(`${generatedRoot}/screenshots/web-images.md`, asset.localPath, asset.localPath) : "",
@@ -1917,7 +2891,9 @@ writeDoc(
   [
     "# Web Image Attempts",
     "",
-    table(["Text", "Status", "Local path", "Source page", "URL", "Original URL"], webAssetRows),
+    "Ready local images include a small Markdown preview so the GitHub page is useful as a visual contact sheet.",
+    "",
+    table(["Preview", "Text", "Status", "Local path", "Source page", "URL", "Original URL"], webAssetRows),
   ].join("\n"),
 );
 
@@ -1966,6 +2942,7 @@ writeDoc(
         ["Crawled links", String(webResources.linkCount || 0)],
         ["Crawled download links", String(webResources.downloadCount || 0)],
         ["Recovered external files", String(externalDownloads.readyCount || 0)],
+        ["Local recovered file records", String(recoveredFiles.length)],
         ["External ZIPs scanned for text", String(externalArchiveText.scannedCount || 0)],
         ["External ZIPs with readable text", String(externalArchiveText.withTextFileCount || 0)],
         ["External ZIPs with author clues", String(externalArchiveText.withAuthorCount || 0)],
@@ -1974,6 +2951,11 @@ writeDoc(
         ["Missing candidates", String(missingCandidates.candidateCount || missingCandidates.candidates?.length || 0)],
         ["Recovered missing candidates", String(missingCandidates.readyCandidateCount || 0)],
         ["Master deduped link index", String(masterLinks.length)],
+        ["Deduped original/download URLs", String(originalDownloads.length)],
+        ["Programs needing manual review", String(manualReviewRows.length)],
+        ["Runtime DLL/OCX leads", String(runtimeDownloads.length)],
+        ["DeadAIM/AIM enhancer leads", String(aimEnhancerDownloads.length)],
+        ["AOL utility/client leads", String(aolUtilityDownloads.length)],
       ],
     ),
   ].join("\n"),
@@ -1990,6 +2972,18 @@ writeDoc(
       ["Term", "Type", "Description"],
       (catalog.research?.glossary || []).map((item) => [item.term, item.type, item.description]),
     ),
+    "",
+    "## Category Map",
+    "",
+    "Broad archive categories used by the generated catalog.",
+    "",
+    table(["Category", "Count", "Meaning"], categoryRows.map((row) => [row[0], row[1], row[2]])),
+    "",
+    "## Prog Type Map",
+    "",
+    "More specific inferred functions used for browsing and review.",
+    "",
+    table(["Prog type", "Count"], typeRows.map((row) => [row[0], row[1]])),
   ].join("\n"),
 );
 

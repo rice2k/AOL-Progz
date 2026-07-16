@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | external ZIP text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -99,7 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | detox server 1.0 | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip) | [http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip](http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip) |
+| LensHell mailers and servers | detox server 1.0 | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip) | [http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip](http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip) |
 
 ### Mirror Leads
 

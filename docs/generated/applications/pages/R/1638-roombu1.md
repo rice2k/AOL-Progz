@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 4 |
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | category uncertain, type uncertain, main local file missing, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -95,8 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| buster's | access roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip) | [http://lenshellarchive.com/Progs/aolbusters/access.zip](http://lenshellarchive.com/Progs/aolbusters/access.zip) |
-| Visual Basic Section | accessv1 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip) | [http://lenshellarchive.com/VBfiles/accessv1.zip](http://lenshellarchive.com/VBfiles/accessv1.zip) |
+| LensHell busters | access roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/access.zip) | [http://lenshellarchive.com/Progs/aolbusters/access.zip](http://lenshellarchive.com/Progs/aolbusters/access.zip) |
+| LensHell Visual Basic | accessv1 bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip) | [http://lenshellarchive.com/VBfiles/accessv1.zip](http://lenshellarchive.com/VBfiles/accessv1.zip) |
 | Progs Section 1 | All Access 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/allaccess2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/allaccess2.zip) | [http://www.cybernyse.com/allaccess2.zip](http://www.cybernyse.com/allaccess2.zip) |
 | LensHell AIM progs | leet link advanced access absolute edition | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip](http://lenshellarchive.com/Progs/aimprogs/misc/leetlink.zip) |
 
@@ -110,7 +115,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Load More | Leech-Access.png?fit=1024%2C1024&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/Leech-Access.png?fit=1024%2C1024&amp;ssl=1) |
 
 ## Related Indexes
 

@@ -5,6 +5,7 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | Tag | Count | Page |
 | --- | --- | --- |
 | #duplicate-metadata | 2139 | [open](duplicate-metadata.md) |
+| #needs-manual-review | 2138 | [open](needs-manual-review.md) |
 | #aol | 2119 | [open](aol.md) |
 | #has-old-web-downloads | 2009 | [open](has-old-web-downloads.md) |
 | #aol-4-0 | 1746 | [open](aol-4-0.md) |
@@ -28,10 +29,10 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | #chat-or-im-tool | 67 | [open](chat-or-im-tool.md) |
 | #aol-5-0 | 57 | [open](aol-5-0.md) |
 | #account-or-tos-tool | 51 | [open](account-or-tos-tool.md) |
+| #has-external-zip-text-evidence | 48 | [open](has-external-zip-text-evidence.md) |
 | #fader-or-text-tool | 44 | [open](fader-or-text-tool.md) |
 | #room-buster | 43 | [open](room-buster.md) |
 | #aol-6-0 | 39 | [open](aol-6-0.md) |
-| #has-external-zip-text-evidence | 39 | [open](has-external-zip-text-evidence.md) |
 | #scroller-or-macro | 38 | [open](scroller-or-macro.md) |
 | #aol-3-0 | 37 | [open](aol-3-0.md) |
 | #password-metadata | 36 | [open](password-metadata.md) |

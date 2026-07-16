@@ -45,11 +45,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 3 |
 | Matched mirror leads | 4 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -104,15 +109,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: LensHell faders | talker.zip | [http://lenshellarchive.com/Progs/aolfaders/talker.zip](http://lenshellarchive.com/Progs/aolfaders/talker.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/talker.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/talker.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | eelitetalker.zip | [http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip](http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip) | unknown | http-404 |
+| Web page: LensHell misc progs A-M | elitetalker.zip | [http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip](http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip) | unknown | http-404 |
 | Progs Section 1 | cheezy.zip | [http://www.cybernyse.com/cheezy.zip](http://www.cybernyse.com/cheezy.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/cheezy.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/cheezy.zip) | unknown | candidate |
-| prog's/misc a-m | eelitetalker.zip | [http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip](http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip) | unknown | candidate |
-| prog's/misc a-m | elitetalker.zip | [http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip](http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip) | unknown | candidate |
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| List of Hackers on AOL Chain Mail | theshittalker.jpg?fit=470%2C366&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | readme/archive text |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -100,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | APPLICATIONS | Grab It Pro | [https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip](https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/grabit_pro.zip) | [http://server38.hypermart.net/progstation/grabit_pro.zip](http://server38.hypermart.net/progstation/grabit_pro.zip) |
-| prog's/misc a-m | grabit ip grabber | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip) | [http://lenshellarchive.com/Progs/aolprogs/grabit.zip](http://lenshellarchive.com/Progs/aolprogs/grabit.zip) |
+| LensHell misc progs A-M | grabit ip grabber | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/grabit.zip) | [http://lenshellarchive.com/Progs/aolprogs/grabit.zip](http://lenshellarchive.com/Progs/aolprogs/grabit.zip) |
 | http://progstation.hypermart.net/ | grabit_pro.zip | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/grabit_pro.zip) | [http://progstation.hypermart.net/grabit_pro.zip](http://progstation.hypermart.net/grabit_pro.zip) |
 
 ### Mirror Leads

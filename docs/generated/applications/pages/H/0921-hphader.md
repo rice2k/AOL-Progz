@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 24 |
 | Web research mentions | 0 |
 | Web image leads | 12 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -152,8 +157,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Web page: http://progstation.hypermart.net/ | coolfonts.zip | [http://progstation.hypermart.net/coolfonts.zip](http://progstation.hypermart.net/coolfonts.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/coolfonts.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/coolfonts.zip) | unknown | http-404 |
 | Web page: APPLICATIONS | cutehtml.zip | [http://server38.hypermart.net/progstation/cutehtml.zip](http://server38.hypermart.net/progstation/cutehtml.zip) | [https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/cutehtml.zip](https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/cutehtml.zip) | unknown | http-404 |
 | Web page: http://progstation.hypermart.net/ | cutehtml.zip | [http://progstation.hypermart.net/cutehtml.zip](http://progstation.hypermart.net/cutehtml.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/cutehtml.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/cutehtml.zip) | unknown | http-404 |
-| ProgzRescue Angelfire files | aimspy.zip | [http://www.angelfire.com/il2/lunatic439/files/aimspy.zip](http://www.angelfire.com/il2/lunatic439/files/aimspy.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/il2/lunatic439/files/aimspy.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/il2/lunatic439/files/aimspy.zip) | unknown | ready |
-| VISUAL BASIC | dos32.zip | [http://server39.hypermart.net/wipeout/dos32.zip](http://server39.hypermart.net/wipeout/dos32.zip) | [https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip](https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip) | unknown | candidate |
+| Web page: ADOBE PLUG-INS | eyecandy.zip | [http://server38.hypermart.net/progstation/eyecandy.zip](http://server38.hypermart.net/progstation/eyecandy.zip) | [https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandy.zip](https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandy.zip) | unknown | http-404 |
+| Web page: http://progstation.hypermart.net/ | eyecandy.zip | [http://progstation.hypermart.net/eyecandy.zip](http://progstation.hypermart.net/eyecandy.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandy.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandy.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

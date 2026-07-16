@@ -46,10 +46,15 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -98,7 +103,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | nbk spammer beta 3 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip) | [http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip](http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip) |
+| LensHell misc progs N-Z | nbk spammer beta 3 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip) | [http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip](http://lenshellarchive.com/Progs/aolprogs/nbkspam.zip) |
 
 ### Mirror Leads
 

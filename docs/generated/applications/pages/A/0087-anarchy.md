@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | external ZIP text |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -99,8 +104,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| LensHell misc progs A-M | anarchy | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip) | [http://lenshellarchive.com/Progs/aolprogs/anarchy.zip](http://lenshellarchive.com/Progs/aolprogs/anarchy.zip) |
 | Click-Online AOL 4/5 progz | anarchy | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/anarchy.zip) | [http://click-online2000.com/progz/anarchy.zip](http://click-online2000.com/progz/anarchy.zip) |
-| prog's/misc a-m | anarchy | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/anarchy.zip) | [http://lenshellarchive.com/Progs/aolprogs/anarchy.zip](http://lenshellarchive.com/Progs/aolprogs/anarchy.zip) |
 | Progs Section 1 | Anarchy | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/anarchy.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/anarchy.zip) | [http://www.cybernyse.com/anarchy.zip](http://www.cybernyse.com/anarchy.zip) |
 
 ### Mirror Leads

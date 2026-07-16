@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | catalog only |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -100,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| mmer's/server's | blink mm'er | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip) | [http://lenshellarchive.com/Progs/aolmmservers/blink.zip](http://lenshellarchive.com/Progs/aolmmservers/blink.zip) |
+| LensHell mailers and servers | blink mm'er | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/blink.zip) | [http://lenshellarchive.com/Progs/aolmmservers/blink.zip](http://lenshellarchive.com/Progs/aolmmservers/blink.zip) |
 | Macintosh | Blink v 1.0 | [https://web.archive.org/web/20010202193100/http://www.cybernyse.com/bLiNkv1.0.hqx](https://web.archive.org/web/20010202193100/http://www.cybernyse.com/bLiNkv1.0.hqx) | [http://www.cybernyse.com/bLiNkv1.0.hqx](http://www.cybernyse.com/bLiNkv1.0.hqx) |
 
 ### Mirror Leads

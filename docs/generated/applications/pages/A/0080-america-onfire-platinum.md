@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -95,9 +100,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | america on fire platinum | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip) | [http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip](http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip) |
+| LensHell misc progs A-M | america on fire platinum | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip) | [http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip](http://lenshellarchive.com/Progs/aolprogs/americaonfire.zip) |
 | Progs Section 1 | America On Fire Platinum | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/americaonfireplatinum.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/americaonfireplatinum.zip) | [http://www.cybernyse.com/americaonfireplatinum.zip](http://www.cybernyse.com/americaonfireplatinum.zip) |
-| prog's/misc n-z | platinum | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/platinum.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/platinum.zip) | [http://lenshellarchive.com/Progs/aolprogs/platinum.zip](http://lenshellarchive.com/Progs/aolprogs/platinum.zip) |
+| LensHell misc progs N-Z | platinum | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/platinum.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/platinum.zip) | [http://lenshellarchive.com/Progs/aolprogs/platinum.zip](http://lenshellarchive.com/Progs/aolprogs/platinum.zip) |
 | Section 2 | Platinum | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/platinum.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/platinum.zip) | [http://www.cybernyse.com/downlowdz/platinum.zip](http://www.cybernyse.com/downlowdz/platinum.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Platinum | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/platinum.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/platinum.zip) | [http://24.185.191.87/progz/platinum.zip](http://24.185.191.87/progz/platinum.zip) |
 

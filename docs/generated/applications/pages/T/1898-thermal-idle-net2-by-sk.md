@@ -46,10 +46,15 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | author unknown, main local file missing, no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -96,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Section 2 | Thermal Idle | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thermalidle.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/thermalidle.zip) | [http://www.cybernyse.com/downlowdz/thermalidle.zip](http://www.cybernyse.com/downlowdz/thermalidle.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Thermal Idle | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thermalidle.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/thermalidle.zip) | [http://24.185.191.87/progz/thermalidle.zip](http://24.185.191.87/progz/thermalidle.zip) |
-| idler's | thermal idle 2 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/thermal2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/thermal2.zip) | [http://lenshellarchive.com/Progs/aolidlers/thermal2.zip](http://lenshellarchive.com/Progs/aolidlers/thermal2.zip) |
+| LensHell idlers | thermal idle 2 | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/thermal2.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/thermal2.zip) | [http://lenshellarchive.com/Progs/aolidlers/thermal2.zip](http://lenshellarchive.com/Progs/aolidlers/thermal2.zip) |
 
 ### Mirror Leads
 

@@ -46,10 +46,15 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Matched mirror leads | 8 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | no screenshot or image lead, no readable text evidence |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md)
 
 ## Source And Files
 
@@ -97,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Methodus Toolz downloads | Download Site #2 | [https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe](https://web.archive.org/web/20001109201900/http://methodus.bizland.com/methodus.exe) | [http://methodus.bizland.com/methodus.exe](http://methodus.bizland.com/methodus.exe) |
 | Aol 4.0/5.0 Progs | http://www.oogle.net/downloads/progs/methodus.zip | [https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip](https://web.archive.org/web/20010424150235/http://www.oogle.net/downloads/progs/methodus.zip) | [http://www.oogle.net/downloads/progs/methodus.zip](http://www.oogle.net/downloads/progs/methodus.zip) |
-| prog's/misc a-m | methodus toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip) | [http://lenshellarchive.com/Progs/aolprogs/methodus.zip](http://lenshellarchive.com/Progs/aolprogs/methodus.zip) |
+| LensHell misc progs A-M | methodus toolz | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/methodus.zip) | [http://lenshellarchive.com/Progs/aolprogs/methodus.zip](http://lenshellarchive.com/Progs/aolprogs/methodus.zip) |
 | Section 2 | Methodus Toolz | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/methodus.zip) | [http://www.cybernyse.com/downlowdz/methodus.zip](http://www.cybernyse.com/downlowdz/methodus.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Methodus Toolz | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/methodus.zip) | [http://24.185.191.87/progz/methodus.zip](http://24.185.191.87/progz/methodus.zip) |
 | LensHell AIM progs | methodus toolz 3.0 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip) | [http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip](http://lenshellarchive.com/Progs/aolprogs/methodus3b2.zip) |

@@ -46,10 +46,15 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | catalog only |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | old-web lead |
+| Manual review flags | main local file missing, no screenshot or image lead, sensitive historical category, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#room-buster](../../../tags/room-buster.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#room-buster](../../../tags/room-buster.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -95,16 +100,16 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| LensHell busters | x-bust | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xbust.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xbust.zip) | [http://lenshellarchive.com/Progs/aolbusters/xbust.zip](http://lenshellarchive.com/Progs/aolbusters/xbust.zip) |
 | Click-Online AOL 4/5 progz | x-bust | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/xbust.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/xbust.zip) | [http://click-online2000.com/progz/xbust.zip](http://click-online2000.com/progz/xbust.zip) |
-| buster's | x-bust | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xbust.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/xbust.zip) | [http://lenshellarchive.com/Progs/aolbusters/xbust.zip](http://lenshellarchive.com/Progs/aolbusters/xbust.zip) |
-| Visual Basic Section | xbust source | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip) | [http://lenshellarchive.com/VBfiles/xbustsource.zip](http://lenshellarchive.com/VBfiles/xbustsource.zip) |
+| LensHell Visual Basic | xbust source | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip) | [http://lenshellarchive.com/VBfiles/xbustsource.zip](http://lenshellarchive.com/VBfiles/xbustsource.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Click-Online AOL 4/5 progz | xbust.zip | [http://click-online2000.com/progz/xbust.zip](http://click-online2000.com/progz/xbust.zip) | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/xbust.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/xbust.zip) | unknown | http-404 |
-| Visual Basic Section | xbustsource.zip | [http://lenshellarchive.com/VBfiles/xbustsource.zip](http://lenshellarchive.com/VBfiles/xbustsource.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip) | unknown | candidate |
+| LensHell Visual Basic | xbustsource.zip | [http://lenshellarchive.com/VBfiles/xbustsource.zip](http://lenshellarchive.com/VBfiles/xbustsource.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/xbustsource.zip) | unknown | candidate |
 
 ### Web Image Leads
 

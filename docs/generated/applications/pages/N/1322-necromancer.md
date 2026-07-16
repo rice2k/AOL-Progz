@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | needs review |
+| AOL/version confidence | unknown |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, type uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -102,8 +107,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc n-z | necromancer | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/necro.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/necro.zip) | [http://lenshellarchive.com/Progs/aolprogs/necro.zip](http://lenshellarchive.com/Progs/aolprogs/necro.zip) |
-| punter's | necromancer | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/necromancer.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/necromancer.zip) | [http://lenshellarchive.com/Progs/aolpunters/necromancer.zip](http://lenshellarchive.com/Progs/aolpunters/necromancer.zip) |
+| LensHell misc progs N-Z | necromancer | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/necro.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/necro.zip) | [http://lenshellarchive.com/Progs/aolprogs/necro.zip](http://lenshellarchive.com/Progs/aolprogs/necro.zip) |
+| LensHell punters | necromancer | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/necromancer.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/necromancer.zip) | [http://lenshellarchive.com/Progs/aolpunters/necromancer.zip](http://lenshellarchive.com/Progs/aolpunters/necromancer.zip) |
 
 ### Mirror Leads
 

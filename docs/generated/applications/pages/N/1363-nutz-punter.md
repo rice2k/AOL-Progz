@@ -46,10 +46,15 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no screenshot or image lead, sensitive historical category |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#punter](../../../tags/punter.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#punter](../../../tags/punter.md)
 
 ## Source And Files
 
@@ -102,7 +107,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| punter's | nutz sax punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip) | [http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip](http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip) |
+| LensHell punters | nutz sax punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip) | [http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip](http://lenshellarchive.com/Progs/aolpunters/nutzpunter.zip) |
 
 ### Mirror Leads
 

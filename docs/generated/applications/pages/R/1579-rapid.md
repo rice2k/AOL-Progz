@@ -46,10 +46,15 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
+| Author confidence | unknown |
+| Category confidence | readme/archive text |
+| AOL/version confidence | catalog bucket |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, category uncertain, no screenshot or image lead |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -103,15 +108,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Miscellaneous Progs | rapid hacker v3.2 | [https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) | [http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) |
-| mmer's/server's | rapid server helper | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/rapid.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/rapid.zip) | [http://lenshellarchive.com/Progs/aolmmservers/rapid.zip](http://lenshellarchive.com/Progs/aolmmservers/rapid.zip) |
+| LensHell miscellaneous files | rapid hacker v3.2 | [https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) | [http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) |
+| LensHell mailers and servers | rapid server helper | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/rapid.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/rapid.zip) | [http://lenshellarchive.com/Progs/aolmmservers/rapid.zip](http://lenshellarchive.com/Progs/aolmmservers/rapid.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: idler's | crapidleremix.zip | [http://lenshellarchive.com/Progs/aolidlers/crapidleremix.zip](http://lenshellarchive.com/Progs/aolidlers/crapidleremix.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/crapidleremix.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/crapidleremix.zip) | unknown | http-404 |
-| Miscellaneous Progs | RapidHackerv32.zip | [http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) | [https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) | unknown | candidate |
+| LensHell miscellaneous files | RapidHackerv32.zip | [http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) | [https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip](https://web.archive.org/web/20111002114254/http://lenshellarchive.com/Progs/miscprogs/RapidHackerv32.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -46,10 +46,15 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
+| Author confidence | unknown |
+| Category confidence | catalog/path inferred |
+| AOL/version confidence | filename/source inferred |
+| Source confidence | local + old-web lead |
+| Manual review flags | author unknown, no readable text evidence |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md)
 
 ## Source And Files
 
@@ -95,7 +100,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| prog's/misc a-m | auto-linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/autolink.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/autolink.zip) | [http://lenshellarchive.com/Progs/aolprogs/autolink.zip](http://lenshellarchive.com/Progs/aolprogs/autolink.zip) |
+| LensHell misc progs A-M | auto-linker | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/autolink.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/autolink.zip) | [http://lenshellarchive.com/Progs/aolprogs/autolink.zip](http://lenshellarchive.com/Progs/aolprogs/autolink.zip) |
 | Progs Section 1 | Auto-Send 1.0 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/autolink.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/autolink.zip) | [http://www.cybernyse.com/autolink.zip](http://www.cybernyse.com/autolink.zip) |
 
 ### Mirror Leads
