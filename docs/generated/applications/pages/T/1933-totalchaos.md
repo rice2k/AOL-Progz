@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
 
 ## Tags
 
@@ -102,9 +102,7 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| StackQL MCP Server | total?label=github%20downloads | [https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads](https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads) | [https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads](https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

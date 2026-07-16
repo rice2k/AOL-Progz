@@ -105,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| cracker's | crackish.zip | [http://lenshellarchive.com/Progs/aolcrackers/crackish.zip](http://lenshellarchive.com/Progs/aolcrackers/crackish.zip) | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackish.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackish.zip) | unknown | candidate |
+| Web page: cracker's | crackish.zip | [http://lenshellarchive.com/Progs/aolcrackers/crackish.zip](http://lenshellarchive.com/Progs/aolcrackers/crackish.zip) | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackish.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackish.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

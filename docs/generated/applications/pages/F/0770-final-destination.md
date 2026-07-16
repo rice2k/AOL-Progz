@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 4 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 2 |
 
 ## Tags
 
@@ -114,7 +114,10 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| JustinAKAPaste AOL/AIM Progs | Final-Destination-Cover-Photo-1.png?fit=1024%2C926&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=1024%2C926&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=1024%2C926&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=1024%2C926&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=1024%2C926&amp;ssl=1) |
+| AOL Prog The ExOrCisT Video | Final-Destination-Cover-Photo-1.png?fit=75%2C68&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=75%2C68&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=75%2C68&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=75%2C68&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=75%2C68&amp;ssl=1) |
 
 ## Related Indexes
 

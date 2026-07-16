@@ -43,7 +43,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Download status | ready |
 | Local mirrored size | 842 KB |
 | Matched web download links | 3 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 - Local mirrored archive: [files/aol/aol-4-0/0405-chrome-tools-beta.zip](../../../../../files/aol/aol-4-0/0405-chrome-tools-beta.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chrometools.zip)
@@ -103,7 +103,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | chrome.zip | [http://lenshellarchive.com/Progs/aolprogs/chrome.zip](http://lenshellarchive.com/Progs/aolprogs/chrome.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip) | unknown | candidate |
+| Web page: prog's/misc a-m | chrome.zip | [http://lenshellarchive.com/Progs/aolprogs/chrome.zip](http://lenshellarchive.com/Progs/aolprogs/chrome.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip) | unknown | http-404 |
+| Web page: prog's/misc a-m | chrometools.zip | [http://lenshellarchive.com/Progs/aolprogs/chrometools.zip](http://lenshellarchive.com/Progs/aolprogs/chrometools.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrometools.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrometools.zip) | unknown | http-404 |
 | Progs Section 1 | chrome.zip | [http://www.cybernyse.com/chrome.zip](http://www.cybernyse.com/chrome.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chrome.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/chrome.zip) | unknown | candidate |
 
 ### Web Image Leads

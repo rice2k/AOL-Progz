@@ -2,7 +2,7 @@
 
 
 
-A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only.
+A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Recovered external ZIP text also suggests: Media / file utility, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -33,9 +33,9 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | Media / file utility, AOL/AIM chat utility |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -49,7 +49,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md)
+[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md)
 
 ## Source And Files
 
@@ -83,7 +83,11 @@ No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | [files/external/lenshellarchive-com/destroyer-c37f31fa.zip](../../../../../files/external/lenshellarchive-com/destroyer-c37f31fa.zip) | READ ME!!!!!!!!!.tx_ | none | none | Media / file utility<br>AOL/AIM chat utility | unknown | unknown |
 
 ### Source Mentions
 
@@ -101,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| c-coms | destroyer.zip | [http://lenshellarchive.com/Progs/aolccoms/destroyer.zip](http://lenshellarchive.com/Progs/aolccoms/destroyer.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/destroyer.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/destroyer.zip) | unknown | candidate |
+| Web page: c-coms | destroyer.zip | [http://lenshellarchive.com/Progs/aolccoms/destroyer.zip](http://lenshellarchive.com/Progs/aolccoms/destroyer.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/destroyer.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/destroyer.zip) | [files/external/lenshellarchive-com/destroyer-c37f31fa.zip](../../../../../files/external/lenshellarchive-com/destroyer-c37f31fa.zip) | ready |
 
 ### Web Image Leads
 

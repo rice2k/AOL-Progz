@@ -42,8 +42,8 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 10 |
-| Matched mirror leads | 10 |
+| Matched web download links | 5 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,8 +54,8 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1979-update.zip](../../../../../files/aol/aol-4-0/1979-update.zip)
-- Old-web / Wayback download leads: 10 link(s) listed below
-- Matched mirror leads: 10 link(s) listed below
+- Old-web / Wayback download leads: 5 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookshot roombuster 5 beta1 aol4-5.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookshot%20roombuster%205%20beta1%20aol4-5.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookshot%20roombuster%205%20beta1%20aol4-5.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookshot%20roombuster%205%20beta1%20aol4-5.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hookshot%20roombuster%205%20beta1%20aol4-5.zip)
@@ -95,16 +95,11 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Adobe/ | Adobe_Update.exe | [http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe](http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe) | [http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe](http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe) |
 | LensHell AIM progs | aim invader winsock ver 3.5 (updated) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip](http://lenshellarchive.com/Progs/aimprogs/misc/invaderupdate.zip) |
 | LensHell AIM progs | armored room crack update | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip) | [http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip](http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip) |
 | ADOBE PLUG-INS | Eye Candy Update | [https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip](https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip) | [http://server38.hypermart.net/progstation/eyecandyupdate.zip](http://server38.hypermart.net/progstation/eyecandyupdate.zip) |
 | http://progstation.hypermart.net/ | eyecandyupdate.zip | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip) | [http://progstation.hypermart.net/eyecandyupdate.zip](http://progstation.hypermart.net/eyecandyupdate.zip) |
-| Programming/ | GapDebug-2016-update-2.4.0-offline-installer-windows.exe | [http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe](http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe) | [http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe](http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe) |
-| Palm/ | OutlookConduitUpdater.zip | [http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip](http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip) | [http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip](http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip) |
-| Palm/ | PalmOutlook101UpdateENG.zip | [http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip](http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip) | [http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip](http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip) |
-| Microsoft/ | rbupdate.exe | [http://am.net/lib/TOOLS/Microsoft/rbupdate.exe](http://am.net/lib/TOOLS/Microsoft/rbupdate.exe) | [http://am.net/lib/TOOLS/Microsoft/rbupdate.exe](http://am.net/lib/TOOLS/Microsoft/rbupdate.exe) |
-| Microsoft/ | VPC2004SP1Update.zip | [http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip](http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip) | [http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip](http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip | [http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip](http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip) | [http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip](http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip) |
 
 ### Mirror Leads
 
@@ -114,12 +109,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Web page: LensHell AIM progs | armoredupdate.zip | [http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip](http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/busters/armoredupdate.zip) | unknown | html-replay |
 | ADOBE PLUG-INS | eyecandyupdate.zip | [http://server38.hypermart.net/progstation/eyecandyupdate.zip](http://server38.hypermart.net/progstation/eyecandyupdate.zip) | [https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip](https://web.archive.org/web/20010220180159/http://server38.hypermart.net/progstation/eyecandyupdate.zip) | unknown | candidate |
 | http://progstation.hypermart.net/ | eyecandyupdate.zip | [http://progstation.hypermart.net/eyecandyupdate.zip](http://progstation.hypermart.net/eyecandyupdate.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/eyecandyupdate.zip) | unknown | candidate |
-| Adobe/ | Adobe_Update.exe | [http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe](http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe) | [http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe](http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe) | unknown | candidate |
-| Programming/ | GapDebug-2016-update-2.4.0-offline-installer-windows.exe | [http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe](http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe) | [http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe](http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe) | unknown | candidate |
-| Palm/ | OutlookConduitUpdater.zip | [http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip](http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip) | [http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip](http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip) | unknown | candidate |
-| Palm/ | PalmOutlook101UpdateENG.zip | [http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip](http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip) | [http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip](http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip) | unknown | candidate |
-| Microsoft/ | rbupdate.exe | [http://am.net/lib/TOOLS/Microsoft/rbupdate.exe](http://am.net/lib/TOOLS/Microsoft/rbupdate.exe) | [http://am.net/lib/TOOLS/Microsoft/rbupdate.exe](http://am.net/lib/TOOLS/Microsoft/rbupdate.exe) | unknown | candidate |
-| Microsoft/ | VPC2004SP1Update.zip | [http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip](http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip) | [http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip](http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | ppal10502_update.zip | [http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip](http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip) | [http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip](http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip) | unknown | candidate |
 
 ### Web Image Leads
 

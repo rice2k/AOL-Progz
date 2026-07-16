@@ -43,9 +43,9 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.9 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 10 |
+| Web image leads | 12 |
 
 ## Tags
 
@@ -55,6 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0521-darker-image-final.zip](../../../../../files/aol/aol-4-0/0521-darker-image-final.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darkerimage1.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darkerimage1.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darkerimage1.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darkerimage1.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darkerimage1.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: idler's | darkerimage1.zip | [http://lenshellarchive.com/Progs/aolidlers/darkerimage1.zip](http://lenshellarchive.com/Progs/aolidlers/darkerimage1.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/darkerimage1.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/darkerimage1.zip) | unknown | http-404 |
 
 ### Web Image Leads
 
@@ -114,6 +117,8 @@ No external mirror leads are matched to this entry yet.
 | http://www.aimfilez.com/referals/referal.php?id=deadaim | image | [https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/](https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/) | [http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/](http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/) |
 | News | image | [https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\\|728x90A/](https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\|728x90A/) | [http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\\|728x90A/](http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\|728x90A/) |
 | News | image | [https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/](https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/) | [http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/](http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/) |
+| Malu Pride Programmers | image | [https://web.archive.org/web/20010714103809/http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/](https://web.archive.org/web/20010714103809/http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/) | [http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/](http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/) |
+| http://methodus2000.com | image | [http://methodus2000.com/](http://methodus2000.com/) | [http://methodus2000.com/](http://methodus2000.com/) |
 
 ## Related Indexes
 

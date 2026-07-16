@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 3 |
-| Matched mirror leads | 1 |
+| Matched web download links | 4 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/watercolors.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/watercolors.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/watercolors.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/watercolors.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/watercolors.zip)
@@ -96,6 +96,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell AIM progs | dark waterfallz v1 | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/dwfv1.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/dwfv1.zip) | [http://lenshellarchive.com/Progs/aimprogs/punters/dwfv1.zip](http://lenshellarchive.com/Progs/aimprogs/punters/dwfv1.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP | [http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP](http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP) | [http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP](http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP) |
 | LensHell faders | water colors | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/watercolors.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/watercolors.zip) | [http://lenshellarchive.com/Progs/aolfaders/watercolors.zip](http://lenshellarchive.com/Progs/aolfaders/watercolors.zip) |
 | HTML/CGI Code | watermark | [https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/watermenu.zip](https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/watermenu.zip) | [http://lenshellarchive.com/html/watermenu.zip](http://lenshellarchive.com/html/watermenu.zip) |
 
@@ -103,6 +104,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | LENA.ZIP | [http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP](http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP) | [http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP](http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP) | unknown | candidate |
 | HTML/CGI Code | watermenu.zip | [http://lenshellarchive.com/html/watermenu.zip](http://lenshellarchive.com/html/watermenu.zip) | [https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/watermenu.zip](https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/watermenu.zip) | unknown | candidate |
 
 ### Web Image Leads

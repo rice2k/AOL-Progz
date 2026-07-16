@@ -35,7 +35,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive-text purpose clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | index.html |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -43,18 +43,19 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Download status | ready |
 | Local mirrored size | 464 KB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb4-32](../../../tags/vb4-32.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0352-cccstyle-mini-toolz.zip](../../../../../files/aol/aol-4-0/0352-cccstyle-mini-toolz.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cccstyle.zip)
@@ -91,7 +92,11 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | [files/external/lenshellarchive-com/cccstyle-7a018626.zip](../../../../../files/external/lenshellarchive-com/cccstyle-7a018626.zip) | index.html | none | none | none | unknown | [http://www.flufffycow.interspeed.net/web/top.html](http://www.flufffycow.interspeed.net/web/top.html)<br>[http://www.flufffycow.interspeed.net/web/main.html](http://www.flufffycow.interspeed.net/web/main.html) |
 
 ### Source Mentions
 
@@ -107,7 +112,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | cccstyle.zip | [http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip](http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip) | [files/external/lenshellarchive-com/cccstyle-7a018626.zip](../../../../../files/external/lenshellarchive-com/cccstyle-7a018626.zip) | ready |
 
 ### Web Image Leads
 

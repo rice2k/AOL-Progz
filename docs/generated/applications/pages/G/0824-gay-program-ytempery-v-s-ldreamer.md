@@ -101,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | dream.zip | [http://lenshellarchive.com/Progs/aolprogs/dream.zip](http://lenshellarchive.com/Progs/aolprogs/dream.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip) | unknown | candidate |
+| Web page: prog's/misc a-m | dream.zip | [http://lenshellarchive.com/Progs/aolprogs/dream.zip](http://lenshellarchive.com/Progs/aolprogs/dream.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

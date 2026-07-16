@@ -45,7 +45,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched web download links | 3 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 11 |
+| Web image leads | 12 |
 
 ## Tags
 
@@ -110,6 +110,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
 | FreeProgz main | ?tag=phatone&j=n | [https://web.archive.org/web/20010516214202im_/http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n](https://web.archive.org/web/20010516214202im_/http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n) | [http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n](http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n) |
+| Aim Bit | 0.gif?tag=aimbit&j=n | [https://web.archive.org/web/20030613123619im_/http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n](https://web.archive.org/web/20030613123619im_/http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n) | [http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n](http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n) |
 | AIMFilez files | 0.gif?tag=aimfilez&j=n | [https://web.archive.org/web/20040405183602im_/http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n](https://web.archive.org/web/20040405183602im_/http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n) | [http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n](http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n) |
 | Privacy Policy | 0.gif?tag=aimfilez&j=n | [http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n](http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n) | [http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n](http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n) |
 | AimThings | 0.gif?tag=aimthing&j=n | [https://web.archive.org/web/20030623040448im_/http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n](https://web.archive.org/web/20030623040448im_/http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n) | [http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n](http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n) |

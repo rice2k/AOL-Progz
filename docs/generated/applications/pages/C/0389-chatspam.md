@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
 | Matched web download links | 4 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aim/aol-4-0/0389-chatspam.zip](../../../../../files/aim/aol-4-0/0389-chatspam.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatspam.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatspam.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatspam.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatspam.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatspam.zip)
@@ -105,6 +105,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: 8 | chatspam.exe | [http://aimfilez.com/files/chatspam.exe](http://aimfilez.com/files/chatspam.exe) | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/chatspam.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/chatspam.exe) | [files/external/aimfilez-com/chatspam-d24c653a.exe](../../../../../files/external/aimfilez-com/chatspam-d24c653a.exe) | ready |
+| Web page: prog's/misc a-m | chatspam.zip | [http://lenshellarchive.com/Progs/aolprogs/chatspam.zip](http://lenshellarchive.com/Progs/aolprogs/chatspam.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip) | unknown | http-404 |
+| Web page: Aim Filez | chatspam.zip | [http://aimthings.com/aimfilez/chatspam.zip](http://aimthings.com/aimfilez/chatspam.zip) | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/chatspam.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/chatspam.zip) | unknown | http-404 |
+| Web page: LensHell AIM progs | chatspam.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip](http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

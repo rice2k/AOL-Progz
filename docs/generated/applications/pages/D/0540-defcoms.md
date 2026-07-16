@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility. Recovered external ZIP text also suggests: C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,14 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | AOL 4, AOL 5 |
-| External ZIP text version mentions | unknown |
+| External ZIP text version mentions | AOL 4, AOL 5 |
 | Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility |
 | Archive text files reviewed | readme.txt |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB5 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -43,18 +43,19 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.2 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0540-defcoms.zip](../../../../../files/aol/aol-4-0/0540-defcoms.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/defcoms2.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/defcoms2.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/defcoms2.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/defcoms2.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/defcoms2.zip)
@@ -86,7 +87,11 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | [files/external/lenshellarchive-com/defcoms2-a7622866.zip](../../../../../files/external/lenshellarchive-com/defcoms2-a7622866.zip) | readme.txt | none | AOL 4<br>AOL 5 | C-Com / command list<br>Scroller / macro<br>Screen-name utility<br>AOL/AIM chat utility | sup! thank you for using my newest ccom called def coms version two!<br>screen name features (new, delete)<br>thanks again for using this program. | unknown |
 
 ### Source Mentions
 
@@ -102,7 +107,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | defcoms2.zip | [http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip](http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip) | [files/external/lenshellarchive-com/defcoms2-a7622866.zip](../../../../../files/external/lenshellarchive-com/defcoms2-a7622866.zip) | ready |
 
 ### Web Image Leads
 

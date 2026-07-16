@@ -45,7 +45,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched web download links | 12 |
 | Matched mirror leads | 6 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 9 |
 
 ## Tags
 
@@ -127,7 +127,15 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
+| AOL Spam | AOL-Phishing-Phrases.png?fit=757%2C519&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?fit=757%2C519&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?fit=757%2C519&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?fit=757%2C519&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?fit=757%2C519&amp;ssl=1) |
+| Old AOL Phishing Phrases | AOL-Phishing-Phrases.png?resize=583%2C400&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?resize=583%2C400&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?resize=583%2C400&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?resize=583%2C400&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?resize=583%2C400&#038;ssl=1) |
+| https://justinakapaste.com/methodus-toolz/ | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1) |
+| https://justinakapaste.com/methodus-toolz/ | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1) |
+| Old AOL Phishing Phrases | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1) |
+| AOL | https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png | [https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png](https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png) | [https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png](https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png) |
 | Methodus Toolz screenshots | Phisher/Mass IMer | [https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg](https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg) | [http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg](http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg) |
+| https://justinakapaste.com/methodus-toolz/ | phishmassim.jpg?resize=210%2C456&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?resize=210%2C456&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?resize=210%2C456&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?resize=210%2C456&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?resize=210%2C456&#038;ssl=1) |
+| https://justinakapaste.com/methodus-toolz/ | phishtank.jpg?resize=309%2C252&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?resize=309%2C252&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?resize=309%2C252&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?resize=309%2C252&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?resize=309%2C252&#038;ssl=1) |
 
 ## Related Indexes
 

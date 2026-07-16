@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 8 |
-| Matched mirror leads | 6 |
+| Matched web download links | 9 |
+| Matched mirror leads | 7 |
 | Web research mentions | 1 |
 | Web image leads | 1 |
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-3-0/0531-death.zip](../../../../../files/aol/aol-3-0/0531-death.zip)
-- Old-web / Wayback download leads: 8 link(s) listed below
-- Matched mirror leads: 6 link(s) listed below
+- Old-web / Wayback download leads: 9 link(s) listed below
+- Matched mirror leads: 7 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/black death ultra 2.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/black%20death%20ultra%202.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/black%20death%20ultra%202.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/black%20death%20ultra%202.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/black%20death%20ultra%202.zip)
@@ -106,6 +106,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | LensHell AIM progs | death by aim | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) |
 | Progs Section 1 | Death Com 2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dcom2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/dcom2.zip) | [http://www.cybernyse.com/dcom2.zip](http://www.cybernyse.com/dcom2.zip) |
 | Progs Section 1 | Death Com 3 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip) | [http://www.cybernyse.com/deathcom3.zip](http://www.cybernyse.com/deathcom3.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP | [http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP](http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP) | [http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP](http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP) |
 | prog's/misc a-m | kaotic death toolz beta2 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip) | [http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip](http://lenshellarchive.com/Progs/aolprogs/kdtbeta.zip) |
 | Yahoo Progs | silver death | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip) |
 | Yahoo Progs | touch of death | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip) | [http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip) |
@@ -115,9 +116,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | shitclub.zip | [http://www.angelfire.com/de2/deathtosclub7/images/shitclub.zip](http://www.angelfire.com/de2/deathtosclub7/images/shitclub.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/de2/deathtosclub7/images/shitclub.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/de2/deathtosclub7/images/shitclub.zip) | [files/external/angelfire-com/shitclub.zip](../../../../../files/external/angelfire-com/shitclub.zip) | ready |
-| prog's/misc a-m | cpudeathping2.zip | [http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) | unknown | candidate |
-| LensHell AIM progs | deathbyaim.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) | unknown | candidate |
+| Web page: prog's/misc a-m | cpudeathping2.zip | [http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip) | unknown | http-404 |
+| Web page: LensHell AIM progs | deathbyaim.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip) | unknown | http-404 |
 | Progs Section 1 | deathcom3.zip | [http://www.cybernyse.com/deathcom3.zip](http://www.cybernyse.com/deathcom3.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | DeathWishDog.ZIP | [http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP](http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP) | [http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP](http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP) | unknown | candidate |
 | Yahoo Progs | silverdeath.zip | [http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip) | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/silverdeath.zip) | unknown | candidate |
 | Yahoo Progs | touchofdeath.zip | [http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip) | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/touchofdeath.zip) | unknown | candidate |
 

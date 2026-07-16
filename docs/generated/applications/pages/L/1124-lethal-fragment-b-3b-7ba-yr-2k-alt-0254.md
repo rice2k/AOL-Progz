@@ -45,7 +45,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Matched web download links | 4 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 2 |
 
 ## Tags
 
@@ -105,7 +105,10 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| JustinAKAPaste AOL/AIM Progs | LETHAL-FRAGMENT.png?fit=1376%2C677&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=1376%2C677&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=1376%2C677&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=1376%2C677&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=1376%2C677&amp;ssl=1) |
+| Prog Video \| Rampage Toolz | LETHAL-FRAGMENT.png?fit=75%2C37&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=75%2C37&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=75%2C37&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=75%2C37&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=75%2C37&amp;ssl=1) |
 
 ## Related Indexes
 

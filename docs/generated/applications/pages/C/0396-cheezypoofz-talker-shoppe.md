@@ -43,9 +43,9 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 786 KB |
 | Matched web download links | 3 |
-| Matched mirror leads | 3 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -55,7 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0396-cheezypoofz-talker-shoppe.zip](../../../../../files/aol/aol-4-0/0396-cheezypoofz-talker-shoppe.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/talker.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/talker.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/talker.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/talker.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/talker.zip)
@@ -103,13 +103,16 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: LensHell faders | talker.zip | [http://lenshellarchive.com/Progs/aolfaders/talker.zip](http://lenshellarchive.com/Progs/aolfaders/talker.zip) | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/talker.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/talker.zip) | unknown | http-404 |
 | Progs Section 1 | cheezy.zip | [http://www.cybernyse.com/cheezy.zip](http://www.cybernyse.com/cheezy.zip) | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/cheezy.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/cheezy.zip) | unknown | candidate |
 | prog's/misc a-m | eelitetalker.zip | [http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip](http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/eelitetalker.zip) | unknown | candidate |
 | prog's/misc a-m | elitetalker.zip | [http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip](http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/elitetalker.zip) | unknown | candidate |
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| List of Hackers on AOL Chain Mail | theshittalker.jpg?fit=470%2C366&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1) |
 
 ## Related Indexes
 

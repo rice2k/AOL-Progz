@@ -42,10 +42,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 4 |
+| Matched web download links | 6 |
 | Matched mirror leads | 24 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 2 |
 
 ## Tags
 
@@ -54,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0297-break.zip](../../../../../files/aol/aol-4-0/0297-break.zip)
-- Old-web / Wayback download leads: 4 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
 - Matched mirror leads: 24 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter break for aol 4.0 and 5.0 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/winter%20break%20for%20aol%204.0%20and%205.0%20yr2000.zip)
@@ -100,6 +100,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip | [http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip](http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip) | [http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip](http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip) |
 | prog's/misc n-z | spring break | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/sb.zip) | [http://lenshellarchive.com/Progs/aolprogs/sb.zip](http://lenshellarchive.com/Progs/aolprogs/sb.zip) |
 | Section 2 | Spring Break | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sb.zip) | [http://www.cybernyse.com/downlowdz/sb.zip](http://www.cybernyse.com/downlowdz/sb.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Spring Break | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sb.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sb.zip) | [http://24.185.191.87/progz/sb.zip](http://24.185.191.87/progz/sb.zip) |
@@ -136,7 +138,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| https://justinakapaste.com/methodus-toolz/ | breakout1.gif?resize=642%2C554&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?resize=642%2C554&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?resize=642%2C554&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?resize=642%2C554&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?resize=642%2C554&#038;ssl=1) |
+| https://justinakapaste.com/methodus-toolz/ | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1) |
 
 ## Related Indexes
 

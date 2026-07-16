@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 482 KB |
 | Matched web download links | 3 |
-| Matched mirror leads | 4 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0413-cidle.zip](../../../../../files/aol/aol-4-0/0413-cidle.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 4 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cidle.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cidle.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cidle.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cidle.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cidle.zip)
@@ -103,9 +103,10 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| Web page: idler's | chronicidle.zip | [http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip](http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip) | unknown | http-404 |
+| Web page: idler's | cidle.zip | [http://lenshellarchive.com/Progs/aolidlers/cidle.zip](http://lenshellarchive.com/Progs/aolidlers/cidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cidle.zip) | unknown | http-404 |
 | Section 2 | suicidle.zip | [http://www.cybernyse.com/downlowdz/suicidle.zip](http://www.cybernyse.com/downlowdz/suicidle.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/suicidle.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/suicidle.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | suicidle.zip | [http://24.185.191.87/progz/suicidle.zip](http://24.185.191.87/progz/suicidle.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/suicidle.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/suicidle.zip) | unknown | candidate |
-| idler's | chronicidle.zip | [http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip](http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip) | unknown | candidate |
 | idler's | tncidle.zip | [http://lenshellarchive.com/Progs/aolidlers/tncidle.zip](http://lenshellarchive.com/Progs/aolidlers/tncidle.zip) | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tncidle.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/tncidle.zip) | unknown | candidate |
 
 ### Web Image Leads

@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
-| Matched web download links | 1 |
-| Matched mirror leads | 10 |
+| Matched web download links | 2 |
+| Matched mirror leads | 11 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0852-gold.zip](../../../../../files/aol/aol-4-0/0852-gold.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 10 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 11 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/golden.zip)
@@ -101,6 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | x'ers | golden xer | [https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip](https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/golden.zip) | [http://lenshellarchive.com/Progs/aolxers/golden.zip](http://lenshellarchive.com/Progs/aolxers/golden.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP | [http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP](http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP) | [http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP](http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP) |
 
 ### Mirror Leads
 
@@ -116,6 +117,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | ProgzRescue Angelfire files | vb40016.zip | [http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip](http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/ns/gooeyfiles/images/vb3.zip) | unknown | ready |
 | User-supplied ColtPro missing DLL/OCX files | vb40016.zip | [http://www.coltpro.net/files3/missings/VB40032.DLL](http://www.coltpro.net/files3/missings/VB40032.DLL) | [https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL](https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/VB40032.DLL) | unknown | ready |
 | ProgzRescue Angelfire files | vb40016.zip | [http://www.angelfire.com/biz7/free_things/vb.zip](http://www.angelfire.com/biz7/free_things/vb.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip) | unknown | ready |
+| found-geocities-silicon-valley-files.txt | goldenbutterfly.ZIP | [http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP](http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP) | [http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP](http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP) | unknown | candidate |
 
 ### Web Image Leads
 

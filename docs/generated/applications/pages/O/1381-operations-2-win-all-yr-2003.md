@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 2 |
 
 ## Tags
 
@@ -104,6 +104,7 @@ No external mirror leads are matched to this entry yet.
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
+| AIM Express Scam Site | chatoperator.jpg?fit=265%2C160&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/chatoperator.jpg?fit=265%2C160&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/chatoperator.jpg?fit=265%2C160&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/chatoperator.jpg?fit=265%2C160&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/chatoperator.jpg?fit=265%2C160&amp;ssl=1) |
 | LensHellArchive Games | operation | [https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/operation](https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/operation) | [http://lenshellarchive.com/images/operation](http://lenshellarchive.com/images/operation) |
 
 ## Related Indexes

@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.0 MB |
-| Matched web download links | 1 |
+| Matched web download links | 2 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -54,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0872-guardian.zip](../../../../../files/aol/aol-4-0/0872-guardian.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/guardian.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/guardian.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/guardian.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/guardian.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/guardian.zip)
@@ -95,6 +95,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | prog's/misc a-m | guardian | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/guardian.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/guardian.zip) | [http://lenshellarchive.com/Progs/aolprogs/guardian.zip](http://lenshellarchive.com/Progs/aolprogs/guardian.zip) |
+| found-geocities-silicon-valley-files.txt | http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip | [http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip](http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip) | [http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip](http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip) |
 
 ### Mirror Leads
 

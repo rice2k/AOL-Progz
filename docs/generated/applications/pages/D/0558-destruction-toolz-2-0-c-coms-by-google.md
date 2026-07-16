@@ -2,7 +2,7 @@
 
 
 
-A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface. Readable archive text also suggests: All-in-one prog suite, Fader / text styler, Idler / AFK bot, C-Com / command list, Scroller / macro, Media / file utility.
+A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, linkers, file helpers, and other scene features in one interface. Readable archive text also suggests: All-in-one prog suite, Fader / text styler, Idler / AFK bot, C-Com / command list, Scroller / macro, Media / file utility. Recovered external ZIP text also suggests: All-in-one prog suite, Fader / text styler, Idler / AFK bot, C-Com / command list, Scroller / macro, Media / file utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -33,9 +33,9 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Fader / text styler, Idler / AFK bot, C-Com / command list, Scroller / macro, Media / file utility, AOL/AIM chat utility |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | All-in-one prog suite, Fader / text styler, Idler / AFK bot, C-Com / command list, Scroller / macro, Media / file utility, AOL/AIM chat utility |
 | Archive text files reviewed | Chat Commands.txt |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | p-code |
 | Duplicate count | 2 |
@@ -43,18 +43,19 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Download status | ready |
 | Local mirrored size | 1.5 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0558-destruction-toolz-2-0-c-coms-by-google.zip](../../../../../files/aol/aol-4-0/0558-destruction-toolz-2-0-c-coms-by-google.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dt20.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dt20.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dt20.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dt20.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dt20.zip)
@@ -86,7 +87,11 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | [files/external/lenshellarchive-com/dt20-a5cf5de5.zip](../../../../../files/external/lenshellarchive-com/dt20-a5cf5de5.zip) | Chat Commands.txt | Google | none | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>C-Com / command list<br>Scroller / macro<br>Media / file utility | unknown | unknown |
 
 ### Source Mentions
 
@@ -103,7 +108,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | dt20.zip | [http://lenshellarchive.com/Progs/aolccoms/dt20.zip](http://lenshellarchive.com/Progs/aolccoms/dt20.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dt20.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dt20.zip) | [files/external/lenshellarchive-com/dt20-a5cf5de5.zip](../../../../../files/external/lenshellarchive-com/dt20-a5cf5de5.zip) | ready |
 
 ### Web Image Leads
 

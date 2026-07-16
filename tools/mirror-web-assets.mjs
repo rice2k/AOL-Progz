@@ -61,8 +61,10 @@ function isLikelyArchiveAsset(link) {
   }
   const host = parsed.hostname.toLowerCase().replace(/^www\./, "");
   const full = `${host}${parsed.pathname}`.toLowerCase();
-  if (/(githubusercontent|go2net|akamai|doubleclick|advert|banner|ads\/)/.test(full)) return false;
-  return /(methodus2000|methodus\.atfreeweb|lenshellarchive|freeprogz|oogle\.net|aol-progz|aimthings|spaceports|hypermart|geocities|8op\.com|coolkid|text2k|angelfire|rexflex|aciddr0p|koin)/.test(
+  if (/(githubusercontent|go2net|akamai|doubleclick|advert|ads\/|avatar|gravatar|logo|favicon|sprite|emoji|button|rss|facebook|youtube|donate)/.test(full)) {
+    return false;
+  }
+  return /(methodus2000|methodus\.atfreeweb|lenshellarchive|freeprogz|oogle\.net|aol-progz|aimthings|spaceports|hypermart|geocities|8op\.com|coolkid|text2k|angelfire|rexflex|aciddr0p|koin|aolunderground|justinakapaste|plozee|mattmazur|patorjk)/.test(
     full,
   );
 }
@@ -71,8 +73,11 @@ function assetPriority(link) {
   const original = originalFromWayback(link.url).toLowerCase();
   const text = String(link.text || "").toLowerCase();
   if (/methodus2000|methodus\.atfreeweb|methimages|methodus\.bizland/.test(original)) return 0;
-  if (/screenshots?|screen|main|fader|macro|phish|netbus|skin/.test(`${original} ${text}`)) return 1;
+  if (/screenshots?|screen|main|fader|macro|phish|netbus|skin|prog|toolz|aol|aim|punter|idler|fate|revolution|methodus|deadaim|rampage/.test(`${original} ${text}`)) {
+    return 1;
+  }
   if (/freeprogz|oogle\.net|aol-progz|aimthings|geocities|8op\.com|coolkid|text2k/.test(original)) return 2;
+  if (/aolunderground|justinakapaste|plozee|mattmazur|patorjk/.test(original)) return 3;
   if (/lenshellarchive\/images\/\d+\.png/.test(original)) return 9;
   return 5;
 }

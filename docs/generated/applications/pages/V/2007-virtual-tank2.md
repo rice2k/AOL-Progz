@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 0 |
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -98,7 +98,9 @@ No external mirror leads are matched to this entry yet.
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| Yahoo Progs | virtualtank.jpg?fit=177%2C150&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/virtualtank.jpg?fit=177%2C150&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/virtualtank.jpg?fit=177%2C150&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/virtualtank.jpg?fit=177%2C150&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/virtualtank.jpg?fit=177%2C150&amp;ssl=1) |
 
 ## Related Indexes
 

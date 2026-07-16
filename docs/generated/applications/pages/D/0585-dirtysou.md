@@ -43,9 +43,9 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 426 KB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 3 |
 
 ## Tags
 
@@ -55,6 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0585-dirtysou.zip](../../../../../files/aol/aol-4-0/0585-dirtysou.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dirty.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dirty.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dirty.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dirty.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dirty.zip)
@@ -102,12 +103,16 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | dirty.zip | [http://lenshellarchive.com/Progs/aolprogs/dirty.zip](http://lenshellarchive.com/Progs/aolprogs/dirty.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dirty.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dirty.zip) | unknown | http-404 |
 
 ### Web Image Leads
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
+| https://justinakapaste.com/methodus-toolz/ | dirty1.gif?resize=516%2C538&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?resize=516%2C538&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?resize=516%2C538&#038;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?resize=516%2C538&#038;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?resize=516%2C538&#038;ssl=1) |
+| https://justinakapaste.com/methodus-toolz/ | https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1) |
 | Methodus Toolz screenshots | Shoot Dirty People Game | [https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/game.jpg](https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/game.jpg) | [http://www.methodus2000.com/methodustoolz/screenshots/game.jpg](http://www.methodus2000.com/methodustoolz/screenshots/game.jpg) |
 
 ## Related Indexes

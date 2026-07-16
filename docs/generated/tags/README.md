@@ -6,7 +6,7 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | --- | --- | --- |
 | #duplicate-metadata | 2139 | [open](duplicate-metadata.md) |
 | #aol | 2119 | [open](aol.md) |
-| #has-old-web-downloads | 2008 | [open](has-old-web-downloads.md) |
+| #has-old-web-downloads | 2009 | [open](has-old-web-downloads.md) |
 | #aol-4-0 | 1746 | [open](aol-4-0.md) |
 | #file-ready | 1672 | [open](file-ready.md) |
 | #uncategorized | 1596 | [open](uncategorized.md) |
@@ -31,11 +31,11 @@ Tags are generated from platform, AOL version bucket, inferred category, Visual 
 | #fader-or-text-tool | 44 | [open](fader-or-text-tool.md) |
 | #room-buster | 43 | [open](room-buster.md) |
 | #aol-6-0 | 39 | [open](aol-6-0.md) |
+| #has-external-zip-text-evidence | 39 | [open](has-external-zip-text-evidence.md) |
 | #scroller-or-macro | 38 | [open](scroller-or-macro.md) |
 | #aol-3-0 | 37 | [open](aol-3-0.md) |
 | #password-metadata | 36 | [open](password-metadata.md) |
 | #aol-2-5 | 33 | [open](aol-2-5.md) |
-| #has-external-zip-text-evidence | 29 | [open](has-external-zip-text-evidence.md) |
 | #punter | 27 | [open](punter.md) |
 | #aim | 20 | [open](aim.md) |
 | #mass-mailer | 19 | [open](mass-mailer.md) |

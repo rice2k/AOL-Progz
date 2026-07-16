@@ -105,7 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| punter's | chamberbomb.zip | [http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) | unknown | candidate |
+| Web page: punter's | chamberbomb.zip | [http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

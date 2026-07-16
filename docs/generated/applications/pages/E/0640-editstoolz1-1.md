@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 749 KB |
-| Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched web download links | 3 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0640-editstoolz1-1.zip](../../../../../files/aol/aol-4-0/0640-editstoolz1-1.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/edits.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/edits.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/edits.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/edits.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/edits.zip)
@@ -100,10 +101,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | prog's/misc a-m | edit's toolz 1.1 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edits.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/edits.zip) | [http://lenshellarchive.com/Progs/aolprogs/edits.zip](http://lenshellarchive.com/Progs/aolprogs/edits.zip) |
 | Progs Section 1 | Edit's Toolz 1.1 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/edits.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/edits.zip) | [http://www.cybernyse.com/edits.zip](http://www.cybernyse.com/edits.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | credits.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -43,7 +43,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 1.5 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 - Local mirrored archive: [files/aol/aol-4-0/0380-chat-phucka-by-fo0-beta.zip](../../../../../files/aol/aol-4-0/0380-chat-phucka-by-fo0-beta.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatphucka.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatphucka.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatphucka.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatphucka.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chatphucka.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | chatphucka.zip | [http://lenshellarchive.com/Progs/aolprogs/chatphucka.zip](http://lenshellarchive.com/Progs/aolprogs/chatphucka.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatphucka.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatphucka.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

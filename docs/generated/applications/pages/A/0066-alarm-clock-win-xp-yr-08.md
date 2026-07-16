@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.6 MB |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 5 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0066-alarm-clock.zip](../../../../../files/aol/aol-4-0/0066-alarm-clock.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 5 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alarm clock for aol 9.0 winXP yr08.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alarm%20clock%20for%20aol%209.0%20winXP%20yr08.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alarm%20clock%20for%20aol%209.0%20winXP%20yr08.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alarm%20clock%20for%20aol%209.0%20winXP%20yr08.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/alarm%20clock%20for%20aol%209.0%20winXP%20yr08.zip)
@@ -95,10 +96,19 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | prog's/misc a-m | alarm clock | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alarmclock.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/alarmclock.zip) | [http://lenshellarchive.com/Progs/aolprogs/alarmclock.zip](http://lenshellarchive.com/Progs/aolprogs/alarmclock.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/9000/clock.zip | [http://www.geocities.com:80/SiliconValley/9000/clock.zip](http://www.geocities.com:80/SiliconValley/9000/clock.zip) | [http://www.geocities.com:80/SiliconValley/9000/clock.zip](http://www.geocities.com:80/SiliconValley/9000/clock.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip | [http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip](http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip) | [http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip](http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/4803/clock.zip | [http://www.geocities.com/SiliconValley/Bay/4803/clock.zip](http://www.geocities.com/SiliconValley/Bay/4803/clock.zip) | [http://www.geocities.com/SiliconValley/Bay/4803/clock.zip](http://www.geocities.com/SiliconValley/Bay/4803/clock.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | clock.zip | [http://www.geocities.com:80/SiliconValley/9000/clock.zip](http://www.geocities.com:80/SiliconValley/9000/clock.zip) | [http://www.geocities.com:80/SiliconValley/9000/clock.zip](http://www.geocities.com:80/SiliconValley/9000/clock.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | clock.zip | [http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip](http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip) | [http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip](http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | clock.zip | [http://www.geocities.com/SiliconValley/Bay/4803/clock.zip](http://www.geocities.com/SiliconValley/Bay/4803/clock.zip) | [http://www.geocities.com/SiliconValley/Bay/4803/clock.zip](http://www.geocities.com/SiliconValley/Bay/4803/clock.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | clock.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip) | unknown | candidate |
 
 ### Web Image Leads
 

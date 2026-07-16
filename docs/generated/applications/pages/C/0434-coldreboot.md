@@ -42,7 +42,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 443 KB |
-| Matched web download links | 2 |
+| Matched web download links | 1 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -54,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-3-0/0434-cold.zip](../../../../../files/aol/aol-3-0/0434-cold.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
 - Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/coldreboot.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/coldreboot.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/coldreboot.zip)
@@ -96,13 +96,12 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | punter's | cold reboot | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip) | [http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip](http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip) |
-| AM/ | REBOOT.EXE | [http://am.net/lib/TOOLS/AM/REBOOT.EXE](http://am.net/lib/TOOLS/AM/REBOOT.EXE) | [http://am.net/lib/TOOLS/AM/REBOOT.EXE](http://am.net/lib/TOOLS/AM/REBOOT.EXE) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| AM/ | REBOOT.EXE | [http://am.net/lib/TOOLS/AM/REBOOT.EXE](http://am.net/lib/TOOLS/AM/REBOOT.EXE) | [http://am.net/lib/TOOLS/AM/REBOOT.EXE](http://am.net/lib/TOOLS/AM/REBOOT.EXE) | unknown | candidate |
+| Web page: punter's | coldreboot.zip | [http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip](http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

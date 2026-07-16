@@ -118,7 +118,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
-| StackQL MCP Server | platform-windows%20macos%20linux-brightgreen?style=flat-square | [https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square](https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square) | [https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square](https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square) |
+| AOL Logos | aol-communications-red-green-small-22501.jpg?fit=600%2C399&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1) |
 
 ## Related Indexes
 

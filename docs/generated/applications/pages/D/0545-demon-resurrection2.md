@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
-| Matched web download links | 5 |
-| Matched mirror leads | 2 |
+| Matched web download links | 4 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0545-demon-resurrection2.zip](../../../../../files/aol/aol-4-0/0545-demon-resurrection2.zip)
-- Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demon.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demon.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demon.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demon.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/demon.zip)
@@ -103,7 +103,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Anti-Spyware/ | BHODemon.exe | [http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe](http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe) | [http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe](http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe) |
 | Progs Section 1 | Demon 2000 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/demon2000.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/demon2000.zip) | [http://www.cybernyse.com/demon2000.zip](http://www.cybernyse.com/demon2000.zip) |
 | punter's | demon resurrection | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip) | [http://lenshellarchive.com/Progs/aolpunters/demon.zip](http://lenshellarchive.com/Progs/aolpunters/demon.zip) |
 | punter's | demon resurrection² | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip) | [http://lenshellarchive.com/Progs/aolpunters/demon2.zip](http://lenshellarchive.com/Progs/aolpunters/demon2.zip) |
@@ -113,8 +112,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Anti-Spyware/ | BHODemon.exe | [http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe](http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe) | [http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe](http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe) | unknown | candidate |
-| Yahoo Progs | demonslash.zip | [http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip) | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip) | unknown | candidate |
+| Web page: punter's | demon.zip | [http://lenshellarchive.com/Progs/aolpunters/demon.zip](http://lenshellarchive.com/Progs/aolpunters/demon.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip) | unknown | http-404 |
+| Web page: punter's | demon2.zip | [http://lenshellarchive.com/Progs/aolpunters/demon2.zip](http://lenshellarchive.com/Progs/aolpunters/demon2.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip) | unknown | http-404 |
+| Web page: Yahoo Progs | demonslash.zip | [http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip](http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip) | [https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip](https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

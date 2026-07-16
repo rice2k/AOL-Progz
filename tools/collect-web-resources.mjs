@@ -89,6 +89,76 @@ const pages = [
       "Digital5k article with AOL prog history, named programs/authors, screenshots, and AOL version context for Digital Dynasty and related progs.",
   },
   {
+    name: "AOLUnderground ProGGieS",
+    url: "https://aolunderground.com/proggies/",
+    kind: "scene index",
+    notes:
+      "AOLUnderground ProGGieS index with program names, missing-prog calls, category context, passwords, screenshots, and archive leads.",
+  },
+  {
+    name: "JustinAKAPaste AOL/AIM Progs",
+    url: "https://justinakapaste.com/category/aol-progs/",
+    kind: "large web archive",
+    notes:
+      "JustinAKAPaste AOL/AIM Progs category with prog videos, screenshots, readme material, named tools, and author/context clues.",
+  },
+  {
+    name: "JustinAKAPaste AOL/AIM Prog Read Mes",
+    url: "https://justinakapaste.com/category/aolaim-prog-read-mes/",
+    kind: "readme archive",
+    notes:
+      "JustinAKAPaste readme category with author, contact, feature, version, and usage-era clues for individual AOL/AIM progs.",
+  },
+  {
+    name: "JustinAKAPaste AOL Progz tag",
+    url: "https://justinakapaste.com/tag/aolprogz/",
+    kind: "prog tag archive",
+    notes: "JustinAKAPaste aolprogz tag page, retained for additional named prog/readme evidence.",
+  },
+  {
+    name: "JustinAKAPaste AOL sites page 2",
+    url: "https://justinakapaste.com/tag/aolsites/page/2/",
+    kind: "AOL site archive",
+    notes: "JustinAKAPaste AOL-sites tag page with old website and prog-scene source leads.",
+  },
+  {
+    name: "JustinAKAPaste thanks",
+    url: "https://justinakapaste.com/thanks/",
+    kind: "archive provenance",
+    notes: "JustinAKAPaste provenance page naming contributors and donated AOL/AIM files, screenshots, and site archives.",
+  },
+  {
+    name: "Plozee AOL proggies history",
+    url: "https://plozee.com/aol-proggies-and-punters-a-neglected-part-of-internet-history/",
+    kind: "context article",
+    notes:
+      "Plozee context article for proggies, punters, room busters, mass mailers, idlers, macro/ASCII tools, and teen Visual Basic culture.",
+  },
+  {
+    name: "Matt Mazur Revolution",
+    url: "https://mattmazur.com/2009/05/13/revolution/",
+    kind: "program recollection",
+    notes: "Matt Mazur post mentioning Revolution and the AOL proggie vocabulary around laggers, punters, and faders.",
+  },
+  {
+    name: "PatorJK Fate Zero",
+    url: "https://patorjk.com/blog/2012/05/03/cracking-magus-fate-zero-encryption/",
+    kind: "program recollection",
+    notes: "PatorJK post and comments with Fate Zero, Seadoo, TacoBell Toolz, and related AOL proggie recollections.",
+  },
+  {
+    name: "VBForums AOL prog project",
+    url: "https://www.vbforums.com/showthread.php?105720-AOL-PROG-project=",
+    kind: "developer forum context",
+    notes: "VBForums discussion retained for historical program-name leads such as Eclypse and LensHell references.",
+  },
+  {
+    name: "AnandTech DeadAIM request",
+    url: "https://forums.anandtech.com/threads/can-someone-download-deadaim-and-send-it-to-me-via-aim.1036165/",
+    kind: "AIM enhancement context",
+    notes: "Forum thread showing DeadAIM distribution/availability context during the AIM era.",
+  },
+  {
     name: "AOL client and AIM version directory",
     url: "https://am.net/lib/TOOLS/AOL/",
     kind: "AOL/AIM client download directory",
@@ -356,6 +426,7 @@ function resolveHref(href, pageUrl) {
   if (!href) return "";
   let value = href.trim();
   if (!value || value.startsWith("#") || /^javascript:/i.test(value)) return "";
+  if (/^(?:data|whatsapp|tel|sms):/i.test(value)) return "";
   if (/^mailto:/i.test(value)) return value;
   if (value.startsWith("//")) value = `https:${value}`;
   if (/^https?:\/\/web\.archive\.org\/web\//i.test(value)) return value;
@@ -431,16 +502,56 @@ function hostOfOriginal(url) {
   }
 }
 
-function isRelatedPage(link, seedHosts) {
+function isNoisePageUrl(url) {
+  const value = originalUrl(url);
+  try {
+    const parsed = new URL(value);
+    const host = parsed.hostname.toLowerCase().replace(/^www\./, "");
+    const pathName = parsed.pathname.toLowerCase();
+    if (host === "github.com") {
+      if (
+        /^\/(?:login|signup|contact|topics|marketplace|features|pricing|explore)(?:\/|$)/.test(pathName) ||
+        /\/(?:actions|issues|pulls|projects|security|pulse|branches|tags|discussions|commits|stargazers|forks|watchers|network|graphs|settings|notifications)(?:\/|$)/.test(
+          pathName,
+        )
+      ) {
+        return true;
+      }
+    }
+    if (/(?:facebook|twitter|x|instagram|youtube|buymeacoffee|google)\.com$/.test(host)) return true;
+    if (/\/wp-(?:json|admin|login)|\/feed\/?$|\/comments\/feed\/?$/.test(pathName)) return true;
+    return false;
+  } catch {
+    return false;
+  }
+}
+
+function isPotentialExternalLead(link, page, host, seedHosts) {
+  if (!host || seedHosts.has(host)) return false;
+  if (link.type === "page") return false;
+  if (!/(link directory|scene index|large web archive|prog tag archive|readme archive|AOL site archive)/i.test(`${page.kind || ""} ${page.name || ""}`)) {
+    return false;
+  }
+  return /(prog|tool|aol|aim|fader|punter|boot|room|buster|download|links|screenshot|skin|hell|server|mmer|macro|scroll|c-com|ccom|dead ?aim|methodus|fate|eclypse)/i.test(
+    `${originalUrl(link.url)} ${link.text || ""} ${link.description || ""}`,
+  );
+}
+
+function crawlUrlFor(link, page, seedHosts) {
   if (!link?.url || !["page", "prog resource", "link directory"].includes(link.type)) return false;
   const original = originalUrl(link.url);
   if (!/^https?:\/\//i.test(original)) return false;
   if (/\.(zip|rar|7z|sit|hqx|gif|png|jpe?g|bmp|webp|exe|dll|ocx|swf)(?:$|[?#])/i.test(original)) return false;
+  if (isNoisePageUrl(link.url)) return false;
   const host = hostOfOriginal(link.url);
-  if (!host || !seedHosts.has(host)) return false;
-  return /(prog|tool|aol|aim|fader|punter|boot|room|buster|download|links|screenshot|skin|methodus|hell|crack|server|mmer|macro|scroll|c-com|ccom)/i.test(
+  const related = /(prog|tool|aol|aim|fader|punter|boot|room|buster|download|links|screenshot|skin|methodus|hell|crack|server|mmer|macro|scroll|c-com|ccom|dead ?aim|eclypse|fate|revolution)/i.test(
     `${original} ${link.text}`,
   );
+  if (!host || !related) return false;
+  if (seedHosts.has(host)) return link.url;
+  if (!isPotentialExternalLead(link, page, host, seedHosts)) return false;
+  const info = waybackInfo(page.url);
+  return info ? `https://web.archive.org/web/${info.timestamp}/${original}` : link.url;
 }
 
 async function fetchText(page) {
@@ -520,6 +631,26 @@ function extractLinks(html, pageUrl) {
       type: "image",
     });
   }
+  if (!/raw\.githubusercontent\.com\/raysuelzer\/ProgzRescue\/.*archived-urls/i.test(pageUrl)) {
+    const visibleText = decodeEntities(html);
+    if (visibleText.length < 300000) {
+      const bareUrlRegex = /https?:\/\/[^\s"'<>()[\]{}]+/gi;
+      for (const match of visibleText.matchAll(bareUrlRegex)) {
+        const url = resolveHref(match[0].replace(/[.,;:!?]+$/g, ""), pageUrl);
+        if (!url) continue;
+        const key = linkKey(url);
+        if (seen.has(key)) continue;
+        seen.add(key);
+        const original = originalUrl(url);
+        links.push({
+          text: original,
+          url,
+          originalUrl: original,
+          type: classify(url, original),
+        });
+      }
+    }
+  }
   return links;
 }
 
@@ -560,13 +691,14 @@ async function main() {
       result.downloadCount = result.links.filter((link) => link.type === "download").length;
       if (page.depth < crawlDepth) {
         for (const link of result.links) {
-          if (!isRelatedPage(link, seedHosts)) continue;
-          const key = linkKey(link.url);
+          const crawlUrl = crawlUrlFor(link, page, seedHosts);
+          if (!crawlUrl) continue;
+          const key = linkKey(crawlUrl);
           if (queued.has(key)) continue;
           queued.add(key);
           queue.push({
             name: link.text || originalUrl(link.url),
-            url: link.url,
+            url: crawlUrl,
             kind: link.type,
             notes: `Discovered from ${page.name}`,
             depth: page.depth + 1,

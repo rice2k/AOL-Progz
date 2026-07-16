@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 4 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 3 |
 
 ## Tags
 
@@ -113,7 +113,11 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| JustinAKAPaste AOL/AIM Progs | Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1) |
+| AOL Prog HeLLRaiSER Video | Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1) |
+| AOL/AIM Exploits | gothic.png | [https://justinakapaste.com/wp-content/uploads/random/gothic.png](https://justinakapaste.com/wp-content/uploads/random/gothic.png) | [https://justinakapaste.com/wp-content/uploads/random/gothic.png](https://justinakapaste.com/wp-content/uploads/random/gothic.png) |
 
 ## Related Indexes
 

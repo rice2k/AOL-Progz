@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 2 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-3-0/0768-filesafe.zip](../../../../../files/aol/aol-3-0/0768-filesafe.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/filesafe 98.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/filesafe%2098.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/filesafe%2098.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/filesafe%2098.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/filesafe%2098.zip)
@@ -95,10 +96,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | prog's/misc a-m | filesafe 98 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/filesafe.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/filesafe.zip) | [http://lenshellarchive.com/Progs/aolprogs/filesafe.zip](http://lenshellarchive.com/Progs/aolprogs/filesafe.zip) |
+| found-geocities-silicon-valley-files.txt | http://www16.geocities.com:80/SiliconValley/8055/files.zip | [http://www16.geocities.com:80/SiliconValley/8055/files.zip](http://www16.geocities.com:80/SiliconValley/8055/files.zip) | [http://www16.geocities.com:80/SiliconValley/8055/files.zip](http://www16.geocities.com:80/SiliconValley/8055/files.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Visual Basic Section | progfiles.zip | [http://lenshellarchive.com/Progs/vbxdll/progfiles.zip](http://lenshellarchive.com/Progs/vbxdll/progfiles.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/progfiles.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/progfiles.zip) | unknown | http-404 |
+| found-geocities-silicon-valley-files.txt | progfiles.zip | [http://www16.geocities.com:80/SiliconValley/8055/files.zip](http://www16.geocities.com:80/SiliconValley/8055/files.zip) | [http://www16.geocities.com:80/SiliconValley/8055/files.zip](http://www16.geocities.com:80/SiliconValley/8055/files.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -89,15 +89,15 @@
 
 | Metric | Value |
 | --- | --- |
-| Crawled source pages | 650 |
-| Crawled links | 12511 |
-| Crawled download links | 5096 |
-| Recovered external files | 463 |
-| External ZIPs scanned for text | 322 |
-| External ZIPs with readable text | 183 |
-| External ZIPs with author clues | 65 |
-| External ZIPs with version clues | 6 |
-| External ZIPs with purpose clues | 134 |
-| Missing candidates | 2177 |
-| Recovered missing candidates | 293 |
-| Master deduped link index | 23808 |
+| Crawled source pages | 900 |
+| Crawled links | 15338 |
+| Crawled download links | 5145 |
+| Recovered external files | 502 |
+| External ZIPs scanned for text | 361 |
+| External ZIPs with readable text | 197 |
+| External ZIPs with author clues | 69 |
+| External ZIPs with version clues | 7 |
+| External ZIPs with purpose clues | 145 |
+| Missing candidates | 2365 |
+| Recovered missing candidates | 300 |
+| Master deduped link index | 27032 |

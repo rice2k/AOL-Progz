@@ -43,7 +43,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Download status | ready |
 | Local mirrored size | 2.2 MB |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 - Local mirrored archive: [files/aol/aol-4-0/0406-chronic.zip](../../../../../files/aol/aol-4-0/0406-chronic.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chronic idle for aol 4.0 and 5.0 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chronic%20idle%20for%20aol%204.0%20and%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chronic%20idle%20for%20aol%204.0%20and%205.0%20yr2000.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chronic%20idle%20for%20aol%204.0%20and%205.0%20yr2000.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chronic%20idle%20for%20aol%204.0%20and%205.0%20yr2000.zip)
@@ -99,7 +100,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | chronic.zip | [http://lenshellarchive.com/Progs/aolprogs/chronic.zip](http://lenshellarchive.com/Progs/aolprogs/chronic.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chronic.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chronic.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

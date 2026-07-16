@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 2 |
-| Matched mirror leads | 2 |
+| Matched web download links | 3 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-3-0/0308-budsaver.zip](../../../../../files/aol/aol-3-0/0308-budsaver.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/buddy list saver.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/buddy%20list%20saver.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/buddy%20list%20saver.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/buddy%20list%20saver.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/buddy%20list%20saver.zip)
@@ -97,6 +97,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | VISUAL BASIC | Buddy | [https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip](https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip) | [http://server39.hypermart.net/wipeout/buddy.zip](http://server39.hypermart.net/wipeout/buddy.zip) |
 | prog's/misc a-m | buddy list saver | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) | [http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP | [http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP](http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP) | [http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP](http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP) |
 
 ### Mirror Leads
 
@@ -104,6 +105,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: prog's/misc a-m | budsaver.zip | [http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/budsaver.zip) | unknown | http-404 |
 | VISUAL BASIC | buddy.zip | [http://server39.hypermart.net/wipeout/buddy.zip](http://server39.hypermart.net/wipeout/buddy.zip) | [https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip](https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | saver.ZIP | [http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP](http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP) | [http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP](http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP) | unknown | candidate |
 
 ### Web Image Leads
 

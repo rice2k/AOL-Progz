@@ -102,7 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| c-coms | celluoid.zip | [http://lenshellarchive.com/Progs/aolccoms/celluoid.zip](http://lenshellarchive.com/Progs/aolccoms/celluoid.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/celluoid.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/celluoid.zip) | unknown | candidate |
+| Web page: c-coms | celluoid.zip | [http://lenshellarchive.com/Progs/aolccoms/celluoid.zip](http://lenshellarchive.com/Progs/aolccoms/celluoid.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/celluoid.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/celluoid.zip) | [files/external/lenshellarchive-com/celluoid-99fdd305.zip](../../../../../files/external/lenshellarchive-com/celluoid-99fdd305.zip) | ready |
 
 ### Web Image Leads
 

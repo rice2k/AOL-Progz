@@ -42,10 +42,10 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 3 |
-| Matched mirror leads | 4 |
+| Matched web download links | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 2 |
 
 ## Tags
 
@@ -54,8 +54,8 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/2044-wizard.zip](../../../../../files/aol/aol-4-0/2044-wizard.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 4 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz punt 4.0 for aol 4.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz%20punt%204.0%20for%20aol%204.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz%20punt%204.0%20for%20aol%204.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz%20punt%204.0%20for%20aol%204.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz%20punt%204.0%20for%20aol%204.0.zip)
@@ -95,8 +95,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| APC/ | APCSecurityWizard.exe | [http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe) | [http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe) |
-| APC/ | APCSecurityWizard211.exe | [http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe) | [http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe) |
 | punter's | wizardz punt 4.0 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip) | [http://lenshellarchive.com/Progs/aolpunters/wizard.zip](http://lenshellarchive.com/Progs/aolpunters/wizard.zip) |
 
 ### Mirror Leads
@@ -105,12 +103,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | vbrun60sp5.zip | [http://www.angelfire.com/wizard/freqgengui/files/vbrun60sp5.zip](http://www.angelfire.com/wizard/freqgengui/files/vbrun60sp5.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/wizard/freqgengui/files/vbrun60sp5.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/wizard/freqgengui/files/vbrun60sp5.zip) | [files/external/angelfire-com/vbrun60sp5.zip](../../../../../files/external/angelfire-com/vbrun60sp5.zip) | ready |
 | ProgzRescue Angelfire files | serverlook.zip | [http://www.angelfire.com/wizard/hacker7/serverlook.zip](http://www.angelfire.com/wizard/hacker7/serverlook.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/wizard/hacker7/serverlook.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/wizard/hacker7/serverlook.zip) | [files/external/angelfire-com/serverlook.zip](../../../../../files/external/angelfire-com/serverlook.zip) | ready |
-| APC/ | APCSecurityWizard.exe | [http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe) | [http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe) | unknown | candidate |
-| APC/ | APCSecurityWizard.exe | [http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe) | [http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe) | unknown | candidate |
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AOL Macros | Wizard.png?fit=730%2C723&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard.png?fit=730%2C723&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard.png?fit=730%2C723&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard.png?fit=730%2C723&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard.png?fit=730%2C723&amp;ssl=1) |
+| AOL Macros | Wizard2.png?fit=950%2C623&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard2.png?fit=950%2C623&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard2.png?fit=950%2C623&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard2.png?fit=950%2C623&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard2.png?fit=950%2C623&amp;ssl=1) |
 
 ## Related Indexes
 

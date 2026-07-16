@@ -42,10 +42,10 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 71 KB |
-| Matched web download links | 7 |
-| Matched mirror leads | 0 |
+| Matched web download links | 8 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
-| Web image leads | 5 |
+| Web image leads | 8 |
 
 ## Tags
 
@@ -54,7 +54,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0333-c-com.zip](../../../../../files/aol/aol-4-0/0333-c-com.zip)
-- Old-web / Wayback download leads: 7 link(s) listed below
+- Old-web / Wayback download leads: 8 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chillin15.zip)
@@ -98,21 +99,28 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Click-Online AOL 4/5 progz | compac coms beta 1 | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/compaccoms.zip) | [http://click-online2000.com/progz/compaccoms.zip](http://click-online2000.com/progz/compaccoms.zip) |
 | LensHell AIM progs | dry c-com | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip](http://lenshellarchive.com/Progs/aimprogs/misc/dry.zip) |
 | Progs Section 1 | Holyz C-Coms | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/holyzccom.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/holyzccom.zip) | [http://www.cybernyse.com/holyzccom.zip](http://www.cybernyse.com/holyzccom.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip | [http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip](http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip) | [http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip](http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip) |
 | Progs Section 1 | Imperial C-Coms | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccoms.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccoms.zip) | [http://www.cybernyse.com/imperialccoms.zip](http://www.cybernyse.com/imperialccoms.zip) |
 | Progs Section 1 | Imperial C-Coms v2 | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccomsv2.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/imperialccomsv2.zip) | [http://www.cybernyse.com/imperialccomsv2.zip](http://www.cybernyse.com/imperialccomsv2.zip) |
 | c-coms | magic toolz c-com | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip) | [http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip](http://lenshellarchive.com/Progs/aolccoms/magictoolz.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | chillin15.zip | [http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip) | [files/external/lenshellarchive-com/chillin15-b7993881.zip](../../../../../files/external/lenshellarchive-com/chillin15-b7993881.zip) | ready |
+| found-geocities-silicon-valley-files.txt | g21_c_compiler_tips.zip | [http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip](http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip) | [http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip](http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip) | unknown | candidate |
 
 ### Web Image Leads
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
 | PHAT secrets | line2.jpg | [https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/line2.jpg](https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/line2.jpg) | [http://solo5.abac.com/phat/line2.jpg](http://solo5.abac.com/phat/line2.jpg) |
+| Aim Bit | maxpaynesky.jpg | [https://web.archive.org/web/20030613123619im_/http://solo11.abac.com/edimensional/banners/maxpaynesky.jpg](https://web.archive.org/web/20030613123619im_/http://solo11.abac.com/edimensional/banners/maxpaynesky.jpg) | [http://solo11.abac.com/edimensional/banners/maxpaynesky.jpg](http://solo11.abac.com/edimensional/banners/maxpaynesky.jpg) |
 | PHAT secrets | phat-left.jpg | [https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/phat-left.jpg](https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/phat-left.jpg) | [http://solo5.abac.com/phat/phat-left.jpg](http://solo5.abac.com/phat/phat-left.jpg) |
 | PHAT secrets | phat-top.jpg | [https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/phat-top.jpg](https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/phat-top.jpg) | [http://solo5.abac.com/phat/phat-top.jpg](http://solo5.abac.com/phat/phat-top.jpg) |
+| Progenic | progenic.jpg | [https://web.archive.org/web/20030605152712im_/http://www.progenic.com/vote/progenic.jpg](https://web.archive.org/web/20030605152712im_/http://www.progenic.com/vote/progenic.jpg) | [http://www.progenic.com/vote/progenic.jpg](http://www.progenic.com/vote/progenic.jpg) |
+| Progenic | progenic.jpg | [https://web.archive.org/web/20030605152712im_/http://www.progenic.com/progenic.jpg](https://web.archive.org/web/20030605152712im_/http://www.progenic.com/progenic.jpg) | [http://www.progenic.com/progenic.jpg](http://www.progenic.com/progenic.jpg) |
 | PHAT secrets | top-left_corner.jpg | [https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/top-left_corner.jpg](https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/top-left_corner.jpg) | [http://solo5.abac.com/phat/top-left_corner.jpg](http://solo5.abac.com/phat/top-left_corner.jpg) |
 | PHAT secrets | top-right_corner.jpg | [https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/top-right_corner.jpg](https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/top-right_corner.jpg) | [http://solo5.abac.com/phat/top-right_corner.jpg](http://solo5.abac.com/phat/top-right_corner.jpg) |
 

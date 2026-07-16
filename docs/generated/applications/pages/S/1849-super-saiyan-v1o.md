@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 3 |
-| Matched mirror leads | 0 |
+| Matched web download links | 4 |
+| Matched mirror leads | 9 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1849-super-saiyan-v1o.zip](../../../../../files/aol/aol-4-0/1849-super-saiyan-v1o.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 9 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/saiyan.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/saiyan.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/saiyan.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/saiyan.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/saiyan.zip)
@@ -94,13 +95,24 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/6041/super.zip | [http://www.geocities.com:80/SiliconValley/6041/super.zip](http://www.geocities.com:80/SiliconValley/6041/super.zip) | [http://www.geocities.com:80/SiliconValley/6041/super.zip](http://www.geocities.com:80/SiliconValley/6041/super.zip) |
 | prog's/misc n-z | super saiyan | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/saiyan.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/saiyan.zip) | [http://lenshellarchive.com/Progs/aolprogs/saiyan.zip](http://lenshellarchive.com/Progs/aolprogs/saiyan.zip) |
 | Section 2 | Super Saiyan | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip) | [http://www.cybernyse.com/downlowdz/super.zip](http://www.cybernyse.com/downlowdz/super.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Super Saiyan | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip) | [http://24.185.191.87/progz/super.zip](http://24.185.191.87/progz/super.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | super.zip | [http://www.geocities.com:80/SiliconValley/6041/super.zip](http://www.geocities.com:80/SiliconValley/6041/super.zip) | [http://www.geocities.com:80/SiliconValley/6041/super.zip](http://www.geocities.com:80/SiliconValley/6041/super.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | super.zip | [http://www.geocities.com:80/SiliconValley/6041/super2.zip](http://www.geocities.com:80/SiliconValley/6041/super2.zip) | [http://www.geocities.com:80/SiliconValley/6041/super2.zip](http://www.geocities.com:80/SiliconValley/6041/super2.zip) | unknown | candidate |
+| APPLICATIONS | super.zip | [http://server38.hypermart.net/progstation/superaim.zip](http://server38.hypermart.net/progstation/superaim.zip) | [https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/superaim.zip](https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/superaim.zip) | unknown | candidate |
+| AIM | super.zip | [http://www.cybernyse.com/downlowdz/aimsuperaim.zip](http://www.cybernyse.com/downlowdz/aimsuperaim.zip) | [https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsuperaim.zip](https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsuperaim.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | super.zip | [http://24.185.191.87/progz/aimsuperaim.zip](http://24.185.191.87/progz/aimsuperaim.zip) | [https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsuperaim.zip](https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsuperaim.zip) | unknown | candidate |
+| Section 2 | super.zip | [http://www.cybernyse.com/downlowdz/super.zip](http://www.cybernyse.com/downlowdz/super.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip) | unknown | candidate |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | super.zip | [http://24.185.191.87/progz/super.zip](http://24.185.191.87/progz/super.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip) | unknown | candidate |
+| http://progstation.hypermart.net/ | super.zip | [http://progstation.hypermart.net/superaim.zip](http://progstation.hypermart.net/superaim.zip) | [https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/superaim.zip](https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/superaim.zip) | unknown | candidate |
+| ProgzRescue Angelfire files | super.zip | [http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip](http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip) | unknown | ready |
 
 ### Web Image Leads
 

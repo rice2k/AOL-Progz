@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 2.9 MB |
-| Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched web download links | 3 |
+| Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0620-dupe-killer.zip](../../../../../files/aol/aol-4-0/0620-dupe-killer.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip)
@@ -101,12 +101,16 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Visual Basic Section | dupekill bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip) | [http://lenshellarchive.com/VBfiles/dupekill.zip](http://lenshellarchive.com/VBfiles/dupekill.zip) |
 | prog's/misc a-m | dupekiller | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip) | [http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip](http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Visual Basic Section | dupekill.zip | [http://lenshellarchive.com/VBfiles/dupekill.zip](http://lenshellarchive.com/VBfiles/dupekill.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip) | unknown | candidate |
+| Web page: Visual Basic Section | dupekill.zip | [http://lenshellarchive.com/VBfiles/dupekill.zip](http://lenshellarchive.com/VBfiles/dupekill.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip) | unknown | http-404 |
+| Web page: prog's/misc a-m | dupekiller.zip | [http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip](http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip) | unknown | http-404 |
+| found-geocities-silicon-valley-files.txt | killer.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip) | unknown | candidate |
+| LensHell AIM progs | killer.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip](http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -45,7 +45,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Matched web download links | 4 |
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -114,7 +114,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| AOL Hackers | 2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&amp;ssl=1) |
 
 ## Related Indexes
 

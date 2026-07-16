@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 100 KB |
 | Matched web download links | 1 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-4-0/0525-dazed-beta-2.zip](../../../../../files/aol/aol-4-0/0525-dazed-beta-2.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dazedbeta2.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dazedbeta2.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dazedbeta2.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dazedbeta2.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dazedbeta2.zip)
@@ -102,6 +102,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | dazed.zip | [http://www.angelfire.com/electronic2/progz101/dazed.zip](http://www.angelfire.com/electronic2/progz101/dazed.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/dazed.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/dazed.zip) | [files/external/angelfire-com/dazed-901646c9.zip](../../../../../files/external/angelfire-com/dazed-901646c9.zip) | ready |
+| Web page: c-coms | dazedbeta2.zip | [http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip](http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip) | [files/external/lenshellarchive-com/dazedbeta2-3e8b9fce.zip](../../../../../files/external/lenshellarchive-com/dazedbeta2-3e8b9fce.zip) | ready |
 
 ### Web Image Leads
 

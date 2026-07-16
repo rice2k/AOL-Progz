@@ -43,7 +43,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 4 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,7 +55,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 - Local mirrored archive: [files/aol/aol-4-0/0392-chattoolz2.zip](../../../../../files/aol/aol-4-0/0392-chattoolz2.zip)
 - Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat toolz2.0 beta yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/chat%20toolz2.0%20beta%20yr2k.zip)
@@ -104,7 +104,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| prog's/misc a-m | chattoolz2beta.zip | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | unknown | candidate |
+| Web page: LensHell AIM progs | chattoolz2.zip | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip) | unknown | http-404 |
+| Web page: prog's/misc a-m | chattoolz2beta.zip | [http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

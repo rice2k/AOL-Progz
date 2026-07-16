@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 498 KB |
-| Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched web download links | 3 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0491-cube.zip](../../../../../files/aol/aol-4-0/0491-cube.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 3 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cubepunt.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cubepunt.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cubepunt.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cubepunt.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/cubepunt.zip)
@@ -100,10 +101,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | Visual Basic Section | cube bas | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cube.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cube.zip) | [http://lenshellarchive.com/VBfiles/cube.zip](http://lenshellarchive.com/VBfiles/cube.zip) |
 | punter's | cube punter | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip) | [http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip](http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: Visual Basic Section | cube.zip | [http://lenshellarchive.com/VBfiles/cube.zip](http://lenshellarchive.com/VBfiles/cube.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cube.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cube.zip) | unknown | http-404 |
+| Web page: punter's | cubepunt.zip | [http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip](http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

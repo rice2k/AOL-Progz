@@ -1,5 +1,5 @@
 window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
-  "generatedAt": "2026-07-16T10:32:22.029Z",
+  "generatedAt": "2026-07-16T12:12:19.653Z",
   "programCount": 2139,
   "programsWithImprovedNames": 519,
   "programsWithInferredAuthors": 10,
@@ -11,10 +11,10 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
   "programsWithArchiveAolVersionMentions": 106,
   "programsWithInferredAolVersions": 357,
   "programsWithWebMentions": 7,
-  "programsWithWebDownloadLinks": 2008,
-  "programsWithWebImageLinks": 42,
-  "programsWithMirrorLinks": 432,
-  "programsWithExternalArchiveTextEvidence": 29,
+  "programsWithWebDownloadLinks": 2009,
+  "programsWithWebImageLinks": 63,
+  "programsWithMirrorLinks": 648,
+  "programsWithExternalArchiveTextEvidence": 39,
   "fetchedDetails": [
     {
       "name": "AOLUnderground.com ProGGieS",
@@ -751,7 +751,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "Load More",
+          "sourceUrl": "https://justinakapaste.com/category/aol-employee-sections/page/2/",
+          "label": "collection_rainman.jpg?fit=800%2C600&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/collection_rainman.jpg?fit=800%2C600&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/collection_rainman.jpg?fit=800%2C600&amp;ssl=1",
+          "matchedBy": "loose:collect",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Web page: prog's/misc a-m",
@@ -1191,6 +1201,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/3dmaze.zip",
           "matchedBy": "exact:3dmaze",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/Chip/1339/3dmaze.zip",
+          "url": "http://www.geocities.com:80/SiliconValley/Chip/1339/3dmaze.zip",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Chip/1339/3dmaze.zip",
+          "matchedBy": "exact:3dmaze",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -1347,6 +1366,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "url": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/420world.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/420world.zip",
           "matchedBy": "exact:420world",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bit/9990/world.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bit/9990/world.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bit/9990/world.zip",
+          "matchedBy": "loose:420world",
           "kind": "crawled download link"
         }
       ],
@@ -3123,10 +3151,79 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/alarmclock.zip",
           "matchedBy": "exact:alarm-clock",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/9000/clock.zip",
+          "url": "http://www.geocities.com:80/SiliconValley/9000/clock.zip",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/9000/clock.zip",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip",
+          "url": "http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/4803/clock.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/4803/clock.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/4803/clock.zip",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "clock.zip",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/9000/clock.zip",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/9000/clock.zip",
+          "status": "candidate",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "clock.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/2926/tpzip/clock.zip",
+          "status": "candidate",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "clock.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/4803/clock.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/4803/clock.zip",
+          "status": "candidate",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "clock.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/clock.zip",
+          "status": "candidate",
+          "matchedBy": "loose:alarm-clock-win-xp-yr-08"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0067-alien": {
@@ -3185,6 +3282,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "aliensmallicon.gif",
           "url": "https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/aliensmallicon.gif",
           "originalUrl": "http://lenshellarchive.com/images/aliensmallicon.gif",
+          "matchedBy": "loose:alien",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "JustinAKAPaste AOL sites page 2",
+          "sourceUrl": "https://justinakapaste.com/tag/aolsites/page/2/",
+          "label": "f-alien.gif",
+          "url": "https://justinakapaste.com/wp-content/uploads/random/f-alien.gif",
+          "originalUrl": "https://justinakapaste.com/wp-content/uploads/random/f-alien.gif",
           "matchedBy": "loose:alien",
           "kind": "crawled image"
         }
@@ -5025,18 +5131,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "anti's",
-          "label": "riven.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aolantis/riven.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/riven.zip",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "table84.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/table84.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/table84.zip",
           "status": "candidate",
           "matchedBy": "loose:rivens-unbeatable-anti"
         },
         {
           "sourceName": "HTML/CGI Code",
-          "label": "table.zip",
+          "label": "table84.zip",
           "originalUrl": "http://lenshellarchive.com/html/table.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120826/http://lenshellarchive.com/html/table.zip",
+          "status": "candidate",
+          "matchedBy": "loose:rivens-unbeatable-anti"
+        },
+        {
+          "sourceName": "anti's",
+          "label": "riven.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolantis/riven.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/riven.zip",
           "status": "candidate",
           "matchedBy": "loose:rivens-unbeatable-anti"
         }
@@ -6244,15 +6358,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aol5udclose.zip",
           "matchedBy": "exact:update-closer",
           "kind": "crawled download link"
-        },
-        {
-          "sourceName": "AM/",
-          "sourceUrl": "http://am.net/lib/TOOLS/AM/",
-          "label": "close.exe",
-          "url": "http://am.net/lib/TOOLS/AM/close.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/AM/close.exe",
-          "matchedBy": "loose:0129-aol-5-update-closer",
-          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -6265,14 +6370,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "localPath": "",
           "status": "http-404",
           "matchedBy": "exact:udclose"
-        },
-        {
-          "sourceName": "AM/",
-          "label": "close.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/AM/close.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/AM/close.exe",
-          "status": "candidate",
-          "matchedBy": "loose:0129-aol-5-update-closer"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -6744,6 +6841,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:aolidle"
         },
         {
+          "sourceName": "Web page: idler's",
+          "label": "dltech.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dltech.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dltech.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:aolidle"
+        },
+        {
           "sourceName": "AIM",
           "label": "aimaimutopia.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimaimutopia.zip",
@@ -6804,14 +6910,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "unknown4.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/unknown.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/unknown.zip",
-          "status": "candidate",
-          "matchedBy": "loose:aolidle"
-        },
-        {
-          "sourceName": "idler's",
-          "label": "dltech.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dltech.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dltech.zip",
           "status": "candidate",
           "matchedBy": "loose:aolidle"
         },
@@ -6990,7 +7088,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: buster's",
+          "label": "drsubsbuster.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/drsubsbuster.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/drsubsbuster.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:drsubsbuster"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0141-aoltools": {
@@ -7732,6 +7840,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/armagedd.zip",
           "matchedBy": "exact:armageddon-1-im",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/Bridge/6020/ARMAGGEDON.ZIP",
+          "url": "http://www.geocities.com:80/SiliconValley/Bridge/6020/ARMAGGEDON.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/6020/ARMAGGEDON.ZIP",
+          "matchedBy": "loose:armag",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -7744,6 +7861,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:armageddon-1-im"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "ARMAGGEDON.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/6020/ARMAGGEDON.ZIP",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/6020/ARMAGGEDON.ZIP",
+          "status": "candidate",
+          "matchedBy": "loose:armag"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -7947,7 +8072,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "AOL Hackers",
+          "sourceUrl": "https://justinakapaste.com/aol-hackers/",
+          "label": "2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/2014-07-27-23_15_51-Arial-ASCII-Art-Gallery.png?fit=75%2C37&amp;ssl=1",
+          "matchedBy": "loose:ascii",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Web page: prog's/misc a-m",
@@ -8285,15 +8420,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "NetworkManagement/",
-          "sourceUrl": "http://am.net/lib/TOOLS/NetworkManagement/",
-          "label": "eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
-          "url": "http://am.net/lib/TOOLS/NetworkManagement/eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/NetworkManagement/eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
-          "matchedBy": "loose:assist",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "Section 2",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
           "label": "N 1 Assist",
@@ -8336,14 +8462,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "n1assist.zip",
           "originalUrl": "http://24.185.191.87/progz/n1assist.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/n1assist.zip",
-          "status": "candidate",
-          "matchedBy": "loose:assist"
-        },
-        {
-          "sourceName": "NetworkManagement/",
-          "label": "eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/NetworkManagement/eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/NetworkManagement/eventsentryadminassistant_v2_5_0_2_windows_x64_setup.exe",
           "status": "candidate",
           "matchedBy": "loose:assist"
         }
@@ -9162,7 +9280,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "https://justinakapaste.com/clone-tools/",
+          "sourceUrl": "https://justinakapaste.com/clone-tools/",
+          "label": "AutoLinker.png?fit=75%2C50&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/AutoLinker.png?fit=75%2C50&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/AutoLinker.png?fit=75%2C50&amp;ssl=1",
+          "matchedBy": "loose:autolink",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Web page: prog's/misc a-m",
@@ -14691,6 +14819,24 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip",
+          "url": "http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bay/6879/Breakout.zip",
+          "matchedBy": "loose:break",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/nobreak.zip",
+          "matchedBy": "loose:break",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "spring break",
@@ -14727,7 +14873,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "breakout1.gif?resize=642%2C554&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?resize=642%2C554&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?resize=642%2C554&#038;ssl=1",
+          "matchedBy": "loose:break",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/breakout1.gif?ssl=1",
+          "matchedBy": "loose:break",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "ProgzRescue FortuneCity Skyscraper files",
@@ -15435,6 +15600,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/budsaver.zip",
           "matchedBy": "exact:buddy-list-saver",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP",
+          "url": "http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP",
+          "matchedBy": "loose:buddy-list-saver",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -15453,6 +15627,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "buddy.zip",
           "originalUrl": "http://server39.hypermart.net/wipeout/buddy.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/buddy.zip",
+          "status": "candidate",
+          "matchedBy": "loose:buddy-list-saver"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "saver.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Chip/2263/Zip/saver.ZIP",
           "status": "candidate",
           "matchedBy": "loose:buddy-list-saver"
         }
@@ -16489,6 +16671,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip",
+          "matchedBy": "loose:c-com",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "Progs Section 1",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
           "label": "Imperial C-Coms",
@@ -16527,6 +16718,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled image"
         },
         {
+          "sourceName": "Aim Bit",
+          "sourceUrl": "https://web.archive.org/web/20030623040448/http://aimbit.com/",
+          "label": "maxpaynesky.jpg",
+          "url": "https://web.archive.org/web/20030613123619im_/http://solo11.abac.com/edimensional/banners/maxpaynesky.jpg",
+          "originalUrl": "http://solo11.abac.com/edimensional/banners/maxpaynesky.jpg",
+          "matchedBy": "loose:c-com",
+          "kind": "crawled image"
+        },
+        {
           "sourceName": "PHAT secrets",
           "sourceUrl": "https://web.archive.org/web/20000611162712/http://solo5.abac.com/phat/secrets.htm",
           "label": "phat-left.jpg",
@@ -16541,6 +16741,24 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "phat-top.jpg",
           "url": "https://web.archive.org/web/20000611162712im_/http://solo5.abac.com/phat/phat-top.jpg",
           "originalUrl": "http://solo5.abac.com/phat/phat-top.jpg",
+          "matchedBy": "loose:c-com",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Progenic",
+          "sourceUrl": "https://web.archive.org/web/20030623040448/http://www.progenic.com/vote/?id=cybertrash",
+          "label": "progenic.jpg",
+          "url": "https://web.archive.org/web/20030605152712im_/http://www.progenic.com/vote/progenic.jpg",
+          "originalUrl": "http://www.progenic.com/vote/progenic.jpg",
+          "matchedBy": "loose:c-com",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Progenic",
+          "sourceUrl": "https://web.archive.org/web/20030623040448/http://www.progenic.com/vote/?id=cybertrash",
+          "label": "progenic.jpg",
+          "url": "https://web.archive.org/web/20030605152712im_/http://www.progenic.com/progenic.jpg",
+          "originalUrl": "http://www.progenic.com/progenic.jpg",
           "matchedBy": "loose:c-com",
           "kind": "crawled image"
         },
@@ -16563,7 +16781,25 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled image"
         }
       ],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "chillin15.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/chillin15.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin15.zip",
+          "localPath": "files/external/lenshellarchive-com/chillin15-b7993881.zip",
+          "status": "ready",
+          "matchedBy": "exact:chillin15"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "g21_c_compiler_tips.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bridge/6581/g21_c_compiler_tips.zip",
+          "status": "candidate",
+          "matchedBy": "loose:c-com"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0334-c-comz": {
@@ -17008,7 +17244,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "cool.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cool.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cool.zip",
+          "localPath": "files/external/lenshellarchive-com/cool-5353d525.zip",
+          "status": "ready",
+          "matchedBy": "exact:cool"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0340-c1-0-collector-by-p-d-install": {
@@ -17123,7 +17369,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cak.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cak.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cak.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cak"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0343-calipunt": {
@@ -17183,7 +17439,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "canuck.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/canuck.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/canuck.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:canuck"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0345-case-it-by-miguel": {
@@ -17266,7 +17532,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "caseit2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/caseit2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/caseit2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:caseit2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0347-caser2": {
@@ -17330,7 +17606,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "casocoms.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/casocoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/casocoms.zip",
+          "localPath": "files/external/lenshellarchive-com/casocoms-554c63d7.zip",
+          "status": "ready",
+          "matchedBy": "exact:casocoms"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0349-cazy-wazy-fade": {
@@ -17365,7 +17651,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "cazywazy.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/cazywazy.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/cazywazy.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cazywazy"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0350-cbz-xer": {
@@ -17400,7 +17696,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: x'ers",
+          "label": "cbz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/cbz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/cbz.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cbz"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0351-cc2": {
@@ -17453,7 +17759,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "chatcom2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/chatcom2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chatcom2.zip",
+          "localPath": "files/external/lenshellarchive-com/chatcom2-ccdf9456.zip",
+          "status": "ready",
+          "matchedBy": "loose:chatcom"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0352-cccstyle-mini-toolz": {
@@ -17490,8 +17806,40 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "cccstyle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip",
+          "localPath": "files/external/lenshellarchive-com/cccstyle-7a018626.zip",
+          "status": "ready",
+          "matchedBy": "exact:cccstyle"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "cccstyle.zip",
+          "localPath": "files/external/lenshellarchive-com/cccstyle-7a018626.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cccstyle.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "index.html"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [
+            "http://www.flufffycow.interspeed.net/web/top.html",
+            "http://www.flufffycow.interspeed.net/web/main.html"
+          ],
+          "matchedBy": "exact:cccstyle"
+        }
+      ]
     },
     "prog-0353-cchat": {
       "programId": "prog-0353-cchat",
@@ -17599,27 +17947,30 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "exact:cchat"
         },
         {
-          "sourceName": "LensHell AIM progs",
-          "label": "chatage2.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip",
-          "status": "candidate",
-          "matchedBy": "loose:c-chat"
-        },
-        {
-          "sourceName": "LensHell AIM progs",
-          "label": "chatage2.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip",
-          "status": "candidate",
-          "matchedBy": "loose:c-chat"
-        },
-        {
-          "sourceName": "LensHell AIM progs",
+          "sourceName": "Web page: LensHell AIM progs",
           "label": "chatrush.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatrush.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatrush.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:c-chat"
+        },
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "chatage2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:c-chat"
+        },
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "chatage11.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatage11.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:c-chat"
         }
       ],
@@ -17967,7 +18318,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "ceedeeplayer.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ceedeeplayer.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ceedeeplayer.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:ceedeeplayer"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0360-celluoid-dreams": {
@@ -18038,11 +18399,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "c-coms",
+          "sourceName": "Web page: c-coms",
           "label": "celluoid.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/celluoid.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/celluoid.zip",
-          "status": "candidate",
+          "localPath": "files/external/lenshellarchive-com/celluoid-99fdd305.zip",
+          "status": "ready",
           "matchedBy": "loose:celluoid-dreams-beta-xp-yr-03"
         }
       ],
@@ -18095,7 +18457,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "celtic11.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/celtic11.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/celtic11.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:celtic11"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0363-cf2": {
@@ -18148,7 +18520,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "coldfusion.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/coldfusion.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/coldfusion.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:coldfusion"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0364-cf3": {
@@ -18192,7 +18574,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cf3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cf3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cf3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cf3"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0365-cfader40": {
@@ -18286,42 +18678,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "atlassian-mcp-server?label=License&color=0052CC",
-          "url": "https://img.shields.io/github/license/atlassian/atlassian-mcp-server?label=License&amp;color=0052CC",
-          "originalUrl": "https://img.shields.io/github/license/atlassian/atlassian-mcp-server?label=License&amp;color=0052CC",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "atlassian-mcp-server?style=flat&logo=github&label=Stars&color=0052CC",
-          "url": "https://img.shields.io/github/stars/atlassian/atlassian-mcp-server?style=flat&amp;logo=github&amp;label=Stars&amp;color=0052CC",
-          "originalUrl": "https://img.shields.io/github/stars/atlassian/atlassian-mcp-server?style=flat&amp;logo=github&amp;label=Stars&amp;color=0052CC",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "Bitbucket-0052CC?logo=bitbucket&logoColor=white&labelColor=172B4D",
-          "url": "https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&amp;logoColor=white&amp;labelColor=172B4D",
-          "originalUrl": "https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&amp;logoColor=white&amp;labelColor=172B4D",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "Claude-D97757?style=for-the-badge&logo=claude&logoColor=white",
-          "url": "https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white",
-          "originalUrl": "https://img.shields.io/badge/Claude-D97757?style=for-the-badge&amp;logo=claude&amp;logoColor=white",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
           "sourceName": "Methodus Toolz screenshots",
           "sourceUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
           "label": "Color Fader",
@@ -18331,65 +18687,11 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled image"
         },
         {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "Confluence-0052CC?logo=confluence&logoColor=white&labelColor=172B4D",
-          "url": "https://img.shields.io/badge/Confluence-0052CC?logo=confluence&amp;logoColor=white&amp;labelColor=172B4D",
-          "originalUrl": "https://img.shields.io/badge/Confluence-0052CC?logo=confluence&amp;logoColor=white&amp;labelColor=172B4D",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white",
-          "url": "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&amp;logo=cursor&amp;logoColor=white",
-          "originalUrl": "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&amp;logo=cursor&amp;logoColor=white",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Azure MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.microsoft/azure",
-          "label": "Eclipse-Install_Azure_MCP_Server-b6ae1d?style=flat-square&logo=eclipse&logoColor=white",
-          "url": "https://img.shields.io/badge/Eclipse-Install_Azure_MCP_Server-b6ae1d?style=flat-square&amp;logo=eclipse&amp;logoColor=white",
-          "originalUrl": "https://img.shields.io/badge/Eclipse-Install_Azure_MCP_Server-b6ae1d?style=flat-square&amp;logo=eclipse&amp;logoColor=white",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "Hosting-Atlassian_Cloud-0052CC?logo=atlassian&logoColor=white",
-          "url": "https://img.shields.io/badge/Hosting-Atlassian_Cloud-0052CC?logo=atlassian&amp;logoColor=white",
-          "originalUrl": "https://img.shields.io/badge/Hosting-Atlassian_Cloud-0052CC?logo=atlassian&amp;logoColor=white",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Azure MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.microsoft/azure",
-          "label": "IntelliJ%20IDEA-Install%20Azure%20MCP%20Server-1495b1?style=flat-square&logo=intellijidea&logoColor=white",
-          "url": "https://img.shields.io/badge/IntelliJ%20IDEA-Install%20Azure%20MCP%20Server-1495b1?style=flat-square&amp;logo=intellijidea&amp;logoColor=white",
-          "originalUrl": "https://img.shields.io/badge/IntelliJ%20IDEA-Install%20Azure%20MCP%20Server-1495b1?style=flat-square&amp;logo=intellijidea&amp;logoColor=white",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Atlassian Rovo MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.atlassian/atlassian-mcp-server",
-          "label": "Jira-0052CC?logo=jira&logoColor=white&labelColor=172B4D",
-          "url": "https://img.shields.io/badge/Jira-0052CC?logo=jira&amp;logoColor=white&amp;labelColor=172B4D",
-          "originalUrl": "https://img.shields.io/badge/Jira-0052CC?logo=jira&amp;logoColor=white&amp;labelColor=172B4D",
-          "matchedBy": "loose:color",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Azure MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.microsoft/azure",
-          "label": "license-MIT-green?style=flat-square&color=2787B7",
-          "url": "https://img.shields.io/badge/license-MIT-green?style=flat-square&amp;color=2787B7",
-          "originalUrl": "https://img.shields.io/badge/license-MIT-green?style=flat-square&amp;color=2787B7",
+          "sourceName": "JustinAKAPaste AOL/AIM Prog Read Mes",
+          "sourceUrl": "https://justinakapaste.com/category/aolaim-prog-read-mes/",
+          "label": "ColorXP-Rocker.png?fit=1408%2C768&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/ColorXP-Rocker.png?fit=1408%2C768&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/ColorXP-Rocker.png?fit=1408%2C768&amp;ssl=1",
           "matchedBy": "loose:color",
           "kind": "crawled image"
         }
@@ -18405,11 +18707,21 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "exact:color"
         },
         {
-          "sourceName": "Aim Filez",
+          "sourceName": "Web page: Aim Filez",
           "label": "Color%20Rocker%20XP.Zip",
           "originalUrl": "http://aimthings.com/aimfilez/Color%20Rocker%20XP.Zip",
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/Color%20Rocker%20XP.Zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:color"
+        },
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "colorfulsexfader.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/colorfulsexfader.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/colorfulsexfader.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:color"
         },
         {
@@ -18417,14 +18729,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "colorcarnage.zip",
           "originalUrl": "http://www.cybernyse.com/colorcarnage.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/colorcarnage.zip",
-          "status": "candidate",
-          "matchedBy": "loose:color"
-        },
-        {
-          "sourceName": "LensHell faders",
-          "label": "colorfulsexfader.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/colorfulsexfader.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/colorfulsexfader.zip",
           "status": "candidate",
           "matchedBy": "loose:color"
         },
@@ -18543,11 +18847,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "exact:cfinal"
         },
         {
-          "sourceName": "LensHell AIM progs",
+          "sourceName": "Web page: LensHell AIM progs",
           "label": "causticfinal.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/causticfinal.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/causticfinal.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:cfinal"
         },
         {
@@ -18601,7 +18906,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cgagem.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cgagem.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cgagem.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cgagem"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0368-chain-lightning-pwsd": {
@@ -18635,24 +18950,25 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "qchain.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/qchain.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/qchain.exe",
-          "matchedBy": "loose:chain",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/6701/light.zip",
+          "url": "http://www.geocities.com/SiliconValley/6701/light.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/6701/light.zip",
+          "matchedBy": "loose:0368-chain-lightning-pwsd",
           "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "Microsoft/",
-          "label": "qchain.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/qchain.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/qchain.exe",
-          "status": "candidate",
-          "matchedBy": "loose:chain"
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chain.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chain.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chain.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chain"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -18691,7 +19007,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cham.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cham.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cham.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cham"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0370-chamber2": {
@@ -18726,7 +19052,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "chamber2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chamber2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamber2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chamber2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0371-chamberbombz4": {
@@ -18765,11 +19101,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "punter's",
+          "sourceName": "Web page: punter's",
           "label": "chamberbomb.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberbomb.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:0371-chamberbombz4"
         }
       ],
@@ -18807,7 +19144,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "chamberfinal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chamberfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chamberfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chamberfinal"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0373-chambomb": {
@@ -18877,7 +19224,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "champs3k.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/champs3k.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/champs3k.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:champs3k"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0375-chaos-xer-2": {
@@ -18912,7 +19269,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: x'ers",
+          "label": "chaosx2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/chaosx2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/chaosx2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chaosx2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0376-chat-assassin": {
@@ -18949,7 +19316,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "chatas.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chatas.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chatas.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatas"
+        },
+        {
+          "sourceName": "Web page: punter's",
+          "label": "chatas3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chatas3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chatas3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:chatas"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0377-chat-assassin-ii": {
@@ -18984,7 +19370,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "chatas2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chatas2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chatas2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatas2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0378-chat-assassin-iii": {
@@ -19089,7 +19485,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatphucka.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatphucka.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatphucka.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatphucka"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0381-chat-room-manager-by-spermie": {
@@ -19212,7 +19618,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatdestroy.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatdestroy.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatdestroy.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatdestroy"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0384-chatant": {
@@ -19247,7 +19663,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatant.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatant.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatant.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatant"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0385-chatbattle": {
@@ -19298,7 +19724,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatbattle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatbattle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatbattle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatbattle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0386-chatgather1": {
@@ -19333,7 +19769,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatgather1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatgather1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatgather1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatgather1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0387-chatlogger": {
@@ -19370,7 +19816,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatlogger.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatlogger.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatlogger.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatlogger"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0388-chatriot": {
@@ -19414,7 +19870,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatriot.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatriot.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatriot.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatriot"
+        },
+        {
+          "sourceName": "Web page: punter's",
+          "label": "chatriot.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/chatriot.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/chatriot.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatriot"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0389-chatspam": {
@@ -19484,6 +19959,33 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "waybackUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/files/chatspam.exe",
           "localPath": "files/external/aimfilez-com/chatspam-d24c653a.exe",
           "status": "ready",
+          "matchedBy": "exact:chatspam"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chatspam.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chatspam.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatspam"
+        },
+        {
+          "sourceName": "Web page: Aim Filez",
+          "label": "chatspam.zip",
+          "originalUrl": "http://aimthings.com/aimfilez/chatspam.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/chatspam.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chatspam"
+        },
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "chatspam.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/chatspam.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "exact:chatspam"
         }
       ],
@@ -19580,7 +20082,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chattoolz1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chattoolz1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chattoolz1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0392-chattoolz2": {
@@ -19644,11 +20156,21 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "prog's/misc a-m",
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "chattoolz2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/chattoolz2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chattoolz2"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
           "label": "chattoolz2beta.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chattoolz2beta.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:chattoolz2"
         }
       ],
@@ -19693,7 +20215,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "cheap.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/cheap.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheap.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cheap"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0394-cheater": {
@@ -19728,7 +20260,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cheater.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cheater.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cheater.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cheater"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0395-cheetov2": {
@@ -19763,7 +20305,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "cheetov2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip",
+          "localPath": "files/external/lenshellarchive-com/cheetov2-96b64da7.zip",
+          "status": "ready",
+          "matchedBy": "exact:cheetov2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0396-cheezypoofz-talker-shoppe": {
@@ -19815,8 +20367,27 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "List of Hackers on AOL Chain Mail",
+          "sourceUrl": "https://justinakapaste.com/list-of-hackers-on-aol-chain-mail/",
+          "label": "theshittalker.jpg?fit=470%2C366&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2019/01/theshittalker.jpg?fit=470%2C366&amp;ssl=1",
+          "matchedBy": "loose:talker",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "talker.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/talker.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/talker.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:talker"
+        },
         {
           "sourceName": "Progs Section 1",
           "label": "cheezy.zip",
@@ -19876,7 +20447,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "cheezyidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/cheezyidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cheezyidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cheezyidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0398-cherryv2": {
@@ -19911,7 +20492,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "cherry.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/cherry.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/cherry.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cherry"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0399-chex-by-z0ne": {
@@ -19948,11 +20539,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "prog's/misc a-m",
+          "sourceName": "Web page: prog's/misc a-m",
           "label": "chex.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chex.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chex.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "exact:chex"
         }
       ],
@@ -19990,7 +20582,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chilled.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chilled.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chilled.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chilled"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0401-chillen-like-a-villian-final": {
@@ -20025,7 +20627,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "chillen.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/chillen.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chillen.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chillen"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0402-chillin2k": {
@@ -20060,7 +20672,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "chillin.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/chillin.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/chillin.zip",
+          "localPath": "files/external/lenshellarchive-com/chillin-3c0df7f0.zip",
+          "status": "ready",
+          "matchedBy": "exact:chillin"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0403-chillz-attn-bot": {
@@ -20095,7 +20717,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chillz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chillz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chillz.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chillz"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0404-christmas-98": {
@@ -20141,7 +20773,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "christmas98.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/christmas98.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/christmas98.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:christmas98"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0405-chrome-tools-beta": {
@@ -20196,12 +20838,22 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "prog's/misc a-m",
+          "sourceName": "Web page: prog's/misc a-m",
           "label": "chrome.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chrome.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrome.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:0405-chrome-tools-beta"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chrometools.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chrometools.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chrometools.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chrometools"
         },
         {
           "sourceName": "Progs Section 1",
@@ -20255,7 +20907,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chronic.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chronic.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chronic.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:chronic-idle-and-5-0-yr-2000"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0407-chronic": {
@@ -20333,7 +20995,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "chronic2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/chronic2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronic2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chronic2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0409-chronic-3001": {
@@ -20376,7 +21048,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "chronic3001.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/chronic3001.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chronic3001.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chronic3001"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0410-chrnic-idle-4": {
@@ -20411,7 +21093,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "chronic420.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/chronic420.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronic420.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:chronic420"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0411-ci2": {
@@ -20446,7 +21138,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "ci2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ci2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/ci2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:ci2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0412-cia-by-budz": {
@@ -20481,7 +21183,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cia.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cia.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cia.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cia"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0413-cidle": {
@@ -20536,6 +21248,24 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
+          "sourceName": "Web page: idler's",
+          "label": "chronicidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:cidle"
+        },
+        {
+          "sourceName": "Web page: idler's",
+          "label": "cidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/cidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cidle"
+        },
+        {
           "sourceName": "Section 2",
           "label": "suicidle.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/suicidle.zip",
@@ -20548,14 +21278,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "suicidle.zip",
           "originalUrl": "http://24.185.191.87/progz/suicidle.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/suicidle.zip",
-          "status": "candidate",
-          "matchedBy": "loose:cidle"
-        },
-        {
-          "sourceName": "idler's",
-          "label": "chronicidle.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip",
-          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/chronicidle.zip",
           "status": "candidate",
           "matchedBy": "loose:cidle"
         },
@@ -20602,7 +21324,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "ciigidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/ciigidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/ciigidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:ciigidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0415-cikness-1-0": {
@@ -20672,7 +21404,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "citadel.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/citadel.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/citadel.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:citadel"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0417-ckthon2": {
@@ -20711,7 +21453,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "ckthon2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/ckthon2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/ckthon2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:ckthon2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0418-classic-idle-iii": {
@@ -20787,7 +21539,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "classicanarchy.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/classicanarchy.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/classicanarchy.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:classicanarchy"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0420-clear-haze1-1-0": {
@@ -20861,11 +21623,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "buster's",
+          "sourceName": "Web page: buster's",
           "label": "cleptobust.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/cleptobust.zip",
           "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/cleptobust.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:clepto"
         }
       ],
@@ -20903,7 +21666,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "clickbeta.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/clickbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/clickbeta.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:clickbeta"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0423-client": {
@@ -20928,42 +21701,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "Android/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Android/",
-          "label": "AirDroid_Desktop_Client_3.3.0.exe",
-          "url": "http://am.net/lib/TOOLS/Android/AirDroid_Desktop_Client_3.3.0.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Android/AirDroid_Desktop_Client_3.3.0.exe",
-          "matchedBy": "loose:client",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Symantec/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Symantec/",
-          "label": "ClientRemote.exe",
-          "url": "http://am.net/lib/TOOLS/Symantec/ClientRemote.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Symantec/ClientRemote.exe",
-          "matchedBy": "loose:client",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Symantec/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Symantec/",
-          "label": "clientremotefiles.zip",
-          "url": "http://am.net/lib/TOOLS/Symantec/clientremotefiles.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Symantec/clientremotefiles.zip",
-          "matchedBy": "loose:client",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "dfs_v41_win95client.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_win95client.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_win95client.exe",
-          "matchedBy": "loose:client",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "diabolic transfer 2",
@@ -20973,98 +21710,50 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "VMware/",
-          "sourceUrl": "http://am.net/lib/TOOLS/VMware/",
-          "label": "VMware-viclient-all-4.1.0-345043.exe",
-          "url": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-4.1.0-345043.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-4.1.0-345043.exe",
-          "matchedBy": "loose:client",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "VMware/",
-          "sourceUrl": "http://am.net/lib/TOOLS/VMware/",
-          "label": "VMware-viclient-all-5.1.0-786111.exe",
-          "url": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-5.1.0-786111.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-5.1.0-786111.exe",
-          "matchedBy": "loose:client",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "VMware/",
-          "sourceUrl": "http://am.net/lib/TOOLS/VMware/",
-          "label": "VMware-viclient.exe",
-          "url": "http://am.net/lib/TOOLS/VMware/VMware-viclient.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient.exe",
+          "sourceName": "Downloads.txt",
+          "sourceUrl": "http://am.net/lib/TOOLS/AOL/Downloads.txt",
+          "label": "http://download.newaol.com/clients/coffe/aolcombundle1200a/AOLDNLD.EXE",
+          "url": "http://download.newaol.com/clients/coffe/aolcombundle1200a/AOLDNLD.EXE",
+          "originalUrl": "http://download.newaol.com/clients/coffe/aolcombundle1200a/AOLDNLD.EXE",
           "matchedBy": "loose:client",
           "kind": "crawled download link"
         }
       ],
       "webImageLinks": [
         {
-          "sourceName": "Apify",
-          "sourceUrl": "https://github.com/mcp/com.apify/apify-mcp-server",
-          "label": "https://raw.githubusercontent.com/apify/apify-mcp-server/refs/heads/master/docs/mcp-clients.png",
-          "url": "https://raw.githubusercontent.com/apify/apify-mcp-server/refs/heads/master/docs/mcp-clients.png",
-          "originalUrl": "https://raw.githubusercontent.com/apify/apify-mcp-server/refs/heads/master/docs/mcp-clients.png",
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "ftpclient1.gif?resize=507%2C497&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/ftpclient1.gif?resize=507%2C497&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/ftpclient1.gif?resize=507%2C497&#038;ssl=1",
+          "matchedBy": "loose:client",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/ftpclient1.gif?ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/ftpclient1.gif?ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/ftpclient1.gif?ssl=1",
           "matchedBy": "loose:client",
           "kind": "crawled image"
         }
       ],
       "mirrorLinks": [
         {
-          "sourceName": "VMware/",
-          "label": "VMware-viclient-all-4.1.0-345043.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-4.1.0-345043.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-4.1.0-345043.exe",
-          "status": "candidate",
-          "matchedBy": "loose:client"
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "diabolictrans2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/diabolictrans2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/diabolictrans2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:diabolictrans2"
         },
         {
-          "sourceName": "VMware/",
-          "label": "VMware-viclient-all-4.1.0-345043.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-5.1.0-786111.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient-all-5.1.0-786111.exe",
-          "status": "candidate",
-          "matchedBy": "loose:client"
-        },
-        {
-          "sourceName": "Android/",
-          "label": "AirDroid_Desktop_Client_3.3.0.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Android/AirDroid_Desktop_Client_3.3.0.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Android/AirDroid_Desktop_Client_3.3.0.exe",
-          "status": "candidate",
-          "matchedBy": "loose:client"
-        },
-        {
-          "sourceName": "Symantec/",
-          "label": "ClientRemote.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Symantec/ClientRemote.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Symantec/ClientRemote.exe",
-          "status": "candidate",
-          "matchedBy": "loose:client"
-        },
-        {
-          "sourceName": "Symantec/",
-          "label": "clientremotefiles.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Symantec/clientremotefiles.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Symantec/clientremotefiles.zip",
-          "status": "candidate",
-          "matchedBy": "loose:client"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "dfs_v41_win95client.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_win95client.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_win95client.exe",
-          "status": "candidate",
-          "matchedBy": "loose:client"
-        },
-        {
-          "sourceName": "VMware/",
-          "label": "VMware-viclient.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/VMware/VMware-viclient.exe",
+          "sourceName": "Downloads.txt",
+          "label": "AOLDNLD.EXE",
+          "originalUrl": "http://download.newaol.com/clients/coffe/aolcombundle1200a/AOLDNLD.EXE",
+          "waybackUrl": "http://download.newaol.com/clients/coffe/aolcombundle1200a/AOLDNLD.EXE",
           "status": "candidate",
           "matchedBy": "loose:client"
         }
@@ -21126,7 +21815,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "clinkv3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/clinkv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/clinkv3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:clinkv3"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0425-cloneaol": {
@@ -21196,15 +21895,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://aimfilez.com/files/aimcloner.exe",
           "matchedBy": "loose:cloner",
           "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Multimedia/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Multimedia/",
-          "label": "dvdcloner.exe",
-          "url": "http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe",
-          "matchedBy": "loose:cloner",
-          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -21219,19 +21909,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:cloner"
         },
         {
-          "sourceName": "idler's",
+          "sourceName": "Web page: idler's",
           "label": "cloneridle.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cloneridle.zip",
-          "status": "candidate",
-          "matchedBy": "loose:cloner"
-        },
-        {
-          "sourceName": "Multimedia/",
-          "label": "dvdcloner.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:cloner"
         }
       ],
@@ -21306,11 +21989,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "prog's/misc a-m",
+          "sourceName": "Web page: prog's/misc a-m",
           "label": "clonetech.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/clonetech.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/clonetech.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:clonetech-win-98-nt-xp-yr-09"
         }
       ],
@@ -21365,7 +22049,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "cnt223.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cnt223.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/cnt223.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cnt223"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0430-co-clear": {
@@ -21400,7 +22094,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "coclear.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/coclear.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/coclear.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:coclear"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0431-codegennapi": {
@@ -21435,7 +22139,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "codegennapi.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/codegennapi.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/codegennapi.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:codegennapi"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0432-codiene-1o": {
@@ -21470,7 +22184,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "codiene.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/codiene.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/codiene.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:codiene-b-9-b-7-ba"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0433-coke": {
@@ -21511,7 +22235,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "coke.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/coke.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/coke.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:coke"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0434-cold": {
@@ -21543,26 +22277,18 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip",
           "matchedBy": "exact:coldreboot",
           "kind": "crawled download link"
-        },
-        {
-          "sourceName": "AM/",
-          "sourceUrl": "http://am.net/lib/TOOLS/AM/",
-          "label": "REBOOT.EXE",
-          "url": "http://am.net/lib/TOOLS/AM/REBOOT.EXE",
-          "originalUrl": "http://am.net/lib/TOOLS/AM/REBOOT.EXE",
-          "matchedBy": "loose:coldreboot",
-          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "AM/",
-          "label": "REBOOT.EXE",
-          "originalUrl": "http://am.net/lib/TOOLS/AM/REBOOT.EXE",
-          "waybackUrl": "http://am.net/lib/TOOLS/AM/REBOOT.EXE",
-          "status": "candidate",
-          "matchedBy": "loose:coldreboot"
+          "sourceName": "Web page: punter's",
+          "label": "coldreboot.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/coldreboot.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:coldreboot"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -21599,7 +22325,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "coldbreeze.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/coldbreeze.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/coldbreeze.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:coldbreeze"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0436-cold-ccoms": {
@@ -21669,7 +22405,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "cold10.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cold10.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cold10.zip",
+          "localPath": "files/external/lenshellarchive-com/cold10-ef2c6ed6.zip",
+          "status": "ready",
+          "matchedBy": "exact:cold10"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0438-collapse-mp3-player": {
@@ -21704,7 +22450,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "collapsemp3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/collapsemp3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/collapsemp3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:collapsemp3"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0439-collect-1-5": {
@@ -21748,7 +22504,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "collect15.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/collect15.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/collect15.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:collect15"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0440-collectorfinal": {
@@ -21996,7 +22762,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "comsix22.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/comsix22.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/comsix22.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:comsix"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "comsix33.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/comsix33.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/comsix33.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:comsix"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0446-comic-coms-masta-inc-production": {
@@ -22037,8 +22822,39 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "comic.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comic.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comic.zip",
+          "localPath": "files/external/lenshellarchive-com/comic-ef10b5f3.zip",
+          "status": "ready",
+          "matchedBy": "exact:comic"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "comic.zip",
+          "localPath": "files/external/lenshellarchive-com/comic-ef10b5f3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comic.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comic.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "comic read me.txt"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "C-Com / command list"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "exact:comic"
+        }
+      ]
     },
     "prog-0447-compact-mp3": {
       "programId": "prog-0447-compact-mp3",
@@ -22081,7 +22897,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "compactplayer.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/compactplayer.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/compactplayer.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:compactplayer"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0448-completion": {
@@ -22116,7 +22942,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "completion.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/completion.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/completion.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:completion"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0449-comz": {
@@ -22151,7 +22987,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dacomz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dacomz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dacomz.zip",
+          "localPath": "files/external/lenshellarchive-com/dacomz-8ed8fc8a.zip",
+          "status": "ready",
+          "matchedBy": "exact:dacomz"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0450-condom-linker": {
@@ -22186,7 +23032,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "condomlink.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/condomlink.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/condomlink.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:condomlink"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0451-config": {
@@ -22211,29 +23067,11 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "APC/",
-          "sourceUrl": "http://am.net/lib/TOOLS/APC/",
-          "label": "APC_Device_IP_Configuration_Wizard.exe",
-          "url": "http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe",
-          "matchedBy": "loose:config",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "Aim Filez",
           "sourceUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfiles.htm",
           "label": "Bot Config",
           "url": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip",
           "originalUrl": "http://aimthings.com/aimfilez/BotConfig.zip",
-          "matchedBy": "loose:config",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "HP/",
-          "sourceUrl": "http://am.net/lib/TOOLS/HP/",
-          "label": "HPDriverConfigurationUtility.zip",
-          "url": "http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip",
           "matchedBy": "loose:config",
           "kind": "crawled download link"
         },
@@ -22247,7 +23085,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "aol star",
+          "sourceUrl": "https://justinakapaste.com/search/aol+star/",
+          "label": "MSConfig_screenshot.png?fit=400%2C277&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/MSConfig_screenshot.png?fit=400%2C277&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/MSConfig_screenshot.png?fit=400%2C277&amp;ssl=1",
+          "matchedBy": "loose:config",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Web page: Aim Filez",
@@ -22256,22 +23104,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip",
           "localPath": "",
           "status": "http-404",
-          "matchedBy": "loose:config"
-        },
-        {
-          "sourceName": "APC/",
-          "label": "APC_Device_IP_Configuration_Wizard.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe",
-          "status": "candidate",
-          "matchedBy": "loose:config"
-        },
-        {
-          "sourceName": "HP/",
-          "label": "HPDriverConfigurationUtility.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip",
-          "status": "candidate",
           "matchedBy": "loose:config"
         }
       ],
@@ -22309,7 +23141,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "confucktion.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/confucktion.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/confucktion.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:confucktion"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0453-constipated": {
@@ -22344,7 +23186,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "constipated.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/constipated.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/constipated.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:constipated"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0454-contro1": {
@@ -22379,7 +23231,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: x'ers",
+          "label": "control1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/control1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/control1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:control1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0455-convicted-criminalz": {
@@ -22414,7 +23276,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "convicted.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/convicted.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/convicted.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:convicted"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0456-cools-cracker-helper": {
@@ -22520,6 +23392,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "localPath": "",
           "status": "http-404",
           "matchedBy": "exact:corruption"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "corruption.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/corruption.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/corruption.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:corruption"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -22556,7 +23437,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "covert12.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/covert12.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/covert12.zip",
+          "localPath": "files/external/lenshellarchive-com/covert12-e65e2b46.zip",
+          "status": "ready",
+          "matchedBy": "exact:covert12"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0459-covert-opp": {
@@ -22598,7 +23489,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "covertopp.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/covertopp.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/covertopp.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:covertopp"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0460-cr0mbies-idler": {
@@ -22633,7 +23534,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "crombies.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/crombies.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/crombies.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crombies"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0461-cr4x-z0ne": {
@@ -22795,7 +23706,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "cr4xorpublic.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cr4xorpublic.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cr4xorpublic.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cr4xorpublic"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0465-crack": {
@@ -22908,7 +23829,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "crackdealer1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackdealer1.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackdealer1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crackdealer1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0468-crackem": {
@@ -22957,7 +23888,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "crackem1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackem1.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackem1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crackem1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0469-cracker5": {
@@ -23054,7 +23995,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "crackheadv3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackheadv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolcrackers/crackheadv3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:crackhead"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0472-crackish-by-z0ne": {
@@ -23107,11 +24058,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "cracker's",
+          "sourceName": "Web page: cracker's",
           "label": "crackish.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/crackish.zip",
           "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/crackish.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "exact:crackish"
         }
       ],
@@ -23153,7 +24105,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "cracklab.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/cracklab.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/cracklab.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cracklab"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0474-crackpipe-linker": {
@@ -23188,7 +24150,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cracklinker.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cracklinker.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cracklinker"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0475-crap-idleremix": {
@@ -23264,7 +24236,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "crayon.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/crayon.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/crayon.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crayon"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0477-crb": {
@@ -23299,7 +24281,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: buster's",
+          "label": "casablanca.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/casablanca.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/casablanca.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:casablanca"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0478-cream-c-coms-by-festa": {
@@ -23334,7 +24326,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "creamccoms.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/creamccoms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/creamccoms.zip",
+          "localPath": "files/external/lenshellarchive-com/creamccoms-1ce36078.zip",
+          "status": "ready",
+          "matchedBy": "exact:creamccoms"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0479-cream-toolz-1-0": {
@@ -23369,7 +24371,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "creamtoolz1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/creamtoolz1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/creamtoolz1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:creamtoolz1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0480-creamkid-linker2": {
@@ -23404,7 +24416,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "creamlinker2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/creamlinker2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/creamlinker2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:creamlinker2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0481-creamkid-scroller": {
@@ -23439,7 +24461,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "creamscroller2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/creamscroller2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/creamscroller2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:creamscroller2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0482-crisis-toolz": {
@@ -23474,7 +24506,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "crisistoolz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/crisistoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/crisistoolz.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crisistoolz"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0483-crnic": {
@@ -23509,7 +24551,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "cronicidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/cronicidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cronicidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cronicidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0484-crucial-conflict": {
@@ -23544,7 +24596,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "crucial.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/crucial.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/crucial.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crucial"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0485-crusade": {
@@ -23588,7 +24650,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "crusade6.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/crusade6.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/crusade6.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crusade6"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0486-crusty-penis": {
@@ -23683,7 +24755,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "cryo.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/cryo.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/cryo.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cryo"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0489-cryo-chamber": {
@@ -23718,7 +24800,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cryochamber.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cryochamber.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cryochamber.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cryochamber"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0490-cryptonite-2001": {
@@ -23753,7 +24845,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cryptonite2001.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cryptonite2001.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cryptonite2001.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cryptonite2001"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0491-cube": {
@@ -23814,10 +24916,38 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip",
           "matchedBy": "exact:cubepunt",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/cube.zip",
+          "matchedBy": "exact:cube",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Visual Basic Section",
+          "label": "cube.zip",
+          "originalUrl": "http://lenshellarchive.com/VBfiles/cube.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cube.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cube"
+        },
+        {
+          "sourceName": "Web page: punter's",
+          "label": "cubepunt.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/cubepunt.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cubepunt"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0492-cuntpunt": {
@@ -23863,7 +24993,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "cuntpunt.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/cuntpunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/cuntpunt.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cuntpunt"
+        },
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "cuntpunt.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/punters/cuntpunt.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/punters/cuntpunt.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cuntpunt"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0493-cupidle": {
@@ -23898,7 +25047,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "cupidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/cupidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/cupidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cupidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0494-curb-ified-idler": {
@@ -23939,7 +25098,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "curbified.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/curbified.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/curbified.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:curbified"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0495-cyanosis": {
@@ -23983,7 +25152,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "cyanosis.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/cyanosis.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cyanosis.zip",
+          "localPath": "files/external/lenshellarchive-com/cyanosis-a7d49aad.zip",
+          "status": "ready",
+          "matchedBy": "exact:cyanosis"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0496-cyclone": {
@@ -24037,11 +25216,21 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "mmer's/server's",
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cyclone.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cyclone.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cyclone.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cyclone"
+        },
+        {
+          "sourceName": "Web page: mmer's/server's",
           "label": "cyclonemm.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/cyclonemm.zip",
           "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/cyclonemm.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:cyclone"
         }
       ],
@@ -24079,7 +25268,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cyclone2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cyclone2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cyclone2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cyclone2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0498-cytex2": {
@@ -24114,7 +25313,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "cytex.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cytex.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cytex.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:cytex"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0499-cllector-s": {
@@ -24151,7 +25360,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "collectors1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/collectors1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/collectors1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:collectors1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0500-cllector-s-remix": {
@@ -24192,7 +25411,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "collectsremix.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/collectsremix.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/collectsremix.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:collectsremix"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0501-cllectors": {
@@ -24233,7 +25462,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "collectors2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/collectors2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/collectors2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:collectors2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0502-cm-chmber": {
@@ -24278,8 +25517,60 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "comchamber.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comchamber.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comchamber.zip",
+          "localPath": "files/external/lenshellarchive-com/comchamber-9d4eba1d.zip",
+          "status": "ready",
+          "matchedBy": "exact:comchamber"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "comchamber.zip",
+          "localPath": "files/external/lenshellarchive-com/comchamber-9d4eba1d.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/comchamber.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/comchamber.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "readme now.txt"
+          ],
+          "preferredAuthor": "a0de",
+          "authorCandidates": [
+            {
+              "name": "a0de",
+              "sourceFile": "readme now.txt",
+              "pattern": "trailing by"
+            }
+          ],
+          "purposeSignals": [
+            "Fader / text styler",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Screen-name utility",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "readme now.txt",
+              "text": "version of com chamber, without the error and maybe 10 or 20 more coms."
+            },
+            {
+              "sourceFile": "readme now.txt",
+              "text": "this prog..i dont really care just as long as it says its by a0de."
+            }
+          ],
+          "urls": [
+            "http://a0de.cjb.net"
+          ],
+          "matchedBy": "exact:comchamber"
+        }
+      ]
     },
     "prog-0503-c-cms-v": {
       "programId": "prog-0503-c-cms-v",
@@ -24344,8 +25635,45 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "co2coms.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/co2coms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/co2coms.zip",
+          "localPath": "files/external/lenshellarchive-com/co2coms-6c3ab2e6.zip",
+          "status": "ready",
+          "matchedBy": "exact:co2coms"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "co2coms.zip",
+          "localPath": "files/external/lenshellarchive-com/co2coms-6c3ab2e6.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/co2coms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/co2coms.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "C�� C�ms-Read Me.txt"
+          ],
+          "preferredAuthor": "Carbøn",
+          "authorCandidates": [
+            {
+              "name": "Carbøn",
+              "sourceFile": "C�� C�ms-Read Me.txt",
+              "pattern": "byline"
+            }
+          ],
+          "purposeSignals": [
+            "Source / developer file"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "exact:co2coms"
+        }
+      ]
     },
     "prog-0504-cn-hv-yr-ttnt": {
       "programId": "prog-0504-cn-hv-yr-ttnt",
@@ -24379,7 +25707,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "yourattention.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/yourattention.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/yourattention.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:yourattention"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0505-d3kfinal": {
@@ -24414,7 +25752,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "d3kfinal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/d3kfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/d3kfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:d3kfinal"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0506-d8bl-tlz": {
@@ -24474,7 +25822,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "dailyfinal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dailyfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dailyfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dailyfinal"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0508-dailyidle": {
@@ -24509,7 +25867,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "dailyidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dailyidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dailyidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dailyidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0509-danger-zone": {
@@ -24553,7 +25921,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dangerzone.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dangerzone.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dangerzone.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dangerzone"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0510-dank-tank": {
@@ -24590,7 +25968,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "danktank.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/danktank.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/danktank.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:danktank"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0511-dark-age-fader-1-0": {
@@ -24627,11 +26015,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "LensHell faders",
+          "sourceName": "Web page: LensHell faders",
           "label": "darkagefader.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/darkagefader.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:darkagefader-1foraol-7-8win-all"
         }
       ],
@@ -24715,7 +26104,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "darkdiablo.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darkdiablo.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darkdiablo.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkdiablo"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0514-dark-ice-phader-x": {
@@ -24759,7 +26158,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "darkicephade.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/darkicephade.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/darkicephade.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkicephade"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0515-dark-program": {
@@ -24807,7 +26216,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "darkprogram.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darkprogram.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darkprogram.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkprogram"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0516-dark-program-v-2": {
@@ -24854,7 +26273,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "darkprogram2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darkprogram2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darkprogram2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkprogram2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0517-dark-side-clicker": {
@@ -25075,6 +26504,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip",
           "matchedBy": "loose:0517-dark-side-clicker",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip",
+          "url": "http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip",
+          "matchedBy": "loose:0517-dark-side-clicker",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [
@@ -25187,7 +26625,16 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled image"
         }
       ],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "CLICKER.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip",
+          "status": "candidate",
+          "matchedBy": "loose:0517-dark-side-clicker"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0518-dark-tides-1-0": {
@@ -25222,7 +26669,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "darktides.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darktides.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darktides.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darktides"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0519-dark-toolz": {
@@ -25325,7 +26782,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "darkday.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/darkday.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/darkday.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkday"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0521-darker-image-final": {
@@ -25449,9 +26916,37 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/",
           "matchedBy": "loose:0521-darker-image-final",
           "kind": "crawled image"
+        },
+        {
+          "sourceName": "Malu Pride Programmers",
+          "sourceUrl": "https://web.archive.org/web/20010504044037/http://come.to/MaluPride",
+          "label": "image",
+          "url": "https://web.archive.org/web/20010714103809/http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/",
+          "originalUrl": "http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "http://methodus2000.com",
+          "sourceUrl": "http://methodus2000.com",
+          "label": "image",
+          "url": "http://methodus2000.com/",
+          "originalUrl": "http://methodus2000.com/",
+          "matchedBy": "loose:0521-darker-image-final",
+          "kind": "source-page image"
         }
       ],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "darkerimage1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/darkerimage1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/darkerimage1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkerimage1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0522-darklite": {
@@ -25492,7 +26987,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "darklite.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darklite.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darklite.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darklite"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0523-darkwater": {
@@ -25536,7 +27041,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "darkwater.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darkwater.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darkwater.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkwater"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0524-davidstoolsfinal": {
@@ -25589,7 +27104,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "davidfinal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/davidfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/davidfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:davidfinal"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0525-dazed-beta-2": {
@@ -25633,6 +27158,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "localPath": "files/external/angelfire-com/dazed-901646c9.zip",
           "status": "ready",
           "matchedBy": "loose:0525-dazed-beta-2"
+        },
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dazedbeta2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dazedbeta2.zip",
+          "localPath": "files/external/lenshellarchive-com/dazedbeta2-3e8b9fce.zip",
+          "status": "ready",
+          "matchedBy": "exact:dazedbeta2"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -25671,7 +27205,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "db3remix.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/db3remix.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/db3remix.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:db3remix"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0527-dch": {
@@ -25706,7 +27250,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dch.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dch.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dch.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dch"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0528-dead-man-1-0-for-aol-4-0": {
@@ -25749,7 +27303,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "deadman1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/deadman1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/deadman1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deadman1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0529-deadlock": {
@@ -25786,7 +27350,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "deadlock.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/deadlock.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/deadlock.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deadlock"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0530-deadlyxer": {
@@ -25821,7 +27395,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: x'ers",
+          "label": "deadlyxer.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolxers/deadlyxer.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002953/http://lenshellarchive.com/Progs/aolxers/deadlyxer.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deadlyxer"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0531-death": {
@@ -25904,6 +27488,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP",
+          "url": "http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP",
+          "matchedBy": "loose:death",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "kaotic death toolz beta2",
@@ -25953,19 +27546,21 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:death"
         },
         {
-          "sourceName": "prog's/misc a-m",
+          "sourceName": "Web page: prog's/misc a-m",
           "label": "cpudeathping2.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cpudeathping2.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:death"
         },
         {
-          "sourceName": "LensHell AIM progs",
+          "sourceName": "Web page: LensHell AIM progs",
           "label": "deathbyaim.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/deathbyaim.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:death"
         },
         {
@@ -25973,6 +27568,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "deathcom3.zip",
           "originalUrl": "http://www.cybernyse.com/deathcom3.zip",
           "waybackUrl": "https://web.archive.org/web/20010202193900/http://www.cybernyse.com/deathcom3.zip",
+          "status": "candidate",
+          "matchedBy": "loose:death"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "DeathWishDog.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Campus/9256/DeathWishDog.ZIP",
           "status": "candidate",
           "matchedBy": "loose:death"
         },
@@ -26048,7 +27651,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "deathripple2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/deathripple2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/deathripple2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deathripple2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0533-decade-tools-lite": {
@@ -26144,7 +27757,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "decadetools.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/decadetools.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/decadetools.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:decadetools"
+        },
+        {
+          "sourceName": "Web page: Yahoo Progs",
+          "label": "decadetools.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/decadetools.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/decadetools.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:decadetools"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0535-decapi": {
@@ -26185,8 +27817,48 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "decapiccomz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/decapiccomz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/decapiccomz.zip",
+          "localPath": "files/external/lenshellarchive-com/decapiccomz-913a0be0.zip",
+          "status": "ready",
+          "matchedBy": "exact:decapiccomz"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "decapiccomz.zip",
+          "localPath": "files/external/lenshellarchive-com/decapiccomz-913a0be0.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/decapiccomz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/decapiccomz.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "readme.txt"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Source / developer file"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "readme.txt",
+              "text": "included all the files that this program needs, if a window poppes up"
+            },
+            {
+              "sourceFile": "readme.txt",
+              "text": "automaticlly send you the updated version. PLease report to me any"
+            }
+          ],
+          "urls": [],
+          "matchedBy": "exact:decapiccomz"
+        }
+      ]
     },
     "prog-0536-decipherpublic": {
       "programId": "prog-0536-decipherpublic",
@@ -26228,7 +27900,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "decipher.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/decipher.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/decipher.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:decipher"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0537-dedchek": {
@@ -26270,7 +27952,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "aodmcheck.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/aodmcheck.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/aodmcheck.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:aodmcheck"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0538-deepfr1": {
@@ -26305,7 +27997,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "deepfreeze.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/deepfreeze.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/deepfreeze.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deepfreeze"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0539-def-coms": {
@@ -26349,7 +28051,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "defcom.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/defcom.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/defcom.zip",
+          "localPath": "files/external/lenshellarchive-com/defcom-d85f764c.zip",
+          "status": "ready",
+          "matchedBy": "exact:defcom"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0540-defcoms": {
@@ -26397,8 +28109,58 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "defcoms2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip",
+          "localPath": "files/external/lenshellarchive-com/defcoms2-a7622866.zip",
+          "status": "ready",
+          "matchedBy": "exact:defcoms2"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "defcoms2.zip",
+          "localPath": "files/external/lenshellarchive-com/defcoms2-a7622866.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/defcoms2.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "readme.txt"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "C-Com / command list",
+            "Scroller / macro",
+            "Screen-name utility",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [
+            "AOL 4",
+            "AOL 5"
+          ],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "readme.txt",
+              "text": "sup! thank you for using my newest ccom called def coms version two!"
+            },
+            {
+              "sourceFile": "readme.txt",
+              "text": "screen name features (new, delete)"
+            },
+            {
+              "sourceFile": "readme.txt",
+              "text": "thanks again for using this program."
+            }
+          ],
+          "urls": [],
+          "matchedBy": "exact:defcoms2"
+        }
+      ]
     },
     "prog-0541-defcon": {
       "programId": "prog-0541-defcon",
@@ -26476,7 +28238,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "defcon.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/defcon.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/defcon.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:0542-defcon2"
+        },
+        {
+          "sourceName": "Web page: termer's",
+          "label": "defcon.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/defcon.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/defcon.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:0542-defcon2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0543-demolishing-universe2": {
@@ -26574,7 +28355,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "demolishing.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/demolishing.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/demolishing.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:demolishing"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0544-demon-idle": {
@@ -26609,7 +28400,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "demonidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/demonidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/demonidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:demonidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0545-demon-resurrection2": {
@@ -26639,15 +28440,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "authorConflict": "",
       "webMentions": [],
       "webDownloadLinks": [
-        {
-          "sourceName": "Anti-Spyware/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Anti-Spyware/",
-          "label": "BHODemon.exe",
-          "url": "http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe",
-          "matchedBy": "loose:demon",
-          "kind": "crawled download link"
-        },
         {
           "sourceName": "Progs Section 1",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
@@ -26688,19 +28480,30 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "Anti-Spyware/",
-          "label": "BHODemon.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Anti-Spyware/BHODemon.exe",
-          "status": "candidate",
+          "sourceName": "Web page: punter's",
+          "label": "demon.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/demon.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:demon"
+        },
+        {
+          "sourceName": "Web page: punter's",
+          "label": "demon2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/demon2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/demon2.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:demon"
         },
         {
-          "sourceName": "Yahoo Progs",
+          "sourceName": "Web page: Yahoo Progs",
           "label": "demonslash.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/booters/demonslash.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:demon"
         }
       ],
@@ -26747,7 +28550,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "descent10.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/descent10.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/descent10.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:descent"
+        },
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "descent2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/descent2.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/descent2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:descent"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0547-desert-storm-2o": {
@@ -26782,7 +28604,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "desertstorm2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/desertstorm2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/desertstorm2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:desertstorm2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0548-desert-fox-3": {
@@ -26817,7 +28649,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "desertfoxidle1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/desertfoxidle1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/desertfoxidle1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:desertfoxidle1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0549-destiny": {
@@ -26871,7 +28713,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "destalpha.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/destalpha.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/destalpha.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:destalpha"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0550-destiny": {
@@ -26963,7 +28815,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "destiny.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/destiny.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/destiny.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:destiny-2-faygo-beta-3"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0552-destiny": {
@@ -27079,15 +28941,38 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "c-coms",
+          "sourceName": "Web page: c-coms",
           "label": "destroyer.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/destroyer.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/destroyer.zip",
-          "status": "candidate",
+          "localPath": "files/external/lenshellarchive-com/destroyer-c37f31fa.zip",
+          "status": "ready",
           "matchedBy": "loose:0554-destroyer-c-com-1-2"
         }
       ],
-      "externalArchiveTextEvidence": []
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "destroyer.zip",
+          "localPath": "files/external/lenshellarchive-com/destroyer-c37f31fa.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/destroyer.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/destroyer.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "READ ME!!!!!!!!!.tx_"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Media / file utility",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "loose:0554-destroyer-c-com-1-2"
+        }
+      ]
     },
     "prog-0555-destruction": {
       "programId": "prog-0555-destruction",
@@ -27132,6 +29017,24 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "destructionfinal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/destructionfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destructionfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:destruction"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "destruction.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/destruction.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destruction.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:destruction"
+        },
+        {
           "sourceName": "Section 2",
           "label": "wickeddestruction.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/wickeddestruction.zip",
@@ -27144,14 +29047,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "wickeddestruction.zip",
           "originalUrl": "http://24.185.191.87/progz/wickeddestruction.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/wickeddestruction.zip",
-          "status": "candidate",
-          "matchedBy": "loose:destruction"
-        },
-        {
-          "sourceName": "prog's/misc a-m",
-          "label": "destructionfinal.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/destructionfinal.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destructionfinal.zip",
           "status": "candidate",
           "matchedBy": "loose:destruction"
         }
@@ -27225,7 +29120,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "destscrambler.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/destscrambler.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/destscrambler.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:destscrambler"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0558-destruction-toolz-2-0-c-coms-by-google": {
@@ -27281,8 +29186,51 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dt20.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dt20.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dt20.zip",
+          "localPath": "files/external/lenshellarchive-com/dt20-a5cf5de5.zip",
+          "status": "ready",
+          "matchedBy": "exact:dt20"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dt20.zip",
+          "localPath": "files/external/lenshellarchive-com/dt20-a5cf5de5.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dt20.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dt20.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "Chat Commands.txt"
+          ],
+          "preferredAuthor": "Google",
+          "authorCandidates": [
+            {
+              "name": "Google",
+              "sourceFile": "Chat Commands.txt",
+              "pattern": "trailing by"
+            }
+          ],
+          "purposeSignals": [
+            "All-in-one prog suite",
+            "Fader / text styler",
+            "Idler / AFK bot",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Media / file utility",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "exact:dt20"
+        }
+      ]
     },
     "prog-0559-destruction-toolz-2-0-final": {
       "programId": "prog-0559-destruction-toolz-2-0-final",
@@ -27327,7 +29275,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dt2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dt2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dt2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dt2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0560-detonator": {
@@ -27364,7 +29322,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "detonator.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/detonator.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/detonator.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:detonator"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0561-devastation-v1": {
@@ -27465,7 +29433,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "deveanzetoolz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/deveanzetoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/deveanzetoolz.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deveanzetoolz"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0563-devious-v7-3": {
@@ -27500,7 +29478,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "deviousv73.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/deviousv73.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/deviousv73.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deviousv73"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0564-devis73": {
@@ -27585,7 +29573,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: mmer's/server's",
+          "label": "darkmm.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/darkmm.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/darkmm.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darkmm"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0567-diablo-v1-2": {
@@ -27694,7 +29692,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "diabolicallagger.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/diabolicallagger.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/diabolicallagger.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:diabolicallagger"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0570-diegod": {
@@ -27735,7 +29743,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "dgfinal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/dgfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/dgfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dgfinal"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0571-digilite": {
@@ -27774,7 +29792,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: cracker's",
+          "label": "digilite103.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolcrackers/digilite103.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/digilite103.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:digilite"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0572-digital-dynasty": {
@@ -27835,7 +29863,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "ddfinal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/ddfinal.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/ddfinal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:ddfinal"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0573-digital-impact": {
@@ -27879,7 +29917,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "digitalimpact.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/digitalimpact.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/digitalimpact.zip",
+          "localPath": "files/external/lenshellarchive-com/digitalimpact-1a14b86b.zip",
+          "status": "ready",
+          "matchedBy": "exact:digitalimpact"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0574-digital-interuption": {
@@ -27923,7 +29971,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "diginteruption.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/diginteruption.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/diginteruption.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:diginteruption"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0575-digital-punter": {
@@ -27958,7 +30016,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "digital2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/digital2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/digital2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:digital2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0576-digital-punter": {
@@ -27993,7 +30061,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "digpunter.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/digpunter.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/digpunter.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:digpunter"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0577-digital-shock-beta-1-2": {
@@ -28025,10 +30103,29 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dsbeta12.zip",
           "matchedBy": "exact:digital-shock-beta-1-2",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/digital.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/digital.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/digital.zip",
+          "matchedBy": "loose:0577-digital-shock-beta-1-2",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dsbeta12.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dsbeta12.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dsbeta12.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dsbeta12"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0578-digital-bust": {
@@ -28063,7 +30160,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: buster's",
+          "label": "digitalbust.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/digitalbust.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/digitalbust.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:digitalbust"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0579-digits": {
@@ -28098,7 +30205,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "digits.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/digits.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/digits.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:digits"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0580-dingo": {
@@ -28133,7 +30250,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dingo.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dingo.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dingo.zip",
+          "localPath": "files/external/lenshellarchive-com/dingo-b4055cfc.zip",
+          "status": "ready",
+          "matchedBy": "exact:dingo"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0581-dioxide": {
@@ -28168,7 +30295,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dioxide.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dioxide.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dioxide.zip",
+          "localPath": "files/external/lenshellarchive-com/dioxide-f8337a3d.zip",
+          "status": "ready",
+          "matchedBy": "exact:dioxide"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0582-direct": {
@@ -28260,6 +30397,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "mirrorLinks": [
         {
+          "sourceName": "Web page: c-coms",
+          "label": "directbeta.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/directbeta.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/directbeta.zip",
+          "localPath": "files/external/lenshellarchive-com/directbeta-bf0426e9.zip",
+          "status": "ready",
+          "matchedBy": "exact:directbeta"
+        },
+        {
           "sourceName": "Aim Filez",
           "label": "Msg%20Direct.zip",
           "originalUrl": "http://aimthings.com/aimfilez/Msg%20Direct.zip",
@@ -28337,7 +30483,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "direct3k.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/direct3k.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/direct3k.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:direct3k"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0585-dirtysou": {
@@ -28381,6 +30537,24 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "dirty1.gif?resize=516%2C538&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?resize=516%2C538&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?resize=516%2C538&#038;ssl=1",
+          "matchedBy": "loose:dirty",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/dirty1.gif?ssl=1",
+          "matchedBy": "loose:dirty",
+          "kind": "crawled image"
+        },
+        {
           "sourceName": "Methodus Toolz screenshots",
           "sourceUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
           "label": "Shoot Dirty People Game",
@@ -28390,7 +30564,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled image"
         }
       ],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dirty.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dirty.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dirty.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dirty"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0586-diskreet60": {
@@ -28425,7 +30609,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: mmer's/server's",
+          "label": "diskreet.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/diskreet.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/diskreet.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:diskreet-massmailer"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0587-diskspy": {
@@ -28460,7 +30654,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "diskspy.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/diskspy.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/diskspy.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:diskspy"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0588-dispersal-4-0": {
@@ -28504,7 +30708,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dispersal4.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dispersal4.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dispersal4.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:dispersal"
+        },
+        {
+          "sourceName": "Web page: punter's",
+          "label": "dispersal.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/dispersal.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/dispersal.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dispersal"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0589-djiin-v2-o": {
@@ -28556,7 +30779,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "djiin.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/djiin.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/djiin.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:0589-djiin-v2-o"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "djiin22.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/djiin22.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/djiin22.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:djiin22"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0590-dl-tech": {
@@ -28626,7 +30868,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "dmztools1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dmztools1.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aolprogs/dmztools1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dmztools1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0592-dn-alpha-idle-3": {
@@ -28663,7 +30915,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "dnalphaidle3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dnalphaidle3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dnalphaidle3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dnalphaidle3"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0593-dn-alpha-idle-v4": {
@@ -28704,7 +30966,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "dnalphav4.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dnalphav4.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dnalphav4.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dnalphav4"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0594-dn-profile-tagger-by-shorty": {
@@ -28739,7 +31011,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dnprofiletagger.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dnprofiletagger.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dnprofiletagger.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dnprofiletagger"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0595-docsanti": {
@@ -28774,7 +31056,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: anti's",
+          "label": "docsanti.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolantis/docsanti.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/docsanti.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:docsanti"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0596-domination-final": {
@@ -28850,8 +31142,55 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "domination.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/domination.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/domination.zip",
+          "localPath": "files/external/lenshellarchive-com/domination-cee152c4.zip",
+          "status": "ready",
+          "matchedBy": "exact:domination"
+        },
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "domination2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/domination2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/domination2.zip",
+          "localPath": "files/external/lenshellarchive-com/domination2-e342f312.zip",
+          "status": "ready",
+          "matchedBy": "loose:domination"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "domination.zip",
+          "localPath": "files/external/lenshellarchive-com/domination-cee152c4.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/domination.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/domination.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "dnquotes.ini"
+          ],
+          "preferredAuthor": "xerox",
+          "authorCandidates": [
+            {
+              "name": "xerox",
+              "sourceFile": "dnquotes.ini",
+              "pattern": "trailing by"
+            }
+          ],
+          "purposeSignals": [
+            "All-in-one prog suite",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "exact:domination"
+        }
+      ]
     },
     "prog-0598-donkey-raper": {
       "programId": "prog-0598-donkey-raper",
@@ -28885,7 +31224,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "donkeyraper.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/donkeyraper.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/donkeyraper.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:donkeyraper"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0599-door-kicker": {
@@ -28920,7 +31269,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: buster's",
+          "label": "doorkicker.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/doorkicker.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/doorkicker.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:doorkicker"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0600-doorbell": {
@@ -28955,7 +31314,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "doorbell.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/doorbell.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/doorbell.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:doorbell"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0601-dope-beta": {
@@ -28990,7 +31359,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dope.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dope.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dope.zip",
+          "localPath": "files/external/lenshellarchive-com/dope-772e772b.zip",
+          "status": "ready",
+          "matchedBy": "exact:dope"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0602-dos-4-6-final": {
@@ -29095,7 +31474,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "dotsetup.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/dotsetup.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/dotsetup.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dotsetup"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0605-dragonidle": {
@@ -29130,7 +31519,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "dragonidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/dragonidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/dragonidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dragonidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0606-dreamcatcher": {
@@ -29241,11 +31640,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "anti's",
+          "sourceName": "Web page: anti's",
           "label": "droolz.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolantis/droolz.zip",
           "waybackUrl": "https://web.archive.org/web/20110904002912/http://lenshellarchive.com/Progs/aolantis/droolz.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:droolz-anti"
         }
       ],
@@ -29283,7 +31683,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dropshop.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dropshop.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dropshop.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dropshop"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0609-drtosmd": {
@@ -29318,7 +31728,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: termer's",
+          "label": "drtosmd.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aoltermers/drtosmd.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002929/http://lenshellarchive.com/Progs/aoltermers/drtosmd.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:drtosmd"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0610-drug-bust-by-fed": {
@@ -29382,7 +31802,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "drunkidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/drunkidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/drunkidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:drunkidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0612-dsb2": {
@@ -29417,7 +31847,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: mmer's/server's",
+          "label": "dartservbeta2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/dartservbeta2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/dartservbeta2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dartservbeta2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0613-dsbusta": {
@@ -29452,7 +31892,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: buster's",
+          "label": "doggiestyle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/doggiestyle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/doggiestyle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:doggiestyle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0614-dserver": {
@@ -29496,6 +31946,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "localPath": "files/external/angelfire-com/warpedserver.zip",
           "status": "ready",
           "matchedBy": "loose:dserver"
+        },
+        {
+          "sourceName": "Web page: mmer's/server's",
+          "label": "detoxserv.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/detoxserv.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:detoxserv"
         }
       ],
       "externalArchiveTextEvidence": [
@@ -29667,7 +32126,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dtp.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dtp.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dtp.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dtp"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0617-dubcd": {
@@ -29702,7 +32171,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "dubcd.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/dubcd.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/dubcd.zip",
+          "localPath": "files/external/lenshellarchive-com/dubcd-2de554f7.zip",
+          "status": "ready",
+          "matchedBy": "exact:dubcd"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0618-dumbass-punter-v1-0": {
@@ -29739,7 +32218,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "dumbass1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/dumbass1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/dumbass1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dumbass1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0619-dune-toser": {
@@ -29830,17 +32319,52 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip",
           "matchedBy": "exact:dupekiller",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
+          "matchedBy": "loose:0620-dupe-killer",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "Visual Basic Section",
+          "sourceName": "Web page: Visual Basic Section",
           "label": "dupekill.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/dupekill.zip",
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:dupekiller"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "dupekiller.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dupekiller"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "killer.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
+          "status": "candidate",
+          "matchedBy": "loose:0620-dupe-killer"
+        },
+        {
+          "sourceName": "LensHell AIM progs",
+          "label": "killer.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip",
+          "status": "candidate",
+          "matchedBy": "loose:0620-dupe-killer"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -29877,7 +32401,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: mmer's/server's",
+          "label": "duracell.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolmmservers/duracell.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/duracell.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:duracell"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0622-dycesbusta": {
@@ -29912,7 +32446,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: buster's",
+          "label": "dycesbusta.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/dycesbusta.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/dycesbusta.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:dycesbusta"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0623-dycesidler2000": {
@@ -30051,7 +32595,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "mmer",
+          "sourceUrl": "https://justinakapaste.com/search/mmer",
+          "label": "all_dynamic_psi.gif?fit=259%2C310&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1",
+          "matchedBy": "loose:dynamic",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "ProgzRescue FortuneCity Skyscraper files",
@@ -30137,7 +32691,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "diabolikmp3v02.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/diabolikmp3v02.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/diabolikmp3v02.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:diabolikmp3v02"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0628-e-fex": {
@@ -30734,10 +33298,28 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://www.cybernyse.com/edits.zip",
           "matchedBy": "exact:edits",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip",
+          "matchedBy": "loose:edits",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "credits.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/credits.zip",
+          "status": "candidate",
+          "matchedBy": "loose:edits"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0641-efatalimpact-v-0-1": {
@@ -31065,11 +33647,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "LensHell AIM progs",
+          "sourceName": "Web page: LensHell AIM progs",
           "label": "cfade.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:0648-electricfader"
         }
       ],
@@ -32652,7 +35235,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "error3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/error3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/error3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:error3"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0687-es": {
@@ -32728,7 +35321,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "idle3.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/idle3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/idle3.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:0688-esmidle3"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0689-esp-idlez": {
@@ -34879,7 +37482,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "corn.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/corn.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/corn.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:corn"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0743-fade": {
@@ -35124,7 +37737,44 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "AOL Logos",
+          "sourceUrl": "https://justinakapaste.com/category/aol-logos/",
+          "label": "AIM_by_finalfantasyfan1337.jpg?fit=600%2C436&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?fit=600%2C436&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?fit=600%2C436&amp;ssl=1",
+          "matchedBy": "loose:fantasy",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIM Dock Icon",
+          "sourceUrl": "https://justinakapaste.com/aim-dock-icon/",
+          "label": "AIM_by_finalfantasyfan1337.jpg?fit=75%2C55&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?fit=75%2C55&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?fit=75%2C55&amp;ssl=1",
+          "matchedBy": "loose:fantasy",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIM Logo",
+          "sourceUrl": "https://justinakapaste.com/aim-logo/",
+          "label": "AIM_by_finalfantasyfan1337.jpg?resize=600%2C436&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?resize=600%2C436&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?resize=600%2C436&#038;ssl=1",
+          "matchedBy": "loose:fantasy",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AIM Logo",
+          "sourceUrl": "https://justinakapaste.com/aim-logo/",
+          "label": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/05/AIM_by_finalfantasyfan1337.jpg?ssl=1",
+          "matchedBy": "loose:fantasy",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -35884,10 +38534,36 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/filesafe.zip",
           "matchedBy": "exact:filesafe-98",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www16.geocities.com:80/SiliconValley/8055/files.zip",
+          "url": "http://www16.geocities.com:80/SiliconValley/8055/files.zip",
+          "originalUrl": "http://www16.geocities.com:80/SiliconValley/8055/files.zip",
+          "matchedBy": "loose:0768-filesafe",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Visual Basic Section",
+          "label": "progfiles.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/vbxdll/progfiles.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/progfiles.zip",
+          "status": "http-404",
+          "matchedBy": "loose:0768-filesafe"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "progfiles.zip",
+          "originalUrl": "http://www16.geocities.com:80/SiliconValley/8055/files.zip",
+          "waybackUrl": "http://www16.geocities.com:80/SiliconValley/8055/files.zip",
+          "status": "candidate",
+          "matchedBy": "loose:0768-filesafe"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0769-filter-make": {
@@ -36000,7 +38676,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "JustinAKAPaste AOL/AIM Progs",
+          "sourceUrl": "https://justinakapaste.com/category/aol-progs/",
+          "label": "Final-Destination-Cover-Photo-1.png?fit=1024%2C926&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=1024%2C926&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=1024%2C926&amp;ssl=1",
+          "matchedBy": "loose:final-destination",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL Prog The ExOrCisT Video",
+          "sourceUrl": "https://justinakapaste.com/aol-prog-the-exorcist-video/",
+          "label": "Final-Destination-Cover-Photo-1.png?fit=75%2C68&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=75%2C68&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Final-Destination-Cover-Photo-1.png?fit=75%2C68&amp;ssl=1",
+          "matchedBy": "loose:final-destination",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -36583,6 +39278,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
+          "sourceName": "Web page: Aim Filez",
+          "label": "CleanFlood.zip",
+          "originalUrl": "http://aimthings.com/aimfilez/CleanFlood.zip",
+          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/CleanFlood.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:flood"
+        },
+        {
           "sourceName": "AIM",
           "label": "aimflooder.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimflooder.zip",
@@ -36595,14 +39299,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "aimflooder.zip",
           "originalUrl": "http://24.185.191.87/progz/aimflooder.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimflooder.zip",
-          "status": "candidate",
-          "matchedBy": "loose:flood"
-        },
-        {
-          "sourceName": "Aim Filez",
-          "label": "CleanFlood.zip",
-          "originalUrl": "http://aimthings.com/aimfilez/CleanFlood.zip",
-          "waybackUrl": "https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/CleanFlood.zip",
           "status": "candidate",
           "matchedBy": "loose:flood"
         },
@@ -37116,28 +39812,10 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/fsprof9.zip",
           "matchedBy": "exact:fsprof9",
           "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Google/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Google/",
-          "label": "GoogleDriveFSSetup.exe",
-          "url": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
-          "matchedBy": "loose:fssetup",
-          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [
-        {
-          "sourceName": "Google/",
-          "label": "GoogleDriveFSSetup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Google/GoogleDriveFSSetup.exe",
-          "status": "candidate",
-          "matchedBy": "loose:fssetup"
-        }
-      ],
+      "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
     "prog-0795-ft2": {
@@ -37499,15 +40177,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "NetTools/",
-          "sourceUrl": "http://am.net/lib/TOOLS/NetTools/",
-          "label": "fusion40.exe",
-          "url": "http://am.net/lib/TOOLS/NetTools/fusion40.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/NetTools/fusion40.exe",
-          "matchedBy": "loose:fusion",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "Progs Section 1",
           "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section1.htm",
           "label": "I2 Fusion ToolBox",
@@ -37517,7 +40186,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "123 Greetings",
+          "sourceUrl": "https://web.archive.org/web/20030623040448/http://www.123greetings.com/links/events/april_fools_day/",
+          "label": "i.ad?site=123Greetings&adSpace=RichMedia&size=120x600&requestID=1864344165",
+          "url": "https://web.archive.org/web/20030709231038im_/http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=120x600&amp;requestID=1864344165",
+          "originalUrl": "http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=120x600&amp;requestID=1864344165",
+          "matchedBy": "loose:fusion",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "123 Greetings",
+          "sourceUrl": "https://web.archive.org/web/20030623040448/http://www.123greetings.com/links/events/april_fools_day/",
+          "label": "i.ad?site=123Greetings&adSpace=RichMedia&size=468x60&requestID=1059187730",
+          "url": "https://web.archive.org/web/20030709231038im_/http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=468x60&amp;requestID=1059187730",
+          "originalUrl": "http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=468x60&amp;requestID=1059187730",
+          "matchedBy": "loose:fusion",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Progs Section 1",
@@ -38391,11 +41079,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "prog's/misc a-m",
+          "sourceName": "Web page: prog's/misc a-m",
           "label": "dream.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dream.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dream.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:0824-gay-program-ytempery-v-s-ldreamer"
         }
       ],
@@ -39398,7 +42087,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "JustinAKAPaste AOL/AIM Progs",
+          "sourceUrl": "https://justinakapaste.com/category/aol-progs/",
+          "label": "Prog-Video-Godzilla_22504_2e631.jpg?fit=1280%2C720&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Prog-Video-Godzilla_22504_2e631.jpg?fit=1280%2C720&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Prog-Video-Godzilla_22504_2e631.jpg?fit=1280%2C720&amp;ssl=1",
+          "matchedBy": "loose:godzilla",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Prog Video | Rampage Toolz",
+          "sourceUrl": "https://justinakapaste.com/prog-video-rampage-toolz/",
+          "label": "Prog-Video-Godzilla_22504_2e631.jpg?fit=75%2C42&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Prog-Video-Godzilla_22504_2e631.jpg?fit=75%2C42&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/Prog-Video-Godzilla_22504_2e631.jpg?fit=75%2C42&amp;ssl=1",
+          "matchedBy": "loose:godzilla",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -39517,6 +42225,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolxers/golden.zip",
           "matchedBy": "exact:golden",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP",
+          "url": "http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP",
+          "matchedBy": "loose:golden",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -39603,6 +42320,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://www.angelfire.com/biz7/free_things/vb.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/biz7/free_things/vb.zip",
           "status": "ready",
+          "matchedBy": "loose:golden"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "goldenbutterfly.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/9903/p10p/goldenbutterfly.ZIP",
+          "status": "candidate",
           "matchedBy": "loose:golden"
         }
       ],
@@ -40242,7 +42967,35 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "JustinAKAPaste AOL/AIM Progs",
+          "sourceUrl": "https://justinakapaste.com/category/aol-progs/",
+          "label": "Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=1618%2C1047&amp;ssl=1",
+          "matchedBy": "loose:gothic",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL Prog HeLLRaiSER Video",
+          "sourceUrl": "https://justinakapaste.com/aol-prog-hellraiser-video/",
+          "label": "Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/02/Gothic-Nightmares-AOL-Prog.png?fit=75%2C49&amp;ssl=1",
+          "matchedBy": "loose:gothic",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL/AIM Exploits",
+          "sourceUrl": "https://justinakapaste.com/category/aolaim-exploits/",
+          "label": "gothic.png",
+          "url": "https://justinakapaste.com/wp-content/uploads/random/gothic.png",
+          "originalUrl": "https://justinakapaste.com/wp-content/uploads/random/gothic.png",
+          "matchedBy": "loose:gothic",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Web page: Click-Online AOL 4/5 progz",
@@ -40712,11 +43465,11 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
-          "sourceName": "StackQL MCP Server",
-          "sourceUrl": "https://github.com/mcp/stackql/stackql-mcp",
-          "label": "platform-windows%20macos%20linux-brightgreen?style=flat-square",
-          "url": "https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square",
-          "originalUrl": "https://img.shields.io/badge/platform-windows%20macos%20linux-brightgreen?style=flat-square",
+          "sourceName": "AOL Logos",
+          "sourceUrl": "https://justinakapaste.com/category/aol-logos/",
+          "label": "aol-communications-red-green-small-22501.jpg?fit=600%2C399&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/11/aol-communications-red-green-small-22501.jpg?fit=600%2C399&amp;ssl=1",
           "matchedBy": "loose:green",
           "kind": "crawled image"
         }
@@ -40854,6 +43607,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "guardian",
           "url": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/guardian.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/guardian.zip",
+          "matchedBy": "exact:guardian",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip",
+          "url": "http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip",
+          "originalUrl": "http://geocities.com:80/SiliconValley/Circuit/9810/guardian.zip",
           "matchedBy": "exact:guardian",
           "kind": "crawled download link"
         }
@@ -41052,6 +43814,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "localPath": "files/external/angelfire-com/hacker-ed0d3167.zip",
           "status": "ready",
           "matchedBy": "loose:hackers-toolz-1-0-and-8-0"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "hacker12.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/2072/hacker12.zip",
+          "waybackUrl": "http://geocities.com/SiliconValley/2072/hacker12.zip",
+          "status": "candidate",
+          "matchedBy": "loose:hackers-toolz-1-0-and-8-0"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -41131,7 +43901,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "crusade5.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/crusade5.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/crusade5.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:crusade5"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0879-hakkor-ip-stealer": {
@@ -43326,59 +46106,75 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:hyper"
         },
         {
-          "sourceName": "APPLICATIONS",
-          "label": "superaim.zip",
-          "originalUrl": "http://server38.hypermart.net/progstation/superaim.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/superaim.zip",
-          "status": "candidate",
+          "sourceName": "Web page: APPLICATIONS",
+          "label": "clonecd.zip",
+          "originalUrl": "http://server38.hypermart.net/progstation/clonecd.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/clonecd.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:hyper"
         },
         {
-          "sourceName": "AIM",
-          "label": "superaim.zip",
-          "originalUrl": "http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
-          "status": "candidate",
+          "sourceName": "Web page: http://progstation.hypermart.net/",
+          "label": "chatpro_v25.zip",
+          "originalUrl": "http://progstation.hypermart.net/chatpro_v25.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/chatpro_v25.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:hyper"
         },
         {
-          "sourceName": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "label": "superaim.zip",
-          "originalUrl": "http://24.185.191.87/progz/aimsuperaim.zip",
-          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsuperaim.zip",
-          "status": "candidate",
+          "sourceName": "Web page: http://progstation.hypermart.net/",
+          "label": "clonecd.zip",
+          "originalUrl": "http://progstation.hypermart.net/clonecd.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/clonecd.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:hyper"
         },
         {
-          "sourceName": "Section 2",
-          "label": "superaim.zip",
-          "originalUrl": "http://www.cybernyse.com/downlowdz/super.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip",
-          "status": "candidate",
+          "sourceName": "Web page: APPLICATIONS",
+          "label": "Coffee.zip",
+          "originalUrl": "http://server38.hypermart.net/progstation/Coffee.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/Coffee.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:hyper"
         },
         {
-          "sourceName": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "label": "superaim.zip",
-          "originalUrl": "http://24.185.191.87/progz/super.zip",
-          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip",
-          "status": "candidate",
+          "sourceName": "Web page: http://progstation.hypermart.net/",
+          "label": "Coffee.zip",
+          "originalUrl": "http://progstation.hypermart.net/Coffee.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/Coffee.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:hyper"
         },
         {
-          "sourceName": "http://progstation.hypermart.net/",
-          "label": "superaim.zip",
-          "originalUrl": "http://progstation.hypermart.net/superaim.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/superaim.zip",
-          "status": "candidate",
+          "sourceName": "Web page: http://progstation.hypermart.net/",
+          "label": "coolfonts.zip",
+          "originalUrl": "http://progstation.hypermart.net/coolfonts.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/coolfonts.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:hyper"
         },
         {
-          "sourceName": "ProgzRescue Angelfire files",
-          "label": "superaim.zip",
-          "originalUrl": "http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip",
-          "status": "ready",
+          "sourceName": "Web page: APPLICATIONS",
+          "label": "cutehtml.zip",
+          "originalUrl": "http://server38.hypermart.net/progstation/cutehtml.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/cutehtml.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:hyper"
+        },
+        {
+          "sourceName": "Web page: http://progstation.hypermart.net/",
+          "label": "cutehtml.zip",
+          "originalUrl": "http://progstation.hypermart.net/cutehtml.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/cutehtml.zip",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:hyper"
         },
         {
@@ -43394,14 +46190,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "dos32.zip",
           "originalUrl": "http://server39.hypermart.net/wipeout/dos32.zip",
           "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip",
-          "status": "candidate",
-          "matchedBy": "loose:hyper"
-        },
-        {
-          "sourceName": "prog's/misc a-m",
-          "label": "dos32.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/dosv46.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dosv46.zip",
           "status": "candidate",
           "matchedBy": "loose:hyper"
         }
@@ -43822,7 +46610,16 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:hydro"
         }
       ],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "AOLUnderground ProGGieS",
+          "label": "hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
+          "status": "candidate",
+          "matchedBy": "loose:hydro"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0931-hydrop": {
@@ -44155,6 +46952,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/hellonearth.zip",
           "matchedBy": "exact:hellonearth",
           "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Circuit/8882/files/hello.zip",
+          "url": "http://www.geocities.com/SiliconValley/Circuit/8882/files/hello.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/hello.zip",
+          "matchedBy": "loose:hellonearth",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -44166,6 +46972,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/merkitas/hello.zip",
           "localPath": "files/external/angelfire-com/hello.zip",
           "status": "ready",
+          "matchedBy": "loose:hellonearth"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "hello.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/hello.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Circuit/8882/files/hello.zip",
+          "status": "candidate",
           "matchedBy": "loose:hellonearth"
         }
       ],
@@ -45638,7 +48452,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "daysidle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/daysidle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/daysidle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:daysidle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-0978-idler": {
@@ -46973,6 +49797,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
+          "sourceName": "Web page: LensHell AIM progs",
+          "label": "dsimtoolz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:imtoolz"
+        },
+        {
           "sourceName": "AIM",
           "label": "aimburningaimtoolzv20.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/aimburningaimtoolzv20.zip",
@@ -47153,14 +49986,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "aimnirvanaaimtoolzv1.zip",
           "originalUrl": "http://24.185.191.87/progz/aimnirvanaaimtoolzv1.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimnirvanaaimtoolzv1.zip",
-          "status": "candidate",
-          "matchedBy": "loose:imtoolz"
-        },
-        {
-          "sourceName": "LensHell AIM progs",
-          "label": "dsimtoolz.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/dsimtoolz.zip",
           "status": "candidate",
           "matchedBy": "loose:imtoolz"
         }
@@ -47823,15 +50648,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "Dell/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Dell/",
-          "label": "DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
-          "url": "http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
-          "matchedBy": "loose:integra",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "LensHell faders",
           "sourceUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
           "label": "integra",
@@ -47850,45 +50666,8 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [
-        {
-          "sourceName": "Notion",
-          "sourceUrl": "https://github.com/mcp/makenotion/notion-mcp-server",
-          "label": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png",
-          "url": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png",
-          "originalUrl": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integration-access.png",
-          "matchedBy": "loose:integration",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Notion",
-          "sourceUrl": "https://github.com/mcp/makenotion/notion-mcp-server",
-          "label": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png",
-          "url": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png",
-          "originalUrl": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-capabilities.png",
-          "matchedBy": "loose:integration",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Notion",
-          "sourceUrl": "https://github.com/mcp/makenotion/notion-mcp-server",
-          "label": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png",
-          "url": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png",
-          "originalUrl": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/integrations-creation.png",
-          "matchedBy": "loose:integration",
-          "kind": "crawled image"
-        }
-      ],
-      "mirrorLinks": [
-        {
-          "sourceName": "Dell/",
-          "label": "DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe",
-          "status": "candidate",
-          "matchedBy": "loose:integra"
-        }
-      ],
+      "webImageLinks": [],
+      "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
     "prog-1025-intellex": {
@@ -48313,7 +51092,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "authorConflict": "",
       "webMentions": [],
       "webDownloadLinks": [],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "aol star",
+          "sourceUrl": "https://justinakapaste.com/search/aol+star/",
+          "label": "AOL-Invoke-List.png?fit=1408%2C768&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=1408%2C768&amp;ssl=1",
+          "matchedBy": "loose:invoke",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Rampage Toolz (Read Me)",
+          "sourceUrl": "https://justinakapaste.com/rampage-toolz-read-me/",
+          "label": "AOL-Invoke-List.png?fit=75%2C41&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/AOL-Invoke-List.png?fit=75%2C41&amp;ssl=1",
+          "matchedBy": "loose:invoke",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -51521,6 +54319,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www7.geocities.com:80/SiliconValley/9470/empire.zip",
+          "url": "http://www7.geocities.com:80/SiliconValley/9470/empire.zip",
+          "originalUrl": "http://www7.geocities.com:80/SiliconValley/9470/empire.zip",
+          "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "LensHell faders",
           "sourceUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
           "label": "lethal empire fader",
@@ -51569,6 +54376,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "lethal.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lethal.zip",
+          "status": "candidate",
+          "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "empire.zip",
+          "originalUrl": "http://www7.geocities.com:80/SiliconValley/9470/empire.zip",
+          "waybackUrl": "http://www7.geocities.com:80/SiliconValley/9470/empire.zip",
           "status": "candidate",
           "matchedBy": "loose:lethalempirefaderaol-9-9-1win-xpvistayr-2008"
         },
@@ -52126,7 +54941,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "JustinAKAPaste AOL/AIM Progs",
+          "sourceUrl": "https://justinakapaste.com/category/aol-progs/",
+          "label": "LETHAL-FRAGMENT.png?fit=1376%2C677&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=1376%2C677&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=1376%2C677&amp;ssl=1",
+          "matchedBy": "loose:lethal-fragment",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Prog Video | Rampage Toolz",
+          "sourceUrl": "https://justinakapaste.com/prog-video-rampage-toolz/",
+          "label": "LETHAL-FRAGMENT.png?fit=75%2C37&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=75%2C37&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/LETHAL-FRAGMENT.png?fit=75%2C37&amp;ssl=1",
+          "matchedBy": "loose:lethal-fragment",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -53839,7 +56673,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "lnkage1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lnkage1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lnkage1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:lnkage1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1164-lnkage111": {
@@ -53888,7 +56732,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "lnkage111.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lnkage111.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lnkage111.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:lnkage111"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1165-lnkage12": {
@@ -53937,7 +56791,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "lnkage12.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lnkage12.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lnkage12.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:lnkage12"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1166-loafafk": {
@@ -54143,15 +57007,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "Passwords/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Passwords/",
-          "label": "AsteriskPasswordLogger101.zip",
-          "url": "http://am.net/lib/TOOLS/Passwords/AsteriskPasswordLogger101.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Passwords/AsteriskPasswordLogger101.zip",
-          "matchedBy": "loose:logger1",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "im logger¹",
@@ -54162,16 +57017,7 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [
-        {
-          "sourceName": "Passwords/",
-          "label": "AsteriskPasswordLogger101.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Passwords/AsteriskPasswordLogger101.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Passwords/AsteriskPasswordLogger101.zip",
-          "status": "candidate",
-          "matchedBy": "loose:logger1"
-        }
-      ],
+      "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
     "prog-1172-logik-mp3-c-com": {
@@ -54793,6 +57639,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://geocities.com/SiliconValley/2072/locksmit.zip",
+          "url": "http://geocities.com/SiliconValley/2072/locksmit.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/2072/locksmit.zip",
+          "matchedBy": "loose:locksmith-23",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "cracker's",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/crackers.html",
           "label": "locksmíth ²·³",
@@ -54803,7 +57658,16 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "locksmit.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/2072/locksmit.zip",
+          "waybackUrl": "http://geocities.com/SiliconValley/2072/locksmit.zip",
+          "status": "candidate",
+          "matchedBy": "loose:locksmith-23"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1187-mac": {
@@ -55299,6 +58163,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "MadMTM Progs",
+          "sourceUrl": "https://web.archive.org/web/20010603213502/http://www.dalesplace.co.uk/illusion/out.cgi?aeroforcc2",
+          "label": "here",
+          "url": "https://web.archive.org/web/20010603213502/http://www.dalesplace.co.uk/illusion/MadMTMv%201.0.exe",
+          "originalUrl": "http://www.dalesplace.co.uk/illusion/MadMTMv%201.0.exe",
+          "matchedBy": "exact:madmtmv-1-0",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "madmtmv 1.0 linker",
@@ -55408,15 +58281,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "Misc/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Misc/",
-          "label": "linkmagic.exe",
-          "url": "http://am.net/lib/TOOLS/Misc/linkmagic.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/linkmagic.exe",
-          "matchedBy": "loose:magic",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "LensHell AIM progs",
           "sourceUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
           "label": "magic b00t",
@@ -55478,24 +58342,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://24.185.191.87/progz/magictoolzfinal.zip",
           "matchedBy": "loose:magic",
           "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Misc/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Misc/",
-          "label": "magicdisc.exe",
-          "url": "http://am.net/lib/TOOLS/Misc/magicdisc.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/magicdisc.exe",
-          "matchedBy": "loose:magic",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Misc/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Misc/",
-          "label": "MagicISO5.5.exe",
-          "url": "http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe",
-          "matchedBy": "loose:magic",
-          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -55544,34 +58390,10 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:magic"
         },
         {
-          "sourceName": "Misc/",
-          "label": "linkmagic.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/linkmagic.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/linkmagic.exe",
-          "status": "candidate",
-          "matchedBy": "loose:magic"
-        },
-        {
           "sourceName": "LensHell AIM progs",
           "label": "magicboot.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip",
-          "status": "candidate",
-          "matchedBy": "loose:magic"
-        },
-        {
-          "sourceName": "Misc/",
-          "label": "magicdisc.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/magicdisc.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/magicdisc.exe",
-          "status": "candidate",
-          "matchedBy": "loose:magic"
-        },
-        {
-          "sourceName": "Misc/",
-          "label": "MagicISO5.5.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe",
           "status": "candidate",
           "matchedBy": "loose:magic"
         }
@@ -55621,7 +58443,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: Yahoo Progs",
+          "label": "ctoolz.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/yahooprogs/misc/ctoolz.zip",
+          "waybackUrl": "https://web.archive.org/web/20111002120847/http://lenshellarchive.com/Progs/yahooprogs/misc/ctoolz.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:1204-magictoolz"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1205-magictoolz": {
@@ -55798,7 +58630,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "caca.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/caca.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/caca.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:caca"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1209-mailrequestv2": {
@@ -56133,7 +58975,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "manualPurposeSignals": [],
       "authorConflict": "",
       "webMentions": [],
-      "webDownloadLinks": [],
+      "webDownloadLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/4998/maps.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/4998/maps.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/4998/maps.zip",
+          "matchedBy": "exact:maps",
+          "kind": "crawled download link"
+        }
+      ],
       "webImageLinks": [],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
@@ -58240,295 +61092,61 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "2_4date.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/2_4date.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/2_4date.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/9723/microbeerom.zip",
+          "url": "http://www.geocities.com/SiliconValley/9723/microbeerom.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/9723/microbeerom.zip",
           "matchedBy": "loose:micro",
           "kind": "crawled download link"
         },
         {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "ActivexSDKcore.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/ActivexSDKcore.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/ActivexSDKcore.exe",
+          "sourceName": "Section 2",
+          "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2.htm",
+          "label": "Micro Coms",
+          "url": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/micro.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/micro.zip",
+          "matchedBy": "exact:micro",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/section2mirror.htm",
+          "label": "Micro Coms",
+          "url": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/micro.zip",
+          "originalUrl": "http://24.185.191.87/progz/micro.zip",
+          "matchedBy": "exact:micro",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "prog's/misc a-m",
+          "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
+          "label": "micro tools v1.0",
+          "url": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/microtools.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/microtools.zip",
+          "matchedBy": "exact:microtools",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "Miscellaneous Section",
+          "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/misc.htm",
+          "label": "VB5 Runtime",
+          "url": "https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
+          "originalUrl": "http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE",
           "matchedBy": "loose:micro",
           "kind": "crawled download link"
         },
         {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "admFiles_Windows2003SP1.zip",
-          "url": "http://am.net/lib/TOOLS/Microsoft/admFiles_Windows2003SP1.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/admFiles_Windows2003SP1.zip",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "adsi25sdk.zip",
-          "url": "http://am.net/lib/TOOLS/Microsoft/adsi25sdk.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/adsi25sdk.zip",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "ApplicationSignatureBuilder.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/ApplicationSignatureBuilder.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/ApplicationSignatureBuilder.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "cab-sdk.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/cab-sdk.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/cab-sdk.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "cleartweaksetup27.zip",
-          "url": "http://am.net/lib/TOOLS/Microsoft/cleartweaksetup27.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/cleartweaksetup27.zip",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "ClearTypeTuner.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/ClearTypeTuner.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/ClearTypeTuner.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "crlupd.20010402.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/crlupd.20010402.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/crlupd.20010402.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "CS2K2FP1EN.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/CS2K2FP1EN.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/CS2K2FP1EN.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "ddrk_web.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/ddrk_web.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/ddrk_web.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "dfs_v41_i386.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_i386.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/dfs_v41_i386.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "EmployeeProductivityEducation.zip",
-          "url": "http://am.net/lib/TOOLS/Microsoft/EmployeeProductivityEducation.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/EmployeeProductivityEducation.zip",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "EPE_Zip.zip",
-          "url": "http://am.net/lib/TOOLS/Microsoft/EPE_Zip.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/EPE_Zip.zip",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "ExpressDownloaderAndInstallerForDX9AndDotNet.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/ExpressDownloaderAndInstallerForDX9AndDotNet.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/ExpressDownloaderAndInstallerForDX9AndDotNet.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "Fiddler1.0.5.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "Fiddler1.1.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "Fiddler2Setup.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "fiddler4setup.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "FiddlerSetup.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/FiddlerSetup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/FiddlerSetup.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "gdidettool.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/gdidettool.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/gdidettool.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "gdiplus_dnld.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/gdiplus_dnld.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/gdiplus_dnld.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "hh132.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/hh132.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/hh132.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "HtmlHelpWorkshop14.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/HtmlHelpWorkshop14.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/HtmlHelpWorkshop14.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "idk99.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/idk99.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/idk99.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "immc11.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/immc11.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/immc11.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "immc12.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/immc12.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/immc12.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "Inetcpl.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/Inetcpl.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Inetcpl.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "inetload20-x86.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/inetload20-x86.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/inetload20-x86.exe",
-          "matchedBy": "loose:micro",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "inetmon10-x86.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/inetmon10-x86.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/inetmon10-x86.exe",
+          "sourceName": "Miscellaneous Section",
+          "sourceUrl": "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/misc.htm",
+          "label": "VB6 Runtime",
+          "url": "https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE",
+          "originalUrl": "http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE",
           "matchedBy": "loose:micro",
           "kind": "crawled download link"
         }
       ],
       "webImageLinks": [
-        {
-          "sourceName": "Azure MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.microsoft/azure",
-          "label": "acom_social_icon_azure",
-          "url": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/acom_social_icon_azure",
-          "originalUrl": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/acom_social_icon_azure",
-          "matchedBy": "loose:micro",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Microsoft Fabric MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.microsoft/microsoft-fabric",
-          "label": "fabric-icon.png",
-          "url": "https://learn.microsoft.com/fabric/media/fabric-icon.png",
-          "originalUrl": "https://learn.microsoft.com/fabric/media/fabric-icon.png",
-          "matchedBy": "loose:micro",
-          "kind": "crawled image"
-        },
         {
           "sourceName": "Digital5k AOL progz article",
           "sourceUrl": "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html",
@@ -58539,29 +61157,47 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled image"
         },
         {
-          "sourceName": "Azure MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.microsoft/azure",
-          "label": "https://raw.githubusercontent.com/microsoft/mcp/main/servers/Azure.Mcp.Server/images/install_azure_mcp_server_extension.gif",
-          "url": "https://raw.githubusercontent.com/microsoft/mcp/main/servers/Azure.Mcp.Server/images/install_azure_mcp_server_extension.gif",
-          "originalUrl": "https://raw.githubusercontent.com/microsoft/mcp/main/servers/Azure.Mcp.Server/images/install_azure_mcp_server_extension.gif",
-          "matchedBy": "loose:micro",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "Azure MCP Server",
-          "sourceUrl": "https://github.com/mcp/com.microsoft/azure",
-          "label": "managed-hosting-survey-banner.png",
-          "url": "https://raw.githubusercontent.com/microsoft/mcp/main/servers/Azure.Mcp.Server/images/managed-hosting-survey-banner.png",
-          "originalUrl": "https://raw.githubusercontent.com/microsoft/mcp/main/servers/Azure.Mcp.Server/images/managed-hosting-survey-banner.png",
-          "matchedBy": "loose:micro",
-          "kind": "crawled image"
-        },
-        {
           "sourceName": "Digital5k AOL progz article",
           "sourceUrl": "https://adjkjc.github.io/www.digital5k.com/aol-progz-a-digital-throw-back-to-aol-1995/index.html",
           "label": "micro-server_940x700-300x212.jpg",
           "url": "http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg",
           "originalUrl": "http://www.digital5k.com/wp-content/uploads/2013/07/micro-server_940x700-300x212.jpg",
+          "matchedBy": "loose:micro",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Digital5k.com",
+          "sourceUrl": "https://justinakapaste.com/aol-progz-a-digital-throw-back-to-aol-1995/",
+          "label": "micro-server_940x700.jpg?resize=632%2C447&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/01/micro-server_940x700.jpg?resize=632%2C447&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/01/micro-server_940x700.jpg?resize=632%2C447&#038;ssl=1",
+          "matchedBy": "loose:micro",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "America Online Prog | Final Destination",
+          "sourceUrl": "https://justinakapaste.com/america-online-prog-final-destination/",
+          "label": "microicon.gif",
+          "url": "https://justinakapaste.com/wp-content/uploads/random/microicon.gif",
+          "originalUrl": "https://justinakapaste.com/wp-content/uploads/random/microicon.gif",
+          "matchedBy": "loose:micro",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "JustinAKAPaste AOL/AIM Progs",
+          "sourceUrl": "https://justinakapaste.com/category/aol-progs/",
+          "label": "onspmicro.gif",
+          "url": "https://justinakapaste.com/wp-content/uploads/random/onspmicro.gif",
+          "originalUrl": "https://justinakapaste.com/wp-content/uploads/random/onspmicro.gif",
+          "matchedBy": "loose:micro",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Edge",
+          "sourceUrl": "https://web.archive.org/web/20010603213502/https://microsoftedge.microsoft.com/addons/detail/wayback-machine/kjmickeoogghaimmomagaghnogelpcpn?hl=en-US",
+          "label": "RE1Mu3b?ver=5c31",
+          "url": "https://web.archive.org/web/20220302181842im_/https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31",
+          "originalUrl": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31",
           "matchedBy": "loose:micro",
           "kind": "crawled image"
         }
@@ -58632,22 +61268,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:micro"
         },
         {
-          "sourceName": "Microsoft/",
-          "label": "vbrun60sp3.EXE",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp5.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp5.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "vbrun60sp3.EXE",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp6.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/vbrun60sp6.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
           "sourceName": "ProgzRescue Angelfire files",
           "label": "vbrun60sp3.EXE",
           "originalUrl": "http://www.angelfire.com/wizard/freqgengui/files/vbrun60sp5.zip",
@@ -58656,106 +61276,10 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:micro"
         },
         {
-          "sourceName": "..",
-          "label": "Fiddler2Setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler2Setup.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "Fiddler2Setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "Fiddler2Setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "..",
-          "label": "Fiddler2Setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Fiddler4Setup.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "Fiddler1.0.5.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "Fiddler1.0.5.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "immc11.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/immc11.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/immc11.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "immc11.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/immc12.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/immc12.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "msreader2.1.1.3143.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/msreader2.1.1.3143.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/msreader2.1.1.3143.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "msreader2.1.1.3143.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/msreader211.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/msreader211.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "SyncToySetupPackage_v21_x64.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/SyncToySetupPackage_v21_x64.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/SyncToySetupPackage_v21_x64.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "SyncToySetupPackage_v21_x64.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/SyncToySetupPackage_v21_x86.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/SyncToySetupPackage_v21_x86.exe",
-          "status": "candidate",
-          "matchedBy": "loose:micro"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "TweakUI.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/TweakUI.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/TweakUI.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "microbeerom.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/9723/microbeerom.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/9723/microbeerom.zip",
           "status": "candidate",
           "matchedBy": "loose:micro"
         }
@@ -59511,11 +62035,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "prog's/misc a-m",
+          "sourceName": "Web page: prog's/misc a-m",
           "label": "cruel.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cruel.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cruel.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:cruel-intentions"
         }
       ],
@@ -60585,6 +63110,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bridge/1910/music.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bridge/1910/music.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bridge/1910/music.zip",
+          "matchedBy": "loose:music-mp-3-player-x-v-2-win-xp-yr-05",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc a-m",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsa-m.html",
           "label": "music mp3 player x - version 2.0",
@@ -60603,6 +63137,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolccoms/mplayerx.zip",
           "status": "candidate",
           "matchedBy": "loose:1303-mplayerx-ceelo"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "music.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bridge/1910/music.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bridge/1910/music.zip",
+          "status": "candidate",
+          "matchedBy": "loose:music-mp-3-player-x-v-2-win-xp-yr-05"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -61409,15 +63951,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "AM/",
-          "sourceUrl": "http://am.net/lib/TOOLS/AM/",
-          "label": "SLEEP.EXE",
-          "url": "http://am.net/lib/TOOLS/AM/SLEEP.EXE",
-          "originalUrl": "http://am.net/lib/TOOLS/AM/SLEEP.EXE",
-          "matchedBy": "loose:1324-negzsleeper",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "idler's",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
           "label": "sleeper",
@@ -61428,32 +63961,7 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [
-        {
-          "sourceName": "Section 2",
-          "label": "sleep2.zip",
-          "originalUrl": "http://www.cybernyse.com/downlowdz/sleep2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/sleep2.zip",
-          "status": "candidate",
-          "matchedBy": "loose:1324-negzsleeper"
-        },
-        {
-          "sourceName": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "label": "sleep2.zip",
-          "originalUrl": "http://24.185.191.87/progz/sleep2.zip",
-          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/sleep2.zip",
-          "status": "candidate",
-          "matchedBy": "loose:1324-negzsleeper"
-        },
-        {
-          "sourceName": "AM/",
-          "label": "sleep2.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/AM/SLEEP.EXE",
-          "waybackUrl": "http://am.net/lib/TOOLS/AM/SLEEP.EXE",
-          "status": "candidate",
-          "matchedBy": "loose:1324-negzsleeper"
-        }
-      ],
+      "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
     "prog-1325-nemesisv1": {
@@ -63642,6 +66150,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
+          "sourceName": "AIM Express Scam Site",
+          "sourceUrl": "https://justinakapaste.com/aim-express-scam-site-2/",
+          "label": "chatoperator.jpg?fit=265%2C160&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/chatoperator.jpg?fit=265%2C160&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/chatoperator.jpg?fit=265%2C160&amp;ssl=1",
+          "matchedBy": "loose:operator",
+          "kind": "crawled image"
+        },
+        {
           "sourceName": "LensHellArchive Games",
           "sourceUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/games",
           "label": "operation",
@@ -65279,7 +67796,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: LensHell faders",
+          "label": "darthphader.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolfaders/darthphader.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/darthphader.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darthphader"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1423-phadish-v2-0": {
@@ -65877,11 +68404,83 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
+          "sourceName": "AOL Spam",
+          "sourceUrl": "https://justinakapaste.com/category/aol-spam/",
+          "label": "AOL-Phishing-Phrases.png?fit=757%2C519&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?fit=757%2C519&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?fit=757%2C519&amp;ssl=1",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Old AOL Phishing Phrases",
+          "sourceUrl": "https://justinakapaste.com/old-aol-phishing-phrases/",
+          "label": "AOL-Phishing-Phrases.png?resize=583%2C400&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?resize=583%2C400&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?resize=583%2C400&#038;ssl=1",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?ssl=1",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?ssl=1",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Old AOL Phishing Phrases",
+          "sourceUrl": "https://justinakapaste.com/old-aol-phishing-phrases/",
+          "label": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/12/AOL-Phishing-Phrases.png?ssl=1",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL",
+          "sourceUrl": "https://patorjk.com/blog/category/aol/",
+          "label": "https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png",
+          "url": "https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png",
+          "originalUrl": "https://patorjk.com/blog/wp-content/uploads/2022/01/phishing.png",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
           "sourceName": "Methodus Toolz screenshots",
           "sourceUrl": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com:80/methodustoolz/screenshots.htm",
           "label": "Phisher/Mass IMer",
           "url": "https://web.archive.org/web/20010119035500/http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
           "originalUrl": "http://www.methodus2000.com/methodustoolz/screenshots/phishmassim.jpg",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "phishmassim.jpg?resize=210%2C456&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?resize=210%2C456&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishmassim.jpg?resize=210%2C456&#038;ssl=1",
+          "matchedBy": "loose:phish",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "https://justinakapaste.com/methodus-toolz/",
+          "sourceUrl": "https://justinakapaste.com/methodus-toolz/",
+          "label": "phishtank.jpg?resize=309%2C252&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?resize=309%2C252&#038;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/phishtank.jpg?resize=309%2C252&#038;ssl=1",
           "matchedBy": "loose:phish",
           "kind": "crawled image"
         }
@@ -68395,15 +70994,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "NetTools/",
-          "sourceUrl": "http://am.net/lib/TOOLS/NetTools/",
-          "label": "plink.exe",
-          "url": "http://am.net/lib/TOOLS/NetTools/plink.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/NetTools/plink.exe",
-          "matchedBy": "loose:preplinker",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "prep linker",
@@ -68414,16 +71004,7 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [
-        {
-          "sourceName": "NetTools/",
-          "label": "plink.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/NetTools/plink.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/NetTools/plink.exe",
-          "status": "candidate",
-          "matchedBy": "loose:preplinker"
-        }
-      ],
+      "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
     "prog-1496-pretender": {
@@ -69093,11 +71674,29 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
-          "sourceName": "GitHub",
-          "sourceUrl": "https://github.com/mcp/github/github-mcp-server",
-          "label": "project-light.png",
-          "url": "https://raw.githubusercontent.com/github/github-mcp-server/main/pkg/octicons/icons/project-light.png",
-          "originalUrl": "https://raw.githubusercontent.com/github/github-mcp-server/main/pkg/octicons/icons/project-light.png",
+          "sourceName": "Prog Chatsends",
+          "sourceUrl": "https://justinakapaste.com/prog-chatsends/",
+          "label": "2014-10-21-22_17_38-Project1-Microsoft-Visual-Basic-design.png?fit=75%2C20&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/2014-10-21-22_17_38-Project1-Microsoft-Visual-Basic-design.png?fit=75%2C20&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/2014-10-21-22_17_38-Project1-Microsoft-Visual-Basic-design.png?fit=75%2C20&amp;ssl=1",
+          "matchedBy": "loose:project",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Prog Chatsends",
+          "sourceUrl": "https://justinakapaste.com/prog-chatsends/",
+          "label": "2014-10-21-22_21_50-Project1-Microsoft-Visual-Basic-design.png?fit=75%2C36&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/2014-10-21-22_21_50-Project1-Microsoft-Visual-Basic-design.png?fit=75%2C36&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/2014-10-21-22_21_50-Project1-Microsoft-Visual-Basic-design.png?fit=75%2C36&amp;ssl=1",
+          "matchedBy": "loose:project",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "aol star",
+          "sourceUrl": "https://justinakapaste.com/search/aol+star/",
+          "label": "2016-11-15-16_08_05-Project1-Microsoft-Visual-Basic-design.png?fit=1315%2C624&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/11/2016-11-15-16_08_05-Project1-Microsoft-Visual-Basic-design.png?fit=1315%2C624&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/11/2016-11-15-16_08_05-Project1-Microsoft-Visual-Basic-design.png?fit=1315%2C624&amp;ssl=1",
           "matchedBy": "loose:project",
           "kind": "crawled image"
         }
@@ -70292,11 +72891,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "punter's",
+          "sourceName": "Web page: punter's",
           "label": "ditto.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/ditto.zip",
           "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/ditto.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:ditto-punter"
         }
       ],
@@ -71210,11 +73810,11 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "Intuit/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Intuit/",
-          "label": "QuickBooks-Setup.exe",
-          "url": "http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip",
+          "url": "http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip",
+          "originalUrl": "http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip",
           "matchedBy": "loose:quick",
           "kind": "crawled download link"
         },
@@ -71233,24 +73833,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "quickchange",
           "url": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip",
-          "matchedBy": "loose:quick",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Palm/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Palm/",
-          "label": "QuickTour_NP_ENG.exe",
-          "url": "http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe",
-          "matchedBy": "loose:quick",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "FileManagement/",
-          "sourceUrl": "http://am.net/lib/TOOLS/FileManagement/",
-          "label": "quickvu.exe",
-          "url": "http://am.net/lib/TOOLS/FileManagement/quickvu.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/FileManagement/quickvu.exe",
           "matchedBy": "loose:quick",
           "kind": "crawled download link"
         },
@@ -71303,10 +73885,10 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:quick"
         },
         {
-          "sourceName": "Intuit/",
-          "label": "QuickBooks-Setup.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "dl-quick-shine.zip",
+          "originalUrl": "http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip",
+          "waybackUrl": "http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip",
           "status": "candidate",
           "matchedBy": "loose:quick"
         },
@@ -71315,22 +73897,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "quickchange.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip",
           "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip",
-          "status": "candidate",
-          "matchedBy": "loose:quick"
-        },
-        {
-          "sourceName": "Palm/",
-          "label": "QuickTour_NP_ENG.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe",
-          "status": "candidate",
-          "matchedBy": "loose:quick"
-        },
-        {
-          "sourceName": "FileManagement/",
-          "label": "quickvu.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/FileManagement/quickvu.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/FileManagement/quickvu.exe",
           "status": "candidate",
           "matchedBy": "loose:quick"
         }
@@ -71803,7 +74369,44 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "JustinAKAPaste AOL/AIM Progs",
+          "sourceUrl": "https://justinakapaste.com/category/aol-progs/",
+          "label": "AOL-PROG-RAMPAGE-TOOLZ.png?fit=1408%2C678&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/AOL-PROG-RAMPAGE-TOOLZ.png?fit=1408%2C678&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/AOL-PROG-RAMPAGE-TOOLZ.png?fit=1408%2C678&amp;ssl=1",
+          "matchedBy": "loose:rampage-toolz",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Prog Video | Godzilla",
+          "sourceUrl": "https://justinakapaste.com/prog-video-godzilla/",
+          "label": "AOL-PROG-RAMPAGE-TOOLZ.png?fit=75%2C36&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/AOL-PROG-RAMPAGE-TOOLZ.png?fit=75%2C36&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2026/03/AOL-PROG-RAMPAGE-TOOLZ.png?fit=75%2C36&amp;ssl=1",
+          "matchedBy": "loose:rampage-toolz",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "JustinAKAPaste AOL/AIM Prog Read Mes",
+          "sourceUrl": "https://justinakapaste.com/category/aolaim-prog-read-mes/",
+          "label": "Rampage-Toolz-Read-ME.png?fit=1408%2C768&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/Rampage-Toolz-Read-ME.png?fit=1408%2C768&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/Rampage-Toolz-Read-ME.png?fit=1408%2C768&amp;ssl=1",
+          "matchedBy": "loose:rampage-toolz",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Master.aol with Atomdebug",
+          "sourceUrl": "https://justinakapaste.com/master-aol-with-atomdebug/",
+          "label": "Rampage-Toolz-Read-ME.png?fit=75%2C41&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/Rampage-Toolz-Read-ME.png?fit=75%2C41&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2016/12/Rampage-Toolz-Read-ME.png?fit=75%2C41&amp;ssl=1",
+          "matchedBy": "loose:rampage-toolz",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "Web page: Click-Online AOL 4/5 progz",
@@ -72084,11 +74687,12 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webImageLinks": [],
       "mirrorLinks": [
         {
-          "sourceName": "idler's",
+          "sourceName": "Web page: idler's",
           "label": "crapidleremix.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/crapidleremix.zip",
           "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/crapidleremix.zip",
-          "status": "candidate",
+          "localPath": "",
+          "status": "http-404",
           "matchedBy": "loose:rapid"
         },
         {
@@ -72588,7 +75192,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "AoHell",
+          "sourceUrl": "https://justinakapaste.com/search/AoHell",
+          "label": "f-shades.gif",
+          "url": "https://justinakapaste.com/wp-content/uploads/random/f-shades.gif",
+          "originalUrl": "https://justinakapaste.com/wp-content/uploads/random/f-shades.gif",
+          "matchedBy": "loose:shade",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -73316,11 +75930,11 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "Misc/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Misc/",
-          "label": "RDPRemoteEnabler.exe",
-          "url": "http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip",
+          "url": "http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip",
           "matchedBy": "loose:remote",
           "kind": "crawled download link"
         },
@@ -73357,15 +75971,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "Remote Idle",
           "url": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/remoteidle.zip",
           "originalUrl": "http://24.185.191.87/progz/remoteidle.zip",
-          "matchedBy": "loose:remote",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Symantec/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Symantec/",
-          "label": "VPREMOTE.exe",
-          "url": "http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe",
           "matchedBy": "loose:remote",
           "kind": "crawled download link"
         }
@@ -73406,18 +76011,10 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:remote"
         },
         {
-          "sourceName": "Misc/",
-          "label": "RDPRemoteEnabler.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/RDPRemoteEnabler.exe",
-          "status": "candidate",
-          "matchedBy": "loose:remote"
-        },
-        {
-          "sourceName": "Symantec/",
-          "label": "VPREMOTE.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Symantec/VPREMOTE.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "ntremotedatetime.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip",
+          "waybackUrl": "http://geocities.com/SiliconValley/Board/2989/comps/ntremotedatetime.zip",
           "status": "candidate",
           "matchedBy": "loose:remote"
         }
@@ -73804,7 +76401,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "Matt Mazur Revolution",
+          "sourceUrl": "https://mattmazur.com/2009/05/13/revolution/",
+          "label": "HQC7ZLj1vLfyegAAAABJRU5ErkJggg==",
+          "url": "https://mattmazur.com/2009/05/13/revolution/image/png;base64,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",
+          "originalUrl": "https://mattmazur.com/2009/05/13/revolution/image/png;base64,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",
+          "matchedBy": "loose:revolution",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Matt Mazur Revolution",
+          "sourceUrl": "https://mattmazur.com/2009/05/13/revolution/",
+          "label": "us3slxpDgAJVg8jzbUuFgAAAABJRU5ErkJggg==",
+          "url": "https://mattmazur.com/2009/05/13/revolution/image/png;base64,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",
+          "originalUrl": "https://mattmazur.com/2009/05/13/revolution/image/png;base64,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",
+          "matchedBy": "loose:revolution",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -74271,7 +76887,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "rmfx1.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rmfx1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/rmfx1.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:rmfx1"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1630-rmfux1": {
@@ -74306,7 +76932,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "rmfx2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/rmfx2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/rmfx2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:rmfx2"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1631-rockoutmp3": {
@@ -74575,24 +77211,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "Misc/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Misc/",
-          "label": "accessenum12.zip",
-          "url": "http://am.net/lib/TOOLS/Misc/accessenum12.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/accessenum12.zip",
-          "matchedBy": "loose:access",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Passwords/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Passwords/",
-          "label": "accesspv.zip",
-          "url": "http://am.net/lib/TOOLS/Passwords/accesspv.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Passwords/accesspv.zip",
-          "matchedBy": "loose:access",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "Visual Basic Section",
           "sourceUrl": "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/vb.html",
           "label": "accessv1 bas",
@@ -74620,17 +77238,7 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [
-        {
-          "sourceName": "Notion",
-          "sourceUrl": "https://github.com/mcp/makenotion/notion-mcp-server",
-          "label": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png",
-          "url": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png",
-          "originalUrl": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/images/page-access-edit.png",
-          "matchedBy": "loose:access",
-          "kind": "crawled image"
-        }
-      ],
+      "webImageLinks": [],
       "mirrorLinks": [
         {
           "sourceName": "Web page: buster's",
@@ -74648,22 +77256,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/accessv1.zip",
           "localPath": "",
           "status": "http-404",
-          "matchedBy": "loose:access"
-        },
-        {
-          "sourceName": "Misc/",
-          "label": "accessenum12.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/accessenum12.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/accessenum12.zip",
-          "status": "candidate",
-          "matchedBy": "loose:access"
-        },
-        {
-          "sourceName": "Passwords/",
-          "label": "accesspv.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Passwords/accesspv.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Passwords/accesspv.zip",
-          "status": "candidate",
           "matchedBy": "loose:access"
         },
         {
@@ -75496,6 +78088,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip",
+          "matchedBy": "loose:serial-com-beta-and-5-0",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "c-coms",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
           "label": "serial-com beta",
@@ -75540,6 +78141,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip",
           "status": "candidate",
           "matchedBy": "loose:sbeta"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "serial.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip",
+          "status": "candidate",
+          "matchedBy": "loose:serial-com-beta-and-5-0"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -75927,6 +78536,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
+          "sourceName": "an interview on the AOL Underground podcast",
+          "sourceUrl": "https://mattmazur.com/2022/05/10/aol-underground-podcast-interview-about-aol-files-com/",
+          "label": "https://mattmazur.com/wp-content/uploads/2022/05/screen-shot-2022-05-10-at-7.26.48-am.png",
+          "url": "https://mattmazur.com/wp-content/uploads/2022/05/screen-shot-2022-05-10-at-7.26.48-am.png",
+          "originalUrl": "https://mattmazur.com/wp-content/uploads/2022/05/screen-shot-2022-05-10-at-7.26.48-am.png",
+          "matchedBy": "loose:screen-shot",
+          "kind": "crawled image"
+        },
+        {
           "sourceName": "AIMFilez files",
           "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
           "label": "Screen Shot",
@@ -76022,15 +78640,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "Screen Shot",
           "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/myim.gif",
           "originalUrl": "http://aimfilez.com/screenshots/myim.gif",
-          "matchedBy": "exact:screen-shot",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "3",
-          "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files3",
-          "label": "Screen Shot",
-          "url": "https://web.archive.org/web/20040405183602/http://aimfilez.com/screenshots/aimtalk.gif",
-          "originalUrl": "http://aimfilez.com/screenshots/aimtalk.gif",
           "matchedBy": "exact:screen-shot",
           "kind": "crawled image"
         }
@@ -76747,13 +79356,40 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webDownloadLinks": [
         {
-          "sourceName": "AOLUnderground.com ProGGieS",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP",
+          "url": "http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP",
+          "matchedBy": "exact:sheep",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip",
+          "url": "http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip",
+          "matchedBy": "loose:sheep",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip",
+          "url": "http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip",
+          "matchedBy": "exact:sheep",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "AOLUnderground ProGGieS",
           "sourceUrl": "https://aolunderground.com/proggies/",
           "label": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip",
           "url": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip",
           "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip",
-          "kind": "program-section download",
-          "matchedBy": "exact:aomess-4"
+          "matchedBy": "exact:aomess4-by-lynx",
+          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [
@@ -76785,7 +79421,32 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "exact:aomess-4"
         }
       ],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "AOLUnderground ProGGieS",
+          "label": "aomess4_by_lynx_%5Baol2.5%5D.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip",
+          "status": "candidate",
+          "matchedBy": "exact:aomess4-by-lynx"
+        },
+        {
+          "sourceName": "AOLUnderground ProGGieS",
+          "label": "aomess4_by_lynx_%5Baol2.5%5D.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip",
+          "status": "candidate",
+          "matchedBy": "exact:aomess4-by-lynx"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "Esheep.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip",
+          "status": "candidate",
+          "matchedBy": "loose:sheep"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1686-shhidle": {
@@ -77264,7 +79925,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "AOL Screen Names",
+          "sourceUrl": "https://justinakapaste.com/category/aol-screen-names/",
+          "label": "SignoffScreen1.jpg?fit=800%2C540&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/SignoffScreen1.jpg?fit=800%2C540&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/SignoffScreen1.jpg?fit=800%2C540&amp;ssl=1",
+          "matchedBy": "loose:signoff",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -77453,15 +80124,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "url": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/silentascii.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/silentascii.zip",
           "matchedBy": "exact:silent-ascii",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Symantec/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Symantec/",
-          "label": "silent.zip",
-          "url": "http://am.net/lib/TOOLS/Symantec/silent.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Symantec/silent.zip",
-          "matchedBy": "loose:1701-silent-ascii",
           "kind": "crawled download link"
         }
       ],
@@ -79338,6 +82000,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/7020/zips/solid.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/7020/zips/solid.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/solid.zip",
+          "matchedBy": "loose:sosolid",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "so solid",
@@ -79348,7 +82019,16 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "solid.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/solid.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/solid.zip",
+          "status": "candidate",
+          "matchedBy": "loose:sosolid"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1754-soccas-profile-tagger-v-1-1": {
@@ -79620,6 +82300,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip",
+          "url": "http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip",
+          "matchedBy": "loose:solitaire-beta",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "idler's",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/idle.html",
           "label": "solitaire beta¹",
@@ -79630,7 +82319,16 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "Solitaire.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip",
+          "waybackUrl": "http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip",
+          "status": "candidate",
+          "matchedBy": "loose:solitaire-beta"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1761-souls-beta-ver-1-0": {
@@ -79674,7 +82372,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "darksoul.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/darksoul.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/darksoul.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darksoul"
+        },
+        {
+          "sourceName": "Web page: buster's",
+          "label": "darksoul.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolbusters/darksoul.zip",
+          "waybackUrl": "https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/darksoul.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:darksoul"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1762-soulja": {
@@ -81309,33 +84026,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "curl/",
-          "sourceUrl": "http://am.net/lib/TOOLS/curl/",
-          "label": "curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
-          "url": "http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
-          "matchedBy": "loose:static",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "curl/",
-          "sourceUrl": "http://am.net/lib/TOOLS/curl/",
-          "label": "curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
-          "url": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
-          "matchedBy": "loose:static",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "curl/",
-          "sourceUrl": "http://am.net/lib/TOOLS/curl/",
-          "label": "curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
-          "url": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
-          "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
-          "matchedBy": "loose:static",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "c-coms",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/ccom.html",
           "label": "static comz",
@@ -81372,6 +84062,24 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://static.hupso.com/share/buttons/dot.png",
           "matchedBy": "loose:static",
           "kind": "crawled image"
+        },
+        {
+          "sourceName": "PatorJK Fate Zero",
+          "sourceUrl": "https://patorjk.com/blog/2012/05/03/cracking-magus-fate-zero-encryption/",
+          "label": "ig-badge-16.png",
+          "url": "https://badges.instagram.com/static/images/ig-badge-16.png",
+          "originalUrl": "https://badges.instagram.com/static/images/ig-badge-16.png",
+          "matchedBy": "loose:static",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "Share on Facebook (Opens in new window) Facebook",
+          "sourceUrl": "https://mattmazur.com/2009/05/13/revolution/?share=facebook",
+          "label": "LiSc0sYjn_n.webp",
+          "url": "https://static.xx.fbcdn.net/rsrc.php/yd/r/LiSc0sYjn_n.webp",
+          "originalUrl": "https://static.xx.fbcdn.net/rsrc.php/yd/r/LiSc0sYjn_n.webp",
+          "matchedBy": "loose:static",
+          "kind": "crawled image"
         }
       ],
       "mirrorLinks": [
@@ -81388,30 +84096,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "label": "aimstaticxv2.zip",
           "originalUrl": "http://24.185.191.87/progz/aimstaticxv2.zip",
           "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimstaticxv2.zip",
-          "status": "candidate",
-          "matchedBy": "loose:static"
-        },
-        {
-          "sourceName": "curl/",
-          "label": "curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/curl/curl-7.21.2-ssl-sspi-zlib-static-bin-w32.zip",
-          "status": "candidate",
-          "matchedBy": "loose:static"
-        },
-        {
-          "sourceName": "curl/",
-          "label": "curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-idn-static-bin-w32.zip",
-          "status": "candidate",
-          "matchedBy": "loose:static"
-        },
-        {
-          "sourceName": "curl/",
-          "label": "curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
-          "originalUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
-          "waybackUrl": "http://am.net/lib/TOOLS/curl/curl-7.28.1-rtmp-ssh2-ssl-sspi-zlib-winidn-static-bin-w64.7z",
           "status": "candidate",
           "matchedBy": "loose:static"
         }
@@ -82359,11 +85043,20 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "Burning/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Burning/",
-          "label": "DVDStylerPortable_3.0.1.paf.exe",
-          "url": "http://am.net/lib/TOOLS/Burning/DVDStylerPortable_3.0.1.paf.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Burning/DVDStylerPortable_3.0.1.paf.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://geocities.com/SiliconValley/Board/2989/comps/brushstylecombo.zip",
+          "url": "http://geocities.com/SiliconValley/Board/2989/comps/brushstylecombo.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/brushstylecombo.zip",
+          "matchedBy": "loose:style",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://geocities.com/SiliconValley/Board/2989/comps/penstylecombo.zip",
+          "url": "http://geocities.com/SiliconValley/Board/2989/comps/penstylecombo.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/penstylecombo.zip",
           "matchedBy": "loose:style",
           "kind": "crawled download link"
         },
@@ -82388,38 +85081,11 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [
         {
-          "sourceName": "StackQL MCP Server",
-          "sourceUrl": "https://github.com/mcp/stackql/stackql-mcp",
-          "label": "license-MIT-blue?style=flat-square",
-          "url": "https://img.shields.io/badge/license-MIT-blue?style=flat-square",
-          "originalUrl": "https://img.shields.io/badge/license-MIT-blue?style=flat-square",
-          "matchedBy": "loose:style",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "StackQL MCP Server",
-          "sourceUrl": "https://github.com/mcp/stackql/stackql-mcp",
-          "label": "mcp-server?style=flat-square&label=mcp%20server",
-          "url": "https://img.shields.io/npm/v/@stackql/mcp-server?style=flat-square&amp;label=mcp%20server",
-          "originalUrl": "https://img.shields.io/npm/v/@stackql/mcp-server?style=flat-square&amp;label=mcp%20server",
-          "matchedBy": "loose:style",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "StackQL MCP Server",
-          "sourceUrl": "https://github.com/mcp/stackql/stackql-mcp",
-          "label": "MCP%20Registry-io.github.stackql%2Fstackql--mcp-blue?style=flat-square",
-          "url": "https://img.shields.io/badge/MCP%20Registry-io.github.stackql%2Fstackql--mcp-blue?style=flat-square",
-          "originalUrl": "https://img.shields.io/badge/MCP%20Registry-io.github.stackql%2Fstackql--mcp-blue?style=flat-square",
-          "matchedBy": "loose:style",
-          "kind": "crawled image"
-        },
-        {
-          "sourceName": "StackQL MCP Server",
-          "sourceUrl": "https://github.com/mcp/stackql/stackql-mcp",
-          "label": "stackql?style=flat-square",
-          "url": "https://img.shields.io/github/stars/stackql/stackql?style=flat-square",
-          "originalUrl": "https://img.shields.io/github/stars/stackql/stackql?style=flat-square",
+          "sourceName": "AOL Macros",
+          "sourceUrl": "https://justinakapaste.com/category/aol-macros/",
+          "label": "Style.png?fit=1139%2C310&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Style.png?fit=1139%2C310&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Style.png?fit=1139%2C310&amp;ssl=1",
           "matchedBy": "loose:style",
           "kind": "crawled image"
         }
@@ -82451,10 +85117,18 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:style"
         },
         {
-          "sourceName": "Burning/",
-          "label": "DVDStylerPortable_3.0.1.paf.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Burning/DVDStylerPortable_3.0.1.paf.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Burning/DVDStylerPortable_3.0.1.paf.exe",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "brushstylecombo.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/brushstylecombo.zip",
+          "waybackUrl": "http://geocities.com/SiliconValley/Board/2989/comps/brushstylecombo.zip",
+          "status": "candidate",
+          "matchedBy": "loose:style"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "penstylecombo.zip",
+          "originalUrl": "http://geocities.com/SiliconValley/Board/2989/comps/penstylecombo.zip",
+          "waybackUrl": "http://geocities.com/SiliconValley/Board/2989/comps/penstylecombo.zip",
           "status": "candidate",
           "matchedBy": "loose:style"
         }
@@ -82726,7 +85400,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "aolsites",
+          "sourceUrl": "https://justinakapaste.com/tag/aolsites/",
+          "label": "aolsucks.gif",
+          "url": "https://justinakapaste.com/wp-content/uploads/random/aolsucks.gif",
+          "originalUrl": "https://justinakapaste.com/wp-content/uploads/random/aolsucks.gif",
+          "matchedBy": "loose:sucks",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL Humor",
+          "sourceUrl": "https://justinakapaste.com/category/aol-humor/",
+          "label": "aolsucks.jpg?fit=219%2C318&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/12/aolsucks.jpg?fit=219%2C318&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/12/aolsucks.jpg?fit=219%2C318&amp;ssl=1",
+          "matchedBy": "loose:sucks",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -83094,6 +85787,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/6041/super.zip",
+          "url": "http://www.geocities.com:80/SiliconValley/6041/super.zip",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/6041/super.zip",
+          "matchedBy": "loose:1849-super-saiyan-v1o",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "prog's/misc n-z",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/progsn-z.html",
           "label": "super saiyan",
@@ -83122,7 +85824,80 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "super.zip",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/6041/super.zip",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/6041/super.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "super.zip",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/6041/super2.zip",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/6041/super2.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "APPLICATIONS",
+          "label": "super.zip",
+          "originalUrl": "http://server38.hypermart.net/progstation/superaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025545/http://server38.hypermart.net/progstation/superaim.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "AIM",
+          "label": "super.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613043258/http://www.cybernyse.com/downlowdz/aimsuperaim.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "label": "super.zip",
+          "originalUrl": "http://24.185.191.87/progz/aimsuperaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010624001054/http://24.185.191.87/progz/aimsuperaim.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "Section 2",
+          "label": "super.zip",
+          "originalUrl": "http://www.cybernyse.com/downlowdz/super.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/super.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "label": "super.zip",
+          "originalUrl": "http://24.185.191.87/progz/super.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/super.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "http://progstation.hypermart.net/",
+          "label": "super.zip",
+          "originalUrl": "http://progstation.hypermart.net/superaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net/superaim.zip",
+          "status": "candidate",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        },
+        {
+          "sourceName": "ProgzRescue Angelfire files",
+          "label": "super.zip",
+          "originalUrl": "http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mac2/pnaicutie/ver7/programs/superaim.zip",
+          "status": "ready",
+          "matchedBy": "loose:1849-super-saiyan-v1o"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1850-swarmsetup": {
@@ -83191,7 +85966,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "Load More",
+          "sourceUrl": "https://justinakapaste.com/tag/aolprogz/page/2/",
+          "label": "Sweet.png?fit=591%2C255&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/04/Sweet.png?fit=591%2C255&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/04/Sweet.png?fit=591%2C255&amp;ssl=1",
+          "matchedBy": "loose:sweet",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -86331,17 +89116,7 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [
-        {
-          "sourceName": "StackQL MCP Server",
-          "sourceUrl": "https://github.com/mcp/stackql/stackql-mcp",
-          "label": "total?label=github%20downloads",
-          "url": "https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads",
-          "originalUrl": "https://img.shields.io/github/downloads/stackql/stackql/total?label=github%20downloads",
-          "matchedBy": "loose:totalchaos",
-          "kind": "crawled image"
-        }
-      ],
+      "webImageLinks": [],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -87018,7 +89793,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: idler's",
+          "label": "db3turbo.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolidlers/db3turbo.zip",
+          "waybackUrl": "https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/db3turbo.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:db3turbo"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-1951-tweecin-mp3": {
@@ -88000,15 +90785,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "Adobe/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Adobe/",
-          "label": "Adobe_Update.exe",
-          "url": "http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe",
-          "matchedBy": "loose:update",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "LensHell AIM progs",
           "sourceUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html",
           "label": "aim invader winsock ver 3.5 (updated)",
@@ -88045,47 +90821,11 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "Programming/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Programming/",
-          "label": "GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
-          "url": "http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
-          "matchedBy": "loose:update",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Palm/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Palm/",
-          "label": "OutlookConduitUpdater.zip",
-          "url": "http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip",
-          "matchedBy": "loose:update",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Palm/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Palm/",
-          "label": "PalmOutlook101UpdateENG.zip",
-          "url": "http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip",
-          "matchedBy": "loose:update",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "rbupdate.exe",
-          "url": "http://am.net/lib/TOOLS/Microsoft/rbupdate.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/rbupdate.exe",
-          "matchedBy": "loose:update",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Microsoft/",
-          "label": "VPC2004SP1Update.zip",
-          "url": "http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip",
+          "url": "http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip",
           "matchedBy": "loose:update",
           "kind": "crawled download link"
         }
@@ -88127,50 +90867,10 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:update"
         },
         {
-          "sourceName": "Adobe/",
-          "label": "Adobe_Update.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Adobe/Adobe_Update.exe",
-          "status": "candidate",
-          "matchedBy": "loose:update"
-        },
-        {
-          "sourceName": "Programming/",
-          "label": "GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Programming/GapDebug-2016-update-2.4.0-offline-installer-windows.exe",
-          "status": "candidate",
-          "matchedBy": "loose:update"
-        },
-        {
-          "sourceName": "Palm/",
-          "label": "OutlookConduitUpdater.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Palm/OutlookConduitUpdater.zip",
-          "status": "candidate",
-          "matchedBy": "loose:update"
-        },
-        {
-          "sourceName": "Palm/",
-          "label": "PalmOutlook101UpdateENG.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Palm/PalmOutlook101UpdateENG.zip",
-          "status": "candidate",
-          "matchedBy": "loose:update"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "rbupdate.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/rbupdate.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/rbupdate.exe",
-          "status": "candidate",
-          "matchedBy": "loose:update"
-        },
-        {
-          "sourceName": "Microsoft/",
-          "label": "VPC2004SP1Update.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Microsoft/VPC2004SP1Update.zip",
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "ppal10502_update.zip",
+          "originalUrl": "http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/4696/ppal10502_update.zip",
           "status": "candidate",
           "matchedBy": "loose:update"
         }
@@ -88465,11 +91165,47 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
-          "sourceName": "ssstonebraker/aolunderground-proggies",
+          "sourceName": "https://github.com/ssstonebraker/aolunderground-proggies",
           "sourceUrl": "https://github.com/ssstonebraker/aolunderground-proggies",
           "label": "exe_strings.db.zip",
           "url": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
           "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/exe_strings.db.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "AOLUnderground ProGGieS",
+          "sourceUrl": "https://aolunderground.com/proggies/",
+          "label": "https://aolunderground.com/wp-content/uploads/2022/06/Magenta2.0.zip",
+          "url": "https://aolunderground.com/wp-content/uploads/2022/06/Magenta2.0.zip",
+          "originalUrl": "https://aolunderground.com/wp-content/uploads/2022/06/Magenta2.0.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "AOLUnderground ProGGieS",
+          "sourceUrl": "https://aolunderground.com/proggies/",
+          "label": "https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/40fd8531020b227a9e877f8b3dbcfb6cd2caa059/programs/AOL/proggies/all_in_one/aol3.0/hydrotoolz2_by_cronie%5Baol3.0%5D.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "AOLUnderground ProGGieS",
+          "sourceUrl": "https://aolunderground.com/proggies/",
+          "label": "https://github.com/ssstonebraker/aolunderground-proggies/raw/578639fde5308692574fda0bbd1f9d73dac511e2/programs/AOL/proggies/macros/devodraw31_%5Baol3.0%5D.zip",
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/raw/578639fde5308692574fda0bbd1f9d73dac511e2/programs/AOL/proggies/macros/devodraw31_%5Baol3.0%5D.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/578639fde5308692574fda0bbd1f9d73dac511e2/programs/AOL/proggies/macros/devodraw31_%5Baol3.0%5D.zip",
+          "matchedBy": "loose:underground",
+          "kind": "crawled download link"
+        },
+        {
+          "sourceName": "AOLUnderground ProGGieS",
+          "sourceUrl": "https://aolunderground.com/proggies/",
+          "label": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip",
+          "url": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip",
+          "originalUrl": "https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip",
           "matchedBy": "loose:underground",
           "kind": "crawled download link"
         },
@@ -88901,19 +91637,19 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "matchedBy": "loose:underground"
         },
         {
+          "sourceName": "AOL4Free v4",
+          "label": "AOL4FREE2.6v4.sit",
+          "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/programs/Mac/hells/aol4free/AOL4FREE2.6v4/AOL4FREE2.6v4.sit",
+          "status": "ready",
+          "matchedBy": "loose:underground"
+        },
+        {
           "sourceName": "oldscool_windows_tools",
           "label": "autoruns.exe",
           "originalUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
           "waybackUrl": "https://github.com/mikrodotnet/aol-progz/blob/main/oldscool_windows_tools/autoruns.exe",
           "status": "ready",
-          "matchedBy": "loose:underground"
-        },
-        {
-          "sourceName": "Misc/",
-          "label": "autoruns.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/autoruns61.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/autoruns61.zip",
-          "status": "candidate",
           "matchedBy": "loose:underground"
         }
       ],
@@ -89434,24 +92170,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/view2.zip",
           "matchedBy": "exact:ao-view-final",
           "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Misc/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Misc/",
-          "label": "diskview2.zip",
-          "url": "http://am.net/lib/TOOLS/Misc/diskview2.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/diskview2.zip",
-          "matchedBy": "loose:view2",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "Misc/",
-          "sourceUrl": "http://am.net/lib/TOOLS/Misc/",
-          "label": "tcpview234.zip",
-          "url": "http://am.net/lib/TOOLS/Misc/tcpview234.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/tcpview234.zip",
-          "matchedBy": "loose:view2",
-          "kind": "crawled download link"
         }
       ],
       "webImageLinks": [],
@@ -89464,30 +92182,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "localPath": "files/external/lenshellarchive-com/view2-b616cf26.zip",
           "status": "ready",
           "matchedBy": "exact:view2"
-        },
-        {
-          "sourceName": "Misc/",
-          "label": "diskview_v1.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/diskview_v1.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/diskview_v1.zip",
-          "status": "candidate",
-          "matchedBy": "loose:view2"
-        },
-        {
-          "sourceName": "Misc/",
-          "label": "diskview_v1.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/diskview2.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/diskview2.zip",
-          "status": "candidate",
-          "matchedBy": "loose:view2"
-        },
-        {
-          "sourceName": "Misc/",
-          "label": "tcpview234.zip",
-          "originalUrl": "http://am.net/lib/TOOLS/Misc/tcpview234.zip",
-          "waybackUrl": "http://am.net/lib/TOOLS/Misc/tcpview234.zip",
-          "status": "candidate",
-          "matchedBy": "loose:view2"
         }
       ],
       "externalArchiveTextEvidence": []
@@ -89655,7 +92349,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "AOL Other",
+          "sourceUrl": "https://justinakapaste.com/category/aol-other/",
+          "label": "AOL-Revision-List.png?fit=1024%2C1024&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/AOL-Revision-List.png?fit=1024%2C1024&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2025/08/AOL-Revision-List.png?fit=1024%2C1024&amp;ssl=1",
+          "matchedBy": "loose:vision",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -89870,7 +92574,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "authorConflict": "",
       "webMentions": [],
       "webDownloadLinks": [],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "Yahoo Progs",
+          "sourceUrl": "https://justinakapaste.com/category/yahoo-progs/",
+          "label": "virtualtank.jpg?fit=177%2C150&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/virtualtank.jpg?fit=177%2C150&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/02/virtualtank.jpg?fit=177%2C150&amp;ssl=1",
+          "matchedBy": "loose:virtualtank",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -90185,6 +92899,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         },
         {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "sourceUrl": "https://github.com/raysuelzer/ProgzRescue/blob/main/archived-urls/found-geocities-silicon-valley-files.txt",
+          "label": "http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP",
+          "url": "http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP",
+          "matchedBy": "loose:water",
+          "kind": "crawled download link"
+        },
+        {
           "sourceName": "LensHell faders",
           "sourceUrl": "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html",
           "label": "water colors",
@@ -90205,6 +92928,14 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       ],
       "webImageLinks": [],
       "mirrorLinks": [
+        {
+          "sourceName": "found-geocities-silicon-valley-files.txt",
+          "label": "LENA.ZIP",
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bay/1995/waterloo/LENA.ZIP",
+          "status": "candidate",
+          "matchedBy": "loose:water"
+        },
         {
           "sourceName": "HTML/CGI Code",
           "label": "watermenu.zip",
@@ -91214,7 +93945,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "JustinAKAPaste AOL Progz tag",
+          "sourceUrl": "https://justinakapaste.com/tag/aolprogz/",
+          "label": "Wisdom.png?fit=471%2C291&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/04/Wisdom.png?fit=471%2C291&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/04/Wisdom.png?fit=471%2C291&amp;ssl=1",
+          "matchedBy": "loose:wisdom",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [],
       "externalArchiveTextEvidence": []
     },
@@ -91310,24 +94051,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
       "webMentions": [],
       "webDownloadLinks": [
         {
-          "sourceName": "APC/",
-          "sourceUrl": "http://am.net/lib/TOOLS/APC/",
-          "label": "APCSecurityWizard.exe",
-          "url": "http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe",
-          "matchedBy": "loose:wizard",
-          "kind": "crawled download link"
-        },
-        {
-          "sourceName": "APC/",
-          "sourceUrl": "http://am.net/lib/TOOLS/APC/",
-          "label": "APCSecurityWizard211.exe",
-          "url": "http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe",
-          "matchedBy": "loose:wizard",
-          "kind": "crawled download link"
-        },
-        {
           "sourceName": "punter's",
           "sourceUrl": "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/punters.html",
           "label": "wizardz punt 4.0",
@@ -91337,7 +94060,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled download link"
         }
       ],
-      "webImageLinks": [],
+      "webImageLinks": [
+        {
+          "sourceName": "AOL Macros",
+          "sourceUrl": "https://justinakapaste.com/category/aol-macros/",
+          "label": "Wizard.png?fit=730%2C723&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard.png?fit=730%2C723&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard.png?fit=730%2C723&amp;ssl=1",
+          "matchedBy": "loose:wizard",
+          "kind": "crawled image"
+        },
+        {
+          "sourceName": "AOL Macros",
+          "sourceUrl": "https://justinakapaste.com/category/aol-macros/",
+          "label": "Wizard2.png?fit=950%2C623&ssl=1",
+          "url": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard2.png?fit=950%2C623&amp;ssl=1",
+          "originalUrl": "https://i0.wp.com/justinakapaste.com/wp-content/uploads/2020/05/Wizard2.png?fit=950%2C623&amp;ssl=1",
+          "matchedBy": "loose:wizard",
+          "kind": "crawled image"
+        }
+      ],
       "mirrorLinks": [
         {
           "sourceName": "ProgzRescue Angelfire files",
@@ -91355,22 +94097,6 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/wizard/hacker7/serverlook.zip",
           "localPath": "files/external/angelfire-com/serverlook.zip",
           "status": "ready",
-          "matchedBy": "loose:wizard"
-        },
-        {
-          "sourceName": "APC/",
-          "label": "APCSecurityWizard.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe",
-          "status": "candidate",
-          "matchedBy": "loose:wizard"
-        },
-        {
-          "sourceName": "APC/",
-          "label": "APCSecurityWizard.exe",
-          "originalUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe",
-          "waybackUrl": "http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe",
-          "status": "candidate",
           "matchedBy": "loose:wizard"
         }
       ],
@@ -93023,6 +95749,15 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
           "kind": "crawled image"
         },
         {
+          "sourceName": "Aim Bit",
+          "sourceUrl": "https://web.archive.org/web/20030623040448/http://aimbit.com/",
+          "label": "0.gif?tag=aimbit&j=n",
+          "url": "https://web.archive.org/web/20030613123619im_/http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n",
+          "originalUrl": "http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n",
+          "matchedBy": "loose:xtreme",
+          "kind": "crawled image"
+        },
+        {
           "sourceName": "AIMFilez files",
           "sourceUrl": "https://web.archive.org/web/20040405183602/http://aimfilez.com/?id=files1",
           "label": "0.gif?tag=aimfilez&j=n",
@@ -94342,7 +97077,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "collectionagency510.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/collectionagency510.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/collectionagency510.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:collectionagency510"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-2120-ufg-idle": {
@@ -94980,8 +97725,45 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "demonic.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/demonic.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/demonic.zip",
+          "localPath": "files/external/lenshellarchive-com/demonic-1f907e6c.zip",
+          "status": "ready",
+          "matchedBy": "exact:demonic"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "Web page: c-coms",
+          "label": "demonic.zip",
+          "localPath": "files/external/lenshellarchive-com/demonic-1f907e6c.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolccoms/demonic.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/demonic.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "Read Me.txt"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Scroller / macro",
+            "Account / TOS utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "Read Me.txt",
+              "text": "sup. well, here it is. i know this version sucks mad"
+            }
+          ],
+          "urls": [],
+          "matchedBy": "exact:demonic"
+        }
+      ]
     },
     "prog-2138-bsss-by-trebor": {
       "programId": "prog-2138-bsss-by-trebor",
@@ -95015,7 +97797,26 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "deepobsess.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/deepobsess.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/deepobsess.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deepobsess"
+        },
+        {
+          "sourceName": "Web page: prog's/misc a-m",
+          "label": "deepobsess2.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/deepobsess2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/deepobsess2.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "loose:deepobsess"
+        }
+      ],
       "externalArchiveTextEvidence": []
     },
     "prog-2139-th-oku-ptr": {
@@ -95050,7 +97851,17 @@ window.AOL_PROGZ_PROGRAM_ENRICHMENT = {
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
+      "mirrorLinks": [
+        {
+          "sourceName": "Web page: punter's",
+          "label": "deathsickle.zip",
+          "originalUrl": "http://lenshellarchive.com/Progs/aolpunters/deathsickle.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/deathsickle.zip",
+          "localPath": "",
+          "status": "http-404",
+          "matchedBy": "exact:deathsickle"
+        }
+      ],
       "externalArchiveTextEvidence": []
     }
   }

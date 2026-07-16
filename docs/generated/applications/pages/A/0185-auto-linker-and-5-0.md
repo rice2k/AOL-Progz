@@ -45,7 +45,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched web download links | 2 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -106,7 +106,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| https://justinakapaste.com/clone-tools/ | AutoLinker.png?fit=75%2C50&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/AutoLinker.png?fit=75%2C50&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/AutoLinker.png?fit=75%2C50&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/AutoLinker.png?fit=75%2C50&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2014/10/AutoLinker.png?fit=75%2C50&amp;ssl=1) |
 
 ## Related Indexes
 

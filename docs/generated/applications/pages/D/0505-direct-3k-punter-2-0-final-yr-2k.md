@@ -43,7 +43,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Download status | ready |
 | Local mirrored size | 1.5 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 
 - Local mirrored archive: [files/aol/aol-4-0/0505-d3kfinal.zip](../../../../../files/aol/aol-4-0/0505-d3kfinal.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/direct3k punter 2.0 final for aol 5 yr2k.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/direct3k%20punter%202.0%20final%20for%20aol%205%20yr2k.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/direct3k%20punter%202.0%20final%20for%20aol%205%20yr2k.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/direct3k%20punter%202.0%20final%20for%20aol%205%20yr2k.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/direct3k%20punter%202.0%20final%20for%20aol%205%20yr2k.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: punter's | d3kfinal.zip | [http://lenshellarchive.com/Progs/aolpunters/d3kfinal.zip](http://lenshellarchive.com/Progs/aolpunters/d3kfinal.zip) | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/d3kfinal.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/d3kfinal.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

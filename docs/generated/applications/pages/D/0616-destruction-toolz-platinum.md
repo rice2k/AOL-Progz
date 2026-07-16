@@ -43,7 +43,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Download status | ready |
 | Local mirrored size | 5.0 MB |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 - Local mirrored archive: [files/aol/mixed/0616-dtp.zip](../../../../../files/aol/mixed/0616-dtp.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/destruction toolz platinum aol4-6 password=y0yoy0123.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/destruction%20toolz%20platinum%20aol4-6%20password%3Dy0yoy0123.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/destruction%20toolz%20platinum%20aol4-6%20password%3Dy0yoy0123.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/destruction%20toolz%20platinum%20aol4-6%20password%3Dy0yoy0123.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/destruction%20toolz%20platinum%20aol4-6%20password%3Dy0yoy0123.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: prog's/misc a-m | dtp.zip | [http://lenshellarchive.com/Progs/aolprogs/dtp.zip](http://lenshellarchive.com/Progs/aolprogs/dtp.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dtp.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dtp.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

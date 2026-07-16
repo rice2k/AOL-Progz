@@ -43,7 +43,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 - Local mirrored archive: [files/aol/aol-5-0/0395-cheetov2.zip](../../../../../files/aol/aol-5-0/0395-cheetov2.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/cheeto toolz 2 aol5.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/cheeto%20toolz%202%20aol5.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/cheeto%20toolz%202%20aol5.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/cheeto%20toolz%202%20aol5.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/cheeto%20toolz%202%20aol5.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: c-coms | cheetov2.zip | [http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip](http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip) | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/cheetov2.zip) | [files/external/lenshellarchive-com/cheetov2-96b64da7.zip](../../../../../files/external/lenshellarchive-com/cheetov2-96b64da7.zip) | ready |
 
 ### Web Image Leads
 

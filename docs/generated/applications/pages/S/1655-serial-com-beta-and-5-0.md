@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 5 |
-| Matched mirror leads | 2 |
+| Matched web download links | 6 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1655-sbeta.zip](../../../../../files/aol/aol-4-0/1655-sbeta.zip)
-- Old-web / Wayback download leads: 5 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/serial-com beta for aol 4.0 and 5.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/serial-com%20beta%20for%20aol%204.0%20and%205.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/serial-com%20beta%20for%20aol%204.0%20and%205.0.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/serial-com%20beta%20for%20aol%204.0%20and%205.0.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/serial-com%20beta%20for%20aol%204.0%20and%205.0.zip)
@@ -97,6 +97,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | c-coms | / . . \ ccoms beta 2 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta2.zip) |
 | c-coms | / . . \ ccoms beta 3 | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) | [http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip](http://lenshellarchive.com/Progs/aolccoms/ccomsbeta3.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip) |
 | c-coms | serial-com beta | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sbeta.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/sbeta.zip) | [http://lenshellarchive.com/Progs/aolccoms/sbeta.zip](http://lenshellarchive.com/Progs/aolccoms/sbeta.zip) |
 | Section 2 | Solar Winds Beta¹·³ | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip) | [http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip](http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Solar Winds Beta¹·³ | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip) | [http://24.185.191.87/progz/solarwindsbetav13.zip](http://24.185.191.87/progz/solarwindsbetav13.zip) |
@@ -107,6 +108,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Section 2 | solarwindsbetav13.zip | [http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip](http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip) | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/solarwindsbetav13.zip) | unknown | candidate |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | solarwindsbetav13.zip | [http://24.185.191.87/progz/solarwindsbetav13.zip](http://24.185.191.87/progz/solarwindsbetav13.zip) | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/solarwindsbetav13.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | serial.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/serial.zip) | unknown | candidate |
 
 ### Web Image Leads
 

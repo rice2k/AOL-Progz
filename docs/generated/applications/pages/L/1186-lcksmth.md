@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.4 MB |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/1186-lcksmth.zip](../../../../../files/aol/mixed/1186-lcksmth.zip)
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/locksmith23.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/locksmith23.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/locksmith23.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/locksmith23.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/locksmith23.zip)
@@ -94,11 +95,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | http://geocities.com/SiliconValley/2072/locksmit.zip | [http://geocities.com/SiliconValley/2072/locksmit.zip](http://geocities.com/SiliconValley/2072/locksmit.zip) | [http://geocities.com/SiliconValley/2072/locksmit.zip](http://geocities.com/SiliconValley/2072/locksmit.zip) |
 | cracker's | locksmíth ²·³ | [https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/locksmith23.zip](https://web.archive.org/web/20111002163540/http://lenshellarchive.com/Progs/aolcrackers/locksmith23.zip) | [http://lenshellarchive.com/Progs/aolcrackers/locksmith23.zip](http://lenshellarchive.com/Progs/aolcrackers/locksmith23.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | locksmit.zip | [http://geocities.com/SiliconValley/2072/locksmit.zip](http://geocities.com/SiliconValley/2072/locksmit.zip) | [http://geocities.com/SiliconValley/2072/locksmit.zip](http://geocities.com/SiliconValley/2072/locksmit.zip) | unknown | candidate |
 
 ### Web Image Leads
 

@@ -96,13 +96,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | prog's/misc a-m | chain lightning 1.3 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chain.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chain.zip) | [http://lenshellarchive.com/Progs/aolprogs/chain.zip](http://lenshellarchive.com/Progs/aolprogs/chain.zip) |
-| Microsoft/ | qchain.exe | [http://am.net/lib/TOOLS/Microsoft/qchain.exe](http://am.net/lib/TOOLS/Microsoft/qchain.exe) | [http://am.net/lib/TOOLS/Microsoft/qchain.exe](http://am.net/lib/TOOLS/Microsoft/qchain.exe) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/6701/light.zip | [http://www.geocities.com/SiliconValley/6701/light.zip](http://www.geocities.com/SiliconValley/6701/light.zip) | [http://www.geocities.com/SiliconValley/6701/light.zip](http://www.geocities.com/SiliconValley/6701/light.zip) |
 
 ### Mirror Leads
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| Microsoft/ | qchain.exe | [http://am.net/lib/TOOLS/Microsoft/qchain.exe](http://am.net/lib/TOOLS/Microsoft/qchain.exe) | [http://am.net/lib/TOOLS/Microsoft/qchain.exe](http://am.net/lib/TOOLS/Microsoft/qchain.exe) | unknown | candidate |
+| Web page: prog's/misc a-m | chain.zip | [http://lenshellarchive.com/Progs/aolprogs/chain.zip](http://lenshellarchive.com/Progs/aolprogs/chain.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chain.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chain.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

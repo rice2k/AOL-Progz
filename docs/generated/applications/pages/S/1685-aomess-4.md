@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 4 |
+| Matched mirror leads | 3 |
 | Web research mentions | 2 |
 | Web image leads | 3 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/aomess4_by_lynx_[aol2.5].zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/aomess4_by_lynx_%5Baol2.5%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/aomess4_by_lynx_%5Baol2.5%5D.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/aomess4_by_lynx_%5Baol2.5%5D.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/aomess4_by_lynx_%5Baol2.5%5D.zip)
@@ -97,11 +98,18 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| AOLUnderground.com ProGGieS | https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP | [http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP](http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP) | [http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP](http://www.geocities.com:80/SiliconValley/4871/sheep.ZIP) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip | [http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip](http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip) | [http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip](http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip | [http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip](http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip) | [http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip](http://www.geocities.com/SiliconValley/Chip/8377/sheep.zip) |
+| AOLUnderground ProGGieS | https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| AOLUnderground ProGGieS | aomess4_by_lynx_%5Baol2.5%5D.zip | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol2.5/aomess4_by_lynx_%5Baol2.5%5D.zip) | unknown | candidate |
+| AOLUnderground ProGGieS | aomess4_by_lynx_%5Baol2.5%5D.zip | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip](https://github.com/ssstonebraker/aolunderground-proggies/raw/c3c3914e9e5bc66f8b393723a5ff5fceb5f0f9a0/programs/AOL/proggies/all_in_one/aol3.0/aomess5_by_lynx_%5Baol3.0%5D.zip) | unknown | candidate |
+| found-geocities-silicon-valley-files.txt | Esheep.zip | [http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip](http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip) | [http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip](http://www.geocities.com/SiliconValley/campus/2568/Esheep.zip) | unknown | candidate |
 
 ### Web Image Leads
 

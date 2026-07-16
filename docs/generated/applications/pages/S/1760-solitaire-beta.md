@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | remote-only |
 | Local mirrored size | unknown |
-| Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: remote-only
-- Old-web / Wayback download leads: 1 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/solitairebeta.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/solitairebeta.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/solitairebeta.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/solitairebeta.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/solitairebeta.zip)
@@ -94,11 +95,14 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip | [http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip](http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip) | [http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip](http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip) |
 | idler's | solitaire beta¹ | [https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/solitairebeta.zip](https://web.archive.org/web/20110731021936/http://lenshellarchive.com/Progs/aolidlers/solitairebeta.zip) | [http://lenshellarchive.com/Progs/aolidlers/solitairebeta.zip](http://lenshellarchive.com/Progs/aolidlers/solitairebeta.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | Solitaire.zip | [http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip](http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip) | [http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip](http://geocities.com/SiliconValley/Bay/4181/Solitaire.zip) | unknown | candidate |
 
 ### Web Image Leads
 

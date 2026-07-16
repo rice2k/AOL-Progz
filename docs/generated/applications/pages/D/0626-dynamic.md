@@ -45,7 +45,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -109,7 +109,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| mmer | all_dynamic_psi.gif?fit=259%2C310&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2018/01/all_dynamic_psi.gif?fit=259%2C310&amp;ssl=1) |
 
 ## Related Indexes
 

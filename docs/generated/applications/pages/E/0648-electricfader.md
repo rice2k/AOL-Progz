@@ -101,7 +101,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
-| LensHell AIM progs | cfade.zip | [http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip](http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip) | unknown | candidate |
+| Web page: LensHell AIM progs | cfade.zip | [http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip](http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/faders/cfade.zip) | unknown | http-404 |
 
 ### Web Image Leads
 

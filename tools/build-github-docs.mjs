@@ -636,11 +636,33 @@ function curatedSourceNotes(source) {
   return source?.notes || "";
 }
 
+function isNoisySourceUrl(url) {
+  const cleanedUrl = clean(url);
+  if (!cleanedUrl) return false;
+  try {
+    const parsed = new URL(cleanedUrl);
+    const host = parsed.hostname.toLowerCase().replace(/^www\./, "");
+    const pathName = parsed.pathname.toLowerCase();
+    if (host === "github.com") {
+      return (
+        /^\/(?:login|signup|contact|topics|marketplace|features|pricing|explore)(?:\/|$)/.test(pathName) ||
+        /\/(?:actions|issues|pulls|projects|security|pulse|branches|tags|discussions|commits|stargazers|forks|watchers|network|graphs|settings|notifications)(?:\/|$)/.test(
+          pathName,
+        )
+      );
+    }
+    return /\/wp-(?:json|admin|login)|\/feed\/?$|\/comments\/feed\/?$/.test(pathName);
+  } catch {
+    return false;
+  }
+}
+
 function buildMasterLinks() {
   const links = new Map();
   const add = ({ url, label, kind, source, context }) => {
     const cleanedUrl = clean(url);
     if (!cleanedUrl) return;
+    if (isNoisySourceUrl(cleanedUrl)) return;
     const key = linkKey(cleanedUrl);
     const existing = links.get(key) || {
       url: cleanedUrl,

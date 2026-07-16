@@ -42,10 +42,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
-| Matched web download links | 4 |
-| Matched mirror leads | 3 |
+| Matched web download links | 2 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 0 |
+| Web image leads | 1 |
 
 ## Tags
 
@@ -54,8 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0451-config.zip](../../../../../files/aol/mixed/0451-config.zip)
-- Old-web / Wayback download leads: 4 link(s) listed below
-- Matched mirror leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/pcaccessv3.zip)
@@ -95,9 +95,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| APC/ | APC_Device_IP_Configuration_Wizard.exe | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) |
 | Aim Filez | Bot Config | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip) | [http://aimthings.com/aimfilez/BotConfig.zip](http://aimthings.com/aimfilez/BotConfig.zip) |
-| HP/ | HPDriverConfigurationUtility.zip | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) |
 | prog's/misc n-z | pc access v 3.0 | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip) | [http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip](http://lenshellarchive.com/Progs/aolprogs/pcaccessv3.zip) |
 
 ### Mirror Leads
@@ -105,12 +103,12 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | Web page: Aim Filez | BotConfig.zip | [http://aimthings.com/aimfilez/BotConfig.zip](http://aimthings.com/aimfilez/BotConfig.zip) | [https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip](https://web.archive.org/web/20030623040448/http://aimthings.com/aimfilez/BotConfig.zip) | unknown | http-404 |
-| APC/ | APC_Device_IP_Configuration_Wizard.exe | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | [http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe](http://am.net/lib/TOOLS/APC/APC_Device_IP_Configuration_Wizard.exe) | unknown | candidate |
-| HP/ | HPDriverConfigurationUtility.zip | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | [http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip](http://am.net/lib/TOOLS/HP/HPDriverConfigurationUtility.zip) | unknown | candidate |
 
 ### Web Image Leads
 
-No extra web-image leads are matched to this entry yet.
+| Source | Label | Image URL | Original URL |
+| --- | --- | --- | --- |
+| aol star | MSConfig_screenshot.png?fit=400%2C277&ssl=1 | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/MSConfig_screenshot.png?fit=400%2C277&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/MSConfig_screenshot.png?fit=400%2C277&amp;ssl=1) | [https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/MSConfig_screenshot.png?fit=400%2C277&amp;ssl=1](https://i0.wp.com/justinakapaste.com/wp-content/uploads/2017/10/MSConfig_screenshot.png?fit=400%2C277&amp;ssl=1) |
 
 ## Related Indexes
 

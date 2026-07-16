@@ -42,8 +42,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 22 |
-| Matched mirror leads | 0 |
+| Matched web download links | 23 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 12 |
 
@@ -54,7 +54,8 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0517-dark-side-clicker.zip](../../../../../files/aol/aol-4-0/0517-dark-side-clicker.zip)
-- Old-web / Wayback download leads: 22 link(s) listed below
+- Old-web / Wayback download leads: 23 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darksideserverv1.35r2aol7win2000xp.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darksideserverv1.35r2aol7win2000xp.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darksideserverv1.35r2aol7win2000xp.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darksideserverv1.35r2aol7win2000xp.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/darksideserverv1.35r2aol7win2000xp.zip)
@@ -116,10 +117,13 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cs.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cs.zip) | [http://www.lilbudbot.com/aimthings/layouts/cs.zip](http://www.lilbudbot.com/aimthings/layouts/cs.zip) |
 | Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/war.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/war.zip) | [http://www.lilbudbot.com/aimthings/layouts/war.zip](http://www.lilbudbot.com/aimthings/layouts/war.zip) |
 | Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip) | [http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip](http://www.lilbudbot.com/aimthings/layouts/htmlonly.zip) |
+| found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip | [http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip](http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip) | [http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip](http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip) |
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| found-geocities-silicon-valley-files.txt | CLICKER.zip | [http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip](http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip) | [http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip](http://www.geocities.com/SiliconValley/Chip/8377/CLICKER.zip) | unknown | candidate |
 
 ### Web Image Leads
 

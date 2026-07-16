@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 1 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 
@@ -55,6 +55,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: [files/aol/aol-5-0/0586-diskreet60.zip](../../../../../files/aol/aol-5-0/0586-diskreet60.zip)
 - Old-web / Wayback download leads: 1 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/diskreet massmailer.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/diskreet%20massmailer.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/diskreet%20massmailer.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/diskreet%20massmailer.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/diskreet%20massmailer.zip)
@@ -98,7 +99,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| Web page: mmer's/server's | diskreet.zip | [http://lenshellarchive.com/Progs/aolmmservers/diskreet.zip](http://lenshellarchive.com/Progs/aolmmservers/diskreet.zip) | [https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/diskreet.zip](https://web.archive.org/web/20110904062518/http://lenshellarchive.com/Progs/aolmmservers/diskreet.zip) | unknown | http-404 |
 
 ### Web Image Leads
 
