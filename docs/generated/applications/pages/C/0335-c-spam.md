@@ -14,6 +14,7 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Author | PuNkDuDe |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Mass mailer / server |
 | Category | mass mailer |
 | Visual Basic | VB6 |
 | Compile type | native |

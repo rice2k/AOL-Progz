@@ -17,6 +17,8 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 | Crawled source pages | 156 |
 | Crawled unique links | 6707 |
 | Crawled download links | 3450 |
+| Master deduped link index | 14870 |
+| User supplied priority links | 37 |
 | Recovered external files | 238 |
 | External mirror groups | 1191 |
 | Recovered web images | 60 |
@@ -24,11 +26,13 @@ Generated at 2026-07-15T18:36:57.207Z from the local AOL Progz data files.
 ## Browse
 
 - [Applications](applications/README.md)
+- [Detailed all-progs inventory](applications/all-programs-detailed.md)
 - [Categories](categories/README.md)
 - [AOL versions](versions/README.md)
 - [Tags](tags/README.md)
 - [Authors](authors/README.md)
 - [Sources and old links](sources/README.md)
+- [Master link index](sources/all-links.md)
 - [Screenshots](screenshots/README.md)
 - [Statistics](statistics.md)
 - [Glossary](GLOSSARY.md)

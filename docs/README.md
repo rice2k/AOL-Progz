@@ -6,6 +6,9 @@ This folder is the GitHub-readable documentation layer for the AOL Progz archive
 
 - [Generated documentation hub](generated/README.md)
 - [All applications](generated/applications/all-applications.md)
+- [Detailed all-progs inventory](generated/applications/all-programs-detailed.md)
+- [Master link index](generated/sources/all-links.md)
+- [Links you supplied](generated/sources/user-supplied-links.md)
 - [Categories](generated/categories/README.md)
 - [AOL version buckets](generated/versions/README.md)
 - [Tags](generated/tags/README.md)

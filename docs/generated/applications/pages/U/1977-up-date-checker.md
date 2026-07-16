@@ -14,6 +14,7 @@ A screen-name checker, scanner, maker, or related identity-management utility. F
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 7.0 |
+| Prog type | Linker / chat linker |
 | Category | screen name tool |
 | Visual Basic | unknown |
 | Compile type | unknown |

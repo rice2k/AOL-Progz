@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | Fangs404 |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Fader / text styler |
 | Category | uncategorized |
 | Visual Basic | VB5 |
 | Compile type | p-code |

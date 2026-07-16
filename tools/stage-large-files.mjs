@@ -5,6 +5,7 @@ import path from "node:path";
 const rootDir = path.resolve(import.meta.dirname, "..");
 const targets = process.argv.slice(2);
 const chunkSize = Number(process.env.AOL_STAGE_CHUNK || 75);
+const stageTracked = process.env.AOL_STAGE_TRACKED !== "0";
 
 function walk(absDir) {
   const files = [];
@@ -46,7 +47,7 @@ const allFiles = targets.flatMap((target) => {
   return statSync(abs).isDirectory() ? walk(abs) : [abs];
 });
 
-const relFiles = allFiles.map(relPath).filter((rel) => !isTracked(rel));
+const relFiles = allFiles.map(relPath).filter((rel) => stageTracked || !isTracked(rel));
 console.log(`Staging ${relFiles.length} files with git plumbing.`);
 
 for (let i = 0; i < relFiles.length; i += chunkSize) {

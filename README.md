@@ -1,26 +1,51 @@
+<div align="center">
+
 # AOL Progz
 
-AOL Progz is a historical GitHub archive for old-school AOL/AIM-era proggies,
-punters, room busters, scrollers, faders, bots, source packs, screenshots, old
-download mirrors, and scene links.
+**A historical archive of AOL/AIM-era proggies, punters, room busters, faders,
+idlers, scrollers, bots, source packs, old download mirrors, screenshots, and
+scene links.**
 
-The repo is being built in two layers:
+![catalog](https://img.shields.io/badge/catalog-2,139%20apps-18d5d1)
+![files](https://img.shields.io/badge/mirrored%20files-1,672-64dc8a)
+![size](https://img.shields.io/badge/local%20archive-2.2GB-ffd34d)
+![links](https://img.shields.io/badge/crawled%20links-6,707-7aa8ff)
+![downloads](https://img.shields.io/badge/download%20links-3,450-ff5b8f)
+![docs](https://img.shields.io/badge/generated%20docs-3,000%2B-lightgrey)
 
-- Plain GitHub archive: files, data, source reports, screenshots, URL indexes,
-  and mirror metadata.
-- Website view: a searchable static interface generated from the same data.
+</div>
 
-## Start browsing
+## Quick Doors
 
-- [Full GitHub documentation hub](docs/README.md)
-- [Generated archive guide](docs/generated/README.md)
-- [All applications](docs/generated/applications/all-applications.md)
-- [Categories](docs/generated/categories/README.md)
-- [AOL version buckets](docs/generated/versions/README.md)
-- [Sources and old-school links](docs/generated/sources/README.md)
-- [Screenshots and recovered web images](docs/generated/screenshots/README.md)
-- [Glossary](docs/generated/GLOSSARY.md)
-- [Archive safety notes](ARCHIVE-SAFETY.md)
+| Browse | What it shows |
+| --- | --- |
+| [Detailed all-progs inventory](docs/generated/applications/all-programs-detailed.md) | Every cataloged prog/app with actual name, archive filename, inferred prog type, category, AOL version, author, local file, source URL, embedded URLs, and screenshot count. |
+| [Master all-links index](docs/generated/sources/all-links.md) | Deduped master list of user-supplied links, crawled links, download links, embedded archive URLs, mirrors, and source pages. |
+| [Links you supplied](docs/generated/sources/user-supplied-links.md) | The priority source links from the request, preserved as their own page. |
+| [Sources and old-school links](docs/generated/sources/README.md) | Curated source notes, crawled pages, mirror groups, missing candidates, Methodus2000, FreeProgz, LensHell, RiceJerry, LolToolz, and more. |
+| [Categories](docs/generated/categories/README.md) | Punters, room busters, faders, idlers, C-Coms/chat tools, mailers, source packs, all-in-one progs, and uncategorized items. |
+| [AOL version buckets](docs/generated/versions/README.md) | AOL 2.5, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, tools, and mixed/unknown buckets. |
+| [Screenshots and recovered web images](docs/generated/screenshots/README.md) | Program screenshots plus recovered old-site images from crawled pages. |
+| [Glossary](docs/generated/GLOSSARY.md) | Scene vocabulary for progs, punters, booters, room busters, C-Coms, faders, idlers, MMers, servers, crackers, phishers, termers, and X'ers. |
+| [Archive safety notes](ARCHIVE-SAFETY.md) | Historical preservation warnings and safe-inspection guidance. |
+
+## What Is Here
+
+| Area | Count |
+| --- | ---: |
+| Main catalog applications | 2,139 |
+| Mirrored main files | 1,672 |
+| Mirrored archive size | 2.2 GB |
+| Catalog author strings | 810 |
+| Inferred categories | 12 |
+| Programs with embedded URLs | 170 |
+| URLs found in readable archive text | 234 |
+| Crawled source pages | 156 |
+| Unique crawled links | 6,707 |
+| Crawled download links | 3,450 |
+| Recovered external files | 238 |
+| External mirror groups | 1,191 |
+| Recovered web images | 60 |
 
 The site includes:
 

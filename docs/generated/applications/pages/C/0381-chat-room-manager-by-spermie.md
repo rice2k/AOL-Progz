@@ -14,6 +14,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Author | spermie |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Chat / IM utility |
 | Category | chat or IM tool |
 | Visual Basic | VB6 |
 | Compile type | native |

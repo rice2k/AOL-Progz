@@ -14,6 +14,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Visual Basic | non-VB |
 | Compile type | n/a |

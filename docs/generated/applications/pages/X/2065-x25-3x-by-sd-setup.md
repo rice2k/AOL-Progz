@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | BaNdO |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | non-VB |
 | Compile type | n/a |

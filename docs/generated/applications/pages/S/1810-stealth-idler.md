@@ -14,6 +14,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Author | Swift |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Visual Basic | VB6 |
 | Compile type | native |

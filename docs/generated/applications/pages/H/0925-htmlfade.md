@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | Half Life |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB3 |
 | Compile type | p-code |

@@ -14,6 +14,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | All-in-one prog suite |
 | Category | chat or IM tool |
 | Visual Basic | unknown |
 | Compile type | unknown |

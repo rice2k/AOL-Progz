@@ -14,6 +14,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 9.0 |
+| Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Visual Basic | unknown |
 | Compile type | unknown |

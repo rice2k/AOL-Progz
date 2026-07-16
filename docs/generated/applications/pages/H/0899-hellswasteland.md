@@ -14,6 +14,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Author | sleeper |
 | Platform | AOL |
 | AOL/version bucket | AOL 6.0 |
+| Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Visual Basic | unknown |
 | Compile type | unknown |

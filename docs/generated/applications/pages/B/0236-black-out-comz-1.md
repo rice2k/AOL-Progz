@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | festa |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | C-Com / command list |
 | Category | uncategorized |
 | Visual Basic | VB6 |
 | Compile type | native |

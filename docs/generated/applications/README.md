@@ -36,4 +36,5 @@ Every main catalog entry has a generated detail page with metadata, category not
 
 ## Complete List
 
-- [All applications table](all-applications.md)
+- [Detailed all-progs inventory](all-programs-detailed.md)
+- [Compact all applications table](all-applications.md)

@@ -14,6 +14,7 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Author | Mavness |
 | Platform | AOL |
 | AOL/version bucket | Tools |
+| Prog type | All-in-one prog suite |
 | Category | development or source |
 | Visual Basic | VB6 |
 | Compile type | unknown |

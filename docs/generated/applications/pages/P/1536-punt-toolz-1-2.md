@@ -14,6 +14,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Author | SaBeR |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | All-in-one prog suite |
 | Category | punter |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |

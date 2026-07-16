@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | davo |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Linker / chat linker |
 | Category | uncategorized |
 | Visual Basic | VB5 |
 | Compile type | native |

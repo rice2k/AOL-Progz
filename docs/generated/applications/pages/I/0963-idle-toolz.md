@@ -14,6 +14,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Author | font><font face="arial" color=#000fff |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | All-in-one prog suite |
 | Category | idler or bot |
 | Visual Basic | VB6 |
 | Compile type | p-code |

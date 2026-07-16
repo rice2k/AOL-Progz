@@ -14,6 +14,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Author | CoBra |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Punter / booter |
 | Category | punter |
 | Visual Basic | VB3 |
 | Compile type | p-code |

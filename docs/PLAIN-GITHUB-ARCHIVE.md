@@ -31,6 +31,10 @@ even when the website view is too large for normal GitHub Pages hosting.
 ## Human-readable indexes
 
 - `docs/generated/applications/all-applications.md`: complete application list.
+- `docs/generated/applications/all-programs-detailed.md`: complete detailed
+  all-progs inventory with actual catalog name, archive filename, inferred prog
+  type, category, AOL/version bucket, author, local file, source URL, embedded
+  URLs, and screenshot count.
 - `docs/generated/applications/pages/`: detailed page for each cataloged prog or
   app.
 - `docs/generated/categories/`: category pages for punters, room busters,
@@ -40,6 +44,11 @@ even when the website view is too large for normal GitHub Pages hosting.
   5.0, 6.0, 7.0, 8.0, 9.0, and mixed/unknown.
 - `docs/generated/sources/`: old source pages, download links, resource links,
   mirror groups, missing candidates, and recovery leads.
+- `docs/generated/sources/all-links.md`: master deduplicated URL index covering
+  user-supplied links, crawled links, download URLs, embedded archive URLs,
+  mirrors, source pages, and recovered web-image URLs.
+- `docs/generated/sources/user-supplied-links.md`: the priority links supplied
+  in the request, preserved as a separate source list.
 - `docs/generated/screenshots/`: application screenshots and recovered web-page
   images.
 

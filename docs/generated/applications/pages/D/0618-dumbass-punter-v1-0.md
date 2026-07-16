@@ -14,6 +14,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Author | Font Color=#000000 |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Punter / booter |
 | Category | punter |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |

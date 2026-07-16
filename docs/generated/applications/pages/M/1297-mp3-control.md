@@ -14,6 +14,7 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 8.0 |
+| Prog type | Source / developer file |
 | Category | development or source |
 | Visual Basic | unknown |
 | Compile type | unknown |

@@ -197,6 +197,31 @@ function appPurpose(program) {
   return bits.join(" ");
 }
 
+function programType(program) {
+  const haystack = `${program.name} ${program.file} ${program.category}`.toLowerCase();
+  const checks = [
+    ["All-in-one prog suite", /\b(aohell|hell|toolz|tools|proggy|progz|suite|collection)\b/],
+    ["Room buster", /\b(room[-\s]?buster|room[-\s]?bust|roombust|bust[-\s]?in|buster)\b/],
+    ["Punter / booter", /\b(punt|punter|punta|boot|booter|nuke|knock|disconnect)\b/],
+    ["Fader / text styler", /\b(fader|fade|phader|rainbow|color|font|text[-\s]?tool)\b/],
+    ["Idler / AFK bot", /\b(idle|idler|afk|away|auto[-\s]?reply|autoreply)\b/],
+    ["C-Com / command list", /\b(c[-\s]?com|ccom|comz|commands?)\b/],
+    ["Scroller / macro", /\b(scroll|scroller|macro|ascii|banner)\b/],
+    ["Linker / chat linker", /\b(linker|links?|url)\b/],
+    ["Mass mailer / server", /\b(mmer|mass[-\s]?mail|mailer|mail[-\s]?bomb|server|spam|spammer)\b/],
+    ["Account / TOS utility", /\b(phish|fish|pass|password|pw|cracker|crack|tos|termer|term|account|card)\b/],
+    ["Screen-name utility", /\b(screen[-\s]?name|sn[-\s]?tool|sn[-\s]?check|scanner|checker)\b/],
+    ["Source / developer file", /\b(source|module|bas|vb|ocx|dll|control|tutorial|decompile)\b/],
+    ["Media / file utility", /\b(mp3|player|wav|sound|file|download|image|picture)\b/],
+    ["Chat / IM utility", /\b(chat|im|instant[-\s]?message|message|msg)\b/],
+  ];
+  for (const [label, pattern] of checks) {
+    if (pattern.test(haystack)) return label;
+  }
+  if (clean(program.category) && program.category !== "uncategorized") return titleCase(program.category);
+  return "Unknown / needs review";
+}
+
 function fileStem(filePath) {
   return path.posix.basename(clean(filePath)).replace(/\.[^.]+$/, "");
 }
@@ -228,10 +253,11 @@ function compactRows(rows, max = 250) {
 
 function appTable(fromDoc, items) {
   return table(
-    ["#", "Application", "Category", "Platform", "AOL/version bucket", "Author", "File", "Shots"],
+    ["#", "Actual name", "Prog type", "Category", "Platform", "AOL/version bucket", "Author", "File", "Shots"],
     sortByName(items).map((program) => [
       String(program.index),
       localLink(fromDoc, program.name, appDocPaths.get(program.id)),
+      programType(program),
       program.category || "uncategorized",
       program.platform || "unknown",
       versionLabel(program),
@@ -239,6 +265,40 @@ function appTable(fromDoc, items) {
       program.download?.path ? localLink(fromDoc, "local", program.download.path) : program.download?.status || "remote-only",
       String(program.screenshotCount || 0),
     ]),
+  );
+}
+
+function programInventoryTable(fromDoc, items) {
+  return table(
+    [
+      "#",
+      "Actual name",
+      "Archive filename",
+      "Prog type",
+      "Category",
+      "AOL/version",
+      "Author",
+      "Local file",
+      "Source URL",
+      "Embedded URLs",
+      "Screens",
+    ],
+    items.map((program) => {
+      const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
+      return [
+        String(program.index),
+        localLink(fromDoc, program.name, appDocPaths.get(program.id)),
+        path.posix.basename(clean(program.file) || clean(program.download?.path) || ""),
+        programType(program),
+        program.category || "uncategorized",
+        versionLabel(program),
+        program.author || "unknown",
+        program.download?.path ? localLink(fromDoc, program.download.path, program.download.path) : program.download?.status || "remote-only",
+        program.download?.originalUrl ? link(program.download.originalUrl, program.download.originalUrl) : "",
+        embedded.length ? embedded.map((item) => link(item.url, item.url)).join("<br>") : "",
+        String(program.screenshotCount || 0),
+      ];
+    }),
   );
 }
 
@@ -259,6 +319,136 @@ const webResources = readJson("data/web-resources.json", { pages: [], links: [] 
 const webAssets = readJson("data/web-assets.json", { assets: [] });
 const externalDownloads = readJson("data/external-downloads.json", { downloads: [], mirrorGroups: [] });
 const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
+
+const userSuppliedLinks = [
+  ["AOL Underground Proggies Archive", "GitHub archive", "https://github.com/ssstonebraker/aolunderground-proggies"],
+  ["AOLUnderground.com ProGGieS", "scene index", "https://aolunderground.com/proggies/"],
+  ["JustinAKAPaste", "large web archive", "https://justinakapaste.com/"],
+  ["Legacy AOL Underground", "GitHub mirror/fork", "https://github.com/DamianSuess/Legacy-AOL-Underground"],
+  ["HyPeR's AOL Progs", "old-school web list", "https://hyperspage.com/progs/aol-progs"],
+  ["Plozee AOL proggies history article", "context article", "https://plozee.com/aol-proggies-and-punters-a-neglected-part-of-internet-history/"],
+  ["Kadeklizem AOL Progs ARCHIVE.rar", "large Wayback file", "https://web.archive.org/web/20220321112058/http://kadeklizem.com/AOL%20Progs%20ARCHIVE.rar"],
+  ["Aciddr0p", "old domain", "http://www.aciddr0p.net/"],
+  ["Koin", "old domain", "https://koin.org/"],
+  ["Rexflex Progs", "old domain", "https://progs.rexflex.net/"],
+  ["DarcFX Submissions", "GitHub source/code archive", "https://github.com/darcfx/darcfx-submissions"],
+  ["ProgzRescue", "Wayback recovery project", "https://github.com/raysuelzer/ProgzRescue"],
+  ["FreeProgz main", "Wayback prog hub", "https://web.archive.org/web/20010516214202/http://www.freeprogz.com/"],
+  ["Oogle AIM progs", "AIM download page", "https://web.archive.org/web/20010424150235/http://www.oogle.net/d_aimprogs.htm"],
+  ["AOL-Progz.com", "AOL prog portal", "https://web.archive.org/web/20010301094602/http://www.aol-progz.com:80/"],
+  ["Angelfire progz capture index", "Wayback capture index", "https://web.archive.org/web/20250000000000*/http://www.angelfire.com/in3/progz/"],
+  ["Prog.net", "user supplied URL", "https://web.archive.org/web/20020601170723/http://www.prog.net/"],
+  ["AimThings", "AIM files and tricks", "https://web.archive.org/web/20030623040448/http://aimthings.com/"],
+  ["Titan Spaceports progs", "prog list", "https://web.archive.org/web/20010504044037/http://titan.spaceports.com/~info/progs2.htm"],
+  ["Rexflex live prog endpoint", "live endpoint", "https://progs.rexflex.net/prog"],
+  ["LensHellArchive index", "prog archive hub", "https://web.archive.org/web/20111001173231/http://lenshellarchive.com/Index.html"],
+  ["LensHell AIM progs", "AIM progs", "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/aim.html"],
+  ["LensHell hells/progs", "AOL progs and categories", "https://web.archive.org/web/20111002114234/http://lenshellarchive.com/hell.html"],
+  ["LensHell faders", "faders", "https://web.archive.org/web/20110904002536/http://lenshellarchive.com/faders.html"],
+  ["ProgStation AIM", "AIM progs", "https://web.archive.org/web/20010221023818/http://progstation.hypermart.net:80/aim.html"],
+  ["PHAT secrets", "AIM/AOL secrets", "https://web.archive.org/web/20000611162712/http://solo5.abac.com/phat/secrets.htm"],
+  ["FreeProgz links", "old link directory", "https://web.archive.org/web/20010603213502/http://www.freeprogz.com/links.htm#"],
+  ["LolToolz progs", "Geocities prog page", "https://web.archive.org/web/20021018083822/http://www.geocities.com:80/loltoolz/progs.html"],
+  ["ProgzRescue archived URLs", "GitHub recovery lists", "https://github.com/raysuelzer/ProgzRescue/tree/main/archived-urls"],
+  ["ProgzRescue Angelfire raw list", "raw URL list", "https://raw.githubusercontent.com/raysuelzer/ProgzRescue/refs/heads/main/archived-urls/found-angelfire-files.txt"],
+  ["FreeProgz capture index", "Wayback capture index", "https://web.archive.org/web/20250000000000*/http://www.freeprogz.com/"],
+  ["CoolKid CCT", "program page", "https://web.archive.org/web/20010428185554/http://coolkid.text2k.net/programs/cct/"],
+  ["CoolKid SP how-to", "how-to page", "https://web.archive.org/web/20010514020453/http://coolkid.text2k.net/programs/sp/howto.html"],
+  ["RiceJerry links", "link directory", "https://web.archive.org/web/20010223212351/http://www.8op.com:80/ricejerry/links.html"],
+  ["Methodus2000 NetBus page", "historical remote-control patch page", "https://web.archive.org/web/20010111011900/http://www.methodus2000.com:80/methodustoolz/netbus.htm"],
+  ["Methodus Toolz wildcard", "Wayback wildcard", "https://web.archive.org/web/*/http://www.methodus2000.com/methodustoolz/*"],
+  ["Methodus2000 base wildcard", "Wayback wildcard", "https://web.archive.org/web/*/http://methodus2000.com/"],
+];
+
+function linkKey(url) {
+  return clean(url).replace(/\/+$/, "").toLowerCase();
+}
+
+function buildMasterLinks() {
+  const links = new Map();
+  const add = ({ url, label, kind, source, context }) => {
+    const cleanedUrl = clean(url);
+    if (!cleanedUrl) return;
+    const key = linkKey(cleanedUrl);
+    const existing = links.get(key) || {
+      url: cleanedUrl,
+      label: clean(label) || cleanedUrl,
+      kinds: new Set(),
+      sources: new Set(),
+      contexts: new Set(),
+    };
+    if (kind) existing.kinds.add(clean(kind));
+    if (source) existing.sources.add(clean(source));
+    if (context) existing.contexts.add(clean(context));
+    links.set(key, existing);
+  };
+
+  for (const [label, kind, url] of userSuppliedLinks) {
+    add({ url, label, kind, source: "user supplied links", context: label });
+  }
+  for (const source of catalog.research?.sourceCollections || []) {
+    add({ url: source.url, label: source.name, kind: source.kind, source: "curated source collections", context: source.notes });
+    add({ url: source.wayback, label: `${source.name} Wayback`, kind: "Wayback wildcard", source: "curated source collections", context: source.name });
+  }
+  for (const page of webResources.pages || []) {
+    add({ url: page.url, label: page.name, kind: page.kind || "crawled source page", source: "crawled source pages", context: page.title || page.name });
+    for (const item of page.links || []) {
+      add({ url: item.url, label: item.text, kind: item.type || "crawled link", source: page.name, context: `page: ${page.name}` });
+      add({ url: item.originalUrl, label: item.text, kind: "original URL from crawled link", source: page.name, context: `page: ${page.name}` });
+    }
+  }
+  for (const item of urlIndex.repoText || []) {
+    add({ url: item.url, label: item.url, kind: "repository text URL", source: item.sourcePath || "repository text", context: item.line ? `line ${item.line}` : item.source });
+  }
+  for (const item of urlIndex.global || []) {
+    add({ url: item.url, label: item.url, kind: "embedded archive URL", source: item.programName || item.programId || "archive text", context: item.foundIn || item.source });
+  }
+  for (const item of Object.values(urlIndex.perProgram || {})) {
+    for (const found of item.urls || []) {
+      add({ url: found.url, label: found.url, kind: "embedded archive URL", source: item.programName || item.programId, context: found.foundIn || found.source });
+    }
+  }
+  for (const item of externalDownloads.downloads || []) {
+    add({ url: item.originalUrl, label: item.name, kind: "external original download", source: item.sourceList, context: item.status });
+    add({ url: item.waybackUrl, label: `${item.name} Wayback`, kind: "external Wayback download", source: item.sourceList, context: item.status });
+  }
+  for (const candidate of missingCandidates.candidates || []) {
+    for (const mirror of candidate.mirrors || []) {
+      add({ url: mirror.url, label: candidate.fileName || candidate.key, kind: "missing-candidate original mirror", source: mirror.source, context: mirror.status });
+      add({ url: mirror.waybackUrl, label: `${candidate.fileName || candidate.key} Wayback`, kind: "missing-candidate Wayback mirror", source: mirror.source, context: mirror.status });
+    }
+  }
+  for (const asset of webAssets.assets || []) {
+    add({ url: asset.url, label: asset.text, kind: "web image URL", source: asset.pageName, context: asset.status });
+    add({ url: asset.originalUrl, label: asset.text, kind: "web image original URL", source: asset.pageName, context: asset.status });
+  }
+
+  return [...links.values()].map((item) => ({
+    ...item,
+    kinds: [...item.kinds].sort(),
+    sources: [...item.sources].sort(),
+    contexts: [...item.contexts].sort(),
+  })).sort((a, b) => {
+    const aUser = a.sources.includes("user supplied links") ? 0 : 1;
+    const bUser = b.sources.includes("user supplied links") ? 0 : 1;
+    return aUser - bUser || urlHost(a.url).localeCompare(urlHost(b.url)) || a.url.localeCompare(b.url);
+  });
+}
+
+function masterLinkTable(fromDoc, records) {
+  return table(
+    ["URL", "Kind", "Host", "Where found", "Context"],
+    records.map((item) => [
+      link(item.url, item.url),
+      item.kinds.join("<br>"),
+      urlHost(item.url),
+      item.sources.slice(0, 6).join("<br>"),
+      item.contexts.slice(0, 4).join("<br>"),
+    ]),
+  );
+}
+
+const masterLinks = buildMasterLinks();
 
 rmSync(generatedDir, { recursive: true, force: true });
 mkdirSync(generatedDir, { recursive: true });
@@ -292,6 +482,7 @@ for (const program of programs) {
     ["Author", program.author || "unknown"],
     ["Platform", program.platform || "unknown"],
     ["AOL/version bucket", versionLabel(program)],
+    ["Prog type", programType(program)],
     ["Category", program.category || "uncategorized"],
     ["Visual Basic", program.visualBasic || "unknown"],
     ["Compile type", program.compile || "unknown"],
@@ -404,6 +595,9 @@ writeDoc(
     "",
     "- [Generated documentation hub](generated/README.md)",
     "- [All applications](generated/applications/all-applications.md)",
+    "- [Detailed all-progs inventory](generated/applications/all-programs-detailed.md)",
+    "- [Master link index](generated/sources/all-links.md)",
+    "- [Links you supplied](generated/sources/user-supplied-links.md)",
     "- [Categories](generated/categories/README.md)",
     "- [AOL version buckets](generated/versions/README.md)",
     "- [Tags](generated/tags/README.md)",
@@ -441,6 +635,8 @@ writeDoc(
         ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
         ["Crawled unique links", String(webResources.linkCount || 0)],
         ["Crawled download links", String(webResources.downloadCount || 0)],
+        ["Master deduped link index", String(masterLinks.length)],
+        ["User supplied priority links", String(uniqueBy(userSuppliedLinks, (item) => linkKey(item[2])).length)],
         ["Recovered external files", String(externalDownloads.readyCount || 0)],
         ["External mirror groups", String(externalDownloads.mirrorGroupCount || 0)],
         ["Recovered web images", String(webAssets.readyCount || 0)],
@@ -450,11 +646,13 @@ writeDoc(
     "## Browse",
     "",
     "- [Applications](applications/README.md)",
+    "- [Detailed all-progs inventory](applications/all-programs-detailed.md)",
     "- [Categories](categories/README.md)",
     "- [AOL versions](versions/README.md)",
     "- [Tags](tags/README.md)",
     "- [Authors](authors/README.md)",
     "- [Sources and old links](sources/README.md)",
+    "- [Master link index](sources/all-links.md)",
     "- [Screenshots](screenshots/README.md)",
     "- [Statistics](statistics.md)",
     "- [Glossary](GLOSSARY.md)",
@@ -487,13 +685,25 @@ writeDoc(
     "",
     "## Complete List",
     "",
-    "- [All applications table](all-applications.md)",
+    "- [Detailed all-progs inventory](all-programs-detailed.md)",
+    "- [Compact all applications table](all-applications.md)",
   ].join("\n"),
 );
 
 writeDoc(
   `${generatedRoot}/applications/all-applications.md`,
   ["# All Applications", "", appTable(`${generatedRoot}/applications/all-applications.md`, programs)].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/applications/all-programs-detailed.md`,
+  [
+    "# Detailed All-Progs Inventory",
+    "",
+    "This is the complete GitHub-readable inventory of the main catalog. It lists the actual catalog name, archive filename, inferred prog type, category, AOL/version bucket, author metadata, local mirrored file, original source URL, embedded URLs found inside readable archive text, and screenshot count.",
+    "",
+    programInventoryTable(`${generatedRoot}/applications/all-programs-detailed.md`, programs),
+  ].join("\n"),
 );
 
 const byCategory = groupBy(programs, (program) => program.category || "uncategorized");
@@ -630,12 +840,56 @@ writeDoc(
     "",
     "## Link Reports",
     "",
+    "- [Master all-links index](all-links.md)",
+    "- [Links you supplied](user-supplied-links.md)",
     "- [Crawled source pages](source-pages.md)",
     "- [Download links](download-links.md)",
     "- [Resource and directory links](resource-links.md)",
+    "- [Embedded archive URLs](embedded-archive-urls.md)",
     "- [External mirror groups](mirror-groups.md)",
     "- [Missing candidates and recovered mirrors](missing-candidates.md)",
     `- ${localLink(`${generatedRoot}/sources/README.md`, "Methodus2000 source report", "docs/sources/methodus2000.md")}`,
+  ].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/sources/all-links.md`,
+  [
+    "# Master All-Links Index",
+    "",
+    `This page deduplicates every URL currently known to the archive: user-supplied links, curated sources, crawled source pages, crawled page links, extracted download links, embedded archive-text URLs, external mirror URLs, missing-candidate mirrors, and recovered web-image URLs. Current unique URL count: **${masterLinks.length}**.`,
+    "",
+    masterLinkTable(`${generatedRoot}/sources/all-links.md`, masterLinks),
+  ].join("\n"),
+);
+
+const suppliedSeen = new Set();
+const suppliedRows = userSuppliedLinks
+  .filter((item) => {
+    const key = linkKey(item[2]);
+    if (suppliedSeen.has(key)) return false;
+    suppliedSeen.add(key);
+    return true;
+  })
+  .map(([label, kind, url]) => {
+    const master = masterLinks.find((item) => linkKey(item.url) === linkKey(url));
+    return [
+      label,
+      kind,
+      link(url, url),
+      master ? "yes" : "listed",
+      master?.sources.filter((source) => source !== "user supplied links").slice(0, 6).join("<br>") || "",
+    ];
+  });
+
+writeDoc(
+  `${generatedRoot}/sources/user-supplied-links.md`,
+  [
+    "# Links You Supplied",
+    "",
+    "These are the priority links from the request, deduplicated and preserved as first-class source links.",
+    "",
+    table(["Name", "Kind", "URL", "In master index", "Also found in"], suppliedRows),
   ].join("\n"),
 );
 
@@ -707,6 +961,39 @@ writeDoc(
         item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
       ]),
     ),
+  ].join("\n"),
+);
+
+const embeddedRows = uniqueBy(
+  [
+    ...(urlIndex.global || []),
+    ...Object.values(urlIndex.perProgram || {}).flatMap((item) =>
+      (item.urls || []).map((found) => ({
+        ...found,
+        programId: item.programId,
+        programName: item.programName,
+      })),
+    ),
+  ],
+  (item) => `${item.url}|${item.programId || ""}|${item.foundIn || ""}`,
+).map((item) => {
+  const appPage = item.programId ? appDocPaths.get(item.programId) : "";
+  return [
+    link(item.url, item.url),
+    item.programName ? localLink(`${generatedRoot}/sources/embedded-archive-urls.md`, item.programName, appPage) : "",
+    item.foundIn || "archive text",
+    item.source || "archive text",
+  ];
+});
+
+writeDoc(
+  `${generatedRoot}/sources/embedded-archive-urls.md`,
+  [
+    "# Embedded Archive URLs",
+    "",
+    "URLs found inside safely readable archive text are listed here as provenance clues. This includes old homepages, download hosts, scene domains, and author/source references. Duplicates are kept only when they point to a different program or different internal file.",
+    "",
+    table(["URL", "Program", "Found in", "Source"], embeddedRows),
   ].join("\n"),
 );
 

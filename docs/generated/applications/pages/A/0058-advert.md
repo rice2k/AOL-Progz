@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | praz |
 | Platform | AOL |
 | AOL/version bucket | AOL 6.0 |
+| Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | VB5 |
 | Compile type | native |

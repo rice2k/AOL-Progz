@@ -14,6 +14,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Author | Jinc |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Idler / AFK bot |
 | Category | idler or bot |
 | Visual Basic | unknown |
 | Compile type | unknown |

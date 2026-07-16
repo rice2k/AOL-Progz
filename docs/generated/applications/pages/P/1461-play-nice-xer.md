@@ -14,6 +14,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Author | t<Font Color=#408080 |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Fader / text styler |
 | Category | fader or text tool |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |

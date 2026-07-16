@@ -14,6 +14,7 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Author | Sycko |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Source / developer file |
 | Category | development or source |
 | Visual Basic | VB6 |
 | Compile type | native |

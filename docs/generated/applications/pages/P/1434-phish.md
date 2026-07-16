@@ -14,6 +14,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Visual Basic | VB3 |
 | Compile type | p-code |

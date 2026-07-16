@@ -14,6 +14,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Author | Latex |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Scroller / macro |
 | Category | scroller or macro |
 | Visual Basic | VB6 |
 | Compile type | native |

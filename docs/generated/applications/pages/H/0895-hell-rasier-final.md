@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | ChRoNoS |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Visual Basic | VB3 |
 | Compile type | p-code |

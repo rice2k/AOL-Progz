@@ -14,6 +14,7 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Prog type | Room buster |
 | Category | room buster |
 | Visual Basic | non-VB |
 | Compile type | n/a |

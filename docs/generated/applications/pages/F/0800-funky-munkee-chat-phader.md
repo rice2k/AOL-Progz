@@ -14,6 +14,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Author | ziggy |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Fader / text styler |
 | Category | chat or IM tool |
 | Visual Basic | VB6 |
 | Compile type | native |

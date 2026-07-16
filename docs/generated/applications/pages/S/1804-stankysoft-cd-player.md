@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | StankySoft |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Media / file utility |
 | Category | uncategorized |
 | Visual Basic | unknown |
 | Compile type | unknown |

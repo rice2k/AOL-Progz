@@ -14,6 +14,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Author | kain |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |

@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | unknown |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Fader / text styler |
 | Category | uncategorized |
 | Visual Basic | VB6 |
 | Compile type | p-code |

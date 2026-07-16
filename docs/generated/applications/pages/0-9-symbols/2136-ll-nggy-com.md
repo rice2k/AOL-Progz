@@ -14,6 +14,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Author | s Realm is a tsp |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Visual Basic | unknown |
 | Compile type | unknown |

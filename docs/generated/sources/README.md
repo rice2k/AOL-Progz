@@ -31,9 +31,12 @@ This section records original sites, Wayback captures, GitHub mirrors, source pa
 
 ## Link Reports
 
+- [Master all-links index](all-links.md)
+- [Links you supplied](user-supplied-links.md)
 - [Crawled source pages](source-pages.md)
 - [Download links](download-links.md)
 - [Resource and directory links](resource-links.md)
+- [Embedded archive URLs](embedded-archive-urls.md)
 - [External mirror groups](mirror-groups.md)
 - [Missing candidates and recovered mirrors](missing-candidates.md)
 - [Methodus2000 source report](../../sources/methodus2000.md)

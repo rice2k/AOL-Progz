@@ -14,6 +14,7 @@ A screen-name checker, scanner, maker, or related identity-management utility.
 | Author | Spazz |
 | Platform | AOL |
 | AOL/version bucket | Mixed/unknown |
+| Prog type | Screen-name utility |
 | Category | screen name tool |
 | Visual Basic | VB6 |
 | Compile type | p-code |

@@ -14,6 +14,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Author | itative host not found |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
+| Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
