@@ -1,9 +1,10 @@
 # Tag: has-external-zip-text-evidence
 
-**Count:** 51
+**Count:** 58
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2123 | [· Hider ·](../applications/pages/0-9-symbols/2123-hider.md) | · Hider · | Unknown / needs review | uncategorized | AOL 4.0 | Swift | unknown | remote-only | 0 |
 | 2137 | [╨Φm°nφc C-Chßt ╣](../applications/pages/0-9-symbols/2137-mnc-c-cht.md) | ╨Φm°nφc C-Chßt ╣ | Unknown / needs review | uncategorized | AOL 4.0 | Anthrax | unknown | remote-only | 0 |
 | 46 | [accom2](../applications/pages/A/0046-accom2.md) | accom2 | Idler / AFK bot | uncategorized | AOL 4.0 | fifa | 2.3 MB | [local](../../../files/aol/aol-4-0/0046-accom2.zip) | 0 |
 | 82 | [amex first program](../applications/pages/A/0082-amex-first-program.md) | amex first program | C-Com / command list | uncategorized | AOL 4.0 | unknown | 728 KB | [local](../../../files/aol/aol-4-0/0082-amex-first-program.zip) | 0 |
@@ -32,6 +33,7 @@
 | 558 | [Destruction Toolz 2.0 C-Coms By google](../applications/pages/D/0558-destruction-toolz-2-0-c-coms-by-google.md) | Destruction Toolz 2.0 C-Coms By google | All-in-one prog suite | all-in-one prog | AOL 4.0 | Google | 1.5 MB | [local](../../../files/aol/aol-4-0/0558-destruction-toolz-2-0-c-coms-by-google.zip) | 0 |
 | 597 | [domination╣ final](../applications/pages/D/0597-domination-final.md) | domination╣ final | All-in-one prog suite | uncategorized | AOL 4.0 | unknown | 3.5 MB | [local](../../../files/aol/aol-4-0/0597-domination-final.zip) | 0 |
 | 614 | [DSERVER](../applications/pages/D/0614-dserver.md) | DSERVER | Unknown / needs review | uncategorized | AOL 4.0 | Undertow | 2.1 MB | [local](../../../files/aol/aol-4-0/0614-dserver.zip) | 0 |
+| 620 | [Dupe Killer](../applications/pages/D/0620-dupe-killer.md) | Dupe Killer | Unknown / needs review | uncategorized | AOL 4.0 | z0ne | 2.9 MB | [local](../../../files/aol/aol-4-0/0620-dupe-killer.zip) | 0 |
 | 626 | [Dynamic](../applications/pages/D/0626-dynamic.md) | Dynamic | Unknown / needs review | uncategorized | AOL 4.0 | latino | 1.5 MB | [local](../../../files/aol/aol-4-0/0626-dynamic.zip) | 0 |
 | 674 | [ep3ascii](../applications/pages/E/0674-ep3ascii.md) | ep3ascii | C-Com / command list | uncategorized | AOL 4.0 | filename | 5.2 MB | [local](../../../files/aol/aol-4-0/0674-ep3ascii.zip) | 0 |
 | 696 | [eternal v▌](../applications/pages/E/0696-eternal-v.md) | eternal v▌ | AOL/AIM chat utility | uncategorized | AOL 4.0 | s Realm is a tsp | 139 KB | [local](../../../files/aol/aol-4-0/0696-eternal-v.zip) | 0 |
@@ -44,11 +46,16 @@
 | 852 | [Golden](../applications/pages/G/0852-golden.md) | GOLD | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 1.3 MB | [local](../../../files/aol/aol-4-0/0852-gold.zip) | 0 |
 | 896 | [hell spitz 1.3[final]](../applications/pages/H/0896-hell-spitz-1-3final.md) | hell spitz 1.3[final] | All-in-one prog suite | uncategorized | AOL 4.0 | KyPnoTiK | 3.3 MB | [local](../../../files/aol/aol-4-0/0896-hell-spitz-1-3final.zip) | 0 |
 | 2128 | [ímport.dreamz[Angel]](../applications/pages/0-9-symbols/2128-import-dreamzangel.md) | ímport.dreamz[Angel] | Unknown / needs review | uncategorized | Mixed/unknown | unknown | unknown | remote-only | 0 |
+| 1108 | [lazyassgold1](../applications/pages/L/1108-lazyassgold1.md) | lazyassgold1 | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1108-lazyassgold1.zip) | 0 |
+| 1218 | [Mario](../applications/pages/M/1218-mario.md) | mario | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1218-mario.zip) | 0 |
 | 1249 | [Metal](../applications/pages/M/1249-metal.md) | MeTaL | AOL/AIM chat utility | uncategorized | AOL 4.0 | OiL | 1.9 MB | [local](../../../files/aol/aol-4-0/1249-metal.zip) | 0 |
+| 1369 | [Nùclear](../applications/pages/N/1369-nuclear.md) | Nùclear | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 429 KB | [local](../../../files/aol/aol-4-0/1369-nuclear.zip) | 0 |
 | 1456 | [plasma](../applications/pages/P/1456-plasma.md) | plasma | Unknown / needs review | uncategorized | AOL 4.0 | Chr0me | 1.3 MB | [local](../../../files/aol/aol-4-0/1456-plasma.zip) | 0 |
+| 1468 | [PoA AoL Notify remover final beta 6](../applications/pages/P/1468-poa-aol-notify-remover-final-beta-6.md) | PoA AoL Notify remover final beta 6 | Unknown / needs review | uncategorized | AOL 4.0 | PAT or JK | 65 KB | [local](../../../files/aol/aol-4-0/1468-poa-aol-notify-remover-final-beta-6.zip) | 0 |
 | 1574 | [Rampage Toolz](../applications/pages/R/1574-rampage-toolz.md) | Rampage Toolz | All-in-one prog suite | all-in-one prog | AOL 4.0 | Oogle (Justin Tunney) | 22 B | [local](../../../files/aol/aol-4-0/1574-rampage-toolz.zip) | 0 |
 | 1606 | [Remixed Audio²](../applications/pages/R/1606-remixed-audio2.md) | Remixed Audio² | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
 | 1700 | [silence](../applications/pages/S/1700-silence.md) | silence | Unknown / needs review | uncategorized | AOL 4.0 | unknown | unknown | remote-only | 0 |
+| 1701 | [Silent Ascii](../applications/pages/S/1701-silent-ascii.md) | Silent Ascii | Scroller / macro | scroller or macro | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1701-silent-ascii.zip) | 0 |
 | 1832 | [Style 2](../applications/pages/S/1832-style-2.md) | style | Unknown / needs review | uncategorized | AOL 4.0 | LordEx | unknown | remote-only | 0 |
 | 1902 | [thug fader](../applications/pages/T/1902-thug-fader.md) | thug fader | Fader / text styler | fader or text tool | AOL 4.0 | satin | unknown | remote-only | 0 |
 | 1985 | [ÛñÐë® GrÕüÑÐ](../applications/pages/U/1985-une-groun.md) | ÛñÐë® GrÕüÑÐ | Unknown / needs review | uncategorized | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/1985-une-groun.zip) | 0 |

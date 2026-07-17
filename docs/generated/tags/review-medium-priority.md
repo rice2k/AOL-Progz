@@ -1,6 +1,6 @@
 # Tag: review-medium-priority
 
-**Count:** 660
+**Count:** 659
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -232,7 +232,6 @@
 | 610 | [drug bust▌ by fed](../applications/pages/D/0610-drug-bust-by-fed.md) | drug bust▌ by fed | Room buster | room buster | AOL 4.0 | fed | 1.4 MB | [local](../../../files/aol/aol-4-0/0610-drug-bust-by-fed.zip) | 0 |
 | 616 | [Destruction Toolz Platinum](../applications/pages/D/0616-destruction-toolz-platinum.md) | dtp | All-in-one prog suite | account or TOS tool | AOL 4-6 | unknown | 5.0 MB | [local](../../../files/aol/mixed/0616-dtp.zip) | 0 |
 | 619 | [Dune ToSer](../applications/pages/D/0619-dune-toser.md) | Dune ToSer | Unknown / needs review | uncategorized | AOL 4.0 | een a Shattering NightMare | 2.0 MB | [local](../../../files/aol/aol-4-0/0619-dune-toser.zip) | 0 |
-| 620 | [Dupe Killer](../applications/pages/D/0620-dupe-killer.md) | Dupe Killer | Unknown / needs review | uncategorized | AOL 4.0 | z0ne | 2.9 MB | [local](../../../files/aol/aol-4-0/0620-dupe-killer.zip) | 0 |
 | 622 | [dycesbusta](../applications/pages/D/0622-dycesbusta.md) | dycesbusta | Room buster | room buster | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0622-dycesbusta.zip) | 0 |
 | 623 | [dycesidler2000](../applications/pages/D/0623-dycesidler2000.md) | dycesidler2000 | Idler / AFK bot | idler or bot | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0623-dycesidler2000.zip) | 0 |
 | 624 | [dycesspammer](../applications/pages/D/0624-dycesspammer.md) | dycesspammer | Mass mailer / server | mass mailer | AOL 4.0 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0624-dycesspammer.zip) | 0 |

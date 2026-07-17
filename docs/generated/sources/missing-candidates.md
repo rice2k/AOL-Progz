@@ -16,10 +16,14 @@ These are filenames or program leads discovered from external old-web sources an
 | ima | AOL/AIM client installer | 3 | ready | 3 | [files/external/archive-org/aol20-ac265163.ima](../../../files/external/archive-org/aol20-ac265163.ima)<br>[files/external/archive-org/aol25-26096065.ima](../../../files/external/archive-org/aol25-26096065.ima)<br>[files/external/archive-org/aol30-f51209b9.ima](../../../files/external/archive-org/aol30-f51209b9.ima) | unknown | unknown | unknown | unknown |
 | img | AOL/AIM client installer | 3 | ready | 3 | [files/external/archive-org/aol25-66eea066.img](../../../files/external/archive-org/aol25-66eea066.img)<br>[files/external/archive-org/aol202-5-754d804a.img](../../../files/external/archive-org/aol202-5-754d804a.img)<br>[files/external/archive-org/aol20v3-0-ba6f556f.img](../../../files/external/archive-org/aol20v3-0-ba6f556f.img) | unknown | unknown | unknown | unknown |
 | pascal | unknown | 3 | ready | 3 | [files/external/angelfire-com/pascal1.zip](../../../files/external/angelfire-com/pascal1.zip)<br>[files/external/angelfire-com/pascal2.zip](../../../files/external/angelfire-com/pascal2.zip)<br>[files/external/angelfire-com/pascal3.zip](../../../files/external/angelfire-com/pascal3.zip) | selecting<br>a DOS<br>putting the NODPMI switch into your<br>the Borland DOS | unknown | All-in-one prog suite<br>Fader / text styler<br>Punter / booter<br>C-Com / command list<br>Mass mailer / server | unknown |
+| readme-doc | unknown | 3 | ready | 3 | [files/external/raw-githubusercontent-com/readme-01e9eb35.doc](../../../files/external/raw-githubusercontent-com/readme-01e9eb35.doc)<br>[files/external/raw-githubusercontent-com/readme-89110f8d.doc](../../../files/external/raw-githubusercontent-com/readme-89110f8d.doc)<br>[files/external/raw-githubusercontent-com/readme-76f507dd.doc](../../../files/external/raw-githubusercontent-com/readme-76f507dd.doc) | unknown | unknown | unknown | unknown |
 | wrar | unknown | 8 | candidate<br>ready | 2 | [files/external/angelfire-com/wrar280.zip](../../../files/external/angelfire-com/wrar280.zip)<br>[files/external/angelfire-com/wrar370.zip](../../../files/external/angelfire-com/wrar370.zip) | unknown | unknown | unknown | unknown |
 | create | AIM | 6 | http-404<br>candidate<br>ready | 2 | [files/external/angelfire-com/aimcreate11.zip](../../../files/external/angelfire-com/aimcreate11.zip)<br>[files/external/angelfire-com/aimcreate21.zip](../../../files/external/angelfire-com/aimcreate21.zip) | unknown | unknown | Screen-name utility<br>AOL/AIM chat utility | [http://eztrade.cjb.net](http://eztrade.cjb.net) |
+| chatocx | runtime/support file | 4 | http-404<br>ready | 2 | [files/external/coltpro-net/chatocx2-5f3e25fd.ocx](../../../files/external/coltpro-net/chatocx2-5f3e25fd.ocx)<br>[files/external/raw-githubusercontent-com/chatocx-ce0d1a6f.zip](../../../files/external/raw-githubusercontent-com/chatocx-ce0d1a6f.zip) | unknown | unknown | unknown | unknown |
 | ss-d | runtime/support file | 4 | ready<br>candidate | 2 | [files/external/aimfilez-com/ss3d-8607dee6.vbx](../../../files/external/aimfilez-com/ss3d-8607dee6.vbx)<br>[files/external/aimfilez-com/ss3d2-8f499be5.vbx](../../../files/external/aimfilez-com/ss3d2-8f499be5.vbx) | unknown | unknown | unknown | unknown |
+| cracksource | hazardous/account or remote-control context | 3 | http-404<br>ready | 2 | [files/external/angelfire-com/cracksource.zip](../../../files/external/angelfire-com/cracksource.zip)<br>[files/external/raw-githubusercontent-com/cracksource-1c16975b.zip](../../../files/external/raw-githubusercontent-com/cracksource-1c16975b.zip) | unknown | unknown | Fader / text styler<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility | [http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=](http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=) |
 | formatsn | AIM | 3 | ready<br>http-404 | 2 | [files/external/aimfilez-com/formatsn-ac427d25.exe](../../../files/external/aimfilez-com/formatsn-ac427d25.exe)<br>[files/external/aimthings-com/formatsn-56448406.exe](../../../files/external/aimthings-com/formatsn-56448406.exe) | unknown | unknown | unknown | unknown |
+| mixed | unknown | 3 | candidate<br>ready | 2 | [files/external/angelfire-com/mixed-2e564198.zip](../../../files/external/angelfire-com/mixed-2e564198.zip)<br>[files/external/raw-githubusercontent-com/mixed-add66cd4.zip](../../../files/external/raw-githubusercontent-com/mixed-add66cd4.zip) | unknown | AOL 30<br>AOL 1<br>AOL 25 | Account / TOS utility<br>Media / file utility<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Fader / text styler | unknown |
 | iso | unknown | 2 | ready | 2 | [files/external/archive-org/20220529-151140-6e0a8dc6.iso](../../../files/external/archive-org/20220529-151140-6e0a8dc6.iso)<br>[files/external/archive-org/aim5-0-4811e16c.iso](../../../files/external/archive-org/aim5-0-4811e16c.iso) | unknown | unknown | unknown | unknown |
 | instant-messenger | unknown | 2 | ready | 2 | [files/external/archive-org/aol20instant20messenger202-de274db0.exe](../../../files/external/archive-org/aol20instant20messenger202-de274db0.exe)<br>[files/external/archive-org/aol-instant-messenger-4-8-2540-c6286f94.exe](../../../files/external/archive-org/aol-instant-messenger-4-8-2540-c6286f94.exe) | unknown | unknown | unknown | unknown |
 | audioassault | chat/macro | 2 | ready | 2 | [files/external/lenshellarchive-com/audioassault-c4199924.zip](../../../files/external/lenshellarchive-com/audioassault-c4199924.zip)<br>[files/external/lenshellarchive-com/audioassault2-c2f31d68.zip](../../../files/external/lenshellarchive-com/audioassault2-c2f31d68.zip) | unknown | unknown | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility<br>Fader / text styler | [http://www.aa2k.cjb.net](http://www.aa2k.cjb.net) |
@@ -28,6 +32,8 @@ These are filenames or program leads discovered from external old-web sources an
 | gonzo-fade | fader | 2 | ready | 2 | [files/external/angelfire-com/gonzo-fade.zip](../../../files/external/angelfire-com/gonzo-fade.zip)<br>[files/external/angelfire-com/gonzo-fade2.zip](../../../files/external/angelfire-com/gonzo-fade2.zip) | unknown | unknown | Fader / text styler | unknown |
 | revenge | AOL/AIM client installer | 2 | ready | 2 | [files/external/angelfire-com/revengeaol1.zip](../../../files/external/angelfire-com/revengeaol1.zip)<br>[files/external/angelfire-com/revengeaol2.zip](../../../files/external/angelfire-com/revengeaol2.zip) | unknown | unknown | unknown | unknown |
 | super | unknown | 9 | candidate<br>ready | 1 | [files/external/angelfire-com/superaim.zip](../../../files/external/angelfire-com/superaim.zip) | unknown | unknown | AOL/AIM chat utility | unknown |
+| dos | unknown | 8 | candidate<br>http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/dos32-ccad63a8.zip](../../../files/external/raw-githubusercontent-com/dos32-ccad63a8.zip) | unknown | unknown | Fader / text styler<br>Scroller / macro<br>Screen-name utility<br>Source / developer file<br>AOL/AIM chat utility | unknown |
+| master | unknown | 6 | candidate<br>http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/master1-2e84be85.zip](../../../files/external/raw-githubusercontent-com/master1-2e84be85.zip) | ePoD for | unknown | Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Screen-name utility | unknown |
 | autoruns | unknown | 5 | ready<br>candidate | 1 | [files/external/github-com/autoruns-6e82b7e5.exe](../../../files/external/github-com/autoruns-6e82b7e5.exe) | unknown | unknown | unknown | unknown |
 | change | AIM | 4 | http-404<br>ready<br>candidate | 1 | [files/external/aimfilez-com/aimchange-d83f8223.exe](../../../files/external/aimfilez-com/aimchange-d83f8223.exe) | unknown | unknown | unknown | unknown |
 | icondrop | AIM | 4 | http-404<br>ready<br>candidate | 1 | [files/external/aimfilez-com/icondrop2-0-69d20cfa.exe](../../../files/external/aimfilez-com/icondrop2-0-69d20cfa.exe) | unknown | unknown | unknown | unknown |
@@ -40,11 +46,15 @@ These are filenames or program leads discovered from external old-web sources an
 | professor | AIM | 3 | candidate<br>ready | 1 | [files/external/angelfire-com/professoraim3-7c6f9c5a.zip](../../../files/external/angelfire-com/professoraim3-7c6f9c5a.zip) | unknown | unknown | unknown | unknown |
 | spy | AIM | 3 | http-404<br>ready | 1 | [files/external/angelfire-com/aimspy.zip](../../../files/external/angelfire-com/aimspy.zip) | unknown | unknown | Idler / AFK bot<br>AOL/AIM chat utility | [http://i.am/aorta](http://i.am/aorta) |
 | free | AOL/AIM client installer | 3 | ready | 1 | [files/external/github-com/aol4free2-6v4-b594ed05.sit](../../../files/external/github-com/aol4free2-6v4-b594ed05.sit) | unknown | unknown | unknown | unknown |
+| macros | chat/macro | 3 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip](../../../files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip) | unknown | unknown | All-in-one prog suite<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Media / file utility | unknown |
 | buddykill | AIM | 3 | http-404<br>ready | 1 | [files/external/aimfilez-com/buddykill-bcd3802c.exe](../../../files/external/aimfilez-com/buddykill-bcd3802c.exe) | unknown | unknown | unknown | unknown |
+| chaos | idler/bot | 3 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip](../../../files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip) | my Boy | AOL 3<br>AOL 4<br>AOL 40<br>AOL 4.0 | All-in-one prog suite<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server | [http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
 | charmap | unknown | 3 | ready | 1 | [files/external/github-com/charmap-d85ed7f1.exe](../../../files/external/github-com/charmap-d85ed7f1.exe) | unknown | unknown | unknown | unknown |
 | chatscan | runtime/support file | 3 | http-404<br>ready | 1 | [files/external/aimfilez-com/chatscan3-2b12e4af.ocx](../../../files/external/aimfilez-com/chatscan3-2b12e4af.ocx) | unknown | unknown | unknown | unknown |
+| cryofade | room buster | 3 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/cryofade-db2fe877.zip](../../../files/external/raw-githubusercontent-com/cryofade-db2fe877.zip) | VvVCryoVvV | unknown | Fader / text styler | unknown |
 | dc | AIM | 3 | http-404<br>ready<br>candidate | 1 | [files/external/aimfilez-com/dctool-df5f3a78.exe](../../../files/external/aimfilez-com/dctool-df5f3a78.exe) | unknown | unknown | unknown | unknown |
 | ghost | AIM | 3 | http-404<br>ready | 1 | [files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe](../../../files/external/aimfilez-com/ghosttoolv1-0-3f1affe8.exe) | unknown | unknown | unknown | unknown |
+| monkefade | fader | 3 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/monkefade3-e25d17da.zip](../../../files/external/raw-githubusercontent-com/monkefade3-e25d17da.zip) | color or by Red Green and Blue<br>aDRaMoLEk<br>monk-e-god<br>monk-e-god for use in a RichTextBox | unknown | Fader / text styler<br>Scroller / macro<br>Source / developer file<br>Media / file utility | [http://members.tripod.com/SonicTm](http://members.tripod.com/SonicTm)<br>[http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
 | msinet | runtime/support file | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/msinet-a28f9137.ocx](../../../files/external/aimfilez-com/msinet-a28f9137.ocx) | unknown | unknown | unknown | unknown |
 | mswinsck | runtime/support file | 3 | candidate<br>ready<br>http-404 | 1 | [files/external/aimfilez-com/mswinsck-c21a93bd.ocx](../../../files/external/aimfilez-com/mswinsck-c21a93bd.ocx) | unknown | unknown | unknown | unknown |
 | netbusterkill | room buster | 3 | ready | 1 | [files/external/fortunecity-com/netbusterkill.zip](../../../files/external/fortunecity-com/netbusterkill.zip) | unknown | unknown | unknown | unknown |
@@ -60,39 +70,80 @@ These are filenames or program leads discovered from external old-web sources an
 | alphacoms | chat/macro | 2 | candidate<br>ready | 1 | [files/external/lenshellarchive-com/alphacoms2-de8de330.zip](../../../files/external/lenshellarchive-com/alphacoms2-de8de330.zip) | unknown | unknown | unknown | unknown |
 | andone | chat/macro | 2 | ready<br>candidate | 1 | [files/external/lenshellarchive-com/andone-3a0e43d6.zip](../../../files/external/lenshellarchive-com/andone-3a0e43d6.zip) | unknown | unknown | unknown | unknown |
 | antibot | idler/bot | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/antibot11-50be5e19.exe](../../../files/external/aimfilez-com/antibot11-50be5e19.exe) | unknown | unknown | unknown | unknown |
+| aohell-source-code | unknown | 2 | ready | 1 | [files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip](../../../files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip) | control | AOL 2.5 | All-in-one prog suite<br>Mass mailer / server<br>AOL/AIM chat utility<br>Screen-name utility<br>Media / file utility | unknown |
 | dnld | unknown | 2 | candidate<br>ready | 1 | [files/external/archive-org/aoldnld-1-5-dce60764.exe](../../../files/external/archive-org/aoldnld-1-5-dce60764.exe) | unknown | unknown | unknown | unknown |
+| arc | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/arc-aba7a0cb.zip](../../../files/external/raw-githubusercontent-com/arc-aba7a0cb.zip) | me because i didn't like them that much | AOL 30<br>AOL 40<br>AOL 3<br>AOL 2 | Fader / text styler<br>Source / developer file<br>AOL/AIM chat utility<br>Idler / AFK bot<br>Scroller / macro | [http://www.hackerz.com/memberz/index.htm1](http://www.hackerz.com/memberz/index.htm1)<br>[http://www.teamfury.com/iteam](http://www.teamfury.com/iteam) |
+| arena | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/arena32-9f5ef475.zip](../../../files/external/raw-githubusercontent-com/arena32-9f5ef475.zip) | lash | AOL 4<br>AOL 40 | All-in-one prog suite<br>Fader / text styler<br>Source / developer file<br>AOL/AIM chat utility | unknown |
 | asub | AIM | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/asub-1abf2bf0.exe](../../../files/external/aimfilez-com/asub-1abf2bf0.exe) | unknown | unknown | unknown | unknown |
-| chatocx | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/coltpro-net/chatocx2-5f3e25fd.ocx](../../../files/external/coltpro-net/chatocx2-5f3e25fd.ocx) | unknown | unknown | unknown | unknown |
+| bas | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/bas32-944b08c4.zip](../../../files/external/raw-githubusercontent-com/bas32-944b08c4.zip) | unknown | AOL 2.5<br>AOL 3.0<br>AOL 5.0<br>AOL 4.0 | Fader / text styler<br>Punter / booter<br>C-Com / command list<br>Scroller / macro<br>Linker / chat linker | unknown |
+| bofen | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/bofen32-f13e9149.zip](../../../files/external/raw-githubusercontent-com/bofen32-f13e9149.zip) | setting CheckForDupe to True | AOL 4.0 | Scroller / macro<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility | [http://www.bofen.com](http://www.bofen.com)<br>[http://aolsearch.aol.com/dirsearch.adp?query=](http://aolsearch.aol.com/dirsearch.adp?query=) |
+| chronicbas | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/chronicbas-cd8b3694.zip](../../../files/external/raw-githubusercontent-com/chronicbas-cd8b3694.zip) | unknown | AOL 6.0<br>AOL 7.0<br>AIM 4.7 | Fader / text styler<br>C-Com / command list<br>Mass mailer / server<br>Account / TOS utility<br>Screen-name utility | [http://members.cox.net/tsmclan/memberspass.html](http://members.cox.net/tsmclan/memberspass.html) |
 | cloc | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/cloc-5783db44.vbx](../../../files/external/aimfilez-com/cloc-5783db44.vbx) | unknown | unknown | unknown | unknown |
 | cmdialog | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/cmdialog-62a38b92.vbx](../../../files/external/aimfilez-com/cmdialog-62a38b92.vbx) | unknown | unknown | unknown | unknown |
 | comctl | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/comctl32-e2ba15bc.ocx](../../../files/external/aimfilez-com/comctl32-e2ba15bc.ocx) | unknown | unknown | unknown | unknown |
-| cracksource | hazardous/account or remote-control context | 2 | http-404<br>ready | 1 | [files/external/angelfire-com/cracksource.zip](../../../files/external/angelfire-com/cracksource.zip) | unknown | unknown | Fader / text styler<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility | [http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=](http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=) |
+| coreapi | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/coreapi-759b71aa.zip](../../../files/external/raw-githubusercontent-com/coreapi-759b71aa.zip) | unknown | AOL 3<br>AOL 3.0 | Fader / text styler<br>Room buster<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility | unknown |
 | crackwhore | idler/bot | 2 | http-404<br>ready | 1 | [files/external/angelfire-com/crackwhore.zip](../../../files/external/angelfire-com/crackwhore.zip) | unknown | unknown | Account / TOS utility<br>AOL/AIM chat utility | unknown |
+| creep | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/creep-b749a408.zip](../../../files/external/raw-githubusercontent-com/creep-b749a408.zip) | aDRaMoLEk<br>monk-e-god<br>monk-e-god for use in a RichTextBox | AIM 3.0<br>AIM 3.5 | Fader / text styler<br>Scroller / macro<br>Screen-name utility<br>Source / developer file<br>Media / file utility | [http://fly.to/phrozen](http://fly.to/phrozen) |
+| dahoaxbas | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/dahoaxbas-b2e97801.zip](../../../files/external/raw-githubusercontent-com/dahoaxbas-b2e97801.zip) | unknown | AOL 5<br>AOL 6<br>AOL 6.0<br>AOL 4.0 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>C-Com / command list<br>Scroller / macro | [http://www.dawgzprogz.com](http://www.dawgzprogz.com)<br>[http://www.freeprogz.com](http://www.freeprogz.com)<br>[http://www.lenshell.com](http://www.lenshell.com)<br>[http://www.yahoo.com](http://www.yahoo.com) |
+| d-gold | AIM | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/daimgold-bdc90185.zip](../../../files/external/raw-githubusercontent-com/daimgold-bdc90185.zip) | RaiD rewrote by me | AIM 95 | Fader / text styler<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>AOL/AIM chat utility | [http://members.xoom.xom/DigitalFlame/index.html](http://members.xoom.xom/DigitalFlame/index.html)<br>[http://www.hider.com](http://www.hider.com) |
 | dbpush | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/dbpush-f26405e8.vbx](../../../files/external/aimfilez-com/dbpush-f26405e8.vbx) | unknown | unknown | unknown | unknown |
 | dbttip | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/dbttip-434e10d1.vbx](../../../files/external/aimfilez-com/dbttip-434e10d1.vbx) | unknown | unknown | unknown | unknown |
+| digitek | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/digitek-cc6d9120.zip](../../../files/external/raw-githubusercontent-com/digitek-cc6d9120.zip) | unknown | AIM 3.5<br>AIM 95 | Fader / text styler<br>Screen-name utility<br>Source / developer file<br>AOL/AIM chat utility | unknown |
+| dive | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/dive32-6b16a4ee.zip](../../../files/external/raw-githubusercontent-com/dive32-6b16a4ee.zip) | ReadProcessMemory<br>6 so sBuffer needs<br>Its Order In The Window | unknown | All-in-one prog suite<br>Scroller / macro<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file | unknown |
+| dupekill | chat/macro | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip](../../../files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip) | unknown | unknown | unknown | unknown |
 | dwsbc | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/dwsbc32-66a535ca.ocx](../../../files/external/aimfilez-com/dwsbc32-66a535ca.ocx) | unknown | unknown | unknown | unknown |
+| effex | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/effex-c51c5882.zip](../../../files/external/raw-githubusercontent-com/effex-c51c5882.zip) | Swift<br>Dos is Noted | unknown | Fader / text styler<br>Source / developer file | unknown |
 | fbimage | AIM | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/fbimage-660afb3f.exe](../../../files/external/aimfilez-com/fbimage-660afb3f.exe) | unknown | unknown | unknown | unknown |
+| fly | AOL/AIM client installer | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/flyaim35-d944e642.zip](../../../files/external/raw-githubusercontent-com/flyaim35-d944e642.zip) | clash | AIM 3.5 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Punter / booter<br>C-Com / command list | [Http://www.deadbyte.com](Http://www.deadbyte.com) |
+| flyman | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/flyman2000-f9ab8abb.zip](../../../files/external/raw-githubusercontent-com/flyman2000-f9ab8abb.zip) | Flyman | unknown | All-in-one prog suite<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Screen-name utility | [http://www.devi1.com/flyman](http://www.devi1.com/flyman)<br>[http://www.flyman2000.com](http://www.flyman2000.com) |
+| formdragxp | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/formdragxp-6022ec0c.zip](../../../files/external/raw-githubusercontent-com/formdragxp-6022ec0c.zip) | unknown | unknown | unknown | unknown |
+| freespy | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/freespy-3e509373.zip](../../../files/external/raw-githubusercontent-com/freespy-3e509373.zip) | unknown | unknown | unknown | unknown |
+| frubal | AIM | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/frubal420-cb6e7d2f.zip](../../../files/external/raw-githubusercontent-com/frubal420-cb6e7d2f.zip) | psyche | unknown | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Screen-name utility<br>AOL/AIM chat utility | [http://members.tripod.com/~dstroya/start.html](http://members.tripod.com/~dstroya/start.html)<br>[http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
+| genozide | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/genozide-da48c35c.zip](../../../files/external/raw-githubusercontent-com/genozide-da48c35c.zip) | unknown | AOL 30<br>AOL 25 | All-in-one prog suite<br>Fader / text styler<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility | unknown |
 | grid | runtime/support file | 2 | http-404<br>ready | 1 | [files/external/aimfilez-com/grid-9c49a1da.vbx](../../../files/external/aimfilez-com/grid-9c49a1da.vbx) | unknown | unknown | unknown | unknown |
 | hacker | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/hacker-ed0d3167.zip](../../../files/external/angelfire-com/hacker-ed0d3167.zip) | unknown | unknown | unknown | unknown |
 | hello | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/hello.zip](../../../files/external/angelfire-com/hello.zip) | unknown | unknown | unknown | unknown |
+| hiderfnl | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip](../../../files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip) | unknown | AOL 40<br>AOL 4.0 | Fader / text styler<br>Idler / AFK bot<br>Room buster<br>C-Com / command list<br>Scroller / macro | [http://www.hider.com](http://www.hider.com)<br>[http://members.tripod.com/SonicTm](http://members.tripod.com/SonicTm)<br>[http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
+| hiwind | chat/macro | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/hiwind2-4e336770.zip](../../../files/external/raw-githubusercontent-com/hiwind2-4e336770.zip) | unknown | AOL 3<br>AOL 30<br>AOL 2.5<br>AOL 3.0 | Fader / text styler<br>Room buster<br>Punter / booter<br>Scroller / macro<br>Account / TOS utility | [http://zerogravity.simplenet.com/dark/](http://zerogravity.simplenet.com/dark/) |
+| hix | AOL/AIM client installer | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/hixaim2-e7657a70.zip](../../../files/external/raw-githubusercontent-com/hixaim2-e7657a70.zip) | unknown | unknown | All-in-one prog suite<br>Punter / booter<br>AOL/AIM chat utility<br>Media / file utility | [http://www.hider.com/sonic/](http://www.hider.com/sonic/)<br>[http://members.tripod.com/SonicTm](http://members.tripod.com/SonicTm) |
 | icons | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/icons.zip](../../../files/external/angelfire-com/icons.zip) | unknown | unknown | unknown | unknown |
+| information | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/information-2af0f69d.zip](../../../files/external/raw-githubusercontent-com/information-2af0f69d.zip) | unknown | unknown | unknown | unknown |
+| lazyass | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip](../../../files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip) | unknown | unknown | Account / TOS utility<br>Source / developer file<br>Media / file utility<br>Fader / text styler<br>Idler / AFK bot | unknown |
+| limp | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/limp-3f6415e8.zip](../../../files/external/raw-githubusercontent-com/limp-3f6415e8.zip) | unknown | unknown | Fader / text styler<br>Idler / AFK bot<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file | [http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
 | mbar | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/mbar-4be76662.vbx](../../../files/external/aimfilez-com/mbar-4be76662.vbx) | unknown | unknown | unknown | unknown |
-| mixed | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/mixed-2e564198.zip](../../../files/external/angelfire-com/mixed-2e564198.zip) | unknown | unknown | Account / TOS utility<br>Media / file utility<br>AOL/AIM chat utility | unknown |
+| misfit | AIM | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/misfitaim-026777ab.zip](../../../files/external/raw-githubusercontent-com/misfitaim-026777ab.zip) | unknown | AIM 2 | Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | [http://members.tripod.com/SonicTm](http://members.tripod.com/SonicTm)<br>[http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
+| mover | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/mover-d3c41319.zip](../../../files/external/raw-githubusercontent-com/mover-d3c41319.zip) | unknown | AOL 4<br>AOL 4.0 | Source / developer file | unknown |
 | mp-play | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/mp3play-fa471de0.ocx](../../../files/external/aimfilez-com/mp3play-fa471de0.ocx) | unknown | unknown | unknown | unknown |
 | mscomctl | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/mscomctl-f5236d1d.ocx](../../../files/external/aimfilez-com/mscomctl-f5236d1d.ocx) | unknown | unknown | unknown | unknown |
+| msgbox | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/msgbox-f9fb0a90.zip](../../../files/external/raw-githubusercontent-com/msgbox-f9fb0a90.zip) | unknown | unknown | unknown | unknown |
+| mtb | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/mtb-4faacd58.zip](../../../files/external/raw-githubusercontent-com/mtb-4faacd58.zip) | unknown | unknown | Punter / booter<br>Source / developer file | unknown |
+| murder | chat/macro | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/murder32-48b19377.zip](../../../files/external/raw-githubusercontent-com/murder32-48b19377.zip) | unknown | AOL 4.0 | Fader / text styler<br>Punter / booter<br>Source / developer file<br>AOL/AIM chat utility | unknown |
+| name | idler/bot | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/name32-84895bf0.zip](../../../files/external/raw-githubusercontent-com/name32-84895bf0.zip) | unknown | unknown | Account / TOS utility<br>Screen-name utility<br>AOL/AIM chat utility | unknown |
+| nash | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/nash40-b7c37d9a.zip](../../../files/external/raw-githubusercontent-com/nash40-b7c37d9a.zip) | Anyone | AOL 40<br>AOL 4.0 | Fader / text styler<br>Source / developer file<br>AOL/AIM chat utility<br>Media / file utility | [http://www.geocities.com/fashionavenue/5642/app.htm](http://www.geocities.com/fashionavenue/5642/app.htm)<br>[http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
+| nyte | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/nyte32-675948cc.zip](../../../files/external/raw-githubusercontent-com/nyte32-675948cc.zip) | nyte | AOL 5<br>AOL 5.0<br>AOL 3.0<br>AOL 2.5 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>C-Com / command list<br>Scroller / macro | [http://www.google.com/search?hl=en&ie=ISO-8859-1&q=](http://www.google.com/search?hl=en&ie=ISO-8859-1&q=) |
 | oleaut | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/oleaut32-fbf48324.dll](../../../files/external/aimfilez-com/oleaut32-fbf48324.dll) | unknown | unknown | unknown | unknown |
 | olepro | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/olepro32-33ec48d6.dll](../../../files/external/aimfilez-com/olepro32-33ec48d6.dll) | unknown | unknown | unknown | unknown |
+| paranoid | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/paranoid-ba7e9e50.zip](../../../files/external/raw-githubusercontent-com/paranoid-ba7e9e50.zip) | another one of my functions<br>looking for a | unknown | Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown |
 | playcd | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/coltpro-net/playcd2-32333544.ocx](../../../files/external/coltpro-net/playcd2-32333544.ocx) | unknown | unknown | unknown | unknown |
 | pornblock | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/pornblock-ba69871f.exe](../../../files/external/aimfilez-com/pornblock-ba69871f.exe) | unknown | unknown | unknown | unknown |
+| position | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/position-4a447857.zip](../../../files/external/raw-githubusercontent-com/position-4a447857.zip) | unknown | AOL 4<br>AOL 4.0 | Fader / text styler<br>Source / developer file<br>AOL/AIM chat utility | unknown |
+| punker | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/punker6-251bf0d0.zip](../../../files/external/raw-githubusercontent-com/punker6-251bf0d0.zip) | PuNkDuDe | AOL 6.0<br>AOL 5.0<br>AOL 4.0<br>AOL 4 | Fader / text styler<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>C-Com / command list | [http://punkdude.cjb.net](http://punkdude.cjb.net) |
 | r | unknown | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/aimr2.zip](../../../files/external/angelfire-com/aimr2.zip) | unknown | unknown | Account / TOS utility<br>AOL/AIM chat utility | [Http://www.dark-e.com](Http://www.dark-e.com) |
+| ravage | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/ravage-c2a77c4c.zip](../../../files/external/raw-githubusercontent-com/ravage-c2a77c4c.zip) | unknown | AOL 4<br>AOL 40<br>AOL 4.0 | Fader / text styler<br>Punter / booter<br>Scroller / macro<br>Account / TOS utility<br>Source / developer file | [http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
 | richtx | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/richtx32-87eca7a6.ocx](../../../files/external/aimfilez-com/richtx32-87eca7a6.ocx) | unknown | unknown | unknown | unknown |
 | rotext | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/rotext-a99777db.vbx](../../../files/external/aimfilez-com/rotext-a99777db.vbx) | unknown | unknown | unknown | unknown |
 | rt-src | unknown | 2 | http-404<br>ready | 1 | [files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip](../../../files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip) | Oogle<br>Oogle - A.w.s.f | AOL 4.0<br>AOL 5.0 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Room buster<br>Punter / booter | [http://www.oogle.net](http://www.oogle.net)<br>[http://www.oogle.net/rampage/](http://www.oogle.net/rampage/)<br>[http://www.angelfire.com/ct/oogle/coolprog.html](http://www.angelfire.com/ct/oogle/coolprog.html)<br>[http://www.oogle.net/rampage/help.htm](http://www.oogle.net/rampage/help.htm) |
 | s-sa | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/saimsa-a4b4a517.exe](../../../files/external/aimfilez-com/saimsa-a4b4a517.exe) | unknown | unknown | unknown | unknown |
+| salem | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/salem32-1d309801.zip](../../../files/external/raw-githubusercontent-com/salem32-1d309801.zip) | unknown | unknown | Fader / text styler<br>Idler / AFK bot<br>Source / developer file<br>AOL/AIM chat utility | [http://www.rebel-online.com/salem](http://www.rebel-online.com/salem)<br>[http://www.rebel-online.com](http://www.rebel-online.com) |
 | setuprt | unknown | 2 | ready<br>html-replay | 1 | [files/external/click-online2000-com/setuprt22-bf0dd433.exe](../../../files/external/click-online2000-com/setuprt22-bf0dd433.exe) | unknown | unknown | unknown | unknown |
+| sirvb | chat/macro | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/sirvb6-37d14628.zip](../../../files/external/raw-githubusercontent-com/sirvb6-37d14628.zip) | its title | AOL 4<br>AOL 3<br>AIM 2.0<br>AOL 4.0 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Room buster<br>Punter / booter | [http://reapers.org](http://reapers.org)<br>[http://www.patorjk.com](http://www.patorjk.com)<br>[http://www.escrambler.com](http://www.escrambler.com) |
 | smilebot | idler/bot | 2 | ready<br>candidate | 1 | [files/external/aimfilez-com/smilebot-64edb771.exe](../../../files/external/aimfilez-com/smilebot-64edb771.exe) | unknown | unknown | unknown | unknown |
 | sntrader | AIM | 2 | candidate<br>ready | 1 | [files/external/aimfilez-com/sntrader-d9f71739.exe](../../../files/external/aimfilez-com/sntrader-d9f71739.exe) | unknown | unknown | unknown | unknown |
+| thumper | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/thumper32-069c45de.zip](../../../files/external/raw-githubusercontent-com/thumper32-069c45de.zip) | unknown | AOL 5.0 | Fader / text styler<br>Scroller / macro<br>Screen-name utility<br>Source / developer file<br>AOL/AIM chat utility | [http://thumperscrib.cjb.net](http://thumperscrib.cjb.net) |
+| toyboat | chat/macro | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/toyboat-57e35c0f.zip](../../../files/external/raw-githubusercontent-com/toyboat-57e35c0f.zip) | unknown | AOL 30<br>AOL 25 | Fader / text styler<br>Scroller / macro<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file | unknown |
 | vb-chat | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/coltpro-net/vb5chat2-0e54601c.ocx](../../../files/external/coltpro-net/vb5chat2-0e54601c.ocx) | unknown | unknown | unknown | unknown |
+| vbforms | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/vbforms-68a660aa.zip](../../../files/external/raw-githubusercontent-com/vbforms-68a660aa.zip) | unknown | unknown | Source / developer file | unknown |
+| warp | unknown | 2 | candidate<br>ready | 1 | [files/external/raw-githubusercontent-com/warp32-8b346149.zip](../../../files/external/raw-githubusercontent-com/warp32-8b346149.zip) | unknown | unknown | Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>AOL/AIM chat utility | unknown |
 | winsck | runtime/support file | 2 | candidate<br>ready | 1 | [files/external/angelfire-com/winsck.zip](../../../files/external/angelfire-com/winsck.zip) | unknown | unknown | Source / developer file<br>Media / file utility | [http://www.deathsdoor.com/paragon](http://www.deathsdoor.com/paragon) |
 | mmnegtub | AIM | 1 | ready | 1 | [files/external/angelfire-com/35mmnegtub.zip](../../../files/external/angelfire-com/35mmnegtub.zip) | unknown | unknown | unknown | unknown |
 | aztecapocolypse | unknown | 1 | ready | 1 | [files/external/angelfire-com/4aztecapocolypse.zip](../../../files/external/angelfire-com/4aztecapocolypse.zip) | unknown | unknown | unknown | unknown |
@@ -104,6 +155,7 @@ These are filenames or program leads discovered from external old-web sources an
 | acquafreezercrackbylucif-r | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/acquafreezercrackbylucif3r.zip](../../../files/external/angelfire-com/acquafreezercrackbylucif3r.zip) | Lucif3r | unknown | C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Media / file utility | [http://www.rev0xlu3s.com](http://www.rev0xlu3s.com) |
 | acronyms | unknown | 1 | ready | 1 | [files/external/angelfire-com/acronyms-49cfd8f6.zip](../../../files/external/angelfire-com/acronyms-49cfd8f6.zip) | unknown | unknown | unknown | unknown |
 | adult | unknown | 1 | ready | 1 | [files/external/angelfire-com/adult-b49c4372.zip](../../../files/external/angelfire-com/adult-b49c4372.zip) | unknown | unknown | Account / TOS utility | unknown |
+| agc | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/agc-0864a180.zip](../../../files/external/raw-githubusercontent-com/agc-0864a180.zip) | unknown | unknown | All-in-one prog suite<br>Fader / text styler<br>Scroller / macro<br>Source / developer file<br>Media / file utility | unknown |
 | solaris-tar | AIM | 1 | ready | 1 | [files/external/archive-org/aim-1-0-10-solaris-tar-7cfea848.gz](../../../files/external/archive-org/aim-1-0-10-solaris-tar-7cfea848.gz) | unknown | unknown | unknown | unknown |
 | blocks | AIM | 1 | ready | 1 | [files/external/angelfire-com/aim-blocks.zip](../../../files/external/angelfire-com/aim-blocks.zip) | unknown | unknown | C-Com / command list<br>AOL/AIM chat utility | unknown |
 | sm | AIM | 1 | ready | 1 | [files/external/angelfire-com/aimsm.zip](../../../files/external/angelfire-com/aimsm.zip) | unknown | unknown | unknown | unknown |
@@ -129,16 +181,20 @@ These are filenames or program leads discovered from external old-web sources an
 | isdnger-img | AOL/AIM client installer | 1 | ready | 1 | [files/external/archive-org/aol30isdnger-7845a722.img](../../../files/external/archive-org/aol30isdnger-7845a722.img) | unknown | unknown | unknown | unknown |
 | br-iso | AOL/AIM client installer | 1 | ready | 1 | [files/external/archive-org/aol40br-bdcfb4ec.iso](../../../files/external/archive-org/aol40br-bdcfb4ec.iso) | unknown | unknown | unknown | unknown |
 | communicator | AIM | 1 | ready | 1 | [files/external/aimfilez-com/aolcommunicator-85109c9c.exe](../../../files/external/aimfilez-com/aolcommunicator-85109c9c.exe) | unknown | unknown | unknown | unknown |
+| macroz | chat/macro | 1 | ready | 1 | [files/external/raw-githubusercontent-com/aolmacroz-e01f3b36.zip](../../../files/external/raw-githubusercontent-com/aolmacroz-e01f3b36.zip) | unknown | AOL 8 | All-in-one prog suite<br>Fader / text styler<br>Scroller / macro<br>Media / file utility<br>AOL/AIM chat utility | unknown |
 | aonet | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/aonet-a9eb94ef.zip](../../../files/external/lenshellarchive-com/aonet-a9eb94ef.zip) | unknown | unknown | unknown | unknown |
+| arc-read-doc | fader | 1 | ready | 1 | [files/external/raw-githubusercontent-com/arc-read-3087a4fa.doc](../../../files/external/raw-githubusercontent-com/arc-read-3087a4fa.doc) | unknown | unknown | unknown | unknown |
 | assgas | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/assgas-888df9f0.zip](../../../files/external/lenshellarchive-com/assgas-888df9f0.zip) | unknown | unknown | C-Com / command list | unknown |
 | astroidlevel | idler/bot | 1 | ready | 1 | [files/external/angelfire-com/astroidlevel.zip](../../../files/external/angelfire-com/astroidlevel.zip) | Descent Mission Builder II | unknown | Fader / text styler<br>Source / developer file<br>Media / file utility | unknown |
 | atetris | unknown | 1 | ready | 1 | [files/external/angelfire-com/atetris-c6782d33.zip](../../../files/external/angelfire-com/atetris-c6782d33.zip) | popular | unknown | Media / file utility | [http://www.dddgames.com](http://www.dddgames.com) |
 | audiostylexp | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/audiostylexp-7f2627f2.zip](../../../files/external/lenshellarchive-com/audiostylexp-7f2627f2.zip) | unknown | unknown | Fader / text styler<br>C-Com / command list | unknown |
+| auto-tutorial-chm | fader | 1 | ready | 1 | [files/external/raw-githubusercontent-com/auto20tutorial-e3a7c174.chm](../../../files/external/raw-githubusercontent-com/auto20tutorial-e3a7c174.chm) | unknown | unknown | unknown | unknown |
 | auto | AOL/AIM client installer | 1 | ready | 1 | [files/external/angelfire-com/autoaim4.zip](../../../files/external/angelfire-com/autoaim4.zip) | unknown | unknown | Idler / AFK bot<br>C-Com / command list | [http://www.mewgood.com/](http://www.mewgood.com/) |
 | awaystate | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/awaystate-9d1caf3e.exe](../../../files/external/aimfilez-com/awaystate-9d1caf3e.exe) | unknown | unknown | unknown | unknown |
 | bar-room-brawl | room buster | 1 | ready | 1 | [files/external/angelfire-com/bar-room-brawl.zip](../../../files/external/angelfire-com/bar-room-brawl.zip) | unknown | unknown | unknown | unknown |
 | bens-megasound | unknown | 1 | ready | 1 | [files/external/angelfire-com/bens-megasound.zip](../../../files/external/angelfire-com/bens-megasound.zip) | BEN LEED | unknown | unknown | unknown |
 | biorythm | unknown | 1 | ready | 1 | [files/external/angelfire-com/biorythm.zip](../../../files/external/angelfire-com/biorythm.zip) | unknown | unknown | Fader / text styler<br>Source / developer file | unknown |
+| bizooka-hlp | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/bizooka-19bc8661.hlp](../../../files/external/raw-githubusercontent-com/bizooka-19bc8661.hlp) | unknown | unknown | unknown | unknown |
 | bnet | unknown | 1 | ready | 1 | [files/external/angelfire-com/bnettoolz.zip](../../../files/external/angelfire-com/bnettoolz.zip) | unknown | unknown | All-in-one prog suite<br>Source / developer file<br>AOL/AIM chat utility | [http://66.197.205.195/\\|](http://66.197.205.195/\|)<br>[http://www.worldoutrage.com](http://www.worldoutrage.com)<br>[http://www.vbforums.com](http://www.vbforums.com) |
 | boiolometro | unknown | 1 | ready | 1 | [files/external/angelfire-com/boiolometro.zip](../../../files/external/angelfire-com/boiolometro.zip) | unknown | unknown | unknown | unknown |
 | boisccom | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/boisccom-65de3544.zip](../../../files/external/lenshellarchive-com/boisccom-65de3544.zip) | unknown | unknown | unknown | unknown |
@@ -152,6 +208,7 @@ These are filenames or program leads discovered from external old-web sources an
 | celluoidbeta | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/celluoidbeta-79d174aa.zip](../../../files/external/lenshellarchive-com/celluoidbeta-79d174aa.zip) | unknown | unknown | unknown | unknown |
 | cerberus | unknown | 1 | ready | 1 | [files/external/angelfire-com/cerberus-9cd12720.zip](../../../files/external/angelfire-com/cerberus-9cd12720.zip) | unknown | unknown | unknown | unknown |
 | chatsource | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/chatsource.zip](../../../files/external/angelfire-com/chatsource.zip) | problems that might be<br>'s reputation will not be affected by problems that might be<br>others<br>obtaining a | unknown | Fader / text styler<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Idler / AFK bot<br>Account / TOS utility | unknown |
+| chip-chat | chat/macro | 1 | ready | 1 | [files/external/raw-githubusercontent-com/chip20chat-79169462.zip](../../../files/external/raw-githubusercontent-com/chip20chat-79169462.zip) | unknown | AOL 4.0 | Source / developer file<br>AOL/AIM chat utility<br>Fader / text styler<br>Media / file utility<br>C-Com / command list | unknown |
 | cinemablue | idler/bot | 1 | ready | 1 | [files/external/lilbudbot-com/cinemablue-a0e7558d.zip](../../../files/external/lilbudbot-com/cinemablue-a0e7558d.zip) | unknown | unknown | Fader / text styler<br>AOL/AIM chat utility | unknown |
 | clearhaze | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/clearhaze-97e1323d.zip](../../../files/external/lenshellarchive-com/clearhaze-97e1323d.zip) | unknown | unknown | unknown | unknown |
 | comct | unknown | 1 | ready | 1 | [files/external/angelfire-com/comct332.zip](../../../files/external/angelfire-com/comct332.zip) | unknown | unknown | unknown | unknown |
@@ -159,23 +216,29 @@ These are filenames or program leads discovered from external old-web sources an
 | commercialscript | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/commercialscript3.zip](../../../files/external/angelfire-com/commercialscript3.zip) | unknown | unknown | unknown | [http://vpchat.com/autochat](http://vpchat.com/autochat) |
 | compatibility-calc | unknown | 1 | ready | 1 | [files/external/angelfire-com/compatibility-calc.zip](../../../files/external/angelfire-com/compatibility-calc.zip) | BEN LEED | unknown | unknown | unknown |
 | computer-infomation | unknown | 1 | ready | 1 | [files/external/angelfire-com/computer-infomation.zip](../../../files/external/angelfire-com/computer-infomation.zip) | unknown | unknown | unknown | unknown |
+| core-api-hlp | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/core-api-57898d88.hlp](../../../files/external/raw-githubusercontent-com/core-api-57898d88.hlp) | unknown | unknown | unknown | unknown |
 | counter | unknown | 1 | ready | 1 | [files/external/angelfire-com/counter.zip](../../../files/external/angelfire-com/counter.zip) | BEN LEED | unknown | unknown | unknown |
 | crackxp | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/crackxp.zip](../../../files/external/angelfire-com/crackxp.zip) | unknown | unknown | unknown | unknown |
 | creatincommercialsites | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/creatincommercialsites.zip](../../../files/external/angelfire-com/creatincommercialsites.zip) | which you could call any other<br>allowing it to directly refer to something else<br>people as far away as the Netherlands<br>the time we get to Part II | unknown | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server | [http://www.hampton.org](http://www.hampton.org)<br>[http://www.yahoo.com/Business_and_Economy/Companies/Internet_Services/Internet_Consulting/](http://www.yahoo.com/Business_and_Economy/Companies/Internet_Services/Internet_Consulting/)<br>[http://www.yahoo.com/Business_and_Economy/Companies/Computers/Consulting/](http://www.yahoo.com/Business_and_Economy/Companies/Computers/Consulting/)<br>[http://www.occ.com](http://www.occ.com) |
 | criminalchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/criminalchat.zip](../../../files/external/angelfire-com/criminalchat.zip) | unknown | unknown | Mass mailer / server | unknown |
+| dacrazyone | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/dacrazyone70-fe302d39.zip](../../../files/external/raw-githubusercontent-com/dacrazyone70-fe302d39.zip) | DaCrazyOne | unknown | Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown |
 | dap | unknown | 1 | ready | 1 | [files/external/angelfire-com/dap53.zip](../../../files/external/angelfire-com/dap53.zip) | unknown | unknown | unknown | unknown |
 | darkscanner | unknown | 1 | ready | 1 | [files/external/angelfire-com/darkscanner-7d48a437.zip](../../../files/external/angelfire-com/darkscanner-7d48a437.zip) | unknown | unknown | unknown | unknown |
 | dazed | unknown | 1 | ready | 1 | [files/external/angelfire-com/dazed-901646c9.zip](../../../files/external/angelfire-com/dazed-901646c9.zip) | unknown | unknown | unknown | unknown |
+| debugview | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/debugview-a2830a9a.zip](../../../files/external/raw-githubusercontent-com/debugview-a2830a9a.zip) | applicable law | unknown | All-in-one prog suite | [http://www.microsoft.com/exporting](http://www.microsoft.com/exporting) |
 | default-passwords | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/default-passwords-688998ff.zip](../../../files/external/angelfire-com/default-passwords-688998ff.zip) | unknown | unknown | All-in-one prog suite<br>Fader / text styler<br>Mass mailer / server<br>Account / TOS utility<br>Source / developer file | unknown |
 | destroyer | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/destroyer-c37f31fa.zip](../../../files/external/lenshellarchive-com/destroyer-c37f31fa.zip) | unknown | unknown | Media / file utility<br>AOL/AIM chat utility | unknown |
 | details | unknown | 1 | ready | 1 | [files/external/angelfire-com/details.zip](../../../files/external/angelfire-com/details.zip) | unknown | unknown | unknown | unknown |
 | determinante | unknown | 1 | ready | 1 | [files/external/angelfire-com/determinante.zip](../../../files/external/angelfire-com/determinante.zip) | unknown | unknown | unknown | unknown |
 | diablo-monsterskill-sorc | unknown | 1 | ready | 1 | [files/external/angelfire-com/diablo2-monsterskill-sorc.zip](../../../files/external/angelfire-com/diablo2-monsterskill-sorc.zip) | unknown | unknown | AOL/AIM chat utility | unknown |
 | digitalintake | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/digitalintakev3-1502f8f9.zip](../../../files/external/lenshellarchive-com/digitalintakev3-1502f8f9.zip) | unknown | unknown | unknown | unknown |
+| dive-hlp | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/dive-255c0722.hlp](../../../files/external/raw-githubusercontent-com/dive-255c0722.hlp) | unknown | unknown | unknown | unknown |
 | dmc-r | unknown | 1 | ready | 1 | [files/external/angelfire-com/dmc-r7.zip](../../../files/external/angelfire-com/dmc-r7.zip) | unknown | unknown | unknown | unknown |
+| dos-chm | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/dos32-be7f1f6d.chm](../../../files/external/raw-githubusercontent-com/dos32-be7f1f6d.chm) | unknown | unknown | unknown | unknown |
 | dotmacregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/dotmacregister-2552521a.exe](../../../files/external/aimfilez-com/dotmacregister-2552521a.exe) | unknown | unknown | unknown | unknown |
 | drapeauscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/drapeauscreensaver-mcld.zip](../../../files/external/angelfire-com/drapeauscreensaver-mcld.zip) | mclodo | unknown | Media / file utility | unknown |
 | dvbpl | unknown | 1 | ready | 1 | [files/external/angelfire-com/dvbpl-020619.zip](../../../files/external/angelfire-com/dvbpl-020619.zip) | Klaus Schmidinger<br>Dave Chapman<br>DVBVideoLAN run Graphedit | unknown | Mass mailer / server<br>Source / developer file<br>Media / file utility | [http://www.linuxstb.org/dvbstream](http://www.linuxstb.org/dvbstream)<br>[http://www.linuxtv.org](http://www.linuxtv.org)<br>[http://www.elecard.com](http://www.elecard.com) |
+| e | AOL/AIM client installer | 1 | ready | 1 | [files/external/raw-githubusercontent-com/e2aol7-57879c1b.zip](../../../files/external/raw-githubusercontent-com/e2aol7-57879c1b.zip) | unknown | AOL 7.0 | Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | [http://www.blike.com/e2mod/](http://www.blike.com/e2mod/) |
 | email | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/email.zip](../../../files/external/angelfire-com/email.zip) | unknown | unknown | unknown | [http://www.helpdesk.mircx.com/scripts](http://www.helpdesk.mircx.com/scripts) |
 | emailcash | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailcash.zip](../../../files/external/angelfire-com/emailcash.zip) | unknown | unknown | unknown | unknown |
 | emailform | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/emailform.zip](../../../files/external/angelfire-com/emailform.zip) | unknown | unknown | unknown | unknown |
@@ -188,6 +251,7 @@ These are filenames or program leads discovered from external old-web sources an
 | feuscreensaver-mcld | unknown | 1 | ready | 1 | [files/external/angelfire-com/feuscreensaver-mcld.zip](../../../files/external/angelfire-com/feuscreensaver-mcld.zip) | mclodo | unknown | Source / developer file | unknown |
 | fierce | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/fierce20-2b7abf04.zip](../../../files/external/lenshellarchive-com/fierce20-2b7abf04.zip) | unknown | unknown | unknown | unknown |
 | film | unknown | 1 | ready | 1 | [files/external/angelfire-com/film.zip](../../../files/external/angelfire-com/film.zip) | unknown | unknown | unknown | unknown |
+| finder | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/finder32-ab1725b5.zip](../../../files/external/raw-githubusercontent-com/finder32-ab1725b5.zip) | unknown | unknown | AOL/AIM chat utility | unknown |
 | fish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/fish.zip](../../../files/external/angelfire-com/fish.zip) | unknown | unknown | unknown | unknown |
 | font | unknown | 1 | ready | 1 | [files/external/angelfire-com/font.zip](../../../files/external/angelfire-com/font.zip) | unknown | unknown | Fader / text styler | unknown |
 | form-mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/form-mail.zip](../../../files/external/angelfire-com/form-mail.zip) | leaving this field<br>commas<br>browsers and your server | unknown | Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server<br>Media / file utility | [http://www.worldwidemart.com/scripts/](http://www.worldwidemart.com/scripts/)<br>[http://www.worldwidemart.com/scripts/faq/](http://www.worldwidemart.com/scripts/faq/)<br>[http://www.worldwidemart.com](http://www.worldwidemart.com)<br>[http://your.host.com/to/file.html](http://your.host.com/to/file.html) |
@@ -196,6 +260,7 @@ These are filenames or program leads discovered from external old-web sources an
 | future | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/future-0fbedade.zip](../../../files/external/lenshellarchive-com/future-0fbedade.zip) | unknown | unknown | Source / developer file | unknown |
 | g-fade | fader | 1 | ready | 1 | [files/external/angelfire-com/g-fade.zip](../../../files/external/angelfire-com/g-fade.zip) | unknown | unknown | Fader / text styler | unknown |
 | gamespy-addcrack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/gamespy-v109addcrack.zip](../../../files/external/angelfire-com/gamespy-v109addcrack.zip) | GameSpy Industries | unknown | Account / TOS utility<br>Source / developer file | unknown |
+| geekmans-hlp | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/geekmans-529446e8.hlp](../../../files/external/raw-githubusercontent-com/geekmans-529446e8.hlp) | unknown | unknown | unknown | unknown |
 | geotronics | unknown | 1 | ready | 1 | [files/external/angelfire-com/geotronics.zip](../../../files/external/angelfire-com/geotronics.zip) | unknown | unknown | Source / developer file<br>Fader / text styler<br>Media / file utility<br>C-Com / command list | unknown |
 | getbent | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/getbent.zip](../../../files/external/angelfire-com/getbent.zip) | unknown | unknown | All-in-one prog suite | unknown |
 | girl | unknown | 1 | ready | 1 | [files/external/angelfire-com/girl.zip](../../../files/external/angelfire-com/girl.zip) | unknown | unknown | unknown | unknown |
@@ -207,6 +272,7 @@ These are filenames or program leads discovered from external old-web sources an
 | hackers-crackdown | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/hackers-crackdown.zip](../../../files/external/angelfire-com/hackers-crackdown.zip) | unknown | unknown | unknown | unknown |
 | hellhound | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellhound.zip](../../../files/external/angelfire-com/hellhound.zip) | unknown | unknown | unknown | unknown |
 | hellsedit | unknown | 1 | ready | 1 | [files/external/angelfire-com/hellsedit.zip](../../../files/external/angelfire-com/hellsedit.zip) | unknown | unknown | Scroller / macro<br>Media / file utility<br>Fader / text styler<br>Account / TOS utility | [http://members.xoom.com/ffbn/fi.htm](http://members.xoom.com/ffbn/fi.htm)<br>[http://www.geocities.com/SiliconValley/Horizon/6342](http://www.geocities.com/SiliconValley/Horizon/6342) |
+| help-rtf | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/help-3f4926b8.rtf](../../../files/external/raw-githubusercontent-com/help-3f4926b8.rtf) | unknown | unknown | unknown | unknown |
 | hotmail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/hotmail-32de8c7e.zip](../../../files/external/angelfire-com/hotmail-32de8c7e.zip) | unknown | unknown | unknown | unknown |
 | hotmailhack | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/hotmailhack.zip](../../../files/external/angelfire-com/hotmailhack.zip) | rightclicking it and selecting | unknown | All-in-one prog suite<br>Fader / text styler<br>Mass mailer / server<br>Account / TOS utility<br>Source / developer file | [http://www.yourmom.com](http://www.yourmom.com)<br>[http://www.stickdeath.com/](http://www.stickdeath.com/) |
 | hpcoms | chat/macro | 1 | ready | 1 | [files/external/lenshellarchive-com/hpcoms1-5cab6e6c.zip](../../../files/external/lenshellarchive-com/hpcoms1-5cab6e6c.zip) | unknown | unknown | Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Screen-name utility<br>AOL/AIM chat utility | [http://bloodychef.cjb.net](http://bloodychef.cjb.net) |
@@ -220,21 +286,28 @@ These are filenames or program leads discovered from external old-web sources an
 | install-uk-o-i | unknown | 1 | ready | 1 | [files/external/archive-org/install-aol-uk-3-o-i-1a925aa1.hqx](../../../files/external/archive-org/install-aol-uk-3-o-i-1a925aa1.hqx) | unknown | unknown | unknown | unknown |
 | instantidler | idler/bot | 1 | ready | 1 | [files/external/aimfilez-com/instantidler52-59727d46.exe](../../../files/external/aimfilez-com/instantidler52-59727d46.exe) | unknown | unknown | unknown | unknown |
 | interface | unknown | 1 | ready | 1 | [files/external/angelfire-com/interface.zip](../../../files/external/angelfire-com/interface.zip) | Clint LaFever<br>is added in column_click | unknown | Fader / text styler<br>Source / developer file<br>Media / file utility | [http://vbasic.iscool.net](http://vbasic.iscool.net) |
+| irs | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/irs3-fb158aa5.zip](../../../files/external/raw-githubusercontent-com/irs3-fb158aa5.zip) | circa | AOL 95<br>AOL 4.0<br>AOL 3.0<br>AOL 2.5 | Fader / text styler<br>Idler / AFK bot<br>Punter / booter<br>C-Com / command list<br>Scroller / macro | [http://www.Anti-AOL.com](http://www.Anti-AOL.com)<br>[http://search.hometown.aol.com](http://search.hometown.aol.com)<br>[http://hometown.aol.com/](http://hometown.aol.com/) |
 | ispec | AIM | 1 | ready | 1 | [files/external/aimfilez-com/ispec-e3b22ea2.exe](../../../files/external/aimfilez-com/ispec-e3b22ea2.exe) | unknown | unknown | unknown | unknown |
 | iviewer | unknown | 1 | ready | 1 | [files/external/angelfire-com/iviewer.zip](../../../files/external/angelfire-com/iviewer.zip) | unchecking 'Toolbar' in the View menu<br>saying so in the Options menu<br>Imran | unknown | Fader / text styler<br>Scroller / macro<br>Source / developer file<br>Media / file utility<br>C-Com / command list | [http://www.pureblacklight.com/ivy](http://www.pureblacklight.com/ivy) |
 | ivypda | unknown | 1 | ready | 1 | [files/external/angelfire-com/ivypda.zip](../../../files/external/angelfire-com/ivypda.zip) | unknown | unknown | unknown | unknown |
+| izekial-s-vb-tutorial-chm | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/izekials20vb3220tutorial-f9b55d3a.chm](../../../files/external/raw-githubusercontent-com/izekials20vb3220tutorial-f9b55d3a.chm) | unknown | unknown | unknown | unknown |
+| izekial | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/izekial322-44ebf908.zip](../../../files/external/raw-githubusercontent-com/izekial322-44ebf908.zip) | izekial83 ' | AOL 4<br>AOL 2.5<br>AOL 25<br>AIM 2 | Fader / text styler<br>Room buster<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server | [http://www.come.to/izekial83/](http://www.come.to/izekial83/)<br>[http://www.nkillaz.com/izekial/](http://www.nkillaz.com/izekial/) |
 | jackbros | unknown | 1 | ready | 1 | [files/external/angelfire-com/jackbros.zip](../../../files/external/angelfire-com/jackbros.zip) | ROMNation | unknown | Fader / text styler | [http://www.romnation.net/](http://www.romnation.net/) |
+| jaguar | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/jaguar-04c8e95f.zip](../../../files/external/raw-githubusercontent-com/jaguar-04c8e95f.zip) | another one of my functions | unknown | Fader / text styler<br>Idler / AFK bot<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility | unknown |
 | jungledan | unknown | 1 | ready | 1 | [files/external/angelfire-com/jungledan.zip](../../../files/external/angelfire-com/jungledan.zip) | unknown | unknown | unknown | unknown |
 | klotski | unknown | 1 | ready | 1 | [files/external/angelfire-com/klotski.zip](../../../files/external/angelfire-com/klotski.zip) | unknown | unknown | Fader / text styler<br>Source / developer file | unknown |
 | lsd | unknown | 1 | ready | 1 | [files/external/angelfire-com/lsd.zip](../../../files/external/angelfire-com/lsd.zip) | Tiba 2000 | unknown | unknown | [http://www.angelfire.com/de2/eletronica4](http://www.angelfire.com/de2/eletronica4) |
+| macex-chm | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/macex20v3-d2620dde.chm](../../../files/external/raw-githubusercontent-com/macex20v3-d2620dde.chm) | unknown | unknown | unknown | unknown |
 | magicsquare | unknown | 1 | ready | 1 | [files/external/angelfire-com/magicsquare.zip](../../../files/external/angelfire-com/magicsquare.zip) | unknown | unknown | unknown | unknown |
 | mail | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/mail555.zip](../../../files/external/angelfire-com/mail555.zip) | others will not reflect on the original<br>' reputations<br>software<br>offering | unknown | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Scroller / macro | [http://www.namesweb.ltd.uk/vlh](http://www.namesweb.ltd.uk/vlh)<br>[http://www.your-site.co.uk/vlist](http://www.your-site.co.uk/vlist)<br>[http://www.albakr.net](http://www.albakr.net)<br>[http://www.albakr.net/vb/index.php](http://www.albakr.net/vb/index.php) |
+| marzfade-codes-doc | fader | 1 | ready | 1 | [files/external/raw-githubusercontent-com/marzfade20codes-39739234.doc](../../../files/external/raw-githubusercontent-com/marzfade20codes-39739234.doc) | unknown | unknown | unknown | unknown |
 | mastermind | unknown | 1 | ready | 1 | [files/external/angelfire-com/mastermind.zip](../../../files/external/angelfire-com/mastermind.zip) | unknown | unknown | unknown | [http://go.microsoft.com/fwlink/?LinkId=9832](http://go.microsoft.com/fwlink/?LinkId=9832) |
 | mcnh | unknown | 1 | ready | 1 | [files/external/angelfire-com/mcnh.zip](../../../files/external/angelfire-com/mcnh.zip) | unknown | unknown | unknown | unknown |
 | menus | unknown | 1 | ready | 1 | [files/external/angelfire-com/menus.zip](../../../files/external/angelfire-com/menus.zip) | unknown | unknown | unknown | unknown |
 | metallicapass | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/metallicapass-19034e53.zip](../../../files/external/angelfire-com/metallicapass-19034e53.zip) | unknown | unknown | Fader / text styler | unknown |
 | mikes-ram | unknown | 1 | ready | 1 | [files/external/angelfire-com/mikesprogram.zip](../../../files/external/angelfire-com/mikesprogram.zip) | unknown | unknown | unknown | unknown |
 | millionemails | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/millionemails.zip](../../../files/external/angelfire-com/millionemails.zip) | 2005<br>sending out a simple email<br>the top Internet Pros and eCommerce leaders<br>asking one simple question | unknown | Fader / text styler<br>Media / file utility<br>All-in-one prog suite<br>Idler / AFK bot<br>Mass mailer / server | [http://www.profitjump.com/milliondollaremails/affiliates.html](http://www.profitjump.com/milliondollaremails/affiliates.html)<br>[http://www.profitjump.com/rbot/](http://www.profitjump.com/rbot/)<br>[http://www.roibot.com/mde.cgi?ROIbotID_campaign](http://www.roibot.com/mde.cgi?ROIbotID_campaign)<br>[http://www.profitjump.com](http://www.profitjump.com) |
+| mmerhlp-hlp | mass mailer/server | 1 | ready | 1 | [files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp](../../../files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp) | unknown | unknown | unknown | unknown |
 | mod | unknown | 1 | ready | 1 | [files/external/angelfire-com/mod-781c1d58.zip](../../../files/external/angelfire-com/mod-781c1d58.zip) | unknown | unknown | unknown | unknown |
 | moodyblues-cocacolacommercial | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/moodyblues-cocacolacommercial.zip](../../../files/external/angelfire-com/moodyblues-cocacolacommercial.zip) | unknown | unknown | unknown | unknown |
 | morse-code | unknown | 1 | ready | 1 | [files/external/angelfire-com/morse-code.zip](../../../files/external/angelfire-com/morse-code.zip) | BEN LEED | unknown | unknown | unknown |
@@ -266,10 +339,13 @@ These are filenames or program leads discovered from external old-web sources an
 | q-asec | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3asec.zip](../../../files/external/angelfire-com/q3asec.zip) | TopGear | unknown | unknown | [http://www.planetquake.com/thebind/](http://www.planetquake.com/thebind/) |
 | q-name | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3name.zip](../../../files/external/angelfire-com/q3name.zip) | unknown | unknown | unknown | unknown |
 | q-tweak | unknown | 1 | ready | 1 | [files/external/angelfire-com/q3tweak1039.zip](../../../files/external/angelfire-com/q3tweak1039.zip) | unknown | unknown | unknown | unknown |
+| quest-fuelx-vb-help-hlp | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/quest-fuelx20vb20help-0ec4f175.hlp](../../../files/external/raw-githubusercontent-com/quest-fuelx20vb20help-0ec4f175.hlp) | unknown | unknown | unknown | unknown |
 | race | unknown | 1 | ready | 1 | [files/external/angelfire-com/race.zip](../../../files/external/angelfire-com/race.zip) | BEN LEED | unknown | unknown | unknown |
 | random-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/random-scribble.zip](../../../files/external/angelfire-com/random-scribble.zip) | BEN LEED | unknown | unknown | unknown |
 | random | unknown | 1 | ready | 1 | [files/external/angelfire-com/random-5e2e7710.zip](../../../files/external/angelfire-com/random-5e2e7710.zip) | unknown | unknown | Fader / text styler<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown |
 | ravehitter-serverlist | unknown | 1 | ready | 1 | [files/external/angelfire-com/ravehitter1-0serverlist.zip](../../../files/external/angelfire-com/ravehitter1-0serverlist.zip) | unknown | unknown | unknown | unknown |
+| read-me-doc | fader | 1 | ready | 1 | [files/external/raw-githubusercontent-com/read20me-6921e973.doc](../../../files/external/raw-githubusercontent-com/read20me-6921e973.doc) | unknown | unknown | unknown | unknown |
+| registryreader | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/registryreader-0dffb0fc.zip](../../../files/external/raw-githubusercontent-com/registryreader-0dffb0fc.zip) | unknown | unknown | Source / developer file | unknown |
 | regocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/regocx.zip](../../../files/external/angelfire-com/regocx.zip) | unknown | unknown | unknown | unknown |
 | regserv | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/regserv-1c2c60bb.zip](../../../files/external/angelfire-com/regserv-1c2c60bb.zip) | unknown | unknown | unknown | unknown |
 | reshack | AIM | 1 | ready | 1 | [files/external/aimfilez-com/reshack-ae82f47d.exe](../../../files/external/aimfilez-com/reshack-ae82f47d.exe) | unknown | unknown | unknown | unknown |
@@ -277,6 +353,7 @@ These are filenames or program leads discovered from external old-web sources an
 | roomgen | room buster | 1 | ready | 1 | [files/external/angelfire-com/roomgen-f78efcd0.zip](../../../files/external/angelfire-com/roomgen-f78efcd0.zip) | unknown | unknown | unknown | unknown |
 | salat | unknown | 1 | ready | 1 | [files/external/angelfire-com/salat.zip](../../../files/external/angelfire-com/salat.zip) | unknown | unknown | Fader / text styler | [http://www.geocities.com/SiliconValley/Vista/9311](http://www.geocities.com/SiliconValley/Vista/9311) |
 | sanidade | unknown | 1 | ready | 1 | [files/external/angelfire-com/sanidade.zip](../../../files/external/angelfire-com/sanidade.zip) | unknown | unknown | unknown | unknown |
+| scan-that-bas-patorjk | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/scan-that-bas-10-patorjk-ca2b5288.zip](../../../files/external/raw-githubusercontent-com/scan-that-bas-10-patorjk-ca2b5288.zip) | unknown | unknown | unknown | unknown |
 | sccur | unknown | 1 | ready | 1 | [files/external/angelfire-com/sccur.zip](../../../files/external/angelfire-com/sccur.zip) | unknown | unknown | unknown | unknown |
 | scriptfish | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/scriptfish.zip](../../../files/external/angelfire-com/scriptfish.zip) | attachment to a previous condition of existence<br>applying it's own TAB key completion<br>Necroman<br>popular request | unknown | Mass mailer / server<br>AOL/AIM chat utility<br>Idler / AFK bot<br>Punter / booter<br>C-Com / command list | [http://www.mirc.com](http://www.mirc.com)<br>[http://www.mirc.co.uk](http://www.mirc.co.uk)<br>[http://www.mirc.com.ar](http://www.mirc.com.ar)<br>[http://mirc.eon.net.au](http://mirc.eon.net.au) |
 | scrolltextex | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/scrolltextex.zip](../../../files/external/angelfire-com/scrolltextex.zip) | unknown | unknown | Fader / text styler<br>Scroller / macro<br>Source / developer file | [http://www.angelfire.com/ny3/visualbasic](http://www.angelfire.com/ny3/visualbasic) |
@@ -294,15 +371,19 @@ These are filenames or program leads discovered from external old-web sources an
 | simple-scribble | unknown | 1 | ready | 1 | [files/external/angelfire-com/simple-scribble.zip](../../../files/external/angelfire-com/simple-scribble.zip) | unknown | unknown | unknown | unknown |
 | skin-elite | AIM | 1 | ready | 1 | [files/external/oogle-net/skin-elite-3ae954b5.zip](../../../files/external/oogle-net/skin-elite-3ae954b5.zip) | unknown | unknown | All-in-one prog suite | unknown |
 | skin-insane | AIM | 1 | ready | 1 | [files/external/oogle-net/skin-insane-e3c85f67.zip](../../../files/external/oogle-net/skin-insane-e3c85f67.zip) | unknown | unknown | unknown | unknown |
+| slove | AOL/AIM client installer | 1 | ready | 1 | [files/external/raw-githubusercontent-com/sloveaol6-b2b552e0.zip](../../../files/external/raw-githubusercontent-com/sloveaol6-b2b552e0.zip) | slove<br>the DefaultExt property<br>progee | AOL 6<br>AOL 6.0<br>AOL 5 | Fader / text styler<br>Idler / AFK bot<br>C-Com / command list<br>Scroller / macro<br>Source / developer file | unknown |
 | smiley | AIM | 1 | ready | 1 | [files/external/aimfilez-com/smiley-c14cffa3.exe](../../../files/external/aimfilez-com/smiley-c14cffa3.exe) | unknown | unknown | unknown | unknown |
 | smokin | unknown | 1 | ready | 1 | [files/external/angelfire-com/smokin37-b040802e.zip](../../../files/external/angelfire-com/smokin37-b040802e.zip) | unknown | unknown | unknown | unknown |
 | smoothcracken | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/smoothcracken1-6f04cfec.zip](../../../files/external/angelfire-com/smoothcracken1-6f04cfec.zip) | unknown | unknown | unknown | unknown |
 | snc-tallocx | idler/bot | 1 | ready | 1 | [files/external/angelfire-com/snc-tallocx-42ca234a.zip](../../../files/external/angelfire-com/snc-tallocx-42ca234a.zip) | unknown | unknown | unknown | unknown |
 | snc-wideocx | idler/bot | 1 | ready | 1 | [files/external/angelfire-com/snc-wideocx-dedc6a2a.zip](../../../files/external/angelfire-com/snc-wideocx-dedc6a2a.zip) | unknown | unknown | unknown | unknown |
+| sncoolector | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/sncoolector-988eb5e1.zip](../../../files/external/raw-githubusercontent-com/sncoolector-988eb5e1.zip) | unknown | unknown | Fader / text styler<br>Scroller / macro<br>Screen-name utility<br>Source / developer file<br>AOL/AIM chat utility | unknown |
+| source | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/source-765b8841.zip](../../../files/external/raw-githubusercontent-com/source-765b8841.zip) | martyr | AOL 4.0<br>AOL 5.0 | Source / developer file<br>Media / file utility<br>AOL/AIM chat utility<br>C-Com / command list | [http://magnet2000.cjb.net](http://magnet2000.cjb.net) |
 | spammer | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/spammer.zip](../../../files/external/angelfire-com/spammer.zip) | unknown | unknown | unknown | unknown |
 | speed-type | unknown | 1 | ready | 1 | [files/external/angelfire-com/speed-type.zip](../../../files/external/angelfire-com/speed-type.zip) | unknown | unknown | unknown | unknown |
 | speedoptimizer-crack | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/angelfire-com/speedoptimizer-v1-5-crack.zip](../../../files/external/angelfire-com/speedoptimizer-v1-5-crack.zip) | unknown | unknown | Account / TOS utility | [http://www.speedbit.com](http://www.speedbit.com)<br>[http://zor.org/tsrh](http://zor.org/tsrh) |
 | spokes | unknown | 1 | ready | 1 | [files/external/angelfire-com/spokes.zip](../../../files/external/angelfire-com/spokes.zip) | BEN LEED | unknown | Source / developer file<br>Media / file utility | unknown |
+| spyocx | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/spyocx-13191a95.zip](../../../files/external/raw-githubusercontent-com/spyocx-13191a95.zip) | unknown | unknown | unknown | unknown |
 | ssprotoss | unknown | 1 | ready | 1 | [files/external/angelfire-com/ssprotoss.zip](../../../files/external/angelfire-com/ssprotoss.zip) | unknown | unknown | unknown | [http://www.densetsu.com/xproductions/index.htm](http://www.densetsu.com/xproductions/index.htm) |
 | staff-info | AIM | 1 | ready | 1 | [files/external/angelfire-com/staffaiminfo.zip](../../../files/external/angelfire-com/staffaiminfo.zip) | unknown | AIM 1.75 | C-Com / command list<br>Mass mailer / server<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | [http://come.to/aolf](http://come.to/aolf)<br>[http://come.to/Cygon](http://come.to/Cygon)<br>[http://www.aoelite.com](http://www.aoelite.com)<br>[http://wosonline.aoelite.com](http://wosonline.aoelite.com) |
 | starcraft | unknown | 1 | ready | 1 | [files/external/angelfire-com/starcraft.zip](../../../files/external/angelfire-com/starcraft.zip) | unknown | unknown | unknown | unknown |
@@ -315,10 +396,12 @@ These are filenames or program leads discovered from external old-web sources an
 | termin | unknown | 1 | ready | 1 | [files/external/angelfire-com/termin.zip](../../../files/external/angelfire-com/termin.zip) | unknown | unknown | unknown | unknown |
 | terminator | unknown | 1 | ready | 1 | [files/external/angelfire-com/terminator.zip](../../../files/external/angelfire-com/terminator.zip) | unknown | unknown | unknown | unknown |
 | terrangauntlet | unknown | 1 | ready | 1 | [files/external/angelfire-com/terrangauntlet.zip](../../../files/external/angelfire-com/terrangauntlet.zip) | unknown | unknown | Source / developer file<br>Media / file utility | [http://www.warnet.com/pyro/starcraft/index.shtml](http://www.warnet.com/pyro/starcraft/index.shtml) |
+| tetrinet | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/tetrinet-2ebf2ae4.zip](../../../files/external/raw-githubusercontent-com/tetrinet-2ebf2ae4.zip) | unknown | unknown | AOL/AIM chat utility | [http://hider.com/sonic](http://hider.com/sonic) |
 | text-cricket | unknown | 1 | ready | 1 | [files/external/angelfire-com/text-cricket-5c7ec3a4.zip](../../../files/external/angelfire-com/text-cricket-5c7ec3a4.zip) | BEN LEED | unknown | Media / file utility | unknown |
 | the-music-player-wsz | AIM | 1 | ready | 1 | [files/external/archive-org/the-aol-music-player-67eb1eeb.wsz](../../../files/external/archive-org/the-aol-music-player-67eb1eeb.wsz) | unknown | unknown | unknown | unknown |
 | topazchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/topazchat.zip](../../../files/external/angelfire-com/topazchat.zip) | excessive advertising<br>left to right, the Tool Bar buttons are as follows: par | unknown | Idler / AFK bot<br>Punter / booter<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server | unknown |
 | trans | unknown | 1 | ready | 1 | [files/external/angelfire-com/trans.zip](../../../files/external/angelfire-com/trans.zip) | unknown | unknown | unknown | unknown |
+| trident | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/trident-e59d65e9.zip](../../../files/external/raw-githubusercontent-com/trident-e59d65e9.zip) | unknown | AOL 30 | Fader / text styler<br>Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>Media / file utility | unknown |
 | tripeaks | room buster | 1 | ready | 1 | [files/external/angelfire-com/tripeaks.zip](../../../files/external/angelfire-com/tripeaks.zip) | unknown | unknown | unknown | unknown |
 | triple-arena | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/triple-arena.zip](../../../files/external/angelfire-com/triple-arena.zip) | unknown | unknown | All-in-one prog suite | [http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) |
 | trispiral | unknown | 1 | ready | 1 | [files/external/angelfire-com/trispiral.zip](../../../files/external/angelfire-com/trispiral.zip) | unknown | unknown | unknown | unknown |
@@ -326,15 +409,19 @@ These are filenames or program leads discovered from external old-web sources an
 | ts-server-fix | unknown | 1 | ready | 1 | [files/external/angelfire-com/ts-server-fix-v0-1-0.zip](../../../files/external/angelfire-com/ts-server-fix-v0-1-0.zip) | unknown | unknown | unknown | unknown |
 | twistersroombuster | room buster | 1 | ready | 1 | [files/external/angelfire-com/twistersroombuster.zip](../../../files/external/angelfire-com/twistersroombuster.zip) | unknown | unknown | unknown | unknown |
 | unriged-beta | unknown | 1 | ready | 1 | [files/external/angelfire-com/unriged-beta-64af0f5f.zip](../../../files/external/angelfire-com/unriged-beta-64af0f5f.zip) | BEN LEED | unknown | unknown | unknown |
+| vb-newbie-chm | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/vb20newbie-29f633c8.chm](../../../files/external/raw-githubusercontent-com/vb20newbie-29f633c8.chm) | unknown | unknown | unknown | unknown |
 | vb-in-lessons | unknown | 1 | ready | 1 | [files/external/angelfire-com/vb-in-12-lessons.zip](../../../files/external/angelfire-com/vb-in-12-lessons.zip) | unknown | unknown | unknown | unknown |
+| vb-code-pre-from-lynxjsa | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/vb3code-pre1998-from-lynxjsa-21d69d9a.zip](../../../files/external/raw-githubusercontent-com/vb3code-pre1998-from-lynxjsa-21d69d9a.zip) | another one of my functions<br>looking for a<br>ePoD for | AOL 30<br>AOL 25<br>AOL 3 | Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Source / developer file | unknown |
 | vba | unknown | 1 | ready | 1 | [files/external/angelfire-com/vba.zip](../../../files/external/angelfire-com/vba.zip) | the emulator<br>not allowing<br>executing<br>Forgotten | unknown | All-in-one prog suite<br>Source / developer file<br>Media / file utility | [http://www.paypal.com](http://www.paypal.com)<br>[http://vboy.emuhq.com/faq.shtml](http://vboy.emuhq.com/faq.shtml)<br>[http://vboy.emuhq.com/contact.shtml](http://vboy.emuhq.com/contact.shtml)<br>[http://vboy.emuhq.com](http://vboy.emuhq.com) |
 | vbulletin | unknown | 1 | ready | 1 | [files/external/angelfire-com/vbulletin-201.zip](../../../files/external/angelfire-com/vbulletin-201.zip) | startdate DESC<br>announcement<br>thread,post<br>calendar_events | unknown | AOL/AIM chat utility<br>Source / developer file<br>Media / file utility<br>Mass mailer / server<br>Account / TOS utility | [http://www.vbulletin.com](http://www.vbulletin.com)<br>[http://www.\\6\](http://www.\\6\)<br>[http://www.\\5\](http://www.\\5\)<br>[http://vbulletin.com/members/](http://vbulletin.com/members/) |
 | video-ocx | unknown | 1 | ready | 1 | [files/external/angelfire-com/video-ocx.zip](../../../files/external/angelfire-com/video-ocx.zip) | unknown | unknown | unknown | [http://www.securehack.com/](http://www.securehack.com/)<br>[http://cman.mytopsitelist.com/jump.php?cmd=in&list_id=top&site_id=robert42](http://cman.mytopsitelist.com/jump.php?cmd=in&list_id=top&site_id=robert42)<br>[http://69.22.169.138/~digital/](http://69.22.169.138/~digital/)<br>[http://WWW.E-HACK.TK](http://WWW.E-HACK.TK) |
 | vnetbust | hazardous/account or remote-control context | 1 | ready | 1 | [files/external/fortunecity-com/vnetbust.zip](../../../files/external/fortunecity-com/vnetbust.zip) | unknown | unknown | unknown | unknown |
 | warpedserver | unknown | 1 | ready | 1 | [files/external/angelfire-com/warpedserver.zip](../../../files/external/angelfire-com/warpedserver.zip) | removing the<br>marty's | unknown | AOL/AIM chat utility<br>Fader / text styler<br>Punter / booter<br>Scroller / macro<br>Mass mailer / server | [http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe](http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe) |
+| wgf-chm | unknown | 1 | ready | 1 | [files/external/raw-githubusercontent-com/wgf-1a8a7f37.chm](../../../files/external/raw-githubusercontent-com/wgf-1a8a7f37.chm) | unknown | unknown | unknown | unknown |
 | win-font | unknown | 1 | ready | 1 | [files/external/angelfire-com/win95font.zip](../../../files/external/angelfire-com/win95font.zip) | unknown | unknown | unknown | unknown |
 | winamp-full | unknown | 1 | ready | 1 | [files/external/angelfire-com/winamp281-full.zip](../../../files/external/angelfire-com/winamp281-full.zip) | unknown | unknown | unknown | unknown |
 | winsock-dll | runtime/support file | 1 | ready | 1 | [files/external/angelfire-com/winsock-dll.zip](../../../files/external/angelfire-com/winsock-dll.zip) | unknown | unknown | unknown | unknown |
+| xak-chatscanbeta | AOL/AIM client installer | 1 | ready | 1 | [files/external/raw-githubusercontent-com/xakaol3chatscanbeta-0350b976.rar](../../../files/external/raw-githubusercontent-com/xakaol3chatscanbeta-0350b976.rar) | unknown | unknown | unknown | unknown |
 | xchat | chat/macro | 1 | ready | 1 | [files/external/angelfire-com/xchat.zip](../../../files/external/angelfire-com/xchat.zip) | unknown | unknown | unknown | unknown |
 | xregister | AIM | 1 | ready | 1 | [files/external/aimfilez-com/xregister-859fa003.exe](../../../files/external/aimfilez-com/xregister-859fa003.exe) | unknown | unknown | unknown | unknown |
 | yoink | mass mailer/server | 1 | ready | 1 | [files/external/angelfire-com/yoink.zip](../../../files/external/angelfire-com/yoink.zip) | the room above and will suck anyone in the area in | unknown | All-in-one prog suite<br>AOL/AIM chat utility | [http://www.gamedesign.net](http://www.gamedesign.net)<br>[http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) |
@@ -360,7 +447,6 @@ These are filenames or program leads discovered from external old-web sources an
 | prodigy | AIM | 7 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | cc-d | unknown | 7 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dejavu | unknown | 7 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| dos | unknown | 7 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | methodus | unknown | 7 | html-replay<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fury | AOL/AIM client installer | 6 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | iss | unknown | 6 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -376,7 +462,6 @@ These are filenames or program leads discovered from external old-web sources an
 | atlassian-jira-software-x | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | iata-enu | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | lethal | unknown | 5 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
-| master | unknown | 5 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | pcns-win | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pwlist | hazardous/account or remote-control context | 5 | http-404<br>candidate | 0 | none | unknown | unknown | unknown | unknown |
 | setuprst | unknown | 5 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -605,7 +690,6 @@ These are filenames or program leads discovered from external old-web sources an
 | crackex | idler/bot | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crackofdawn | hazardous/account or remote-control context | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crackzilla | hazardous/account or remote-control context | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| cryofade | room buster | 2 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | ct | chat/macro | 2 | candidate<br>http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | curl-win-ssl-devel | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | curl-win-mingw | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -689,7 +773,6 @@ These are filenames or program leads discovered from external old-web sources an
 | metapath | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | midget | chat/macro | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mocks | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| monkefade | fader | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | moon | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | morphex | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mp-mpd | unknown | 2 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1000,7 +1083,6 @@ These are filenames or program leads discovered from external old-web sources an
 | se | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | ac | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | filedownloader | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| macros | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | sjeb-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | quickbuddy | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | aonuke-palette | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1017,13 +1099,11 @@ These are filenames or program leads discovered from external old-web sources an
 | applicationsignaturebuilder | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | appmaker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | aquariusrom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| arc | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | archie | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | archimedes | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | archon | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | arcrack | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | area | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| arena | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | arj-a | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | arkanoid | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | armagedd | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -1086,7 +1166,6 @@ These are filenames or program leads discovered from external old-web sources an
 | banner-exchange-v-b | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | bannerad | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | banshee | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| bas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | basfiles | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | basic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | baud | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1139,7 +1218,6 @@ These are filenames or program leads discovered from external old-web sources an
 | bnt-acc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | bnt-i | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | bo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| bofen | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | bolt | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | bomba | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | bone | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1240,7 +1318,6 @@ These are filenames or program leads discovered from external old-web sources an
 | ch | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | chamberbomb | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | changecreep | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| chaos | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | chaosmp | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | chaoticmayhem | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | char-lcd-pdf-pack | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1276,7 +1353,6 @@ These are filenames or program leads discovered from external old-web sources an
 | chromecanarysetup | unknown | 1 | out-of-scope | 0 | none | unknown | unknown | unknown | unknown |
 | chromesetup | unknown | 1 | out-of-scope | 0 | none | unknown | unknown | unknown | unknown |
 | chromestandalonesetup | unknown | 1 | out-of-scope | 0 | none | unknown | unknown | unknown | unknown |
-| chronicbas | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | chronicidle | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | chronik | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | cinemagreen | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -1332,7 +1408,6 @@ These are filenames or program leads discovered from external old-web sources an
 | coolsendchat | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | copy-clipboard-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | core | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| coreapi | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | coret | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | corrupterrors | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | cp-e | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1356,7 +1431,6 @@ These are filenames or program leads discovered from external old-web sources an
 | crazyhobo | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | createcd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | credits | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| creep | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crimsons | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | critikism | mass mailer/server | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | crlupd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1387,8 +1461,6 @@ These are filenames or program leads discovered from external old-web sources an
 | d-k | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | da | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dacracks | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| dahoaxbas | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| d-gold | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | dak-palette-hqx | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | daliworld-b-full | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dao | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1448,7 +1520,6 @@ These are filenames or program leads discovered from external old-web sources an
 | digitaldynastyfinal | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | digitalidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | digitalinteruption | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| digitek | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | dincers-bookmarks | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dincers-msie-bokmarks | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dir | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1459,7 +1530,6 @@ These are filenames or program leads discovered from external old-web sources an
 | dist-k | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | distancias | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ditto | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| dive | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | divfix | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | divtira | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | divx-alpha | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1518,7 +1588,6 @@ These are filenames or program leads discovered from external old-web sources an
 | dtouch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | duck | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | duff | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| dupekill | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | duplinator-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dvdcloner | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | dvdshrink-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1540,7 +1609,6 @@ These are filenames or program leads discovered from external old-web sources an
 | editor | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | edwin | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | eelitetalker | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| effex | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | efontw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | egavga | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | eggs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1673,15 +1741,12 @@ These are filenames or program leads discovered from external old-web sources an
 | fluxidle | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flvplay | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fly-dos | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| fly | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flyingp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| flyman | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | flyw | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | foldersreport | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fonte | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | fontt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| formdragxp | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | forminfo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | formtrick | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | formula | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1694,7 +1759,6 @@ These are filenames or program leads discovered from external old-web sources an
 | frantic | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | freemem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | freepeeksrc | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| freespy | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | freewheel | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | freongold | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fresh | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1704,7 +1768,6 @@ These are filenames or program leads discovered from external old-web sources an
 | frootfliy | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | froz-nh-ll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | frozenhell | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| frubal | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | fsutil | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ftv-demo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ftx | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -1731,7 +1794,6 @@ These are filenames or program leads discovered from external old-web sources an
 | gdiplus-dnld | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | gemmas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | generalcrack | hazardous/account or remote-control context | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| genozide | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | genpr | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | geocities | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | germs | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -1809,11 +1871,8 @@ These are filenames or program leads discovered from external old-web sources an
 | hf-k | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | hfade | fader | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | hh | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| hiderfnl | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | hippo | punter/booter | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | hit-chidler | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| hiwind | chat/macro | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| hix | AOL/AIM client installer | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | holyzccom | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | homer | AIM | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | hook-beta | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
@@ -1890,7 +1949,6 @@ These are filenames or program leads discovered from external old-web sources an
 | infinst-enu-last-support-for-chipsets | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | info-t-lzwithdll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | info-t-lzwithoutdll | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| information | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | infosidle | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | inicode | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | instalar | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2017,7 +2075,6 @@ These are filenames or program leads discovered from external old-web sources an
 | laststand | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | layer-expand | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | layer-obj | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| lazyass | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | lbmwf | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | lcd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ldmdump | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2035,7 +2092,6 @@ These are filenames or program leads discovered from external old-web sources an
 | licensepackageauthoring | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | life | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | lighthouse-ycop-edition | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| limp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | linkdatho | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | linkmagic | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | linktechbeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2136,7 +2192,6 @@ These are filenames or program leads discovered from external old-web sources an
 | mircadv | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mirror | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mischiefbeta | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| misfit | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mk-dir | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mkursors | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mkwact-b | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2172,7 +2227,6 @@ These are filenames or program leads discovered from external old-web sources an
 | mousey | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mov | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mo-avi | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| mover | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mp-pascal-tutor | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mplayerx | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mrock-e | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2182,7 +2236,6 @@ These are filenames or program leads discovered from external old-web sources an
 | msdxm | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | msftedit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | msg-direct | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| msgbox | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | msicuu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | msie | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mskermit | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2196,7 +2249,6 @@ These are filenames or program leads discovered from external old-web sources an
 | msvcr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | msxrom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| mtb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mtenc-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mtr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | multi-bot | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2204,7 +2256,6 @@ These are filenames or program leads discovered from external old-web sources an
 | multicommander-win | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | multicommander-x | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | multilookup-install | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| murder | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | music-wcd | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | music | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | mussayfa | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2216,12 +2267,10 @@ These are filenames or program leads discovered from external old-web sources an
 | mzrom | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | n-e-n | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | nailmail | mass mailer/server | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| name | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | namealert | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | namemaker | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | napolean | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | napster | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| nash | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | natur | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | navb | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | navsetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2291,7 +2340,6 @@ These are filenames or program leads discovered from external old-web sources an
 | nwcctr | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | nwtp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | nyc | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
-| nyte | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | nytes-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | objectdbxoesetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | oc | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2335,7 +2383,6 @@ These are filenames or program leads discovered from external old-web sources an
 | palmdesktopwin-en | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | palmoutlook-updateeng | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | panicv | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| paranoid | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | paraphernalia | room buster | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | part | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pas | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2409,7 +2456,6 @@ These are filenames or program leads discovered from external old-web sources an
 | popupbutton | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | popupyes-no | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | porrete | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| position | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | poster | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | postman-win-setup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | po | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2444,7 +2490,6 @@ These are filenames or program leads discovered from external old-web sources an
 | psychic | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | ptfbadmn | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | pulsarpunt | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| punker | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | punkmp | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | punyscreen | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | puppy | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2499,7 +2544,6 @@ These are filenames or program leads discovered from external old-web sources an
 | raspberry | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | raspbeta | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rasperm | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| ravage | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | raw-ctlib | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rawplaye | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | rawviewersetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2563,7 +2607,6 @@ These are filenames or program leads discovered from external old-web sources an
 | russyntdemo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | safarisetup | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | safety | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| salem | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | samp | unknown | 1 | invalid-archive | 0 | none | unknown | unknown | unknown | unknown |
 | santa | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | sarah | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2652,7 +2695,6 @@ These are filenames or program leads discovered from external old-web sources an
 | simples | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | simulator | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | sircrackbeta | idler/bot | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| sirvb | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | sky-c | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | skypelogview | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | skypesetupfull | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2800,7 +2842,6 @@ These are filenames or program leads discovered from external old-web sources an
 | thrdmk | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | three-final | hazardous/account or remote-control context | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | throttlewatch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| thumper | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | thunder | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tictactoe | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tiempo | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2827,7 +2868,6 @@ These are filenames or program leads discovered from external old-web sources an
 | touchofdeath | punter/booter | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | toxicfreeze | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | toxicsource | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| toyboat | chat/macro | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tp-patch | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | tp-crtpt | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2911,7 +2951,6 @@ These are filenames or program leads discovered from external old-web sources an
 | vbcompact | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | vbdecomp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | vbdecompiler | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| vbforms | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | vbimex | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | vbrun-dll | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | vbrun-exe | runtime/support file | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
@@ -2973,7 +3012,6 @@ These are filenames or program leads discovered from external old-web sources an
 | war | idler/bot | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | warned | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | warnwar | AIM | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
-| warp | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | warrior-s | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |
 | wasteland | unknown | 1 | http-404 | 0 | none | unknown | unknown | unknown | unknown |
 | watermenu | unknown | 1 | candidate | 0 | none | unknown | unknown | unknown | unknown |

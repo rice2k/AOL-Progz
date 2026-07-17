@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Punter / booter.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Punter / booter, All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility, Screen-name utility, Media / file utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,14 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
-| External ZIP text version mentions | unknown |
+| External ZIP text version mentions | AOL 2.5, AOL 3, AOL 4, AOL 40, AOL 4.0 |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | Punter / booter |
+| External ZIP text purpose clues | Punter / booter, All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility, Screen-name utility, Media / file utility, Idler / AFK bot, Source / developer file, Account / TOS utility, Scroller / macro, Room buster, Fader / text styler, C-Com / command list |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 2 |
+| Matched external ZIP text evidence | 8 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -96,6 +96,12 @@ Readable text from recovered external mirrors is listed separately from the loca
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Web page: oldscool_windows_tools | [files/external/github-com/processexplorernt-0f29eb58.zip](../../../../../files/external/github-com/processexplorernt-0f29eb58.zip) | Eula.txt | applicable law | none | none | unknown | [http://www.microsoft.com/exporting](http://www.microsoft.com/exporting) |
 | Web page: oldscool_windows_tools | [files/external/github-com/winhex-a9100615.zip](../../../../../files/external/github-com/winhex-a9100615.zip) | FILE_ID.DIZ<br>Boot Sector NTFS.txt<br>FAT Directory Entry.txt<br>FAT LFN Entry.txt<br>Master Boot Record.txt<br>Boot Sector FAT.txt | Stefan Fleischmann | none | Punter / booter | description "Boot sector of an NTFS partition"<br>description "Normal/short entry format"<br>description "Long entry format" | [http://www.winhex.com](http://www.winhex.com)<br>[http://support.microsoft.com/support/kb/articles/Q153/9/73.asp](http://support.microsoft.com/support/kb/articles/Q153/9/73.asp) |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip](../../../../../files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip) | AOH/WNOTE.FRM<br>AOH/WELCOME.FRM<br>AOH/WAREZBOT.FRM<br>AOH/WAREZBOT.BAS<br>AOH/WAIT.FRM<br>AOH/VBMSG.BAS | control | AOL 2.5 | All-in-one prog suite<br>Mass mailer / server<br>AOL/AIM chat utility<br>Screen-name utility<br>Media / file utility<br>Idler / AFK bot | usVersion As Integer 'VB version used by control<br>'MsgBox "You must check the Re-Enter box to use the Re-Enter feature."<br>MsgBox "You must be signed on to AOL before you can use this feature!", 16, "Not Signed On!" | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/vbforms-68a660aa.zip](../../../../../files/external/raw-githubusercontent-com/vbforms-68a660aa.zip) | linkex~1.zip | none | none | Source / developer file | unknown | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aol32-fcedeaea.zip](../../../../../files/external/raw-githubusercontent-com/aol32-fcedeaea.zip) | aol_32.bas | another one of my functions | none | Source / developer file<br>AOL/AIM chat utility | unknown | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip](../../../../../files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip) | AolMacros.bas | none | none | All-in-one prog suite<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Media / file utility<br>AOL/AIM chat utility | 'This bas is 100% macros! made for aol<br>'they release a new version. Look on lenshell.com | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip](../../../../../files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip) | CHAOS232.bas<br>file_id.diz | my Boy | AOL 3<br>AOL 4<br>AOL 40<br>AOL 4.0 | All-in-one prog suite<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility | unknown | [http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/cracksource-1c16975b.zip](../../../../../files/external/raw-githubusercontent-com/cracksource-1c16975b.zip) | frmMain.frm<br>modCracker.bas<br>prjCracker.vbp | none | none | Fader / text styler<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility<br>Mass mailer / server | Private Sub sckCrack_Error(Index As Integer, ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean) | [http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=](http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=) |
 
 ### Source Mentions
 
@@ -164,8 +170,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Web page: oldscool_windows_tools | WinCDEmu-4.1.exe | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/WinCDEmu-4.1.exe) | [files/external/github-com/wincdemu-4-1-25f37518.exe](../../../../../files/external/github-com/wincdemu-4-1-25f37518.exe) | ready |
 | Web page: oldscool_windows_tools | winhex.zip | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/oldscool_windows_tools/winhex.zip) | [files/external/github-com/winhex-a9100615.zip](../../../../../files/external/github-com/winhex-a9100615.zip) | ready |
 | Web page: oldscool_windows_tools | winhex.zip | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/oldscool_windows_tools/winhex.zip) | [files/external/github-com/winhex-a9100615.zip](../../../../../files/external/github-com/winhex-a9100615.zip) | ready |
-| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip) | unknown | http-404 |
-| LensHell AIM progs | aimcreate11.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip) | unknown | http-404 |
+| AOLUnderground reference source-code tree | AOHELL95_source_code.zip | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/AOHELL95_source_code.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/AOHELL95_source_code.zip) | [files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip](../../../../../files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip) | ready |
+| AOLUnderground reference source-code tree | MMERHLP.HLP | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP) | [files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp](../../../../../files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp) | ready |
 
 ### Web Image Leads
 

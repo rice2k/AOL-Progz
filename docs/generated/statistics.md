@@ -90,30 +90,30 @@
 | Metric | Value |
 | --- | --- |
 | GitHub working-tree size | 3.2 GB |
-| Git object store size | 4.6 GB |
+| Git object store size | 4.7 GB |
 | files/ directory size | 2.9 GB |
 | assets/ directory size | 17.3 MB |
-| docs/ directory size | 68.9 MB |
-| data/ directory size | 190.4 MB |
+| docs/ directory size | 82.5 MB |
+| data/ directory size | 196.9 MB |
 | Crawled source pages | 1502 |
 | Crawled links | 19900 |
 | Crawled download links | 6258 |
-| Recovered external files | 582 |
-| Local recovered file records | 2639 |
-| External ZIPs scanned for text | 406 |
-| External ZIPs with readable text | 217 |
-| External ZIPs with author clues | 70 |
-| External ZIPs with version clues | 9 |
-| External ZIPs with purpose clues | 161 |
-| Missing candidates | 3111 |
-| Recovered missing candidates | 337 |
-| Master deduped link index | 33920 |
-| Deduped original/download URLs | 12855 |
+| Recovered external files | 686 |
+| Local recovered file records | 2743 |
+| External ZIPs scanned for text | 490 |
+| External ZIPs with readable text | 294 |
+| External ZIPs with author clues | 103 |
+| External ZIPs with version clues | 51 |
+| External ZIPs with purpose clues | 236 |
+| Missing candidates | 3149 |
+| Recovered missing candidates | 424 |
+| Master deduped link index | 39789 |
+| Deduped original/download URLs | 18689 |
 | Programs needing manual review | 1947 |
-| High-priority review entries | 1287 |
-| Medium-priority review entries | 660 |
+| High-priority review entries | 1288 |
+| Medium-priority review entries | 659 |
 | Low-priority coverage-gap entries | 157 |
-| Runtime DLL/OCX leads | 42 |
+| Runtime DLL/OCX leads | 44 |
 | DeadAIM/AIM enhancer leads | 7 |
 | AOL utility/client leads | 98 |
 | Winamp skin/media leads | 2 |

@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Fader / text styler, Idler / AFK bot, Room buster, C-Com / command list, Scroller / macro, Source / developer file.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,14 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
-| External ZIP text version mentions | unknown |
+| External ZIP text version mentions | AOL 40, AOL 4.0 |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | Fader / text styler, Idler / AFK bot, Room buster, C-Com / command list, Scroller / macro, Source / developer file, AOL/AIM chat utility, Media / file utility |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -43,26 +43,26 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 2 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
-| Category confidence | needs review |
+| Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
-| Source confidence | old-web lead |
-| Review priority | high (12) |
-| Manual review flags | main local file missing, category uncertain, type uncertain |
+| Source confidence | external mirror |
+| Review priority | high (14) |
+| Manual review flags | main local file missing, category uncertain, type uncertain, matched external ZIP text to verify |
 | Next research action | Check old-web mirrors and recovery pages for a recoverable local copy. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hider.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hider.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hider.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hider.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/hider.zip)
@@ -90,7 +90,11 @@ No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip](../../../../../files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip) | Hider.bas<br>Info.txt<br>file_id.diz | none | AOL 40<br>AOL 4.0 | Fader / text styler<br>Idler / AFK bot<br>Room buster<br>C-Com / command list<br>Scroller / macro<br>Source / developer file | 'This is my first bas for AOL It is for<br>Mail t3terminat, "This bas", "This is the best bas for AOL 4.0"<br>ChatRedYellowRed ("This prog made with Hider.bas") | [http://www.hider.com](http://www.hider.com)<br>[http://members.tripod.com/SonicTm](http://members.tripod.com/SonicTm)<br>[http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
 
 ### Source Mentions
 
@@ -111,6 +115,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: LensHell misc progs A-M | hider.zip | [http://lenshellarchive.com/Progs/aolprogs/hider.zip](http://lenshellarchive.com/Progs/aolprogs/hider.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/hider.zip) | unknown | http-404 |
 | Web page: LensHell Visual Basic | hiderfnl.zip | [http://lenshellarchive.com/VBfiles/hiderfnl.zip](http://lenshellarchive.com/VBfiles/hiderfnl.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip) | unknown | http-404 |
+| AOLUnderground reference source-code tree | hiderfnl.zip | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hiderfnl.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hiderfnl.zip) | [files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip](../../../../../files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip) | ready |
 
 ### Web Image Leads
 

@@ -592,7 +592,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Dub Cdplayer](../applications/pages/D/0617-dub-cdplayer.md) | dubcd | unknown | LensHell c-coms | ready: Web page: c-coms | unknown |
 | [DUMBASS PUNTER v1.0](../applications/pages/D/0618-dumbass-punter-v1-0.md) | DUMBASS PUNTER v1.0 | unknown | LensHell punters | http-404: Web page: punter's | unknown |
 | [Dune ToSer](../applications/pages/D/0619-dune-toser.md) | Dune ToSer | unknown | LensHell termers | http-404: Web page: termer's | unknown |
-| [Dupe Killer](../applications/pages/D/0620-dupe-killer.md) | Dupe Killer | unknown | LensHell Visual Basic<br>LensHell misc progs A-M<br>found-geocities-silicon-valley-files.txt | http-404: Web page: Visual Basic Section<br>http-404: Web page: prog's/misc a-m<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: LensHell AIM progs | unknown |
+| [Dupe Killer](../applications/pages/D/0620-dupe-killer.md) | Dupe Killer | unknown | LensHell Visual Basic<br>LensHell misc progs A-M<br>found-geocities-silicon-valley-files.txt | http-404: Web page: Visual Basic Section<br>http-404: Web page: prog's/misc a-m<br>ready: AOLUnderground reference source-code tree<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: LensHell AIM progs | unknown |
 | [duracell](../applications/pages/D/0621-duracell.md) | duracell | unknown | LensHell mailers and servers | http-404: Web page: mmer's/server's | unknown |
 | [dycesbusta](../applications/pages/D/0622-dycesbusta.md) | dycesbusta | unknown | LensHell busters | http-404: Web page: buster's | unknown |
 | [dycesidler2000](../applications/pages/D/0623-dycesidler2000.md) | dycesidler2000 | unknown | LensHell idlers | http-404: Web page: LensHell idlers | unknown |
@@ -1055,7 +1055,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Lazer_Linka](../applications/pages/L/1105-lazer-linka.md) | Lazer_Linka | unknown | LensHell misc progs A-M | unknown | [http://www.iec.ch](http://www.iec.ch)<br>[http://www.kapix2k.net](http://www.kapix2k.net) |
 | [lazy_beta-build_1](../applications/pages/L/1106-lazy-beta-build-1.md) | lazy_beta-build_1 | unknown | LensHell c-coms | unknown | unknown |
 | [Lazy_Idle](../applications/pages/L/1107-lazy-idle.md) | Lazy_Idle | unknown | LensHell idlers | unknown | unknown |
-| [lazyassgold1](../applications/pages/L/1108-lazyassgold1.md) | lazyassgold1 | unknown | LensHell misc progs A-M | candidate: LensHell misc progs A-M | unknown |
+| [lazyassgold1](../applications/pages/L/1108-lazyassgold1.md) | lazyassgold1 | unknown | LensHell misc progs A-M | ready: AOLUnderground reference source-code tree<br>candidate: LensHell misc progs A-M | unknown |
 | [LazyBoy](../applications/pages/L/1109-lazyboy.md) | LazyBoy | unknown | LensHell misc progs A-M | unknown | unknown |
 | [Le-Fader](../applications/pages/L/1110-le-fader.md) | Le-Fader | unknown | Aol 4.0/5.0 Progs<br>found-geocities-silicon-valley-files.txt<br>LensHell faders | http-404: Web page: Aol 4.0/5.0 Progs<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: LensHell misc progs A-M<br>candidate: LensHell misc progs A-M<br>candidate: found-geocities-silicon-valley-files.txt | unknown |
 | [Ledge Buster Yr 2000](../applications/pages/L/1111-ledge-buster-yr-2000.md) | Ledge | unknown | LensHell busters | unknown | unknown |
@@ -1163,7 +1163,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Manefest Idler Year 2000](../applications/pages/M/1215-manefest-idler-year-2000.md) | Manefest | unknown | LensHell idlers | unknown | unknown |
 | [manteca](../applications/pages/M/1216-manteca.md) | manteca | unknown | LensHell c-coms | unknown | unknown |
 | [Mm](../applications/pages/M/1217-mm.md) | maps | unknown | found-geocities-silicon-valley-files.txt | unknown | unknown |
-| [Mario](../applications/pages/M/1218-mario.md) | mario | unknown | Aol 4.0/5.0 Progs<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>Section 2 | http-404: Web page: Aol 4.0/5.0 Progs<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | unknown |
+| [Mario](../applications/pages/M/1218-mario.md) | mario | unknown | Aol 4.0/5.0 Progs<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>Section 2 | http-404: Web page: Aol 4.0/5.0 Progs<br>ready: AOLUnderground reference source-code tree<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | unknown |
 | [mario6](../applications/pages/M/1219-mario6.md) | mario6 | unknown | LensHell misc progs A-M | unknown | unknown |
 | [mariolair2](../applications/pages/M/1220-mariolair2.md) | mariolair2 | unknown | LensHell misc progs A-M | unknown | unknown |
 | [mariomp3](../applications/pages/M/1221-mariomp3.md) | mariomp3 | unknown | LensHell c-coms | unknown | unknown |
@@ -1307,7 +1307,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Nyte Lag](../applications/pages/N/1366-nyte-lag.md) | Nyte Lag | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [N° Bßs φdlΘr](../applications/pages/N/1367-n-bs-dlr.md) | N° Bßs φdlΘr | unknown | LensHell idlers | unknown | unknown |
 | [N° Bßs φdlΘr 2.0](../applications/pages/N/1368-n-bs-dlr-2-0.md) | N° Bßs φdlΘr 2.0 | unknown | LensHell idlers | unknown | unknown |
-| [Nùclear](../applications/pages/N/1369-nuclear.md) | Nùclear | unknown | LensHell punters<br>LensHell misc progs N-Z<br>LensHell Visual Basic | unknown | unknown |
+| [Nùclear](../applications/pages/N/1369-nuclear.md) | Nùclear | unknown | LensHell punters<br>LensHell misc progs N-Z<br>LensHell Visual Basic | ready: AOLUnderground reference source-code tree | unknown |
 | [o2scan](../applications/pages/O/1370-o2scan.md) | o2scan | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Oblivian Idler And 5.0](../applications/pages/O/1371-oblivian-idler-and-5-0.md) | oblivian | unknown | LensHell idlers | unknown | unknown |
 | [OCF3FINL](../applications/pages/O/1372-ocf3finl.md) | OCF3FINL | unknown | LensHell misc progs N-Z | unknown | unknown |
@@ -1400,7 +1400,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [pmpsetup](../applications/pages/P/1465-pmpsetup.md) | pmpsetup | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Pmsbeta](../applications/pages/P/1466-pmsbeta.md) | pms | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [PoA 30](../applications/pages/P/1467-poa-30.md) | PoA 30 | unknown | LensHell misc progs N-Z | unknown | unknown |
-| [PoA AoL Notify remover final beta 6](../applications/pages/P/1468-poa-aol-notify-remover-final-beta-6.md) | PoA AoL Notify remover final beta 6 | unknown | LensHell Visual Basic<br>LensHell misc progs N-Z | candidate: LensHell Visual Basic | unknown |
+| [PoA AoL Notify remover final beta 6](../applications/pages/P/1468-poa-aol-notify-remover-final-beta-6.md) | PoA AoL Notify remover final beta 6 | unknown | LensHell Visual Basic<br>LensHell misc progs N-Z | ready: AOLUnderground reference source-code tree<br>candidate: LensHell Visual Basic | unknown |
 | [poanot](../applications/pages/P/1469-poanot.md) | poanot | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Poboy's C-Com 2 And 5](../applications/pages/P/1470-poboys-c-com-2-and-5.md) | poboy | unknown | LensHell c-coms | unknown | unknown |
 | [poisonus](../applications/pages/P/1471-poisonus.md) | poisonus | unknown | LensHell misc progs N-Z<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | unknown | unknown |
@@ -1532,7 +1532,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Reload](../applications/pages/R/1603-reload.md) | Reload | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Reload~1](../applications/pages/R/1604-reload1.md) | Reload~1 | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Remix C-Com Mp 3 Player Beta](../applications/pages/R/1605-remix-c-com-mp-3-player-beta.md) | Remix | unknown | LensHell AIM progs<br>LensHell AIM progs<br>9<br>AIM<br>Hadez progs<br>LensHell c-coms | failed: Web page: 9<br>http-404: Web page: Hadez progs<br>http-404: Web page: LensHell AIM progs<br>http-404: Web page: LensHell AIM progs<br>candidate: LensHell c-coms | unknown |
-| [Remixed Audio²](../applications/pages/R/1606-remixed-audio2.md) | Remixed Audio² | unknown | LensHell Visual Basic<br>LensHell misc progs N-Z | ready: ProgzRescue Angelfire files<br>candidate: LensHell Visual Basic | unknown |
+| [Remixed Audio²](../applications/pages/R/1606-remixed-audio2.md) | Remixed Audio² | unknown | LensHell Visual Basic<br>LensHell misc progs N-Z | ready: ProgzRescue Angelfire files<br>ready: AOLUnderground reference source-code tree<br>candidate: LensHell Visual Basic | unknown |
 | [remote](../applications/pages/R/1607-remote.md) | remote | unknown | Progs Section 1<br>found-geocities-silicon-valley-files.txt<br>Misc/<br>LensHell AIM progs<br>LensHell idlers<br>Section 2 | ready: ProgzRescue Angelfire files<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: Progs Section 1<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: Misc/ | unknown |
 | [Remote Silence](../applications/pages/R/1608-remote-silence.md) | Remote Silence | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [repell](../applications/pages/R/1609-repell.md) | repell | unknown | LensHell c-coms | unknown | unknown |
@@ -1621,7 +1621,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [sigfader](../applications/pages/S/1697-sigfader.md) | sigfader | unknown | LensHell faders | unknown | unknown |
 | [signoff](../applications/pages/S/1699-signoff.md) | signoff | unknown | LensHell misc progs A-M | unknown | unknown |
 | [silence](../applications/pages/S/1700-silence.md) | silence | unknown | LensHell xers | ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>http-404: Aim Crackers | unknown |
-| [Silent Ascii](../applications/pages/S/1701-silent-ascii.md) | Silent Ascii | unknown | LensHell misc progs N-Z<br>Symantec/ | unknown | unknown |
+| [Silent Ascii](../applications/pages/S/1701-silent-ascii.md) | Silent Ascii | unknown | LensHell misc progs N-Z<br>Symantec/ | ready: AOLUnderground reference source-code tree | unknown |
 | [SilentAuto2](../applications/pages/S/1702-silentauto2.md) | SilentAuto2 | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Silva Spamma 2K](../applications/pages/S/1703-silva-spamma-2k.md) | Silva Spamma 2K | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [silver2K1 idler](../applications/pages/S/1704-silver2k1-idler.md) | silver2K1 idler | unknown | LensHell idlers | unknown | unknown |
@@ -2016,7 +2016,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [«-»UFG Idle«-»](../applications/pages/0-9-symbols/2120-ufg-idle.md) | «-»UFG Idle«-» | unknown | LensHell idlers | unknown | unknown |
 | [°rbital](../applications/pages/0-9-symbols/2121-rbital.md) | °rbital | unknown | LensHell punters | unknown | unknown |
 | [°rbital](../applications/pages/0-9-symbols/2122-rbital.md) | °rbital | unknown | LensHell punters | unknown | unknown |
-| [· Hider ·](../applications/pages/0-9-symbols/2123-hider.md) | · Hider · | unknown | LensHell misc progs A-M<br>LensHell Visual Basic | http-404: Web page: LensHell misc progs A-M<br>http-404: Web page: LensHell Visual Basic | unknown |
+| [· Hider ·](../applications/pages/0-9-symbols/2123-hider.md) | · Hider · | unknown | LensHell misc progs A-M<br>LensHell Visual Basic | http-404: Web page: LensHell misc progs A-M<br>http-404: Web page: LensHell Visual Basic<br>ready: AOLUnderground reference source-code tree | unknown |
 | [áccessories² · clone](../applications/pages/0-9-symbols/2125-accessories2-clone.md) | áccessories² · clone | unknown | LensHell idlers | http-404: Web page: idler's | unknown |
 | [Aoblunted C-Com](../applications/pages/0-9-symbols/2126-aoblunted-c-com.md) | åòblunted | unknown | LensHell c-coms | unknown | unknown |
 | [êVêr¥da¥ Atrcit¥](../applications/pages/0-9-symbols/2127-everda-atrcit.md) | êVêr¥da¥ Atrcit¥ | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | unknown |

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T23:03:25.992Z",
+  "generatedAt": "2026-07-17T01:15:10.518Z",
   "programCount": 2139,
   "programsWithImprovedNames": 519,
   "programsWithInferredAuthors": 10,
@@ -13,8 +13,8 @@
   "programsWithWebMentions": 7,
   "programsWithWebDownloadLinks": 2010,
   "programsWithWebImageLinks": 80,
-  "programsWithMirrorLinks": 981,
-  "programsWithExternalArchiveTextEvidence": 51,
+  "programsWithMirrorLinks": 983,
+  "programsWithExternalArchiveTextEvidence": 58,
   "fetchedDetails": [
     {
       "name": "AOLUnderground.com ProGGieS",
@@ -33161,6 +33161,15 @@
           "matchedBy": "exact:dupekiller"
         },
         {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "dupekill.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dupekill.zip",
+          "localPath": "files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip",
+          "status": "ready",
+          "matchedBy": "loose:dupekiller"
+        },
+        {
           "sourceName": "found-geocities-silicon-valley-files.txt",
           "label": "killer.zip",
           "originalUrl": "http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip",
@@ -33179,7 +33188,26 @@
           "matchedBy": "loose:0620-dupe-killer"
         }
       ],
-      "externalArchiveTextEvidence": []
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "dupekill.zip",
+          "localPath": "files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dupekill.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "DUPEKILL.bas"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "loose:dupekiller"
+        }
+      ]
     },
     "prog-0621-duracell": {
       "programId": "prog-0621-duracell",
@@ -59051,6 +59079,15 @@
       "webImageLinks": [],
       "mirrorLinks": [
         {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "lazyass.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/lazyass.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/lazyass.zip",
+          "localPath": "files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip",
+          "status": "ready",
+          "matchedBy": "loose:1108-lazyassgold1"
+        },
+        {
           "sourceName": "LensHell misc progs A-M",
           "label": "lazyass.zip",
           "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
@@ -59060,7 +59097,65 @@
           "matchedBy": "loose:1108-lazyassgold1"
         }
       ],
-      "externalArchiveTextEvidence": []
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "lazyass.zip",
+          "localPath": "files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/lazyass.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/lazyass.zip",
+          "textFileCount": 21,
+          "textFiles": [
+            "Lazy Ass.ini",
+            "Form1.frm",
+            "Form9.frm",
+            "Form2.frm",
+            "afk.frm",
+            "Form3.frm",
+            "Form4.frm",
+            "Module1.bas",
+            "Form5.frm",
+            "Form6.frm",
+            "fire.bas",
+            "Form7.frm",
+            "Form8.frm",
+            "ascii.txt",
+            "Form1.log",
+            "FIREA.bas",
+            "afk.log",
+            "Copy of afk.frm",
+            "data/lazyini/Lazy Ass.ini",
+            "data/Lazy Ass.ini",
+            "FORM7.log"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Account / TOS utility",
+            "Source / developer file",
+            "Media / file utility",
+            "Fader / text styler",
+            "Idler / AFK bot",
+            "Room buster",
+            "Punter / booter",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Linker / chat linker",
+            "Screen-name utility",
+            "AOL/AIM chat utility",
+            "All-in-one prog suite"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "FORM7.log",
+              "text": "Version number missing or invalid; Visual Basic 4.0 assumed."
+            }
+          ],
+          "urls": [],
+          "matchedBy": "loose:1108-lazyassgold1"
+        }
+      ]
     },
     "prog-1109-lazyboy": {
       "programId": "prog-1109-lazyboy",
@@ -64046,6 +64141,15 @@
           "matchedBy": "loose:mario"
         },
         {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "mario2000v2.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mario2000v2.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mario2000v2.zip",
+          "localPath": "files/external/raw-githubusercontent-com/mario2000v2-f3c37431.zip",
+          "status": "ready",
+          "matchedBy": "loose:mario"
+        },
+        {
           "sourceName": "Section 2",
           "label": "marioonlinev5.zip",
           "originalUrl": "http://www.cybernyse.com/downlowdz/marioonlinev5.zip",
@@ -64064,7 +64168,43 @@
           "matchedBy": "loose:mario"
         }
       ],
-      "externalArchiveTextEvidence": []
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "mario2000v2.zip",
+          "localPath": "files/external/raw-githubusercontent-com/mario2000v2-f3c37431.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mario2000v2.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mario2000v2.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "Mario2000v2.bas"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Fader / text styler",
+            "Scroller / macro",
+            "Screen-name utility",
+            "Source / developer file",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [
+            "AOL 4.0"
+          ],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "Mario2000v2.bas",
+              "text": "' Hey, I made Mario2000v2 because the first version had"
+            },
+            {
+              "sourceFile": "Mario2000v2.bas",
+              "text": "' errors,so this version was checked and no errors were"
+            }
+          ],
+          "urls": [],
+          "matchedBy": "loose:mario"
+        }
+      ]
     },
     "prog-1219-mario6": {
       "programId": "prog-1219-mario6",
@@ -71129,8 +71269,56 @@
           "kind": "crawled image"
         }
       ],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "nuclear32.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nuclear32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nuclear32.zip",
+          "localPath": "files/external/raw-githubusercontent-com/nuclear32-e1ae013a.zip",
+          "status": "ready",
+          "matchedBy": "loose:nuclear"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "nuclear32.zip",
+          "localPath": "files/external/raw-githubusercontent-com/nuclear32-e1ae013a.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nuclear32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nuclear32.zip",
+          "textFileCount": 5,
+          "textFiles": [
+            "NuclearTest.vbp",
+            "NuclearbasTest.frm",
+            "Nuclear32.bas",
+            "Nuclear32.basInfo.txt",
+            "file_id.diz"
+          ],
+          "preferredAuthor": "Hider",
+          "authorCandidates": [
+            {
+              "name": "Hider",
+              "sourceFile": "Nuclear32.bas",
+              "pattern": "trailing by"
+            }
+          ],
+          "purposeSignals": [
+            "Source / developer file",
+            "AOL/AIM chat utility",
+            "Media / file utility"
+          ],
+          "versionMentions": [
+            "AOL 4.0"
+          ],
+          "descriptionCandidates": [],
+          "urls": [
+            "http://www.hider.com",
+            "http://www.hider.com/sonic/"
+          ],
+          "matchedBy": "loose:nuclear"
+        }
+      ]
     },
     "prog-1370-o2scan": {
       "programId": "prog-1370-o2scan",
@@ -75388,6 +75576,15 @@
       "webImageLinks": [],
       "mirrorLinks": [
         {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "mover.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mover.zip",
+          "localPath": "files/external/raw-githubusercontent-com/mover-d3c41319.zip",
+          "status": "ready",
+          "matchedBy": "loose:1468-poa-aol-notify-remover-final-beta-6"
+        },
+        {
           "sourceName": "LensHell Visual Basic",
           "label": "mover.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/mover.zip",
@@ -75397,7 +75594,40 @@
           "matchedBy": "loose:1468-poa-aol-notify-remover-final-beta-6"
         }
       ],
-      "externalArchiveTextEvidence": []
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "mover.zip",
+          "localPath": "files/external/raw-githubusercontent-com/mover-d3c41319.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mover.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "mover.bas"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Source / developer file"
+          ],
+          "versionMentions": [
+            "AOL 4",
+            "AOL 4.0"
+          ],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "mover.bas",
+              "text": "'this was made in Vb 5 Pro but works with all versions"
+            },
+            {
+              "sourceFile": "mover.bas",
+              "text": "'this is for aol 4.o all thought there is not may subs"
+            }
+          ],
+          "urls": [],
+          "matchedBy": "loose:1468-poa-aol-notify-remover-final-beta-6"
+        }
+      ]
     },
     "prog-1469-poanot": {
       "programId": "prog-1469-poanot",
@@ -81989,6 +82219,15 @@
           "matchedBy": "loose:remixed-audio2"
         },
         {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "mixed.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mixed.zip",
+          "localPath": "files/external/raw-githubusercontent-com/mixed-add66cd4.zip",
+          "status": "ready",
+          "matchedBy": "loose:remixed-audio2"
+        },
+        {
           "sourceName": "LensHell Visual Basic",
           "label": "mixed.zip",
           "originalUrl": "http://lenshellarchive.com/VBfiles/mixed.zip",
@@ -82017,6 +82256,42 @@
             "AOL/AIM chat utility"
           ],
           "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "loose:remixed-audio2"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "mixed.zip",
+          "localPath": "files/external/raw-githubusercontent-com/mixed-add66cd4.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mixed.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "mixed.bas"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "All-in-one prog suite",
+            "Fader / text styler",
+            "Idler / AFK bot",
+            "Room buster",
+            "Punter / booter",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Mass mailer / server",
+            "Account / TOS utility",
+            "Screen-name utility",
+            "Source / developer file",
+            "Media / file utility",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [
+            "AOL 30",
+            "AOL 1",
+            "AOL 25"
+          ],
           "descriptionCandidates": [],
           "urls": [],
           "matchedBy": "loose:remixed-audio2"
@@ -86388,8 +86663,44 @@
         }
       ],
       "webImageLinks": [],
-      "mirrorLinks": [],
-      "externalArchiveTextEvidence": []
+      "mirrorLinks": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "silentascii.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/silentascii.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/silentascii.zip",
+          "localPath": "files/external/raw-githubusercontent-com/silentascii-309c3944.zip",
+          "status": "ready",
+          "matchedBy": "exact:silentascii"
+        }
+      ],
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "silentascii.zip",
+          "localPath": "files/external/raw-githubusercontent-com/silentascii-309c3944.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/silentascii.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/silentascii.zip",
+          "textFileCount": 2,
+          "textFiles": [
+            "Silent Ascii/About.txt",
+            "Silent Ascii/dos32.bas"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Scroller / macro",
+            "Fader / text styler",
+            "Screen-name utility",
+            "Source / developer file",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "exact:silentascii"
+        }
+      ]
     },
     "prog-1702-silentauto2": {
       "programId": "prog-1702-silentauto2",
@@ -98326,21 +98637,21 @@
           "matchedBy": "loose:underground"
         },
         {
-          "sourceName": "LensHell AIM progs",
-          "label": "aimcreate11.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate11.zip",
-          "localPath": "",
-          "status": "http-404",
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "AOHELL95_source_code.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "localPath": "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip",
+          "status": "ready",
           "matchedBy": "loose:underground"
         },
         {
-          "sourceName": "LensHell AIM progs",
-          "label": "aimcreate11.zip",
-          "originalUrl": "http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
-          "waybackUrl": "https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/aimcreate21.zip",
-          "localPath": "",
-          "status": "http-404",
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "MMERHLP.HLP",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+          "localPath": "files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp",
+          "status": "ready",
           "matchedBy": "loose:underground"
         }
       ],
@@ -98442,6 +98753,264 @@
           "urls": [
             "http://www.winhex.com",
             "http://support.microsoft.com/support/kb/articles/Q153/9/73.asp"
+          ],
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "AOHELL95_source_code.zip",
+          "localPath": "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "textFileCount": 48,
+          "textFiles": [
+            "AOH/WNOTE.FRM",
+            "AOH/WELCOME.FRM",
+            "AOH/WAREZBOT.FRM",
+            "AOH/WAREZBOT.BAS",
+            "AOH/WAIT.FRM",
+            "AOH/VBMSG.BAS",
+            "AOH/AC/VBMSG.BAS",
+            "AOH/VBINST.BAS",
+            "AOH/THEBOT.FRM",
+            "AOH/SUGGEST.FRM",
+            "AOH/STATUS.FRM",
+            "AOH/SMALLPAC.FRM",
+            "AOH/SHOWWIN.FRM",
+            "AOH/SGROUP.FRM",
+            "AOH/SEARCH.FRM",
+            "AOH/SEARCH.BAS",
+            "AOH/SCROLL.FRM",
+            "AOH/ROOMBUST.FRM",
+            "AOH/RESETSN1.FRM",
+            "AOH/RESETSN.FRM",
+            "AOH/RANDOM.FRM",
+            "AOH/QUICKFTP.FRM",
+            "AOH/PWAIT.FRM",
+            "AOH/PUNTSTAT.FRM",
+            "AOH/PUNT.FRM",
+            "AOH/PHISH.FRM",
+            "AOH/PACKSTAT.FRM",
+            "AOH/ODMENU.BAS",
+            "AOH/MULTICHA.FRM",
+            "AOH/MMWAIT.FRM"
+          ],
+          "preferredAuthor": "control",
+          "authorCandidates": [
+            {
+              "name": "control",
+              "sourceFile": "AOH/VBMSG.BAS",
+              "pattern": "trailing by"
+            }
+          ],
+          "purposeSignals": [
+            "All-in-one prog suite",
+            "Mass mailer / server",
+            "AOL/AIM chat utility",
+            "Screen-name utility",
+            "Media / file utility",
+            "Idler / AFK bot",
+            "Source / developer file",
+            "Account / TOS utility",
+            "Scroller / macro",
+            "Room buster",
+            "Punter / booter"
+          ],
+          "versionMentions": [
+            "AOL 2.5"
+          ],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "AOH/VBMSG.BAS",
+              "text": "usVersion As Integer 'VB version used by control"
+            },
+            {
+              "sourceFile": "AOH/THEBOT.FRM",
+              "text": "'MsgBox \"You must check the Re-Enter box to use the Re-Enter feature.\""
+            },
+            {
+              "sourceFile": "AOH/THEBOT.FRM",
+              "text": "MsgBox \"You must be signed on to AOL before you can use this feature!\", 16, \"Not Signed On!\""
+            },
+            {
+              "sourceFile": "AOH/THEBOT.FRM",
+              "text": "'MsgBox \" Thank You For Using The AOL-BOT By The Rizzer/Chr\" + Chr$(13) + \"Look For more Features SOON!\""
+            },
+            {
+              "sourceFile": "AOH/SEARCH.FRM",
+              "text": "l0114 = \"You Must Be Online To Use This Feature.\""
+            },
+            {
+              "sourceFile": "AOH/SEARCH.FRM",
+              "text": "l0114 = \"You Must Have WAOL Running To Use This Feature.\""
+            },
+            {
+              "sourceFile": "AOH/SEARCH.FRM",
+              "text": "MsgBox \"Sorry Sweetalk timed out waiting for AOL to respond\", 48, \"Sweetalk\""
+            },
+            {
+              "sourceFile": "AOH/MM2.FRM",
+              "text": "MsgBox \"You must be signed on to AOL before using this feature.\", 16, \"Not Signed On!\""
+            }
+          ],
+          "urls": [],
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "vbforms.zip",
+          "localPath": "files/external/raw-githubusercontent-com/vbforms-68a660aa.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/forms/vbforms.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/forms/vbforms.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "linkex~1.zip"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Source / developer file"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "aol32.zip",
+          "localPath": "files/external/raw-githubusercontent-com/aol32-fcedeaea.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aol32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/aol32.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "aol_32.bas"
+          ],
+          "preferredAuthor": "another one of my functions",
+          "authorCandidates": [
+            {
+              "name": "another one of my functions",
+              "sourceFile": "aol_32.bas",
+              "pattern": "trailing by"
+            }
+          ],
+          "purposeSignals": [
+            "Source / developer file",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [],
+          "urls": [],
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "aolmacros.zip",
+          "localPath": "files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+          "textFileCount": 1,
+          "textFiles": [
+            "AolMacros.bas"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "All-in-one prog suite",
+            "Fader / text styler",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Media / file utility",
+            "AOL/AIM chat utility"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "AolMacros.bas",
+              "text": "'This bas is 100% macros! made for aol"
+            },
+            {
+              "sourceFile": "AolMacros.bas",
+              "text": "'they release a new version. Look on lenshell.com"
+            }
+          ],
+          "urls": [],
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "chaos232.zip",
+          "localPath": "files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/chaos232.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/chaos232.zip",
+          "textFileCount": 2,
+          "textFiles": [
+            "CHAOS232.bas",
+            "file_id.diz"
+          ],
+          "preferredAuthor": "my Boy",
+          "authorCandidates": [
+            {
+              "name": "my Boy",
+              "sourceFile": "CHAOS232.bas",
+              "pattern": "inline byline"
+            }
+          ],
+          "purposeSignals": [
+            "All-in-one prog suite",
+            "Fader / text styler",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Mass mailer / server",
+            "Account / TOS utility",
+            "Screen-name utility",
+            "Source / developer file",
+            "AOL/AIM chat utility",
+            "Media / file utility"
+          ],
+          "versionMentions": [
+            "AOL 3",
+            "AOL 4",
+            "AOL 40",
+            "AOL 4.0"
+          ],
+          "descriptionCandidates": [],
+          "urls": [
+            "http://www.hider.com/sonic/"
+          ],
+          "matchedBy": "loose:underground"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "cracksource.zip",
+          "localPath": "files/external/raw-githubusercontent-com/cracksource-1c16975b.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/cracksource.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/cracksource.zip",
+          "textFileCount": 3,
+          "textFiles": [
+            "frmMain.frm",
+            "modCracker.bas",
+            "prjCracker.vbp"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Fader / text styler",
+            "Account / TOS utility",
+            "Screen-name utility",
+            "Source / developer file",
+            "Media / file utility",
+            "Mass mailer / server"
+          ],
+          "versionMentions": [],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "frmMain.frm",
+              "text": "Private Sub sckCrack_Error(Index As Integer, ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean)"
+            }
+          ],
+          "urls": [
+            "http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user="
           ],
           "matchedBy": "loose:underground"
         }
@@ -104142,9 +104711,68 @@
           "localPath": "",
           "status": "http-404",
           "matchedBy": "loose:hider"
+        },
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "hiderfnl.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "localPath": "files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip",
+          "status": "ready",
+          "matchedBy": "loose:hider"
         }
       ],
-      "externalArchiveTextEvidence": []
+      "externalArchiveTextEvidence": [
+        {
+          "sourceName": "AOLUnderground reference source-code tree",
+          "label": "hiderfnl.zip",
+          "localPath": "files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "textFileCount": 3,
+          "textFiles": [
+            "Hider.bas",
+            "Info.txt",
+            "file_id.diz"
+          ],
+          "preferredAuthor": "",
+          "authorCandidates": [],
+          "purposeSignals": [
+            "Fader / text styler",
+            "Idler / AFK bot",
+            "Room buster",
+            "C-Com / command list",
+            "Scroller / macro",
+            "Source / developer file",
+            "AOL/AIM chat utility",
+            "Media / file utility"
+          ],
+          "versionMentions": [
+            "AOL 40",
+            "AOL 4.0"
+          ],
+          "descriptionCandidates": [
+            {
+              "sourceFile": "Hider.bas",
+              "text": "'This is my first bas for AOL It is for"
+            },
+            {
+              "sourceFile": "Hider.bas",
+              "text": "Mail t3terminat, \"This bas\", \"This is the best bas for AOL 4.0\""
+            },
+            {
+              "sourceFile": "Hider.bas",
+              "text": "ChatRedYellowRed (\"This prog made with Hider.bas\")"
+            }
+          ],
+          "urls": [
+            "http://www.hider.com",
+            "http://members.tripod.com/SonicTm",
+            "http://www.hider.com/sonic/"
+          ],
+          "matchedBy": "loose:hider"
+        }
+      ]
     },
     "prog-2124-lackr-chat-punter": {
       "programId": "prog-2124-lackr-chat-punter",

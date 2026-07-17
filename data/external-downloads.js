@@ -1,12 +1,12 @@
 window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
-  "generatedAt": "2026-07-16T22:40:11.673Z",
+  "generatedAt": "2026-07-17T01:09:31.268Z",
   "sourceListCount": 3,
-  "candidateCount": 19605,
-  "downloadCount": 2207,
-  "readyCount": 582,
-  "mirrorGroupCount": 1794,
+  "candidateCount": 19709,
+  "downloadCount": 2311,
+  "readyCount": 686,
+  "mirrorGroupCount": 1880,
   "byStatus": {
-    "ready": 582,
+    "ready": 686,
     "invalid-archive": 8,
     "empty-file": 1,
     "http-404": 1571,
@@ -3027,6 +3027,71 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 9
     },
     {
+      "key": "buster-zip",
+      "name": "buster.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/buster.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.cybernyse.com/downlowdz/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/buster.zip",
+          "sourceList": "Web page: Section 2",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://24.185.191.87/progz/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/buster.zip",
+          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/buster.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/buster.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/extreme/mesut/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme/mesut/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/buster-d63320e2.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 9
+    },
+    {
       "key": "chatscan3-zip",
       "name": "chatscan3.zip",
       "mirrors": [
@@ -3279,63 +3344,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "localFiles": [],
       "readyCount": 0,
       "totalMirrors": 9
-    },
-    {
-      "key": "buster-zip",
-      "name": "buster.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/buster.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.cybernyse.com/downlowdz/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/buster.zip",
-          "sourceList": "Web page: Section 2",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://24.185.191.87/progz/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/buster.zip",
-          "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/extreme/mesut/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme/mesut/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/freak2/devilzish_downloads/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ex/4lcini0us_th4_g4nkst/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ns/cutebunzz/images/buster.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/compaq/542/buster.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 8
     },
     {
       "key": "cracker-zip",
@@ -4885,6 +4893,53 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 6
     },
     {
+      "key": "monkefade3-zip",
+      "name": "monkefade3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/monkefade3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/monkefade3.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
+          "sourceList": "Web page: found-geocities-silicon-valley-files.txt",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/monkefade3.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/monkefade3.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/scifi2/gongysdojo/monkefade3.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi2/gongysdojo/monkefade3.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/376/monkefade3.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/376/monkefade3.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/nova/864/monkefade3.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/nova/864/monkefade3.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/monkefade3-e25d17da.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 6
+    },
+    {
       "key": "mswinsck-zip",
       "name": "mswinsck.zip",
       "mirrors": [
@@ -5188,6 +5243,47 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 5
     },
     {
+      "key": "aol32-zip",
+      "name": "aol32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/aol32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aol32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/aol32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/centre/493/aol32.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/centre/493/aol32.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/pascoe/467/aol32.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/pascoe/467/aol32.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/solarcity/224/bas/aol32.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/solarcity/224/bas/aol32.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/aol32-fcedeaea.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 5
+    },
+    {
       "key": "aol40-zip",
       "name": "aol40.zip",
       "mirrors": [
@@ -5382,6 +5478,47 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 5
+    },
+    {
+      "key": "dos32-zip",
+      "name": "dos32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dos32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://server39.hypermart.net/wipeout/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip",
+          "sourceList": "Web page: VISUAL BASIC",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
+          "waybackUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
+          "sourceList": "Web page: Alpha32",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/dos32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/dos32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/journal/vb/download/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/journal/vb/download/dos32.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/dos32-ccad63a8.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 5
     },
     {
@@ -5649,45 +5786,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.fortunecity.com/skyscraper/photoshop/1934/mario.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/photoshop/1934/mario.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 5
-    },
-    {
-      "key": "monkefade3-zip",
-      "name": "monkefade3.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/monkefade3.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/monkefade3.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
-          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
-          "sourceList": "Web page: found-geocities-silicon-valley-files.txt",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/scifi2/gongysdojo/monkefade3.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/scifi2/gongysdojo/monkefade3.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/376/monkefade3.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/376/monkefade3.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/nova/864/monkefade3.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/nova/864/monkefade3.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
@@ -6942,39 +7040,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
-      "key": "aol32-zip",
-      "name": "aol32.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/aol32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aol32.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/centre/493/aol32.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/centre/493/aol32.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/pascoe/467/aol32.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/pascoe/467/aol32.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/solarcity/224/bas/aol32.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/solarcity/224/bas/aol32.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 4
-    },
-    {
       "key": "blackice-zip",
       "name": "blackice.zip",
       "mirrors": [
@@ -7206,36 +7271,38 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 4
     },
     {
-      "key": "dos32-zip",
-      "name": "dos32.zip",
+      "key": "cryofade-zip",
+      "name": "cryofade.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dos32.zip",
+          "originalUrl": "http://lenshellarchive.com/VBfiles/cryofade.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofade.zip",
           "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://server39.hypermart.net/wipeout/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip",
-          "sourceList": "Web page: VISUAL BASIC",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/cryofade.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/cryofade.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
-          "waybackUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
-          "sourceList": "Web page: Alpha32",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/journal/vb/download/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/journal/vb/download/dos32.zip",
+          "originalUrl": "http://www.angelfire.com/ma/sk8hard111/images/cryofade.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ma/sk8hard111/images/cryofade.zip",
           "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/646/cryofade.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/646/cryofade.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/cryofade-db2fe877.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 4
     },
     {
@@ -7832,6 +7899,77 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 4
+    },
+    {
+      "key": "mixed-zip",
+      "name": "mixed.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/mixed.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mixed.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/electronic2/progz101/mixed.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/electronic2/ultimatecrackas/mixed.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/ultimatecrackas/mixed.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/angelfire-com/mixed-2e564198.zip",
+        "files/external/raw-githubusercontent-com/mixed-add66cd4.zip"
+      ],
+      "readyCount": 2,
+      "totalMirrors": 4
+    },
+    {
+      "key": "msgbox-zip",
+      "name": "msgbox.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/msgbox.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/msgbox.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/msgbox.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/msgbox.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/empire/deathzone/vb/examples/msgbox.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/empire/deathzone/vb/examples/msgbox.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/extreme4/vbbreakdown/msgbox.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme4/vbbreakdown/msgbox.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/msgbox-f9fb0a90.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 4
     },
     {
@@ -10264,6 +10402,64 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "aolmacros-zip",
+      "name": "aolmacros.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/aolmacros.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aolmacros.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacros.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/aolmacros.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 3
+    },
+    {
+      "key": "arc-zip",
+      "name": "arc.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/arc.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arc.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arc.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/arc.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/poetry/vbpoet/vb/arc.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/poetry/vbpoet/vb/arc.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/arc-aba7a0cb.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 3
+    },
+    {
       "key": "autoruns-exe",
       "name": "autoruns.exe",
       "mirrors": [
@@ -10616,6 +10812,35 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/lenshellarchive-com/cchat-f93bd137.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 3
+    },
+    {
+      "key": "chaos232-zip",
+      "name": "chaos232.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/chaos232.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/chaos232.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/chaos232.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/chaos232.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chaos232.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/chaos232.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 3
@@ -11140,6 +11365,36 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "cracksource-zip",
+      "name": "cracksource.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/cracksource.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cracksource.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/cracksource.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/cracksource.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/tx5/goldice/cracksource.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/tx5/goldice/cracksource.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/angelfire-com/cracksource.zip",
+        "files/external/raw-githubusercontent-com/cracksource-1c16975b.zip"
+      ],
+      "readyCount": 2,
+      "totalMirrors": 3
+    },
+    {
       "key": "crackwhore-zip",
       "name": "crackwhore.zip",
       "mirrors": [
@@ -11242,33 +11497,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://www.angelfire.com/mech/ti-83/86/programs/creamrul.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/mech/ti-83/86/programs/creamrul.zip",
           "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 3
-    },
-    {
-      "key": "cryofade-zip",
-      "name": "cryofade.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/cryofade.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofade.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/ma/sk8hard111/images/cryofade.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/ma/sk8hard111/images/cryofade.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/646/cryofade.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/646/cryofade.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
       ],
@@ -12232,6 +12460,35 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "hixaim2-zip",
+      "name": "hixaim2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/hixaim2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hixaim2.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hixaim2.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hixaim2.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/376/hixaim2.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/376/hixaim2.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/hixaim2-e7657a70.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 3
+    },
+    {
       "key": "hotmail-zip",
       "name": "hotmail.zip",
       "mirrors": [
@@ -13021,35 +13278,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
-      "key": "mixed-zip",
-      "name": "mixed.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/mixed.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/electronic2/progz101/mixed.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/electronic2/ultimatecrackas/mixed.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/ultimatecrackas/mixed.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/angelfire-com/mixed-2e564198.zip"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 3
-    },
-    {
       "key": "mmer402-zip",
       "name": "mmer402.zip",
       "mirrors": [
@@ -13096,33 +13324,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
           "originalUrl": "http://24.185.191.87/progz/morbid.zip",
           "waybackUrl": "https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/morbid.zip",
           "sourceList": "Web page: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 3
-    },
-    {
-      "key": "msgbox-zip",
-      "name": "msgbox.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/msgbox.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/msgbox.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/empire/deathzone/vb/examples/msgbox.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/empire/deathzone/vb/examples/msgbox.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/extreme4/vbbreakdown/msgbox.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/extreme4/vbbreakdown/msgbox.zip",
-          "sourceList": "ProgzRescue Angelfire files",
           "status": "candidate"
         }
       ],
@@ -13402,6 +13603,35 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "paranoid-zip",
+      "name": "paranoid.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/paranoid.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/paranoid.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/paranoid.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/paranoid.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/cache/1591/programas/paranoid.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cache/1591/programas/paranoid.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/paranoid-ba7e9e50.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -13895,6 +14125,37 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 3
     },
     {
+      "key": "readme-doc",
+      "name": "Readme.doc",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/x5/README.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/x5/README.doc",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/readme-01e9eb35.doc",
+        "files/external/raw-githubusercontent-com/readme-89110f8d.doc",
+        "files/external/raw-githubusercontent-com/readme-76f507dd.doc"
+      ],
+      "readyCount": 3,
+      "totalMirrors": 3
+    },
+    {
       "key": "remoteidle-zip",
       "name": "remoteidle.zip",
       "mirrors": [
@@ -14137,6 +14398,35 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 3
+    },
+    {
+      "key": "sirvb6-zip",
+      "name": "sirvb6.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/sirvb6.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/sirvb6.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sirvb6.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sirvb6.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/376/sirvb6.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/376/sirvb6.zip",
+          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/sirvb6-37d14628.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 3
     },
     {
@@ -16127,6 +16417,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/am-net/ac-install-fe4d5a18.exe"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
+      "key": "acid50-zip",
+      "name": "acid50.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/acid50.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/acid50.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/acid50.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/acid50.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/acid50-d1d6b523.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 2
@@ -19947,6 +20260,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aohell95-source-code-zip",
+      "name": "AOHELL95_source_code.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "aol16-zip",
       "name": "aol16.zip",
       "mirrors": [
@@ -20096,6 +20432,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "aolmacroz-zip",
+      "name": "aolmacroz.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacroz.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/aolmacroz.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "http://www.angelfire.com/md3/disect/vb/aolmacroz.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/md3/disect/vb/aolmacroz.zip",
+          "sourceList": "ProgzRescue Angelfire files",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/aolmacroz-e01f3b36.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "apispy-zip",
       "name": "apispy.zip",
       "mirrors": [
@@ -20138,24 +20497,26 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "arc-zip",
-      "name": "arc.zip",
+      "key": "arena32-zip",
+      "name": "arena32.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/arc.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arc.zip",
+          "originalUrl": "http://lenshellarchive.com/VBfiles/arena32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arena32.zip",
           "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.angelfire.com/poetry/vbpoet/vb/arc.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/poetry/vbpoet/vb/arc.zip",
-          "sourceList": "ProgzRescue Angelfire files",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arena32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/arena32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/arena32-9f5ef475.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -20836,6 +21197,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "bofen32-zip",
+      "name": "bofen32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/bofen32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/bofen32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bofen32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/bofen32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/bofen32-f13e9149.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -21704,6 +22088,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "chatocx-zip",
+      "name": "ChatOCX.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/chatocx-ce0d1a6f.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "chatproxy-zip",
       "name": "chatproxy.zip",
       "mirrors": [
@@ -21869,6 +22276,52 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "chronicbas-zip",
+      "name": "chronicbas.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/chronicbas.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/chronicbas.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chronicbas.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/chronicbas.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/chronicbas-cd8b3694.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
+      "key": "cia98-zip",
+      "name": "cia98.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/cia98.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/cia98.zip",
+          "sourceList": "Web page: LensHell misc progs A-M",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/cia98.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/cia98.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/cia98-36f72c38.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -22238,6 +22691,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "coreapi-zip",
+      "name": "coreapi.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/coreapi.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/coreapi.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/coreapi.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/coreapi.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/coreapi-759b71aa.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "cosmos-zip",
       "name": "cosmos.zip",
       "mirrors": [
@@ -22555,29 +23031,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "cracksource-zip",
-      "name": "cracksource.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/cracksource.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cracksource.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.angelfire.com/tx5/goldice/cracksource.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/tx5/goldice/cracksource.zip",
-          "sourceList": "ProgzRescue Angelfire files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [
-        "files/external/angelfire-com/cracksource.zip"
-      ],
-      "readyCount": 1,
-      "totalMirrors": 2
-    },
-    {
       "key": "crazy-botchat-zip",
       "name": "crazy_botchat.zip",
       "mirrors": [
@@ -22596,6 +23049,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "creep-zip",
+      "name": "creep.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/creep.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/creep.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/creep.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/creep.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/creep-b749a408.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -22850,6 +23326,52 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "dahoaxbas-zip",
+      "name": "dahoaxbas.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/dahoaxbas.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dahoaxbas.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dahoaxbas.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dahoaxbas.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/dahoaxbas-b2e97801.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
+      "key": "daimgold-zip",
+      "name": "daimgold.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/daimgold.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/daimgold.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/daimgold.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/daimgold.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/daimgold-bdc90185.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -23430,6 +23952,52 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "digitek-zip",
+      "name": "digitek.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/digitek.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/digitek.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/digitek.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/digitek.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/digitek-cc6d9120.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
+      "key": "dive32-zip",
+      "name": "dive32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/dive32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dive32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dive32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dive32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/dive32-6b16a4ee.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "djdasm-1-beta1-zip",
       "name": "djdasm_1_beta1.zip",
       "mirrors": [
@@ -23766,6 +24334,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "dupekill-zip",
+      "name": "dupekill.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/dupekill.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dupekill.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "dvbpl-020619-zip",
       "name": "dvbpl_020619.zip",
       "mirrors": [
@@ -23933,6 +24524,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "effex-zip",
+      "name": "effex.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/effex.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/effex.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/effex.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/effex.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/effex-c51c5882.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -24715,6 +25329,52 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "flyaim35-zip",
+      "name": "flyaim35.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/flyaim35.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyaim35.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyaim35.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/flyaim35.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/flyaim35-d944e642.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
+      "key": "flyman2000-zip",
+      "name": "flyman2000.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/flyman2000.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyman2000.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyman2000.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/flyman2000.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/flyman2000-f9ab8abb.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "font-zip",
       "name": "font.zip",
       "mirrors": [
@@ -24825,6 +25485,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "formdragxp-zip",
+      "name": "formdragxp.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/formdragxp.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/formdragxp.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/formdragxp.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/formdragxp.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/formdragxp-6022ec0c.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "forsaken-zip",
       "name": "forsaken.zip",
       "mirrors": [
@@ -24930,6 +25613,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "freespy-zip",
+      "name": "freespy.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/freespy.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/freespy.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/freespy.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/freespy.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/freespy-3e509373.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "freon-zip",
       "name": "freon.zip",
       "mirrors": [
@@ -24969,6 +25675,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "frubal420-zip",
+      "name": "frubal420.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/frubal420.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/frubal420.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/frubal420.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/frubal420.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/frubal420-cb6e7d2f.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -25368,6 +26097,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "genozide-zip",
+      "name": "genozide.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/genozide.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/genozide.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/genozide.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/genozide.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/genozide-da48c35c.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -26152,6 +26904,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "hiderfnl-zip",
+      "name": "hiderfnl.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/hiderfnl.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "highboot-zip",
       "name": "highboot.zip",
       "mirrors": [
@@ -26173,24 +26948,26 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
-      "key": "hixaim2-zip",
-      "name": "hixaim2.zip",
+      "key": "hiwind2-zip",
+      "name": "hiwind2.zip",
       "mirrors": [
         {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/hixaim2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hixaim2.zip",
+          "originalUrl": "http://lenshellarchive.com/VBfiles/hiwind2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiwind2.zip",
           "sourceList": "Web page: LensHell Visual Basic",
           "status": "candidate"
         },
         {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/376/hixaim2.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/376/hixaim2.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/hiwind2.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/hiwind2.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
           "status": "candidate"
         }
       ],
-      "localFiles": [],
-      "readyCount": 0,
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/hiwind2-4e336770.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -26657,6 +27434,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "information-zip",
+      "name": "information.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/information.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/information.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/information.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/information.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/information-2af0f69d.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -27374,6 +28174,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "lazyass-zip",
+      "name": "lazyass.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
+          "sourceList": "Web page: LensHell misc progs A-M",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/lazyass.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/lazyass.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "legos-zip",
       "name": "legos.zip",
       "mirrors": [
@@ -27497,6 +28320,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "limp-zip",
+      "name": "limp.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/limp.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/limp.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/limp.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/limp.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/limp-3f6415e8.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -27899,6 +28745,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "mario2000v2-zip",
+      "name": "mario2000v2.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/mario2000v2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mario2000v2.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mario2000v2.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mario2000v2.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/mario2000v2-f3c37431.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "mario3-zip",
       "name": "mario3.zip",
       "mirrors": [
@@ -27959,6 +28828,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "master1-zip",
+      "name": "master1.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/master1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master1.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/master1.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/master1.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/master1-2e84be85.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -28319,6 +29211,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "misfitaim-zip",
+      "name": "misfitaim.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/misfitaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/misfitaim.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/misfitaim.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/misfitaim.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/misfitaim-026777ab.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "mmer-zip",
       "name": "mmer.zip",
       "mirrors": [
@@ -28508,6 +29423,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "mover-zip",
+      "name": "mover.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/mover.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mover.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mover.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/mover-d3c41319.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "mp3mpd-zip",
       "name": "mp3mpd.zip",
       "mirrors": [
@@ -28683,6 +29621,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "mtb-zip",
+      "name": "mtb.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/mtb.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mtb.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mtb.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mtb.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/mtb-4faacd58.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "munstermash-zip",
       "name": "munstermash.zip",
       "mirrors": [
@@ -28701,6 +29662,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "murder32-zip",
+      "name": "murder32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/murder32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/murder32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/murder32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/murder32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/murder32-48b19377.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -28743,6 +29727,52 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "name32-zip",
+      "name": "name32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/name32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/name32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/name32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/name32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/name32-84895bf0.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
+      "key": "nash40-zip",
+      "name": "nash40.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/nash40.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/nash40.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nash40.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nash40.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/nash40-b7c37d9a.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -29087,6 +30117,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "nuclear32-zip",
+      "name": "nuclear32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/nuclear32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/nuclear32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nuclear32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nuclear32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/nuclear32-e1ae013a.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "numberpwlists-zip",
       "name": "numberpwlists.zip",
       "mirrors": [
@@ -29168,6 +30221,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "nyte32-zip",
+      "name": "nyte32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/nyte32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/nyte32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nyte32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nyte32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/nyte32-675948cc.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -29456,27 +30532,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.fortunecity.com/skyscraper/terminus/188/Inverted/pantera.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/terminus/188/Inverted/pantera.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "paranoid-zip",
-      "name": "paranoid.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/paranoid.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/paranoid.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/cache/1591/programas/paranoid.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/cache/1591/programas/paranoid.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
@@ -30120,6 +31175,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "position-zip",
+      "name": "position.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/position.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/position.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/position.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/position.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/position-4a447857.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "powarc1102-exe",
       "name": "powarc1102.exe",
       "mirrors": [
@@ -30586,6 +31664,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "punker6-zip",
+      "name": "punker6.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/punker6.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/punker6.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/punker6.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/punker6.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/punker6-251bf0d0.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "punt-zip",
       "name": "punt.zip",
       "mirrors": [
@@ -30814,6 +31915,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "ravage-zip",
+      "name": "ravage.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/ravage.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/ravage.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/ravage.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/ravage.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/ravage-c2a77c4c.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -31537,6 +32661,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "salem32-zip",
+      "name": "salem32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/salem32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/salem32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/salem32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/salem32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/salem32-1d309801.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "sapo-zip",
       "name": "sapo.ZIP",
       "mirrors": [
@@ -31963,6 +33110,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "silentascii-zip",
+      "name": "silentascii.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/silentascii.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/silentascii.zip",
+          "sourceList": "Web page: LensHell misc progs N-Z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/silentascii.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/silentascii.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/silentascii-309c3944.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "silentbutterfly-zip",
       "name": "silentbutterfly.zip",
       "mirrors": [
@@ -32017,27 +33187,6 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
         {
           "originalUrl": "http://www.fortunecity.com/skyscraper/3com/867/downloads/gamecracks/sin.zip",
           "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/3com/867/downloads/gamecracks/sin.zip",
-          "sourceList": "ProgzRescue FortuneCity Skyscraper files",
-          "status": "candidate"
-        }
-      ],
-      "localFiles": [],
-      "readyCount": 0,
-      "totalMirrors": 2
-    },
-    {
-      "key": "sirvb6-zip",
-      "name": "sirvb6.zip",
-      "mirrors": [
-        {
-          "originalUrl": "http://lenshellarchive.com/VBfiles/sirvb6.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/sirvb6.zip",
-          "sourceList": "Web page: LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "originalUrl": "http://www.fortunecity.com/skyscraper/millenit/376/sirvb6.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.fortunecity.com/skyscraper/millenit/376/sirvb6.zip",
           "sourceList": "ProgzRescue FortuneCity Skyscraper files",
           "status": "candidate"
         }
@@ -33462,6 +34611,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "thumper32-zip",
+      "name": "thumper32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/thumper32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/thumper32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/thumper32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/thumper32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/thumper32-069c45de.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "thunder-zip",
       "name": "thunder.zip",
       "mirrors": [
@@ -33672,6 +34844,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "toyboat-zip",
+      "name": "toyboat.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/Progs/aolprogs/toyboat.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/toyboat.zip",
+          "sourceList": "Web page: LensHell misc progs N-Z",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/toyboat.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/toyboat.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/toyboat-57e35c0f.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "tp-zip",
       "name": "tp.zip",
       "mirrors": [
@@ -33753,6 +34948,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "tru32-zip",
+      "name": "tru32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/tru32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/tru32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/tru32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/tru32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/tru32-886676e9.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -34263,6 +35481,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 2
     },
     {
+      "key": "vbforms-zip",
+      "name": "vbforms.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/vbforms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/vbforms.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/forms/vbforms.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/forms/vbforms.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/vbforms-68a660aa.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 2
+    },
+    {
       "key": "vbhelp1-zip",
       "name": "vbhelp1.zip",
       "mirrors": [
@@ -34596,6 +35837,29 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [],
       "readyCount": 0,
+      "totalMirrors": 2
+    },
+    {
+      "key": "warp32-zip",
+      "name": "warp32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "http://lenshellarchive.com/VBfiles/warp32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/warp32.zip",
+          "sourceList": "Web page: LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/warp32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/warp32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/warp32-8b346149.zip"
+      ],
+      "readyCount": 1,
       "totalMirrors": 2
     },
     {
@@ -35928,6 +37192,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/adult-b49c4372.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "agc-zip",
+      "name": "agc.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/agc.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/agc.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/agc-0864a180.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -37565,6 +38846,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "arc-read-doc",
+      "name": "Arc.Read.doc",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/arc-read-3087a4fa.doc"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "assgas-zip",
       "name": "assgas.zip",
       "mirrors": [
@@ -37684,6 +38982,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "auto-tutorial-chm",
+      "name": "Auto Tutorial.chm",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/autofade/Auto%20Tutorial.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/autofade/Auto%20Tutorial.chm",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/auto20tutorial-e3a7c174.chm"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "awaystate-exe",
       "name": "AwayState.exe",
       "mirrors": [
@@ -37730,6 +39045,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/lenshellarchive-com/barronscom-a6bdd713.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "bas32-zip",
+      "name": "bas32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bas32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/bas32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/bas32-944b08c4.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -37832,6 +39164,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/biorythm.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "bizooka-hlp",
+      "name": "BIZOOKA.HLP",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/bizooka-19bc8661.hlp"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -38466,6 +39815,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "chip-chat-zip",
+      "name": "Chip Chat.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Chip%20Chat.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/Chip%20Chat.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/chip20chat-79169462.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "cinemablue-zip",
       "name": "cinemablue.zip",
       "mirrors": [
@@ -38721,6 +40087,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "core-api-hlp",
+      "name": "core-api.hlp",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/core-api-57898d88.hlp"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "covert12-zip",
       "name": "covert12.zip",
       "mirrors": [
@@ -38857,6 +40240,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "dacrazyone70-zip",
+      "name": "dacrazyone70.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dacrazyone70.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dacrazyone70.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/dacrazyone70-fe302d39.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "darkscanner-zip",
       "name": "darkscanner.zip",
       "mirrors": [
@@ -38988,6 +40388,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/archive-org/deadaim-e8bf5d21.rar"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "debugview-zip",
+      "name": "DebugView.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/DebugView.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/DebugView.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/debugview-a2830a9a.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -39197,6 +40614,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "dive-hlp",
+      "name": "dive.hlp",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/dive/dive.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/help/dive/dive.hlp",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/dive-255c0722.hlp"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "dmc-r7-zip",
       "name": "dmc_r7.zip",
       "mirrors": [
@@ -39260,6 +40694,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/lenshellarchive-com/dope-772e772b.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "dos32-chm",
+      "name": "DoS32.chm",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/dos32-be7f1f6d.chm"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -39345,6 +40796,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/aimfilez-com/dwsbc32-66a535ca.ocx"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "e2aol7-zip",
+      "name": "e2aol7.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/e2aol7.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/e2aol7.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/e2aol7-57879c1b.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -39707,6 +41175,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "finder32-zip",
+      "name": "finder32.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/finder32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/finder32.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/finder32-ab1725b5.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "floppity-zip",
       "name": "floppity.zip",
       "mirrors": [
@@ -39889,6 +41374,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/gamespy-v109addcrack.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "geekmans-hlp",
+      "name": "Geekmans.hlp",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/geekmans-529446e8.hlp"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -40149,6 +41651,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "help-rtf",
+      "name": "help.rtf",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/help/help.rtf",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/help/help.rtf",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/help-3f4926b8.rtf"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "hotmailhack-zip",
       "name": "hotmailhack.zip",
       "mirrors": [
@@ -40404,6 +41923,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "irs3-zip",
+      "name": "irs3.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/irs3.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/irs3.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/irs3-fb158aa5.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "ispec-exe",
       "name": "Ispec.exe",
       "mirrors": [
@@ -40455,6 +41991,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "izekial-s-vb32-tutorial-chm",
+      "name": "Izekial's VB32 Tutorial.chm",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/Izekial's%20VB32%20Tutorial.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/tutorial1/Izekial's%20VB32%20Tutorial.chm",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/izekials20vb3220tutorial-f9b55d3a.chm"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "izekial322-zip",
+      "name": "izekial322.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/izekial322-44ebf908.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "jackbros-zip",
       "name": "jackbros.zip",
       "mirrors": [
@@ -40467,6 +42037,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/jackbros.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "jaguar-zip",
+      "name": "jaguar.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/jaguar.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/jaguar.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/jaguar-04c8e95f.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -40659,6 +42246,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "macex-v3-chm",
+      "name": "MaceX v3.chm",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv3/MaceX%20v3.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/macexv3/MaceX%20v3.chm",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/macex20v3-d2620dde.chm"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "magicsquare-zip",
       "name": "magicsquare.zip",
       "mirrors": [
@@ -40688,6 +42292,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/mail555.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "marzfade-codes-doc",
+      "name": "MaRZFade Codes.doc",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade%20Codes.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade%20Codes.doc",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/marzfade20codes-39739234.doc"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -40790,6 +42411,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/millionemails.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "mmerhlp-hlp",
+      "name": "MMERHLP.HLP",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -41458,6 +43096,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "quest-fuelx-vb-help-hlp",
+      "name": "QuesT-FueLx VB Help.hlp",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx%20VB%20Help.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx%20VB%20Help.hlp",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/quest-fuelx20vb20help-0ec4f175.hlp"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "race-zip",
       "name": "race.zip",
       "mirrors": [
@@ -41521,6 +43176,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/ravehitter1-0serverlist.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "read-me-doc",
+      "name": "read me.doc",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/formfadebyadam/read%20me.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/formfadebyadam/read%20me.doc",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/read20me-6921e973.doc"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "registryreader-zip",
+      "name": "registryreader.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/registryreader.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/registryreader.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/registryreader-0dffb0fc.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -41691,6 +43380,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/sanidade.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "scan-that-bas-10-patorjk-zip",
+      "name": "Scan_That_Bas_10.patorjk.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/scan-that-bas-10-patorjk-ca2b5288.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -41968,6 +43674,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "sloveaol6-zip",
+      "name": "sloveaol6.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sloveaol6.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sloveaol6.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/sloveaol6-b2b552e0.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "smilebot-exe",
       "name": "SmileBot.exe",
       "mirrors": [
@@ -42070,6 +43793,40 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "sncoolector-zip",
+      "name": "sncoolector.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sncoolector.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sncoolector.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/sncoolector-988eb5e1.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "source-zip",
+      "name": "SOURCE.ZIP",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/source-765b8841.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "speed-type-zip",
       "name": "speed_type.zip",
       "mirrors": [
@@ -42099,6 +43856,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/spokes.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "spyocx-zip",
+      "name": "SpYOcX.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/spyocx-13191a95.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -42257,6 +44031,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "tetrinet-zip",
+      "name": "tetrinet.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/tetrinet.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/tetrinet.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/tetrinet-2ebf2ae4.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "text-cricket-zip",
       "name": "text_cricket.zip",
       "mirrors": [
@@ -42320,6 +44111,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/trans.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "trident-zip",
+      "name": "trident.zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/trident.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/trident.zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/trident-e59d65e9.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -42444,6 +44252,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "vb-newbie-chm",
+      "name": "VB Newbie.chm",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/vbnewbee/VB%20Newbie.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/vbnewbee/VB%20Newbie.chm",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/vb20newbie-29f633c8.chm"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "vb-in-12-lessons-zip",
       "name": "vb_in_12_lessons.zip",
       "mirrors": [
@@ -42456,6 +44281,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/vb-in-12-lessons.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "vb3code-pre1998-from-lynxjsa-zip",
+      "name": "VB3Code-pre1998-(from-LynxJSA).zip",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/vb3code-pre1998-from-lynxjsa-21d69d9a.zip"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -42648,6 +44490,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "totalMirrors": 1
     },
     {
+      "key": "wgf-chm",
+      "name": "wgf.chm",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/wgf-1a8a7f37.chm"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
       "key": "win95font-zip",
       "name": "win95font.zip",
       "mirrors": [
@@ -42728,6 +44587,23 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       ],
       "localFiles": [
         "files/external/angelfire-com/wrar370.zip"
+      ],
+      "readyCount": 1,
+      "totalMirrors": 1
+    },
+    {
+      "key": "xakaol3chatscanbeta-rar",
+      "name": "xakAOL3ChatScanBeta.rar",
+      "mirrors": [
+        {
+          "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+          "sourceList": "AOLUnderground reference source-code tree",
+          "status": "candidate"
+        }
+      ],
+      "localFiles": [
+        "files/external/raw-githubusercontent-com/xakaol3chatscanbeta-0350b976.rar"
       ],
       "readyCount": 1,
       "totalMirrors": 1
@@ -69333,6 +71209,1678 @@ window.AOL_PROGZ_EXTERNAL_DOWNLOADS = {
       "status": "ready",
       "size": 751737,
       "sha1": "d0c2f4886c24206170be2f81a9c9c0b560027c8e"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+      "name": "AOHELL95_source_code.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/AOHELL95_source_code.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/AOHELL95_source_code.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip",
+      "status": "ready",
+      "size": 365436,
+      "sha1": "250a53caab7336b92397891f4b52faf95b6b830e",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+      "name": "MMERHLP.HLP",
+      "discoveredText": "AOL 2.5-3.0 - tutorial/help file - 25-30/decom/solanem/MMERHLP.HLP - tags: mass mailer/server, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp",
+      "status": "ready",
+      "size": 25214,
+      "sha1": "d6bb509a98c15666443e567cedab4fab422e5792"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/forms/vbforms.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/forms/vbforms.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/forms/vbforms.zip",
+      "name": "vbforms.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/forms/vbforms.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/forms/vbforms.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/vbforms-68a660aa.zip",
+      "status": "ready",
+      "size": 740298,
+      "sha1": "81ccce4bb38212a90e18350eacff9fe7e0a33636"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+      "name": "core-api.hlp",
+      "discoveredText": "AOL 2.5-3.0 - tutorial/help file - 25-30/help/coreapi/core-api.hlp - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/core-api-57898d88.hlp",
+      "status": "ready",
+      "size": 196522,
+      "sha1": "aea1c9aec19f27ae229892786dceac8a864cd0d2"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/dive/dive.hlp",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/help/dive/dive.hlp",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/dive/dive.hlp",
+      "name": "dive.hlp",
+      "discoveredText": "AOL 2.5-3.0 - tutorial/help file - 25-30/help/dive/dive.hlp - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/help/dive/dive.hlp",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/dive-255c0722.hlp",
+      "status": "ready",
+      "size": 375968,
+      "sha1": "ace4f0966b7f2bb8a9320370625ba352cb622321"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aol32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/aol32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aol32.zip",
+      "name": "aol32.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/aol32.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/aol32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/aol32-fcedeaea.zip",
+      "status": "ready",
+      "size": 3095,
+      "sha1": "f220b82dcc10cdada05664a8dc834779aa4c1e12"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+      "name": "aolmacros.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/aolmacros.zip - tags: macro, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/aolmacros.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip",
+      "status": "ready",
+      "size": 32023,
+      "sha1": "4bcf876a96a5ccde1d64d73fed6d0157237078ad",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/chaos232.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/chaos232.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/chaos232.zip",
+      "name": "chaos232.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/chaos232.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/chaos232.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip",
+      "status": "ready",
+      "size": 25419,
+      "sha1": "8eac433f1ceff1dce31f66c944782ff16493d451",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/cracksource.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/cracksource.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/cracksource.zip",
+      "name": "cracksource.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/cracksource.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/cracksource.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/cracksource-1c16975b.zip",
+      "status": "ready",
+      "size": 29852,
+      "sha1": "e4d1eb5e3a853a39ee50abb347e4a7ca1f6728b6"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/DebugView.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/DebugView.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/DebugView.zip",
+      "name": "DebugView.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/DebugView.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/DebugView.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/debugview-a2830a9a.zip",
+      "status": "ready",
+      "size": 1360262,
+      "sha1": "dbb7e7fea094849a2b570428d2f7738f87b6854c"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/dos32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/dos32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/dos32.zip",
+      "name": "dos32.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/dos32.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/dos32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/dos32-ccad63a8.zip",
+      "status": "ready",
+      "size": 13023,
+      "sha1": "46c13147af04c5699858b45de3eb63d58afd9791"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/formdragxp.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/formdragxp.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/formdragxp.zip",
+      "name": "formdragxp.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/formdragxp.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/formdragxp.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/formdragxp-6022ec0c.zip",
+      "status": "ready",
+      "size": 530,
+      "sha1": "14b6a205958f8c57dbe29512d3dbe0d778bd1726"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/freespy.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/freespy.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/freespy.zip",
+      "name": "freespy.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/freespy.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/freespy.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/freespy-3e509373.zip",
+      "status": "ready",
+      "size": 2711,
+      "sha1": "d6ce96c24c0bd2609187049136173758f089d791"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/genozide.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/genozide.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/genozide.zip",
+      "name": "genozide.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/genozide.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/genozide.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/genozide-da48c35c.zip",
+      "status": "ready",
+      "size": 77387,
+      "sha1": "940e1f4bee400bfeef7b66f50b692a3f9599ef84"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/hiwind2.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/hiwind2.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/hiwind2.zip",
+      "name": "hiwind2.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/hiwind2.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/hiwind2.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/hiwind2-4e336770.zip",
+      "status": "ready",
+      "size": 135078,
+      "sha1": "941f3c8a653b7951818c92a2c57421f7586122b3"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/information.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/information.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/information.zip",
+      "name": "information.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/information.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/information.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/information-2af0f69d.zip",
+      "status": "ready",
+      "size": 44412,
+      "sha1": "e6c3bcf4e03f3453094b7fa2f0be61025a2a985e"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/master1.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/master1.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/master1.zip",
+      "name": "master1.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/master1.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/master1.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/master1-2e84be85.zip",
+      "status": "ready",
+      "size": 26634,
+      "sha1": "3599165eafbed750be4a1c310a198297c34583ff"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/msgbox.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/msgbox.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/msgbox.zip",
+      "name": "msgbox.zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/msgbox.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/msgbox.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/msgbox-f9fb0a90.zip",
+      "status": "ready",
+      "size": 13997,
+      "sha1": "ec7b37095f4a1bae55f58c769a2cc7d870deb3d8"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+      "name": "VB3Code-pre1998-(from-LynxJSA).zip",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/vb3code-pre1998-from-lynxjsa-21d69d9a.zip",
+      "status": "ready",
+      "size": 244291,
+      "sha1": "e1a452479047f83b8cdd89db863254cbb5fada0b"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+      "name": "Readme.doc",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/controls/mpscan/Readme.doc - tags: chat scan/control, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/readme-01e9eb35.doc",
+      "status": "ready",
+      "size": 5632,
+      "sha1": "5aa8da2b7d976585d89cff6e7006425bd632c2e1"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+      "name": "SOURCE.ZIP",
+      "discoveredText": "AOL 4.0-5.0 - source archive - 40-50/controls/syn2/SOURCE.ZIP - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/source-765b8841.zip",
+      "status": "ready",
+      "size": 33858,
+      "sha1": "dcc6faab725a8bcab5d2ed3d08492acb2d166044"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+      "name": "ReadMe.doc",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/modules/askars/ReadMe.doc - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/readme-89110f8d.doc",
+      "status": "ready",
+      "size": 4608,
+      "sha1": "d3efae890b30b7760a773fb6dd0ee6f2f5b82497"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+      "name": "ChatOCX.zip",
+      "discoveredText": "AOL 4.0-5.0 - source archive - 40-50/modules/dos32/ChatOCX.zip - tags: room/chat, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/chatocx-ce0d1a6f.zip",
+      "status": "ready",
+      "size": 88346,
+      "sha1": "e1dd95e95a68d36508b0b7c39bb46cb3d8a1bd8d",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+      "name": "DoS32.chm",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/modules/dos32/DoS32.chm - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/dos32-be7f1f6d.chm",
+      "status": "ready",
+      "size": 95063,
+      "sha1": "eef4885a1a713a77386093ef2947976f79185a87"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+      "name": "Arc.Read.doc",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/modules/fader/arcfader10/Arc.Read.doc - tags: fader, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/arc-read-3087a4fa.doc",
+      "status": "ready",
+      "size": 5120,
+      "sha1": "08c4d7f3ec68dec74dd4fba71e22717fe7c32990"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/formfadebyadam/read%20me.doc",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/formfadebyadam/read%20me.doc",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/formfadebyadam/read%20me.doc",
+      "name": "read me.doc",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/modules/fader/formfadebyadam/read me.doc - tags: fader, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/fader/formfadebyadam/read me.doc",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/read20me-6921e973.doc",
+      "status": "ready",
+      "size": 4608,
+      "sha1": "dc71c2f17a9e7cacbe3769d8ec6470d220f6d402"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade%20Codes.doc",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade%20Codes.doc",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade%20Codes.doc",
+      "name": "MaRZFade Codes.doc",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/modules/fader/marzfade/MaRZFade Codes.doc - tags: fader, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade Codes.doc",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/marzfade20codes-39739234.doc",
+      "status": "ready",
+      "size": 81408,
+      "sha1": "8bc646544f412c6717cc899e02ce07710c23adb2"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+      "name": "izekial322.zip",
+      "discoveredText": "AOL 4.0-5.0 - source archive - 40-50/modules/izekia11/izekial322.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/izekial322-44ebf908.zip",
+      "status": "ready",
+      "size": 297181,
+      "sha1": "e69b5459f39766529b7438cc08c042f19c42a270"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+      "name": "ChatOCX.zip",
+      "discoveredText": "AOL 4.0-5.0 - source archive - 40-50/modules/macexv/ChatOCX.zip - tags: room/chat, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/chatocx-ce0d1a6f.zip",
+      "status": "ready",
+      "size": 88346,
+      "sha1": "e1dd95e95a68d36508b0b7c39bb46cb3d8a1bd8d",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv3/MaceX%20v3.chm",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/macexv3/MaceX%20v3.chm",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv3/MaceX%20v3.chm",
+      "name": "MaceX v3.chm",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/modules/macexv3/MaceX v3.chm - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/macexv3/MaceX v3.chm",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/macex20v3-d2620dde.chm",
+      "status": "ready",
+      "size": 61709,
+      "sha1": "d4a276138172bd8a350a6b68f080c4dc73c62f89"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/x5/README.doc",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/x5/README.doc",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/x5/README.doc",
+      "name": "README.doc",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/modules/x5/README.doc - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/modules/x5/README.doc",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/readme-76f507dd.doc",
+      "status": "ready",
+      "size": 72192,
+      "sha1": "6c7332ca71f1ecea3db3b9a80a8141c575fe5260"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/autofade/Auto%20Tutorial.chm",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/autofade/Auto%20Tutorial.chm",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/autofade/Auto%20Tutorial.chm",
+      "name": "Auto Tutorial.chm",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/autofade/Auto Tutorial.chm - tags: fader, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/autofade/Auto Tutorial.chm",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/auto20tutorial-e3a7c174.chm",
+      "status": "ready",
+      "size": 19114,
+      "sha1": "3a042c6bf34f92f26103964a3ca2caaacc020157"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+      "name": "BIZOOKA.HLP",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/bizook/BIZOOKA.HLP - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/bizooka-19bc8661.hlp",
+      "status": "ready",
+      "size": 115908,
+      "sha1": "86c113253fc62981342975865290a1611fed04d4"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx%20VB%20Help.hlp",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx%20VB%20Help.hlp",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx%20VB%20Help.hlp",
+      "name": "QuesT-FueLx VB Help.hlp",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/fuelxvbhelp/QuesT-FueLx VB Help.hlp - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx VB Help.hlp",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/quest-fuelx20vb20help-0ec4f175.hlp",
+      "status": "ready",
+      "size": 18884,
+      "sha1": "5860a2eea5978745157b5af9cc116f0b89026ee1"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+      "name": "Geekmans.hlp",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/geekmans/Geekmans.hlp - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/geekmans-529446e8.hlp",
+      "status": "ready",
+      "size": 18956,
+      "sha1": "bd6ececd9ff847c7645c67b9ae851f5aa2e1266b"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/Izekial's%20VB32%20Tutorial.chm",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/tutorial1/Izekial's%20VB32%20Tutorial.chm",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/Izekial's%20VB32%20Tutorial.chm",
+      "name": "Izekial's VB32 Tutorial.chm",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/tutorial1/Izekial's VB32 Tutorial.chm - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/tutorial1/Izekial's VB32 Tutorial.chm",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/izekials20vb3220tutorial-f9b55d3a.chm",
+      "status": "ready",
+      "size": 146780,
+      "sha1": "5c8abeed398211e3a692114073d84cdc2fac90f9"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+      "name": "SpYOcX.zip",
+      "discoveredText": "AOL 4.0-5.0 - source archive - 40-50/tutorials/tutorial1/SpYOcX.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/spyocx-13191a95.zip",
+      "status": "ready",
+      "size": 98830,
+      "sha1": "4a407a0136f001485ccfaf45b5bd8b3bea2905e1"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/vbnewbee/VB%20Newbie.chm",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/vbnewbee/VB%20Newbie.chm",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/vbnewbee/VB%20Newbie.chm",
+      "name": "VB Newbie.chm",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/vbnewbee/VB Newbie.chm - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/vbnewbee/VB Newbie.chm",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/vb20newbie-29f633c8.chm",
+      "status": "ready",
+      "size": 284016,
+      "sha1": "f83dea51a9251f7d4d8fe74a282fa2acfa7e5e3f"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+      "name": "wgf.chm",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/wgfhelp/wgf.chm - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/wgf-1a8a7f37.chm",
+      "status": "ready",
+      "size": 26703,
+      "sha1": "215d5d9e03e92fd4218735ed54ba04e453cb2d8a"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/acid50.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/acid50.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/acid50.zip",
+      "name": "acid50.zip",
+      "discoveredText": "unsorted - source archive - unsorted/acid50.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/acid50.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/acid50-d1d6b523.zip",
+      "status": "ready",
+      "size": 7763,
+      "sha1": "00ef8e632c2968e58fc222fb3868bfced4010811"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/agc.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/agc.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/agc.zip",
+      "name": "agc.zip",
+      "discoveredText": "unsorted - source archive - unsorted/agc.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/agc.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/agc-0864a180.zip",
+      "status": "ready",
+      "size": 19304,
+      "sha1": "2cd5b0ce4e431cd50fe556864120c2e292db3743"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+      "name": "AOHELL95_source_code.zip",
+      "discoveredText": "unsorted - source archive - unsorted/AOHELL95_source_code.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip",
+      "status": "ready",
+      "size": 365436,
+      "sha1": "250a53caab7336b92397891f4b52faf95b6b830e",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacros.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/aolmacros.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacros.zip",
+      "name": "aolmacros.zip",
+      "discoveredText": "unsorted - source archive - unsorted/aolmacros.zip - tags: macro, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/aolmacros.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip",
+      "status": "ready",
+      "size": 32023,
+      "sha1": "4bcf876a96a5ccde1d64d73fed6d0157237078ad",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacroz.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/aolmacroz.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacroz.zip",
+      "name": "aolmacroz.zip",
+      "discoveredText": "unsorted - source archive - unsorted/aolmacroz.zip - tags: macro, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/aolmacroz.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/aolmacroz-e01f3b36.zip",
+      "status": "ready",
+      "size": 34687,
+      "sha1": "c57ed4de9cdd7665313ecc05fd62b99c057c5fbe"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arc.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/arc.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arc.zip",
+      "name": "arc.zip",
+      "discoveredText": "unsorted - source archive - unsorted/arc.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/arc.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/arc-aba7a0cb.zip",
+      "status": "ready",
+      "size": 118350,
+      "sha1": "62ef1e3b709920434a91aa16ec03c6f75bfa0662"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arena32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/arena32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arena32.zip",
+      "name": "arena32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/arena32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/arena32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/arena32-9f5ef475.zip",
+      "status": "ready",
+      "size": 9219,
+      "sha1": "234bd4b7b5170f615927c4ac4af67798b8f1c30a"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bas32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/bas32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bas32.zip",
+      "name": "bas32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/bas32.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/bas32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/bas32-944b08c4.zip",
+      "status": "ready",
+      "size": 12616,
+      "sha1": "bac13eedbdf53a4d868259a624383b31599cdf4b"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bofen32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/bofen32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bofen32.zip",
+      "name": "bofen32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/bofen32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/bofen32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/bofen32-f13e9149.zip",
+      "status": "ready",
+      "size": 28662,
+      "sha1": "a544a4a195478a2080520e94679652cf6d216f02"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/buster.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/buster.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/buster.zip",
+      "name": "buster.zip",
+      "discoveredText": "unsorted - source archive - unsorted/buster.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/buster.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/buster-d63320e2.zip",
+      "status": "ready",
+      "size": 3434,
+      "sha1": "c202b63bebabd00052868c65e1d937a432f41978"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chaos232.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/chaos232.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chaos232.zip",
+      "name": "chaos232.zip",
+      "discoveredText": "unsorted - source archive - unsorted/chaos232.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/chaos232.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip",
+      "status": "ready",
+      "size": 25419,
+      "sha1": "8eac433f1ceff1dce31f66c944782ff16493d451",
+      "dedupeNote": ""
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Chip%20Chat.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/Chip%20Chat.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Chip%20Chat.zip",
+      "name": "Chip Chat.zip",
+      "discoveredText": "unsorted - source archive - unsorted/Chip Chat.zip - tags: room/chat, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/Chip Chat.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/chip20chat-79169462.zip",
+      "status": "ready",
+      "size": 3143951,
+      "sha1": "dfeca2edca32a893be6c078e84648ce7d9f55579"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chronicbas.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/chronicbas.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chronicbas.zip",
+      "name": "chronicbas.zip",
+      "discoveredText": "unsorted - source archive - unsorted/chronicbas.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/chronicbas.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/chronicbas-cd8b3694.zip",
+      "status": "ready",
+      "size": 16157,
+      "sha1": "ca510f931329c1ff9c2d7ac18415cd86fa99389f"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/cia98.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/cia98.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/cia98.zip",
+      "name": "cia98.zip",
+      "discoveredText": "unsorted - source archive - unsorted/cia98.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/cia98.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/cia98-36f72c38.zip",
+      "status": "ready",
+      "size": 496779,
+      "sha1": "3f1494e47a3df502d4a8822b0542690eb72f359b"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/coreapi.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/coreapi.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/coreapi.zip",
+      "name": "coreapi.zip",
+      "discoveredText": "unsorted - source archive - unsorted/coreapi.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/coreapi.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/coreapi-759b71aa.zip",
+      "status": "ready",
+      "size": 65870,
+      "sha1": "259a79023ff53d1e469094d11a7241222c3f3fe2"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/creep.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/creep.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/creep.zip",
+      "name": "creep.zip",
+      "discoveredText": "unsorted - source archive - unsorted/creep.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/creep.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/creep-b749a408.zip",
+      "status": "ready",
+      "size": 8871,
+      "sha1": "1b723daa1e2f22de97296cd684d10f23834d06d7"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/cryofade.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/cryofade.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/cryofade.zip",
+      "name": "cryofade.zip",
+      "discoveredText": "unsorted - source archive - unsorted/cryofade.zip - tags: fader, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/cryofade.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/cryofade-db2fe877.zip",
+      "status": "ready",
+      "size": 2949,
+      "sha1": "ccd75c093498cfd9307b6ffe9bcd808ca9688808"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dacrazyone70.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dacrazyone70.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dacrazyone70.zip",
+      "name": "dacrazyone70.zip",
+      "discoveredText": "unsorted - source archive - unsorted/dacrazyone70.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/dacrazyone70.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/dacrazyone70-fe302d39.zip",
+      "status": "ready",
+      "size": 5384,
+      "sha1": "0518f3730f1c5bb05e1cf069ebcf4da57062154f"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dahoaxbas.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dahoaxbas.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dahoaxbas.zip",
+      "name": "dahoaxbas.zip",
+      "discoveredText": "unsorted - source archive - unsorted/dahoaxbas.zip - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/dahoaxbas.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/dahoaxbas-b2e97801.zip",
+      "status": "ready",
+      "size": 36626,
+      "sha1": "a677ba26828d761323e004d346c502549cf86507"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/daimgold.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/daimgold.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/daimgold.zip",
+      "name": "daimgold.zip",
+      "discoveredText": "unsorted - source archive - unsorted/daimgold.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/daimgold.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/daimgold-bdc90185.zip",
+      "status": "ready",
+      "size": 77307,
+      "sha1": "16cd11ff2c90583df77463e235973dd42461be7b"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/digitek.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/digitek.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/digitek.zip",
+      "name": "digitek.zip",
+      "discoveredText": "unsorted - source archive - unsorted/digitek.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/digitek.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/digitek-cc6d9120.zip",
+      "status": "ready",
+      "size": 6843,
+      "sha1": "4288a4ee59d2e81b56b072f18bb871ccdd22be54"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dive32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dive32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dive32.zip",
+      "name": "dive32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/dive32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/dive32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/dive32-6b16a4ee.zip",
+      "status": "ready",
+      "size": 15338,
+      "sha1": "39d7804ad9b6ea0e5e1ac6c8e4dc01cd070ab8d0"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dupekill.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip",
+      "name": "dupekill.zip",
+      "discoveredText": "unsorted - source archive - unsorted/dupekill.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/dupekill.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip",
+      "status": "ready",
+      "size": 1117,
+      "sha1": "1e3be9308fffa72a13bd5984c29eed1de6b89120"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/e2aol7.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/e2aol7.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/e2aol7.zip",
+      "name": "e2aol7.zip",
+      "discoveredText": "unsorted - source archive - unsorted/e2aol7.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/e2aol7.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/e2aol7-57879c1b.zip",
+      "status": "ready",
+      "size": 7893,
+      "sha1": "841d37e53e240fb07f8dd65677c86b1c208d4e2b"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/effex.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/effex.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/effex.zip",
+      "name": "effex.zip",
+      "discoveredText": "unsorted - source archive - unsorted/effex.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/effex.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/effex-c51c5882.zip",
+      "status": "ready",
+      "size": 1692,
+      "sha1": "aa61f299e069d5e7c22d3f6d92e6f4789d6bf22b"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/finder32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/finder32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/finder32.zip",
+      "name": "finder32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/finder32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/finder32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/finder32-ab1725b5.zip",
+      "status": "ready",
+      "size": 1813,
+      "sha1": "0a291eb9037b98dcc30e093c3ee315e705cc89d3"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyaim35.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/flyaim35.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyaim35.zip",
+      "name": "flyaim35.zip",
+      "discoveredText": "unsorted - source archive - unsorted/flyaim35.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/flyaim35.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/flyaim35-d944e642.zip",
+      "status": "ready",
+      "size": 8220,
+      "sha1": "46f71f2fab46ef829a4ea1eab7effa0e7635a053"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyman2000.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/flyman2000.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyman2000.zip",
+      "name": "flyman2000.zip",
+      "discoveredText": "unsorted - source archive - unsorted/flyman2000.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/flyman2000.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/flyman2000-f9ab8abb.zip",
+      "status": "ready",
+      "size": 11108,
+      "sha1": "0af538fb08a97c5838198ee93bac3de9491b13f7"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/frubal420.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/frubal420.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/frubal420.zip",
+      "name": "frubal420.zip",
+      "discoveredText": "unsorted - source archive - unsorted/frubal420.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/frubal420.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/frubal420-cb6e7d2f.zip",
+      "status": "ready",
+      "size": 6821,
+      "sha1": "9db2810e93ab557d84570737de22abe0cc756954"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hiderfnl.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip",
+      "name": "hiderfnl.zip",
+      "discoveredText": "unsorted - source archive - unsorted/hiderfnl.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/hiderfnl.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip",
+      "status": "ready",
+      "size": 12605,
+      "sha1": "ef8a7e1e1045fc9dc6e52039edfd8a9fd1a8ba47"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hixaim2.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hixaim2.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hixaim2.zip",
+      "name": "hixaim2.zip",
+      "discoveredText": "unsorted - source archive - unsorted/hixaim2.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/hixaim2.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/hixaim2-e7657a70.zip",
+      "status": "ready",
+      "size": 5159,
+      "sha1": "d93416a827fb6f8b83b5d7c9e4c9b50658741b19"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/irs3.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/irs3.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/irs3.zip",
+      "name": "irs3.zip",
+      "discoveredText": "unsorted - source archive - unsorted/irs3.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/irs3.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/irs3-fb158aa5.zip",
+      "status": "ready",
+      "size": 72314,
+      "sha1": "9b3449d0e663be6b5568aaa67295aa8986326e67"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/jaguar.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/jaguar.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/jaguar.zip",
+      "name": "jaguar.zip",
+      "discoveredText": "unsorted - source archive - unsorted/jaguar.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/jaguar.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/jaguar-04c8e95f.zip",
+      "status": "ready",
+      "size": 13977,
+      "sha1": "16d39724445bf2d02486b35fb3043899bb110fe4"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/lazyass.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/lazyass.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/lazyass.zip",
+      "name": "lazyass.zip",
+      "discoveredText": "unsorted - source archive - unsorted/lazyass.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/lazyass.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip",
+      "status": "ready",
+      "size": 611696,
+      "sha1": "df3f1756eeecaef66db22c76e53d31b81399eb52"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/limp.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/limp.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/limp.zip",
+      "name": "limp.zip",
+      "discoveredText": "unsorted - source archive - unsorted/limp.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/limp.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/limp-3f6415e8.zip",
+      "status": "ready",
+      "size": 10852,
+      "sha1": "abde43cdb7f0a7ea54c921ed745956e3d5251b19"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mario2000v2.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mario2000v2.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mario2000v2.zip",
+      "name": "mario2000v2.zip",
+      "discoveredText": "unsorted - source archive - unsorted/mario2000v2.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/mario2000v2.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/mario2000v2-f3c37431.zip",
+      "status": "ready",
+      "size": 13583,
+      "sha1": "e137fb0df011009b922ae9384cc459b77393df60"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/misfitaim.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/misfitaim.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/misfitaim.zip",
+      "name": "misfitaim.zip",
+      "discoveredText": "unsorted - source archive - unsorted/misfitaim.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/misfitaim.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/misfitaim-026777ab.zip",
+      "status": "ready",
+      "size": 4498,
+      "sha1": "8d80415311f16c7dd7da5c27ed483248716df5d5"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mixed.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip",
+      "name": "mixed.zip",
+      "discoveredText": "unsorted - source archive - unsorted/mixed.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/mixed.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/mixed-add66cd4.zip",
+      "status": "ready",
+      "size": 54294,
+      "sha1": "34729ae5e18f746af4623eb12d11ddaad48d10ff"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/monkefade3.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/monkefade3.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/monkefade3.zip",
+      "name": "monkefade3.zip",
+      "discoveredText": "unsorted - source archive - unsorted/monkefade3.zip - tags: fader, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/monkefade3.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/monkefade3-e25d17da.zip",
+      "status": "ready",
+      "size": 7322,
+      "sha1": "a0f13c6fb531b5bbe4c5c2e13d5e02c64fb021d6"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mover.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip",
+      "name": "mover.zip",
+      "discoveredText": "unsorted - source archive - unsorted/mover.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/mover.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/mover-d3c41319.zip",
+      "status": "ready",
+      "size": 1727,
+      "sha1": "a0cbbcd8f36483d639a4268b78ffdf8a1bc8f279"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mtb.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mtb.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mtb.zip",
+      "name": "mtb.zip",
+      "discoveredText": "unsorted - source archive - unsorted/mtb.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/mtb.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/mtb-4faacd58.zip",
+      "status": "ready",
+      "size": 5068,
+      "sha1": "0501bdd1d37b87d239b911b3a5273056ed1302fc"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/murder32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/murder32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/murder32.zip",
+      "name": "murder32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/murder32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/murder32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/murder32-48b19377.zip",
+      "status": "ready",
+      "size": 7540,
+      "sha1": "411f873195b448c88c822debc793947f72198cd6"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/name32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/name32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/name32.zip",
+      "name": "name32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/name32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/name32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/name32-84895bf0.zip",
+      "status": "ready",
+      "size": 3190,
+      "sha1": "e91fe8612d7307f0d50301a401c333d71ea17d6d"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nash40.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nash40.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nash40.zip",
+      "name": "nash40.zip",
+      "discoveredText": "unsorted - source archive - unsorted/nash40.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/nash40.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/nash40-b7c37d9a.zip",
+      "status": "ready",
+      "size": 10666,
+      "sha1": "a93985559e6808d334f34858cf9d61778127bc8c"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nuclear32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nuclear32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nuclear32.zip",
+      "name": "nuclear32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/nuclear32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/nuclear32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/nuclear32-e1ae013a.zip",
+      "status": "ready",
+      "size": 11033,
+      "sha1": "41f84b9e80199d051c8d2644e027915b88dc2e7e"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nyte32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nyte32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nyte32.zip",
+      "name": "nyte32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/nyte32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/nyte32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/nyte32-675948cc.zip",
+      "status": "ready",
+      "size": 63060,
+      "sha1": "5e22129de41258a0a0df012c1e89527bd910e196"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/paranoid.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/paranoid.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/paranoid.zip",
+      "name": "paranoid.zip",
+      "discoveredText": "unsorted - source archive - unsorted/paranoid.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/paranoid.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/paranoid-ba7e9e50.zip",
+      "status": "ready",
+      "size": 10713,
+      "sha1": "6805eb01fba517c59a4750847c1091146245e91d"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/position.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/position.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/position.zip",
+      "name": "position.zip",
+      "discoveredText": "unsorted - source archive - unsorted/position.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/position.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/position-4a447857.zip",
+      "status": "ready",
+      "size": 1506,
+      "sha1": "12110c0085893119bb918c37de0715cecc9c7b57"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/punker6.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/punker6.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/punker6.zip",
+      "name": "punker6.zip",
+      "discoveredText": "unsorted - source archive - unsorted/punker6.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/punker6.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/punker6-251bf0d0.zip",
+      "status": "ready",
+      "size": 28127,
+      "sha1": "941f512102547e4431e861cf11f76203d829844c"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/ravage.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/ravage.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/ravage.zip",
+      "name": "ravage.zip",
+      "discoveredText": "unsorted - source archive - unsorted/ravage.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/ravage.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/ravage-c2a77c4c.zip",
+      "status": "ready",
+      "size": 21092,
+      "sha1": "34a9383d6782df7b6a5106f1502857419290c99d"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/registryreader.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/registryreader.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/registryreader.zip",
+      "name": "registryreader.zip",
+      "discoveredText": "unsorted - source archive - unsorted/registryreader.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/registryreader.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/registryreader-0dffb0fc.zip",
+      "status": "ready",
+      "size": 1313,
+      "sha1": "d3141b910559ad0c69e5bf207885cefba92d40eb"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/salem32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/salem32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/salem32.zip",
+      "name": "salem32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/salem32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/salem32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/salem32-1d309801.zip",
+      "status": "ready",
+      "size": 5587,
+      "sha1": "55002569b9768643604ea6bae945a28b4f6d0048"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+      "name": "Scan_That_Bas_10.patorjk.zip",
+      "discoveredText": "unsorted - source archive - unsorted/Scan_That_Bas_10.patorjk.zip - tags: chat scan/control, source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/scan-that-bas-10-patorjk-ca2b5288.zip",
+      "status": "ready",
+      "size": 27085,
+      "sha1": "9767116222ee5ed65e3c2bc9213834c775aad78c"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/silentascii.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/silentascii.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/silentascii.zip",
+      "name": "silentascii.zip",
+      "discoveredText": "unsorted - source archive - unsorted/silentascii.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/silentascii.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/silentascii-309c3944.zip",
+      "status": "ready",
+      "size": 551551,
+      "sha1": "c73d92ae4f73789c63e523e70f3141b0ea51e047"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sirvb6.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sirvb6.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sirvb6.zip",
+      "name": "sirvb6.zip",
+      "discoveredText": "unsorted - source archive - unsorted/sirvb6.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/sirvb6.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/sirvb6-37d14628.zip",
+      "status": "ready",
+      "size": 35252,
+      "sha1": "248b33d532c768869af9988e275fea8fecf52f64"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sloveaol6.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sloveaol6.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sloveaol6.zip",
+      "name": "sloveaol6.zip",
+      "discoveredText": "unsorted - source archive - unsorted/sloveaol6.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/sloveaol6.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/sloveaol6-b2b552e0.zip",
+      "status": "ready",
+      "size": 11229,
+      "sha1": "28b6b175e8b45f132e98b13ff00349d2243bb50f"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sncoolector.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sncoolector.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sncoolector.zip",
+      "name": "sncoolector.zip",
+      "discoveredText": "unsorted - source archive - unsorted/sncoolector.zip - tags: screen-name utility, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/sncoolector.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/sncoolector-988eb5e1.zip",
+      "status": "ready",
+      "size": 14616,
+      "sha1": "f2b85dc1412b80b3f1426d3c0e5cb969483eba09"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/tetrinet.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/tetrinet.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/tetrinet.zip",
+      "name": "tetrinet.zip",
+      "discoveredText": "unsorted - source archive - unsorted/tetrinet.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/tetrinet.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/tetrinet-2ebf2ae4.zip",
+      "status": "ready",
+      "size": 3605,
+      "sha1": "8613f1eff2ceed3850270ef05cfba7ae42945260"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/thumper32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/thumper32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/thumper32.zip",
+      "name": "thumper32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/thumper32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/thumper32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/thumper32-069c45de.zip",
+      "status": "ready",
+      "size": 13466,
+      "sha1": "d95c0a5478dfd39556b4f05a84254c069479cd03"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/toyboat.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/toyboat.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/toyboat.zip",
+      "name": "toyboat.zip",
+      "discoveredText": "unsorted - source archive - unsorted/toyboat.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/toyboat.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/toyboat-57e35c0f.zip",
+      "status": "ready",
+      "size": 484018,
+      "sha1": "88cf02a9c7fecf3b522643b928f9df0cdd0460e8"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/trident.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/trident.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/trident.zip",
+      "name": "trident.zip",
+      "discoveredText": "unsorted - source archive - unsorted/trident.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/trident.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/trident-e59d65e9.zip",
+      "status": "ready",
+      "size": 53011,
+      "sha1": "f666af246e4440da094e11631d0b82a35be81dc0"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/tru32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/tru32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/tru32.zip",
+      "name": "tru32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/tru32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/tru32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/tru32-886676e9.zip",
+      "status": "ready",
+      "size": 11187,
+      "sha1": "9f2177f7aed341e91af9d4ba8fab01f9bbf99532"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/warp32.zip",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/warp32.zip",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/warp32.zip",
+      "name": "warp32.zip",
+      "discoveredText": "unsorted - source archive - unsorted/warp32.zip - tags: all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/unsorted/warp32.zip",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "unsorted",
+      "localPath": "files/external/raw-githubusercontent-com/warp32-8b346149.zip",
+      "status": "ready",
+      "size": 9227,
+      "sha1": "fb58459afd263d35c817d2eaf369c87f0b08f76d"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+      "name": "xakAOL3ChatScanBeta.rar",
+      "discoveredText": "AOL 2.5-3.0 - source archive - 25-30/xakAOL3ChatScanBeta.rar - tags: chat scan/control, room/chat, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+      "referenceSourceKind": "source archive",
+      "referenceSourceVersion": "AOL 2.5-3.0",
+      "localPath": "files/external/raw-githubusercontent-com/xakaol3chatscanbeta-0350b976.rar",
+      "status": "ready",
+      "size": 73312,
+      "sha1": "5d81987fbdf1d224f8570a83e7e8c0316b7587b6"
+    },
+    {
+      "sourceList": "AOLUnderground reference source-code tree",
+      "sourceListUrl": "https://github.com/ssstonebraker/aolunderground-proggies/tree/main/programming/vb/aol",
+      "originalUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/help/help.rtf",
+      "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/help/help.rtf",
+      "downloadUrl": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/help/help.rtf",
+      "name": "help.rtf",
+      "discoveredText": "AOL 4.0-5.0 - tutorial/help file - 40-50/tutorials/help/help.rtf - tags: source/tutorial, all-in-one/prog suite - reference mirror path; not an authorship source",
+      "referenceSourcePath": "programming/vb/aol/40-50/tutorials/help/help.rtf",
+      "referenceSourceKind": "tutorial/help file",
+      "referenceSourceVersion": "AOL 4.0-5.0",
+      "localPath": "files/external/raw-githubusercontent-com/help-3f4926b8.rtf",
+      "status": "ready",
+      "size": 5298,
+      "sha1": "63e997b30c4cc5f8a7b4b23c5fbfba55f09d1af4"
     }
   ]
 };

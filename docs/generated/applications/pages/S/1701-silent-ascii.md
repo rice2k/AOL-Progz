@@ -2,7 +2,7 @@
 
 
 
-A macro, ASCII art, canned-command, or repeated-text utility for chat/profile output. Filename/catalog cues suggest: scrolling, macros, or ASCII text.
+A macro, ASCII art, canned-command, or repeated-text utility for chat/profile output. Filename/catalog cues suggest: scrolling, macros, or ASCII text. Recovered external ZIP text also suggests: Scroller / macro, Fader / text styler, Screen-name utility, Source / developer file, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -33,9 +33,9 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Category | scroller or macro |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | Scroller / macro, Fader / text styler, Screen-name utility, Source / developer file, AOL/AIM chat utility |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 1 |
@@ -43,25 +43,26 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Download status | ready |
 | Local mirrored size | 22 B |
 | Matched web download links | 2 |
-| Matched mirror leads | 0 |
+| Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
-| Category confidence | catalog/path inferred |
+| Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (4) |
-| Manual review flags | author unknown, no readable text evidence |
-| Next research action | Search readmes, NFOs, source comments, and old-page text for an author clue. |
+| Review priority | medium (5) |
+| Manual review flags | author unknown, matched external ZIP text to verify |
+| Next research action | Open the external ZIP text evidence page and promote reliable author/version/purpose clues. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1701-silent-ascii.zip](../../../../../files/aol/aol-4-0/1701-silent-ascii.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
+- Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silentascii.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silentascii.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silentascii.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silentascii.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/silentascii.zip)
@@ -89,7 +90,11 @@ No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/silentascii-309c3944.zip](../../../../../files/external/raw-githubusercontent-com/silentascii-309c3944.zip) | Silent Ascii/About.txt<br>Silent Ascii/dos32.bas | none | none | Scroller / macro<br>Fader / text styler<br>Screen-name utility<br>Source / developer file<br>AOL/AIM chat utility | unknown | unknown |
 
 ### Source Mentions
 
@@ -106,7 +111,9 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Mirror Leads
 
-No external mirror leads are matched to this entry yet.
+| Source | Label | Original URL | Wayback URL | Local recovered file | Status |
+| --- | --- | --- | --- | --- | --- |
+| AOLUnderground reference source-code tree | silentascii.zip | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/silentascii.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/silentascii.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/silentascii.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/silentascii.zip) | [files/external/raw-githubusercontent-com/silentascii-309c3944.zip](../../../../../files/external/raw-githubusercontent-com/silentascii-309c3944.zip) | ready |
 
 ### Web Image Leads
 

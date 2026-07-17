@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Account / TOS utility, Media / file utility, AOL/AIM chat utility.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Account / TOS utility, Media / file utility, AOL/AIM chat utility, All-in-one prog suite, Fader / text styler, Idler / AFK bot.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,14 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
-| External ZIP text version mentions | unknown |
+| External ZIP text version mentions | AOL 30, AOL 1, AOL 25 |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | Account / TOS utility, Media / file utility, AOL/AIM chat utility |
+| External ZIP text purpose clues | Account / TOS utility, Media / file utility, AOL/AIM chat utility, All-in-one prog suite, Fader / text styler, Idler / AFK bot, Room buster, Punter / booter, C-Com / command list, Scroller / macro, Mass mailer / server, Screen-name utility, Source / developer file |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 1 |
+| Matched external ZIP text evidence | 2 |
 | Visual Basic | VB4-32 |
 | Compile type | unknown |
 | Duplicate count | 2 |
@@ -43,7 +43,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | remote-only |
 | Local mirrored size | unknown |
 | Matched web download links | 2 |
-| Matched mirror leads | 2 |
+| Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
@@ -62,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 - Local mirrored archive: remote-only
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 2 link(s) listed below
+- Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/remaudio2.zip)
@@ -95,6 +95,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | [files/external/angelfire-com/mixed-2e564198.zip](../../../../../files/external/angelfire-com/mixed-2e564198.zip) | mixed.txt | none | none | Account / TOS utility<br>Media / file utility<br>AOL/AIM chat utility | unknown | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/mixed-add66cd4.zip](../../../../../files/external/raw-githubusercontent-com/mixed-add66cd4.zip) | mixed.bas | none | AOL 30<br>AOL 1<br>AOL 25 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>C-Com / command list | unknown | unknown |
 
 ### Source Mentions
 
@@ -114,6 +115,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
 | ProgzRescue Angelfire files | mixed.zip | [http://www.angelfire.com/electronic2/progz101/mixed.zip](http://www.angelfire.com/electronic2/progz101/mixed.zip) | [https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip](https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip) | [files/external/angelfire-com/mixed-2e564198.zip](../../../../../files/external/angelfire-com/mixed-2e564198.zip) | ready |
+| AOLUnderground reference source-code tree | mixed.zip | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mixed.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mixed.zip) | [files/external/raw-githubusercontent-com/mixed-add66cd4.zip](../../../../../files/external/raw-githubusercontent-com/mixed-add66cd4.zip) | ready |
 | LensHell Visual Basic | mixed.zip | [http://lenshellarchive.com/VBfiles/mixed.zip](http://lenshellarchive.com/VBfiles/mixed.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip) | unknown | candidate |
 
 ### Web Image Leads

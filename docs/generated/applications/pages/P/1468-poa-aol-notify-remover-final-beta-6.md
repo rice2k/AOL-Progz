@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Recovered external ZIP text also suggests: Source / developer file.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -28,14 +28,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
-| External ZIP text version mentions | unknown |
+| External ZIP text version mentions | AOL 4, AOL 4.0 |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | unknown |
+| External ZIP text purpose clues | Source / developer file |
 | Archive text files reviewed | none |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | unknown |
 | Compile type | unknown |
 | Duplicate count | 3 |
@@ -43,26 +43,26 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 65 KB |
 | Matched web download links | 2 |
-| Matched mirror leads | 1 |
+| Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
-| Category confidence | needs review |
+| Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (8) |
-| Manual review flags | category uncertain, type uncertain, no readable text evidence |
+| Review priority | high (9) |
+| Manual review flags | category uncertain, type uncertain, matched external ZIP text to verify |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1468-poa-aol-notify-remover-final-beta-6.zip](../../../../../files/aol/aol-4-0/1468-poa-aol-notify-remover-final-beta-6.zip)
 - Old-web / Wayback download leads: 2 link(s) listed below
-- Matched mirror leads: 1 link(s) listed below
+- Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/poa3beta6.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/poa3beta6.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/poa3beta6.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/poa3beta6.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/poa3beta6.zip)
@@ -90,7 +90,11 @@ No readable ReadMe/NFO/source text has been extracted for this entry yet.
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/mover-d3c41319.zip](../../../../../files/external/raw-githubusercontent-com/mover-d3c41319.zip) | mover.bas | none | AOL 4<br>AOL 4.0 | Source / developer file | 'this was made in Vb 5 Pro but works with all versions<br>'this is for aol 4.o all thought there is not may subs | unknown |
 
 ### Source Mentions
 
@@ -109,6 +113,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Original URL | Wayback URL | Local recovered file | Status |
 | --- | --- | --- | --- | --- | --- |
+| AOLUnderground reference source-code tree | mover.zip | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mover.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mover.zip) | [files/external/raw-githubusercontent-com/mover-d3c41319.zip](../../../../../files/external/raw-githubusercontent-com/mover-d3c41319.zip) | ready |
 | LensHell Visual Basic | mover.zip | [http://lenshellarchive.com/VBfiles/mover.zip](http://lenshellarchive.com/VBfiles/mover.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mover.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mover.zip) | unknown | candidate |
 
 ### Web Image Leads

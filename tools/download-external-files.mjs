@@ -8,6 +8,7 @@ const manifestPath = path.join(rootDir, "data", "external-downloads.json");
 const manifestJsPath = path.join(rootDir, "data", "external-downloads.js");
 const webResourcesPath = path.join(rootDir, "data", "web-resources.json");
 const archiveOrgPath = path.join(rootDir, "data", "archiveorg-software.json");
+const referenceSourceCodePath = path.join(rootDir, "data", "reference-source-code.json");
 const limit = Number(process.env.AOL_EXTERNAL_DOWNLOAD_LIMIT || 50);
 const maxMb = Number(process.env.AOL_EXTERNAL_MAX_MB || 50);
 const timeoutMs = Number(process.env.AOL_EXTERNAL_TIMEOUT_MS || 25000);
@@ -315,6 +316,33 @@ function parseArchiveOrgCandidates() {
     }
   }
   return candidates;
+}
+
+function parseReferenceSourceCodeCandidates() {
+  if (!existsSync(referenceSourceCodePath)) return [];
+  const data = JSON.parse(readFileSync(referenceSourceCodePath, "utf8"));
+  return (data.files || [])
+    .filter((file) => file.importCandidate && file.rawUrl)
+    .map((file) => ({
+      sourceList: "AOLUnderground reference source-code tree",
+      sourceListUrl: data.sourceUrl || "",
+      originalUrl: file.rawUrl,
+      waybackUrl: file.githubUrl || file.rawUrl,
+      downloadUrl: file.rawUrl,
+      name: file.name,
+      discoveredText: [
+        file.versionBucket,
+        file.kind,
+        file.relativePath,
+        file.featureTags?.length ? `tags: ${file.featureTags.join(", ")}` : "",
+        "reference mirror path; not an authorship source",
+      ]
+        .filter(Boolean)
+        .join(" - "),
+      referenceSourcePath: file.path,
+      referenceSourceKind: file.kind,
+      referenceSourceVersion: file.versionBucket,
+    }));
 }
 
 function candidatePriority(candidate) {
@@ -642,6 +670,7 @@ function buildMirrorGroups(downloads, candidates) {
 async function main() {
   const allCandidates = [...directDownloads, ...parseWebResourceCandidates()];
   allCandidates.push(...parseArchiveOrgCandidates());
+  allCandidates.push(...parseReferenceSourceCodeCandidates());
   for (const list of urlLists) {
     const text = await fetchList(list);
     allCandidates.push(...parseCandidates(list, text));

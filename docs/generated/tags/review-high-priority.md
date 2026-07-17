@@ -1,6 +1,6 @@
 # Tag: review-high-priority
 
-**Count:** 1287
+**Count:** 1288
 
 | # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -327,6 +327,7 @@
 | 613 | [DSbusta](../applications/pages/D/0613-dsbusta.md) | DSbusta | Unknown / needs review | uncategorized | AOL 4.0 | Ranger | 577 KB | [local](../../../files/aol/aol-4-0/0613-dsbusta.zip) | 0 |
 | 614 | [DSERVER](../applications/pages/D/0614-dserver.md) | DSERVER | Unknown / needs review | uncategorized | AOL 4.0 | Undertow | 2.1 MB | [local](../../../files/aol/aol-4-0/0614-dserver.zip) | 0 |
 | 617 | [Dub Cdplayer](../applications/pages/D/0617-dub-cdplayer.md) | dubcd | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 4-5 | unknown | 22 B | [local](../../../files/aol/aol-4-0/0617-dubcd.zip) | 0 |
+| 620 | [Dupe Killer](../applications/pages/D/0620-dupe-killer.md) | Dupe Killer | Unknown / needs review | uncategorized | AOL 4.0 | z0ne | 2.9 MB | [local](../../../files/aol/aol-4-0/0620-dupe-killer.zip) | 0 |
 | 621 | [duracell](../applications/pages/D/0621-duracell.md) | duracell | Unknown / needs review | uncategorized | AOL 4.0 | TimeBomb | 344 KB | [local](../../../files/aol/aol-4-0/0621-duracell.zip) | 0 |
 | 626 | [Dynamic](../applications/pages/D/0626-dynamic.md) | Dynamic | Unknown / needs review | uncategorized | AOL 4.0 | latino | 1.5 MB | [local](../../../files/aol/aol-4-0/0626-dynamic.zip) | 0 |
 | 630 | [Earth Siege](../applications/pages/E/0630-earth-siege.md) | Earth Siege | Unknown / needs review | uncategorized | AOL 4.0 | Hyper | 2.6 MB | [local](../../../files/aol/aol-4-0/0630-earth-siege.zip) | 0 |

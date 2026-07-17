@@ -739,6 +739,7 @@ const externalArchiveText = readJson("data/external-archive-text.json", { record
 const missingCandidates = readJson("data/missing-candidates.json", { candidates: [] });
 const programEnrichment = readJson("data/program-enrichment.json", { perProgram: {} });
 const archiveOrgSoftware = readJson("data/archiveorg-software.json", { items: [] });
+const referenceSourceCode = readJson("data/reference-source-code.json", { files: [] });
 const externalDownloadByUrl = new Map((externalDownloads.downloads || []).map((item) => [canonicalUrl(item.originalUrl), item]));
 
 function recoveryForUrl(url) {
@@ -971,6 +972,22 @@ function buildMasterLinks() {
     for (const image of item.images || []) {
       add({ url: image.url, label: image.name, kind: "Archive.org preview image", source: item.title, context: image.sizeLabel || "" });
     }
+  }
+  for (const file of referenceSourceCode.files || []) {
+    add({
+      url: file.rawUrl,
+      label: file.name,
+      kind: file.importCandidate ? "reference source import candidate" : "reference source raw file",
+      source: referenceSourceCode.sourceName || "reference source-code tree",
+      context: [file.versionBucket, file.kind, file.relativePath, file.sizeLabel].filter(Boolean).join("; "),
+    });
+    add({
+      url: file.githubUrl,
+      label: `${file.name} GitHub reference`,
+      kind: "reference source GitHub page",
+      source: referenceSourceCode.sourceName || "reference source-code tree",
+      context: [file.versionBucket, file.kind, file.relativePath].filter(Boolean).join("; "),
+    });
   }
 
   return [...links.values()].map((item) => ({
@@ -1228,6 +1245,27 @@ function originalDownloadRecords() {
         detailPage: `${generatedRoot}/sources/archiveorg-aol-aim-software.md`,
       });
     }
+  }
+  for (const file of referenceSourceCode.files || []) {
+    const recovery = recoveryForUrl(file.rawUrl);
+    add({
+      name: file.name || file.relativePath,
+      kind: file.importCandidate ? "reference source import candidate" : "reference source raw file",
+      status: recovery?.status || (file.importCandidate ? "candidate" : "linked"),
+      source: referenceSourceCode.sourceName || "reference source-code tree",
+      url: file.rawUrl,
+      localPath: recovery?.localPath || "",
+      detailPage: `${generatedRoot}/sources/reference-source-code.md`,
+    });
+    add({
+      name: file.name || file.relativePath,
+      kind: "reference source GitHub page",
+      status: "reference",
+      source: referenceSourceCode.sourceName || "reference source-code tree",
+      url: file.githubUrl,
+      localPath: recovery?.localPath || "",
+      detailPage: `${generatedRoot}/sources/reference-source-code.md`,
+    });
   }
   for (const candidate of missingCandidates.candidates || []) {
     for (const mirror of candidate.mirrors || []) {
@@ -2502,6 +2540,7 @@ writeDoc(
     "- [Master all-links index](all-links.md)",
     "- [Links you supplied](user-supplied-links.md)",
     "- [Crawled source pages](source-pages.md)",
+    "- [Reference source-code tree](reference-source-code.md)",
     "- [Top source sites](top-source-sites.md)",
     "- [Source deep dives](source-deep-dives.md)",
     "- [LensHell category report](lenshell-categories.md)",
@@ -2588,6 +2627,69 @@ writeDoc(
     "# Crawled Source Pages",
     "",
     table(["Name", "Kind", "Status", "Title", "Links", "Downloads", "Local copy", "URL"], sourcePageRows),
+  ].join("\n"),
+);
+
+const referenceSourceRows = (referenceSourceCode.files || []).map((file) => {
+  const recovery = recoveryForUrl(file.rawUrl);
+  return [
+    file.name,
+    file.versionBucket,
+    file.kind,
+    file.relativePath,
+    file.sizeLabel,
+    file.importCandidate ? "yes" : "",
+    recovery?.status || (file.importCandidate ? "candidate" : "linked"),
+    recovery?.localPath ? localLink(`${generatedRoot}/sources/reference-source-code.md`, recovery.localPath, recovery.localPath) : "",
+    link(file.rawUrl, file.rawUrl),
+    link(file.githubUrl, file.githubUrl),
+    (file.featureTags || []).join("<br>"),
+  ];
+});
+
+const referenceImportRows = referenceSourceRows.filter((row) => row[5] === "yes");
+
+writeDoc(
+  `${generatedRoot}/sources/reference-source-code.md`,
+  [
+    "# Reference Source-Code Tree",
+    "",
+    "AOL-era Visual Basic source files, modules, tutorials, controls, and source archives from the AOLUnderground reference source tree. These records are treated as reference mirror paths; author and purpose claims should come from embedded source text, ReadMe files, or original old-web pages when available.",
+    "",
+    table([
+      "Metric",
+      "Value",
+    ], [
+      ["Source", referenceSourceCode.sourceUrl ? link(referenceSourceCode.sourceUrl, referenceSourceCode.sourceUrl) : "unknown"],
+      ["Files indexed", String(referenceSourceCode.fileCount || referenceSourceCode.files?.length || 0)],
+      ["Import candidates", String(referenceSourceCode.importCandidateCount || 0)],
+      ["Total indexed size", referenceSourceCode.totalSizeLabel || "unknown"],
+      ["Recovered import candidates", String((referenceSourceCode.files || []).filter((file) => recoveryForUrl(file.rawUrl)?.status === "ready").length)],
+    ]),
+    "",
+    "## By AOL Version Bucket",
+    "",
+    table(["Bucket", "Files"], Object.entries(referenceSourceCode.byVersion || {}).map(([key, value]) => [key, String(value)])),
+    "",
+    "## By Source Kind",
+    "",
+    table(["Kind", "Files"], Object.entries(referenceSourceCode.byKind || {}).sort((a, b) => b[1] - a[1]).map(([key, value]) => [key, String(value)])),
+    "",
+    "## Import Candidates",
+    "",
+    "Small source archives and help/tutorial files that can be recovered into this GitHub archive. Recovery status reflects the latest external-download pass.",
+    "",
+    table(
+      ["Name", "AOL bucket", "Kind", "Reference path", "Size", "Import", "Status", "Local file", "Raw URL", "GitHub page", "Tags"],
+      referenceImportRows,
+    ),
+    "",
+    "## Full Source Tree",
+    "",
+    table(
+      ["Name", "AOL bucket", "Kind", "Reference path", "Size", "Import", "Status", "Local file", "Raw URL", "GitHub page", "Tags"],
+      referenceSourceRows,
+    ),
   ].join("\n"),
 );
 
@@ -3394,6 +3496,46 @@ writeCsv(
   originalDownloads.map((item) => originalUrlExportHeaders.map((field) => item[field])),
 );
 
+const referenceSourceExports = (referenceSourceCode.files || []).map((file) => {
+  const recovery = recoveryForUrl(file.rawUrl);
+  return {
+    name: file.name,
+    path: file.relativePath,
+    versionBucket: file.versionBucket,
+    kind: file.kind,
+    extension: file.extension,
+    size: file.size,
+    sizeLabel: file.sizeLabel,
+    importCandidate: file.importCandidate ? "yes" : "no",
+    status: recovery?.status || (file.importCandidate ? "candidate" : "linked"),
+    localPath: recovery?.localPath || "",
+    rawUrl: file.rawUrl,
+    githubUrl: file.githubUrl,
+    featureTags: (file.featureTags || []).join("; "),
+  };
+});
+const referenceSourceExportHeaders = [
+  "name",
+  "path",
+  "versionBucket",
+  "kind",
+  "extension",
+  "size",
+  "sizeLabel",
+  "importCandidate",
+  "status",
+  "localPath",
+  "rawUrl",
+  "githubUrl",
+  "featureTags",
+];
+writeJson(`${generatedRoot}/exports/reference-source-code.json`, referenceSourceExports);
+writeCsv(
+  `${generatedRoot}/exports/reference-source-code.csv`,
+  referenceSourceExportHeaders,
+  referenceSourceExports.map((item) => referenceSourceExportHeaders.map((field) => item[field])),
+);
+
 writeDoc(
   `${generatedRoot}/exports/README.md`,
   [
@@ -3421,6 +3563,12 @@ writeDoc(
           String(originalDownloads.length),
           localLink(`${generatedRoot}/exports/README.md`, "original-download-urls.csv", `${generatedRoot}/exports/original-download-urls.csv`),
           localLink(`${generatedRoot}/exports/README.md`, "original-download-urls.json", `${generatedRoot}/exports/original-download-urls.json`),
+        ],
+        [
+          "Reference source-code tree",
+          String(referenceSourceExports.length),
+          localLink(`${generatedRoot}/exports/README.md`, "reference-source-code.csv", `${generatedRoot}/exports/reference-source-code.csv`),
+          localLink(`${generatedRoot}/exports/README.md`, "reference-source-code.json", `${generatedRoot}/exports/reference-source-code.json`),
         ],
       ],
     ),

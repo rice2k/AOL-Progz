@@ -35,7 +35,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive-text purpose clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Dupekiller/Description.txt |
-| Matched external ZIP text evidence | 0 |
+| Matched external ZIP text evidence | 1 |
 | Visual Basic | VB6 |
 | Compile type | native |
 | Duplicate count | 2 |
@@ -43,26 +43,26 @@ The catalog metadata and filename do not identify a confident single function ye
 | Download status | ready |
 | Local mirrored size | 2.9 MB |
 | Matched web download links | 3 |
-| Matched mirror leads | 4 |
+| Matched mirror leads | 5 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (7) |
-| Manual review flags | category uncertain, type uncertain |
+| Review priority | high (9) |
+| Manual review flags | category uncertain, type uncertain, matched external ZIP text to verify |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0620-dupe-killer.zip](../../../../../files/aol/aol-4-0/0620-dupe-killer.zip)
 - Old-web / Wayback download leads: 3 link(s) listed below
-- Matched mirror leads: 4 link(s) listed below
+- Matched mirror leads: 5 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip)
 - Reference repository raw mirror: [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/dupekiller.zip)
@@ -94,7 +94,11 @@ Readable archive text is used as provenance evidence for author, purpose, old UR
 
 ### Matched External ZIP Text Evidence
 
-No recovered external ZIP text is matched to this entry yet.
+Readable text from recovered external mirrors is listed separately from the local catalog archive scan. It is used as provenance and clue evidence, not as a guaranteed authorship claim.
+
+| Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip](../../../../../files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip) | DUPEKILL.bas | none | none | none | unknown | unknown |
 
 ### Source Mentions
 
@@ -116,6 +120,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- | --- | --- |
 | Web page: Visual Basic Section | dupekill.zip | [http://lenshellarchive.com/VBfiles/dupekill.zip](http://lenshellarchive.com/VBfiles/dupekill.zip) | [https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip](https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip) | unknown | http-404 |
 | Web page: prog's/misc a-m | dupekiller.zip | [http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip](http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip) | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dupekiller.zip) | unknown | http-404 |
+| AOLUnderground reference source-code tree | dupekill.zip | [https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip](https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip) | [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dupekill.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dupekill.zip) | [files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip](../../../../../files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip) | ready |
 | found-geocities-silicon-valley-files.txt | killer.zip | [http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip) | [http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip](http://www.geocities.com/SiliconValley/Bay/7020/zips/killer.zip) | unknown | candidate |
 | LensHell AIM progs | killer.zip | [http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip](http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip) | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/killertoolz.zip) | unknown | candidate |
 

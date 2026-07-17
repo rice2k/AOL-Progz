@@ -1,7 +1,7 @@
 window.AOL_PROGZ_MISSING_CANDIDATES = {
-  "generatedAt": "2026-07-16T22:58:34.895Z",
-  "candidateCount": 3111,
-  "readyCandidateCount": 337,
+  "generatedAt": "2026-07-17T01:10:16.882Z",
+  "candidateCount": 3149,
+  "readyCandidateCount": 424,
   "candidates": [
     {
       "key": "layout",
@@ -962,6 +962,45 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 3
     },
     {
+      "key": "readme-doc",
+      "fileName": "Readme.doc",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/controls/mpscan/Readme.doc",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/askars/ReadMe.doc",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/x5/README.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/x5/README.doc",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/readme-01e9eb35.doc",
+        "files/external/raw-githubusercontent-com/readme-89110f8d.doc",
+        "files/external/raw-githubusercontent-com/readme-76f507dd.doc"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 3
+    },
+    {
       "key": "wrar",
       "fileName": "wrar342.exe",
       "category": "unknown",
@@ -1102,6 +1141,52 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 2
     },
     {
+      "key": "chatocx",
+      "fileName": "chatocx2.zip",
+      "category": "runtime/support file",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
+          "source": "LensHell runtime files",
+          "status": "http-404"
+        },
+        {
+          "url": "http://www.coltpro.net/files3/missings/ChatOCX2.ocx",
+          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/ChatOCX2.ocx",
+          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/dos32/ChatOCX.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/macexv/ChatOCX.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/coltpro-net/chatocx2-5f3e25fd.ocx",
+        "files/external/raw-githubusercontent-com/chatocx-ce0d1a6f.zip"
+      ],
+      "sourcePages": [
+        "LensHell runtime files"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 4,
+      "readyCount": 2
+    },
+    {
       "key": "ss-d",
       "fileName": "ss3d.vbx",
       "category": "runtime/support file",
@@ -1150,6 +1235,60 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 2
     },
     {
+      "key": "cracksource",
+      "fileName": "cracksource.zip",
+      "category": "hazardous/account or remote-control context",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/cracksource.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cracksource.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "http://www.angelfire.com/tx5/goldice/cracksource.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/tx5/goldice/cracksource.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/cracksource.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/cracksource.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/cracksource.zip",
+        "files/external/raw-githubusercontent-com/cracksource-1c16975b.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "Mass mailer / server"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user="
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "frmMain.frm",
+          "text": "Private Sub sckCrack_Error(Index As Integer, ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean)"
+        }
+      ],
+      "externalTextFileCount": 6,
+      "mirrorCount": 3,
+      "readyCount": 2
+    },
+    {
       "key": "formatsn",
       "fileName": "formatsn.exe",
       "category": "AIM",
@@ -1187,6 +1326,61 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 2
+    },
+    {
+      "key": "mixed",
+      "fileName": "mixed.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/mixed.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.angelfire.com/electronic2/progz101/mixed.zip",
+          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip",
+          "source": "ProgzRescue Angelfire files",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mixed.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mixed.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/angelfire-com/mixed-2e564198.zip",
+        "files/external/raw-githubusercontent-com/mixed-add66cd4.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Account / TOS utility",
+        "Media / file utility",
+        "AOL/AIM chat utility",
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro"
+      ],
+      "externalTextVersions": [
+        "AOL 30",
+        "AOL 1",
+        "AOL 25"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 2,
       "mirrorCount": 3,
       "readyCount": 2
     },
@@ -1526,6 +1720,152 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "externalTextFileCount": 1,
       "mirrorCount": 9,
+      "readyCount": 1
+    },
+    {
+      "key": "dos",
+      "fileName": "dos32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://server39.hypermart.net/wipeout/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip",
+          "source": "VISUAL BASIC",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/dosv46.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dosv46.zip",
+          "source": "LensHell misc progs A-M",
+          "status": "http-404"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/dos47.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dos47.zip",
+          "source": "LensHell misc progs A-M",
+          "status": "http-404"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/dos32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dos32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
+          "waybackUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
+          "source": "Alpha32",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/dosv3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dosv3.zip",
+          "source": "LensHell misc progs A-M",
+          "status": "http-404"
+        },
+        {
+          "url": "http://www.geocities.com/SiliconValley/Bay/6893/files/dos3610.zip",
+          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/6893/files/dos3610.zip",
+          "source": "found-geocities-silicon-valley-files.txt",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/dos32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/dos32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/dos32-ccad63a8.zip"
+      ],
+      "sourcePages": [
+        "VISUAL BASIC",
+        "LensHell misc progs A-M",
+        "LensHell Visual Basic",
+        "Alpha32",
+        "found-geocities-silicon-valley-files.txt"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 8,
+      "readyCount": 1
+    },
+    {
+      "key": "master",
+      "fileName": "master1.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master1.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master1.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master2.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master3.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/master32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
+          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
+          "source": "User-supplied DNX ACP downloads",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/master1.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/master1.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/master1-2e84be85.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "ePoD for"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 6,
       "readyCount": 1
     },
     {
@@ -2083,6 +2423,61 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "macros",
+      "fileName": "aolmacros.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/aolmacros.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aolmacros.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/aolmacros.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacros.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/aolmacros.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "AolMacros.bas",
+          "text": "'This bas is 100% macros! made for aol"
+        },
+        {
+          "sourceFile": "AolMacros.bas",
+          "text": "'they release a new version. Look on lenshell.com"
+        }
+      ],
+      "externalTextFileCount": 2,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
       "key": "buddykill",
       "fileName": "buddykill.zip",
       "category": "AIM",
@@ -2120,6 +2515,65 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
+      "key": "chaos",
+      "fileName": "chaos232.zip",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/chaos232.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/chaos232.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/chaos232.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/chaos232.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chaos232.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/chaos232.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "my Boy"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [
+        "AOL 3",
+        "AOL 4",
+        "AOL 40",
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [
+        "http://www.hider.com/sonic/"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 4,
       "mirrorCount": 3,
       "readyCount": 1
     },
@@ -2203,6 +2657,49 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "cryofade",
+      "fileName": "cryofade.zip",
+      "category": "room buster",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/cryofade.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofade.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/cryofadev2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofadev2.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/cryofade.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/cryofade.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/cryofade-db2fe877.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "VvVCryoVvV"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
       "key": "dc",
       "fileName": "dc1.zip",
       "category": "AIM",
@@ -2281,6 +2778,72 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 3,
+      "readyCount": 1
+    },
+    {
+      "key": "monkefade",
+      "fileName": "monkefade3.zip",
+      "category": "fader",
+      "mirrors": [
+        {
+          "url": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
+          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
+          "source": "found-geocities-silicon-valley-files.txt",
+          "status": "candidate"
+        },
+        {
+          "url": "http://lenshellarchive.com/VBfiles/monkefade3.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/monkefade3.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/monkefade3.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/monkefade3.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/monkefade3-e25d17da.zip"
+      ],
+      "sourcePages": [
+        "found-geocities-silicon-valley-files.txt",
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "color or by Red Green and Blue",
+        "aDRaMoLEk",
+        "monk-e-god",
+        "monk-e-god for use in a RichTextBox"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://members.tripod.com/SonicTm",
+        "http://www.hider.com/sonic/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "MonkEFade3.bas",
+          "text": "'with tons of unique and cool features."
+        },
+        {
+          "sourceFile": "MonkEFade3.bas",
+          "text": "'bas allows you more combinations than"
+        },
+        {
+          "sourceFile": "MonkEFade3.bas",
+          "text": "'preview subs that allows you to view"
+        }
+      ],
+      "externalTextFileCount": 3,
       "mirrorCount": 3,
       "readyCount": 1
     },
@@ -2880,6 +3443,77 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "aohell-source-code",
+      "fileName": "AOHELL95_source_code.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/AOHELL95_source_code.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/AOHELL95_source_code.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "control"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Mass mailer / server",
+        "AOL/AIM chat utility",
+        "Screen-name utility",
+        "Media / file utility",
+        "Idler / AFK bot",
+        "Source / developer file",
+        "Account / TOS utility",
+        "Scroller / macro",
+        "Room buster"
+      ],
+      "externalTextVersions": [
+        "AOL 2.5"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "AOH/VBMSG.BAS",
+          "text": "usVersion As Integer 'VB version used by control"
+        },
+        {
+          "sourceFile": "AOH/THEBOT.FRM",
+          "text": "'MsgBox \"You must check the Re-Enter box to use the Re-Enter feature.\""
+        },
+        {
+          "sourceFile": "AOH/THEBOT.FRM",
+          "text": "MsgBox \"You must be signed on to AOL before you can use this feature!\", 16, \"Not Signed On!\""
+        },
+        {
+          "sourceFile": "AOH/THEBOT.FRM",
+          "text": "'MsgBox \" Thank You For Using The AOL-BOT By The Rizzer/Chr\" + Chr$(13) + \"Look For more Features SOON!\""
+        },
+        {
+          "sourceFile": "AOH/SEARCH.FRM",
+          "text": "l0114 = \"You Must Be Online To Use This Feature.\""
+        },
+        {
+          "sourceFile": "AOH/SEARCH.FRM",
+          "text": "l0114 = \"You Must Have WAOL Running To Use This Feature.\""
+        }
+      ],
+      "externalTextFileCount": 96,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "dnld",
       "fileName": "AOLDNLD.EXE",
       "category": "unknown",
@@ -2909,6 +3543,108 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "arc",
+      "fileName": "arc.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/arc.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arc.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arc.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/arc.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/arc-aba7a0cb.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "me because i didn't like them that much"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Idler / AFK bot",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [
+        "AOL 30",
+        "AOL 40",
+        "AOL 3",
+        "AOL 2",
+        "AOL 4",
+        "AOL 5",
+        "AOL 6",
+        "AOL 7",
+        "AOL 95",
+        "AOL 15"
+      ],
+      "externalTextUrls": [
+        "http://www.hackerz.com/memberz/index.htm1",
+        "http://www.teamfury.com/iteam"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 4,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "arena",
+      "fileName": "arena32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/arena32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arena32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/arena32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/arena32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/arena32-9f5ef475.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "lash"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 4",
+        "AOL 40"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -2947,35 +3683,175 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
-      "key": "chatocx",
-      "fileName": "chatocx2.zip",
-      "category": "runtime/support file",
+      "key": "bas",
+      "fileName": "bas01.zip",
+      "category": "unknown",
       "mirrors": [
         {
-          "url": "http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/Progs/vbxdll/chatocx2.zip",
-          "source": "LensHell runtime files",
-          "status": "http-404"
+          "url": "http://www16.geocities.com:80/SiliconValley/5246/bas01.zip",
+          "waybackUrl": "http://www16.geocities.com:80/SiliconValley/5246/bas01.zip",
+          "source": "found-geocities-silicon-valley-files.txt",
+          "status": "candidate"
         },
         {
-          "url": "http://www.coltpro.net/files3/missings/ChatOCX2.ocx",
-          "waybackUrl": "https://web.archive.org/web/20011023163855/http://www.coltpro.net/files3/missings/ChatOCX2.ocx",
-          "source": "User-supplied ColtPro missing DLL/OCX files",
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bas32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/bas32.zip",
+          "source": "AOLUnderground reference source-code tree",
           "status": "ready"
         }
       ],
       "readyLocalFiles": [
-        "files/external/coltpro-net/chatocx2-5f3e25fd.ocx"
+        "files/external/raw-githubusercontent-com/bas32-944b08c4.zip"
       ],
       "sourcePages": [
-        "LensHell runtime files"
+        "found-geocities-silicon-valley-files.txt"
       ],
       "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Linker / chat linker",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 2.5",
+        "AOL 3.0",
+        "AOL 5.0",
+        "AOL 4.0"
+      ],
       "externalTextUrls": [],
       "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "bofen",
+      "fileName": "bofen32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/bofen32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/bofen32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/bofen32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/bofen32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/bofen32-f13e9149.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "setting CheckForDupe to True"
+      ],
+      "externalTextPurposeSignals": [
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [
+        "http://www.bofen.com",
+        "http://aolsearch.aol.com/dirsearch.adp?query="
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "bofen32.bas",
+          "text": "' new features on your progs."
+        },
+        {
+          "sourceFile": "bofen32.bas",
+          "text": "' Anything you want to see in the next version? Lemme here your ideas..."
+        },
+        {
+          "sourceFile": "bofen32.bas",
+          "text": "' This sub will add Place$ to AOL's Favorite Places. Place is the name/description"
+        },
+        {
+          "sourceFile": "bofen32.bas",
+          "text": "' This sub is used to ignore a screenname in the chatroom by their index"
+        },
+        {
+          "sourceFile": "bofen32.bas",
+          "text": "' This sub is used to unignore a screenname in the chatroom by their index"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "chronicbas",
+      "fileName": "chronicbas.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/chronicbas.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/chronicbas.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/chronicbas.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/chronicbas.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/chronicbas-cd8b3694.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "C-Com / command list",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 6.0",
+        "AOL 7.0",
+        "AIM 4.7"
+      ],
+      "externalTextUrls": [
+        "http://members.cox.net/tsmclan/memberspass.html"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Chronic.bas",
+          "text": "'For Aim 4.7+,Aol 6.0/7.0,Yahoo,Kazza"
+        },
+        {
+          "sourceFile": "Chronic.bas",
+          "text": "'sorry this sub dosen't work with the new aim hehe-BRU"
+        }
+      ],
+      "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3082,25 +3958,25 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
-      "key": "cracksource",
-      "fileName": "cracksource.zip",
-      "category": "hazardous/account or remote-control context",
+      "key": "coreapi",
+      "fileName": "coreapi.zip",
+      "category": "unknown",
       "mirrors": [
         {
-          "url": "http://lenshellarchive.com/VBfiles/cracksource.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cracksource.zip",
+          "url": "http://lenshellarchive.com/VBfiles/coreapi.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/coreapi.zip",
           "source": "LensHell Visual Basic",
           "status": "http-404"
         },
         {
-          "url": "http://www.angelfire.com/tx5/goldice/cracksource.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/tx5/goldice/cracksource.zip",
-          "source": "ProgzRescue Angelfire files",
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/coreapi.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/coreapi.zip",
+          "source": "AOLUnderground reference source-code tree",
           "status": "ready"
         }
       ],
       "readyLocalFiles": [
-        "files/external/angelfire-com/cracksource.zip"
+        "files/external/raw-githubusercontent-com/coreapi-759b71aa.zip"
       ],
       "sourcePages": [
         "LensHell Visual Basic"
@@ -3108,23 +3984,47 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [
         "Fader / text styler",
+        "Room buster",
+        "C-Com / command list",
+        "Scroller / macro",
         "Account / TOS utility",
         "Screen-name utility",
         "Source / developer file",
         "Media / file utility",
-        "Mass mailer / server"
+        "AOL/AIM chat utility"
       ],
-      "externalTextVersions": [],
-      "externalTextUrls": [
-        "http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user="
+      "externalTextVersions": [
+        "AOL 3",
+        "AOL 3.0"
       ],
+      "externalTextUrls": [],
       "externalTextDescriptions": [
         {
-          "sourceFile": "frmMain.frm",
-          "text": "Private Sub sckCrack_Error(Index As Integer, ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean)"
+          "sourceFile": "core-api.bas",
+          "text": "ShowCursor ¡ bShow9  AC_GetHostNameç  chatõ elseChatÓ  PNumÉ  Version @ AC_IMRooms FinalMsg~¢ ErrBoxs¡@ AC_SetToAOLC  MDI mnuIndW  IMFoundÚ¨ IMWin IM_Neededñ¡ AC_IMAnswer¯  AnsMsgè¢ Res¦¡ Col¹"
+        },
+        {
+          "sourceFile": "core-api.bas",
+          "text": "4 í , AOL Frame25 æ  { { ä ¦ E ¸ í 0 r + You must have AOL open to use this program. ä í"
+        },
+        {
+          "sourceFile": "core-api.bas",
+          "text": "_AOL_COMBOBOX ¸ Û Û ä ñ E Ô ä   ä ¦ I > í 0 î * You must be signed on to use this program. å 0 V ]& ä r = J 8  r 9 ÿÿÿÿÿÿÿÿ"
+        },
+        {
+          "sourceFile": "core-api.bas",
+          "text": "AC_NameFix 0ö X 2© ³©  n  g  ) t , ¦ E  í . D ( You must be offline to use this feature. ä í"
+        },
+        {
+          "sourceFile": "core-api.bas",
+          "text": "_AOL_COMBOBOX ¸ Û Û ä ñ E Ô ä ä ¦ I D í 8 ê 3 You need to be signed onto AOL to use this feature. ä í"
+        },
+        {
+          "sourceFile": "core-api.bas",
+          "text": "$ ä Ê§ = ¦ 8 9 ÿÿÿÿÿÿÿÿ, AC_RoomCheck 0 @ \" Á á ¹ ¹ ä ¦ I  ä \" í 2 < - You need to be in a room to use this feature. ä í"
         }
       ],
-      "externalTextFileCount": 3,
+      "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3161,6 +4061,182 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "creep",
+      "fileName": "creep.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/creep.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/creep.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/creep.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/creep.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/creep-b749a408.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "aDRaMoLEk",
+        "monk-e-god",
+        "monk-e-god for use in a RichTextBox"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AIM 3.0",
+        "AIM 3.5"
+      ],
+      "externalTextUrls": [
+        "http://fly.to/phrozen"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Creep.bas",
+          "text": "'-[Creep.bas for AIM 3.0/3.5/Maybe 4.0]-"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "dahoaxbas",
+      "fileName": "dahoaxbas.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/dahoaxbas.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dahoaxbas.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dahoaxbas.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dahoaxbas.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/dahoaxbas-b2e97801.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 5",
+        "AOL 6",
+        "AOL 6.0",
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "externalTextUrls": [
+        "http://www.dawgzprogz.com",
+        "http://www.freeprogz.com",
+        "http://www.lenshell.com",
+        "http://www.yahoo.com",
+        "http://www.snap.com",
+        "http://www.oogle.net",
+        "http://www.angelfire.com",
+        "http://www.flowers.com",
+        "http://www.candy.com",
+        "http://www.pretty.com"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "DaHoaxBas.bas",
+          "text": "' I used to use the modules from that source, but as you"
+        },
+        {
+          "sourceFile": "DaHoaxBas.bas",
+          "text": "'***NOTE*** this only worx for aol 6.0"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "d-gold",
+      "fileName": "daimgold.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/daimgold.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/daimgold.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/daimgold.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/daimgold.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/daimgold-bdc90185.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "RaiD rewrote by me"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "All-in-one prog suite"
+      ],
+      "externalTextVersions": [
+        "AIM 95"
+      ],
+      "externalTextUrls": [
+        "http://members.xoom.xom/DigitalFlame/index.html",
+        "http://www.hider.com"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "MassInviteEx.frm",
+          "text": "Label3.Caption = \"This is all the code I used to make this form.\""
+        }
+      ],
+      "externalTextFileCount": 9,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3233,6 +4309,150 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "digitek",
+      "fileName": "digitek.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/digitek.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/digitek.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/digitek.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/digitek.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/digitek-cc6d9120.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AIM 3.5",
+        "AIM 95"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "dive",
+      "fileName": "dive32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/dive32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dive32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dive32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dive32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/dive32-6b16a4ee.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "ReadProcessMemory",
+        "6 so sBuffer needs",
+        "Its Order In The Window"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "dive32.bas",
+          "text": "'Function and Subs, items used to access"
+        },
+        {
+          "sourceFile": "dive32.bas",
+          "text": "' Get a valid process handle for AOL that enables you to read(PROCESS_VM_READ) memory in it's process space."
+        },
+        {
+          "sourceFile": "dive32.bas",
+          "text": "' Get the process ID for AOL's main thread. Since AOL is not a multithreaded application each window use the same"
+        },
+        {
+          "sourceFile": "dive32.bas",
+          "text": "Dim lCnt As Long ' Counter used to loop through the list"
+        },
+        {
+          "sourceFile": "dive32.bas",
+          "text": "'Is there a strng$ to work with?"
+        },
+        {
+          "sourceFile": "dive32.bas",
+          "text": "MsgBox \"Please sign on before using this feature.\", 64, \"Online\""
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "dupekill",
+      "fileName": "dupekill.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/dupekill.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dupekill.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dupekill.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/dupekill-3d0c0c85.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "dwsbc",
       "fileName": "dwsbc32.zip",
       "category": "runtime/support file",
@@ -3267,6 +4487,45 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "effex",
+      "fileName": "effex.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/effex.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/effex.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/effex.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/effex.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/effex-c51c5882.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "Swift",
+        "Dos is Noted"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Source / developer file"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "fbimage",
       "fileName": "fbimage.zip",
       "category": "AIM",
@@ -3297,6 +4556,286 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "fly",
+      "fileName": "flyaim35.zip",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/flyaim35.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyaim35.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyaim35.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/flyaim35.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/flyaim35-d944e642.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "clash"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "C-Com / command list",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AIM 3.5"
+      ],
+      "externalTextUrls": [
+        "Http://www.deadbyte.com"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "flyman",
+      "fileName": "flyman2000.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/flyman2000.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyman2000.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/flyman2000.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/flyman2000.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/flyman2000-f9ab8abb.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "Flyman"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.devi1.com/flyman",
+        "http://www.flyman2000.com"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "formdragxp",
+      "fileName": "formdragxp.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/formdragxp.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/formdragxp.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/formdragxp.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/formdragxp.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/formdragxp-6022ec0c.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "formdragXP.txt",
+          "text": "but not with xp. So the updated code that works on"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "freespy",
+      "fileName": "freespy.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/freespy.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/freespy.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/freespy.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/freespy.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/freespy-3e509373.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "frubal",
+      "fileName": "frubal420.zip",
+      "category": "AIM",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/frubal420.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/frubal420.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/frubal420.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/frubal420.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/frubal420-cb6e7d2f.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "psyche"
+      ],
+      "externalTextPurposeSignals": [
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "AOL/AIM chat utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://members.tripod.com/~dstroya/start.html",
+        "http://www.hider.com/sonic/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "frubal_420.bas",
+          "text": "'This bas is one of the more flexible, high quality 32 bit bas's for Aim"
+        },
+        {
+          "sourceFile": "frubal_420.bas",
+          "text": "'This one's for you. This allows you to set the the Sign On screen name"
+        }
+      ],
+      "externalTextFileCount": 3,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "genozide",
+      "fileName": "genozide.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/genozide.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/genozide.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/genozide.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/genozide.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/genozide-da48c35c.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 30",
+        "AOL 25"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "genozide.bas",
+          "text": "GetWinText 0x @ Ç J  J + æ æ = ! ! Ó ? J I ! ä £ ?  u ? 9 ÿÿÿÿÿÿÿÿ getWinVer 0È @ ¸J u v 7 Example: text2.text = \"Window version: \" & sGetWinVern ü p"
+        },
+        {
+          "sourceFile": "genozide.bas",
+          "text": "_AOL_Modal æ (A (Aî $ ? ) (Aä ¦ K 9 ÿÿÿÿÿÿÿÿ killwait 0Ø X Ø; WZ u u ä ¦ I  í 0 6 * You must be signed on to use this feature. å í n Not Signed On! & = Î 8 ñQå ¦ I ¸ í ¬ AOL Frame25 æ M M í ì MDIClient ± M / ( wF í ."
+        },
+        {
+          "sourceFile": "genozide.bas",
+          "text": "_AOL_Combobox ± [ [ä ñ I ^ ä WZ = j 8 ä WZ 9 ÿÿÿÿÿÿÿÿ SignOff 0V X [ WZ u u ä ¦ I  í 0 6 * You must be signed on to use this feature. å í n Not Signed On! & = \" 8 í  AOL Frame25 æ M M í Ö MDIClient ± M / ( wF M í"
+        }
+      ],
+      "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3401,6 +4940,165 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "hiderfnl",
+      "fileName": "hiderfnl.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/hiderfnl.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hiderfnl.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/hiderfnl-20f0b630.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [
+        "AOL 40",
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [
+        "http://www.hider.com",
+        "http://members.tripod.com/SonicTm",
+        "http://www.hider.com/sonic/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Hider.bas",
+          "text": "'This is my first bas for AOL It is for"
+        },
+        {
+          "sourceFile": "Hider.bas",
+          "text": "Mail t3terminat, \"This bas\", \"This is the best bas for AOL 4.0\""
+        },
+        {
+          "sourceFile": "Hider.bas",
+          "text": "ChatRedYellowRed (\"This prog made with Hider.bas\")"
+        }
+      ],
+      "externalTextFileCount": 3,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "hiwind",
+      "fileName": "hiwind2.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/hiwind2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiwind2.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/hiwind2.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/hiwind2.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/hiwind2-4e336770.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Room buster",
+        "Punter / booter",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 3",
+        "AOL 30",
+        "AOL 2.5",
+        "AOL 3.0",
+        "AOL 25"
+      ],
+      "externalTextUrls": [
+        "http://zerogravity.simplenet.com/dark/"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "hix",
+      "fileName": "hixaim2.zip",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/hixaim2.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hixaim2.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/hixaim2.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/hixaim2.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/hixaim2-e7657a70.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Punter / booter",
+        "AOL/AIM chat utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.hider.com/sonic/",
+        "http://members.tripod.com/SonicTm"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "HixAIM2.oBas.bas",
+          "text": "' This bas is for AOL Instant Messenger version Beta 2.o"
+        }
+      ],
+      "externalTextFileCount": 3,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "icons",
       "fileName": "icons.zip",
       "category": "unknown",
@@ -3430,6 +5128,136 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "information",
+      "fileName": "information.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/information.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/information.zip",
+          "source": "LensHell Visual Basic",
+          "status": "http-404"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/information.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/information.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/information-2af0f69d.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "lazyass",
+      "fileName": "lazyass.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
+          "source": "LensHell misc progs A-M",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/lazyass.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/lazyass.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip"
+      ],
+      "sourcePages": [
+        "LensHell misc progs A-M"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Linker / chat linker"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "FORM7.log",
+          "text": "Version number missing or invalid; Visual Basic 4.0 assumed."
+        }
+      ],
+      "externalTextFileCount": 21,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "limp",
+      "fileName": "limp.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/limp.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/limp.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/limp.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/limp.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/limp-3f6415e8.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.hider.com/sonic/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "LimP.bas",
+          "text": "'but for now im gonna work on my"
+        }
+      ],
+      "externalTextFileCount": 2,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3468,38 +5296,90 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
-      "key": "mixed",
-      "fileName": "mixed.zip",
-      "category": "unknown",
+      "key": "misfit",
+      "fileName": "misfitaim.zip",
+      "category": "AIM",
       "mirrors": [
         {
-          "url": "http://lenshellarchive.com/VBfiles/mixed.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mixed.zip",
+          "url": "http://lenshellarchive.com/VBfiles/misfitaim.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/misfitaim.zip",
           "source": "LensHell Visual Basic",
           "status": "candidate"
         },
         {
-          "url": "http://www.angelfire.com/electronic2/progz101/mixed.zip",
-          "waybackUrl": "https://web.archive.org/web/0id_/http://www.angelfire.com/electronic2/progz101/mixed.zip",
-          "source": "ProgzRescue Angelfire files",
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/misfitaim.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/misfitaim.zip",
+          "source": "AOLUnderground reference source-code tree",
           "status": "ready"
         }
       ],
       "readyLocalFiles": [
-        "files/external/angelfire-com/mixed-2e564198.zip"
+        "files/external/raw-githubusercontent-com/misfitaim-026777ab.zip"
       ],
       "sourcePages": [
         "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [
-        "Account / TOS utility",
+        "Source / developer file",
         "Media / file utility",
         "AOL/AIM chat utility"
       ],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
+      "externalTextVersions": [
+        "AIM 2"
+      ],
+      "externalTextUrls": [
+        "http://members.tripod.com/SonicTm",
+        "http://www.hider.com/sonic/"
+      ],
       "externalTextDescriptions": [],
+      "externalTextFileCount": 3,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "mover",
+      "fileName": "mover.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/mover.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mover.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mover.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mover.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/mover-d3c41319.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Source / developer file"
+      ],
+      "externalTextVersions": [
+        "AOL 4",
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "mover.bas",
+          "text": "'this was made in Vb 5 Pro but works with all versions"
+        },
+        {
+          "sourceFile": "mover.bas",
+          "text": "'this is for aol 4.o all thought there is not may subs"
+        }
+      ],
       "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
@@ -3573,6 +5453,276 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "msgbox",
+      "fileName": "msgbox.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/msgbox.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/msgbox.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/msgbox.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/msgbox.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/msgbox-f9fb0a90.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "mtb",
+      "fileName": "mtb.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/mtb.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mtb.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/mtb.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/mtb.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/mtb-4faacd58.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Punter / booter",
+        "Source / developer file"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "murder",
+      "fileName": "murder32.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/murder32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/murder32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/murder32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/murder32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/murder32-48b19377.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Punter / booter",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "MURDER32.bas",
+          "text": "'proggin for AOL. By the way this is RS. My e-mail"
+        },
+        {
+          "sourceFile": "MURDER32.bas",
+          "text": "'of new features that most .bas's dont have. Like"
+        },
+        {
+          "sourceFile": "MURDER32.bas",
+          "text": "'Also all new features were thought of by me!!!!"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "name",
+      "fileName": "name32.zip",
+      "category": "idler/bot",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/name32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/name32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/name32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/name32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/name32-84895bf0.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Account / TOS utility",
+        "Screen-name utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "NameChange32.bas",
+          "text": "' This will get the caption for aol or the chat"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "nash",
+      "fileName": "nash40.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/nash40.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/nash40.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nash40.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nash40.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/nash40-b7c37d9a.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "Anyone"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [
+        "AOL 40",
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [
+        "http://www.geocities.com/fashionavenue/5642/app.htm",
+        "http://www.hider.com/sonic/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "NASH40.bas",
+          "text": "MsgBox \"This prog works much better when your signed on.\", 64, \"Must Be Online\""
+        }
+      ],
+      "externalTextFileCount": 2,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "nyte",
+      "fileName": "nyte32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/nyte32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/nyte32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/nyte32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/nyte32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/nyte32-675948cc.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "nyte"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 5",
+        "AOL 5.0",
+        "AOL 3.0",
+        "AOL 2.5",
+        "AOL 4.0",
+        "AOL 6"
+      ],
+      "externalTextUrls": [
+        "http://www.google.com/search?hl=en&ie=ISO-8859-1&q="
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "oleaut",
       "fileName": "oleaut32.zip",
       "category": "runtime/support file",
@@ -3637,6 +5787,61 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "paranoid",
+      "fileName": "paranoid.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/paranoid.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/paranoid.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/paranoid.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/paranoid.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/paranoid-ba7e9e50.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "another one of my functions",
+        "looking for a"
+      ],
+      "externalTextPurposeSignals": [
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "paranoid.bas",
+          "text": "'2) This only works on 16 bit versions of AOL"
+        },
+        {
+          "sourceFile": "paranoid.bas",
+          "text": "'Is there a strng$ to work with?"
+        },
+        {
+          "sourceFile": "paranoid.bas",
+          "text": "MsgBox \"Could not detect your version of America Online\", 16"
+        }
+      ],
+      "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3708,6 +5913,132 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "position",
+      "fileName": "position.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/position.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/position.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/position.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/position.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/position-4a447857.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 4",
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Position.bas",
+          "text": "'VB Version - VB 4.0 32 bit or higher"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "punker",
+      "fileName": "punker6.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/punker6.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/punker6.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/punker6.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/punker6.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/punker6-251bf0d0.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "PuNkDuDe"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [
+        "AOL 6.0",
+        "AOL 5.0",
+        "AOL 4.0",
+        "AOL 4",
+        "AOL 5",
+        "AOL 2",
+        "AIM 4.3"
+      ],
+      "externalTextUrls": [
+        "http://punkdude.cjb.net"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "PuNkEr6.bas",
+          "text": "iVersion As Integer 'AOL version"
+        },
+        {
+          "sourceFile": "PuNkEr6.bas",
+          "text": "'Retrieves version from AOL version.inf file (latest installed version)"
+        },
+        {
+          "sourceFile": "PuNkEr6.bas",
+          "text": "'If AOLVersion2 = 0 then the version was not found"
+        },
+        {
+          "sourceFile": "PuNkEr6.bas",
+          "text": "AOLVersion = GetFromINI(\"Application Information\", \"Version\", (AOLDirectory$ & \"\\version.inf\"))"
+        },
+        {
+          "sourceFile": "PuNkEr6.bas",
+          "text": "'Retrieves version from AOL Help menu"
+        },
+        {
+          "sourceFile": "PuNkEr6.bas",
+          "text": "'If AOLVersion2 = 0 then the version was not found or is less than 4.0"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "r",
       "fileName": "R94828.EXE",
       "category": "unknown",
@@ -3747,6 +6078,53 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         }
       ],
       "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "ravage",
+      "fileName": "ravage.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/ravage.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/ravage.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/ravage.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/ravage.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/ravage-c2a77c4c.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Punter / booter",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [
+        "AOL 4",
+        "AOL 40",
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [
+        "http://www.hider.com/sonic/"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 2,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -3939,6 +6317,47 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "salem",
+      "fileName": "salem32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/salem32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/salem32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/salem32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/salem32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/salem32-1d309801.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.rebel-online.com/salem",
+        "http://www.rebel-online.com"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "setuprt",
       "fileName": "setuprt22.exe",
       "category": "unknown",
@@ -3969,6 +6388,87 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "sirvb",
+      "fileName": "sirvb6.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/sirvb6.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/sirvb6.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sirvb6.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sirvb6.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/sirvb6-37d14628.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [
+        "its title"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Room buster",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file"
+      ],
+      "externalTextVersions": [
+        "AOL 4",
+        "AOL 3",
+        "AIM 2.0",
+        "AOL 4.0",
+        "AIM 2"
+      ],
+      "externalTextUrls": [
+        "http://reapers.org",
+        "http://www.patorjk.com",
+        "http://www.escrambler.com"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "SiRvb6.bas",
+          "text": "'The only codes i did not write myself, are the addroom for aol (Not sure who made it first)"
+        },
+        {
+          "sourceFile": "SiRvb6.bas",
+          "text": "'// Check the users aol version, if they are on aol4 it returns True"
+        },
+        {
+          "sourceFile": "fAol.frm",
+          "text": "'// Checks to see which aol version the person is on, if it is aol 4.0 it will return"
+        },
+        {
+          "sourceFile": "ReadMe.txt",
+          "text": "Version: Public Release 1.00"
+        },
+        {
+          "sourceFile": "ReadMe.txt",
+          "text": "Compatible: Most Compatible with vb6, but corrections are added so it will work with vb4 & 5"
+        },
+        {
+          "sourceFile": "ReadMe.txt",
+          "text": "Tetrinet Version: Tnet v1.13"
+        }
+      ],
+      "externalTextFileCount": 6,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -4041,6 +6541,107 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "thumper",
+      "fileName": "thumper32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/thumper32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/thumper32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/thumper32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/thumper32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/thumper32-069c45de.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 5.0"
+      ],
+      "externalTextUrls": [
+        "http://thumperscrib.cjb.net"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "thumper32.bas",
+          "text": "'Programming for AOL is easy as heck!!"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "toyboat",
+      "fileName": "toyboat.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/Progs/aolprogs/toyboat.zip",
+          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/toyboat.zip",
+          "source": "LensHell misc progs N-Z",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/toyboat.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/toyboat.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/toyboat-57e35c0f.zip"
+      ],
+      "sourcePages": [
+        "LensHell misc progs N-Z"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 30",
+        "AOL 25"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "ski.bas",
+          "text": "A 9 ÿÿÿÿÿÿÿÿ getWinVer 0È @ ¼ Ù v 7 Example: text2.text = \"Window version: \" & sGetWinVerr ü p"
+        },
+        {
+          "sourceFile": "ski.bas",
+          "text": ") A ä ¦ K 9 ÿÿÿÿÿÿÿÿ KillWait 0Ø X H T Ù Ù ä ¦ I  í 0 6 * You must be signed on to use this feature. å í n Not Signed On! & = Î 8 Ù å ¦ I ¸ í ¬ AOL Frame25 æ í ì MDIClient  / ( Ù í ."
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
       "key": "vb-chat",
       "fileName": "vb5chat2.zip",
       "category": "runtime/support file",
@@ -4070,6 +6671,84 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "vbforms",
+      "fileName": "vbforms.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/vbforms.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/vbforms.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/forms/vbforms.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/forms/vbforms.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/vbforms-68a660aa.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Source / developer file"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 2,
+      "readyCount": 1
+    },
+    {
+      "key": "warp",
+      "fileName": "warp32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "http://lenshellarchive.com/VBfiles/warp32.zip",
+          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/warp32.zip",
+          "source": "LensHell Visual Basic",
+          "status": "candidate"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/warp32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/warp32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/warp32-8b346149.zip"
+      ],
+      "sourcePages": [
+        "LensHell Visual Basic"
+      ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "WARP32.bas",
+          "text": "'Is there a strng$ to work with?"
+        }
+      ],
+      "externalTextFileCount": 1,
       "mirrorCount": 2,
       "readyCount": 1
     },
@@ -4377,6 +7056,55 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextVersions": [],
       "externalTextUrls": [],
       "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "agc",
+      "fileName": "agc.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/agc.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/agc.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/agc-0864a180.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Scroller / macro",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "agcNISPv5.bas",
+          "text": "'#########DESCRIPTION########"
+        },
+        {
+          "sourceFile": "agcNISPv5.bas",
+          "text": "Error: MsgBox Err.Description, vbExclamation + vbSystemModal, \"Error\""
+        },
+        {
+          "sourceFile": "agcNISPv5.bas",
+          "text": "'#########READ NAMES FOR DESCRIPTION!"
+        },
+        {
+          "sourceFile": "agcNISPv5.bas",
+          "text": "Error: MsgBox Err.Description, vbExclamation, \"Error\""
+        }
+      ],
       "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
@@ -5050,6 +7778,48 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "macroz",
+      "fileName": "aolmacroz.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/aolmacroz.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/aolmacroz.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/aolmacroz-e01f3b36.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite",
+        "Fader / text styler",
+        "Scroller / macro",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 8"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "AOLMAC~1.BAS",
+          "text": "'This bas is 100% macros! made for aol"
+        },
+        {
+          "sourceFile": "AOLMAC~1.BAS",
+          "text": "'they release a new version. Look on lenshell.com"
+        }
+      ],
+      "externalTextFileCount": 2,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "aonet",
       "fileName": "aonet.zip",
       "category": "chat/macro",
@@ -5067,6 +7837,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "sourcePages": [
         "LensHell c-coms"
       ],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "arc-read-doc",
+      "fileName": "Arc.Read.doc",
+      "category": "fader",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/arcfader10/Arc.Read.doc",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/arc-read-3087a4fa.doc"
+      ],
+      "sourcePages": [],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
       "externalTextVersions": [],
@@ -5220,6 +8015,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "auto-tutorial-chm",
+      "fileName": "Auto Tutorial.chm",
+      "category": "fader",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/autofade/Auto%20Tutorial.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/autofade/Auto%20Tutorial.chm",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/auto20tutorial-e3a7c174.chm"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "auto",
       "fileName": "autoaim4.zip",
       "category": "AOL/AIM client installer",
@@ -5358,6 +8178,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 2,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "bizooka-hlp",
+      "fileName": "BIZOOKA.HLP",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/bizook/BIZOOKA.HLP",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/bizooka-19bc8661.hlp"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -5758,6 +8603,64 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "chip-chat",
+      "fileName": "Chip Chat.zip",
+      "category": "chat/macro",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Chip%20Chat.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/Chip%20Chat.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/chip20chat-79169462.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Fader / text styler",
+        "Media / file utility",
+        "C-Com / command list"
+      ],
+      "externalTextVersions": [
+        "AOL 4.0"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Chip Chat/ST5UNST.LOG",
+          "text": "%% It will be used to automatically remove all application components from your computer if you choose to do so. %%"
+        },
+        {
+          "sourceFile": "Chip Chat/ST5UNST.LOG",
+          "text": "CONFIG: Title: \"Chipchat³ For Aol 4.0\""
+        },
+        {
+          "sourceFile": "Chip Chat/ST5UNST.LOG",
+          "text": "(File was not found or was an older version -- new file copied)"
+        },
+        {
+          "sourceFile": "Chip Chat/Examples/MChat/frmMChat.frm",
+          "text": "Private Sub Chat1_Notification(NotifyNum As Integer, Description As String)"
+        },
+        {
+          "sourceFile": "Chip Chat/Examples/MChat/frmMChat.frm",
+          "text": "txtNotif.SelText = vbCrLf & NotifyNum & \" - \" & Description"
+        },
+        {
+          "sourceFile": "Chip Chat/Examples/CChat/frmCChat.frm",
+          "text": "Caption = \".link (url)description\""
+        }
+      ],
+      "externalTextFileCount": 35,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "cinemablue",
       "fileName": "cinemablue.zip",
       "category": "idler/bot",
@@ -5946,6 +8849,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "core-api-hlp",
+      "fileName": "core-api.hlp",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/help/coreapi/core-api.hlp",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/core-api-57898d88.hlp"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "counter",
       "fileName": "counter.zip",
       "category": "unknown",
@@ -6111,6 +9039,37 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "dacrazyone",
+      "fileName": "dacrazyone70.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/dacrazyone70.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/dacrazyone70.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/dacrazyone70-fe302d39.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "DaCrazyOne"
+      ],
+      "externalTextPurposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "dap",
       "fileName": "dap53.zip",
       "category": "unknown",
@@ -6182,6 +9141,37 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "debugview",
+      "fileName": "DebugView.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/DebugView.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/DebugView.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/debugview-a2830a9a.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "applicable law"
+      ],
+      "externalTextPurposeSignals": [
+        "All-in-one prog suite"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://www.microsoft.com/exporting"
+      ],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -6353,6 +9343,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "dive-hlp",
+      "fileName": "dive.hlp",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/help/dive/dive.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/help/dive/dive.hlp",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/dive-255c0722.hlp"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "dmc-r",
       "fileName": "dmc_r7.zip",
       "category": "unknown",
@@ -6366,6 +9381,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/dmc-r7.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "dos-chm",
+      "fileName": "DoS32.chm",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/dos32/DoS32.chm",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/dos32-be7f1f6d.chm"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -6489,6 +9529,46 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         {
           "sourceFile": "dvbpl-020619/README.txt",
           "text": "- dvbpl-020227 (Version 0.04)"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "e",
+      "fileName": "e2aol7.zip",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/e2aol7.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/e2aol7.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/e2aol7-57879c1b.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 7.0"
+      ],
+      "externalTextUrls": [
+        "http://www.blike.com/e2mod/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "e2AOL7.bas",
+          "text": "'Is there a strng$ to work with?"
         }
       ],
       "externalTextFileCount": 1,
@@ -6812,6 +9892,33 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "finder",
+      "fileName": "finder32.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/finder32.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/finder32.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/finder32-ab1725b5.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "fish",
       "fileName": "fish.zip",
       "category": "hazardous/account or remote-control context",
@@ -7089,6 +10196,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         }
       ],
       "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "geekmans-hlp",
+      "fileName": "Geekmans.hlp",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/geekmans/Geekmans.hlp",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/geekmans-529446e8.hlp"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -7406,6 +10538,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         }
       ],
       "externalTextFileCount": 2,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "help-rtf",
+      "fileName": "help.rtf",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/help/help.rtf",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/help/help.rtf",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/help-3f4926b8.rtf"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -7815,6 +10972,63 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "irs",
+      "fileName": "irs3.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/irs3.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/irs3.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/irs3-fb158aa5.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "circa"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "Punter / booter",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Source / developer file",
+        "AOL/AIM chat utility",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Media / file utility"
+      ],
+      "externalTextVersions": [
+        "AOL 95",
+        "AOL 4.0",
+        "AOL 3.0",
+        "AOL 2.5",
+        "AOL 5.0"
+      ],
+      "externalTextUrls": [
+        "http://www.Anti-AOL.com",
+        "http://search.hometown.aol.com",
+        "http://hometown.aol.com/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "irs3/irs2k.frm",
+          "text": "i = InputBox(\"Aim this string to circa and ask for the decrypted version, if your qualified, he'll reply.\", \"Login\", GetIRS(\"string\"))"
+        },
+        {
+          "sourceFile": "irs3/kai32.bas",
+          "text": "'this function is usually just used to either"
+        }
+      ],
+      "externalTextFileCount": 5,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "ispec",
       "fileName": "Ispec.exe",
       "category": "AIM",
@@ -7923,6 +11137,100 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "izekial-s-vb-tutorial-chm",
+      "fileName": "Izekial's VB32 Tutorial.chm",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/Izekial's%20VB32%20Tutorial.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/tutorial1/Izekial's%20VB32%20Tutorial.chm",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/izekials20vb3220tutorial-f9b55d3a.chm"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "izekial",
+      "fileName": "izekial322.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/izekia11/izekial322.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/izekial322-44ebf908.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "izekial83 '"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Room buster",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Mass mailer / server",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 4",
+        "AOL 2.5",
+        "AOL 25",
+        "AIM 2",
+        "AIM 95",
+        "AIM 98"
+      ],
+      "externalTextUrls": [
+        "http://www.come.to/izekial83/",
+        "http://www.nkillaz.com/izekial/"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "msvb7api32.txt",
+          "text": "' This file is required for the Visual Basic 7.0 version of the APILoader."
+        },
+        {
+          "sourceFile": "msvb7api32.txt",
+          "text": "' Older versions of this file will not work correctly with the version"
+        },
+        {
+          "sourceFile": "msvb7api32.txt",
+          "text": "' this file (and/or any modified version) in any way you find useful,"
+        },
+        {
+          "sourceFile": "msvb7api32.txt",
+          "text": "' ++ BUILD Version: 0093 Increment this if a change has global effects"
+        },
+        {
+          "sourceFile": "msvb7api32.txt",
+          "text": "' Define the generic mapping array. This is used to denote the"
+        }
+      ],
+      "externalTextFileCount": 2,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "jackbros",
       "fileName": "jackbros.zip",
       "category": "unknown",
@@ -7949,6 +11257,52 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "http://www.romnation.net/"
       ],
       "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "jaguar",
+      "fileName": "jaguar.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/jaguar.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/jaguar.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/jaguar-04c8e95f.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "another one of my functions"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Screen-name utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "jaguar.bas",
+          "text": "'Is there a strng$ to work with?"
+        },
+        {
+          "sourceFile": "jaguar.bas",
+          "text": "'also can be used to make sure a user is in a"
+        }
+      ],
       "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
@@ -8041,6 +11395,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "externalTextDescriptions": [],
       "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "macex-chm",
+      "fileName": "MaceX v3.chm",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/macexv3/MaceX%20v3.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/macexv3/MaceX%20v3.chm",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/macex20v3-d2620dde.chm"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -8138,6 +11517,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         }
       ],
       "externalTextFileCount": 16,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "marzfade-codes-doc",
+      "fileName": "MaRZFade Codes.doc",
+      "category": "fader",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade%20Codes.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/marzfade/MaRZFade%20Codes.doc",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/marzfade20codes-39739234.doc"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -8320,6 +11724,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         }
       ],
       "externalTextFileCount": 3,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "mmerhlp-hlp",
+      "fileName": "MMERHLP.HLP",
+      "category": "mass mailer/server",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/decom/solanem/MMERHLP.HLP",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/mmerhlp-5a456c58.hlp"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -9255,6 +12684,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "quest-fuelx-vb-help-hlp",
+      "fileName": "QuesT-FueLx VB Help.hlp",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx%20VB%20Help.hlp",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/fuelxvbhelp/QuesT-FueLx%20VB%20Help.hlp",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/quest-fuelx20vb20help-0ec4f175.hlp"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "race",
       "fileName": "race.zip",
       "category": "unknown",
@@ -9370,6 +12824,75 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "read-me-doc",
+      "fileName": "read me.doc",
+      "category": "fader",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/modules/fader/formfadebyadam/read%20me.doc",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/modules/fader/formfadebyadam/read%20me.doc",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/read20me-6921e973.doc"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "registryreader",
+      "fileName": "registryreader.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/registryreader.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/registryreader.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/registryreader-0dffb0fc.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Source / developer file"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "Registry Reader.bas",
+          "text": "'Version, Get Windows Bit, Ger Printer Name,"
+        },
+        {
+          "sourceFile": "Registry Reader.bas",
+          "text": "'Gets current Windows Version along with the Sub Version name from the System Registry"
+        },
+        {
+          "sourceFile": "Registry Reader.bas",
+          "text": "'Gets current Windows Version (ie 95,98) name from the System Registry"
+        },
+        {
+          "sourceFile": "Registry Reader.bas",
+          "text": "'Text1=\"Current Windows Version: \" & PName"
+        }
+      ],
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -9548,6 +13071,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/sanidade.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "scan-that-bas-patorjk",
+      "fileName": "Scan_That_Bas_10.patorjk.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/Scan_That_Bas_10.patorjk.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/scan-that-bas-10-patorjk-ca2b5288.zip"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -10081,6 +13629,47 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "slove",
+      "fileName": "sloveaol6.zip",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sloveaol6.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sloveaol6.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/sloveaol6-b2b552e0.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "slove",
+        "the DefaultExt property",
+        "progee"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Idler / AFK bot",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 6",
+        "AOL 6.0",
+        "AOL 5"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "smiley",
       "fileName": "Smiley.exe",
       "category": "AIM",
@@ -10208,6 +13797,91 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "sncoolector",
+      "fileName": "sncoolector.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/sncoolector.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/sncoolector.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/sncoolector-988eb5e1.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Screen-name utility",
+        "Source / developer file",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 3,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "source",
+      "fileName": "SOURCE.ZIP",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/controls/syn2/SOURCE.ZIP",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/source-765b8841.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "martyr"
+      ],
+      "externalTextPurposeSignals": [
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility",
+        "C-Com / command list"
+      ],
+      "externalTextVersions": [
+        "AOL 4.0",
+        "AOL 5.0"
+      ],
+      "externalTextUrls": [
+        "http://magnet2000.cjb.net"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "about.txt",
+          "text": "that module kuz i did some shitty work on"
+        },
+        {
+          "sourceFile": "modSyn2.bas",
+          "text": "'decs, like in my module for aol/aim"
+        },
+        {
+          "sourceFile": "Syn2.vbp",
+          "text": "VersionComments=\"This version of my chat scan was totally rewritten, and is larger this time, because i decide to add some graphics that i made.\""
+        },
+        {
+          "sourceFile": "Syn2.vbp",
+          "text": "VersionLegalCopyright=\"This program is freeware.\""
+        }
+      ],
+      "externalTextFileCount": 4,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "spammer",
       "fileName": "spammer.zip",
       "category": "mass mailer/server",
@@ -10314,6 +13988,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 2,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "spyocx",
+      "fileName": "SpYOcX.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/tutorial1/SpYOcX.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/spyocx-13191a95.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -10689,6 +14388,40 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "tetrinet",
+      "fileName": "tetrinet.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/tetrinet.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/tetrinet.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/tetrinet-2ebf2ae4.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [],
+      "externalTextUrls": [
+        "http://hider.com/sonic"
+      ],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "tetrinet.bas",
+          "text": "'Sorry but I wont be including this cheat in this version of the .bas"
+        }
+      ],
+      "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "text-cricket",
       "fileName": "text_cricket.zip",
       "category": "unknown",
@@ -10836,6 +14569,45 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "trident",
+      "fileName": "trident.zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/unsorted/trident.zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/unsorted/trident.zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/trident-e59d65e9.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility"
+      ],
+      "externalTextVersions": [
+        "AOL 30"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "trident.bas",
+          "text": "ä  u 9 ÿÿÿÿÿÿÿÿ ErrorMsg 0z X 9N í Error: ä$¬ £ í 0 . + You Must Sign on Before Using this Feature! £ å 0 í"
+        }
+      ],
+      "externalTextFileCount": 1,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -11038,6 +14810,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "vb-newbie-chm",
+      "fileName": "VB Newbie.chm",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/vbnewbee/VB%20Newbie.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/vbnewbee/VB%20Newbie.chm",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/vb20newbie-29f633c8.chm"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "vb-in-lessons",
       "fileName": "vb_in_12_lessons.zip",
       "category": "unknown",
@@ -11059,6 +14856,75 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "externalTextUrls": [],
       "externalTextDescriptions": [],
       "externalTextFileCount": 1,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "vb-code-pre-from-lynxjsa",
+      "fileName": "VB3Code-pre1998-(from-LynxJSA).zip",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/modules/VB3Code-pre1998-(from-LynxJSA).zip",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/vb3code-pre1998-from-lynxjsa-21d69d9a.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [
+        "another one of my functions",
+        "looking for a",
+        "ePoD for"
+      ],
+      "externalTextPurposeSignals": [
+        "Fader / text styler",
+        "C-Com / command list",
+        "Scroller / macro",
+        "Account / TOS utility",
+        "Source / developer file",
+        "Media / file utility",
+        "AOL/AIM chat utility",
+        "Screen-name utility",
+        "All-in-one prog suite",
+        "Mass mailer / server"
+      ],
+      "externalTextVersions": [
+        "AOL 30",
+        "AOL 25",
+        "AOL 3"
+      ],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [
+        {
+          "sourceFile": "MASTER32.BAS",
+          "text": "'Is there a strng$ to work with?"
+        },
+        {
+          "sourceFile": "MASTER32.BAS",
+          "text": "MsgBox \"Please sign on before using this feature.\", 64, \"Online\""
+        },
+        {
+          "sourceFile": "PROGGER1.BAS",
+          "text": "Form_KeyPressp Config pass chosenS Here  specific2 mightK save9 iniT WIN¢ Its7 feature aboutÅ rememberingk turn» Sourcesú CongerÂ James Wait  GroupÏ ISBNK VBZÂ"
+        },
+        {
+          "sourceFile": "PROGGER1.BAS",
+          "text": " w  v q q ä ¦ I  í 0 > * You must be signed on to use this feature. å í v Not Signed On! & =  8 ^ ^ä ¦ I í 4 º / You must be in a chat room to use this feature. å í ö"
+        },
+        {
+          "sourceFile": "PROGGER1.BAS",
+          "text": "_AOL_Combobox  ,v ,vä ñ I ^ ä v = j 8 ä v 9 ÿÿÿÿÿÿÿÿ SignOff 0V X 4 v q q ä ¦ I  í 0 6 * You must be signed on to use this feature. å í n Not Signed On! & = 8 í  AOL Frame25 æ y r r í Ö MDIClient   / ( 0  í"
+        },
+        {
+          "sourceFile": "AOL_16.BAS",
+          "text": "'2) This only works on 16 bit versions of AOL"
+        }
+      ],
+      "externalTextFileCount": 11,
       "mirrorCount": 1,
       "readyCount": 1
     },
@@ -11327,6 +15193,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 1
     },
     {
+      "key": "wgf-chm",
+      "fileName": "wgf.chm",
+      "category": "unknown",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/40-50/tutorials/wgfhelp/wgf.chm",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/wgf-1a8a7f37.chm"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
       "key": "win-font",
       "fileName": "win95font.zip",
       "category": "unknown",
@@ -11390,6 +15281,31 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       ],
       "readyLocalFiles": [
         "files/external/angelfire-com/winsock-dll.zip"
+      ],
+      "sourcePages": [],
+      "externalTextAuthors": [],
+      "externalTextPurposeSignals": [],
+      "externalTextVersions": [],
+      "externalTextUrls": [],
+      "externalTextDescriptions": [],
+      "externalTextFileCount": 0,
+      "mirrorCount": 1,
+      "readyCount": 1
+    },
+    {
+      "key": "xak-chatscanbeta",
+      "fileName": "xakAOL3ChatScanBeta.rar",
+      "category": "AOL/AIM client installer",
+      "mirrors": [
+        {
+          "url": "https://raw.githubusercontent.com/ssstonebraker/aolunderground-proggies/main/programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+          "waybackUrl": "https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programming/vb/aol/25-30/xakAOL3ChatScanBeta.rar",
+          "source": "AOLUnderground reference source-code tree",
+          "status": "ready"
+        }
+      ],
+      "readyLocalFiles": [
+        "files/external/raw-githubusercontent-com/xakaol3chatscanbeta-0350b976.rar"
       ],
       "sourcePages": [],
       "externalTextAuthors": [],
@@ -13180,71 +17096,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "dos",
-      "fileName": "dos32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://server39.hypermart.net/wipeout/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/20010221025241/http://server39.hypermart.net/wipeout/dos32.zip",
-          "source": "VISUAL BASIC",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/dosv46.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dosv46.zip",
-          "source": "LensHell misc progs A-M",
-          "status": "http-404"
-        },
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/dos47.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dos47.zip",
-          "source": "LensHell misc progs A-M",
-          "status": "http-404"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/dos32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dos32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        },
-        {
-          "url": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
-          "waybackUrl": "http://mazur-archives.s3.amazonaws.com/bas/DoS32.zip",
-          "source": "Alpha32",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/dosv3.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/dosv3.zip",
-          "source": "LensHell misc progs A-M",
-          "status": "http-404"
-        },
-        {
-          "url": "http://www.geocities.com/SiliconValley/Bay/6893/files/dos3610.zip",
-          "waybackUrl": "http://www.geocities.com/SiliconValley/Bay/6893/files/dos3610.zip",
-          "source": "found-geocities-silicon-valley-files.txt",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "VISUAL BASIC",
-        "LensHell misc progs A-M",
-        "LensHell Visual Basic",
-        "Alpha32",
-        "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 7,
-      "readyCount": 0
-    },
-    {
       "key": "methodus",
       "fileName": "methodus.exe",
       "category": "unknown",
@@ -14033,55 +17884,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
         "Section 2",
         "Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!",
         "LensHell misc progs A-M"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 5,
-      "readyCount": 0
-    },
-    {
-      "key": "master",
-      "fileName": "master1.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master1.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master1.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master2.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master3.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master3.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/master32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/master32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        },
-        {
-          "url": "http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
-          "waybackUrl": "https://web.archive.org/web/20020411053028/http://www.dnx-online.net/~acp/downloads/masteraol5.zip",
-          "source": "User-supplied DNX ACP downloads",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -22169,37 +25971,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "cryofade",
-      "fileName": "cryofade.zip",
-      "category": "room buster",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/cryofade.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofade.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/cryofadev2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/cryofadev2.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 2,
-      "readyCount": 0
-    },
-    {
       "key": "ct",
       "fileName": "ct3.zip",
       "category": "chat/macro",
@@ -24800,38 +28571,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "sourcePages": [
         "ADOBE PLUG-INS",
         "http://progstation.hypermart.net/"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 2,
-      "readyCount": 0
-    },
-    {
-      "key": "monkefade",
-      "fileName": "monkefade3.zip",
-      "category": "fader",
-      "mirrors": [
-        {
-          "url": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
-          "waybackUrl": "http://www.geocities.com:80/SiliconValley/Bridge/3718/monkefade3.zip",
-          "source": "found-geocities-silicon-valley-files.txt",
-          "status": "candidate"
-        },
-        {
-          "url": "http://lenshellarchive.com/VBfiles/monkefade3.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/monkefade3.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "found-geocities-silicon-valley-files.txt",
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -33277,31 +37016,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "macros",
-      "fileName": "aolmacros.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/aolmacros.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/aolmacros.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "sjeb-s",
       "fileName": "aolprogsjebtools.zip",
       "category": "unknown",
@@ -33702,31 +37416,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "arc",
-      "fileName": "arc.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/arc.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arc.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "archie",
       "fileName": "archie8.zip",
       "category": "unknown",
@@ -33841,31 +37530,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "arena",
-      "fileName": "arena32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/arena32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/arena32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -35427,31 +39091,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "bas",
-      "fileName": "bas01.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://www16.geocities.com:80/SiliconValley/5246/bas01.zip",
-          "waybackUrl": "http://www16.geocities.com:80/SiliconValley/5246/bas01.zip",
-          "source": "found-geocities-silicon-valley-files.txt",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "basfiles",
       "fileName": "basfiles.zip",
       "category": "unknown",
@@ -36741,31 +40380,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "bofen",
-      "fileName": "bofen32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/bofen32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/bofen32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -39277,31 +42891,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "chaos",
-      "fileName": "chaos232.zip",
-      "category": "idler/bot",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/chaos232.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/chaos232.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "chaosmp",
       "fileName": "chaosmp3.zip",
       "category": "unknown",
@@ -40166,31 +43755,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Google/"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "chronicbas",
-      "fileName": "chronicbas.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/chronicbas.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/chronicbas.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -41575,31 +45139,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "coreapi",
-      "fileName": "coreapi.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/coreapi.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/coreapi.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "coret",
       "fileName": "coret302.zip",
       "category": "unknown",
@@ -42164,31 +45703,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "creep",
-      "fileName": "creep.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/creep.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/creep.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -42939,56 +46453,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "dahoaxbas",
-      "fileName": "dahoaxbas.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/dahoaxbas.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dahoaxbas.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "d-gold",
-      "fileName": "daimgold.zip",
-      "category": "AIM",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/daimgold.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/daimgold.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -44475,31 +47939,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "digitek",
-      "fileName": "digitek.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/digitek.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/digitek.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "dincers-bookmarks",
       "fileName": "dincers_bookmarks.zip",
       "category": "unknown",
@@ -44739,31 +48178,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell punters"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "dive",
-      "fileName": "dive32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/dive32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dive32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -46225,31 +49639,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "dupekill",
-      "fileName": "dupekill.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/dupekill.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/dupekill.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "duplinator-install",
       "fileName": "duplinator_install.exe",
       "category": "unknown",
@@ -46764,31 +50153,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell misc progs A-M"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "effex",
-      "fileName": "effex.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/effex.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/effex.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -50100,31 +53464,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "fly",
-      "fileName": "flyaim35.zip",
-      "category": "AOL/AIM client installer",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/flyaim35.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyaim35.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "flyingp",
       "fileName": "flyingp.zip",
       "category": "unknown",
@@ -50139,31 +53478,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "flyman",
-      "fileName": "flyman2000.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/flyman2000.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/flyman2000.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -50289,31 +53603,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "formdragxp",
-      "fileName": "formdragxp.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/formdragxp.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/formdragxp.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -50625,31 +53914,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "freespy",
-      "fileName": "freespy.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/freespy.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/freespy.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "freewheel",
       "fileName": "freewheel.zip",
       "category": "unknown",
@@ -50864,31 +54128,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell misc progs A-M"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "frubal",
-      "fileName": "frubal420.zip",
-      "category": "AIM",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/frubal420.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/frubal420.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -51539,31 +54778,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Yahoo Progs"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "genozide",
-      "fileName": "genozide.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/genozide.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/genozide.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -53498,31 +56712,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "hiderfnl",
-      "fileName": "hiderfnl.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/hiderfnl.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiderfnl.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "hippo",
       "fileName": "hippo.zip",
       "category": "punter/booter",
@@ -53562,56 +56751,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell idlers"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "hiwind",
-      "fileName": "hiwind2.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/hiwind2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hiwind2.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "hix",
-      "fileName": "hixaim2.zip",
-      "category": "AOL/AIM client installer",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/hixaim2.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/hixaim2.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -55512,31 +58651,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Titan Spaceports progs"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "information",
-      "fileName": "information.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/information.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/information.zip",
-          "source": "LensHell Visual Basic",
-          "status": "http-404"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -58696,31 +61810,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "lazyass",
-      "fileName": "lazyass.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/lazyass.zip",
-          "source": "LensHell misc progs A-M",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell misc progs A-M"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "lbmwf",
       "fileName": "lbmwf13.zip",
       "category": "unknown",
@@ -59135,31 +62224,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "AIM"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "limp",
-      "fileName": "limp.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/limp.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/limp.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -61671,31 +64735,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "misfit",
-      "fileName": "misfitaim.zip",
-      "category": "AIM",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/misfitaim.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/misfitaim.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "mk-dir",
       "fileName": "mk_dir.zip",
       "category": "unknown",
@@ -62571,31 +65610,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "mover",
-      "fileName": "mover.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/mover.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mover.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "mp-pascal-tutor",
       "fileName": "mp_pascal_tutor.zip",
       "category": "unknown",
@@ -62810,31 +65824,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Aim Filez"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "msgbox",
-      "fileName": "msgbox.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/msgbox.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/msgbox.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -63171,31 +66160,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "mtb",
-      "fileName": "mtb.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/mtb.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/mtb.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "mtenc-en",
       "fileName": "mtenc_en.zip",
       "category": "unknown",
@@ -63360,31 +66324,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Act!/"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "murder",
-      "fileName": "murder32.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/murder32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/murder32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -63671,31 +66610,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "name",
-      "fileName": "name32.zip",
-      "category": "idler/bot",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/name32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/name32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "namealert",
       "fileName": "namealert.zip",
       "category": "unknown",
@@ -63785,31 +66699,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell miscellaneous files"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "nash",
-      "fileName": "nash40.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/nash40.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/nash40.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -65546,31 +68435,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "nyte",
-      "fileName": "nyte32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/nyte32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/nyte32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "nytes-s",
       "fileName": "nytesprogs.zip",
       "category": "unknown",
@@ -66635,31 +69499,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "found-geocities-silicon-valley-files.txt"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "paranoid",
-      "fileName": "paranoid.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/paranoid.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/paranoid.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -68496,31 +71335,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "position",
-      "fileName": "position.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/position.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/position.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "poster",
       "fileName": "poster.zip",
       "category": "unknown",
@@ -69360,31 +72174,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "punker",
-      "fileName": "punker6.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/punker6.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/punker6.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -70733,31 +73522,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "AM/"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "ravage",
-      "fileName": "ravage.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/ravage.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/ravage.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -72333,31 +75097,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Yahoo Progs"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "salem",
-      "fileName": "salem32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/salem32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/salem32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -74556,31 +77295,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "Aim Crackers"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "sirvb",
-      "fileName": "sirvb6.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/sirvb6.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/sirvb6.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -78267,31 +80981,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "thumper",
-      "fileName": "thumper32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/thumper32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/thumper32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "thunder",
       "fileName": "thunder.zip",
       "category": "punter/booter",
@@ -78931,31 +81620,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "toyboat",
-      "fileName": "toyboat.zip",
-      "category": "chat/macro",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/Progs/aolprogs/toyboat.zip",
-          "waybackUrl": "https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/toyboat.zip",
-          "source": "LensHell misc progs N-Z",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell misc progs N-Z"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
@@ -81042,31 +83706,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyCount": 0
     },
     {
-      "key": "vbforms",
-      "fileName": "vbforms.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/vbforms.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/vbforms.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
       "key": "vbimex",
       "fileName": "vbimex.zip",
       "category": "unknown",
@@ -82581,31 +85220,6 @@ window.AOL_PROGZ_MISSING_CANDIDATES = {
       "readyLocalFiles": [],
       "sourcePages": [
         "LensHell AIM progs"
-      ],
-      "externalTextAuthors": [],
-      "externalTextPurposeSignals": [],
-      "externalTextVersions": [],
-      "externalTextUrls": [],
-      "externalTextDescriptions": [],
-      "externalTextFileCount": 0,
-      "mirrorCount": 1,
-      "readyCount": 0
-    },
-    {
-      "key": "warp",
-      "fileName": "warp32.zip",
-      "category": "unknown",
-      "mirrors": [
-        {
-          "url": "http://lenshellarchive.com/VBfiles/warp32.zip",
-          "waybackUrl": "https://web.archive.org/web/20110831194354/http://lenshellarchive.com/VBfiles/warp32.zip",
-          "source": "LensHell Visual Basic",
-          "status": "candidate"
-        }
-      ],
-      "readyLocalFiles": [],
-      "sourcePages": [
-        "LensHell Visual Basic"
       ],
       "externalTextAuthors": [],
       "externalTextPurposeSignals": [],
