@@ -2,7 +2,7 @@
 
 
 
-A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Recovered external ZIP text also suggests: Media / file utility, AOL/AIM chat utility.
+A chat, instant-message, command, linker, or room workflow utility. These are described here as historical interface helpers only. Recovered external ZIP text also suggests: C-Com / command list, Source / developer file, Media / file utility, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -18,9 +18,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive filename | destroyer c-com 1.2.zip |
 | File size | 22 B |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,7 +37,9 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
+| External ZIP text purpose clues | C-Com / command list, Source / developer file, Media / file utility, AOL/AIM chat utility |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 1 |
 | Visual Basic | unknown |
@@ -94,7 +100,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Web page: c-coms | [files/external/lenshellarchive-com/destroyer-c37f31fa.zip](../../../../../files/external/lenshellarchive-com/destroyer-c37f31fa.zip) | READ ME!!!!!!!!!.tx_ | none | none | Media / file utility<br>AOL/AIM chat utility | unknown | unknown |
+| Web page: c-coms | [files/external/lenshellarchive-com/destroyer-c37f31fa.zip](../../../../../files/external/lenshellarchive-com/destroyer-c37f31fa.zip) | SETUP.LST<br>READ ME!!!!!!!!!.tx_ | none | none | C-Com / command list<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | unknown | unknown |
 
 ### Source Mentions
 

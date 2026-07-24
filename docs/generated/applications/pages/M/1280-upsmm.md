@@ -17,10 +17,14 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Catalog label | mmer |
 | Archive filename | upsmm.zip |
 | File size | 124 KB |
-| Author | EvicTioN |
+| Author | EvicTioN (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | EvicTioN |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category | mass mailer |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | README~1.TXT |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mass-mailer](../../../tags/mass-mailer.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| README~1.TXT | none | none | none | unknown |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| README~1.TXT | none | none | none | none | none | unknown |
 
 ### Matched External ZIP Text Evidence
 

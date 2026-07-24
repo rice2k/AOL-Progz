@@ -17,10 +17,14 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Catalog label | NBK - Spammer |
 | Archive filename | nbkspam.zip |
 | File size | 1.8 MB |
-| Author | Wolve |
+| Author | Wolve (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Wolve |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category | mass mailer |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot, Mass mailer / server, Screen-name utility, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mass-mailer](../../../tags/mass-mailer.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read Me!.txt | none | Idler / AFK bot<br>Mass mailer / server<br>Screen-name utility<br>AOL/AIM chat utility | AOL 4 | Read Me!.txt mentions AOL 4.<br>Read Me!.txt has vocabulary for Idler / AFK bot, Mass mailer / server, Screen-name utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read Me!.txt | none | Idler / AFK bot<br>Mass mailer / server<br>Screen-name utility<br>AOL/AIM chat utility | AOL 4 | none | none | Read Me!.txt mentions AOL 4.<br>Read Me!.txt has vocabulary for Idler / AFK bot, Mass mailer / server, Screen-name utility, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

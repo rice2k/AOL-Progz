@@ -17,10 +17,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog label | Insomnia Toolz v1.o |
 | Archive filename | insomnia toolz v1.0 for aol 8.0 win2k-xp.zip |
 | File size | 1.7 MB |
-| Author | zero |
+| Author | zero (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | zero |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#review-low-priority](../../../tags/review-low-priority.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#review-low-priority](../../../tags/review-low-priority.md)
 
 ## Source And Files
 

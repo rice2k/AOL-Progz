@@ -4,17 +4,17 @@ This index groups programs by more specific inferred function: all-in-one suites
 
 | Prog type | Count | Page |
 | --- | --- | --- |
-| Unknown / needs review | 1259 | [open](types/unknown-needs-review.md) |
+| Unknown / needs review | 1250 | [open](types/unknown-needs-review.md) |
 | Idler / AFK bot | 190 | [open](types/idler-afk-bot.md) |
-| All-in-one prog suite | 139 | [open](types/all-in-one-prog-suite.md) |
-| Fader / text styler | 81 | [open](types/fader-text-styler.md) |
+| All-in-one prog suite | 140 | [open](types/all-in-one-prog-suite.md) |
+| Fader / text styler | 86 | [open](types/fader-text-styler.md) |
 | Account / TOS utility | 71 | [open](types/account-tos-utility.md) |
-| C-Com / command list | 50 | [open](types/c-com-command-list.md) |
+| C-Com / command list | 51 | [open](types/c-com-command-list.md) |
 | Scroller / macro | 48 | [open](types/scroller-macro.md) |
 | Room buster | 47 | [open](types/room-buster.md) |
-| Linker / chat linker | 45 | [open](types/linker-chat-linker.md) |
 | Media / file utility | 45 | [open](types/media-file-utility.md) |
-| Source / developer file | 40 | [open](types/source-developer-file.md) |
+| Linker / chat linker | 44 | [open](types/linker-chat-linker.md) |
+| Source / developer file | 43 | [open](types/source-developer-file.md) |
 | Punter / booter | 39 | [open](types/punter-booter.md) |
 | Mass mailer / server | 35 | [open](types/mass-mailer-server.md) |
 | AOL/AIM chat utility | 28 | [open](types/aolaim-chat-utility.md) |

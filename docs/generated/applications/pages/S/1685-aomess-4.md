@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | aomess4_by_lynx_[aol2.5].zip |
 | File size | unknown |
 | Author | Lynx; catalog listed RiDDLeR |
+| Author evidence source | filename byline inferred |
+| Author evidence strength | medium |
+| Author evidence note | Inferred from a filename or source label using a `by/from` pattern. |
 | Catalog author | RiDDLeR |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | Lynx |
 | Author conflict note | Catalog listed RiDDLeR; evidence prefers Lynx. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |

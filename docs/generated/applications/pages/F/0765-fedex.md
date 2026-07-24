@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | FedEx |
 | Archive filename | fedex.zip |
 | File size | 771 KB |
-| Author | Dr. J |
+| Author | Dr. J (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Dr. J |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility, Source / developer file, AOL/AIM chat utility, Scroller / macro |
+| Archive-text description clues | punters out for aol 4.0, and this is only the first version. Well,<br>=Prog Version: No official version number (First release)<br>=For Aol Version: 2.5 3.0 Aol 95 {4.0} |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | FedExReadMe.txt<br>FedEx.ini |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| FedExReadMe.txt<br>FedEx.ini | none | Fader / text styler<br>Punter / booter<br>Mass mailer / server<br>Account / TOS utility<br>Source / developer file<br>AOL/AIM chat utility<br>Scroller / macro | AOL 4.0<br>AOL 95<br>AOL 2.5<br>AOL 3.0<br>AOL 4.5 | FedExReadMe.txt mentions AOL 4.0, AOL 95, AOL 2.5, AOL 3.0, AOL 4.5.<br>FedExReadMe.txt has vocabulary for Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility, Source / developer file.<br>FedEx.ini has vocabulary for Punter / booter, Scroller / macro, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| FedExReadMe.txt<br>FedEx.ini | none | Fader / text styler<br>Punter / booter<br>Mass mailer / server<br>Account / TOS utility<br>Source / developer file<br>AOL/AIM chat utility<br>Scroller / macro | AOL 4.0<br>AOL 95<br>AOL 2.5<br>AOL 3.0<br>AOL 4.5 | punters out for aol 4.0, and this is only the first version. Well,<br>=Prog Version: No official version number (First release)<br>=For Aol Version: 2.5 3.0 Aol 95 {4.0}<br>=Visual Basic Version: Dos 3.0 {4.0} 5.0 6.0 (Yes, there is a | none | FedExReadMe.txt mentions AOL 4.0, AOL 95, AOL 2.5, AOL 3.0, AOL 4.5.<br>FedExReadMe.txt has vocabulary for Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility, Source / developer file.<br>FedEx.ini has vocabulary for Punter / booter, Scroller / macro, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

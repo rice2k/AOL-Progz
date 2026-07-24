@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: C-Com / command list, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | annihilation |
 | Archive filename | annihilation.zip |
 | File size | 8.1 MB |
-| Author | unknown |
+| Author | masta |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | masta |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -29,12 +33,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
 | External ZIP text version mentions | unknown |
-| Prog type | Unknown / needs review |
+| Prog type | C-Com / command list |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
-| Archive-text purpose clues | unknown |
+| Archive-text purpose clues | C-Com / command list, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | skins/default.ini<br>ann.ini |
+| Archive text files reviewed | skins/default.ini<br>ann.ini<br>coms.lst |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | unknown |
-| Category confidence | needs review |
+| Author confidence | readme/archive text |
+| Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (10) |
-| Manual review flags | category uncertain, type uncertain, author unknown |
+| Review priority | medium (4) |
+| Manual review flags | category uncertain |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| skins/default.ini<br>ann.ini | none | none | none | unknown |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| skins/default.ini<br>ann.ini<br>coms.lst | masta (skins/default.ini)<br>Thursday Night or on Friday (coms.lst) | C-Com / command list<br>AOL/AIM chat utility | none | none | none | skins/default.ini includes archive-text author clue(s): masta.<br>coms.lst includes archive-text author clue(s): Thursday Night or on Friday.<br>coms.lst has vocabulary for C-Com / command list, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

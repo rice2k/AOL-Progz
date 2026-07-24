@@ -17,10 +17,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog label | EmEricA TooLz |
 | Archive filename | emericatoolz.zip |
 | File size | 728 KB |
-| Author | EmEricA |
+| Author | EmEricA (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | EmEricA |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-32](../../../tags/vb4-32.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 

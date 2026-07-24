@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | PKZIP |
 | Archive filename | faltoser.zip |
 | File size | 1.4 MB |
-| Author | of this fine program |
+| Author | of this fine program (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | of this fine program |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility, Punter / booter, All-in-one prog suite, C-Com / command list, Mass mailer / server, Account / TOS utility, AOL/AIM chat utility |
+| Archive-text description clues | BEFORE USING ANY FEATURE INVOLING MAIL OPEN YOUR MAILBOX AND CLICK ON MORE IF A BUTTON LABELED MORE APPEARS!<br>"Satan Chat" Lets you chat with AOL minimized, in the final version it will have a menu that has all your IMs in it, and you click on one to bring up a copy of it, with AOL still minimized!<br>Using version from primary archive. |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | README.TXT<br>APATHY.INI<br>luciferx/NAILZ.TXT<br>_conflicts/conflict.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| README.TXT<br>APATHY.INI<br>luciferx/NAILZ.TXT<br>_conflicts/conflict.txt | none | Media / file utility<br>Punter / booter<br>All-in-one prog suite<br>C-Com / command list<br>Mass mailer / server<br>Account / TOS utility<br>AOL/AIM chat utility | none | README.TXT has vocabulary for Media / file utility.<br>APATHY.INI has vocabulary for Punter / booter.<br>luciferx/NAILZ.TXT has vocabulary for All-in-one prog suite, Punter / booter, C-Com / command list, Mass mailer / server, Account / TOS utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| README.TXT<br>APATHY.INI<br>luciferx/NAILZ.TXT<br>_conflicts/conflict.txt | none | Media / file utility<br>Punter / booter<br>All-in-one prog suite<br>C-Com / command list<br>Mass mailer / server<br>Account / TOS utility<br>AOL/AIM chat utility | none | BEFORE USING ANY FEATURE INVOLING MAIL OPEN YOUR MAILBOX AND CLICK ON MORE IF A BUTTON LABELED MORE APPEARS!<br>"Satan Chat" Lets you chat with AOL minimized, in the final version it will have a menu that has all your IMs in it, and you click on one to bring up a copy of it, with AOL still minimized!<br>Using version from primary archive. | none | README.TXT has vocabulary for Media / file utility.<br>APATHY.INI has vocabulary for Punter / booter.<br>luciferx/NAILZ.TXT has vocabulary for All-in-one prog suite, Punter / booter, C-Com / command list, Mass mailer / server, Account / TOS utility. |
 
 ### Matched External ZIP Text Evidence
 

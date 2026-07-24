@@ -17,10 +17,14 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Catalog label | eto x'er |
 | Archive filename | etoxr.zip |
 | File size | 45 KB |
-| Author | suffer |
+| Author | suffer (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | suffer |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 | Category | fader or text tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ETO x'r/READ ME .txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A text effect utility, usually for color fades, styled text, profile text, room 
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#fader-or-text-tool](../../../tags/fader-or-text-tool.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| ETO x'r/READ ME .txt | none | C-Com / command list | none | ETO x'r/READ ME .txt has vocabulary for C-Com / command list. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| ETO x'r/READ ME .txt | none | C-Com / command list | none | none | none | ETO x'r/READ ME .txt has vocabulary for C-Com / command list. |
 
 ### Matched External ZIP Text Evidence
 

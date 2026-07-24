@@ -18,9 +18,13 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Archive filename | heat spammer %b2%b7%ba.zip |
 | File size | 22 B |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category | mass mailer |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |

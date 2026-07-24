@@ -17,10 +17,14 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog label | argon |
 | Archive filename | argon termer password=85203.zip |
 | File size | 3.3 MB |
-| Author | haLe |
+| Author | haLe (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | haLe |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://www.skywalkersrelm.com](http://www.skywalkersrelm.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | argon termer password=85203/Liquidinfo.txt<br>Liquidinfo.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#password-metadata](../../../tags/password-metadata.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-16](../../../tags/vb4-16.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#password-metadata](../../../tags/password-metadata.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-16](../../../tags/vb4-16.md)
 
 ## Source And Files
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| argon termer password=85203/Liquidinfo.txt<br>Liquidinfo.txt | none | AOL/AIM chat utility | none | argon termer password=85203/Liquidinfo.txt has vocabulary for AOL/AIM chat utility.<br>Liquidinfo.txt has vocabulary for AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| argon termer password=85203/Liquidinfo.txt<br>Liquidinfo.txt | none | AOL/AIM chat utility | none | none | [http://www.skywalkersrelm.com](http://www.skywalkersrelm.com) | argon termer password=85203/Liquidinfo.txt has vocabulary for AOL/AIM chat utility.<br>Liquidinfo.txt has vocabulary for AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

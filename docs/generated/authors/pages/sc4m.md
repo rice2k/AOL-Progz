@@ -1,11 +1,19 @@
-# Author: sc4m
+# Author / Crew: sc4m
 
-**Catalog entries:** 5
+**Strong-evidence catalog entries:** 2
 
-| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 461 | [Cr 4x Z 0ne Yr 2008](../../applications/pages/C/0461-cr-4x-z-0ne-yr-2008.md) | cr4x z0ne | Account / TOS utility | uncategorized | AOL 4.0; inferred: AOL 9-9.1 | sc4m | 2.0 MB | [local](../../../../files/aol/aol-4-0/0461-cr4x-z0ne.zip) | 0 |
-| 462 | [cr4x z0ne](../../applications/pages/C/0462-cr4x-z0ne.md) | cr4x z0ne | Account / TOS utility | uncategorized | AOL 4.0 | sc4m | 1.9 MB | [local](../../../../files/aol/aol-4-0/0462-cr4x-z0ne.zip) | 0 |
-| 1626 | [Ri-2 by sc4m](../../applications/pages/R/1626-ri-2-by-sc4m.md) | Ri-2 by sc4m | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 9-9.1 | sc4m | unknown | remote-only | 0 |
-| 1677 | [Seperate by sc4m](../../applications/pages/S/1677-seperate-by-sc4m.md) | Seperate by sc4m | Unknown / needs review | uncategorized | AOL 4.0 | sc4m | unknown | remote-only | 0 |
-| 1927 | [Toolz](../../applications/pages/T/1927-toolz.md) | toolz | All-in-one prog suite | all-in-one prog | AOL 4.0 | sc4m | unknown | remote-only | 0 |
+These entries have manual old-web/source evidence, local archive-text evidence, or matched external ZIP text evidence. Catalog-only and filename-only claims are listed separately on the author index.
+
+## Evidence Sources
+
+| Program | Catalog label | Evidence source | Evidence note | Archive text files | External text files | Program page |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cr 4x Z 0ne Yr 2008 | cr4x z0ne | local archive text | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. | Cr4x Z0ne/Cr4x Z0ne/Read Me.txt<br>aciddr0p.netReadMe.txt | unknown | [open](../../applications/pages/C/0461-cr-4x-z-0ne-yr-2008.md) |
+| cr4x z0ne | cr4x z0ne | local archive text | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. | Cr4x Z0ne/Read Me.txt<br>aciddr0p.netReadMe.txt | unknown | [open](../../applications/pages/C/0462-cr4x-z0ne.md) |
+
+## Related Programs
+
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Author source | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 461 | [Cr 4x Z 0ne Yr 2008](../../applications/pages/C/0461-cr-4x-z-0ne-yr-2008.md) | cr4x z0ne | Account / TOS utility | uncategorized | AOL 4.0; inferred: AOL 9-9.1 | sc4m | local archive text | 2.0 MB | [local](../../../../files/aol/aol-4-0/0461-cr4x-z0ne.zip) | 0 |
+| 462 | [cr4x z0ne](../../applications/pages/C/0462-cr4x-z0ne.md) | cr4x z0ne | Account / TOS utility | uncategorized | AOL 4.0 | sc4m | local archive text | 1.9 MB | [local](../../../../files/aol/aol-4-0/0462-cr4x-z0ne.zip) | 0 |

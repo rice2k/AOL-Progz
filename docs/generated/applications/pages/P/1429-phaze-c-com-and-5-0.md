@@ -17,10 +17,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog label | phaze c-com |
 | Archive filename | phaze c-com for aol 4.0 and 5.0.zip |
 | File size | 1.8 MB |
-| Author | Zero |
+| Author | Zero (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Zero |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#review-low-priority](../../../tags/review-low-priority.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#review-low-priority](../../../tags/review-low-priority.md)
 
 ## Source And Files
 

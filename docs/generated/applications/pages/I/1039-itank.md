@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | itank.zip |
 | File size | 947 KB |
 | Author | Chris + Logik; catalog listed Kai |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | Kai |
 | Manual author evidence | unknown |
 | Archive-text author | Chris + Logik |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | Catalog listed Kai; evidence prefers Chris + Logik. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Fader / text styler, Scroller / macro, Account / TOS utility |
+| Archive-text description clues | Description: Tank for America Online version 7.0 |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | itank/greets.txt<br>itank/read me.txt<br>itank/Settings.ini |
 | Matched external ZIP text evidence | 0 |
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| itank/greets.txt<br>itank/read me.txt<br>itank/Settings.ini | Chris + Logik (itank/read me.txt) | Source / developer file<br>Fader / text styler<br>Scroller / macro<br>Account / TOS utility | AOL 7.0 | itank/read me.txt includes archive-text author clue(s): Chris + Logik.<br>itank/read me.txt has vocabulary for Source / developer file.<br>itank/Settings.ini mentions AOL 7.0.<br>itank/Settings.ini has vocabulary for Fader / text styler, Scroller / macro, Account / TOS utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| itank/greets.txt<br>itank/read me.txt<br>itank/Settings.ini | Chris + Logik (itank/read me.txt)<br>Kai (itank/read me.txt) | Source / developer file<br>Fader / text styler<br>Scroller / macro<br>Account / TOS utility | AOL 7.0 | Description: Tank for America Online version 7.0 | none | itank/read me.txt includes archive-text author clue(s): Chris + Logik, Kai.<br>itank/read me.txt has vocabulary for Source / developer file.<br>itank/Settings.ini mentions AOL 7.0.<br>itank/Settings.ini has vocabulary for Fader / text styler, Scroller / macro, Account / TOS utility. |
 
 ### Matched External ZIP Text Evidence
 

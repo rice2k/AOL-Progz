@@ -17,10 +17,14 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog label | JudgementDay |
 | Archive filename | judgement day aol4-5 yr2k password=vbnm.zip |
 | File size | 4.2 MB |
-| Author | Nautica |
+| Author | Nautica (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Nautica |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Media / file utility |
+| Archive-text description clues | So After your done with the unzipping the final folder for this prog<br>files you need to run this prog, also the Wav files take up a good<br>Well anyway I hope you enjoy this prog and again this is for |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#password-metadata](../../../tags/password-metadata.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#password-metadata](../../../tags/password-metadata.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| ReadMe.txt | none | Source / developer file<br>Media / file utility | none | ReadMe.txt has vocabulary for Source / developer file, Media / file utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| ReadMe.txt | none | Source / developer file<br>Media / file utility | none | So After your done with the unzipping the final folder for this prog<br>files you need to run this prog, also the Wav files take up a good<br>Well anyway I hope you enjoy this prog and again this is for<br>what you or anyone else does with this prog! | none | ReadMe.txt has vocabulary for Source / developer file, Media / file utility. |
 
 ### Matched External ZIP Text Evidence
 

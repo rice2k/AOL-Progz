@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | lazyass gold.zip |
 | File size | 22 B |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | Account / TOS utility, Source / developer file, Media / file utility, Fader / text styler, Idler / AFK bot, Room buster, Punter / booter, C-Com / command list, Scroller / macro, Linker / chat linker, Screen-name utility, AOL/AIM chat utility, All-in-one prog suite |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 1 |
@@ -94,7 +100,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip](../../../../../files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip) | Lazy Ass.ini<br>Form1.frm<br>Form9.frm<br>Form2.frm<br>afk.frm<br>Form3.frm | none | none | Account / TOS utility<br>Source / developer file<br>Media / file utility<br>Fader / text styler<br>Idler / AFK bot<br>Room buster | Version number missing or invalid; Visual Basic 4.0 assumed. | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip](../../../../../files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip) | Lazy Ass.ini<br>Form1.frm<br>Form9.frm<br>commands.lst<br>Form2.frm<br>afk.frm | none | none | Account / TOS utility<br>Source / developer file<br>Media / file utility<br>Fader / text styler<br>Idler / AFK bot<br>Room buster | Version number missing or invalid; Visual Basic 4.0 assumed. | unknown |
 
 ### Source Mentions
 

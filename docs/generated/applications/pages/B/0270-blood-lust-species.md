@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | blood_lust_species_by_xero_and_slush_[aol4.0].zip |
 | File size | 2.2 MB |
 | Author | Xero And Slush; catalog listed xèró and slush |
+| Author evidence source | filename byline inferred |
+| Author evidence strength | medium |
+| Author evidence note | Inferred from a filename or source label using a `by/from` pattern. |
 | Catalog author | xèró and slush |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | Xero And Slush |
 | Author conflict note | Catalog listed xèró and slush; evidence prefers Xero And Slush. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility, Account / TOS utility |
+| Archive-text description clues | with this program, and it will be useless...<br>[Comments: ]This program is THE program out for AOL4.0 Now that<br>[ ]This program has everything you could ever want in a |
+| Archive-text URL clues | [http://members.xoom.com/BLSpecies/](http://members.xoom.com/BLSpecies/) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Upgrades/blsug.txt<br>!README!.TXT<br>irunin.ini<br>aciddr0p.netReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Upgrades/blsug.txt<br>!README!.TXT<br>irunin.ini<br>aciddr0p.netReadMe.txt | none | Media / file utility<br>Account / TOS utility | AOL 4.0 | Upgrades/blsug.txt has vocabulary for Media / file utility.<br>!README!.TXT mentions AOL 4.0.<br>!README!.TXT has vocabulary for Account / TOS utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Upgrades/blsug.txt<br>!README!.TXT<br>irunin.ini<br>aciddr0p.netReadMe.txt | none | Media / file utility<br>Account / TOS utility | AOL 4.0 | with this program, and it will be useless...<br>[Comments: ]This program is THE program out for AOL4.0 Now that<br>[ ]This program has everything you could ever want in a<br>[ ]"Uninstall" feature because you won't be needing it. | [http://members.xoom.com/BLSpecies/](http://members.xoom.com/BLSpecies/) | Upgrades/blsug.txt has vocabulary for Media / file utility.<br>!README!.TXT mentions AOL 4.0.<br>!README!.TXT has vocabulary for Account / TOS utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Matched External ZIP Text Evidence
 

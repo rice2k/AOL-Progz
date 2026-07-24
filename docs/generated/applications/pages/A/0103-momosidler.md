@@ -17,12 +17,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | anti |
 | Archive filename | momosidler.zip |
 | File size | 38 KB |
-| Author | IZED TO INSTALL |
+| Author | Cosmic Cat Creations and; catalog listed IZED TO INSTALL |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | IZED TO INSTALL |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | Cosmic Cat Creations and |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
-| Author conflict note | none |
+| Author conflict note | Catalog listed IZED TO INSTALL; evidence prefers Cosmic Cat Creations and. |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0; archive text: AOL 5.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot |
+| Archive-text description clues | In version 2.6, I am using a new "keep-alive" technique instead of the<br>This program places an icon in your system tray (on the Windows<br>(operating system, processor type and speed, AOL version, language). |
+| Archive-text URL clues | [http://www.cosmicat.com/software/antiidle/](http://www.cosmicat.com/software/antiidle/) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ANTI/README.TXT<br>ANTI/LICENSE.TXT |
 | Matched external ZIP text evidence | 0 |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
-| Review priority | medium (4) |
-| Manual review flags | category uncertain |
-| Next research action | Scan readable text and old source-page labels to assign category/type. |
+| Review priority | high (10) |
+| Manual review flags | author conflict, category uncertain |
+| Next research action | Compare catalog author, archive text, and old-page mentions before changing attribution. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| ANTI/README.TXT<br>ANTI/LICENSE.TXT | none | Idler / AFK bot | AOL 5.0 | ANTI/README.TXT mentions AOL 5.0.<br>ANTI/README.TXT has vocabulary for Idler / AFK bot.<br>ANTI/LICENSE.TXT has vocabulary for Idler / AFK bot. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| ANTI/README.TXT<br>ANTI/LICENSE.TXT | Cosmic Cat Creations and (ANTI/LICENSE.TXT) | Idler / AFK bot | AOL 5.0 | In version 2.6, I am using a new "keep-alive" technique instead of the<br>This program places an icon in your system tray (on the Windows<br>(operating system, processor type and speed, AOL version, language).<br>idle, you *must* use the keep-alive feature when you are away from your | [http://www.cosmicat.com/software/antiidle/](http://www.cosmicat.com/software/antiidle/) | ANTI/README.TXT mentions AOL 5.0.<br>ANTI/README.TXT has vocabulary for Idler / AFK bot.<br>ANTI/LICENSE.TXT includes archive-text author clue(s): Cosmic Cat Creations and.<br>ANTI/LICENSE.TXT has vocabulary for Idler / AFK bot. |
 
 ### Matched External ZIP Text Evidence
 

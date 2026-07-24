@@ -17,12 +17,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | idlemachine |
 | Archive filename | idlemachine.zip |
 | File size | 55 KB |
-| Author | s Realm is a tsp |
+| Author | spiff; catalog listed s Realm is a tsp |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | s Realm is a tsp |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | spiff |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
-| Author conflict note | none |
+| Author conflict note | Catalog listed s Realm is a tsp; evidence prefers spiff. |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://members.dencity.com/morfeus/index.html´`·.·´`](http://members.dencity.com/morfeus/index.html´`·.·´`) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | idle1.txt<br>MorFeuS's ReaLM.txt |
 | Matched external ZIP text evidence | 0 |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (4) |
-| Manual review flags | category uncertain |
-| Next research action | Scan readable text and old source-page labels to assign category/type. |
+| Review priority | high (10) |
+| Manual review flags | author conflict, category uncertain |
+| Next research action | Compare catalog author, archive text, and old-page mentions before changing attribution. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -78,7 +84,11 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://members.dencity.com/morfeus/index.html´`·.·´`](http://members.dencity.com/morfeus/index.html´`·.·´`) | local archive text scan | archive text metadata |
 
 ## Web Research
 
@@ -88,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| idle1.txt<br>MorFeuS's ReaLM.txt | none | AOL/AIM chat utility | none | MorFeuS's ReaLM.txt has vocabulary for AOL/AIM chat utility.<br>MorFeuS's ReaLM.txt includes a mirror/download-source note. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| idle1.txt<br>MorFeuS's ReaLM.txt | spiff (idle1.txt) | AOL/AIM chat utility | none | none | [http://members.dencity.com/morfeus/index.html´`·.·´`](http://members.dencity.com/morfeus/index.html´`·.·´`) | idle1.txt includes archive-text author clue(s): spiff.<br>MorFeuS's ReaLM.txt has vocabulary for AOL/AIM chat utility.<br>MorFeuS's ReaLM.txt includes a mirror/download-source note. |
 
 ### Matched External ZIP Text Evidence
 

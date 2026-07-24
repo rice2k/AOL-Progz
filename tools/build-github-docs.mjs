@@ -209,6 +209,8 @@ function appTags(program, embeddedUrls) {
   if (program.duplicates > 0) tags.add("duplicate-metadata");
   if (program.password) tags.add("password-metadata");
   if (enrichment.archiveTextAuthor) tags.add("has-archive-text-author");
+  if (externalTextAuthors(program).length) tags.add("has-external-text-author");
+  if (authorEvidence(program).source === "catalog-only claim") tags.add("author-catalog-only");
   if (enrichment.manualPurposeSignals?.length) tags.add("has-manual-purpose-clues");
   if (enrichment.archivePurposeSignals?.length) tags.add("has-readme-purpose-clues");
   if (enrichment.archiveAolVersions?.length) tags.add("has-readme-aol-version-clues");
@@ -337,22 +339,95 @@ function displayName(program) {
   return clean(enrichmentFor(program).bestName) || clean(program.name) || "Unknown program";
 }
 
+function externalTextAuthors(program) {
+  return uniqueBy(enrichmentFor(program).externalArchiveTextAuthors || [], (item) => clean(item).toLowerCase()).filter(Boolean);
+}
+
+function authorEvidence(program) {
+  const enrichment = enrichmentFor(program);
+  const manual = clean(enrichment.manualAuthor);
+  if (manual) {
+    return {
+      name: manual,
+      source: "manual old-web/source evidence",
+      strength: "strong",
+      note: "Curated correction from old-web/source evidence.",
+    };
+  }
+  const archive = clean(enrichment.archiveTextAuthor);
+  if (archive) {
+    return {
+      name: archive,
+      source: "local archive text",
+      strength: "strong",
+      note: "Extracted from a ReadMe/NFO/source-like file inside the local catalog archive.",
+    };
+  }
+  const external = externalTextAuthors(program)[0];
+  if (external) {
+    return {
+      name: external,
+      source: "matched external ZIP text",
+      strength: "strong",
+      note: "Extracted from readable text inside a recovered external mirror matched to this catalog entry.",
+    };
+  }
+  const inferred = clean(enrichment.inferredAuthor);
+  if (inferred) {
+    return {
+      name: inferred,
+      source: "filename byline inferred",
+      strength: "medium",
+      note: "Inferred from a filename or source label using a `by/from` pattern.",
+    };
+  }
+  const catalogAuthor = clean(program.author);
+  if (catalogAuthor) {
+    return {
+      name: catalogAuthor,
+      source: "catalog-only claim",
+      strength: "weak",
+      note: "Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees.",
+    };
+  }
+  return {
+    name: "",
+    source: "unknown",
+    strength: "unknown",
+    note: "No author evidence found yet.",
+  };
+}
+
 function displayAuthor(program) {
   const catalogAuthor = clean(program.author);
-  const enrichment = enrichmentFor(program);
-  const manualAuthor = clean(enrichment.manualAuthor);
-  const archiveAuthor = clean(enrichment.archiveTextAuthor);
-  const inferredAuthor = clean(enrichmentFor(program).inferredAuthor);
-  const preferred = manualAuthor || archiveAuthor || inferredAuthor || catalogAuthor;
+  const evidence = authorEvidence(program);
+  const preferred = evidence.name || catalogAuthor;
   if (preferred && catalogAuthor && preferred.toLowerCase() !== catalogAuthor.toLowerCase()) {
     return `${preferred}; catalog listed ${catalogAuthor}`;
   }
+  if (preferred && evidence.source === "catalog-only claim") return `${preferred} (catalog-only claim)`;
   return preferred || "unknown";
 }
 
 function primaryAuthor(program) {
-  const enrichment = enrichmentFor(program);
-  return clean(enrichment.manualAuthor || enrichment.archiveTextAuthor || enrichment.inferredAuthor || program.author);
+  return clean(authorEvidence(program).name);
+}
+
+function credibleStrongAuthorName(value) {
+  const name = clean(value);
+  if (!name) return false;
+  const lower = name.toLowerCase();
+  if (/^(?:software|commas|google|dangerous|fifa|ed|step)$/i.test(name)) return false;
+  if (/\b(?:from|like|but|following|field|menu|room|rooms|people|software)\b/i.test(name)) return false;
+  if (/\b(?:and|or)$/i.test(name)) return false;
+  if (/'s$/i.test(name)) return false;
+  if (name.split(/\s+/).length > 4 && !/[()+&]/.test(name)) return false;
+  return true;
+}
+
+function trustedAuthor(program) {
+  const evidence = authorEvidence(program);
+  return evidence.strength === "strong" && credibleStrongAuthorName(evidence.name) ? evidence.name : "";
 }
 
 function displayVersion(program) {
@@ -411,6 +486,36 @@ function directorySize(relativePath, options = {}) {
   return total;
 }
 
+function countFiles(relativePath, predicate = () => true) {
+  const base = path.join(rootDir, relativePath);
+  if (!existsSync(base)) return 0;
+  let total = 0;
+  const stack = [base];
+  while (stack.length) {
+    const current = stack.pop();
+    let stat;
+    try {
+      stat = statSync(current);
+    } catch {
+      continue;
+    }
+    if (stat.isDirectory()) {
+      for (const entry of readdirSync(current, { withFileTypes: true })) {
+        stack.push(path.join(current, entry.name));
+      }
+    } else if (predicate(current)) {
+      total += 1;
+    }
+  }
+  return total;
+}
+
+function shield(label, value, color) {
+  const cleanLabel = encodeURIComponent(clean(label)).replace(/-/g, "--");
+  const cleanValue = encodeURIComponent(clean(value)).replace(/-/g, "--");
+  return `<img alt="${md(label)}: ${md(value)}" src="https://img.shields.io/badge/${cleanLabel}-${cleanValue}-${color}?style=for-the-badge&labelColor=101820">`;
+}
+
 function archiveFileName(program) {
   return clean(enrichmentFor(program).archiveFilename) || path.posix.basename(clean(program.file) || clean(program.download?.path) || "");
 }
@@ -420,6 +525,7 @@ function confidenceLabel(program, field) {
   if (field === "author") {
     if (clean(enrichment.manualAuthor)) return "manual source correction";
     if (clean(enrichment.archiveTextAuthor)) return "readme/archive text";
+    if (externalTextAuthors(program).length) return "matched external ZIP text";
     if (clean(enrichment.inferredAuthor)) return "filename/source inferred";
     if (clean(program.author)) return "catalog only";
     return "unknown";
@@ -594,9 +700,21 @@ function oldWebDownloadCount(program) {
   return String((enrichment.webDownloadLinks?.length || 0) + (enrichment.mirrorLinks?.length || 0));
 }
 
+function oldUrlEvidenceCount(program) {
+  const enrichment = enrichmentFor(program);
+  const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
+  return (
+    embedded.length +
+    (enrichment.archiveTextUrls?.length || 0) +
+    (enrichment.webDownloadLinks?.length || 0) +
+    (enrichment.mirrorLinks?.length || 0) +
+    uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.urls || []), (item) => item).length
+  );
+}
+
 function appTable(fromDoc, items) {
   return table(
-    ["#", "Best known name", "Catalog label", "Prog type", "Category", "AOL/version", "Author", "Size", "File", "Shots"],
+    ["#", "Best known name", "Catalog label", "Prog type", "Category", "AOL/version", "Author", "Author source", "Size", "File", "Shots"],
     sortByName(items).map((program) => [
       String(program.index),
       localLink(fromDoc, displayName(program), appDocPaths.get(program.id)),
@@ -605,6 +723,7 @@ function appTable(fromDoc, items) {
       program.category || "uncategorized",
       displayVersion(program),
       displayAuthor(program),
+      authorEvidence(program).source,
       fileSizeLabel(program),
       program.download?.path ? localLink(fromDoc, "local", program.download.path) : program.download?.status || "remote-only",
       String(program.screenshotCount || 0),
@@ -624,9 +743,11 @@ function programInventoryTable(fromDoc, items) {
       "Category",
       "AOL/version",
       "Author",
+      "Author evidence",
       "Author confidence",
       "Local file",
       "Old-web/download leads",
+      "All URL clues",
       "Reference mirror",
       "Embedded URLs",
       "Screens",
@@ -646,9 +767,11 @@ function programInventoryTable(fromDoc, items) {
         program.category || "uncategorized",
         displayVersion(program),
         displayAuthor(program),
+        authorEvidence(program).source,
         confidenceLabel(program, "author"),
         program.download?.path ? localLink(fromDoc, program.download.path, program.download.path) : program.download?.status || "remote-only",
         oldWebDownloadCount(program),
+        String(oldUrlEvidenceCount(program)),
         joinedReferenceMirrorLinks(program),
         embedded.length ? embedded.map((item) => link(item.url, item.url)).join("<br>") : "",
         String(program.screenshotCount || 0),
@@ -1031,6 +1154,7 @@ function programExportRecord(program) {
   const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
   const enrichment = enrichmentFor(program);
   const review = reviewProfile(program);
+  const author = authorEvidence(program);
   return {
     index: program.index,
     id: program.id,
@@ -1043,6 +1167,9 @@ function programExportRecord(program) {
     platform: clean(program.platform) || "unknown",
     aolVersion: displayVersion(program),
     author: displayAuthor(program),
+    authorEvidenceName: author.name,
+    authorEvidenceSource: author.source,
+    authorEvidenceStrength: author.strength,
     authorConfidence: confidenceLabel(program, "author"),
     categoryConfidence: confidenceLabel(program, "category"),
     versionConfidence: confidenceLabel(program, "version"),
@@ -1055,6 +1182,9 @@ function programExportRecord(program) {
     webResearchMentions: enrichment.webMentions?.length || 0,
     screenshots: program.screenshotCount || 0,
     embeddedUrls: embedded.length,
+    archiveTextUrls: enrichment.archiveTextUrls?.length || 0,
+    archiveDescriptionClues: enrichment.archiveDescriptionCandidates?.length || 0,
+    externalTextAuthors: externalTextAuthors(program).join("; "),
     reviewPriority: review.level,
     reviewScore: review.score,
     manualReviewFlags: review.reasons.join("; "),
@@ -1145,6 +1275,28 @@ function originalDownloadRecords() {
   for (const program of programs) {
     const detailPage = appDocPaths.get(program.id) || "";
     const enrichment = enrichmentFor(program);
+    for (const item of urlIndex.perProgram?.[program.id]?.urls || []) {
+      add({
+        name: displayName(program),
+        kind: "embedded URL from local archive text",
+        status: "evidence",
+        source: item.foundIn || item.source || "archive text",
+        url: item.url,
+        localPath: program.download?.path || "",
+        detailPage,
+      });
+    }
+    for (const url of enrichment.archiveTextUrls || []) {
+      add({
+        name: displayName(program),
+        kind: "archive text URL clue",
+        status: "evidence",
+        source: "local archive text scan",
+        url,
+        localPath: program.download?.path || "",
+        detailPage,
+      });
+    }
     add({
       name: displayName(program),
       kind: "reference repository page",
@@ -1223,6 +1375,19 @@ function originalDownloadRecords() {
       localPath: item.localPath || "",
       detailPage: "",
     });
+  }
+  for (const record of externalArchiveText.records || []) {
+    for (const url of record.urls || []) {
+      add({
+        name: record.name || fileStem(record.localPath || url),
+        kind: "embedded URL from recovered external ZIP text",
+        status: "evidence",
+        source: record.sourceList || "external archive text",
+        url,
+        localPath: record.localPath || "",
+        detailPage: "",
+      });
+    }
   }
   for (const item of archiveOrgSoftware.items || []) {
     add({
@@ -1560,8 +1725,32 @@ for (const program of programs) {
   const doc = appDocPaths.get(program.id);
   const embedded = uniqueBy(urlIndex.perProgram?.[program.id]?.urls || [], (item) => item.url);
   const enrichment = enrichmentFor(program);
+  const programUrlEvidence = uniqueBy(
+    [
+      ...embedded.map((item) => ({
+        url: item.url,
+        foundIn: item.foundIn || "archive text",
+        source: item.source || "URL scanner",
+      })),
+      ...(enrichment.archiveTextUrls || []).map((url) => ({
+        url,
+        foundIn: "local archive text scan",
+        source: "archive text metadata",
+      })),
+      ...(enrichment.externalArchiveTextEvidence || []).flatMap((item) =>
+        (item.urls || []).map((url) => ({
+          url,
+          foundIn: item.localPath || item.label || "matched external ZIP",
+          source: item.sourceName || "external archive text",
+        })),
+      ),
+    ],
+    (item) => canonicalUrl(item.url),
+  );
   const externalTextVersions = uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.versionMentions || []), (item) => item);
   const externalTextPurposes = uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.purposeSignals || []), (item) => item);
+  const externalAuthors = externalTextAuthors(program);
+  const author = authorEvidence(program);
   const tags = appTags(program, embedded);
   const screenshots = program.screenshots || [];
   const review = reviewProfile(program);
@@ -1574,9 +1763,13 @@ for (const program of programs) {
     ["Archive filename", archiveFileName(program)],
     ["File size", fileSizeLabel(program)],
     ["Author", displayAuthor(program)],
+    ["Author evidence source", author.source],
+    ["Author evidence strength", author.strength],
+    ["Author evidence note", author.note],
     ["Catalog author", program.author || "unknown"],
     ["Manual author evidence", enrichment.manualAuthor || "unknown"],
     ["Archive-text author", enrichment.archiveTextAuthor || "unknown"],
+    ["External ZIP text authors", externalAuthors.length ? externalAuthors.join(", ") : "unknown"],
     ["Inferred author", enrichment.inferredAuthor || "unknown"],
     ["Author conflict note", enrichment.authorConflict || "none"],
     ["Platform", program.platform || "unknown"],
@@ -1592,6 +1785,8 @@ for (const program of programs) {
     ["Category", program.category || "uncategorized"],
     ["Manual purpose clues", enrichment.manualPurposeSignals?.length ? enrichment.manualPurposeSignals.join(", ") : "unknown"],
     ["Archive-text purpose clues", enrichment.archivePurposeSignals?.length ? enrichment.archivePurposeSignals.join(", ") : "unknown"],
+    ["Archive-text description clues", enrichment.archiveDescriptionCandidates?.length ? enrichment.archiveDescriptionCandidates.map((item) => item.text).slice(0, 3).join("<br>") : "unknown"],
+    ["Archive-text URL clues", enrichment.archiveTextUrls?.length ? enrichment.archiveTextUrls.map((url) => link(url, url)).slice(0, 4).join("<br>") : "unknown"],
     [
       "External ZIP text purpose clues",
       externalTextPurposes.length ? externalTextPurposes.join(", ") : "unknown",
@@ -1639,7 +1834,7 @@ for (const program of programs) {
         "Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.",
         "",
         table(
-          ["Text files reviewed", "Author clues", "Purpose clues", "AOL/version clues", "Notes"],
+          ["Text files reviewed", "Author clues", "Purpose clues", "AOL/version clues", "Description clues", "URLs found inside", "Notes"],
           [
             [
               enrichment.archiveTextFiles.join("<br>"),
@@ -1648,6 +1843,8 @@ for (const program of programs) {
                 : "none",
               enrichment.archivePurposeSignals?.length ? enrichment.archivePurposeSignals.join("<br>") : "none",
               enrichment.archiveAolVersions?.length ? enrichment.archiveAolVersions.join("<br>") : "none",
+              enrichment.archiveDescriptionCandidates?.length ? enrichment.archiveDescriptionCandidates.map((item) => item.text).slice(0, 4).join("<br>") : "none",
+              enrichment.archiveTextUrls?.length ? enrichment.archiveTextUrls.map((url) => link(url, url)).slice(0, 6).join("<br>") : "none",
               enrichment.archiveTextNotes?.length ? enrichment.archiveTextNotes.join("<br>") : "",
             ],
           ],
@@ -1703,7 +1900,7 @@ for (const program of programs) {
         "No program screenshot is currently mirrored for this catalog entry. Check the source and web-resource pages for related site images.",
       ].join("\n");
 
-  const urlBlock = embedded.length
+  const urlBlock = programUrlEvidence.length
     ? [
         "## Embedded Or Original URLs",
         "",
@@ -1711,7 +1908,7 @@ for (const program of programs) {
         "",
         table(
           ["URL", "Found in", "Source"],
-          embedded.map((item) => [link(item.url, item.url), item.foundIn || "archive text", item.source || "archive text"]),
+          programUrlEvidence.map((item) => [link(item.url, item.url), item.foundIn || "archive text", item.source || "archive text"]),
         ),
       ].join("\n")
     : [
@@ -1932,8 +2129,11 @@ writeDoc(
         ["Programs with mirror leads", String(programEnrichment.programsWithMirrorLinks || 0)],
         ["Programs with manual purpose clues", String(programEnrichment.programsWithManualPurposeSignals || 0)],
         ["Programs with archive-text authors", String(programEnrichment.programsWithArchiveTextAuthors || 0)],
+        ["Programs with external ZIP text authors", String(programEnrichment.programsWithExternalArchiveTextAuthors || 0)],
         ["Programs with archive-text purpose clues", String(programEnrichment.programsWithArchivePurposeSignals || 0)],
         ["Programs with archive-text AOL/version clues", String(programEnrichment.programsWithArchiveAolVersionMentions || 0)],
+        ["Programs with archive-text URL clues", String(programEnrichment.programsWithArchiveTextUrls || 0)],
+        ["Programs with archive-text description clues", String(programEnrichment.programsWithArchiveDescriptionCandidates || 0)],
         ["Programs with matched external ZIP text evidence", String(programEnrichment.programsWithExternalArchiveTextEvidence || 0)],
         ["Programs with author conflicts flagged", String(programEnrichment.programsWithAuthorConflicts || 0)],
         ["Programs needing manual review", String(programs.filter((program) => reviewProfile(program).score >= 4).length)],
@@ -2274,6 +2474,9 @@ const enrichmentRows = programs
       enrichment.externalArchiveTextEvidence?.length ||
       enrichment.archiveAolVersions?.length ||
       enrichment.inferredAolVersion ||
+      enrichment.externalArchiveTextAuthors?.length ||
+      enrichment.archiveTextUrls?.length ||
+      enrichment.archiveDescriptionCandidates?.length ||
       enrichment.webDownloadLinks?.length ||
       enrichment.webMentions?.length ||
       enrichment.mirrorLinks?.length
@@ -2287,6 +2490,7 @@ const enrichmentRows = programs
       enrichment.bestNameSource || "catalog",
       enrichment.manualAuthor || "",
       enrichment.archiveTextAuthor || "",
+      externalTextAuthors(program).join("<br>") || "",
       enrichment.inferredAuthor || "",
       enrichment.authorConflict || "",
       enrichment.inferredAolVersion || "",
@@ -2296,6 +2500,8 @@ const enrichmentRows = programs
       uniqueBy((enrichment.externalArchiveTextEvidence || []).flatMap((item) => item.purposeSignals || []), (item) => item)
         .slice(0, 8)
         .join("<br>"),
+      enrichment.archiveDescriptionCandidates?.map((item) => item.text).slice(0, 3).join("<br>") || "",
+      enrichment.archiveTextUrls?.map((url) => link(url, url)).slice(0, 4).join("<br>") || "",
       fileSizeLabel(program),
       String(enrichment.webDownloadLinks?.length || 0),
       String(enrichment.webMentions?.length || 0),
@@ -2309,7 +2515,7 @@ writeDoc(
   [
     "# Program Metadata Enrichment Report",
     "",
-    `Generated from archive filenames, local file sizes, readable archive text, external ZIP text evidence, manual corrections, crawled source pages, old-page download links, and mirror lists. Improved names: **${programEnrichment.programsWithImprovedNames || 0}**. Archive-text authors: **${programEnrichment.programsWithArchiveTextAuthors || 0}**. Manual purpose clues: **${programEnrichment.programsWithManualPurposeSignals || 0}**. Archive-text purpose clues: **${programEnrichment.programsWithArchivePurposeSignals || 0}**. Matched external ZIP text evidence: **${programEnrichment.programsWithExternalArchiveTextEvidence || 0}**. Author conflicts flagged: **${programEnrichment.programsWithAuthorConflicts || 0}**. Programs with web downloads: **${programEnrichment.programsWithWebDownloadLinks || 0}**. Programs with source mentions: **${programEnrichment.programsWithWebMentions || 0}**. Programs with mirror leads: **${programEnrichment.programsWithMirrorLinks || 0}**.`,
+    `Generated from archive filenames, local file sizes, readable archive text, external ZIP text evidence, manual corrections, crawled source pages, old-page download links, and mirror lists. Improved names: **${programEnrichment.programsWithImprovedNames || 0}**. Archive-text authors: **${programEnrichment.programsWithArchiveTextAuthors || 0}**. External ZIP text authors: **${programEnrichment.programsWithExternalArchiveTextAuthors || 0}**. Archive-text URL clues: **${programEnrichment.programsWithArchiveTextUrls || 0}**. Archive-text description clues: **${programEnrichment.programsWithArchiveDescriptionCandidates || 0}**. Manual purpose clues: **${programEnrichment.programsWithManualPurposeSignals || 0}**. Archive-text purpose clues: **${programEnrichment.programsWithArchivePurposeSignals || 0}**. Matched external ZIP text evidence: **${programEnrichment.programsWithExternalArchiveTextEvidence || 0}**. Author conflicts flagged: **${programEnrichment.programsWithAuthorConflicts || 0}**. Programs with web downloads: **${programEnrichment.programsWithWebDownloadLinks || 0}**. Programs with source mentions: **${programEnrichment.programsWithWebMentions || 0}**. Programs with mirror leads: **${programEnrichment.programsWithMirrorLinks || 0}**.`,
     "",
     table(
       [
@@ -2318,6 +2524,7 @@ writeDoc(
         "Best-name source",
         "Manual author",
         "Archive-text author",
+        "External ZIP text authors",
         "Inferred author",
         "Author conflict",
         "Inferred AOL/version",
@@ -2325,6 +2532,8 @@ writeDoc(
         "Manual purpose",
         "Archive-text purpose",
         "External ZIP text purpose",
+        "Archive-text descriptions",
+        "Archive-text URLs",
         "Size",
         "Web downloads",
         "Source mentions",
@@ -2347,6 +2556,7 @@ const authorConflictRows = programs
       program.author || "",
       enrichment.manualAuthor || "",
       enrichment.archiveTextAuthor || "",
+      externalTextAuthors(program).join("<br>") || "",
       enrichment.inferredAuthor || "",
       enrichment.authorConflict || "",
     ];
@@ -2360,7 +2570,7 @@ writeDoc(
     "These entries have conflicting author clues between catalog metadata, manual notes, filename inference, or readable archive text. The conflict is preserved rather than silently choosing a final attribution.",
     "",
     table(
-      ["Program", "Catalog label", "Displayed author", "Catalog author", "Manual author", "Archive-text author", "Inferred author", "Conflict note"],
+      ["Program", "Catalog label", "Displayed author", "Catalog author", "Manual author", "Archive-text author", "External ZIP text authors", "Inferred author", "Conflict note"],
       authorConflictRows,
     ),
   ].join("\n"),
@@ -2488,29 +2698,110 @@ writeDoc(
   ].join("\n"),
 );
 
-const byAuthor = groupBy(
-  programs.filter((program) => primaryAuthor(program)),
-  (program) => primaryAuthor(program),
-);
+const strongAuthorPrograms = programs.filter((program) => trustedAuthor(program));
+const weakAuthorPrograms = programs.filter((program) => !trustedAuthor(program) && primaryAuthor(program));
+const byAuthor = groupBy(strongAuthorPrograms, trustedAuthor);
 const authorRows = [...byAuthor.entries()]
   .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))
   .map(([author, items]) => {
     const page = `${generatedRoot}/authors/pages/${slugify(author).slice(0, 90)}.md`;
+    const sourceCounts = [...groupBy(items, (program) => authorEvidence(program).source).entries()]
+      .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))
+      .map(([source, sourceItems]) => `${source}: ${sourceItems.length}`)
+      .join("<br>");
     writeDoc(
       page,
-      [`# Author: ${author}`, "", `**Catalog entries:** ${items.length}`, "", appTable(page, items)].join("\n"),
+      [
+        `# Author / Crew: ${author}`,
+        "",
+        `**Strong-evidence catalog entries:** ${items.length}`,
+        "",
+        "These entries have manual old-web/source evidence, local archive-text evidence, or matched external ZIP text evidence. Catalog-only and filename-only claims are listed separately on the author index.",
+        "",
+        "## Evidence Sources",
+        "",
+        table(
+          ["Program", "Catalog label", "Evidence source", "Evidence note", "Archive text files", "External text files", "Program page"],
+          sortByName(items).map((program) => {
+            const evidence = authorEvidence(program);
+            const enrichment = enrichmentFor(program);
+            return [
+              displayName(program),
+              program.name,
+              evidence.source,
+              evidence.note,
+              enrichment.archiveTextFiles?.slice(0, 6).join("<br>") || "",
+              (enrichment.externalArchiveTextEvidence || [])
+                .flatMap((item) => item.textFiles || [])
+                .slice(0, 6)
+                .join("<br>") || "",
+              localLink(page, "open", appDocPaths.get(program.id)),
+            ];
+          }),
+        ),
+        "",
+        "## Related Programs",
+        "",
+        appTable(page, items),
+      ].join("\n"),
     );
-    return [author, String(items.length), localLink(`${generatedRoot}/authors/README.md`, "open", page)];
+    return [author, String(items.length), sourceCounts, localLink(`${generatedRoot}/authors/README.md`, "open", page)];
+  });
+
+const weakAuthorRows = [...groupBy(weakAuthorPrograms, primaryAuthor).entries()]
+  .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))
+  .map(([author, items]) => {
+    const sourceCounts = [...groupBy(items, (program) => authorEvidence(program).source).entries()]
+      .sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]))
+      .map(([source, sourceItems]) => `${source}: ${sourceItems.length}`)
+      .join("<br>");
+    const samples = sortByName(items)
+      .slice(0, 8)
+      .map((program) => localLink(`${generatedRoot}/authors/catalog-and-filename-claims.md`, displayName(program), appDocPaths.get(program.id)))
+      .join("<br>");
+    return [author, String(items.length), sourceCounts, samples];
   });
 
 writeDoc(
   `${generatedRoot}/authors/README.md`,
   [
-    "# Authors",
+    "# Authors And Crews",
     "",
-    "Author pages use the best available evidence in this order: manual correction, readable archive text, filename inference, then the old catalog field. Many entries still have no reliable author metadata.",
+    "This index separates stronger author evidence from weak catalog or filename claims. Strong evidence means a manual old-web/source correction, readable text inside a local catalog archive, or readable text inside a matched recovered external ZIP. Reference mirrors are never treated as authorship by themselves.",
     "",
-    table(["Author", "Count", "Page"], authorRows),
+    "## Summary",
+    "",
+    table(
+      ["Area", "Count"],
+      [
+        ["Strong author/crew names", String(authorRows.length)],
+        ["Programs with strong author evidence", String(strongAuthorPrograms.length)],
+        ["Weak catalog/filename author claims", String(weakAuthorRows.length)],
+        ["Programs with only weak author claims", String(weakAuthorPrograms.length)],
+        ["Programs with no author evidence yet", String(programs.filter((program) => !primaryAuthor(program)).length)],
+      ],
+    ),
+    "",
+    "## Strong Evidence Authors And Crews",
+    "",
+    table(["Author / Crew", "Programs", "Evidence sources", "Page"], authorRows),
+    "",
+    "## Weak Claims Kept Separate",
+    "",
+    "These are preserved for research, but they are not presented as confirmed creator credit until readme/source/old-web evidence agrees.",
+    "",
+    "- [Catalog and filename author claims](catalog-and-filename-claims.md)",
+  ].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/authors/catalog-and-filename-claims.md`,
+  [
+    "# Catalog And Filename Author Claims",
+    "",
+    "These names come only from weak catalog fields or filename byline inference. They are useful leads, but they should be checked against readmes, source comments, old web pages, or recovered mirror text before being treated as actual author credit.",
+    "",
+    table(["Claim", "Programs", "Source type", "Sample programs"], weakAuthorRows),
   ].join("\n"),
 );
 
@@ -2964,12 +3255,42 @@ writeDoc(
 );
 
 const originalDownloads = originalDownloadRecords();
+const originalUrlHostRows = [...groupBy(originalDownloads, (item) => urlHost(item.url)).entries()]
+  .map(([host, items]) => [
+    host,
+    String(items.length),
+    String(items.filter((item) => item.localPath).length),
+    uniqueBy(items.map((item) => item.kind || "unknown"), (item) => item)
+      .slice(0, 8)
+      .join("<br>"),
+  ])
+  .sort((a, b) => Number(b[1]) - Number(a[1]) || a[0].localeCompare(b[0]));
+const originalUrlKindRows = [...groupBy(originalDownloads, (item) => item.kind || "unknown").entries()]
+  .map(([kind, items]) => [
+    kind,
+    String(items.length),
+    String(items.filter((item) => item.localPath).length),
+    uniqueBy(items.map((item) => urlHost(item.url)), (item) => item)
+      .slice(0, 10)
+      .join("<br>"),
+  ])
+  .sort((a, b) => Number(b[1]) - Number(a[1]) || a[0].localeCompare(b[0]));
 writeDoc(
   `${generatedRoot}/sources/original-download-urls.md`,
   [
     "# Original Download URLs",
     "",
-    `Deduplicated original and Wayback download URLs collected from catalog references, old source pages, external recovery lists, missing-candidate mirrors, and matched per-program evidence. Current unique URL count: **${originalDownloads.length}**.`,
+    `Deduplicated original, Wayback, embedded, and recovered-mirror URLs collected from catalog references, old source pages, readable archive text, external recovery lists, missing-candidate mirrors, Archive.org metadata, and matched per-program evidence. Current unique URL count: **${originalDownloads.length}**.`,
+    "",
+    "## Summary By URL Type",
+    "",
+    table(["Kind", "URLs", "With local file", "Sample hosts"], originalUrlKindRows),
+    "",
+    "## Summary By Host",
+    "",
+    table(["Host", "URLs", "With local file", "Kinds"], originalUrlHostRows.slice(0, 250)),
+    "",
+    "## Full URL Evidence",
     "",
     table(
       ["Name", "Kind", "Status", "Host", "Source", "Local file", "Program page", "URL"],
@@ -3454,6 +3775,9 @@ const programExportHeaders = [
   "platform",
   "aolVersion",
   "author",
+  "authorEvidenceName",
+  "authorEvidenceSource",
+  "authorEvidenceStrength",
   "authorConfidence",
   "categoryConfidence",
   "versionConfidence",
@@ -3466,6 +3790,9 @@ const programExportHeaders = [
   "webResearchMentions",
   "screenshots",
   "embeddedUrls",
+  "archiveTextUrls",
+  "archiveDescriptionClues",
+  "externalTextAuthors",
   "reviewPriority",
   "reviewScore",
   "manualReviewFlags",
@@ -3631,6 +3958,106 @@ const filesDirectorySize = directorySize("files");
 const assetsDirectorySize = directorySize("assets");
 const docsDirectorySize = directorySize("docs");
 const dataDirectorySize = directorySize("data");
+const generatedMarkdownPages = countFiles(generatedRoot, (filePath) => filePath.toLowerCase().endsWith(".md"));
+
+writeDoc(
+  "README.md",
+  [
+    '<div align="center">',
+    "",
+    "# AOL Progz",
+    "",
+    "**A GitHub-first historical archive for AOL/AIM-era proggies, punters, room busters, faders, idlers, scrollers, bots, source packs, original links, recovered mirrors, screenshots, and scene research.**",
+    "",
+    `<p align="center">${shield("catalog", `${programs.length.toLocaleString()} apps`, "18D5D1")}</p>`,
+    `<p align="center">${shield("recovered files", recoveredFiles.length.toLocaleString(), "64DC8A")} ${shield("archive size", formatBytes(repoWorkingTreeSize), "FFD34D")}</p>`,
+    `<p align="center">${shield("old URLs", originalDownloads.length.toLocaleString(), "FF5B8F")} ${shield("master links", masterLinks.length.toLocaleString(), "7AA8FF")}</p>`,
+    `<p align="center">${shield("author evidence", `${strongAuthorPrograms.length.toLocaleString()} strong`, "BB8CFF")} ${shield("source files", `${referenceSourceCode.fileCount?.toLocaleString?.() || referenceSourceCode.files?.length || 0} indexed`, "E7EDF7")}</p>`,
+    "",
+    "</div>",
+    "",
+    "## Start Here",
+    "",
+    table(
+      ["Page", "Why it matters"],
+      [
+        [localLink("README.md", "Master progs table", `${generatedRoot}/applications/all-progs-master.md`), "One table with actual/best-known name, category, prog type, AOL/AIM version clues, author evidence, local file, URLs, screenshots, and review flags."],
+        [localLink("README.md", "Detailed all-progs inventory", `${generatedRoot}/applications/all-programs-detailed.md`), "The full researcher-facing inventory for every cataloged prog/app."],
+        [localLink("README.md", "Authors and crews", `${generatedRoot}/authors/README.md`), "Strong author evidence separated from weak catalog/filename claims so mirror repos do not get false creator credit."],
+        [localLink("README.md", "Original download URLs", `${generatedRoot}/sources/original-download-urls.md`), "Deduped original URLs, Wayback URLs, recovered local files, and matched program pages."],
+        [localLink("README.md", "Master all-links index", `${generatedRoot}/sources/all-links.md`), "Every user-supplied link, crawled source page, embedded archive URL, mirror lead, image URL, and source-code URL."],
+        [localLink("README.md", "Recovered files", `${generatedRoot}/sources/recovered-files.md`), "All local archive files, external recoveries, runtime files, utilities, screenshots/images, hashes, and source URLs."],
+        [localLink("README.md", "External ZIP text evidence", `${generatedRoot}/sources/external-archive-text.md`), "Readme/source/NFO evidence mined from recovered external ZIPs for authors, descriptions, versions, and URLs."],
+        [localLink("README.md", "Reference source-code tree", `${generatedRoot}/sources/reference-source-code.md`), "AOL-era VB/source/help/control files indexed by AOL version bucket with recovered import candidates."],
+        [localLink("README.md", "Categories", `${generatedRoot}/categories/README.md`), "Punters, room busters, faders, idlers, C-Coms, AIM tools, source packs, all-in-one progs, runtimes, and unknowns."],
+        [localLink("README.md", "Metadata confidence", `${generatedRoot}/applications/metadata-confidence.md`), "Shows which fields are confirmed, inferred, catalog-only, or still need manual review."],
+        [localLink("README.md", "Research priority queue", `${generatedRoot}/applications/research-priority.md`), "A practical cleanup queue for author gaps, source gaps, old URLs, screenshots, and category/type fixes."],
+        [localLink("README.md", "Glossary", `${generatedRoot}/GLOSSARY.md`), "Historical AOL/AIM scene vocabulary with context and safety notes."],
+      ],
+    ),
+    "",
+    "## Current Archive Stats",
+    "",
+    table(
+      ["Metric", "Value"],
+      [
+        ["Main catalog applications", programs.length.toLocaleString()],
+        ["Generated GitHub Markdown pages", `${Math.floor(generatedMarkdownPages / 100) * 100}+`],
+        ["GitHub working-tree size", formatBytes(repoWorkingTreeSize)],
+        ["Files directory size", formatBytes(filesDirectorySize)],
+        ["Data directory size", formatBytes(dataDirectorySize)],
+        ["Docs directory size", formatBytes(docsDirectorySize)],
+        ["Mirrored main catalog files", String(catalog.summary?.mirroredFiles || 0)],
+        ["Mirrored main catalog size", catalog.summary?.mirroredSizeLabel || "unknown"],
+        ["Recovered external files", String(externalDownloads.readyCount || 0)],
+        ["Recovered local file records", recoveredFiles.length.toLocaleString()],
+        ["External ZIPs scanned for text", String(externalArchiveText.scannedCount || 0)],
+        ["External ZIPs with readable text", String(externalArchiveText.withTextFileCount || 0)],
+        ["External ZIPs with author clues", String(externalArchiveText.withAuthorCount || 0)],
+        ["External ZIPs with purpose clues", String(externalArchiveText.withPurposeCount || 0)],
+        ["External ZIPs with AOL/AIM version clues", String(externalArchiveText.withVersionCount || 0)],
+        ["Programs with strong author evidence", strongAuthorPrograms.length.toLocaleString()],
+        ["Weak catalog/filename author claims", weakAuthorRows.length.toLocaleString()],
+        ["Deduped original/download URLs", originalDownloads.length.toLocaleString()],
+        ["Master deduped links", masterLinks.length.toLocaleString()],
+        ["Crawled source pages", String(webResources.pageCount || webResources.pages?.length || 0)],
+        ["Crawled download links", String(webResources.downloadCount || 0)],
+        ["Missing/recovery candidates", String(missingCandidates.candidateCount || missingCandidates.candidates?.length || 0)],
+        ["Recovered missing candidates", String(missingCandidates.readyCandidateCount || 0)],
+        ["Recovered web images", String(webAssets.readyCount || 0)],
+        ["Archive.org AOL/AIM software items", String(archiveOrgSoftware.itemCount || archiveOrgSoftware.items?.length || 0)],
+        ["Reference source-code files indexed", String(referenceSourceCode.fileCount || referenceSourceCode.files?.length || 0)],
+        ["Reference source import candidates", String(referenceSourceCode.importCandidateCount || 0)],
+      ],
+    ),
+    "",
+    "## What This Archive Is Doing",
+    "",
+    "- Preserving local files when they can be recovered within normal GitHub file-size limits.",
+    "- Recording original download URLs, Wayback URLs, mirror URLs, source-page URLs, and embedded homepage/contact links without deduplicating away history.",
+    "- Separating actual author evidence from reference mirrors and weak catalog labels.",
+    "- Scanning readable text inside ZIPs for names, versions, descriptions, source URLs, and category clues without running old binaries.",
+    "- Keeping AOL/AIM clients, DeadAIM/AIM enhancers, runtime DLL/OCX files, Winamp skins, source code, and classic AOL progs in separate research lanes.",
+    "",
+    "## Safety Note",
+    "",
+    "This is a historical preservation archive. Do not run unknown binaries on your real machine. Use an isolated vintage VM or emulator for inspection. Abuse-related categories are documented as historical vocabulary and metadata only, not as operating instructions.",
+    "",
+    "## Rebuild",
+    "",
+    "The generated GitHub documentation comes from the local data and recovered files:",
+    "",
+    "```powershell",
+    "$env:AOL_SOURCE_REPO = \"D:/AOL-Progz-Source\"",
+    "node tools/build-catalog.mjs",
+    "node tools/scan-archive-text-metadata.mjs",
+    "node tools/scan-urls.mjs",
+    "node tools/scan-external-archive-text.mjs",
+    "node tools/build-program-enrichment.mjs",
+    "node tools/build-github-docs.mjs",
+    "```",
+  ].join("\n"),
+);
 
 writeDoc(
   `${generatedRoot}/screenshots/web-images.md`,
@@ -3700,6 +4127,11 @@ writeDoc(
         ["External ZIPs with author clues", String(externalArchiveText.withAuthorCount || 0)],
         ["External ZIPs with version clues", String(externalArchiveText.withVersionCount || 0)],
         ["External ZIPs with purpose clues", String(externalArchiveText.withPurposeCount || 0)],
+        ["Programs with strong author evidence", String(strongAuthorPrograms.length)],
+        ["Weak catalog/filename author claims", String(weakAuthorPrograms.length)],
+        ["Programs with archive-text URL clues", String(programEnrichment.programsWithArchiveTextUrls || 0)],
+        ["Programs with archive-text description clues", String(programEnrichment.programsWithArchiveDescriptionCandidates || 0)],
+        ["Programs with external ZIP text authors", String(programEnrichment.programsWithExternalArchiveTextAuthors || 0)],
         ["Missing candidates", String(missingCandidates.candidateCount || missingCandidates.candidates?.length || 0)],
         ["Recovered missing candidates", String(missingCandidates.readyCandidateCount || 0)],
         ["Master deduped link index", String(masterLinks.length)],

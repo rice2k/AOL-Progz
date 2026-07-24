@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | fsprof9.zip |
 | File size | 409 KB |
 | Author | Stealth |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | Stealth |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | Stealth |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Punter / booter, C-Com / command list, Scroller / macro, Account / TOS utility, Screen-name utility, Source / developer file, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | -if you have used a previous version of Filesafe Professional:<br>-if you have not used a previous version of Filesafe Professional:<br>MZ ÿÿ ¸ @  º ´ Í!¸ LÍ!This program cannot be run in DOS mode. |
+| Archive-text URL clues | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98)<br>[http://members.xoom.com/Spytech98copywrite(c](http://members.xoom.com/Spytech98copywrite(c) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | README!.txt<br>fsinstall.dat |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -83,6 +89,7 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | URL | Found in | Source |
 | --- | --- | --- |
 | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98) | README!.txt | archive text |
+| [http://members.xoom.com/Spytech98copywrite(c](http://members.xoom.com/Spytech98copywrite(c) | local archive text scan | archive text metadata |
 
 ## Web Research
 
@@ -92,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| README!.txt<br>fsinstall.dat | none | All-in-one prog suite<br>Punter / booter<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | none | fsinstall.dat has vocabulary for All-in-one prog suite, Punter / booter, C-Com / command list, Scroller / macro, Account / TOS utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| README!.txt<br>fsinstall.dat | Stealth (README!.txt) | All-in-one prog suite<br>Punter / booter<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | none | -if you have used a previous version of Filesafe Professional:<br>-if you have not used a previous version of Filesafe Professional:<br>MZ ÿÿ ¸ @  º ´ Í!¸ LÍ!This program cannot be run in DOS mode.<br>Please make this directory or download the official version of filesafe professional from spytech at: | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98)<br>[http://members.xoom.com/Spytech98copywrite(c](http://members.xoom.com/Spytech98copywrite(c) | README!.txt includes archive-text author clue(s): Stealth.<br>fsinstall.dat has vocabulary for All-in-one prog suite, Punter / booter, C-Com / command list, Scroller / macro, Account / TOS utility. |
 
 ### Matched External ZIP Text Evidence
 

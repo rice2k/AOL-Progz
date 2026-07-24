@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | blackmagicfinal |
 | Archive filename | blackmagicfinal.zip |
 | File size | 3.9 MB |
-| Author | going |
+| Author | going (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | going |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Account / TOS utility |
+| Archive-text description clues | advertise this program every once in awhile for the unfortunate<br>the AOL scene nor do I care to. This program was made because<br>This version is NOT for AO7. If you prefer AOL7 over AOL8, you will |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READTHIS.txt<br>aciddr0p.netReadMe.txt<br>passwords.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| READTHIS.txt<br>aciddr0p.netReadMe.txt<br>passwords.txt | none | Account / TOS utility | AOL 8<br>AOL 7 | READTHIS.txt mentions AOL 8, AOL 7.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note.<br>passwords.txt has vocabulary for Account / TOS utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| READTHIS.txt<br>aciddr0p.netReadMe.txt<br>passwords.txt | none | Account / TOS utility | AOL 8<br>AOL 7 | advertise this program every once in awhile for the unfortunate<br>the AOL scene nor do I care to. This program was made because<br>This version is NOT for AO7. If you prefer AOL7 over AOL8, you will | none | READTHIS.txt mentions AOL 8, AOL 7.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note.<br>passwords.txt has vocabulary for Account / TOS utility. |
 
 ### Matched External ZIP Text Evidence
 

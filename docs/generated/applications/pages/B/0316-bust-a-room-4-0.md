@@ -18,9 +18,13 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Archive filename | bust -a- room 4 aol9 yr2006 xp.zip |
 | File size | 2.5 MB |
 | Author | Peoples Connection like |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | Peoples Connection like |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | Peoples Connection like |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Category | room buster |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Room buster, AOL/AIM chat utility |
+| Archive-text description clues | It is designed for AOL Version 9.0 and Windows XP<br>It may work with other versions of AOL and Windows as well but has not been tested.<br>This buster allows you to bust: |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | aciddr0p.netReadMe2.txt<br>Read Me.txt |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ A room-entry or room-disruption category associated with repeatedly trying to en
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#review-low-priority](../../../tags/review-low-priority.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#review-low-priority](../../../tags/review-low-priority.md) [#room-buster](../../../tags/room-buster.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| aciddr0p.netReadMe2.txt<br>Read Me.txt | none | Fader / text styler<br>Room buster<br>AOL/AIM chat utility | AOL 9.0 | aciddr0p.netReadMe2.txt includes a mirror/download-source note.<br>Read Me.txt mentions AOL 9.0.<br>Read Me.txt has vocabulary for Fader / text styler, Room buster, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| aciddr0p.netReadMe2.txt<br>Read Me.txt | Peoples Connection like (Read Me.txt) | Fader / text styler<br>Room buster<br>AOL/AIM chat utility | AOL 9.0 | It is designed for AOL Version 9.0 and Windows XP<br>It may work with other versions of AOL and Windows as well but has not been tested.<br>This buster allows you to bust:<br>New with version 4.0 is the ability to choose a handle, or use the program anonymous. | none | aciddr0p.netReadMe2.txt includes a mirror/download-source note.<br>Read Me.txt includes archive-text author clue(s): Peoples Connection like.<br>Read Me.txt mentions AOL 9.0.<br>Read Me.txt has vocabulary for Fader / text styler, Room buster, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

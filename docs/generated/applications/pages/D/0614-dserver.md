@@ -17,12 +17,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | DSERVER |
 | Archive filename | detoxserv.zip |
 | File size | 2.1 MB |
-| Author | Undertow |
+| Author | marty's; catalog listed Undertow |
+| Author evidence source | matched external ZIP text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from readable text inside a recovered external mirror matched to this catalog entry. |
 | Catalog author | Undertow |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | marty's |
 | Inferred author | unknown |
-| Author conflict note | none |
+| Author conflict note | Catalog listed Undertow; evidence prefers marty's. |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | AOL/AIM chat utility, Fader / text styler, Punter / booter, Scroller / macro, Mass mailer / server, Account / TOS utility, Source / developer file, Media / file utility |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 1 |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | matched external ZIP text |
 | Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (9) |
-| Manual review flags | category uncertain, type uncertain, matched external ZIP text to verify |
-| Next research action | Scan readable text and old source-page labels to assign category/type. |
+| Review priority | high (15) |
+| Manual review flags | author conflict, category uncertain, type uncertain, matched external ZIP text to verify |
+| Next research action | Compare catalog author, archive text, and old-page mentions before changing attribution. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-text-author](../../../tags/has-external-text-author.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -78,7 +84,11 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe](http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe) | files/external/angelfire-com/warpedserver.zip | ProgzRescue Angelfire files |
 
 ## Web Research
 
@@ -94,7 +104,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ProgzRescue Angelfire files | [files/external/angelfire-com/warpedserver.zip](../../../../../files/external/angelfire-com/warpedserver.zip) | warpedserver/aimservers.txt<br>warpedserver/readme.txt<br>warpedserver/servers.txt | removing the | none | AOL/AIM chat utility<br>Fader / text styler<br>Punter / booter<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility | b. Install winsock version 2 if you dont have it. Windows 98 SE and up will have it.<br>2. If updating to a newer version and have pending move the pending.txt from the older<br>note: (please read notes form pervious version for most questions you have. then ask for help.) | [http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe](http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe) |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/warpedserver.zip](../../../../../files/external/angelfire-com/warpedserver.zip) | warpedserver/aimservers.txt<br>warpedserver/readme.txt<br>warpedserver/servers.txt | marty's | none | AOL/AIM chat utility<br>Fader / text styler<br>Punter / booter<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility | b. Install winsock version 2 if you dont have it. Windows 98 SE and up will have it.<br>2. If updating to a newer version and have pending move the pending.txt from the older<br>note: (please read notes form pervious version for most questions you have. then ask for help.) | [http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe](http://download.microsoft.com/download/vb60pro/Redist/sp5/WIN98Me/EN-US/vbrun60sp5.exe) |
 
 ### Source Mentions
 

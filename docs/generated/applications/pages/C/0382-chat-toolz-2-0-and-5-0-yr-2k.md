@@ -18,9 +18,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive filename | chat toolz2.0 for aol 3.0 and 5.0 yr2k.zip |
 | File size | 872 KB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| Archive-text description clues | this program was like my only really finished program<br>this program was made in vb4,took 1 month |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read me.txt |
 | Matched external ZIP text evidence | 0 |
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read me.txt | none | AOL/AIM chat utility | none | Read me.txt has vocabulary for AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read me.txt | none | AOL/AIM chat utility | none | this program was like my only really finished program<br>this program was made in vb4,took 1 month | none | Read me.txt has vocabulary for AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

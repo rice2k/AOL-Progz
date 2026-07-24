@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | BaNdO's x5.5x setup |
 | Archive filename | x5.5x aol7-9 yr2005 2k-xp.zip |
 | File size | 4.1 MB |
-| Author | Init failed (%d |
+| Author | Init failed (%d (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Init failed (%d |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | This shit work with Windows2000-XP and with AOL7.0-9.0 |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ~Read Me Newbie~.txt<br>aciddr0p.netReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#non-vb](../../../tags/non-vb.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| ~Read Me Newbie~.txt<br>aciddr0p.netReadMe.txt | none | none | AOL 7.0<br>AOL 9.0 | ~Read Me Newbie~.txt mentions AOL 7.0, AOL 9.0.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| ~Read Me Newbie~.txt<br>aciddr0p.netReadMe.txt | none | none | AOL 7.0<br>AOL 9.0 | This shit work with Windows2000-XP and with AOL7.0-9.0 | none | ~Read Me Newbie~.txt mentions AOL 7.0, AOL 9.0.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Matched External ZIP Text Evidence
 

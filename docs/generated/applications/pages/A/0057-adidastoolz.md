@@ -18,9 +18,13 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Archive filename | adidas toolz aol5 yr2000 password=poiuyt.zip |
 | File size | 2.8 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |

@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | DieGod |
 | Archive filename | dgfinal.zip |
 | File size | 4.7 MB |
-| Author | Beav |
+| Author | Beav (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Beav |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Media / file utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://www.ritman.com/lenshell](http://www.ritman.com/lenshell)<br>[http://www.ritman.com/lenshell/index.htm](http://www.ritman.com/lenshell/index.htm) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | !ReadMe!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -83,6 +89,7 @@ These URLs were found in safely readable archive text. They are recorded as prov
 | URL | Found in | Source |
 | --- | --- | --- |
 | [http://www.ritman.com/lenshell](http://www.ritman.com/lenshell) | !ReadMe!.txt | archive text |
+| [http://www.ritman.com/lenshell/index.htm](http://www.ritman.com/lenshell/index.htm) | local archive text scan | archive text metadata |
 
 ## Web Research
 
@@ -92,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| !ReadMe!.txt | none | Media / file utility | none | !ReadMe!.txt has vocabulary for Media / file utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| !ReadMe!.txt | none | Media / file utility | none | none | [http://www.ritman.com/lenshell](http://www.ritman.com/lenshell)<br>[http://www.ritman.com/lenshell/index.htm](http://www.ritman.com/lenshell/index.htm) | !ReadMe!.txt has vocabulary for Media / file utility. |
 
 ### Matched External ZIP Text Evidence
 

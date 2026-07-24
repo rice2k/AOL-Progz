@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | remaudio2.zip |
 | File size | unknown |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | Account / TOS utility, Media / file utility, AOL/AIM chat utility, All-in-one prog suite, Fader / text styler, Idler / AFK bot, Room buster, Punter / booter, C-Com / command list, Scroller / macro, Mass mailer / server, Screen-name utility, Source / developer file |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 2 |

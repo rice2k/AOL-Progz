@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | f2 |
 | Archive filename | f2_form_mail_finder.zip |
 | File size | 2.9 MB |
-| Author | unknown |
+| Author | commas |
+| Author evidence source | matched external ZIP text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from readable text inside a recovered external mirror matched to this catalog entry. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | commas |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | Idler / AFK bot, C-Com / command list, Mass mailer / server, Media / file utility |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 1 |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | unknown |
+| Author confidence | matched external ZIP text |
 | Category confidence | external ZIP text |
 | AOL/version confidence | unknown |
 | Source confidence | local + old-web lead |
-| Review priority | high (12) |
-| Manual review flags | category uncertain, type uncertain, author unknown, matched external ZIP text to verify |
+| Review priority | high (9) |
+| Manual review flags | category uncertain, type uncertain, matched external ZIP text to verify |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-text-author](../../../tags/has-external-text-author.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -78,7 +84,18 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://www.worldwidemart.com/scripts/](http://www.worldwidemart.com/scripts/) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
+| [http://www.worldwidemart.com/scripts/faq/](http://www.worldwidemart.com/scripts/faq/) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
+| [http://www.worldwidemart.com](http://www.worldwidemart.com) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
+| [http://your.host.com/to/file.html](http://your.host.com/to/file.html) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
+| [http://www.cgi-resources.com/Documentation/Environment_Variables/](http://www.cgi-resources.com/Documentation/Environment_Variables/) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
+| [http://your.host.com/main.html](http://your.host.com/main.html) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
+| [http://your.host.com/error.html](http://your.host.com/error.html) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
+| [http://your.host.com/image.gif](http://your.host.com/image.gif) | files/external/angelfire-com/form-mail.zip | ProgzRescue Angelfire files |
 
 ## Web Research
 
@@ -94,7 +111,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ProgzRescue Angelfire files | [files/external/angelfire-com/form-mail.zip](../../../../../files/external/angelfire-com/form-mail.zip) | formmail/README | leaving this field | none | Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server<br>Media / file utility | # Selling the code for this program without prior written consent is #<br>work with your existing forms. Other hidden configuration fields can also<br>be used to enhance the operation of FormMail on your site. Version 1.6 of | [http://www.worldwidemart.com/scripts/](http://www.worldwidemart.com/scripts/)<br>[http://www.worldwidemart.com/scripts/faq/](http://www.worldwidemart.com/scripts/faq/)<br>[http://www.worldwidemart.com](http://www.worldwidemart.com)<br>[http://your.host.com/to/file.html](http://your.host.com/to/file.html) |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/form-mail.zip](../../../../../files/external/angelfire-com/form-mail.zip) | formmail/README | commas | none | Idler / AFK bot<br>C-Com / command list<br>Mass mailer / server<br>Media / file utility | # Selling the code for this program without prior written consent is #<br>work with your existing forms. Other hidden configuration fields can also<br>be used to enhance the operation of FormMail on your site. Version 1.6 of | [http://www.worldwidemart.com/scripts/](http://www.worldwidemart.com/scripts/)<br>[http://www.worldwidemart.com/scripts/faq/](http://www.worldwidemart.com/scripts/faq/)<br>[http://www.worldwidemart.com](http://www.worldwidemart.com)<br>[http://your.host.com/to/file.html](http://your.host.com/to/file.html) |
 
 ### Source Mentions
 

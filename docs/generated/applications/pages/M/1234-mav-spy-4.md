@@ -17,10 +17,14 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Catalog label | Mav-Spy 4 |
 | Archive filename | mav-spy.zip |
 | File size | 135 KB |
-| Author | Mavness |
+| Author | Mavness (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Mavness |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 | Category | development or source |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ Source code, Visual Basic material, controls, modules, tutorials, or development
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-screenshots](../../../tags/has-screenshots.md) [#review-low-priority](../../../tags/review-low-priority.md) [#tools](../../../tags/tools.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#development-or-source](../../../tags/development-or-source.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-screenshots](../../../tags/has-screenshots.md) [#review-low-priority](../../../tags/review-low-priority.md) [#tools](../../../tags/tools.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

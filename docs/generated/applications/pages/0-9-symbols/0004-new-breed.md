@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | newbreed.zip |
 | File size | 3.9 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Account / TOS utility, AOL/AIM chat utility |
+| Archive-text description clues | (i am not responsible with wat you do with this prog. some of the content may be a violation of the TOS aggreement. this is for educational purposes) |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ FIRST ! ! !.txt |
 | Matched external ZIP text evidence | 0 |
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| READ FIRST ! ! !.txt | none | Account / TOS utility<br>AOL/AIM chat utility | none | READ FIRST ! ! !.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| READ FIRST ! ! !.txt | none | Account / TOS utility<br>AOL/AIM chat utility | none | (i am not responsible with wat you do with this prog. some of the content may be a violation of the TOS aggreement. this is for educational purposes) | none | READ FIRST ! ! !.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

@@ -17,10 +17,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog label | Invizo Linker v2 |
 | Archive filename | invizov2.zip |
 | File size | 2.1 MB |
-| Author | font . color=#cc0000 |
+| Author | font . color=#cc0000 (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | font . color=#cc0000 |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Scroller / macro, Account / TOS utility, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | Now that that has been taken care of. I would like to get back to the programming shit. Like I said, I believe I am done programming, after this prog',<br>Only so they can go off, and bitch at the user, for no reason. WOW! YOU NEED TO BUY THIS PROGRAM OR YOU'LL GET FUCKED UP! OR! WE WILL LOSE OUR WEBSITE! ;-;! |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Invizo Linker v2 Goodbye.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Invizo Linker v2 Goodbye.txt | none | All-in-one prog suite<br>Scroller / macro<br>Account / TOS utility<br>Media / file utility<br>AOL/AIM chat utility | none | Invizo Linker v2 Goodbye.txt has vocabulary for All-in-one prog suite, Scroller / macro, Account / TOS utility, Media / file utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Invizo Linker v2 Goodbye.txt | none | All-in-one prog suite<br>Scroller / macro<br>Account / TOS utility<br>Media / file utility<br>AOL/AIM chat utility | none | Now that that has been taken care of. I would like to get back to the programming shit. Like I said, I believe I am done programming, after this prog',<br>Only so they can go off, and bitch at the user, for no reason. WOW! YOU NEED TO BUY THIS PROGRAM OR YOU'LL GET FUCKED UP! OR! WE WILL LOSE OUR WEBSITE! ;-;! | none | Invizo Linker v2 Goodbye.txt has vocabulary for All-in-one prog suite, Scroller / macro, Account / TOS utility, Media / file utility, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

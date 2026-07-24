@@ -85,7 +85,7 @@ function isTextLikeEntry(entry) {
   if (/(readme|read\s*me|site|url|link|home|web|author|about|install|license|credits?|contact|info|nfo|diz|version|history|changes?|faq)/i.test(lower)) {
     return true;
   }
-  return /\.(txt|text|nfo|diz|url|ini|cfg|log|md|rtf|htm|html|bas|frm|vbp|cls|ctl|pag|asp|php|js|css)$/i.test(lower);
+  return /\.(txt|text|nfo|diz|url|ini|cfg|log|md|rtf|htm|html|bas|frm|vbp|cls|ctl|pag|asp|php|js|css|lst|me)$/i.test(lower);
 }
 
 function extractArchiveEntry(archivePath, entry) {
@@ -121,6 +121,18 @@ function cleanCandidateName(value) {
   if (/@/.test(text) || /\.(com|net|org|edu|html?|zip|exe)\b/i.test(text)) return "";
   if (/^(rar|zip|7z|ace|arj|lzh|exe|dll|ocx|vbx|archive|file)$/i.test(text)) return "";
   if (/[.!?].+\b[A-Z0-9]/.test(text)) return "";
+  const wordCount = text.split(/\s+/).filter(Boolean).length;
+  if (wordCount > 5) return "";
+  if (
+    /\b(?:applicable|law|lamers?|easy\s+way|changing|leaving|entering|removing|doing|going|through|menu|control\s+panel|following|field|hands|room|rooms|people|area|episodes|missed|reflect|original|able|suck|take|will|would|should|could|then|there|this|that|these|those|google)\b/i.test(
+      text,
+    )
+  ) {
+    return "";
+  }
+  if (wordCount > 1 && text === text.toLowerCase() && !/[0-9&+]/.test(text) && !/\b(?:aka|and|n)\b/i.test(text)) {
+    return "";
+  }
   if (/\b(?:unknown|none|n\/a|readme|downloaded|download|install|setup|license|thanks|please|visit|click|program|proggie|aol|aim|authorize|webpage|web\s*page|homepage|if|was|were|about)\b/i.test(text)) {
     return "";
   }

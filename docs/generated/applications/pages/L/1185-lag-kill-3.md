@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | lág kíll 3·° |
 | Archive filename | lagkill3.zip |
 | File size | 2.9 MB |
-| Author | carnage |
+| Author | carnage (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | carnage |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, AOL/AIM chat utility |
+| Archive-text description clues | 'AOL Version: 7.0 - 9.0 * waol2 |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | l�g k�ll 3��/Read Me!!!.txt<br>aciddr0p.netReadMe.txt<br>l?g k?ll 3??/Read Me!!!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| l�g k�ll 3��/Read Me!!!.txt<br>aciddr0p.netReadMe.txt<br>l?g k?ll 3??/Read Me!!!.txt | none | Source / developer file<br>AOL/AIM chat utility | AOL 9.0 | l�g k�ll 3��/Read Me!!!.txt mentions AOL 9.0.<br>l�g k�ll 3��/Read Me!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note.<br>l?g k?ll 3??/Read Me!!!.txt mentions AOL 9.0.<br>l?g k?ll 3??/Read Me!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| l�g k�ll 3��/Read Me!!!.txt<br>aciddr0p.netReadMe.txt<br>l?g k?ll 3??/Read Me!!!.txt | none | Source / developer file<br>AOL/AIM chat utility | AOL 9.0 | 'AOL Version: 7.0 - 9.0 * waol2 | none | l�g k�ll 3��/Read Me!!!.txt mentions AOL 9.0.<br>l�g k�ll 3��/Read Me!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note.<br>l?g k?ll 3??/Read Me!!!.txt mentions AOL 9.0.<br>l?g k?ll 3??/Read Me!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

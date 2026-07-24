@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | htmlgrabber.zip |
 | File size | 2.0 MB |
 | Author | trip |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | trip |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | trip |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file |
+| Archive-text description clues | description: grabs html from webpages. |
+| Archive-text URL clues | [http://www.trips-playground.com](http://www.trips-playground.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read.txt<br>Help.txt |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | unknown |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read.txt<br>Help.txt | none | Source / developer file | none | Read.txt has vocabulary for Source / developer file. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read.txt<br>Help.txt | trip (Read.txt) | Source / developer file | none | description: grabs html from webpages. | [http://www.trips-playground.com](http://www.trips-playground.com) | Read.txt includes archive-text author clue(s): trip.<br>Read.txt has vocabulary for Source / developer file. |
 
 ### Matched External ZIP Text Evidence
 

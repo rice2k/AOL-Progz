@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | cubepunt.zip |
 | File size | 498 KB |
 | Author | Cube |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | Cube |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | Cube |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Punter / booter, Source / developer file, Account / TOS utility, Screen-name utility, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | ò Other a 8 9 ÿÿÿÿÿÿÿÿ SYS_GetDOSVersion 0¼ @ «Ç v B label1.caption = "Your DOS Version is: " + sys_getdosversion() ~ À Àè à Ç Çå à î Çå ï î å d ¥ î £ í<br>ä ¦ E à í Â Keyboard not detected. ¶ ¶  9 ÿÿÿÿÿÿÿÿ SYS_GetWinVersion 0Ê @ êÇ v B x = label22.caption = "Windows Version: " + sys_getwinverion() ü r |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | INSTALL.LOG<br>CUBE.TXT<br>CUBE.BAS |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| INSTALL.LOG<br>CUBE.TXT<br>CUBE.BAS | none | Punter / booter<br>Source / developer file<br>Account / TOS utility<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | AOL 3<br>AOL 4<br>AOL 4.0 | INSTALL.LOG has vocabulary for Punter / booter, Source / developer file.<br>CUBE.TXT has vocabulary for Punter / booter.<br>CUBE.BAS mentions AOL 3, AOL 4, AOL 4.0.<br>CUBE.BAS has vocabulary for Account / TOS utility, Screen-name utility, Source / developer file, Media / file utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| INSTALL.LOG<br>CUBE.TXT<br>CUBE.BAS | Cube (CUBE.TXT) | Punter / booter<br>Source / developer file<br>Account / TOS utility<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | AOL 3<br>AOL 4<br>AOL 4.0 | ò Other a 8 9 ÿÿÿÿÿÿÿÿ SYS_GetDOSVersion 0¼ @ «Ç v B label1.caption = "Your DOS Version is: " + sys_getdosversion() ~ À Àè à Ç Çå à î Çå ï î å d ¥ î £ í<br>ä ¦ E à í Â Keyboard not detected. ¶ ¶  9 ÿÿÿÿÿÿÿÿ SYS_GetWinVersion 0Ê @ êÇ v B x = label22.caption = "Windows Version: " + sys_getwinverion() ü r | none | INSTALL.LOG has vocabulary for Punter / booter, Source / developer file.<br>CUBE.TXT includes archive-text author clue(s): Cube.<br>CUBE.TXT has vocabulary for Punter / booter.<br>CUBE.BAS mentions AOL 3, AOL 4, AOL 4.0.<br>CUBE.BAS has vocabulary for Account / TOS utility, Screen-name utility, Source / developer file, Media / file utility, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

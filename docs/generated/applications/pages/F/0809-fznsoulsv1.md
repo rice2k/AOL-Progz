@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | fznsoulsv1 |
 | Archive filename | frozen souls v1 aolALL winALL yr05.zip |
 | File size | 4.7 MB |
-| Author | netheren |
+| Author | netheren (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | netheren |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,8 +37,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Account / TOS utility, AOL/AIM chat utility, Punter / booter, C-Com / command list, Screen-name utility, Source / developer file, All-in-one prog suite, Media / file utility |
+| Archive-text description clues | you wanna get down and dirty, however, this 'make a feature' also let's you do some<br>Here you must click the _AOL_Edit for AOL to register the text. I don't know why.<br>[Other Notes:] As simple as this prog appears at first glance, |
+| Archive-text URL clues | [http://neth_aol.tripod.com/](http://neth_aol.tripod.com/)<br>[http://neth_aol.tripod.com/fs1comp.zip](http://neth_aol.tripod.com/fs1comp.zip) |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | homer.MCR<br>guestpw.txt<br>yourmom.txt<br>proglang.txt<br>readme.txt |
+| Archive text files reviewed | homer.MCR<br>guestpw.txt<br>yourmom.txt<br>proglang.txt<br>states.lst<br>readme.txt<br>curses.lst |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -93,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| homer.MCR<br>guestpw.txt<br>yourmom.txt<br>proglang.txt<br>readme.txt | none | Account / TOS utility<br>AOL/AIM chat utility<br>Punter / booter<br>C-Com / command list<br>Screen-name utility<br>Source / developer file<br>All-in-one prog suite<br>Media / file utility | none | yourmom.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility.<br>proglang.txt has vocabulary for Punter / booter, C-Com / command list, Screen-name utility, Source / developer file, AOL/AIM chat utility.<br>readme.txt has vocabulary for All-in-one prog suite, Media / file utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| homer.MCR<br>guestpw.txt<br>yourmom.txt<br>proglang.txt<br>states.lst<br>readme.txt<br>curses.lst | none | Account / TOS utility<br>AOL/AIM chat utility<br>Punter / booter<br>C-Com / command list<br>Screen-name utility<br>Source / developer file<br>All-in-one prog suite<br>Media / file utility | none | you wanna get down and dirty, however, this 'make a feature' also let's you do some<br>Here you must click the _AOL_Edit for AOL to register the text. I don't know why.<br>[Other Notes:] As simple as this prog appears at first glance,<br>There are over 30 working features in this prog, | [http://neth_aol.tripod.com/](http://neth_aol.tripod.com/)<br>[http://neth_aol.tripod.com/fs1comp.zip](http://neth_aol.tripod.com/fs1comp.zip) | yourmom.txt has vocabulary for Account / TOS utility, AOL/AIM chat utility.<br>proglang.txt has vocabulary for Punter / booter, C-Com / command list, Screen-name utility, Source / developer file, AOL/AIM chat utility.<br>readme.txt has vocabulary for All-in-one prog suite, Media / file utility, AOL/AIM chat utility.<br>curses.lst has vocabulary for All-in-one prog suite. |
 
 ### Matched External ZIP Text Evidence
 

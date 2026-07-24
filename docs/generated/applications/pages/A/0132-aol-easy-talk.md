@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | aoleasytalk.zip |
 | File size | 1.4 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| Archive-text description clues | This program is freeware so use at your own risk you cant hold me |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Disclaimer Important Read Before Useing Prog.txt |
 | Matched external ZIP text evidence | 0 |
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Disclaimer Important Read Before Useing Prog.txt | none | AOL/AIM chat utility | none | Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Disclaimer Important Read Before Useing Prog.txt | none | AOL/AIM chat utility | none | This program is freeware so use at your own risk you cant hold me | none | Disclaimer Important Read Before Useing Prog.txt has vocabulary for AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

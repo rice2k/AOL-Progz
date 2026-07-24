@@ -17,10 +17,14 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog label | é£ite ²·º |
 | Archive filename | elite %b2%b7%ba for aol 6-7 password=FuckPakis.zip |
 | File size | 1.3 MB |
-| Author | MoNu |
+| Author | MoNu (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | MoNu |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#vb6](../../../tags/vb6.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

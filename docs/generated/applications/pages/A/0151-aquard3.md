@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | aquard3.zip |
 | File size | 217 KB |
 | Author | James Farmer (GonGy); catalog listed This product is from FON |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | This product is from FON |
 | Manual author evidence | unknown |
 | Archive-text author | James Farmer (GonGy) |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | Catalog listed This product is from FON; evidence prefers James Farmer (GonGy). |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Source / developer file, AOL/AIM chat utility |
+| Archive-text description clues | As of now though, we own the rights and fully for this program.<br>You agree that FON productions has every right to delete this program |
+| Archive-text URL clues | [http://www.jameslair.cjb.net](http://www.jameslair.cjb.net)<br>[http://www.jamesmariobros.cjb.net](http://www.jamesmariobros.cjb.net)<br>[http://www.lenshell.com](http://www.lenshell.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Readme.txt<br>Read Me.txt |
 | Matched external ZIP text evidence | 0 |
@@ -94,9 +100,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Readme.txt<br>Read Me.txt | James Farmer (GonGy) (Readme.txt) | Fader / text styler<br>Source / developer file<br>AOL/AIM chat utility | none | Readme.txt includes archive-text author clue(s): James Farmer (GonGy).<br>Readme.txt has vocabulary for Fader / text styler, Source / developer file, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Readme.txt<br>Read Me.txt | James Farmer (GonGy) (Readme.txt) | Fader / text styler<br>Source / developer file<br>AOL/AIM chat utility | none | As of now though, we own the rights and fully for this program.<br>You agree that FON productions has every right to delete this program | [http://www.jameslair.cjb.net](http://www.jameslair.cjb.net)<br>[http://www.jamesmariobros.cjb.net](http://www.jamesmariobros.cjb.net)<br>[http://www.lenshell.com](http://www.lenshell.com) | Readme.txt includes archive-text author clue(s): James Farmer (GonGy).<br>Readme.txt has vocabulary for Fader / text styler, Source / developer file, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | wesside_punt_by_cali.zip |
 | File size | 844 KB |
 | Author | Cali; catalog listed GenOziDe |
+| Author evidence source | filename byline inferred |
+| Author evidence strength | medium |
+| Author evidence note | Inferred from a filename or source label using a `by/from` pattern. |
 | Catalog author | GenOziDe |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | Cali |
 | Author conflict note | Catalog listed GenOziDe; evidence prefers Cali. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |

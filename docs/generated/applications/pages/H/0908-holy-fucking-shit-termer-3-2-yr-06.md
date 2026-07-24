@@ -17,10 +17,14 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog label | HOLY |
 | Archive filename | holy fucking shit termer 3.2 yr06.zip |
 | File size | 956 KB |
-| Author | plopo |
+| Author | plopo (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | plopo |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,8 +37,10 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | none |
+| Archive text files reviewed | holy fucking shit termer 3.2 yr06/DEAD.LST<br>holy fucking shit termer 3.2 yr06/TOSSED.LST<br>DEAD.LST<br>TOSSED.LST |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
@@ -50,13 +56,13 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (4) |
-| Manual review flags | no readable text evidence, sensitive historical category |
+| Review priority | low (3) |
+| Manual review flags | sensitive historical category |
 | Next research action | Review metadata when more source evidence is found. |
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#aol-2-5](../../../tags/aol-2-5.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#review-low-priority](../../../tags/review-low-priority.md)
 
 ## Source And Files
 
@@ -86,7 +92,11 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 ### Archive Text Scan
 
-No readable ReadMe/NFO/source text has been extracted for this entry yet.
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| holy fucking shit termer 3.2 yr06/DEAD.LST<br>holy fucking shit termer 3.2 yr06/TOSSED.LST<br>DEAD.LST<br>TOSSED.LST | none | none | none | none | none | unknown |
 
 ### Matched External ZIP Text Evidence
 

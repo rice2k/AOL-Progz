@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | Filter Make |
 | Archive filename | rasfull.zip |
 | File size | 8.7 MB |
-| Author | react |
+| Author | react (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | react |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Account / TOS utility, Source / developer file, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://www.react.devil.ru](http://www.react.devil.ru)<br>[http://reacts-crib.cjb.net](http://reacts-crib.cjb.net)<br>[http://reactscrib.cjb.net](http://reactscrib.cjb.net) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | RASFull/output/chat.txt<br>RASFull/skins/default/skin.ini<br>RASFull/skins/default/Read Me!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -93,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| RASFull/output/chat.txt<br>RASFull/skins/default/skin.ini<br>RASFull/skins/default/Read Me!.txt | none | Account / TOS utility<br>Source / developer file<br>AOL/AIM chat utility | none | RASFull/output/chat.txt has vocabulary for Account / TOS utility, Source / developer file, AOL/AIM chat utility.<br>RASFull/skins/default/Read Me!.txt has vocabulary for Source / developer file, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| RASFull/output/chat.txt<br>RASFull/skins/default/skin.ini<br>RASFull/skins/default/Read Me!.txt | none | Account / TOS utility<br>Source / developer file<br>AOL/AIM chat utility | none | none | [http://www.react.devil.ru](http://www.react.devil.ru)<br>[http://reacts-crib.cjb.net](http://reacts-crib.cjb.net)<br>[http://reactscrib.cjb.net](http://reactscrib.cjb.net) | RASFull/output/chat.txt has vocabulary for Account / TOS utility, Source / developer file, AOL/AIM chat utility.<br>RASFull/skins/default/Read Me!.txt has vocabulary for Source / developer file, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

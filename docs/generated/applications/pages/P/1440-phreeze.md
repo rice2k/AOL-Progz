@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | phreeze.zip |
 | File size | 876 KB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file |
+| Archive-text description clues | %% It will be used to automatically remove all application components from your computer if you choose to do so. %%<br>(File was not found or was an older version -- new file copied) |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | irunin.ini<br>ST5UNST.LOG |
 | Matched external ZIP text evidence | 0 |
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| irunin.ini<br>ST5UNST.LOG | none | Source / developer file | none | ST5UNST.LOG has vocabulary for Source / developer file. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| irunin.ini<br>ST5UNST.LOG | none | Source / developer file | none | %% It will be used to automatically remove all application components from your computer if you choose to do so. %%<br>(File was not found or was an older version -- new file copied) | none | ST5UNST.LOG has vocabulary for Source / developer file. |
 
 ### Matched External ZIP Text Evidence
 

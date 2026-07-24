@@ -17,10 +17,14 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog label | Progzhell Toolz Version Blog |
 | Archive filename | progzhellblog.zip |
 | File size | 2.7 MB |
-| Author | Progzhell |
+| Author | Progzhell (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Progzhell |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility, Source / developer file, Media / file utility, All-in-one prog suite, Account / TOS utility, Scroller / macro |
+| Archive-text description clues | This program is freeware so use at your own risk you cant hold me<br>This is the final version of progzhell toolz no more will be made after this<br>for aol im moveing to C++ and C |
+| Archive-text URL clues | [http://www.lenshell.com](http://www.lenshell.com)<br>[http://www.progzhell.cjb.net](http://www.progzhell.cjb.net) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt<br>Progzhell Toolz Version Blog/Download_Source.txt<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt<br>Progzhell Toolz Version Blog/TipOfDay.txt<br>Progzhell Toolz Version Blog/Whats_New.txt<br>Progzhell Toolz Version Blog/Whats_Next.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt<br>Progzhell Toolz Version Blog/Download_Source.txt<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt<br>Progzhell Toolz Version Blog/TipOfDay.txt<br>Progzhell Toolz Version Blog/Whats_New.txt<br>Progzhell Toolz Version Blog/Whats_Next.txt | none | AOL/AIM chat utility<br>Source / developer file<br>Media / file utility<br>All-in-one prog suite<br>Account / TOS utility<br>Scroller / macro | none | Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt has vocabulary for AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/Download_Source.txt has vocabulary for Source / developer file, Media / file utility.<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/TipOfDay.txt has vocabulary for All-in-one prog suite, Account / TOS utility, Media / file utility, AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/Whats_New.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.<br>Progzhell Toolz Version Blog/Whats_Next.txt has vocabulary for AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt<br>Progzhell Toolz Version Blog/Download_Source.txt<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt<br>Progzhell Toolz Version Blog/TipOfDay.txt<br>Progzhell Toolz Version Blog/Whats_New.txt<br>Progzhell Toolz Version Blog/Whats_Next.txt | none | AOL/AIM chat utility<br>Source / developer file<br>Media / file utility<br>All-in-one prog suite<br>Account / TOS utility<br>Scroller / macro | none | This program is freeware so use at your own risk you cant hold me<br>This is the final version of progzhell toolz no more will be made after this<br>for aol im moveing to C++ and C | [http://www.lenshell.com](http://www.lenshell.com)<br>[http://www.progzhell.cjb.net](http://www.progzhell.cjb.net) | Progzhell Toolz Version Blog/Disclaimer_Important_Read_Before_Useing_Prog.txt has vocabulary for AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/Download_Source.txt has vocabulary for Source / developer file, Media / file utility.<br>Progzhell Toolz Version Blog/Last_Words_Frome_Kel.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/TipOfDay.txt has vocabulary for All-in-one prog suite, Account / TOS utility, Media / file utility, AOL/AIM chat utility.<br>Progzhell Toolz Version Blog/Whats_New.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.<br>Progzhell Toolz Version Blog/Whats_Next.txt has vocabulary for AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

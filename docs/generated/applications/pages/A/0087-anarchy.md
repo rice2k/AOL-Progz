@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | anarchy for aol 4.0.zip |
 | File size | 22 B |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | Media / file utility |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 1 |
@@ -78,7 +84,11 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://sysopaim.cjb.net](http://sysopaim.cjb.net) | files/external/angelfire-com/anarchyaol.zip | ProgzRescue Angelfire files |
 
 ## Web Research
 

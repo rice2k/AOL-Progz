@@ -18,9 +18,13 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Archive filename | matrix toolz 1.0 aol5-6 yr01 password=AoL SuX AsS.zip |
 | File size | 1.6 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Account / TOS utility, Source / developer file, Media / file utility |
+| Archive-text description clues | Hi Matrix Here, thanks for dling this prog and its components.I hope u enjoy this prog it has over 250 options just for you.<br>This Program was made in VB4 (Visual Basics version 4.0). The art on the start up was made by me (matrix) and the art on the main form was made by my good friend oppo.All art was made in Adobe Photoshop 4.0.<br>I nor anyone that helped me make this prog are responsible for TOS violations, Account Suspensions, or Account terminations. |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Matrix Toolz 1.0.txt |
 | Matched external ZIP text evidence | 0 |
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Matrix Toolz 1.0.txt | none | All-in-one prog suite<br>Account / TOS utility<br>Source / developer file<br>Media / file utility | none | Matrix Toolz 1.0.txt has vocabulary for All-in-one prog suite, Account / TOS utility, Source / developer file, Media / file utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Matrix Toolz 1.0.txt | none | All-in-one prog suite<br>Account / TOS utility<br>Source / developer file<br>Media / file utility | none | Hi Matrix Here, thanks for dling this prog and its components.I hope u enjoy this prog it has over 250 options just for you.<br>This Program was made in VB4 (Visual Basics version 4.0). The art on the start up was made by me (matrix) and the art on the main form was made by my good friend oppo.All art was made in Adobe Photoshop 4.0.<br>I nor anyone that helped me make this prog are responsible for TOS violations, Account Suspensions, or Account terminations.<br>Thank u guys..and all the beta testers from 1, 2, 3, and 4. Without you guys this prog wouldn't be possible! | none | Matrix Toolz 1.0.txt has vocabulary for All-in-one prog suite, Account / TOS utility, Source / developer file, Media / file utility. |
 
 ### Matched External ZIP Text Evidence
 

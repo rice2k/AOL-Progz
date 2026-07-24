@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Filename/catalog cues suggest: room buster vocabulary.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Filename/catalog cues suggest: room buster vocabulary. Readable archive text also suggests: All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -17,24 +17,30 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | Mortality Room Cycler |
 | Archive filename | mcyclefinal.zip |
 | File size | 1.8 MB |
-| Author | Bud |
+| Author | Bud (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Bud |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0 |
+| AOL/version bucket | AOL 4.0; archive text: AOL 7.0, AOL 6.0, AOL 8.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
-| Archive-text AOL/version mentions | unknown |
+| Archive-text AOL/version mentions | AOL 7.0, AOL 6.0, AOL 8.0 |
 | External ZIP text version mentions | unknown |
-| Prog type | Unknown / needs review |
+| Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
-| Archive-text purpose clues | unknown |
+| Archive-text purpose clues | All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | save2.ini<br>default.ini<br>skingg.ini<br>snames.ini |
+| Archive text files reviewed | Read Me.rtf<br>save2.ini<br>default.ini<br>skingg.ini<br>snames.ini |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
@@ -47,16 +53,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | catalog only |
-| Category confidence | needs review |
-| AOL/version confidence | catalog bucket |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
-| Review priority | medium (7) |
-| Manual review flags | category uncertain, type uncertain |
+| Review priority | medium (4) |
+| Manual review flags | category uncertain |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -69,7 +75,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
-
+Readable archive text also mentions: **AOL 7.0, AOL 6.0, AOL 8.0**.
 
 ## Screenshots
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| save2.ini<br>default.ini<br>skingg.ini<br>snames.ini | none | none | none | unknown |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read Me.rtf<br>save2.ini<br>default.ini<br>skingg.ini<br>snames.ini | none | All-in-one prog suite<br>Mass mailer / server<br>AOL/AIM chat utility | AOL 7.0<br>AOL 6.0<br>AOL 8.0 | none | none | Read Me.rtf mentions AOL 7.0, AOL 6.0, AOL 8.0.<br>Read Me.rtf has vocabulary for All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

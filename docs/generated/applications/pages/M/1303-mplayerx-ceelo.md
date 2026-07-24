@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | music mp3 player x v2 aol7 winXP yr05.zip |
 | File size | 3.8 MB |
 | Author | Raul Martinez; catalog listed Raúl |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | Raúl |
 | Manual author evidence | unknown |
 | Archive-text author | Raul Martinez |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | Catalog listed Raúl; evidence prefers Raul Martinez. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Media / file utility, Fader / text styler, Scroller / macro |
+| Archive-text description clues | - FMOD.dll version 3.73 (in app path)<br>- FMOD.dll version 3.73 (en la mismo directorio)<br>Music Mp3 Player X - Version 2.0 |
+| Archive-text URL clues | [http://www.geocities.com/skoria_36](http://www.geocities.com/skoria_36) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | INSTALL.txt<br>MMPlayerX.ini<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt<br>MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt<br>MMp3Player/Skins/guinamp_pirata/Skin.ini |
 | Matched external ZIP text evidence | 0 |
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| INSTALL.txt<br>MMPlayerX.ini<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt<br>MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt<br>MMp3Player/Skins/guinamp_pirata/Skin.ini | Raul Martinez (MMp3Player/Skins/guinamp_pirata/Skin.ini) | Source / developer file<br>Media / file utility<br>Fader / text styler<br>Scroller / macro | none | INSTALL.txt has vocabulary for Source / developer file.<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt has vocabulary for Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt has vocabulary for Fader / text styler, Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini includes archive-text author clue(s): Raul Martinez.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini has vocabulary for Scroller / macro, Media / file utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| INSTALL.txt<br>MMPlayerX.ini<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt<br>MMp3Player/Skins/guinamp_pirata/CURLISTBAR.CUR<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt<br>MMp3Player/Skins/guinamp_pirata/Skin.ini | Raul Martinez (MMp3Player/Skins/guinamp_pirata/Skin.ini) | Source / developer file<br>Media / file utility<br>Fader / text styler<br>Scroller / macro | none | - FMOD.dll version 3.73 (in app path)<br>- FMOD.dll version 3.73 (en la mismo directorio)<br>Music Mp3 Player X - Version 2.0 | [http://www.geocities.com/skoria_36](http://www.geocities.com/skoria_36) | INSTALL.txt has vocabulary for Source / developer file.<br>MMp3Player/Skins/guinamp_pirata/Leeme (Spanish).txt has vocabulary for Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Readme (English).txt has vocabulary for Fader / text styler, Media / file utility.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini includes archive-text author clue(s): Raul Martinez.<br>MMp3Player/Skins/guinamp_pirata/Skin.ini has vocabulary for Scroller / macro, Media / file utility. |
 
 ### Matched External ZIP Text Evidence
 

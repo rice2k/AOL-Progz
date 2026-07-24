@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | ji2.zip |
 | File size | 779 KB |
 | Author | qb and dank; catalog listed s: qb and dank |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | s: qb and dank |
 | Manual author evidence | unknown |
 | Archive-text author | qb and dank |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | Catalog listed s: qb and dank; evidence prefers qb and dank. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro, Mass mailer / server, AOL/AIM chat utility |
+| Archive-text description clues | requirements: america online version 2.5, 3.0, or 95. |
+| Archive-text URL clues | [http://scroll.to/aohaquh](http://scroll.to/aohaquh) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me.txt<br>read_this.txt<br>aciddr0p.netReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| read me.txt<br>read_this.txt<br>aciddr0p.netReadMe.txt | qb and dank (read me.txt) | Scroller / macro<br>Mass mailer / server<br>AOL/AIM chat utility | none | read me.txt includes archive-text author clue(s): qb and dank.<br>read_this.txt has vocabulary for Scroller / macro, Mass mailer / server, AOL/AIM chat utility.<br>read_this.txt includes a mirror/download-source note.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| read me.txt<br>read_this.txt<br>aciddr0p.netReadMe.txt | qb and dank (read me.txt) | Scroller / macro<br>Mass mailer / server<br>AOL/AIM chat utility | none | requirements: america online version 2.5, 3.0, or 95. | [http://scroll.to/aohaquh](http://scroll.to/aohaquh) | read me.txt includes archive-text author clue(s): qb and dank.<br>read_this.txt has vocabulary for Scroller / macro, Mass mailer / server, AOL/AIM chat utility.<br>read_this.txt includes a mirror/download-source note.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Matched External ZIP Text Evidence
 

@@ -17,22 +17,28 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | Hypêr Línkêr ² |
 | Archive filename | hyperlinker2.zip |
 | File size | 1.5 MB |
-| Author | Mr Koww |
+| Author | Mr Koww (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Mr Koww |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0; archive text: AOL 4.0, AOL 5.0, AOL 6.0 |
+| AOL/version bucket | AOL 4.0; archive text: AOL 4.0, AOL 5.0, AOL 6.0, AIM 2 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
-| Archive-text AOL/version mentions | AOL 4.0, AOL 5.0, AOL 6.0 |
+| Archive-text AOL/version mentions | AOL 4.0, AOL 5.0, AOL 6.0, AIM 2 |
 | External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Scroller / macro, Linker / chat linker, Source / developer file, AOL/AIM chat utility |
+| Archive-text description clues | This Program Is Like No Other, It Has Many Options That Most Programs Don't.<br>Link/Font Color Changer, Cursor Changer, Etc.. This Program So Far That I Have<br>Seen Has The Most Options. This Program Is One Of A Kind, And Was Coded All |
+| Archive-text URL clues | [Http://www.angelfire.com/biz6/blahblahblahblah/index.html](Http://www.angelfire.com/biz6/blahblahblahblah/index.html) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read-Me.txt<br>HyperLinker2.ini |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -70,7 +76,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
-Readable archive text also mentions: **AOL 4.0, AOL 5.0, AOL 6.0**.
+Readable archive text also mentions: **AOL 4.0, AOL 5.0, AOL 6.0, AIM 2**.
 
 ## Screenshots
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read-Me.txt<br>HyperLinker2.ini | none | Fader / text styler<br>Scroller / macro<br>Linker / chat linker<br>Source / developer file<br>AOL/AIM chat utility | AOL 4.0<br>AOL 5.0<br>AOL 6.0 | Read-Me.txt mentions AOL 4.0, AOL 5.0, AOL 6.0.<br>Read-Me.txt has vocabulary for Fader / text styler, Scroller / macro, Linker / chat linker, Source / developer file, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read-Me.txt<br>HyperLinker2.ini | none | Fader / text styler<br>Scroller / macro<br>Linker / chat linker<br>Source / developer file<br>AOL/AIM chat utility | AOL 4.0<br>AOL 5.0<br>AOL 6.0<br>AIM 2 | This Program Is Like No Other, It Has Many Options That Most Programs Don't.<br>Link/Font Color Changer, Cursor Changer, Etc.. This Program So Far That I Have<br>Seen Has The Most Options. This Program Is One Of A Kind, And Was Coded All<br>By Mr. Koww. There Might Be A Version 3, I Am Not Sure. If There Is It Will Be | [Http://www.angelfire.com/biz6/blahblahblahblah/index.html](Http://www.angelfire.com/biz6/blahblahblahblah/index.html) | Read-Me.txt mentions AOL 4.0, AOL 5.0, AOL 6.0, AIM 2.<br>Read-Me.txt has vocabulary for Fader / text styler, Scroller / macro, Linker / chat linker, Source / developer file, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

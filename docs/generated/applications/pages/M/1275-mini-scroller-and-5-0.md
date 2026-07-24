@@ -18,9 +18,13 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Archive filename | mini scroller for aol 4.0 and 5.0.zip |
 | File size | 22 B |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Category | scroller or macro |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |

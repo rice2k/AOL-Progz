@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | blunted-coms |
 | Archive filename | blunted.zip |
 | File size | 3.0 MB |
-| Author | JANGEADOR 2000 |
+| Author | JANGEADOR 2000 (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | JANGEADOR 2000 |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,8 +37,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Scroller / macro |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | Fader / text styler, Scroller / macro |
-| Archive text files reviewed | arrows.ini<br>arrows2.ini<br>Blunted.ini<br>default.ini<br>default2.ini<br>default3.ini<br>ghost.ini<br>ghost1.ini<br>ghost3.ini<br>hail.ini<br>lutes mom.ini<br>sook.ini<br>static.ini<br>static2.ini<br>taffy.ini<br>ultima.ini<br>aciddr0p.netReadMe.txt |
+| Archive text files reviewed | arrows.ini<br>arrows2.ini<br>autox.Lst<br>Blunted.ini<br>default.ini<br>default2.ini<br>default3.ini<br>fprs.Lst<br>ghost.ini<br>ghost1.ini<br>ghost3.ini<br>hail.ini<br>imm.Lst<br>lutes mom.ini<br>presets.lst<br>pxer.Lst<br>sook.ini<br>static.ini<br>static2.ini<br>taffy.ini |
 | Matched external ZIP text evidence | 1 |
 | Visual Basic | VB5 |
 | Compile type | p-code |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| arrows.ini<br>arrows2.ini<br>Blunted.ini<br>default.ini<br>default2.ini<br>default3.ini<br>ghost.ini<br>ghost1.ini<br>ghost3.ini<br>hail.ini<br>lutes mom.ini<br>sook.ini<br>static.ini<br>static2.ini<br>taffy.ini<br>ultima.ini<br>aciddr0p.netReadMe.txt | none | Fader / text styler<br>Scroller / macro | none | arrows.ini has vocabulary for Fader / text styler, Scroller / macro.<br>arrows2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>Blunted.ini has vocabulary for Fader / text styler, Scroller / macro.<br>default.ini has vocabulary for Fader / text styler, Scroller / macro.<br>default2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>default3.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ghost.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ghost1.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ghost3.ini has vocabulary for Fader / text styler, Scroller / macro.<br>hail.ini has vocabulary for Fader / text styler, Scroller / macro.<br>lutes mom.ini has vocabulary for Fader / text styler, Scroller / macro.<br>sook.ini has vocabulary for Fader / text styler, Scroller / macro.<br>static.ini has vocabulary for Fader / text styler, Scroller / macro.<br>static2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>taffy.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ultima.ini has vocabulary for Fader / text styler, Scroller / macro. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| arrows.ini<br>arrows2.ini<br>autox.Lst<br>Blunted.ini<br>default.ini<br>default2.ini<br>default3.ini<br>fprs.Lst<br>ghost.ini<br>ghost1.ini<br>ghost3.ini<br>hail.ini<br>imm.Lst<br>lutes mom.ini<br>presets.lst<br>pxer.Lst<br>sook.ini<br>static.ini<br>static2.ini<br>taffy.ini | none | Fader / text styler<br>Scroller / macro | none | none | none | arrows.ini has vocabulary for Fader / text styler, Scroller / macro.<br>arrows2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>Blunted.ini has vocabulary for Fader / text styler, Scroller / macro.<br>default.ini has vocabulary for Fader / text styler, Scroller / macro.<br>default2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>default3.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ghost.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ghost1.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ghost3.ini has vocabulary for Fader / text styler, Scroller / macro.<br>hail.ini has vocabulary for Fader / text styler, Scroller / macro.<br>lutes mom.ini has vocabulary for Fader / text styler, Scroller / macro.<br>sook.ini has vocabulary for Fader / text styler, Scroller / macro.<br>static.ini has vocabulary for Fader / text styler, Scroller / macro.<br>static2.ini has vocabulary for Fader / text styler, Scroller / macro.<br>taffy.ini has vocabulary for Fader / text styler, Scroller / macro.<br>ultima.ini has vocabulary for Fader / text styler, Scroller / macro. |
 
 ### Matched External ZIP Text Evidence
 
@@ -98,7 +104,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Web page: c-coms | [files/external/lenshellarchive-com/blunted-9e007e76.zip](../../../../../files/external/lenshellarchive-com/blunted-9e007e76.zip) | arrows.ini<br>arrows2.ini<br>Blunted.ini<br>default.ini<br>default2.ini<br>default3.ini | none | none | Fader / text styler<br>Scroller / macro | unknown | unknown |
+| Web page: c-coms | [files/external/lenshellarchive-com/blunted-9e007e76.zip](../../../../../files/external/lenshellarchive-com/blunted-9e007e76.zip) | arrows.ini<br>arrows2.ini<br>autox.Lst<br>Blunted.ini<br>default.ini<br>default2.ini | none | none | Fader / text styler<br>Scroller / macro | unknown | unknown |
 
 ### Source Mentions
 

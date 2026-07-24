@@ -17,12 +17,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | plasma |
 | Archive filename | plasma.zip |
 | File size | 1.3 MB |
-| Author | Chr0me |
+| Author | mclodo; catalog listed Chr0me |
+| Author evidence source | matched external ZIP text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from readable text inside a recovered external mirror matched to this catalog entry. |
 | Catalog author | Chr0me |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | mclodo |
 | Inferred author | unknown |
-| Author conflict note | none |
+| Author conflict note | Catalog listed Chr0me; evidence prefers mclodo. |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 1 |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | matched external ZIP text |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (9) |
-| Manual review flags | category uncertain, type uncertain, matched external ZIP text to verify |
-| Next research action | Scan readable text and old source-page labels to assign category/type. |
+| Review priority | high (15) |
+| Manual review flags | author conflict, category uncertain, type uncertain, matched external ZIP text to verify |
+| Next research action | Compare catalog author, archive text, and old-page mentions before changing attribution. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-text-author](../../../tags/has-external-text-author.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 

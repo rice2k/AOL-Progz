@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Source / developer file, Media / file utility, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | heavy water final for aol 5.0.zip |
 | File size | 5.8 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -29,12 +33,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Inferred AOL version | AOL 5.0 |
 | Archive-text AOL/version mentions | AOL 5.0 |
 | External ZIP text version mentions | unknown |
-| Prog type | Unknown / needs review |
+| Prog type | Source / developer file |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
-| Archive-text purpose clues | unknown |
+| Archive-text purpose clues | Source / developer file, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | Primary archive: heavy water final for aol 5.0.rar<br>Using version from primary archive. |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | _conflicts/conflict.txt |
+| Archive text files reviewed | SETUP.LST<br>READ ME.tx_<br>_conflicts/conflict.txt |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
@@ -47,16 +53,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Web research mentions | 0 |
 | Web image leads | 0 |
 | Author confidence | unknown |
-| Category confidence | needs review |
+| Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
-| Review priority | high (10) |
-| Manual review flags | category uncertain, type uncertain, author unknown |
+| Review priority | medium (7) |
+| Manual review flags | category uncertain, author unknown |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| _conflicts/conflict.txt | none | none | AOL 5.0 | _conflicts/conflict.txt mentions AOL 5.0. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| SETUP.LST<br>READ ME.tx_<br>_conflicts/conflict.txt | none | Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | AOL 5.0 | Primary archive: heavy water final for aol 5.0.rar<br>Using version from primary archive. | none | SETUP.LST has vocabulary for Source / developer file, Media / file utility, AOL/AIM chat utility.<br>_conflicts/conflict.txt mentions AOL 5.0. |
 
 ### Matched External ZIP Text Evidence
 

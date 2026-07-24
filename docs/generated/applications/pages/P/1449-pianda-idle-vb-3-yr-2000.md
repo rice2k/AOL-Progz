@@ -17,10 +17,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog label | pianda v¦ |
 | Archive filename | pianda idle v%b3 for aol 5.0 yr2000.zip |
 | File size | 1.2 MB |
-| Author | nas |
+| Author | nas (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | nas |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 

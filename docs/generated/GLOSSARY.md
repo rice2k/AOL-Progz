@@ -50,17 +50,17 @@ More specific inferred functions used for browsing and review.
 
 | Prog type | Count |
 | --- | --- |
-| Unknown / needs review | 1259 |
+| Unknown / needs review | 1250 |
 | Idler / AFK bot | 190 |
-| All-in-one prog suite | 139 |
-| Fader / text styler | 81 |
+| All-in-one prog suite | 140 |
+| Fader / text styler | 86 |
 | Account / TOS utility | 71 |
-| C-Com / command list | 50 |
+| C-Com / command list | 51 |
 | Scroller / macro | 48 |
 | Room buster | 47 |
-| Linker / chat linker | 45 |
 | Media / file utility | 45 |
-| Source / developer file | 40 |
+| Linker / chat linker | 44 |
+| Source / developer file | 43 |
 | Punter / booter | 39 |
 | Mass mailer / server | 35 |
 | AOL/AIM chat utility | 28 |

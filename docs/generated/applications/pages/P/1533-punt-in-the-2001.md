@@ -17,10 +17,14 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Catalog label | Punt in the 2001 |
 | Archive filename | punt2001.zip |
 | File size | 3.0 MB |
-| Author | kurupt |
+| Author | kurupt (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | kurupt |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Category | punter |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Punter / booter, Source / developer file, Screen-name utility |
+| Archive-text description clues | Punt in the 2001 is a FreeProgz Exclusive for Aol 6.0. |
+| Archive-text URL clues | [http://www.FreeProgz.com](http://www.FreeProgz.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Punt in the 2001/0distory.txt<br>Punt in the 2001/adistort.txt<br>Punt in the 2001/bdf.txt<br>Punt in the 2001/bdl.txt<br>Punt in the 2001/ReadMeNow.txt<br>Punt in the 2001/aol6mailblahdistortfreeze.txt<br>Punt in the 2001/PuntInThe2001.ini<br>Words From PHAT.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#punter](../../../tags/punter.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#punter](../../../tags/punter.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Punt in the 2001/0distory.txt<br>Punt in the 2001/adistort.txt<br>Punt in the 2001/bdf.txt<br>Punt in the 2001/bdl.txt<br>Punt in the 2001/ReadMeNow.txt<br>Punt in the 2001/aol6mailblahdistortfreeze.txt<br>Punt in the 2001/PuntInThe2001.ini<br>Words From PHAT.txt | none | All-in-one prog suite<br>Punter / booter<br>Source / developer file<br>Screen-name utility | AOL 6.0 | Punt in the 2001/ReadMeNow.txt mentions AOL 6.0.<br>Punt in the 2001/ReadMeNow.txt has vocabulary for All-in-one prog suite, Punter / booter, Source / developer file.<br>Punt in the 2001/PuntInThe2001.ini has vocabulary for Screen-name utility.<br>Words From PHAT.txt mentions AOL 6.0.<br>Words From PHAT.txt has vocabulary for Punter / booter. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Punt in the 2001/0distory.txt<br>Punt in the 2001/adistort.txt<br>Punt in the 2001/bdf.txt<br>Punt in the 2001/bdl.txt<br>Punt in the 2001/ReadMeNow.txt<br>Punt in the 2001/aol6mailblahdistortfreeze.txt<br>Punt in the 2001/PuntInThe2001.ini<br>Words From PHAT.txt | none | All-in-one prog suite<br>Punter / booter<br>Source / developer file<br>Screen-name utility | AOL 6.0 | Punt in the 2001 is a FreeProgz Exclusive for Aol 6.0. | [http://www.FreeProgz.com](http://www.FreeProgz.com) | Punt in the 2001/ReadMeNow.txt mentions AOL 6.0.<br>Punt in the 2001/ReadMeNow.txt has vocabulary for All-in-one prog suite, Punter / booter, Source / developer file.<br>Punt in the 2001/PuntInThe2001.ini has vocabulary for Screen-name utility.<br>Words From PHAT.txt mentions AOL 6.0.<br>Words From PHAT.txt has vocabulary for Punter / booter. |
 
 ### Matched External ZIP Text Evidence
 

@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | exodus2 |
 | Archive filename | exodus2.zip |
 | File size | 3.8 MB |
-| Author | MaGuS |
+| Author | MaGuS (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | MaGuS |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Idler / AFK bot, Room buster, Punter / booter, Scroller / macro, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | This works for aol 2.5, aol 3.0 16 bit and aol 3.0 32 bit (aol 95).<br>And added a few more minor features u will discover thoughout the prog. |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Exodus Read First.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Exodus Read First.txt | none | All-in-one prog suite<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>Scroller / macro<br>Media / file utility<br>AOL/AIM chat utility | AOL 2.5<br>AOL 3.0<br>AOL 95<br>AOL 30 | Exodus Read First.txt mentions AOL 2.5, AOL 3.0, AOL 95, AOL 30.<br>Exodus Read First.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Room buster, Punter / booter, Scroller / macro. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Exodus Read First.txt | none | All-in-one prog suite<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>Scroller / macro<br>Media / file utility<br>AOL/AIM chat utility | AOL 2.5<br>AOL 3.0<br>AOL 95<br>AOL 30 | This works for aol 2.5, aol 3.0 16 bit and aol 3.0 32 bit (aol 95).<br>And added a few more minor features u will discover thoughout the prog. | none | Exodus Read First.txt mentions AOL 2.5, AOL 3.0, AOL 95, AOL 30.<br>Exodus Read First.txt has vocabulary for All-in-one prog suite, Idler / AFK bot, Room buster, Punter / booter, Scroller / macro. |
 
 ### Matched External ZIP Text Evidence
 

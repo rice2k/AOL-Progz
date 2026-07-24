@@ -18,9 +18,13 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Archive filename | punttoolz.zip |
 | File size | 430 KB |
 | Author | SaBeR |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | SaBeR |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | SaBeR |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Category | punter |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | ----> Invissound punt is the same except the people in the room dont see the punt text because its invisible, this also, does not work for aol 6.0 anymore, only for 2.56 and mabye another version. |
+| Archive-text URL clues | [http://www.saberzrealm.net](http://www.saberzrealm.net)<br>[http://www.8op.com/dope2k](http://www.8op.com/dope2k)<br>[http://www.werldmayhem.com](http://www.werldmayhem.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | read me !.txt |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#punter](../../../tags/punter.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#punter](../../../tags/punter.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -93,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| read me !.txt | none | All-in-one prog suite<br>Punter / booter<br>Media / file utility<br>AOL/AIM chat utility | AOL 6.0<br>AOL 2.56 | read me !.txt mentions AOL 6.0, AOL 2.56.<br>read me !.txt has vocabulary for All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| read me !.txt | SaBeR (read me !.txt) | All-in-one prog suite<br>Punter / booter<br>Media / file utility<br>AOL/AIM chat utility | AOL 6.0<br>AOL 2.56 | ----> Invissound punt is the same except the people in the room dont see the punt text because its invisible, this also, does not work for aol 6.0 anymore, only for 2.56 and mabye another version. | [http://www.saberzrealm.net](http://www.saberzrealm.net)<br>[http://www.8op.com/dope2k](http://www.8op.com/dope2k)<br>[http://www.werldmayhem.com](http://www.werldmayhem.com) | read me !.txt includes archive-text author clue(s): SaBeR.<br>read me !.txt mentions AOL 6.0, AOL 2.56.<br>read me !.txt has vocabulary for All-in-one prog suite, Punter / booter, Media / file utility, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

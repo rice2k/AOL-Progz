@@ -17,12 +17,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | c°m-chßmber╣ |
 | Archive filename | comchamber.zip |
 | File size | 2.6 MB |
-| Author | typing |
+| Author | a0de; catalog listed typing |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | typing |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | a0de |
+| External ZIP text authors | a0de |
 | Inferred author | unknown |
-| Author conflict note | none |
+| Author conflict note | Catalog listed typing; evidence prefers a0de. |
 | Platform | AOL |
 | AOL/version bucket | AOL 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility |
+| Archive-text description clues | version of com chamber, without the error and maybe 10 or 20 more coms.<br>this prog..i dont really care just as long as it says its by a0de. |
+| Archive-text URL clues | [http://a0de.cjb.net](http://a0de.cjb.net) |
 | External ZIP text purpose clues | Fader / text styler, C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility |
 | Archive text files reviewed | readme now.txt |
 | Matched external ZIP text evidence | 1 |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (6) |
-| Manual review flags | category uncertain, matched external ZIP text to verify |
-| Next research action | Scan readable text and old source-page labels to assign category/type. |
+| Review priority | high (12) |
+| Manual review flags | author conflict, category uncertain, matched external ZIP text to verify |
+| Next research action | Compare catalog author, archive text, and old-page mentions before changing attribution. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-external-text-author](../../../tags/has-external-text-author.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| readme now.txt | none | Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Screen-name utility<br>AOL/AIM chat utility | none | readme now.txt has vocabulary for Fader / text styler, C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| readme now.txt | a0de (readme now.txt) | Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Screen-name utility<br>AOL/AIM chat utility | none | version of com chamber, without the error and maybe 10 or 20 more coms.<br>this prog..i dont really care just as long as it says its by a0de. | [http://a0de.cjb.net](http://a0de.cjb.net) | readme now.txt includes archive-text author clue(s): a0de.<br>readme now.txt has vocabulary for Fader / text styler, C-Com / command list, Scroller / macro, Screen-name utility, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

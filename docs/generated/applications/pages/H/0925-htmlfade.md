@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | htmlfade |
 | Archive filename | htmlfade.zip |
 | File size | 6.8 KB |
-| Author | Half Life |
+| Author | Half Life (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Half Life |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Linker / chat linker, AOL/AIM chat utility |
+| Archive-text description clues | Author of this program: Pizza |
+| Archive-text URL clues | [http://come.to/progzinc](http://come.to/progzinc)<br>[http://ripasrealm.simplenet.com/](http://ripasrealm.simplenet.com/) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | readme.txt<br>READ NOW!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 
@@ -93,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| readme.txt<br>READ NOW!.txt | none | All-in-one prog suite<br>Linker / chat linker<br>AOL/AIM chat utility | none | readme.txt has vocabulary for All-in-one prog suite.<br>READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| readme.txt<br>READ NOW!.txt | none | All-in-one prog suite<br>Linker / chat linker<br>AOL/AIM chat utility | none | Author of this program: Pizza | [http://come.to/progzinc](http://come.to/progzinc)<br>[http://ripasrealm.simplenet.com/](http://ripasrealm.simplenet.com/) | readme.txt has vocabulary for All-in-one prog suite.<br>READ NOW!.txt has vocabulary for Linker / chat linker, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

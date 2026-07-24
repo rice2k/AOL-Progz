@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | punk11.zip |
 | File size | 1.4 MB |
 | Author | PuNkDuDe |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | PuNkDuDe |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | PuNkDuDe |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot, Source / developer file |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://solo.abac.com/dllarchive/](http://solo.abac.com/dllarchive/) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ ME.txt |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| READ ME.txt | none | Idler / AFK bot<br>Source / developer file | none | READ ME.txt has vocabulary for Idler / AFK bot, Source / developer file. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| READ ME.txt | PuNkDuDe (READ ME.txt) | Idler / AFK bot<br>Source / developer file | none | none | [http://solo.abac.com/dllarchive/](http://solo.abac.com/dllarchive/) | READ ME.txt includes archive-text author clue(s): PuNkDuDe.<br>READ ME.txt has vocabulary for Idler / AFK bot, Source / developer file. |
 
 ### Matched External ZIP Text Evidence
 

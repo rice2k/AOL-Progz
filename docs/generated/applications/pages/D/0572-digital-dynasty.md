@@ -17,22 +17,28 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | Digital Dynasty |
 | Archive filename | ddfinal.zip |
 | File size | 5.5 MB |
-| Author | Digital |
+| Author | Digital (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Digital |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0; archive text: AOL 4.0, AOL 5.0 |
+| AOL/version bucket | AOL 4.0; archive text: AOL 4.0, AOL 5.0, AIM 3.5 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
-| Archive-text AOL/version mentions | AOL 4.0, AOL 5.0 |
+| Archive-text AOL/version mentions | AOL 4.0, AOL 5.0, AIM 3.5 |
 | External ZIP text version mentions | unknown |
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Source / developer file, Media / file utility, AOL/AIM chat utility, Account / TOS utility |
+| Archive-text description clues | [Over 350 options for AOL 4.0/5.0/AIM]<br>[Comments: ]This program is THE program out for AOL4.0/ 5.0 Now that<br>[ ]This program has everything you could ever want in a |
+| Archive-text URL clues | [http://www.DigitalUndergroundz.com-](http://www.DigitalUndergroundz.com-) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | SOURCE CODE FOR SELL!.txt<br>FREE PHISH.TXT |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -70,7 +76,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
-Readable archive text also mentions: **AOL 4.0, AOL 5.0**.
+Readable archive text also mentions: **AOL 4.0, AOL 5.0, AIM 3.5**.
 
 ## Screenshots
 
@@ -93,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| SOURCE CODE FOR SELL!.txt<br>FREE PHISH.TXT | none | Fader / text styler<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility<br>Account / TOS utility | AOL 4.0<br>AOL 5.0 | SOURCE CODE FOR SELL!.txt mentions AOL 4.0, AOL 5.0.<br>SOURCE CODE FOR SELL!.txt has vocabulary for Fader / text styler, Source / developer file, Media / file utility, AOL/AIM chat utility.<br>FREE PHISH.TXT mentions AOL 4.0, AOL 5.0.<br>FREE PHISH.TXT has vocabulary for Account / TOS utility, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| SOURCE CODE FOR SELL!.txt<br>FREE PHISH.TXT | none | Fader / text styler<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility<br>Account / TOS utility | AOL 4.0<br>AOL 5.0<br>AIM 3.5 | [Over 350 options for AOL 4.0/5.0/AIM]<br>[Comments: ]This program is THE program out for AOL4.0/ 5.0 Now that<br>[ ]This program has everything you could ever want in a<br>[ ]"Uninstall" feature because you won't be needing it. | [http://www.DigitalUndergroundz.com-](http://www.DigitalUndergroundz.com-) | SOURCE CODE FOR SELL!.txt mentions AOL 4.0, AOL 5.0.<br>SOURCE CODE FOR SELL!.txt has vocabulary for Fader / text styler, Source / developer file, Media / file utility, AOL/AIM chat utility.<br>FREE PHISH.TXT mentions AOL 4.0, AOL 5.0, AIM 3.5.<br>FREE PHISH.TXT has vocabulary for Account / TOS utility, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

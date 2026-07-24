@@ -1,7 +1,17 @@
-# Author: Trip
+# Author / Crew: trip
 
-**Catalog entries:** 1
+**Strong-evidence catalog entries:** 1
 
-| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 129 | [AOL 5 Update Closer](../../applications/pages/A/0129-aol-5-update-closer.md) | AOL 5 Update Closer | Unknown / needs review | uncategorized | AOL 4.0; inferred: AOL 5 | Trip | 1.3 MB | [local](../../../../files/aol/aol-4-0/0129-aol-5-update-closer.zip) | 0 |
+These entries have manual old-web/source evidence, local archive-text evidence, or matched external ZIP text evidence. Catalog-only and filename-only claims are listed separately on the author index.
+
+## Evidence Sources
+
+| Program | Catalog label | Evidence source | Evidence note | Archive text files | External text files | Program page |
+| --- | --- | --- | --- | --- | --- | --- |
+| html grabber | html grabber | local archive text | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. | Read.txt<br>Help.txt | unknown | [open](../../applications/pages/H/0922-html-grabber.md) |
+
+## Related Programs
+
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Author source | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 922 | [html grabber](../../applications/pages/H/0922-html-grabber.md) | html grabber | Source / developer file | uncategorized | Mixed/unknown | trip | local archive text | 2.0 MB | [local](../../../../files/aol/mixed/0922-html-grabber.zip) | 0 |

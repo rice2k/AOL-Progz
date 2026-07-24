@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | h3f.zip |
 | File size | 3.9 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Scroller / macro, Linker / chat linker, Account / TOS utility, Media / file utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://bloodychef.cjb.net](http://bloodychef.cjb.net) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | it.ini<br>read me.txt |
 | Matched external ZIP text evidence | 0 |
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| it.ini<br>read me.txt | none | Fader / text styler<br>Scroller / macro<br>Linker / chat linker<br>Account / TOS utility<br>Media / file utility | none | it.ini has vocabulary for Fader / text styler, Scroller / macro, Linker / chat linker, Account / TOS utility, Media / file utility.<br>read me.txt has vocabulary for Fader / text styler. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| it.ini<br>read me.txt | none | Fader / text styler<br>Scroller / macro<br>Linker / chat linker<br>Account / TOS utility<br>Media / file utility | none | none | [http://bloodychef.cjb.net](http://bloodychef.cjb.net) | it.ini has vocabulary for Fader / text styler, Scroller / macro, Linker / chat linker, Account / TOS utility, Media / file utility.<br>read me.txt has vocabulary for Fader / text styler. |
 
 ### Matched External ZIP Text Evidence
 

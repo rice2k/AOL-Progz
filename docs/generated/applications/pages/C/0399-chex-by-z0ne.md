@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | chex%99 by z0ne for aol 9.0 yr09.zip |
 | File size | 1.4 MB |
 | Author | Z0ne For Yr09; catalog listed z0ne |
+| Author evidence source | filename byline inferred |
+| Author evidence strength | medium |
+| Author evidence note | Inferred from a filename or source label using a `by/from` pattern. |
 | Catalog author | z0ne |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | Z0ne For Yr09 |
 | Author conflict note | Catalog listed z0ne; evidence prefers Z0ne For Yr09. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |

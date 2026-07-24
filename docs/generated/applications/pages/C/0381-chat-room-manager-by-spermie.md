@@ -18,9 +18,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive filename | chatroommanager aol7-9.zip |
 | File size | 1.4 MB |
 | Author | spermie |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | spermie |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | spermie |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, AOL/AIM chat utility |
+| Archive-text description clues | this program allows other users in the aol chat room to have room owner control. |
+| Archive-text URL clues | [http://spermie.cjb.net](http://spermie.cjb.net) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | chat room manager/READ ME!!!.txt<br>aciddr0p.netReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
 | Source confidence | local catalog mirror |
@@ -56,7 +62,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| chat room manager/READ ME!!!.txt<br>aciddr0p.netReadMe.txt | none | Source / developer file<br>AOL/AIM chat utility | AOL 7.0<br>AOL 9.0 | chat room manager/READ ME!!!.txt mentions AOL 7.0, AOL 9.0.<br>chat room manager/READ ME!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| chat room manager/READ ME!!!.txt<br>aciddr0p.netReadMe.txt | spermie (chat room manager/READ ME!!!.txt) | Source / developer file<br>AOL/AIM chat utility | AOL 7.0<br>AOL 9.0 | this program allows other users in the aol chat room to have room owner control. | [http://spermie.cjb.net](http://spermie.cjb.net) | chat room manager/READ ME!!!.txt includes archive-text author clue(s): spermie.<br>chat room manager/READ ME!!!.txt mentions AOL 7.0, AOL 9.0.<br>chat room manager/READ ME!!!.txt has vocabulary for Source / developer file, AOL/AIM chat utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Matched External ZIP Text Evidence
 

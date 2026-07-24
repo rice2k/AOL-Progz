@@ -2,7 +2,7 @@
 
 Catalog label: **judgement night 4.0 final**.
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Fader / text styler, Source / developer file, Scroller / macro, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | judgement night 4.0 final for aol 6.0 yr01.zip |
 | File size | 18 MB |
 | Author | step |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | step |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | step |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -32,9 +36,11 @@ The catalog metadata and filename do not identify a confident single function ye
 | Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
-| Archive-text purpose clues | Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility |
+| Archive-text purpose clues | Fader / text styler, Source / developer file, Scroller / macro, AOL/AIM chat utility |
+| Archive-text description clues | You have downloaded this program at your own will. Any problems that may occur is your own fault for carelessnes of use. Please scroll down and read problem section of auto phader<br>This is an aol 4.0/5.0 chat room fader.(may work with 3.0 also)<br>Primary archive: judgement night 4.0 final for aol 6.0 yr01.rar |
+| Archive-text URL clues | [http://www.angelfire.com/id2/twister](http://www.angelfire.com/id2/twister)<br>[http://aoscramble.cjb.net](http://aoscramble.cjb.net)<br>[http://elitespammer.ricksrealm.net](http://elitespammer.ricksrealm.net) |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | Read First!!.txt<br>read me.txt<br>_conflicts/conflict.txt |
+| Archive text files reviewed | SETUP.LST<br>Read First!!.txt<br>read me.txt<br>_conflicts/conflict.txt |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
@@ -46,7 +52,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 0 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-6-0](../../../tags/aol-6-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -93,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read First!!.txt<br>read me.txt<br>_conflicts/conflict.txt | none | Fader / text styler<br>Scroller / macro<br>Source / developer file<br>AOL/AIM chat utility | AOL 4.0<br>AOL 5.0<br>AOL 6.0 | Read First!!.txt mentions AOL 4.0, AOL 5.0.<br>Read First!!.txt has vocabulary for Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility.<br>_conflicts/conflict.txt mentions AOL 6.0. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| SETUP.LST<br>Read First!!.txt<br>read me.txt<br>_conflicts/conflict.txt | step (read me.txt) | Fader / text styler<br>Source / developer file<br>Scroller / macro<br>AOL/AIM chat utility | AOL 4.0<br>AOL 5.0<br>AOL 6.0 | You have downloaded this program at your own will. Any problems that may occur is your own fault for carelessnes of use. Please scroll down and read problem section of auto phader<br>This is an aol 4.0/5.0 chat room fader.(may work with 3.0 also)<br>Primary archive: judgement night 4.0 final for aol 6.0 yr01.rar<br>Using version from primary archive. | [http://www.angelfire.com/id2/twister](http://www.angelfire.com/id2/twister)<br>[http://aoscramble.cjb.net](http://aoscramble.cjb.net)<br>[http://elitespammer.ricksrealm.net](http://elitespammer.ricksrealm.net) | SETUP.LST has vocabulary for Fader / text styler, Source / developer file.<br>Read First!!.txt mentions AOL 4.0, AOL 5.0.<br>Read First!!.txt has vocabulary for Fader / text styler, Scroller / macro, Source / developer file, AOL/AIM chat utility.<br>read me.txt includes archive-text author clue(s): step.<br>_conflicts/conflict.txt mentions AOL 6.0. |
 
 ### Matched External ZIP Text Evidence
 

@@ -18,9 +18,13 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive filename | rampage.zip |
 | File size | 22 B |
 | Author | Oogle (Justin Tunney) |
+| Author evidence source | manual old-web/source evidence |
+| Author evidence strength | strong |
+| Author evidence note | Curated correction from old-web/source evidence. |
 | Catalog author | unknown |
 | Manual author evidence | Oogle (Justin Tunney) |
 | Archive-text author | unknown |
+| External ZIP text authors | Oogle |
 | Inferred author | Oogle (Justin Tunney) |
 | Author conflict note | none |
 | Platform | AOL |
@@ -28,11 +32,13 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
-| External ZIP text version mentions | AOL 4.0, AOL 5.0 |
+| External ZIP text version mentions | AOL 4.0, AOL 5.0, AOL 3.0, AOL 40 |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | All-in-one prog suite, AOL/AIM chat utility, Scroller / macro |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | All-in-one prog suite, Fader / text styler, Idler / AFK bot, Room buster, Punter / booter, C-Com / command list, Scroller / macro, Mass mailer / server, Account / TOS utility, Screen-name utility, Source / developer file, Media / file utility, AOL/AIM chat utility |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 3 |
@@ -56,7 +62,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-manual-purpose-clues](../../../tags/has-manual-purpose-clues.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-text-author](../../../tags/has-external-text-author.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-manual-purpose-clues](../../../tags/has-manual-purpose-clues.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md)
 
 ## Source And Files
 
@@ -78,7 +84,19 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://www.oogle.net](http://www.oogle.net) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://www.oogle.net/rampage/](http://www.oogle.net/rampage/) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://www.angelfire.com/ct/oogle/coolprog.html](http://www.angelfire.com/ct/oogle/coolprog.html) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://www.oogle.net/rampage/help.htm](http://www.oogle.net/rampage/help.htm) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://aimprogs.hypermart.net/sn.html](http://aimprogs.hypermart.net/sn.html) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://www.awsf.cjb.net/](http://www.awsf.cjb.net/) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://younghackers.freeservers.com/](http://younghackers.freeservers.com/) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://www.awsf.net/rampage/](http://www.awsf.net/rampage/) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
+| [http://www.awsf.net/](http://www.awsf.net/) | files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip | AOLUnderground reference mirror source-code files |
 
 ## Web Research
 
@@ -96,7 +114,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | User-supplied Oogle Rampage source leads | [files/external/oogle-net/skin-elite-3ae954b5.zip](../../../../../files/external/oogle-net/skin-elite-3ae954b5.zip) | elite.ini | none | none | All-in-one prog suite | unknown | unknown |
 | User-supplied Oogle Rampage source leads | [files/external/oogle-net/skin-insane-e3c85f67.zip](../../../../../files/external/oogle-net/skin-insane-e3c85f67.zip) | insane.ini | none | none | none | unknown | unknown |
-| AOLUnderground reference mirror source-code files | [files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip](../../../../../files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip) | rampage-frm1.frm<br>Rampage Toolz.vbp<br>rampage-explode4.frm<br>rampage-explode3.frm<br>rampage-explode2.frm<br>rampage-explode1.frm | Oogle | AOL 4.0<br>AOL 5.0 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>C-Com / command list | If GetUser = "" Then MsgBox "WARNING:" & Chr(13) & "It appears that you are not online and therefore most of this prog's features will not work for you.", vbExclamation, "Warning"<br>dStatus "Sends as command for this prog"<br>Private Sub Winsock1_Error(ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean) | [http://www.oogle.net](http://www.oogle.net)<br>[http://www.oogle.net/rampage/](http://www.oogle.net/rampage/)<br>[http://www.angelfire.com/ct/oogle/coolprog.html](http://www.angelfire.com/ct/oogle/coolprog.html)<br>[http://www.oogle.net/rampage/help.htm](http://www.oogle.net/rampage/help.htm) |
+| AOLUnderground reference mirror source-code files | [files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip](../../../../../files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip) | rampage-frm1.frm<br>Rampage Toolz.vbp<br>rampage-explode4.frm<br>rampage-explode3.frm<br>rampage-explode2.frm<br>rampage-explode1.frm | Oogle | AOL 4.0<br>AOL 5.0<br>AOL 3.0<br>AOL 40 | All-in-one prog suite<br>Fader / text styler<br>Idler / AFK bot<br>Room buster<br>Punter / booter<br>C-Com / command list | If GetUser = "" Then MsgBox "WARNING:" & Chr(13) & "It appears that you are not online and therefore most of this prog's features will not work for you.", vbExclamation, "Warning"<br>dStatus "Sends as command for this prog"<br>Private Sub Winsock1_Error(ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean) | [http://www.oogle.net](http://www.oogle.net)<br>[http://www.oogle.net/rampage/](http://www.oogle.net/rampage/)<br>[http://www.angelfire.com/ct/oogle/coolprog.html](http://www.angelfire.com/ct/oogle/coolprog.html)<br>[http://www.oogle.net/rampage/help.htm](http://www.oogle.net/rampage/help.htm) |
 
 ### Source Mentions
 

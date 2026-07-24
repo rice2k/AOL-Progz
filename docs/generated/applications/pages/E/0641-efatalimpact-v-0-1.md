@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | eFatalImpact v 0.1 |
 | Archive filename | efatalimpactv1.zip |
 | File size | 1.4 MB |
-| Author | xyr0x |
+| Author | xyr0x (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | xyr0x |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler, Source / developer file, Scroller / macro, AOL/AIM chat utility, All-in-one prog suite, Mass mailer / server |
+| Archive-text description clues | of this program, you're the one responsible. Use eFatalImpact with superior<br>Sentinel, etc. This program utilizes the Microsoft Windows ~Temp index<br>you desire. This program is freeware, and if should |
+| Archive-text URL clues | [http://www.google.com/ig](http://www.google.com/ig)<br>[http://groups.google.com/grphp?hl=en&tab=wg&ie=UTF-8](http://groups.google.com/grphp?hl=en&tab=wg&ie=UTF-8)<br>[http://news.google.com/nwshp?hl=en&tab=wn&ie=UTF-8](http://news.google.com/nwshp?hl=en&tab=wn&ie=UTF-8)<br>[http://froogle.google.com/frghp?hl=en&tab=wf&ie=UTF-8](http://froogle.google.com/frghp?hl=en&tab=wf&ie=UTF-8) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | eFatalImpact v 0.1/Bin/eFatalImpact.html<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html<br>eFatalImpact v 0.1/Read Me Before use!.txt<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt<br>eFatalImpact v 0.1/Recovery/ReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -96,9 +102,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| eFatalImpact v 0.1/Bin/eFatalImpact.html<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html<br>eFatalImpact v 0.1/Read Me Before use!.txt<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt<br>eFatalImpact v 0.1/Recovery/ReadMe.txt | none | Fader / text styler<br>Source / developer file<br>Scroller / macro<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Mass mailer / server | none | eFatalImpact v 0.1/Bin/eFatalImpact.html has vocabulary for Fader / text styler, Source / developer file.<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html has vocabulary for Fader / text styler, Scroller / macro, AOL/AIM chat utility.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| eFatalImpact v 0.1/Bin/eFatalImpact.html<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html<br>eFatalImpact v 0.1/Read Me Before use!.txt<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt<br>eFatalImpact v 0.1/Recovery/ReadMe.txt | none | Fader / text styler<br>Source / developer file<br>Scroller / macro<br>AOL/AIM chat utility<br>All-in-one prog suite<br>Mass mailer / server | none | of this program, you're the one responsible. Use eFatalImpact with superior<br>Sentinel, etc. This program utilizes the Microsoft Windows ~Temp index<br>you desire. This program is freeware, and if should<br>This program works 90% of the time on computer networks which run | [http://www.google.com/ig](http://www.google.com/ig)<br>[http://groups.google.com/grphp?hl=en&tab=wg&ie=UTF-8](http://groups.google.com/grphp?hl=en&tab=wg&ie=UTF-8)<br>[http://news.google.com/nwshp?hl=en&tab=wn&ie=UTF-8](http://news.google.com/nwshp?hl=en&tab=wn&ie=UTF-8)<br>[http://froogle.google.com/frghp?hl=en&tab=wf&ie=UTF-8](http://froogle.google.com/frghp?hl=en&tab=wf&ie=UTF-8)<br>[http://digital.iceberghosting.net](http://digital.iceberghosting.net) | eFatalImpact v 0.1/Bin/eFatalImpact.html has vocabulary for Fader / text styler, Source / developer file.<br>eFatalImpact v 0.1/Documentation/eFatalImpact.html has vocabulary for Fader / text styler, Scroller / macro, AOL/AIM chat utility.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server.<br>eFatalImpact v 0.1/Recovery/eFatalImpact.html.txt has vocabulary for All-in-one prog suite, Fader / text styler, Scroller / macro, Mass mailer / server. |
 
 ### Matched External ZIP Text Evidence
 

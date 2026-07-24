@@ -2,7 +2,7 @@
 
 Catalog label: **elements of destruction**.
 
-Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary. Readable archive text also suggests: All-in-one prog suite, Scroller / macro, Media / file utility, Account / TOS utility.
+Account, password, Terms of Service, phishing, or termination-adjacent tooling. Preserved for historical classification only; do not treat these pages as instructions. Filename/catalog cues suggest: account/TOS abuse vocabulary. Readable archive text also suggests: Source / developer file, All-in-one prog suite, Scroller / macro, Media / file utility, Account / TOS utility.
 
 **Safety note:** Historical preservation only. This project records the category, files, links, and screenshots without documenting harmful operating steps.
 
@@ -17,10 +17,14 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Catalog label | elements of destruction |
 | Archive filename | elements of destruction aol4-5 password=click ownz all.zip |
 | File size | 52 MB |
-| Author | USING |
+| Author | USING (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | USING |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -32,9 +36,11 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 | Prog type | Account / TOS utility |
 | Category | account or TOS tool |
 | Manual purpose clues | unknown |
-| Archive-text purpose clues | All-in-one prog suite, Scroller / macro, Media / file utility, Account / TOS utility |
+| Archive-text purpose clues | Source / developer file, All-in-one prog suite, Scroller / macro, Media / file utility, Account / TOS utility |
+| Archive-text description clues | THE SIEGE ³·º works on aol 5.0, 6.0 and 7.0. Enjoy!<br>Using version from primary archive. |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | Read me.txt<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt |
+| Archive text files reviewed | Setup.lst<br>Read me.txt<br>PV8 TOOLZ 1.0/SETUP.LST<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt<br>Support/Setup.Lst<br>siege12/SETUP.LST |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | unknown |
 | Compile type | unknown |
@@ -56,7 +62,7 @@ Account, password, Terms of Service, phishing, or termination-adjacent tooling. 
 
 ## Tags
 
-[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#review-low-priority](../../../tags/review-low-priority.md)
+[#account-or-tos-tool](../../../tags/account-or-tos-tool.md) [#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#mixedunknown](../../../tags/mixedunknown.md) [#review-low-priority](../../../tags/review-low-priority.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read me.txt<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt | none | All-in-one prog suite<br>Scroller / macro<br>Media / file utility<br>Account / TOS utility | AOL 5.0<br>AOL 6.0<br>AOL 4<br>AOL 5 | Read me.txt mentions AOL 5.0, AOL 6.0.<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.<br>_conflicts/conflict.txt mentions AOL 4, AOL 5.<br>_conflicts/conflict.txt has vocabulary for Account / TOS utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Setup.lst<br>Read me.txt<br>PV8 TOOLZ 1.0/SETUP.LST<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt<br>PV8 TOOLZ 1.0/macro/homer.MCR<br>_conflicts/conflict.txt<br>Support/Setup.Lst<br>siege12/SETUP.LST | none | Source / developer file<br>All-in-one prog suite<br>Scroller / macro<br>Media / file utility<br>Account / TOS utility | AOL 5.0<br>AOL 6.0<br>AOL 4<br>AOL 5 | THE SIEGE ³·º works on aol 5.0, 6.0 and 7.0. Enjoy!<br>Using version from primary archive. | none | Setup.lst has vocabulary for Source / developer file.<br>Read me.txt mentions AOL 5.0, AOL 6.0.<br>PV8 TOOLZ 1.0/SETUP.LST has vocabulary for All-in-one prog suite, Source / developer file.<br>PV8 TOOLZ 1.0/HOW TO INSTALL PV8 TOOLZ.txt has vocabulary for All-in-one prog suite, Scroller / macro, Media / file utility.<br>_conflicts/conflict.txt mentions AOL 4, AOL 5.<br>_conflicts/conflict.txt has vocabulary for Account / TOS utility.<br>Support/Setup.Lst has vocabulary for Source / developer file.<br>siege12/SETUP.LST has vocabulary for Source / developer file. |
 
 ### Matched External ZIP Text Evidence
 

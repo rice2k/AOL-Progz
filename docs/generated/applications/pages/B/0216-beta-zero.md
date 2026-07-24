@@ -2,7 +2,7 @@
 
 
 
-The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection.
+The catalog metadata and filename do not identify a confident single function yet. These need readme/source review or isolated inspection. Readable archive text also suggests: Fader / text styler, C-Com / command list, AOL/AIM chat utility.
 
 **Safety note:** Historical preservation note: unknown binaries should only be inspected in an isolated vintage VM or emulator.
 
@@ -18,23 +18,29 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | betazero1.zip |
 | File size | 1.5 MB |
 | Author | ETERNAL |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | ETERNAL |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | ETERNAL |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0 |
+| AOL/version bucket | AOL 4.0; archive text: AOL 4.0, AOL 5.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
-| Archive-text AOL/version mentions | unknown |
+| Archive-text AOL/version mentions | AOL 4.0, AOL 5.0 |
 | External ZIP text version mentions | unknown |
-| Prog type | Unknown / needs review |
+| Prog type | Fader / text styler |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
-| Archive-text purpose clues | unknown |
+| Archive-text purpose clues | Fader / text styler, C-Com / command list, AOL/AIM chat utility |
+| Archive-text description clues | Being as this is the original version of Beta Zero, there are no updates.<br>USAGE FOR AOL 4.0 and AOL 5.0 ONLY!!! |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | none |
+| Archive text files reviewed | Beta Zero Read Me.doc |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
-| Category confidence | needs review |
-| AOL/version confidence | catalog bucket |
+| Author confidence | readme/archive text |
+| Category confidence | readme/archive text |
+| AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
-| Review priority | high (8) |
-| Manual review flags | category uncertain, type uncertain, no readable text evidence |
+| Review priority | medium (4) |
+| Manual review flags | category uncertain |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -70,7 +76,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
-
+Readable archive text also mentions: **AOL 4.0, AOL 5.0**.
 
 ## Screenshots
 
@@ -86,7 +92,11 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 ### Archive Text Scan
 
-No readable ReadMe/NFO/source text has been extracted for this entry yet.
+Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
+
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Beta Zero Read Me.doc | ETERNAL (Beta Zero Read Me.doc) | Fader / text styler<br>C-Com / command list<br>AOL/AIM chat utility | AOL 4.0<br>AOL 5.0 | Being as this is the original version of Beta Zero, there are no updates.<br>USAGE FOR AOL 4.0 and AOL 5.0 ONLY!!! | none | Beta Zero Read Me.doc includes archive-text author clue(s): ETERNAL.<br>Beta Zero Read Me.doc mentions AOL 4.0, AOL 5.0.<br>Beta Zero Read Me.doc has vocabulary for Fader / text styler, C-Com / command list, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

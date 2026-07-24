@@ -318,6 +318,19 @@ function addLimited(list, item, keyFn, max = 20) {
   if (list.length < max) list.push(item);
 }
 
+function uniqueValues(items) {
+  const seen = new Set();
+  const out = [];
+  for (const item of items || []) {
+    const value = clean(item);
+    const key = value.toLowerCase();
+    if (!value || seen.has(key)) continue;
+    seen.add(key);
+    out.push(value);
+  }
+  return out;
+}
+
 function buildProgramMatcher(programs, inferredById) {
   const keyMap = new Map();
   const genericKeys = new Set([
@@ -604,6 +617,8 @@ async function main() {
       archivePurposeSignals: archiveText.purposeSignals || [],
       archiveAolVersions: archiveText.aolVersionMentions || [],
       archiveTextNotes: archiveText.notes || [],
+      archiveTextUrls: archiveText.urls || [],
+      archiveDescriptionCandidates: archiveText.descriptionCandidates || [],
       manualAuthor: "",
       manualPurposeSignals: [],
       authorConflict: "",
@@ -611,6 +626,7 @@ async function main() {
       webDownloadLinks: [],
       webImageLinks: [],
       mirrorLinks: [],
+      externalArchiveTextAuthors: [],
       externalArchiveTextEvidence: [],
     };
   }
@@ -798,8 +814,13 @@ async function main() {
 
   for (const program of programs) {
     const record = perProgram[program.id];
+    record.externalArchiveTextAuthors = uniqueValues(
+      record.externalArchiveTextEvidence
+        .map((item) => item.preferredAuthor)
+        .filter(Boolean),
+    ).slice(0, 8);
     const catalogAuthor = clean(program.author);
-    const evidenceAuthor = clean(record.manualAuthor || record.archiveTextAuthor || record.inferredAuthor);
+    const evidenceAuthor = clean(record.manualAuthor || record.archiveTextAuthor || record.externalArchiveTextAuthors[0] || record.inferredAuthor);
     if (catalogAuthor && evidenceAuthor && catalogAuthor.toLowerCase() !== evidenceAuthor.toLowerCase()) {
       record.authorConflict = `Catalog listed ${catalogAuthor}; evidence prefers ${evidenceAuthor}.`;
     }
@@ -814,9 +835,12 @@ async function main() {
     programsWithManualAuthors: records.filter((item) => item.manualAuthor).length,
     programsWithManualPurposeSignals: records.filter((item) => item.manualPurposeSignals?.length).length,
     programsWithArchiveTextAuthors: records.filter((item) => item.archiveTextAuthor).length,
+    programsWithExternalArchiveTextAuthors: records.filter((item) => item.externalArchiveTextAuthors?.length).length,
     programsWithAuthorConflicts: records.filter((item) => item.authorConflict).length,
     programsWithArchivePurposeSignals: records.filter((item) => item.archivePurposeSignals.length).length,
     programsWithArchiveAolVersionMentions: records.filter((item) => item.archiveAolVersions.length).length,
+    programsWithArchiveTextUrls: records.filter((item) => item.archiveTextUrls?.length).length,
+    programsWithArchiveDescriptionCandidates: records.filter((item) => item.archiveDescriptionCandidates?.length).length,
     programsWithInferredAolVersions: records.filter((item) => item.inferredAolVersion).length,
     programsWithWebMentions: records.filter((item) => item.webMentions.length).length,
     programsWithWebDownloadLinks: records.filter((item) => item.webDownloadLinks.length).length,
@@ -831,7 +855,7 @@ async function main() {
   writeFileSync(outJson, `${JSON.stringify(data, null, 2)}\n`, "utf8");
   writeFileSync(outJs, `window.AOL_PROGZ_PROGRAM_ENRICHMENT = ${JSON.stringify(data, null, 2)};\n`, "utf8");
   console.log(
-    `Built enrichment for ${data.programCount} programs: ${data.programsWithImprovedNames} improved names, ${data.programsWithWebDownloadLinks} with web downloads, ${data.programsWithWebMentions} with web mentions.`,
+    `Built enrichment for ${data.programCount} programs: ${data.programsWithImprovedNames} improved names, ${data.programsWithWebDownloadLinks} with web downloads, ${data.programsWithWebMentions} with web mentions, ${data.programsWithArchiveTextUrls} with archive-text URLs.`,
   );
 }
 

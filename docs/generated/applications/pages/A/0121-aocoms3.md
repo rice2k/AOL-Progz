@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | aocoms3 |
 | Archive filename | aocoms.zip |
 | File size | 727 KB |
-| Author | Then |
+| Author | Then (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Then |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [Http://www.RangerWeb.Net](Http://www.RangerWeb.Net)<br>[Http://www.inside-aol.com](Http://www.inside-aol.com)<br>[Http://www.observers.net](Http://www.observers.net)<br>[Http://www.mopa.net](Http://www.mopa.net) |
 | External ZIP text purpose clues | AOL/AIM chat utility |
 | Archive text files reviewed | readme.nfo |
 | Matched external ZIP text evidence | 1 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -103,9 +109,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| readme.nfo | none | AOL/AIM chat utility | none | readme.nfo has vocabulary for AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| readme.nfo | none | AOL/AIM chat utility | none | none | [Http://www.RangerWeb.Net](Http://www.RangerWeb.Net)<br>[Http://www.inside-aol.com](Http://www.inside-aol.com)<br>[Http://www.observers.net](Http://www.observers.net)<br>[Http://www.mopa.net](Http://www.mopa.net)<br>[Http://www.surfscreations.com](Http://www.surfscreations.com)<br>[Http://www.BigDaZz.Com](Http://www.BigDaZz.Com) | readme.nfo has vocabulary for AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

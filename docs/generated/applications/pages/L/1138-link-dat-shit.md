@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | linkdat.zip |
 | File size | 1.7 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | C-Com / command list, Linker / chat linker, Mass mailer / server, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me - !!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read Me - !!.txt | none | C-Com / command list<br>Linker / chat linker<br>Mass mailer / server<br>AOL/AIM chat utility | none | Read Me - !!.txt has vocabulary for C-Com / command list, Linker / chat linker, Mass mailer / server, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read Me - !!.txt | none | C-Com / command list<br>Linker / chat linker<br>Mass mailer / server<br>AOL/AIM chat utility | none | none | none | Read Me - !!.txt has vocabulary for C-Com / command list, Linker / chat linker, Mass mailer / server, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

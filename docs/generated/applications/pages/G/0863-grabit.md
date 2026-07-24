@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | grabit.zip |
 | File size | 1.6 MB |
 | Author | Forte |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | Forte |
 | Manual author evidence | unknown |
 | Archive-text author | Forte |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | AOL/AIM chat utility |
+| Archive-text description clues | Description: Gets peoples IP address by sending a link |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | info.txt |
 | Matched external ZIP text evidence | 0 |
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| info.txt | Forte (info.txt) | AOL/AIM chat utility | none | info.txt includes archive-text author clue(s): Forte.<br>info.txt has vocabulary for AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| info.txt | Forte (info.txt) | AOL/AIM chat utility | none | Description: Gets peoples IP address by sending a link | none | info.txt includes archive-text author clue(s): Forte.<br>info.txt has vocabulary for AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

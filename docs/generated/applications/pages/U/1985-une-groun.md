@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | ÛñÐë® GrÕüÑÐ |
 | Archive filename | underground.zip |
 | File size | 22 B |
-| Author | unknown |
+| Author | Stefan Fleischmann |
+| Author evidence source | matched external ZIP text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from readable text inside a recovered external mirror matched to this catalog entry. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | Stefan Fleischmann, control, my Boy |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -28,12 +32,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
 | Archive-text AOL/version mentions | unknown |
-| External ZIP text version mentions | AOL 2.5, AOL 3, AOL 4, AOL 40, AOL 4.0 |
+| External ZIP text version mentions | AOL 2.5, AOL 25, AOL 3, AOL 4, AOL 40, AOL 4.0 |
 | Prog type | Unknown / needs review |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
-| External ZIP text purpose clues | Punter / booter, All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility, Screen-name utility, Media / file utility, Idler / AFK bot, Source / developer file, Account / TOS utility, Scroller / macro, Room buster, Fader / text styler, C-Com / command list |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
+| External ZIP text purpose clues | Punter / booter, All-in-one prog suite, Mass mailer / server, AOL/AIM chat utility, Screen-name utility, Media / file utility, Idler / AFK bot, Source / developer file, Account / TOS utility, Scroller / macro, Room buster, C-Com / command list, Fader / text styler |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 8 |
 | Visual Basic | unknown |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 24 |
 | Web research mentions | 0 |
 | Web image leads | 12 |
-| Author confidence | unknown |
+| Author confidence | matched external ZIP text |
 | Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (14) |
-| Manual review flags | category uncertain, type uncertain, author unknown, matched external ZIP text to verify, web image lead needs screenshot match |
+| Review priority | high (11) |
+| Manual review flags | category uncertain, type uncertain, matched external ZIP text to verify, web image lead needs screenshot match |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-text-author](../../../tags/has-external-text-author.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md)
 
 ## Source And Files
 
@@ -78,7 +84,15 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://www.microsoft.com/exporting](http://www.microsoft.com/exporting) | files/external/github-com/processexplorernt-0f29eb58.zip | Web page: oldscool_windows_tools |
+| [http://www.winhex.com](http://www.winhex.com) | files/external/github-com/winhex-a9100615.zip | Web page: oldscool_windows_tools |
+| [http://support.microsoft.com/support/kb/articles/Q153/9/73.asp](http://support.microsoft.com/support/kb/articles/Q153/9/73.asp) | files/external/github-com/winhex-a9100615.zip | Web page: oldscool_windows_tools |
+| [http://www.hider.com/sonic/](http://www.hider.com/sonic/) | files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip | AOLUnderground reference source-code tree |
+| [http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=](http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=) | files/external/raw-githubusercontent-com/cracksource-1c16975b.zip | AOLUnderground reference source-code tree |
 
 ## Web Research
 
@@ -94,11 +108,11 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Web page: oldscool_windows_tools | [files/external/github-com/processexplorernt-0f29eb58.zip](../../../../../files/external/github-com/processexplorernt-0f29eb58.zip) | Eula.txt | applicable law | none | none | unknown | [http://www.microsoft.com/exporting](http://www.microsoft.com/exporting) |
+| Web page: oldscool_windows_tools | [files/external/github-com/processexplorernt-0f29eb58.zip](../../../../../files/external/github-com/processexplorernt-0f29eb58.zip) | Eula.txt | none | none | none | unknown | [http://www.microsoft.com/exporting](http://www.microsoft.com/exporting) |
 | Web page: oldscool_windows_tools | [files/external/github-com/winhex-a9100615.zip](../../../../../files/external/github-com/winhex-a9100615.zip) | FILE_ID.DIZ<br>Boot Sector NTFS.txt<br>FAT Directory Entry.txt<br>FAT LFN Entry.txt<br>Master Boot Record.txt<br>Boot Sector FAT.txt | Stefan Fleischmann | none | Punter / booter | description "Boot sector of an NTFS partition"<br>description "Normal/short entry format"<br>description "Long entry format" | [http://www.winhex.com](http://www.winhex.com)<br>[http://support.microsoft.com/support/kb/articles/Q153/9/73.asp](http://support.microsoft.com/support/kb/articles/Q153/9/73.asp) |
-| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip](../../../../../files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip) | AOH/WNOTE.FRM<br>AOH/WELCOME.FRM<br>AOH/WAREZBOT.FRM<br>AOH/WAREZBOT.BAS<br>AOH/WAIT.FRM<br>AOH/VBMSG.BAS | control | AOL 2.5 | All-in-one prog suite<br>Mass mailer / server<br>AOL/AIM chat utility<br>Screen-name utility<br>Media / file utility<br>Idler / AFK bot | usVersion As Integer 'VB version used by control<br>'MsgBox "You must check the Re-Enter box to use the Re-Enter feature."<br>MsgBox "You must be signed on to AOL before you can use this feature!", 16, "Not Signed On!" | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip](../../../../../files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip) | AOH/WNOTE.FRM<br>AOH/WELCOME.FRM<br>AOH/WAREZBOT.FRM<br>AOH/WAREZBOT.BAS<br>AOH/WAIT.FRM<br>AOH/VBMSG.BAS | control | AOL 2.5<br>AOL 25 | All-in-one prog suite<br>Mass mailer / server<br>AOL/AIM chat utility<br>Screen-name utility<br>Media / file utility<br>Idler / AFK bot | usVersion As Integer 'VB version used by control<br>'MsgBox "You must check the Re-Enter box to use the Re-Enter feature."<br>MsgBox "You must be signed on to AOL before you can use this feature!", 16, "Not Signed On!" | unknown |
 | AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/vbforms-68a660aa.zip](../../../../../files/external/raw-githubusercontent-com/vbforms-68a660aa.zip) | linkex~1.zip | none | none | Source / developer file | unknown | unknown |
-| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aol32-fcedeaea.zip](../../../../../files/external/raw-githubusercontent-com/aol32-fcedeaea.zip) | aol_32.bas | another one of my functions | none | Source / developer file<br>AOL/AIM chat utility | unknown | unknown |
+| AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aol32-fcedeaea.zip](../../../../../files/external/raw-githubusercontent-com/aol32-fcedeaea.zip) | aol_32.bas | none | none | Source / developer file<br>AOL/AIM chat utility | unknown | unknown |
 | AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip](../../../../../files/external/raw-githubusercontent-com/aolmacros-13f7bed5.zip) | AolMacros.bas | none | none | All-in-one prog suite<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Media / file utility<br>AOL/AIM chat utility | 'This bas is 100% macros! made for aol<br>'they release a new version. Look on lenshell.com | unknown |
 | AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip](../../../../../files/external/raw-githubusercontent-com/chaos232-776bd2ea.zip) | CHAOS232.bas<br>file_id.diz | my Boy | AOL 3<br>AOL 4<br>AOL 40<br>AOL 4.0 | All-in-one prog suite<br>Fader / text styler<br>C-Com / command list<br>Scroller / macro<br>Mass mailer / server<br>Account / TOS utility | unknown | [http://www.hider.com/sonic/](http://www.hider.com/sonic/) |
 | AOLUnderground reference source-code tree | [files/external/raw-githubusercontent-com/cracksource-1c16975b.zip](../../../../../files/external/raw-githubusercontent-com/cracksource-1c16975b.zip) | frmMain.frm<br>modCracker.bas<br>prjCracker.vbp | none | none | Fader / text styler<br>Account / TOS utility<br>Screen-name utility<br>Source / developer file<br>Media / file utility<br>Mass mailer / server | Private Sub sckCrack_Error(Index As Integer, ByVal Number As Integer, Description As String, ByVal Scode As Long, ByVal Source As String, ByVal HelpFile As String, ByVal HelpContext As Long, CancelDisplay As Boolean) | [http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=](http://webmail.aol.com/rlogin.adp?cmd=slogin&bid=&user=) |

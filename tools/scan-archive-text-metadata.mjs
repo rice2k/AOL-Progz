@@ -29,6 +29,15 @@ function clean(value) {
     .trim();
 }
 
+function stripHtml(value) {
+  return clean(
+    String(value ?? "")
+      .replace(/<script[\s\S]*?<\/script>/gi, " ")
+      .replace(/<style[\s\S]*?<\/style>/gi, " ")
+      .replace(/<[^>]+>/g, " "),
+  );
+}
+
 function slugKey(value) {
   return clean(value)
     .normalize("NFKD")
@@ -58,10 +67,10 @@ function isTextLikeEntry(entry) {
   if (/\.(exe|dll|ocx|vbx|bin|com|scr|pif|bat|cmd|msi|cab|wav|mp3|mid|bmp|gif|jpe?g|png|ico)$/i.test(lower)) {
     return false;
   }
-  if (/(readme|site|url|link|home|web|author|about|install|license|credits?|contact|info|nfo|diz)/.test(lower)) {
+  if (/(readme|read\s*me|site|url|link|home|web|author|about|install|license|credits?|contact|info|nfo|diz|version|history|changes?|faq)/.test(lower)) {
     return true;
   }
-  return /\.(txt|text|nfo|diz|url|ini|cfg|log|md|htm|html|bas|frm|vbp|cls|ctl|pag|asp)$/i.test(lower);
+  return /\.(txt|text|nfo|diz|url|ini|cfg|log|md|rtf|htm|html|bas|frm|vbp|cls|ctl|pag|asp|php|js|css|lst|me)$/i.test(lower);
 }
 
 function extractArchiveEntry(archivePath, entry) {
@@ -97,7 +106,28 @@ function cleanCandidateName(value) {
   if (/@/.test(text) || /\.(com|net|org|edu|html?|zip|exe)\b/i.test(text)) return "";
   if (/^(rar|zip|7z|ace|arj|lzh|exe|dll|ocx|vbx|archive|file)$/i.test(text)) return "";
   if (/[.!?].+\b[A-Z0-9]/.test(text)) return "";
+  const wordCount = text.split(/\s+/).filter(Boolean).length;
+  if (wordCount > 5) return "";
+  if (
+    /\b(?:applicable|law|lamers?|easy\s+way|changing|leaving|entering|removing|doing|going|through|menu|control\s+panel|following|field|hands|room|rooms|people|area|episodes|missed|reflect|original|able|suck|take|will|would|should|could|then|there|this|that|these|those|google)\b/i.test(
+      text,
+    )
+  ) {
+    return "";
+  }
+  if (wordCount > 1 && text === text.toLowerCase() && !/[0-9&+]/.test(text) && !/\b(?:aka|and|n)\b/i.test(text)) {
+    return "";
+  }
   if (/\b(?:unknown|none|n\/a|readme|downloaded|download|install|setup|license|thanks|please|visit|click|program|proggie|aol|authorize|webpage|web\s*page|homepage|if|was|were|about)\b/i.test(text)) {
+    return "";
+  }
+  if (/^(?:default|true|false|null|nothing|warning|error|version|private|public|function|sub|object|value|property|char)$/i.test(text)) {
+    return "";
+  }
+  if (/^(?:calling|pressing|returns?|sets?|used|using|copy|open|close|insert|delete|select|clicking)\b/i.test(text)) {
+    return "";
+  }
+  if (/\b(?:addfilteritem|msgbox|err\.|attribute|vb_description|copyright|reserved|license agreement)\b/i.test(text)) {
     return "";
   }
   if (/^(by|from|author|creator|coded|written|made)$/i.test(text)) return "";
@@ -117,25 +147,34 @@ function extractAuthorCandidates(text, sourceFile) {
   const lines = String(text || "")
     .replace(/\r/g, "\n")
     .split(/\n/)
-    .map((line) => clean(line))
+    .map((line) => stripHtml(line))
     .filter(Boolean)
-    .slice(0, 500);
+    .slice(0, 650);
 
   for (const line of lines) {
-    let match = line.match(/^(?:from|authors?|creators?)\s*:?\s*(.{2,80})$/i);
+    let match = line.match(/^(?:from|authors?|creators?|coder|owner)\s*:?\s*(.{2,80})$/i);
     if (match) addAuthorCandidate(candidates, match[1], sourceFile, match[0].split(":")[0].toLowerCase());
 
     match = line.match(/^(?:created|coded|programmed|written|made|compiled|designed)\s+by\s*:?\s*(.{2,80})$/i);
     if (match) addAuthorCandidate(candidates, match[1], sourceFile, "byline");
 
-    match = line.match(/^(?:code|prog|program|tool|toolz|proggy)\s+by\s*:?\s*(.{2,80})$/i);
+    match = line.match(/\b(?:created|coded|programmed|written|made|compiled|designed)\s+by\s+([a-z0-9][a-z0-9_ .'-]{2,50})(?:\s+(?:with|using|except|and\s+or)\b|[.,;)"']|$)/i);
+    if (match) addAuthorCandidate(candidates, match[1], sourceFile, "inline byline");
+
+    match = line.match(/^(?:code|prog|program|tool|toolz|proggy|archive|zip)\s+by\s*:?\s*(.{2,80})$/i);
     if (match) addAuthorCandidate(candidates, match[1], sourceFile, "program by");
+
+    match = line.match(/^(?:title|versionproductname|versionlegalcopyright|versionfiledescription)\s*=\s*["']?.*?\bby\s+([a-z0-9][a-z0-9_ .'-]{2,50})(?:\s+-|[.,;)"']|$)/i);
+    if (match) addAuthorCandidate(candidates, match[1], sourceFile, "project metadata by");
+
+    match = line.match(/\bby\s+([a-z0-9][a-z0-9_ .'-]{2,50})$/i);
+    if (match) addAuthorCandidate(candidates, match[1], sourceFile, "trailing by");
   }
 
   return candidates;
 }
 
-function extractAolVersions(text) {
+function extractAolAimVersions(text) {
   const versions = new Set();
   const source = String(text || "");
   for (const match of source.matchAll(/\bAOL\s*(?:version\s*)?(?:v(?:er(?:sion)?)?\.?\s*)?(\d+(?:\.\d+)?)(?:\s*(?:-|\/|,|and)\s*(\d+(?:\.\d+)?))?/gi)) {
@@ -145,7 +184,11 @@ function extractAolVersions(text) {
   for (const match of source.matchAll(/\bAmerica\s+Online\s*(\d+(?:\.\d+)?)/gi)) {
     versions.add(`AOL ${match[1]}`);
   }
-  return [...versions].slice(0, 10);
+  for (const match of source.matchAll(/\bAIM\s*(?:version\s*)?(?:v(?:er(?:sion)?)?\.?\s*)?(\d+(?:\.\d+)?)(?:\s*(?:-|\/|,|and)\s*(\d+(?:\.\d+)?))?/gi)) {
+    versions.add(`AIM ${match[1]}`);
+    if (match[2]) versions.add(`AIM ${match[2]}`);
+  }
+  return [...versions].slice(0, 14);
 }
 
 const purposePatterns = [
@@ -174,6 +217,52 @@ function extractPurposeSignals(text) {
   return found;
 }
 
+function extractUrls(text) {
+  const seen = new Set();
+  const urls = [];
+  for (const match of String(text || "").matchAll(/\b(?:https?|ftp):\/\/[^\s<>"')\]]+|(?:^|[\s(])www\.[^\s<>"')\]]+/gi)) {
+    let url = match[0].trim().replace(/^[\s(]+/, "").replace(/[.,;:!?]+$/g, "");
+    if (/^www\./i.test(url)) url = `http://${url}`;
+    try {
+      const parsed = new URL(url);
+      if (!parsed.hostname.includes(".") || parsed.hostname.length < 4) continue;
+    } catch {
+      continue;
+    }
+    const key = url.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    urls.push(url);
+  }
+  return urls.slice(0, 30);
+}
+
+function extractDescriptionCandidates(text, sourceFile) {
+  const lines = String(text || "")
+    .replace(/\r/g, "\n")
+    .split(/\n/)
+    .map((line) => stripHtml(line))
+    .filter((line) => line.length >= 28 && line.length <= 220)
+    .filter((line) => !/^[-=*_#~ ]+$/.test(line))
+    .filter((line) => !/\b(?:serial|registration\s+code|password\s*:|pass\s*:|crack\s+instructions)\b/i.test(line))
+    .slice(0, 800);
+
+  const candidates = [];
+  for (const line of lines) {
+    if (
+      /\b(?:this\s+(?:program|prog|tool|utility)|features?|version|works?\s+(?:with|on)|for\s+(?:aol|aim)|created\s+for|allows?\s+you|used\s+to|description)\b/i.test(
+        line,
+      )
+    ) {
+      const cleaned = clean(line).slice(0, 220);
+      if (cleaned && !candidates.some((item) => item.text.toLowerCase() === cleaned.toLowerCase())) {
+        candidates.push({ sourceFile, text: cleaned });
+      }
+    }
+  }
+  return candidates.slice(0, 8);
+}
+
 function buildNotes(text, sourceFile, authorCandidates, versions, purposeSignals) {
   const notes = [];
   if (authorCandidates.length) {
@@ -192,7 +281,7 @@ function buildNotes(text, sourceFile, authorCandidates, versions, purposeSignals
 
 function choosePreferredAuthor(candidates) {
   if (!candidates.length) return "";
-  const priority = ["author", "creator", "from", "byline", "program by"];
+  const priority = ["author", "creator", "coder", "owner", "from", "byline", "program by", "project metadata by", "trailing by"];
   return [...candidates].sort((a, b) => {
     const aScore = priority.indexOf(a.pattern);
     const bScore = priority.indexOf(b.pattern);
@@ -214,6 +303,8 @@ function scanArchive(program) {
   const authorCandidates = [];
   const purposeSignals = new Set();
   const aolVersionMentions = new Set();
+  const urls = new Set();
+  const descriptionCandidates = [];
   const notes = [];
   const textFiles = [];
 
@@ -223,10 +314,16 @@ function scanArchive(program) {
     textFiles.push(entry);
     const authors = extractAuthorCandidates(text, entry);
     for (const candidate of authors) addAuthorCandidate(authorCandidates, candidate.name, candidate.sourceFile, candidate.pattern);
-    const versions = extractAolVersions(text);
+    const versions = extractAolAimVersions(text);
     for (const version of versions) aolVersionMentions.add(version);
     const signals = extractPurposeSignals(text);
     for (const signal of signals) purposeSignals.add(signal);
+    for (const url of extractUrls(text)) urls.add(url);
+    for (const description of extractDescriptionCandidates(text, entry)) {
+      if (!descriptionCandidates.some((item) => item.text.toLowerCase() === description.text.toLowerCase())) {
+        descriptionCandidates.push(description);
+      }
+    }
     for (const note of buildNotes(text, entry, authors, versions, signals)) {
       if (!notes.includes(note)) notes.push(note);
     }
@@ -242,6 +339,8 @@ function scanArchive(program) {
     preferredAuthor: choosePreferredAuthor(authorCandidates),
     purposeSignals: [...purposeSignals].slice(0, 20),
     aolVersionMentions: [...aolVersionMentions].slice(0, 12),
+    urls: [...urls].slice(0, 30),
+    descriptionCandidates: descriptionCandidates.slice(0, 8),
     notes: notes.slice(0, 16),
   };
 }
@@ -272,6 +371,8 @@ function main() {
     programsWithAuthorCandidates: records.filter((item) => item.authorCandidates?.length).length,
     programsWithPurposeSignals: records.filter((item) => item.purposeSignals?.length).length,
     programsWithAolVersionMentions: records.filter((item) => item.aolVersionMentions?.length).length,
+    programsWithUrls: records.filter((item) => item.urls?.length).length,
+    programsWithDescriptionCandidates: records.filter((item) => item.descriptionCandidates?.length).length,
     perProgram,
   };
 

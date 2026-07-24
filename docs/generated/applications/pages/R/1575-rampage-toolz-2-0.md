@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | rampage2.zip |
 | File size | 3.3 MB |
 | Author | Oogle (Justin Tunney) |
+| Author evidence source | manual old-web/source evidence |
+| Author evidence strength | strong |
+| Author evidence note | Curated correction from old-web/source evidence. |
 | Catalog author | unknown |
 | Manual author evidence | Oogle (Justin Tunney) |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | Oogle (Justin Tunney) |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | All-in-one prog suite, AOL/AIM chat utility, Scroller / macro |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | aciddr0p.netReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| aciddr0p.netReadMe.txt | none | none | none | aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| aciddr0p.netReadMe.txt | none | none | none | none | none | aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Matched External ZIP Text Evidence
 

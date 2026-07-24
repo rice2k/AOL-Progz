@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-17T01:10:11.226Z",
+  "generatedAt": "2026-07-24T02:00:16.487Z",
   "readyDownloadCount": 686,
   "recordCount": 686,
   "scannedCount": 490,
   "withTextFileCount": 294,
-  "withAuthorCount": 103,
-  "withPurposeCount": 236,
+  "withAuthorCount": 89,
+  "withPurposeCount": 238,
   "withVersionCount": 51,
   "withUrlCount": 146,
   "byLocalPath": {
@@ -20,7 +20,7 @@
       "localPath": "files/external/angelfire-com/scriptfish.zip",
       "localSize": 2230760,
       "localSizeLabel": "2.1 MB",
-      "textFileCount": 47,
+      "textFileCount": 78,
       "textFiles": [
         "scRi�tfish/readme.txt",
         "scRi�tfish/versions.txt",
@@ -55,27 +55,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "applying it's own TAB key completion",
-          "sourceFile": "scRi�tfish/versions.txt",
-          "pattern": "from applying it's own tab key completion."
-        },
-        {
-          "name": "attachment to a previous condition of existence",
-          "sourceFile": "scRi�tfish/austnet.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "Necroman",
           "sourceFile": "scRi�tfish/sys/socks1.ini",
           "pattern": "trailing by"
-        },
-        {
-          "name": "popular request",
-          "sourceFile": "scRi�tfish/sys/kicks.txt",
-          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "attachment to a previous condition of existence",
+      "preferredAuthor": "Necroman",
       "purposeSignals": [
         "Mass mailer / server",
         "AOL/AIM chat utility",
@@ -637,14 +622,8 @@
         "new Othello exe/piece.txt",
         "new Othello exe/readme.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "some guy a bunch of years ago",
-          "sourceFile": "new Othello exe/readme.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "some guy a bunch of years ago",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Media / file utility"
       ],
@@ -813,11 +792,6 @@
           "name": "Clint LaFever",
           "sourceFile": "CEXCEL.cls",
           "pattern": "trailing by"
-        },
-        {
-          "name": "is added in column_click",
-          "sourceFile": "frmMain.frm",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "Clint LaFever",
@@ -860,7 +834,7 @@
       "localPath": "files/external/angelfire-com/iviewer.zip",
       "localSize": 117377,
       "localSizeLabel": "115 KB",
-      "textFileCount": 15,
+      "textFileCount": 19,
       "textFiles": [
         "tips.txt",
         "frmFScr.frm",
@@ -876,26 +850,25 @@
         "modMain.bas",
         "vid.vbp",
         "blank.htm",
+        "cdsR.lst",
+        "imu.lst",
+        "iviewer.lst",
+        "songs.lst",
         "bg.htm"
       ],
       "authorCandidates": [
         {
-          "name": "unchecking 'Toolbar' in the View menu",
-          "sourceFile": "tips.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "saying so in the Options menu",
-          "sourceFile": "tips.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "Imran",
           "sourceFile": "modApiCommonDialog.bas",
           "pattern": "trailing by"
+        },
+        {
+          "name": "the pool.mp3",
+          "sourceFile": "cdsR.lst",
+          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "unchecking 'Toolbar' in the View menu",
+      "preferredAuthor": "Imran",
       "purposeSignals": [
         "Fader / text styler",
         "Scroller / macro",
@@ -903,7 +876,8 @@
         "Media / file utility",
         "C-Com / command list",
         "AOL/AIM chat utility",
-        "Mass mailer / server"
+        "Mass mailer / server",
+        "Idler / AFK bot"
       ],
       "versionMentions": [],
       "urls": [
@@ -925,6 +899,14 @@
         {
           "sourceFile": "modApiCommonDialog.bas",
           "text": "BIF_USENEWUI = &H40 'Version 5.0. Use the new user-interface."
+        },
+        {
+          "sourceFile": "songs.lst",
+          "text": "#EXTINF:199,Salsa La Lambada - (version originale)"
+        },
+        {
+          "sourceFile": "songs.lst",
+          "text": "C:\\songs\\Salsa La Lambada - (version originale).mp3"
         }
       ]
     },
@@ -1160,19 +1142,8 @@
         "Readme.txt",
         "TopazHelp.rtf"
       ],
-      "authorCandidates": [
-        {
-          "name": "excessive advertising",
-          "sourceFile": "Readme.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "left to right, the Tool Bar buttons are as follows: par",
-          "sourceFile": "TopazHelp.rtf",
-          "pattern": "from left to right, the tool bar buttons are as follows"
-        }
-      ],
-      "preferredAuthor": "excessive advertising",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Idler / AFK bot",
         "Punter / booter",
@@ -2021,8 +1992,9 @@
       "localPath": "files/external/angelfire-com/mpegdll.zip",
       "localSize": 196010,
       "localSizeLabel": "191 KB",
-      "textFileCount": 1,
+      "textFileCount": 2,
       "textFiles": [
+        "todo.lst",
         "file_id.diz"
       ],
       "authorCandidates": [],
@@ -2058,17 +2030,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "removing the",
-          "sourceFile": "warpedserver/readme.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "marty's",
           "sourceFile": "warpedserver/readme.txt",
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "removing the",
+      "preferredAuthor": "marty's",
       "purposeSignals": [
         "AOL/AIM chat utility",
         "Fader / text styler",
@@ -2180,63 +2147,8 @@
       ],
       "authorCandidates": [
         {
-          "name": "which you could call any other",
-          "sourceFile": "Creating Commercial Web Sites/ccw01wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "allowing it to directly refer to something else",
-          "sourceFile": "Creating Commercial Web Sites/ccw01wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "people as far away as the Netherlands",
-          "sourceFile": "Creating Commercial Web Sites/ccw01wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the time we get to Part II",
-          "sourceFile": "Creating Commercial Web Sites/ccw02wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "a research and development grant",
           "sourceFile": "Creating Commercial Web Sites/ccw02wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the person on the other end of the line",
-          "sourceFile": "Creating Commercial Web Sites/ccw03wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "annual registration fees",
-          "sourceFile": "Creating Commercial Web Sites/ccw03wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "an input prompt",
-          "sourceFile": "Creating Commercial Web Sites/ccw03wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "that name exists",
-          "sourceFile": "Creating Commercial Web Sites/ccw04wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "far the most difficult way to view your hit",
-          "sourceFile": "Creating Commercial Web Sites/ccw05wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "controlling the access",
-          "sourceFile": "Creating Commercial Web Sites/ccw05wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "our staff",
-          "sourceFile": "Creating Commercial Web Sites/ccw05wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -2250,38 +2162,8 @@
           "pattern": "trailing by"
         },
         {
-          "name": "independent testing services",
-          "sourceFile": "Creating Commercial Web Sites/ccw06wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "users as the most secure way to send",
-          "sourceFile": "Creating Commercial Web Sites/ccw06wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "your ISP",
           "sourceFile": "Creating Commercial Web Sites/ccw06wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "far one of the most engaging reasons to use",
-          "sourceFile": "Creating Commercial Web Sites/ccw07wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "putting everything",
-          "sourceFile": "Creating Commercial Web Sites/ccw07wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "or contact person's e-mail address",
-          "sourceFile": "Creating Commercial Web Sites/ccw08wd.htm",
-          "pattern": "author or contact person's e-mail address"
-        },
-        {
-          "name": "getting and keeping your customers' attention",
-          "sourceFile": "Creating Commercial Web Sites/ccw08wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -2290,27 +2172,7 @@
           "pattern": "trailing by"
         },
         {
-          "name": "a different name to",
-          "sourceFile": "Creating Commercial Web Sites/ccw09wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "name",
-          "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the viewer",
-          "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "all others at the same time",
-          "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "non-frames compatible browsers",
           "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
           "pattern": "trailing by"
         },
@@ -2330,93 +2192,13 @@
           "pattern": "trailing by"
         },
         {
-          "name": "assessing and sketching out our goal",
-          "sourceFile": "Creating Commercial Web Sites/ccw11wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the user is called the value",
-          "sourceFile": "Creating Commercial Web Sites/ccw11wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "now you should",
-          "sourceFile": "Creating Commercial Web Sites/ccw11wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "another page-width graphic will look",
-          "sourceFile": "Creating Commercial Web Sites/ccw12wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "Your Database and onto the Web",
-          "sourceFile": "Creating Commercial Web Sites/ccw13wd.htm",
-          "pattern": "from your database and onto the web"
-        },
-        {
           "name": "cash",
           "sourceFile": "Creating Commercial Web Sites/ccw16wd.htm",
           "pattern": "inline byline"
         },
         {
-          "name": "its use",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "many companies",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "inline byline"
-        },
-        {
-          "name": "simply opening a graphic",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "sales hype",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "this philosophy and you'll be just fine",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "Incontext WebAnalyzer",
           "sourceFile": "Creating Commercial Web Sites/ccw19wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "a chapter dealing",
-          "sourceFile": "Creating Commercial Web Sites/ccw19wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "such an application",
-          "sourceFile": "Creating Commercial Web Sites/ccw20wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "including as many keywords as possible",
-          "sourceFile": "Creating Commercial Web Sites/ccw21wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the browser",
-          "sourceFile": "Creating Commercial Web Sites/ccw22wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "even a",
-          "sourceFile": "Creating Commercial Web Sites/ccw22wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "accessing your raw access logs",
-          "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -2430,23 +2212,8 @@
           "pattern": "trailing by"
         },
         {
-          "name": "server configuration",
-          "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "a CGI error message from the script itself",
-          "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "reviewing and compiling server statistics",
           "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "each page on the system",
-          "sourceFile": "Creating Commercial Web Sites/ccw25wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -2460,47 +2227,17 @@
           "pattern": "trailing by"
         },
         {
-          "name": "making others look bad",
-          "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "whom",
           "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
           "pattern": "trailing by"
         },
         {
-          "name": "their unprofessional work reflect on all of us",
-          "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
-          "pattern": "from their unprofessional work reflect on all of us."
-        },
-        {
           "name": "December 8",
           "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
           "pattern": "trailing by"
-        },
-        {
-          "name": "the company's top brass",
-          "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the object for public use",
-          "sourceFile": "Creating Commercial Web Sites/ccwxh.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "those who want to keep it",
-          "sourceFile": "Creating Commercial Web Sites/ccwxj.htm",
-          "pattern": "inline byline"
-        },
-        {
-          "name": "means of storing all the data it can to a temporary",
-          "sourceFile": "Creating Commercial Web Sites/ccwxj.htm",
-          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "which you could call any other",
+      "preferredAuthor": "a research and development grant",
       "purposeSignals": [
         "All-in-one prog suite",
         "Fader / text styler",
@@ -3113,21 +2850,6 @@
           "name": "2005",
           "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
           "pattern": "trailing by"
-        },
-        {
-          "name": "sending out a simple email",
-          "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the top Internet Pros and eCommerce leaders",
-          "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "asking one simple question",
-          "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "2005",
@@ -3525,14 +3247,8 @@
         "stealthmail.htm",
         "license.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "Amecisco shall be covered by this Agreement",
-          "sourceFile": "license.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "Amecisco shall be covered by this Agreement",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Mass mailer / server"
       ],
@@ -4072,11 +3788,6 @@
           "pattern": "inline byline"
         },
         {
-          "name": "putting the NODPMI switch into your",
-          "sourceFile": "README",
-          "pattern": "trailing by"
-        },
-        {
           "name": "the Borland DOS",
           "sourceFile": "README",
           "pattern": "trailing by"
@@ -4351,11 +4062,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "leaving this field",
-          "sourceFile": "formmail/README",
-          "pattern": "trailing by"
-        },
-        {
           "name": "commas",
           "sourceFile": "formmail/README",
           "pattern": "trailing by"
@@ -4366,7 +4072,7 @@
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "leaving this field",
+      "preferredAuthor": "commas",
       "purposeSignals": [
         "Idler / AFK bot",
         "C-Com / command list",
@@ -4430,7 +4136,7 @@
       "localPath": "files/external/angelfire-com/vbulletin-201.zip",
       "localSize": 514866,
       "localSizeLabel": "503 KB",
-      "textFileCount": 47,
+      "textFileCount": 74,
       "textFiles": [
         "upload/announcement.php",
         "upload/attachment.php",
@@ -4478,11 +4184,6 @@
           "name": "calendar_events",
           "sourceFile": "upload/calendar.php",
           "pattern": "from calendar_events"
-        },
-        {
-          "name": "calendar_events, user",
-          "sourceFile": "upload/calendar.php",
-          "pattern": "from calendar_events, user"
         },
         {
           "name": "moderator",
@@ -4550,29 +4251,14 @@
           "pattern": "from user,userfield"
         },
         {
-          "name": "sending these messages",
-          "sourceFile": "upload/private2.php",
-          "pattern": "trailing by"
-        },
-        {
           "name": "threadrate",
           "sourceFile": "upload/threadrate.php",
           "pattern": "from threadrate"
         },
         {
-          "name": "here, you can back up your vBulletin database",
-          "sourceFile": "upload/admin/backup.php",
-          "pattern": "from here, you can back up your vbulletin database."
-        },
-        {
           "name": "template",
           "sourceFile": "upload/admin/functions.php",
           "pattern": "from template"
-        },
-        {
-          "name": "userid int(10) unsigned DEFAULT '0' NOT NULL,",
-          "sourceFile": "upload/admin/install.php",
-          "pattern": "fromuserid int(10) unsigned default '0' not null,"
         },
         {
           "name": "post,thread",
@@ -4588,6 +4274,36 @@
           "name": "profilefield",
           "sourceFile": "upload/admin/profilefield.php",
           "pattern": "from profilefield"
+        },
+        {
+          "name": "avatar\");",
+          "sourceFile": "upload/admin/user.php",
+          "pattern": "from avatar\");"
+        },
+        {
+          "name": "title",
+          "sourceFile": "upload/admin/user.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "usergroup",
+          "sourceFile": "upload/admin/usergroup.php",
+          "pattern": "from usergroup"
+        },
+        {
+          "name": "usergroup.usergroupid",
+          "sourceFile": "upload/admin/usergroup.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "Jelsoft Enterprises Limited",
+          "sourceFile": "upload/admin/index.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "attachment,post,thread",
+          "sourceFile": "upload/mod/moderate.php",
+          "pattern": "from attachment,post,thread"
         }
       ],
       "preferredAuthor": "startdate DESC",
@@ -4617,7 +4333,19 @@
         "http://www.ftc.gov/opa/1999/9910/childfinal.htm",
         "http://www.php.net/manual/function.date.php3\\",
         "http://www.php.net/manual/function.date.php3",
-        "http://www.spellchecker.net/\\"
+        "http://www.spellchecker.net/\\",
+        "http://msdn.microsoft.com/workshop/samples/author/dhtml/refs/scrollbarcolor.htm",
+        "http://vbulletin.com/forum/showthread.php?s=&postid=106506#post106506",
+        "http://www.w3.org/TR/REC-html40/loose.dtd\\",
+        "http://www.vbulletin.com/forum/showthread.php?s=&threadid=16287",
+        "http://www.\\",
+        "http://www.vbulletin.com/",
+        "http://www.jelsoft.com/",
+        "http://www.vbulletin.com/forum/",
+        "http://www.vbulletin.com/manual/",
+        "http://www.php.net/",
+        "http://www.mysql.com/",
+        "http://www.nrg.be"
       ],
       "descriptionCandidates": [
         {
@@ -4858,22 +4586,7 @@
       ],
       "authorCandidates": [
         {
-          "name": "raising the sound",
-          "sourceFile": "FAQ.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "lowering the sound buffer frequency to a smaller",
-          "sourceFile": "FAQ.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "one",
-          "sourceFile": "readme.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "enlarging each pixel",
           "sourceFile": "readme.htm",
           "pattern": "trailing by"
         },
@@ -4974,77 +4687,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "'s reputation will not be affected by problems that might be",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "author's reputation will not be affected by problems that might be"
-        },
-        {
-          "name": "problems that might be",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "others",
           "sourceFile": "Chat/license.txt",
           "pattern": "trailing by"
         },
         {
-          "name": "obtaining a",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "the",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "limiting the free library to free",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "this function must",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "offering access to copy",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "inline byline"
-        },
-        {
-          "name": "being compiled or",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "law",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "third parties",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the two goals of preserving the free status",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW OR AGREED TO IN",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "YOU OR THIRD PARTIES OR A",
           "sourceFile": "Chat/license.txt",
           "pattern": "trailing by"
         },
@@ -5064,7 +4712,7 @@
           "pattern": "inline byline"
         }
       ],
-      "preferredAuthor": "problems that might be",
+      "preferredAuthor": "others",
       "purposeSignals": [
         "Fader / text styler",
         "AOL/AIM chat utility",
@@ -5322,14 +4970,8 @@
         "tfc/maps/yoink.txt",
         "tfc/maps/yoinkreadme.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "the room above and will suck anyone in the area in",
-          "sourceFile": "tfc/maps/yoinkreadme.txt",
-          "pattern": "from the room above and will suck anyone in the area in."
-        }
-      ],
-      "preferredAuthor": "the room above and will suck anyone in the area in",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite",
         "AOL/AIM chat utility"
@@ -5564,16 +5206,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "others will not reflect on the original",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "' reputations",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "authors' reputations."
-        },
-        {
           "name": "software",
           "sourceFile": "vlist/Legal-ramble.txt",
           "pattern": "trailing by"
@@ -5584,27 +5216,7 @@
           "pattern": "inline byline"
         },
         {
-          "name": "third parties to",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "the Free",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the two goals",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW OR AGREED TO IN WRITING",
           "sourceFile": "vlist/Legal-ramble.txt",
           "pattern": "trailing by"
         },
@@ -5619,7 +5231,7 @@
           "pattern": "inline byline"
         }
       ],
-      "preferredAuthor": "others will not reflect on the original",
+      "preferredAuthor": "software",
       "purposeSignals": [
         "Idler / AFK bot",
         "C-Com / command list",
@@ -5682,7 +5294,7 @@
       "localPath": "files/external/angelfire-com/vb.zip",
       "localSize": 899893,
       "localSizeLabel": "879 KB",
-      "textFileCount": 44,
+      "textFileCount": 75,
       "textFiles": [
         "admin/adminfunctions.php",
         "admin/announcement.php",
@@ -5717,29 +5329,14 @@
       ],
       "authorCandidates": [
         {
-          "name": "here, you can back up your vBulletin database",
-          "sourceFile": "admin/backup.php",
-          "pattern": "from here, you can back up your vbulletin database."
-        },
-        {
           "name": "Jelsoft Enterprises Limited",
           "sourceFile": "admin/index.php",
           "pattern": "trailing by"
         },
         {
-          "name": "here, you can control all aspects of your vBulletin forums",
-          "sourceFile": "admin/index.php",
-          "pattern": "from here, you can control all aspects of your vbulletin forums."
-        },
-        {
           "name": "user",
           "sourceFile": "admin/user.php",
           "pattern": "from user"
-        },
-        {
-          "name": "this user will be set to guest",
-          "sourceFile": "admin/user.php",
-          "pattern": "inline byline"
         },
         {
           "name": "avatar\");",
@@ -5772,11 +5369,6 @@
           "pattern": "from thread"
         },
         {
-          "name": "userid int(10) unsigned DEFAULT '0' NOT NULL,",
-          "sourceFile": "admin/upgrade1.php",
-          "pattern": "fromuserid int(10) unsigned default '0' not null,"
-        },
-        {
           "name": "usergroup",
           "sourceFile": "admin/usergroup.php",
           "pattern": "from usergroup"
@@ -5794,6 +5386,101 @@
         {
           "name": "username",
           "sourceFile": "admin/adminlog.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "attachment,post,thread",
+          "sourceFile": "mod/moderate.php",
+          "pattern": "from attachment,post,thread"
+        },
+        {
+          "name": "announcement",
+          "sourceFile": "announcement.php",
+          "pattern": "from announcement"
+        },
+        {
+          "name": "thread,post",
+          "sourceFile": "attachment.php",
+          "pattern": "from thread,post"
+        },
+        {
+          "name": "calendar_events",
+          "sourceFile": "calendar.php",
+          "pattern": "from calendar_events"
+        },
+        {
+          "name": "moderator",
+          "sourceFile": "forumdisplay.php",
+          "pattern": "from moderator"
+        },
+        {
+          "name": "startdate DESC",
+          "sourceFile": "forumdisplay.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "session",
+          "sourceFile": "index.php",
+          "pattern": "from session"
+        },
+        {
+          "name": "thread,subscribethread",
+          "sourceFile": "member2.php",
+          "pattern": "from thread,subscribethread"
+        },
+        {
+          "name": "lastpost DESC",
+          "sourceFile": "member2.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "user,userfield",
+          "sourceFile": "memberlist.php",
+          "pattern": "from user,userfield"
+        },
+        {
+          "name": "post LEFT JOIN user",
+          "sourceFile": "misc.php",
+          "pattern": "from post left join user using(userid)"
+        },
+        {
+          "name": "userid ORDER BY posts DESC",
+          "sourceFile": "misc.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "post",
+          "sourceFile": "newreply.php",
+          "pattern": "from post"
+        },
+        {
+          "name": "dateline",
+          "sourceFile": "newreply.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "subscribethread,user",
+          "sourceFile": "newreply.php",
+          "pattern": "from subscribethread,user"
+        },
+        {
+          "name": "user.username",
+          "sourceFile": "online.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "forum",
+          "sourceFile": "online.php",
+          "pattern": "from forum"
+        },
+        {
+          "name": "privatemessage",
+          "sourceFile": "private.php",
+          "pattern": "from privatemessage"
+        },
+        {
+          "name": "sender",
+          "sourceFile": "private.php",
           "pattern": "trailing by"
         }
       ],
@@ -5970,16 +5657,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "the emulator",
-          "sourceFile": "Welcome to VisualBoyAdvance version 1.doc",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "not allowing",
-          "sourceFile": "Welcome to VisualBoyAdvance version 1.doc",
-          "pattern": "trailing by"
-        },
-        {
           "name": "executing",
           "sourceFile": "Welcome to VisualBoyAdvance version 1.doc",
           "pattern": "trailing by"
@@ -5990,7 +5667,7 @@
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "the emulator",
+      "preferredAuthor": "executing",
       "purposeSignals": [
         "All-in-one prog suite",
         "Source / developer file",
@@ -8889,7 +8566,7 @@
       "localPath": "files/external/lenshellarchive-com/audioassault-c4199924.zip",
       "localSize": 5561439,
       "localSizeLabel": "5.3 MB",
-      "textFileCount": 47,
+      "textFileCount": 79,
       "textFiles": [
         "audio-assault/!read me!.txt",
         "audio-assault/aa skin/aa skin.ini",
@@ -9098,14 +8775,8 @@
       "textFiles": [
         "Eula.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "applicable law",
-          "sourceFile": "Eula.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "applicable law",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [
@@ -9162,11 +8833,6 @@
           "name": "Stefan Fleischmann",
           "sourceFile": "FILE_ID.DIZ",
           "pattern": "author"
-        },
-        {
-          "name": "this template",
-          "sourceFile": "POS File Format.txt",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "Stefan Fleischmann",
@@ -10360,24 +10026,30 @@
       "localPath": "files/external/lenshellarchive-com/blunted-9e007e76.zip",
       "localSize": 765204,
       "localSizeLabel": "747 KB",
-      "textFileCount": 16,
+      "textFileCount": 22,
       "textFiles": [
         "arrows.ini",
         "arrows2.ini",
+        "autox.Lst",
         "Blunted.ini",
         "default.ini",
         "default2.ini",
         "default3.ini",
+        "fprs.Lst",
         "ghost.ini",
         "ghost1.ini",
         "ghost3.ini",
         "hail.ini",
+        "imm.Lst",
         "lutes mom.ini",
+        "presets.lst",
+        "pxer.Lst",
         "sook.ini",
         "static.ini",
         "static2.ini",
         "taffy.ini",
-        "ultima.ini"
+        "ultima.ini",
+        "xp.Lst"
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
@@ -11017,7 +10689,7 @@
       "localPath": "files/external/lenshellarchive-com/comillusionb2-902f8936.zip",
       "localSize": 215201,
       "localSizeLabel": "210 KB",
-      "textFileCount": 48,
+      "textFileCount": 80,
       "textFiles": [
         "ci fades/alpha.ini",
         "ci fades/alpha2.ini",
@@ -11052,7 +10724,12 @@
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
-      "purposeSignals": [],
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Fader / text styler",
+        "AOL/AIM chat utility",
+        "Scroller / macro"
+      ],
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
@@ -11411,13 +11088,16 @@
       "localPath": "files/external/lenshellarchive-com/destroyer-c37f31fa.zip",
       "localSize": 1306043,
       "localSizeLabel": "1.2 MB",
-      "textFileCount": 1,
+      "textFileCount": 2,
       "textFiles": [
+        "SETUP.LST",
         "READ ME!!!!!!!!!.tx_"
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
       "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
         "Media / file utility",
         "AOL/AIM chat utility"
       ],
@@ -11440,14 +11120,8 @@
       "textFiles": [
         "Chat Commands.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "Google",
-          "sourceFile": "Chat Commands.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "Google",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite",
         "Fader / text styler",
@@ -12538,14 +12212,17 @@
       "localPath": "files/external/archive-org/aol20-b81863db.zip",
       "localSize": 1345420,
       "localSizeLabel": "1.3 MB",
-      "textFileCount": 2,
+      "textFileCount": 3,
       "textFiles": [
         "Disk1/INFOTEL.MD_",
-        "Disk1/PROHOME.MD_"
+        "Disk1/PROHOME.MD_",
+        "Disk1/SETUP.LST"
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
-      "purposeSignals": [],
+      "purposeSignals": [
+        "Source / developer file"
+      ],
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
@@ -13094,7 +12771,7 @@
       "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
       "localSize": 751737,
       "localSizeLabel": "734 KB",
-      "textFileCount": 48,
+      "textFileCount": 72,
       "textFiles": [
         "rampage-frm1.frm",
         "Rampage Toolz.vbp",
@@ -13137,6 +12814,11 @@
           "name": "Oogle - A.w.s.f",
           "sourceFile": "Rampage Toolz.vbp",
           "pattern": "project metadata by"
+        },
+        {
+          "name": "me or A.w.s.f",
+          "sourceFile": "rampage-frmprogdevelop.frm",
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "Oogle",
@@ -13157,7 +12839,9 @@
       ],
       "versionMentions": [
         "AOL 4.0",
-        "AOL 5.0"
+        "AOL 5.0",
+        "AOL 3.0",
+        "AOL 40"
       ],
       "urls": [
         "http://www.oogle.net",
@@ -13200,6 +12884,10 @@
         {
           "sourceFile": "rampage-frmAbout.frm",
           "text": "' Validate Existance Of Known 32 Bit File Version"
+        },
+        {
+          "sourceFile": "rampage-frmfaq.frm",
+          "text": "Text1.Text = \"A fader is a program that makes text gradually change color. A Phader is the same thing. Don't forget that a fader is equipped in this prog too :)\""
         }
       ]
     },
@@ -13214,7 +12902,7 @@
       "localPath": "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip",
       "localSize": 365436,
       "localSizeLabel": "357 KB",
-      "textFileCount": 48,
+      "textFileCount": 80,
       "textFiles": [
         "AOH/WNOTE.FRM",
         "AOH/WELCOME.FRM",
@@ -13266,10 +12954,12 @@
         "Account / TOS utility",
         "Scroller / macro",
         "Room buster",
-        "Punter / booter"
+        "Punter / booter",
+        "C-Com / command list"
       ],
       "versionMentions": [
-        "AOL 2.5"
+        "AOL 2.5",
+        "AOL 25"
       ],
       "urls": [],
       "descriptionCandidates": [
@@ -13379,14 +13069,8 @@
       "textFiles": [
         "aol_32.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "another one of my functions",
-          "sourceFile": "aol_32.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "another one of my functions",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Source / developer file",
         "AOL/AIM chat utility"
@@ -13533,14 +13217,8 @@
       "textFiles": [
         "Eula.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "applicable law",
-          "sourceFile": "Eula.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "applicable law",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite"
       ],
@@ -13816,22 +13494,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "another one of my functions",
-          "sourceFile": "AOL_16.BAS",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "looking for a",
-          "sourceFile": "AOL_16.BAS",
-          "pattern": "trailing by"
-        },
-        {
           "name": "ePoD for",
           "sourceFile": "MASTER1.BAS",
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "another one of my functions",
+      "preferredAuthor": "ePoD for",
       "purposeSignals": [
         "Fader / text styler",
         "C-Com / command list",
@@ -14365,14 +14033,8 @@
         "arc3.bas",
         "arc5.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "me because i didn't like them that much",
-          "sourceFile": "arc5.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "me because i didn't like them that much",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Fader / text styler",
         "Source / developer file",
@@ -14805,11 +14467,6 @@
         },
         {
           "name": "monk-e-god",
-          "sourceFile": "Creep.bas",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "monk-e-god for use in a RichTextBox",
           "sourceFile": "Creep.bas",
           "pattern": "trailing by"
         }
@@ -15533,14 +15190,8 @@
       "textFiles": [
         "jaguar.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "another one of my functions",
-          "sourceFile": "jaguar.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "another one of my functions",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Fader / text styler",
         "Idler / AFK bot",
@@ -15576,11 +15227,12 @@
       "localPath": "files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip",
       "localSize": 611696,
       "localSizeLabel": "597 KB",
-      "textFileCount": 21,
+      "textFileCount": 23,
       "textFiles": [
         "Lazy Ass.ini",
         "Form1.frm",
         "Form9.frm",
+        "commands.lst",
         "Form2.frm",
         "afk.frm",
         "Form3.frm",
@@ -15597,6 +15249,7 @@
         "afk.log",
         "Copy of afk.frm",
         "data/lazyini/Lazy Ass.ini",
+        "data/commands.lst",
         "data/Lazy Ass.ini",
         "FORM7.log"
       ],
@@ -15795,11 +15448,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "color or by Red Green and Blue",
-          "sourceFile": "MonkEFade3.bas",
-          "pattern": "trailing by"
-        },
-        {
           "name": "aDRaMoLEk",
           "sourceFile": "MonkEFade3.bas",
           "pattern": "trailing by"
@@ -15808,14 +15456,9 @@
           "name": "monk-e-god",
           "sourceFile": "MonkEFade3.bas",
           "pattern": "trailing by"
-        },
-        {
-          "name": "monk-e-god for use in a RichTextBox",
-          "sourceFile": "MonkEFade3.bas",
-          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "color or by Red Green and Blue",
+      "preferredAuthor": "aDRaMoLEk",
       "purposeSignals": [
         "Fader / text styler",
         "Scroller / macro",
@@ -16125,19 +15768,8 @@
       "textFiles": [
         "paranoid.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "another one of my functions",
-          "sourceFile": "paranoid.bas",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "looking for a",
-          "sourceFile": "paranoid.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "another one of my functions",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Scroller / macro",
         "Account / TOS utility",
@@ -16456,14 +16088,8 @@
         "Tutorial.vbp",
         "ReadMe.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "its title",
-          "sourceFile": "fAol.frm",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "its title",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite",
         "Fader / text styler",
@@ -16848,7 +16474,7 @@
       "localPath": "files/external/angelfire-com/scriptfish.zip",
       "localSize": 2230760,
       "localSizeLabel": "2.1 MB",
-      "textFileCount": 47,
+      "textFileCount": 78,
       "textFiles": [
         "scRi�tfish/readme.txt",
         "scRi�tfish/versions.txt",
@@ -16883,27 +16509,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "applying it's own TAB key completion",
-          "sourceFile": "scRi�tfish/versions.txt",
-          "pattern": "from applying it's own tab key completion."
-        },
-        {
-          "name": "attachment to a previous condition of existence",
-          "sourceFile": "scRi�tfish/austnet.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "Necroman",
           "sourceFile": "scRi�tfish/sys/socks1.ini",
           "pattern": "trailing by"
-        },
-        {
-          "name": "popular request",
-          "sourceFile": "scRi�tfish/sys/kicks.txt",
-          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "attachment to a previous condition of existence",
+      "preferredAuthor": "Necroman",
       "purposeSignals": [
         "Mass mailer / server",
         "AOL/AIM chat utility",
@@ -17465,14 +17076,8 @@
         "new Othello exe/piece.txt",
         "new Othello exe/readme.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "some guy a bunch of years ago",
-          "sourceFile": "new Othello exe/readme.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "some guy a bunch of years ago",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Media / file utility"
       ],
@@ -17641,11 +17246,6 @@
           "name": "Clint LaFever",
           "sourceFile": "CEXCEL.cls",
           "pattern": "trailing by"
-        },
-        {
-          "name": "is added in column_click",
-          "sourceFile": "frmMain.frm",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "Clint LaFever",
@@ -17688,7 +17288,7 @@
       "localPath": "files/external/angelfire-com/iviewer.zip",
       "localSize": 117377,
       "localSizeLabel": "115 KB",
-      "textFileCount": 15,
+      "textFileCount": 19,
       "textFiles": [
         "tips.txt",
         "frmFScr.frm",
@@ -17704,26 +17304,25 @@
         "modMain.bas",
         "vid.vbp",
         "blank.htm",
+        "cdsR.lst",
+        "imu.lst",
+        "iviewer.lst",
+        "songs.lst",
         "bg.htm"
       ],
       "authorCandidates": [
         {
-          "name": "unchecking 'Toolbar' in the View menu",
-          "sourceFile": "tips.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "saying so in the Options menu",
-          "sourceFile": "tips.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "Imran",
           "sourceFile": "modApiCommonDialog.bas",
           "pattern": "trailing by"
+        },
+        {
+          "name": "the pool.mp3",
+          "sourceFile": "cdsR.lst",
+          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "unchecking 'Toolbar' in the View menu",
+      "preferredAuthor": "Imran",
       "purposeSignals": [
         "Fader / text styler",
         "Scroller / macro",
@@ -17731,7 +17330,8 @@
         "Media / file utility",
         "C-Com / command list",
         "AOL/AIM chat utility",
-        "Mass mailer / server"
+        "Mass mailer / server",
+        "Idler / AFK bot"
       ],
       "versionMentions": [],
       "urls": [
@@ -17753,6 +17353,14 @@
         {
           "sourceFile": "modApiCommonDialog.bas",
           "text": "BIF_USENEWUI = &H40 'Version 5.0. Use the new user-interface."
+        },
+        {
+          "sourceFile": "songs.lst",
+          "text": "#EXTINF:199,Salsa La Lambada - (version originale)"
+        },
+        {
+          "sourceFile": "songs.lst",
+          "text": "C:\\songs\\Salsa La Lambada - (version originale).mp3"
         }
       ]
     },
@@ -17988,19 +17596,8 @@
         "Readme.txt",
         "TopazHelp.rtf"
       ],
-      "authorCandidates": [
-        {
-          "name": "excessive advertising",
-          "sourceFile": "Readme.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "left to right, the Tool Bar buttons are as follows: par",
-          "sourceFile": "TopazHelp.rtf",
-          "pattern": "from left to right, the tool bar buttons are as follows"
-        }
-      ],
-      "preferredAuthor": "excessive advertising",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Idler / AFK bot",
         "Punter / booter",
@@ -18849,8 +18446,9 @@
       "localPath": "files/external/angelfire-com/mpegdll.zip",
       "localSize": 196010,
       "localSizeLabel": "191 KB",
-      "textFileCount": 1,
+      "textFileCount": 2,
       "textFiles": [
+        "todo.lst",
         "file_id.diz"
       ],
       "authorCandidates": [],
@@ -18886,17 +18484,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "removing the",
-          "sourceFile": "warpedserver/readme.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "marty's",
           "sourceFile": "warpedserver/readme.txt",
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "removing the",
+      "preferredAuthor": "marty's",
       "purposeSignals": [
         "AOL/AIM chat utility",
         "Fader / text styler",
@@ -19008,63 +18601,8 @@
       ],
       "authorCandidates": [
         {
-          "name": "which you could call any other",
-          "sourceFile": "Creating Commercial Web Sites/ccw01wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "allowing it to directly refer to something else",
-          "sourceFile": "Creating Commercial Web Sites/ccw01wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "people as far away as the Netherlands",
-          "sourceFile": "Creating Commercial Web Sites/ccw01wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the time we get to Part II",
-          "sourceFile": "Creating Commercial Web Sites/ccw02wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "a research and development grant",
           "sourceFile": "Creating Commercial Web Sites/ccw02wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the person on the other end of the line",
-          "sourceFile": "Creating Commercial Web Sites/ccw03wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "annual registration fees",
-          "sourceFile": "Creating Commercial Web Sites/ccw03wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "an input prompt",
-          "sourceFile": "Creating Commercial Web Sites/ccw03wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "that name exists",
-          "sourceFile": "Creating Commercial Web Sites/ccw04wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "far the most difficult way to view your hit",
-          "sourceFile": "Creating Commercial Web Sites/ccw05wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "controlling the access",
-          "sourceFile": "Creating Commercial Web Sites/ccw05wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "our staff",
-          "sourceFile": "Creating Commercial Web Sites/ccw05wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -19078,38 +18616,8 @@
           "pattern": "trailing by"
         },
         {
-          "name": "independent testing services",
-          "sourceFile": "Creating Commercial Web Sites/ccw06wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "users as the most secure way to send",
-          "sourceFile": "Creating Commercial Web Sites/ccw06wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "your ISP",
           "sourceFile": "Creating Commercial Web Sites/ccw06wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "far one of the most engaging reasons to use",
-          "sourceFile": "Creating Commercial Web Sites/ccw07wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "putting everything",
-          "sourceFile": "Creating Commercial Web Sites/ccw07wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "or contact person's e-mail address",
-          "sourceFile": "Creating Commercial Web Sites/ccw08wd.htm",
-          "pattern": "author or contact person's e-mail address"
-        },
-        {
-          "name": "getting and keeping your customers' attention",
-          "sourceFile": "Creating Commercial Web Sites/ccw08wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -19118,27 +18626,7 @@
           "pattern": "trailing by"
         },
         {
-          "name": "a different name to",
-          "sourceFile": "Creating Commercial Web Sites/ccw09wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "name",
-          "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the viewer",
-          "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "all others at the same time",
-          "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "non-frames compatible browsers",
           "sourceFile": "Creating Commercial Web Sites/ccw10wd.htm",
           "pattern": "trailing by"
         },
@@ -19158,93 +18646,13 @@
           "pattern": "trailing by"
         },
         {
-          "name": "assessing and sketching out our goal",
-          "sourceFile": "Creating Commercial Web Sites/ccw11wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the user is called the value",
-          "sourceFile": "Creating Commercial Web Sites/ccw11wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "now you should",
-          "sourceFile": "Creating Commercial Web Sites/ccw11wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "another page-width graphic will look",
-          "sourceFile": "Creating Commercial Web Sites/ccw12wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "Your Database and onto the Web",
-          "sourceFile": "Creating Commercial Web Sites/ccw13wd.htm",
-          "pattern": "from your database and onto the web"
-        },
-        {
           "name": "cash",
           "sourceFile": "Creating Commercial Web Sites/ccw16wd.htm",
           "pattern": "inline byline"
         },
         {
-          "name": "its use",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "many companies",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "inline byline"
-        },
-        {
-          "name": "simply opening a graphic",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "sales hype",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "this philosophy and you'll be just fine",
-          "sourceFile": "Creating Commercial Web Sites/ccw18wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "Incontext WebAnalyzer",
           "sourceFile": "Creating Commercial Web Sites/ccw19wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "a chapter dealing",
-          "sourceFile": "Creating Commercial Web Sites/ccw19wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "such an application",
-          "sourceFile": "Creating Commercial Web Sites/ccw20wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "including as many keywords as possible",
-          "sourceFile": "Creating Commercial Web Sites/ccw21wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the browser",
-          "sourceFile": "Creating Commercial Web Sites/ccw22wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "even a",
-          "sourceFile": "Creating Commercial Web Sites/ccw22wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "accessing your raw access logs",
-          "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -19258,23 +18666,8 @@
           "pattern": "trailing by"
         },
         {
-          "name": "server configuration",
-          "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "a CGI error message from the script itself",
-          "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "reviewing and compiling server statistics",
           "sourceFile": "Creating Commercial Web Sites/ccw24wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "each page on the system",
-          "sourceFile": "Creating Commercial Web Sites/ccw25wd.htm",
           "pattern": "trailing by"
         },
         {
@@ -19288,47 +18681,17 @@
           "pattern": "trailing by"
         },
         {
-          "name": "making others look bad",
-          "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "whom",
           "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
           "pattern": "trailing by"
         },
         {
-          "name": "their unprofessional work reflect on all of us",
-          "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
-          "pattern": "from their unprofessional work reflect on all of us."
-        },
-        {
           "name": "December 8",
           "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
           "pattern": "trailing by"
-        },
-        {
-          "name": "the company's top brass",
-          "sourceFile": "Creating Commercial Web Sites/ccw27wd.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the object for public use",
-          "sourceFile": "Creating Commercial Web Sites/ccwxh.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "those who want to keep it",
-          "sourceFile": "Creating Commercial Web Sites/ccwxj.htm",
-          "pattern": "inline byline"
-        },
-        {
-          "name": "means of storing all the data it can to a temporary",
-          "sourceFile": "Creating Commercial Web Sites/ccwxj.htm",
-          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "which you could call any other",
+      "preferredAuthor": "a research and development grant",
       "purposeSignals": [
         "All-in-one prog suite",
         "Fader / text styler",
@@ -19941,21 +19304,6 @@
           "name": "2005",
           "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
           "pattern": "trailing by"
-        },
-        {
-          "name": "sending out a simple email",
-          "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the top Internet Pros and eCommerce leaders",
-          "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "asking one simple question",
-          "sourceFile": "ProfitJump.com/Million Dollar Emails/index.html",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "2005",
@@ -20353,14 +19701,8 @@
         "stealthmail.htm",
         "license.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "Amecisco shall be covered by this Agreement",
-          "sourceFile": "license.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "Amecisco shall be covered by this Agreement",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Mass mailer / server"
       ],
@@ -20900,11 +20242,6 @@
           "pattern": "inline byline"
         },
         {
-          "name": "putting the NODPMI switch into your",
-          "sourceFile": "README",
-          "pattern": "trailing by"
-        },
-        {
           "name": "the Borland DOS",
           "sourceFile": "README",
           "pattern": "trailing by"
@@ -21179,11 +20516,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "leaving this field",
-          "sourceFile": "formmail/README",
-          "pattern": "trailing by"
-        },
-        {
           "name": "commas",
           "sourceFile": "formmail/README",
           "pattern": "trailing by"
@@ -21194,7 +20526,7 @@
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "leaving this field",
+      "preferredAuthor": "commas",
       "purposeSignals": [
         "Idler / AFK bot",
         "C-Com / command list",
@@ -21258,7 +20590,7 @@
       "localPath": "files/external/angelfire-com/vbulletin-201.zip",
       "localSize": 514866,
       "localSizeLabel": "503 KB",
-      "textFileCount": 47,
+      "textFileCount": 74,
       "textFiles": [
         "upload/announcement.php",
         "upload/attachment.php",
@@ -21306,11 +20638,6 @@
           "name": "calendar_events",
           "sourceFile": "upload/calendar.php",
           "pattern": "from calendar_events"
-        },
-        {
-          "name": "calendar_events, user",
-          "sourceFile": "upload/calendar.php",
-          "pattern": "from calendar_events, user"
         },
         {
           "name": "moderator",
@@ -21378,29 +20705,14 @@
           "pattern": "from user,userfield"
         },
         {
-          "name": "sending these messages",
-          "sourceFile": "upload/private2.php",
-          "pattern": "trailing by"
-        },
-        {
           "name": "threadrate",
           "sourceFile": "upload/threadrate.php",
           "pattern": "from threadrate"
         },
         {
-          "name": "here, you can back up your vBulletin database",
-          "sourceFile": "upload/admin/backup.php",
-          "pattern": "from here, you can back up your vbulletin database."
-        },
-        {
           "name": "template",
           "sourceFile": "upload/admin/functions.php",
           "pattern": "from template"
-        },
-        {
-          "name": "userid int(10) unsigned DEFAULT '0' NOT NULL,",
-          "sourceFile": "upload/admin/install.php",
-          "pattern": "fromuserid int(10) unsigned default '0' not null,"
         },
         {
           "name": "post,thread",
@@ -21416,6 +20728,36 @@
           "name": "profilefield",
           "sourceFile": "upload/admin/profilefield.php",
           "pattern": "from profilefield"
+        },
+        {
+          "name": "avatar\");",
+          "sourceFile": "upload/admin/user.php",
+          "pattern": "from avatar\");"
+        },
+        {
+          "name": "title",
+          "sourceFile": "upload/admin/user.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "usergroup",
+          "sourceFile": "upload/admin/usergroup.php",
+          "pattern": "from usergroup"
+        },
+        {
+          "name": "usergroup.usergroupid",
+          "sourceFile": "upload/admin/usergroup.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "Jelsoft Enterprises Limited",
+          "sourceFile": "upload/admin/index.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "attachment,post,thread",
+          "sourceFile": "upload/mod/moderate.php",
+          "pattern": "from attachment,post,thread"
         }
       ],
       "preferredAuthor": "startdate DESC",
@@ -21445,7 +20787,19 @@
         "http://www.ftc.gov/opa/1999/9910/childfinal.htm",
         "http://www.php.net/manual/function.date.php3\\",
         "http://www.php.net/manual/function.date.php3",
-        "http://www.spellchecker.net/\\"
+        "http://www.spellchecker.net/\\",
+        "http://msdn.microsoft.com/workshop/samples/author/dhtml/refs/scrollbarcolor.htm",
+        "http://vbulletin.com/forum/showthread.php?s=&postid=106506#post106506",
+        "http://www.w3.org/TR/REC-html40/loose.dtd\\",
+        "http://www.vbulletin.com/forum/showthread.php?s=&threadid=16287",
+        "http://www.\\",
+        "http://www.vbulletin.com/",
+        "http://www.jelsoft.com/",
+        "http://www.vbulletin.com/forum/",
+        "http://www.vbulletin.com/manual/",
+        "http://www.php.net/",
+        "http://www.mysql.com/",
+        "http://www.nrg.be"
       ],
       "descriptionCandidates": [
         {
@@ -21686,22 +21040,7 @@
       ],
       "authorCandidates": [
         {
-          "name": "raising the sound",
-          "sourceFile": "FAQ.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "lowering the sound buffer frequency to a smaller",
-          "sourceFile": "FAQ.htm",
-          "pattern": "trailing by"
-        },
-        {
           "name": "one",
-          "sourceFile": "readme.htm",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "enlarging each pixel",
           "sourceFile": "readme.htm",
           "pattern": "trailing by"
         },
@@ -21802,77 +21141,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "'s reputation will not be affected by problems that might be",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "author's reputation will not be affected by problems that might be"
-        },
-        {
-          "name": "problems that might be",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "others",
           "sourceFile": "Chat/license.txt",
           "pattern": "trailing by"
         },
         {
-          "name": "obtaining a",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "the",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "limiting the free library to free",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "this function must",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "offering access to copy",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "inline byline"
-        },
-        {
-          "name": "being compiled or",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "law",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "third parties",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the two goals of preserving the free status",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW OR AGREED TO IN",
-          "sourceFile": "Chat/license.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "YOU OR THIRD PARTIES OR A",
           "sourceFile": "Chat/license.txt",
           "pattern": "trailing by"
         },
@@ -21892,7 +21166,7 @@
           "pattern": "inline byline"
         }
       ],
-      "preferredAuthor": "problems that might be",
+      "preferredAuthor": "others",
       "purposeSignals": [
         "Fader / text styler",
         "AOL/AIM chat utility",
@@ -22150,14 +21424,8 @@
         "tfc/maps/yoink.txt",
         "tfc/maps/yoinkreadme.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "the room above and will suck anyone in the area in",
-          "sourceFile": "tfc/maps/yoinkreadme.txt",
-          "pattern": "from the room above and will suck anyone in the area in."
-        }
-      ],
-      "preferredAuthor": "the room above and will suck anyone in the area in",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite",
         "AOL/AIM chat utility"
@@ -22392,16 +21660,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "others will not reflect on the original",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "' reputations",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "authors' reputations."
-        },
-        {
           "name": "software",
           "sourceFile": "vlist/Legal-ramble.txt",
           "pattern": "trailing by"
@@ -22412,27 +21670,7 @@
           "pattern": "inline byline"
         },
         {
-          "name": "third parties to",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
           "name": "the Free",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "the two goals",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW",
-          "sourceFile": "vlist/Legal-ramble.txt",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "APPLICABLE LAW OR AGREED TO IN WRITING",
           "sourceFile": "vlist/Legal-ramble.txt",
           "pattern": "trailing by"
         },
@@ -22447,7 +21685,7 @@
           "pattern": "inline byline"
         }
       ],
-      "preferredAuthor": "others will not reflect on the original",
+      "preferredAuthor": "software",
       "purposeSignals": [
         "Idler / AFK bot",
         "C-Com / command list",
@@ -22510,7 +21748,7 @@
       "localPath": "files/external/angelfire-com/vb.zip",
       "localSize": 899893,
       "localSizeLabel": "879 KB",
-      "textFileCount": 44,
+      "textFileCount": 75,
       "textFiles": [
         "admin/adminfunctions.php",
         "admin/announcement.php",
@@ -22545,29 +21783,14 @@
       ],
       "authorCandidates": [
         {
-          "name": "here, you can back up your vBulletin database",
-          "sourceFile": "admin/backup.php",
-          "pattern": "from here, you can back up your vbulletin database."
-        },
-        {
           "name": "Jelsoft Enterprises Limited",
           "sourceFile": "admin/index.php",
           "pattern": "trailing by"
         },
         {
-          "name": "here, you can control all aspects of your vBulletin forums",
-          "sourceFile": "admin/index.php",
-          "pattern": "from here, you can control all aspects of your vbulletin forums."
-        },
-        {
           "name": "user",
           "sourceFile": "admin/user.php",
           "pattern": "from user"
-        },
-        {
-          "name": "this user will be set to guest",
-          "sourceFile": "admin/user.php",
-          "pattern": "inline byline"
         },
         {
           "name": "avatar\");",
@@ -22600,11 +21823,6 @@
           "pattern": "from thread"
         },
         {
-          "name": "userid int(10) unsigned DEFAULT '0' NOT NULL,",
-          "sourceFile": "admin/upgrade1.php",
-          "pattern": "fromuserid int(10) unsigned default '0' not null,"
-        },
-        {
           "name": "usergroup",
           "sourceFile": "admin/usergroup.php",
           "pattern": "from usergroup"
@@ -22622,6 +21840,101 @@
         {
           "name": "username",
           "sourceFile": "admin/adminlog.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "attachment,post,thread",
+          "sourceFile": "mod/moderate.php",
+          "pattern": "from attachment,post,thread"
+        },
+        {
+          "name": "announcement",
+          "sourceFile": "announcement.php",
+          "pattern": "from announcement"
+        },
+        {
+          "name": "thread,post",
+          "sourceFile": "attachment.php",
+          "pattern": "from thread,post"
+        },
+        {
+          "name": "calendar_events",
+          "sourceFile": "calendar.php",
+          "pattern": "from calendar_events"
+        },
+        {
+          "name": "moderator",
+          "sourceFile": "forumdisplay.php",
+          "pattern": "from moderator"
+        },
+        {
+          "name": "startdate DESC",
+          "sourceFile": "forumdisplay.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "session",
+          "sourceFile": "index.php",
+          "pattern": "from session"
+        },
+        {
+          "name": "thread,subscribethread",
+          "sourceFile": "member2.php",
+          "pattern": "from thread,subscribethread"
+        },
+        {
+          "name": "lastpost DESC",
+          "sourceFile": "member2.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "user,userfield",
+          "sourceFile": "memberlist.php",
+          "pattern": "from user,userfield"
+        },
+        {
+          "name": "post LEFT JOIN user",
+          "sourceFile": "misc.php",
+          "pattern": "from post left join user using(userid)"
+        },
+        {
+          "name": "userid ORDER BY posts DESC",
+          "sourceFile": "misc.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "post",
+          "sourceFile": "newreply.php",
+          "pattern": "from post"
+        },
+        {
+          "name": "dateline",
+          "sourceFile": "newreply.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "subscribethread,user",
+          "sourceFile": "newreply.php",
+          "pattern": "from subscribethread,user"
+        },
+        {
+          "name": "user.username",
+          "sourceFile": "online.php",
+          "pattern": "trailing by"
+        },
+        {
+          "name": "forum",
+          "sourceFile": "online.php",
+          "pattern": "from forum"
+        },
+        {
+          "name": "privatemessage",
+          "sourceFile": "private.php",
+          "pattern": "from privatemessage"
+        },
+        {
+          "name": "sender",
+          "sourceFile": "private.php",
           "pattern": "trailing by"
         }
       ],
@@ -22798,16 +22111,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "the emulator",
-          "sourceFile": "Welcome to VisualBoyAdvance version 1.doc",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "not allowing",
-          "sourceFile": "Welcome to VisualBoyAdvance version 1.doc",
-          "pattern": "trailing by"
-        },
-        {
           "name": "executing",
           "sourceFile": "Welcome to VisualBoyAdvance version 1.doc",
           "pattern": "trailing by"
@@ -22818,7 +22121,7 @@
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "the emulator",
+      "preferredAuthor": "executing",
       "purposeSignals": [
         "All-in-one prog suite",
         "Source / developer file",
@@ -26649,7 +25952,7 @@
       "localPath": "files/external/lenshellarchive-com/audioassault-c4199924.zip",
       "localSize": 5561439,
       "localSizeLabel": "5.3 MB",
-      "textFileCount": 47,
+      "textFileCount": 79,
       "textFiles": [
         "audio-assault/!read me!.txt",
         "audio-assault/aa skin/aa skin.ini",
@@ -26858,14 +26161,8 @@
       "textFiles": [
         "Eula.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "applicable law",
-          "sourceFile": "Eula.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "applicable law",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [
@@ -26922,11 +26219,6 @@
           "name": "Stefan Fleischmann",
           "sourceFile": "FILE_ID.DIZ",
           "pattern": "author"
-        },
-        {
-          "name": "this template",
-          "sourceFile": "POS File Format.txt",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "Stefan Fleischmann",
@@ -27158,14 +26450,8 @@
       "textFiles": [
         "Eula.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "applicable law",
-          "sourceFile": "Eula.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "applicable law",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [
@@ -27188,14 +26474,8 @@
       "textFiles": [
         "Eula.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "applicable law",
-          "sourceFile": "Eula.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "applicable law",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [],
       "versionMentions": [],
       "urls": [
@@ -27274,11 +26554,6 @@
           "name": "Stefan Fleischmann",
           "sourceFile": "FILE_ID.DIZ",
           "pattern": "author"
-        },
-        {
-          "name": "this template",
-          "sourceFile": "POS File Format.txt",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "Stefan Fleischmann",
@@ -27352,11 +26627,6 @@
           "name": "Stefan Fleischmann",
           "sourceFile": "FILE_ID.DIZ",
           "pattern": "author"
-        },
-        {
-          "name": "this template",
-          "sourceFile": "POS File Format.txt",
-          "pattern": "trailing by"
         }
       ],
       "preferredAuthor": "Stefan Fleischmann",
@@ -28490,24 +27760,30 @@
       "localPath": "files/external/lenshellarchive-com/blunted-9e007e76.zip",
       "localSize": 765204,
       "localSizeLabel": "747 KB",
-      "textFileCount": 16,
+      "textFileCount": 22,
       "textFiles": [
         "arrows.ini",
         "arrows2.ini",
+        "autox.Lst",
         "Blunted.ini",
         "default.ini",
         "default2.ini",
         "default3.ini",
+        "fprs.Lst",
         "ghost.ini",
         "ghost1.ini",
         "ghost3.ini",
         "hail.ini",
+        "imm.Lst",
         "lutes mom.ini",
+        "presets.lst",
+        "pxer.Lst",
         "sook.ini",
         "static.ini",
         "static2.ini",
         "taffy.ini",
-        "ultima.ini"
+        "ultima.ini",
+        "xp.Lst"
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
@@ -29147,7 +28423,7 @@
       "localPath": "files/external/lenshellarchive-com/comillusionb2-902f8936.zip",
       "localSize": 215201,
       "localSizeLabel": "210 KB",
-      "textFileCount": 48,
+      "textFileCount": 80,
       "textFiles": [
         "ci fades/alpha.ini",
         "ci fades/alpha2.ini",
@@ -29182,7 +28458,12 @@
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
-      "purposeSignals": [],
+      "purposeSignals": [
+        "Account / TOS utility",
+        "Fader / text styler",
+        "AOL/AIM chat utility",
+        "Scroller / macro"
+      ],
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
@@ -29541,13 +28822,16 @@
       "localPath": "files/external/lenshellarchive-com/destroyer-c37f31fa.zip",
       "localSize": 1306043,
       "localSizeLabel": "1.2 MB",
-      "textFileCount": 1,
+      "textFileCount": 2,
       "textFiles": [
+        "SETUP.LST",
         "READ ME!!!!!!!!!.tx_"
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
       "purposeSignals": [
+        "C-Com / command list",
+        "Source / developer file",
         "Media / file utility",
         "AOL/AIM chat utility"
       ],
@@ -29570,14 +28854,8 @@
       "textFiles": [
         "Chat Commands.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "Google",
-          "sourceFile": "Chat Commands.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "Google",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite",
         "Fader / text styler",
@@ -30668,14 +29946,17 @@
       "localPath": "files/external/archive-org/aol20-b81863db.zip",
       "localSize": 1345420,
       "localSizeLabel": "1.3 MB",
-      "textFileCount": 2,
+      "textFileCount": 3,
       "textFiles": [
         "Disk1/INFOTEL.MD_",
-        "Disk1/PROHOME.MD_"
+        "Disk1/PROHOME.MD_",
+        "Disk1/SETUP.LST"
       ],
       "authorCandidates": [],
       "preferredAuthor": "",
-      "purposeSignals": [],
+      "purposeSignals": [
+        "Source / developer file"
+      ],
       "versionMentions": [],
       "urls": [],
       "descriptionCandidates": []
@@ -31224,7 +30505,7 @@
       "localPath": "files/external/raw-githubusercontent-com/rt1-src-a1387b49.zip",
       "localSize": 751737,
       "localSizeLabel": "734 KB",
-      "textFileCount": 48,
+      "textFileCount": 72,
       "textFiles": [
         "rampage-frm1.frm",
         "Rampage Toolz.vbp",
@@ -31267,6 +30548,11 @@
           "name": "Oogle - A.w.s.f",
           "sourceFile": "Rampage Toolz.vbp",
           "pattern": "project metadata by"
+        },
+        {
+          "name": "me or A.w.s.f",
+          "sourceFile": "rampage-frmprogdevelop.frm",
+          "pattern": "inline byline"
         }
       ],
       "preferredAuthor": "Oogle",
@@ -31287,7 +30573,9 @@
       ],
       "versionMentions": [
         "AOL 4.0",
-        "AOL 5.0"
+        "AOL 5.0",
+        "AOL 3.0",
+        "AOL 40"
       ],
       "urls": [
         "http://www.oogle.net",
@@ -31330,6 +30618,10 @@
         {
           "sourceFile": "rampage-frmAbout.frm",
           "text": "' Validate Existance Of Known 32 Bit File Version"
+        },
+        {
+          "sourceFile": "rampage-frmfaq.frm",
+          "text": "Text1.Text = \"A fader is a program that makes text gradually change color. A Phader is the same thing. Don't forget that a fader is equipped in this prog too :)\""
         }
       ]
     },
@@ -31344,7 +30636,7 @@
       "localPath": "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip",
       "localSize": 365436,
       "localSizeLabel": "357 KB",
-      "textFileCount": 48,
+      "textFileCount": 80,
       "textFiles": [
         "AOH/WNOTE.FRM",
         "AOH/WELCOME.FRM",
@@ -31396,10 +30688,12 @@
         "Account / TOS utility",
         "Scroller / macro",
         "Room buster",
-        "Punter / booter"
+        "Punter / booter",
+        "C-Com / command list"
       ],
       "versionMentions": [
-        "AOL 2.5"
+        "AOL 2.5",
+        "AOL 25"
       ],
       "urls": [],
       "descriptionCandidates": [
@@ -31509,14 +30803,8 @@
       "textFiles": [
         "aol_32.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "another one of my functions",
-          "sourceFile": "aol_32.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "another one of my functions",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Source / developer file",
         "AOL/AIM chat utility"
@@ -31663,14 +30951,8 @@
       "textFiles": [
         "Eula.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "applicable law",
-          "sourceFile": "Eula.txt",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "applicable law",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite"
       ],
@@ -31946,22 +31228,12 @@
       ],
       "authorCandidates": [
         {
-          "name": "another one of my functions",
-          "sourceFile": "AOL_16.BAS",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "looking for a",
-          "sourceFile": "AOL_16.BAS",
-          "pattern": "trailing by"
-        },
-        {
           "name": "ePoD for",
           "sourceFile": "MASTER1.BAS",
           "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "another one of my functions",
+      "preferredAuthor": "ePoD for",
       "purposeSignals": [
         "Fader / text styler",
         "C-Com / command list",
@@ -32468,7 +31740,7 @@
       "localPath": "files/external/raw-githubusercontent-com/aohell95-source-code-21a5d709.zip",
       "localSize": 365436,
       "localSizeLabel": "357 KB",
-      "textFileCount": 48,
+      "textFileCount": 80,
       "textFiles": [
         "AOH/WNOTE.FRM",
         "AOH/WELCOME.FRM",
@@ -32520,10 +31792,12 @@
         "Account / TOS utility",
         "Scroller / macro",
         "Room buster",
-        "Punter / booter"
+        "Punter / booter",
+        "C-Com / command list"
       ],
       "versionMentions": [
-        "AOL 2.5"
+        "AOL 2.5",
+        "AOL 25"
       ],
       "urls": [],
       "descriptionCandidates": [
@@ -32657,14 +31931,8 @@
         "arc3.bas",
         "arc5.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "me because i didn't like them that much",
-          "sourceFile": "arc5.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "me because i didn't like them that much",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Fader / text styler",
         "Source / developer file",
@@ -33144,11 +32412,6 @@
         },
         {
           "name": "monk-e-god",
-          "sourceFile": "Creep.bas",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "monk-e-god for use in a RichTextBox",
           "sourceFile": "Creep.bas",
           "pattern": "trailing by"
         }
@@ -33872,14 +33135,8 @@
       "textFiles": [
         "jaguar.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "another one of my functions",
-          "sourceFile": "jaguar.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "another one of my functions",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Fader / text styler",
         "Idler / AFK bot",
@@ -33915,11 +33172,12 @@
       "localPath": "files/external/raw-githubusercontent-com/lazyass-f7e61d23.zip",
       "localSize": 611696,
       "localSizeLabel": "597 KB",
-      "textFileCount": 21,
+      "textFileCount": 23,
       "textFiles": [
         "Lazy Ass.ini",
         "Form1.frm",
         "Form9.frm",
+        "commands.lst",
         "Form2.frm",
         "afk.frm",
         "Form3.frm",
@@ -33936,6 +33194,7 @@
         "afk.log",
         "Copy of afk.frm",
         "data/lazyini/Lazy Ass.ini",
+        "data/commands.lst",
         "data/Lazy Ass.ini",
         "FORM7.log"
       ],
@@ -34134,11 +33393,6 @@
       ],
       "authorCandidates": [
         {
-          "name": "color or by Red Green and Blue",
-          "sourceFile": "MonkEFade3.bas",
-          "pattern": "trailing by"
-        },
-        {
           "name": "aDRaMoLEk",
           "sourceFile": "MonkEFade3.bas",
           "pattern": "trailing by"
@@ -34147,14 +33401,9 @@
           "name": "monk-e-god",
           "sourceFile": "MonkEFade3.bas",
           "pattern": "trailing by"
-        },
-        {
-          "name": "monk-e-god for use in a RichTextBox",
-          "sourceFile": "MonkEFade3.bas",
-          "pattern": "trailing by"
         }
       ],
-      "preferredAuthor": "color or by Red Green and Blue",
+      "preferredAuthor": "aDRaMoLEk",
       "purposeSignals": [
         "Fader / text styler",
         "Scroller / macro",
@@ -34464,19 +33713,8 @@
       "textFiles": [
         "paranoid.bas"
       ],
-      "authorCandidates": [
-        {
-          "name": "another one of my functions",
-          "sourceFile": "paranoid.bas",
-          "pattern": "trailing by"
-        },
-        {
-          "name": "looking for a",
-          "sourceFile": "paranoid.bas",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "another one of my functions",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "Scroller / macro",
         "Account / TOS utility",
@@ -34795,14 +34033,8 @@
         "Tutorial.vbp",
         "ReadMe.txt"
       ],
-      "authorCandidates": [
-        {
-          "name": "its title",
-          "sourceFile": "fAol.frm",
-          "pattern": "trailing by"
-        }
-      ],
-      "preferredAuthor": "its title",
+      "authorCandidates": [],
+      "preferredAuthor": "",
       "purposeSignals": [
         "All-in-one prog suite",
         "Fader / text styler",

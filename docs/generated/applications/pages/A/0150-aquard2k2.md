@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | aquard2k2.zip |
 | File size | 318 KB |
 | Author | GonGy (James Farmer); catalog listed FON |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | FON |
 | Manual author evidence | unknown |
 | Archive-text author | GonGy (James Farmer) |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | Catalog listed FON; evidence prefers GonGy (James Farmer). |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Fader / text styler |
+| Archive-text description clues | As of now though, we own the rights and fully for this program.<br>You agree that FON productions has every right to delete this program |
+| Archive-text URL clues | [http://www.jameslair.cjb.net](http://www.jameslair.cjb.net)<br>[http://www.aquardfader.cjb.net](http://www.aquardfader.cjb.net)<br>[http://www.bloodsoul2002.cjb.net](http://www.bloodsoul2002.cjb.net) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me.txt<br>more info.txt |
 | Matched external ZIP text evidence | 0 |
@@ -94,9 +100,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read Me.txt<br>more info.txt | GonGy (James Farmer) (more info.txt) | Fader / text styler | none | more info.txt includes archive-text author clue(s): GonGy (James Farmer).<br>more info.txt has vocabulary for Fader / text styler. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read Me.txt<br>more info.txt | GonGy (James Farmer) (more info.txt) | Fader / text styler | none | As of now though, we own the rights and fully for this program.<br>You agree that FON productions has every right to delete this program | [http://www.jameslair.cjb.net](http://www.jameslair.cjb.net)<br>[http://www.aquardfader.cjb.net](http://www.aquardfader.cjb.net)<br>[http://www.bloodsoul2002.cjb.net](http://www.bloodsoul2002.cjb.net) | more info.txt includes archive-text author clue(s): GonGy (James Farmer).<br>more info.txt has vocabulary for Fader / text styler. |
 
 ### Matched External ZIP Text Evidence
 

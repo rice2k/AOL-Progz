@@ -17,22 +17,28 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | ByrdToolz v4.5 |
 | Archive filename | byrd.zip |
 | File size | 1.8 MB |
-| Author | Sid |
+| Author | Sid (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | Sid |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0 |
+| AOL/version bucket | AOL 4.0; archive text: AIM 4.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | unknown |
-| Archive-text AOL/version mentions | unknown |
+| Archive-text AOL/version mentions | AIM 4.0 |
 | External ZIP text version mentions | unknown |
 | Prog type | Source / developer file |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Punter / booter, AOL/AIM chat utility |
+| Archive-text description clues | MZ ÿÿ ¸ @  º ´ Í!¸ LÍ!This program cannot be run in DOS mode. $ PE L òí 9 à  |
+| Archive-text URL clues | [http://www.andymaul.com](http://www.andymaul.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Punter.html<br>PUNTER!!!!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -48,7 +54,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | readme/archive text |
-| AOL/version confidence | catalog bucket |
+| AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
 | Review priority | medium (4) |
 | Manual review flags | category uncertain |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#password-metadata](../../../tags/password-metadata.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -70,7 +76,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
-
+Readable archive text also mentions: **AIM 4.0**.
 
 ## Screenshots
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Punter.html<br>PUNTER!!!!.txt | none | Source / developer file<br>Punter / booter<br>AOL/AIM chat utility | none | Punter.html has vocabulary for Source / developer file.<br>PUNTER!!!!.txt has vocabulary for Punter / booter, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Punter.html<br>PUNTER!!!!.txt | none | Source / developer file<br>Punter / booter<br>AOL/AIM chat utility | AIM 4.0 | MZ ÿÿ ¸ @  º ´ Í!¸ LÍ!This program cannot be run in DOS mode. $ PE L òí 9 à  | [http://www.andymaul.com](http://www.andymaul.com) | Punter.html has vocabulary for Source / developer file.<br>PUNTER!!!!.txt mentions AIM 4.0.<br>PUNTER!!!!.txt has vocabulary for Punter / booter, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

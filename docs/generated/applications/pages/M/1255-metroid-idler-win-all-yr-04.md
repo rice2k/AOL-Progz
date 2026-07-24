@@ -17,10 +17,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog label | Metroid Idler |
 | Archive filename | metroid idler for aol 7.0-9.0 winALL yr04.zip |
 | File size | 1.5 MB |
-| Author | ZIP |
+| Author | ZIP (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | ZIP |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | IDLE READ_ME.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb6](../../../tags/vb6.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -87,9 +93,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| IDLE READ_ME.txt | none | none | AOL 7<br>AOL 9 | IDLE READ_ME.txt mentions AOL 7, AOL 9. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| IDLE READ_ME.txt | none | none | AOL 7<br>AOL 9 | none | none | IDLE READ_ME.txt mentions AOL 7, AOL 9. |
 
 ### Matched External ZIP Text Evidence
 

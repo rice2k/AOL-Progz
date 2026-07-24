@@ -18,9 +18,13 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive filename | hackers toolz 1.0 for aol 7.0 and 8.0.zip |
 | File size | 3.5 MB |
 | Author | Jordan; catalog listed Oogle |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | Oogle |
 | Manual author evidence | unknown |
 | Archive-text author | Jordan |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | Catalog listed Oogle; evidence prefers Jordan. |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Source / developer file, AOL/AIM chat utility |
+| Archive-text description clues | Let me just say, this prog is an Aol7 and Aol8 Prog. All the options are for Aol7, the Aol8 features can be |
+| Archive-text URL clues | [http://www.geocities.com/jordansvb](http://www.geocities.com/jordansvb) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| ReadMe.txt | Jordan (ReadMe.txt) | All-in-one prog suite<br>Source / developer file<br>AOL/AIM chat utility | AOL 7<br>AOL 8<br>AOL 8.0<br>AOL 6.0 | ReadMe.txt includes archive-text author clue(s): Jordan.<br>ReadMe.txt mentions AOL 7, AOL 8, AOL 8.0, AOL 6.0.<br>ReadMe.txt has vocabulary for All-in-one prog suite, Source / developer file, AOL/AIM chat utility.<br>ReadMe.txt references API Spy by Oogle as supporting tooling; that is not treated as the program author by itself. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| ReadMe.txt | Jordan (ReadMe.txt) | All-in-one prog suite<br>Source / developer file<br>AOL/AIM chat utility | AOL 7<br>AOL 8<br>AOL 8.0<br>AOL 6.0 | Let me just say, this prog is an Aol7 and Aol8 Prog. All the options are for Aol7, the Aol8 features can be | [http://www.geocities.com/jordansvb](http://www.geocities.com/jordansvb) | ReadMe.txt includes archive-text author clue(s): Jordan.<br>ReadMe.txt mentions AOL 7, AOL 8, AOL 8.0, AOL 6.0.<br>ReadMe.txt has vocabulary for All-in-one prog suite, Source / developer file, AOL/AIM chat utility.<br>ReadMe.txt references API Spy by Oogle as supporting tooling; that is not treated as the program author by itself. |
 
 ### Matched External ZIP Text Evidence
 

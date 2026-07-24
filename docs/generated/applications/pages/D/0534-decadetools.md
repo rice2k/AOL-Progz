@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | decadetools.zip |
 | File size | 18 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AIM |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Mass mailer / server, Source / developer file, AOL/AIM chat utility |
+| Archive-text description clues | prog to have working options for AOL/AIM and yahoo it has nearly 1000 options if you have any |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | INFO.txt |
 | Matched external ZIP text evidence | 0 |
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| INFO.txt | none | Mass mailer / server<br>Source / developer file<br>AOL/AIM chat utility | none | INFO.txt has vocabulary for Mass mailer / server, Source / developer file, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| INFO.txt | none | Mass mailer / server<br>Source / developer file<br>AOL/AIM chat utility | none | prog to have working options for AOL/AIM and yahoo it has nearly 1000 options if you have any | none | INFO.txt has vocabulary for Mass mailer / server, Source / developer file, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

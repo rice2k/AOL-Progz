@@ -18,21 +18,27 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Archive filename | dragon toolz 1.8 for aol 6.0.zip |
 | File size | 4.6 MB |
 | Author | ize |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | ize |
 | Manual author evidence | unknown |
 | Archive-text author | ize |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
-| AOL/version bucket | AOL 4.0; inferred: AOL 6.0 |
+| AOL/version bucket | AOL 4.0; inferred: AOL 6.0; archive text: AIM 2.0 |
 | Catalog AOL/version bucket | AOL 4.0 |
 | Inferred AOL version | AOL 6.0 |
-| Archive-text AOL/version mentions | unknown |
+| Archive-text AOL/version mentions | AIM 2.0 |
 | External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | all-in-one prog |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, C-Com / command list, Source / developer file, Scroller / macro, Account / TOS utility, Fader / text styler, Punter / booter, Mass mailer / server, AOL/AIM chat utility, Media / file utility |
+| Archive-text description clues | make a program but doesnt know where to start the source code for this program is on sale at<br>program goto about and you get all features<br>Ying's elite version: yingizdabomb!!! |
+| Archive-text URL clues | [http://www.dragontoolz.cjb.net](http://www.dragontoolz.cjb.net)<br>[http://www.jsiinc.com](http://www.jsiinc.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Dragon Toolz ReadME.txt<br>Brute Forcer.txt<br>Passwords.txt<br>WordList.txt |
 | Matched external ZIP text evidence | 0 |
@@ -48,7 +54,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 | Web image leads | 0 |
 | Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
-| AOL/version confidence | filename/source inferred |
+| AOL/version confidence | readme/archive text |
 | Source confidence | local + old-web lead |
 | Review priority | none (0) |
 | Manual review flags | none |
@@ -56,7 +62,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 
 ## Tags
 
-[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
+[#all-in-one-prog](../../../tags/all-in-one-prog.md) [#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#vb6](../../../tags/vb6.md)
 
 ## Source And Files
 
@@ -69,7 +75,7 @@ A bundled AOL-era utility suite. These often mixed chat tools, idlers, faders, l
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 4.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
-
+Readable archive text also mentions: **AIM 2.0**.
 
 ## Screenshots
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Dragon Toolz ReadME.txt<br>Brute Forcer.txt<br>Passwords.txt<br>WordList.txt | ize (WordList.txt) | All-in-one prog suite<br>C-Com / command list<br>Source / developer file<br>Scroller / macro<br>Account / TOS utility<br>Fader / text styler<br>Punter / booter<br>Mass mailer / server<br>AOL/AIM chat utility<br>Media / file utility | none | Dragon Toolz ReadME.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file.<br>Brute Forcer.txt has vocabulary for All-in-one prog suite, C-Com / command list, Scroller / macro, Account / TOS utility.<br>Passwords.txt has vocabulary for All-in-one prog suite, Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility.<br>WordList.txt includes archive-text author clue(s): ize.<br>WordList.txt has vocabulary for All-in-one prog suite, Punter / booter, Scroller / macro, Mass mailer / server, Account / TOS utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Dragon Toolz ReadME.txt<br>Brute Forcer.txt<br>Passwords.txt<br>WordList.txt | ize (WordList.txt) | All-in-one prog suite<br>C-Com / command list<br>Source / developer file<br>Scroller / macro<br>Account / TOS utility<br>Fader / text styler<br>Punter / booter<br>Mass mailer / server<br>AOL/AIM chat utility<br>Media / file utility | AIM 2.0 | make a program but doesnt know where to start the source code for this program is on sale at<br>program goto about and you get all features<br>Ying's elite version: yingizdabomb!!! | [http://www.dragontoolz.cjb.net](http://www.dragontoolz.cjb.net)<br>[http://www.jsiinc.com](http://www.jsiinc.com) | Dragon Toolz ReadME.txt has vocabulary for All-in-one prog suite, C-Com / command list, Source / developer file.<br>Brute Forcer.txt has vocabulary for All-in-one prog suite, C-Com / command list, Scroller / macro, Account / TOS utility.<br>Passwords.txt mentions AIM 2.0.<br>Passwords.txt has vocabulary for All-in-one prog suite, Fader / text styler, Punter / booter, Mass mailer / server, Account / TOS utility.<br>WordList.txt includes archive-text author clue(s): ize.<br>WordList.txt has vocabulary for All-in-one prog suite, Punter / booter, Scroller / macro, Mass mailer / server, Account / TOS utility. |
 
 ### Matched External ZIP Text Evidence
 

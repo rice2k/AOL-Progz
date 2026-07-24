@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | GOLD |
 | Archive filename | golden.zip |
 | File size | 1.3 MB |
-| Author | unknown |
+| Author | software |
+| Author evidence source | matched external ZIP text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from readable text inside a recovered external mirror matched to this catalog entry. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | software, Jelsoft Enterprises Limited |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | Idler / AFK bot, C-Com / command list, Account / TOS utility, Source / developer file, Scroller / macro, Fader / text styler, Mass mailer / server, Media / file utility, AOL/AIM chat utility |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 2 |
@@ -46,17 +52,17 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched mirror leads | 12 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | unknown |
+| Author confidence | matched external ZIP text |
 | Category confidence | external ZIP text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (12) |
-| Manual review flags | category uncertain, type uncertain, author unknown, matched external ZIP text to verify |
+| Review priority | high (9) |
+| Manual review flags | category uncertain, type uncertain, matched external ZIP text to verify |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-external-text-author](../../../tags/has-external-text-author.md) [#has-external-zip-text-evidence](../../../tags/has-external-zip-text-evidence.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 
@@ -78,7 +84,44 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://www.namesweb.ltd.uk/vlh](http://www.namesweb.ltd.uk/vlh) | files/external/angelfire-com/mail555.zip | ProgzRescue Angelfire files |
+| [http://www.your-site.co.uk/vlist](http://www.your-site.co.uk/vlist) | files/external/angelfire-com/mail555.zip | ProgzRescue Angelfire files |
+| [http://www.albakr.net](http://www.albakr.net) | files/external/angelfire-com/mail555.zip | ProgzRescue Angelfire files |
+| [http://www.albakr.net/vb/index.php](http://www.albakr.net/vb/index.php) | files/external/angelfire-com/mail555.zip | ProgzRescue Angelfire files |
+| [http://www.albakr.net/vlist/vlist.php](http://www.albakr.net/vlist/vlist.php) | files/external/angelfire-com/mail555.zip | ProgzRescue Angelfire files |
+| [http://www.vbul](http://www.vbul) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com](http://www.vbulletin.com) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://vbulletin.com/members/](http://vbulletin.com/members/) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.\\6\](http://www.\\6\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.\\5\](http://www.\\5\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.jelsoft.com/](http://www.jelsoft.com/) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/\](http://www.vbulletin.com/\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/\](http://www.vbulletin.com/forum/\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/manual/\](http://www.vbulletin.com/manual/\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.php.net/\](http://www.php.net/\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.mysql.com/\](http://www.mysql.com/\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=1\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=1\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=2\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=2\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=37\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=37\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=224\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=224\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=1034\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=1034\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=40\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=40\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=146\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=146\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=65\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=65\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=19\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=19\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=5137\](http://www.vbulletin.com/forum/member.php?s=&action=getinfo&userid=5137\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.nrg.be\](http://www.nrg.be\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.vbulletin.com/forum/showthread.php?s=&threadid=16287](http://www.vbulletin.com/forum/showthread.php?s=&threadid=16287) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.\](http://www.\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://msdn.microsoft.com/workshop/samples/author/dhtml/refs/scrollbarcolor.htm](http://msdn.microsoft.com/workshop/samples/author/dhtml/refs/scrollbarcolor.htm) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://vbulletin.com/forum](http://vbulletin.com/forum) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://vbulletin.com/forum/showthread.php?s=&postid=106506#post106506](http://vbulletin.com/forum/showthread.php?s=&postid=106506#post106506) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.w3.org/TR/REC-html40/loose.dtd\](http://www.w3.org/TR/REC-html40/loose.dtd\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
+| [http://www.efax.com/\](http://www.efax.com/\) | files/external/angelfire-com/vb.zip | ProgzRescue Angelfire files |
 
 ## Web Research
 
@@ -94,7 +137,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ProgzRescue Angelfire files | [files/external/angelfire-com/mail555.zip](../../../../../files/external/angelfire-com/mail555.zip) | vlist/Legal-ramble.txt<br>vlist/Readme.txt<br>vlist/admin.php<br>vlist/code.php<br>vlist/compose.php<br>vlist/index.php | others will not reflect on the original | none | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Scroller / macro<br>Fader / text styler | associated interface definition files, plus the scripts used to<br>be similar in spirit to the present version, but may differ in detail to<br>Each version is given a distinguishing version number. If the Program | [http://www.namesweb.ltd.uk/vlh](http://www.namesweb.ltd.uk/vlh)<br>[http://www.your-site.co.uk/vlist](http://www.your-site.co.uk/vlist)<br>[http://www.albakr.net](http://www.albakr.net)<br>[http://www.albakr.net/vb/index.php](http://www.albakr.net/vb/index.php) |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/mail555.zip](../../../../../files/external/angelfire-com/mail555.zip) | vlist/Legal-ramble.txt<br>vlist/Readme.txt<br>vlist/admin.php<br>vlist/code.php<br>vlist/compose.php<br>vlist/index.php | software | none | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Source / developer file<br>Scroller / macro<br>Fader / text styler | associated interface definition files, plus the scripts used to<br>be similar in spirit to the present version, but may differ in detail to<br>Each version is given a distinguishing version number. If the Program | [http://www.namesweb.ltd.uk/vlh](http://www.namesweb.ltd.uk/vlh)<br>[http://www.your-site.co.uk/vlist](http://www.your-site.co.uk/vlist)<br>[http://www.albakr.net](http://www.albakr.net)<br>[http://www.albakr.net/vb/index.php](http://www.albakr.net/vb/index.php) |
 | ProgzRescue Angelfire files | [files/external/angelfire-com/vb.zip](../../../../../files/external/angelfire-com/vb.zip) | admin/adminfunctions.php<br>admin/announcement.php<br>admin/avatar.php<br>admin/backup.php<br>admin/badwords.php<br>admin/bbcode.php | Jelsoft Enterprises Limited | none | Fader / text styler<br>Account / TOS utility<br>Source / developer file<br>Mass mailer / server<br>Media / file utility<br>Idler / AFK bot | echo " Using this feature required your web server and PHP to have permission to write files to disk. If they do not have the neccessary permissions, it will fail. ";<br>Use Option: Setting this option to yes will allow you to create a [tag=option][/tag] style tag, rather than just a [tag][/tag] style tag.<br>Use Parameter: Setting this option to yes will allow you to create a [tag=option][/tag] style tag, rather than just a [tag][/tag] style tag. | [http://www.vbul](http://www.vbul)<br>[http://www.vbulletin.com](http://www.vbulletin.com)<br>[http://vbulletin.com/members/](http://vbulletin.com/members/)<br>[http://www.\\6\](http://www.\\6\) |
 
 ### Source Mentions

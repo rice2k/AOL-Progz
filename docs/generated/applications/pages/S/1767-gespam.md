@@ -17,10 +17,14 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Catalog label | spam |
 | Archive filename | gespam.zip |
 | File size | unknown |
-| Author | snort |
+| Author | snort (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | snort |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category | mass mailer |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#vb3](../../../tags/vb3.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-p-code](../../../tags/compile-p-code.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-remote-only](../../../tags/file-remote-only.md) [#mass-mailer](../../../tags/mass-mailer.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-high-priority](../../../tags/review-high-priority.md) [#vb3](../../../tags/vb3.md)
 
 ## Source And Files
 

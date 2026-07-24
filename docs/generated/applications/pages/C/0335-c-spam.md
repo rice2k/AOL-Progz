@@ -18,9 +18,13 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Archive filename | cspam.zip |
 | File size | 1.7 MB |
 | Author | PuNkDuDe |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | PuNkDuDe |
 | Manual author evidence | unknown |
 | Archive-text author | PuNkDuDe |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category | mass mailer |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://solo.abac.com/dllarchive/](http://solo.abac.com/dllarchive/) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ ME.txt |
 | Matched external ZIP text evidence | 0 |
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| READ ME.txt | PuNkDuDe (READ ME.txt) | Source / developer file | none | READ ME.txt includes archive-text author clue(s): PuNkDuDe.<br>READ ME.txt has vocabulary for Source / developer file. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| READ ME.txt | PuNkDuDe (READ ME.txt) | Source / developer file | none | none | [http://solo.abac.com/dllarchive/](http://solo.abac.com/dllarchive/) | READ ME.txt includes archive-text author clue(s): PuNkDuDe.<br>READ ME.txt has vocabulary for Source / developer file. |
 
 ### Matched External ZIP Text Evidence
 

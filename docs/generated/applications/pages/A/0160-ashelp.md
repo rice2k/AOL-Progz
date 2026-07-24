@@ -17,10 +17,14 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Catalog label | ascii |
 | Archive filename | ashelp.zip |
 | File size | 1.1 MB |
-| Author | MoPaR |
+| Author | MoPaR (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | MoPaR |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 | Category | scroller or macro |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Scroller / macro |
+| Archive-text description clues | Sup! I made this program because, i was tired of using<br>I hope you like this program! |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | ReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A macro, ASCII art, canned-command, or repeated-text utility for chat/profile ou
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#review-low-priority](../../../tags/review-low-priority.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#review-low-priority](../../../tags/review-low-priority.md) [#scroller-or-macro](../../../tags/scroller-or-macro.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| ReadMe.txt | none | Scroller / macro | none | ReadMe.txt has vocabulary for Scroller / macro. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| ReadMe.txt | none | Scroller / macro | none | Sup! I made this program because, i was tired of using<br>I hope you like this program! | none | ReadMe.txt has vocabulary for Scroller / macro. |
 
 ### Matched External ZIP Text Evidence
 

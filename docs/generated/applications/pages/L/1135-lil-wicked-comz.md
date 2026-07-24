@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | lilwicked.zip |
 | File size | 2.5 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot, C-Com / command list, Account / TOS utility, Screen-name utility, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | probably add more features to this prog. If you have any |
+| Archive-text URL clues | [http://www.aol.com](http://www.aol.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Wicked ReadMe.txt |
 | Matched external ZIP text evidence | 0 |
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Wicked ReadMe.txt | none | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | none | Wicked ReadMe.txt has vocabulary for Idler / AFK bot, C-Com / command list, Account / TOS utility, Screen-name utility, Media / file utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wicked ReadMe.txt | none | Idler / AFK bot<br>C-Com / command list<br>Account / TOS utility<br>Screen-name utility<br>Media / file utility<br>AOL/AIM chat utility | none | probably add more features to this prog. If you have any | [http://www.aol.com](http://www.aol.com) | Wicked ReadMe.txt has vocabulary for Idler / AFK bot, C-Com / command list, Account / TOS utility, Screen-name utility, Media / file utility. |
 
 ### Matched External ZIP Text Evidence
 

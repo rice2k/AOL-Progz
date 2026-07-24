@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | cyclone for aol 4.0.zip |
 | File size | 1.4 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite |
+| Archive-text description clues | You Should Have Downloaded this prog from |
+| Archive-text URL clues | [http://www.ProgzOnline.com](http://www.ProgzOnline.com)<br>[http://Progz.simplenet.com](http://Progz.simplenet.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Progzonline.nfo<br>MadJester - Must Read.txt |
 | Matched external ZIP text evidence | 0 |
@@ -93,9 +99,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Progzonline.nfo<br>MadJester - Must Read.txt | none | All-in-one prog suite | none | Progzonline.nfo has vocabulary for All-in-one prog suite.<br>MadJester - Must Read.txt has vocabulary for All-in-one prog suite. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Progzonline.nfo<br>MadJester - Must Read.txt | none | All-in-one prog suite | none | You Should Have Downloaded this prog from | [http://www.ProgzOnline.com](http://www.ProgzOnline.com)<br>[http://Progz.simplenet.com](http://Progz.simplenet.com) | Progzonline.nfo has vocabulary for All-in-one prog suite.<br>MadJester - Must Read.txt has vocabulary for All-in-one prog suite. |
 
 ### Matched External ZIP Text Evidence
 

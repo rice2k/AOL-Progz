@@ -17,10 +17,14 @@ The catalog metadata and filename do not identify a confident single function ye
 | Catalog label | davidstoolsfinal |
 | Archive filename | davidfinal.zip |
 | File size | 2.3 MB |
-| Author | cigz |
+| Author | cigz (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | cigz |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Room buster, C-Com / command list, Scroller / macro, Account / TOS utility, Source / developer file, Media / file utility, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://come.to/cigzpad](http://come.to/cigzpad) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | command list.txt |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ The catalog metadata and filename do not identify a confident single function ye
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-embedded-urls](../../../tags/has-embedded-urls.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-aol-version-clues](../../../tags/has-readme-aol-version-clues.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#needs-manual-review](../../../tags/needs-manual-review.md) [#review-medium-priority](../../../tags/review-medium-priority.md) [#uncategorized](../../../tags/uncategorized.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -92,9 +98,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| command list.txt | none | All-in-one prog suite<br>Room buster<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | AOL 5<br>AOL 4<br>AOL 3.0 | command list.txt mentions AOL 5, AOL 4, AOL 3.0.<br>command list.txt has vocabulary for All-in-one prog suite, Room buster, C-Com / command list, Scroller / macro, Account / TOS utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| command list.txt | none | All-in-one prog suite<br>Room buster<br>C-Com / command list<br>Scroller / macro<br>Account / TOS utility<br>Source / developer file<br>Media / file utility<br>AOL/AIM chat utility | AOL 5<br>AOL 4<br>AOL 3.0 | none | [http://come.to/cigzpad](http://come.to/cigzpad) | command list.txt mentions AOL 5, AOL 4, AOL 3.0.<br>command list.txt has vocabulary for All-in-one prog suite, Room buster, C-Com / command list, Scroller / macro, Account / TOS utility. |
 
 ### Matched External ZIP Text Evidence
 

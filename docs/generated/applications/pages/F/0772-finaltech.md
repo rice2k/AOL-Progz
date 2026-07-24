@@ -18,9 +18,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | finaltech.zip |
 | File size | 2.1 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AIM |
@@ -33,8 +37,10 @@ The catalog metadata and filename do not identify a confident single function ye
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, Account / TOS utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
-| Archive text files reviewed | ReadMe.txt<br>aciddr0p.netReadMe.txt |
+| Archive text files reviewed | ReadMe.txt<br>pws.lst<br>sns.lst<br>aciddr0p.netReadMe.txt |
 | Matched external ZIP text evidence | 0 |
 | Visual Basic | VB6 |
 | Compile type | native |
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| ReadMe.txt<br>aciddr0p.netReadMe.txt | none | All-in-one prog suite<br>Account / TOS utility | none | ReadMe.txt has vocabulary for All-in-one prog suite, Account / TOS utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| ReadMe.txt<br>pws.lst<br>sns.lst<br>aciddr0p.netReadMe.txt | none | All-in-one prog suite<br>Account / TOS utility | none | none | none | ReadMe.txt has vocabulary for All-in-one prog suite, Account / TOS utility.<br>aciddr0p.netReadMe.txt includes a mirror/download-source note. |
 
 ### Matched External ZIP Text Evidence
 

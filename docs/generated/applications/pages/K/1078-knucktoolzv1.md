@@ -18,21 +18,27 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive filename | knucktoolzv1.zip |
 | File size | 2.1 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AIM |
-| AOL/version bucket | AOL 6.0; archive text: AOL 5.0, AOL 6.0 |
+| AOL/version bucket | AOL 6.0; archive text: AOL 5.0, AOL 6.0, AIM 3.5, AIM 4.7 |
 | Catalog AOL/version bucket | AOL 6.0 |
 | Inferred AOL version | unknown |
-| Archive-text AOL/version mentions | AOL 5.0, AOL 6.0 |
+| Archive-text AOL/version mentions | AOL 5.0, AOL 6.0, AIM 3.5, AIM 4.7 |
 | External ZIP text version mentions | unknown |
 | Prog type | All-in-one prog suite |
 | Category | uncategorized |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | All-in-one prog suite, AOL/AIM chat utility |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | READ ME!!!.txt |
 | Matched external ZIP text evidence | 0 |
@@ -69,7 +75,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## AOL Version Context
 
 The catalog places this entry in the **AOL 6.0** bucket. That is an archive/source classification and should be treated as a best available clue, not a guaranteed compatibility statement.
-Readable archive text also mentions: **AOL 5.0, AOL 6.0**.
+Readable archive text also mentions: **AOL 5.0, AOL 6.0, AIM 3.5, AIM 4.7**.
 
 ## Screenshots
 
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| READ ME!!!.txt | none | All-in-one prog suite<br>AOL/AIM chat utility | AOL 5.0<br>AOL 6.0 | READ ME!!!.txt mentions AOL 5.0, AOL 6.0.<br>READ ME!!!.txt has vocabulary for All-in-one prog suite, AOL/AIM chat utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| READ ME!!!.txt | none | All-in-one prog suite<br>AOL/AIM chat utility | AOL 5.0<br>AOL 6.0<br>AIM 3.5<br>AIM 4.7 | none | none | READ ME!!!.txt mentions AOL 5.0, AOL 6.0, AIM 3.5, AIM 4.7.<br>READ ME!!!.txt has vocabulary for All-in-one prog suite, AOL/AIM chat utility. |
 
 ### Matched External ZIP Text Evidence
 

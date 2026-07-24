@@ -18,9 +18,13 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Archive filename | aurora.zip |
 | File size | 1.6 MB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ Bulk-mail or mail-bomb-adjacent tooling. Preserved for archive context only. Fil
 | Category | mass mailer |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Source / developer file, Media / file utility |
+| Archive-text description clues | If this program is not working it is probally |
+| Archive-text URL clues | [http://come.to/azian_guru](http://come.to/azian_guru) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | readme.txt |
 | Matched external ZIP text evidence | 0 |
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| readme.txt | none | Source / developer file<br>Media / file utility | none | readme.txt has vocabulary for Source / developer file, Media / file utility. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| readme.txt | none | Source / developer file<br>Media / file utility | none | If this program is not working it is probally | [http://come.to/azian_guru](http://come.to/azian_guru) | readme.txt has vocabulary for Source / developer file, Media / file utility. |
 
 ### Matched External ZIP Text Evidence
 

@@ -17,10 +17,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Catalog label | blank idle 2.00 |
 | Archive filename | blank2.zip |
 | File size | 956 KB |
-| Author | speed |
+| Author | speed (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | speed |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-32](../../../tags/vb4-32.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#review-low-priority](../../../tags/review-low-priority.md) [#vb4-32](../../../tags/vb4-32.md)
 
 ## Source And Files
 

@@ -18,9 +18,13 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive filename | yoinks.zip |
 | File size | unknown |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | All-in-one prog suite, AOL/AIM chat utility |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 1 |
@@ -78,7 +84,12 @@ No program screenshot is currently mirrored for this catalog entry. Check the so
 
 ## Embedded Or Original URLs
 
-No readable original URLs were found inside the mirrored archive text during the current scan.
+These URLs were found in safely readable archive text. They are recorded as provenance clues, not as endorsements.
+
+| URL | Found in | Source |
+| --- | --- | --- |
+| [http://www.gamedesign.net](http://www.gamedesign.net) | files/external/angelfire-com/yoink.zip | ProgzRescue Angelfire files |
+| [http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) | files/external/angelfire-com/yoink.zip | ProgzRescue Angelfire files |
 
 ## Web Research
 
@@ -94,7 +105,7 @@ Readable text from recovered external mirrors is listed separately from the loca
 
 | Mirror/source | Local file | Text files | Author clues | Version clues | Purpose clues | Description clues | URLs found inside |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| ProgzRescue Angelfire files | [files/external/angelfire-com/yoink.zip](../../../../../files/external/angelfire-com/yoink.zip) | tfc/maps/yoink.txt<br>tfc/maps/yoinkreadme.txt | the room above and will suck anyone in the area in | none | All-in-one prog suite<br>AOL/AIM chat utility | Description: Pure chaos. This is a 2 team map where you get the ball | [http://www.gamedesign.net](http://www.gamedesign.net)<br>[http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) |
+| ProgzRescue Angelfire files | [files/external/angelfire-com/yoink.zip](../../../../../files/external/angelfire-com/yoink.zip) | tfc/maps/yoink.txt<br>tfc/maps/yoinkreadme.txt | none | none | All-in-one prog suite<br>AOL/AIM chat utility | Description: Pure chaos. This is a 2 team map where you get the ball | [http://www.gamedesign.net](http://www.gamedesign.net)<br>[http://www.angelfire.com/realm/noodlehammer](http://www.angelfire.com/realm/noodlehammer) |
 
 ### Source Mentions
 

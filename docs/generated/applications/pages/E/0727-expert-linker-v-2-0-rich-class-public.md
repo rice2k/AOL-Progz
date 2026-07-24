@@ -17,10 +17,14 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Catalog label | exp2setuprc |
 | Archive filename | expert linker v2.0 rich class [public] for aol 2.5-7.zip |
 | File size | 2.3 MB |
-| Author | zero |
+| Author | zero (catalog-only claim) |
+| Author evidence source | catalog-only claim |
+| Author evidence strength | weak |
+| Author evidence note | Preserved from the old catalog metadata. It is not treated as confirmed authorship until readme/source/old-web evidence agrees. |
 | Catalog author | zero |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Category | chat or IM tool |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | none |
 | Matched external ZIP text evidence | 0 |
@@ -56,7 +62,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#review-low-priority](../../../tags/review-low-priority.md)
+[#aol](../../../tags/aol.md) [#author-catalog-only](../../../tags/author-catalog-only.md) [#chat-or-im-tool](../../../tags/chat-or-im-tool.md) [#compile-na](../../../tags/compile-na.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#mixedunknown](../../../tags/mixedunknown.md) [#non-vb](../../../tags/non-vb.md) [#review-low-priority](../../../tags/review-low-priority.md)
 
 ## Source And Files
 

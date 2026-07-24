@@ -18,9 +18,13 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Archive filename | curbified.zip |
 | File size | 1.3 MB |
 | Author | curb |
+| Author evidence source | local archive text |
+| Author evidence strength | strong |
+| Author evidence note | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. |
 | Catalog author | curb |
 | Manual author evidence | unknown |
-| Archive-text author | unknown |
+| Archive-text author | curb |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Category | idler or bot |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | Idler / AFK bot |
+| Archive-text description clues | 4. You either got this prog from your |
+| Archive-text URL clues | unknown |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | Read Me.txt |
 | Matched external ZIP text evidence | 0 |
@@ -46,7 +52,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
-| Author confidence | catalog only |
+| Author confidence | readme/archive text |
 | Category confidence | readme/archive text |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
@@ -56,7 +62,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 
 ## Tags
 
-[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb5](../../../tags/vb5.md)
+[#aol](../../../tags/aol.md) [#aol-4-0](../../../tags/aol-4-0.md) [#compile-native](../../../tags/compile-native.md) [#duplicate-metadata](../../../tags/duplicate-metadata.md) [#file-ready](../../../tags/file-ready.md) [#has-archive-text-author](../../../tags/has-archive-text-author.md) [#has-old-web-downloads](../../../tags/has-old-web-downloads.md) [#has-readme-purpose-clues](../../../tags/has-readme-purpose-clues.md) [#idler-or-bot](../../../tags/idler-or-bot.md) [#vb5](../../../tags/vb5.md)
 
 ## Source And Files
 
@@ -88,9 +94,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| Read Me.txt | none | Idler / AFK bot | none | Read Me.txt has vocabulary for Idler / AFK bot. |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Read Me.txt | curb (Read Me.txt) | Idler / AFK bot | none | 4. You either got this prog from your | none | Read Me.txt includes archive-text author clue(s): curb.<br>Read Me.txt has vocabulary for Idler / AFK bot. |
 
 ### Matched External ZIP Text Evidence
 

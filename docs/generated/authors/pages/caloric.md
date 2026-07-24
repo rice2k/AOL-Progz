@@ -1,9 +1,17 @@
-# Author: caloric
+# Author / Crew: caloric
 
-**Catalog entries:** 3
+**Strong-evidence catalog entries:** 1
 
-| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 801 | [fuqed cchat1.3](../../applications/pages/F/0801-fuqed-cchat1-3.md) | fuqed cchat1.3 | AOL/AIM chat utility | uncategorized | AOL 4.0 | caloric | 827 KB | [local](../../../../files/aol/aol-4-0/0801-fuqed-cchat1-3.zip) | 0 |
-| 1199 | [Madlootv 1beta](../../applications/pages/M/1199-madlootv-1beta.md) | madloot | Unknown / needs review | uncategorized | AOL 4.0 | caloric | 1.3 MB | [local](../../../../files/aol/aol-4-0/1199-madloot.zip) | 0 |
-| 1769 | [spamicide▓╖╣](../../applications/pages/S/1769-spamicide.md) | spamicide▓╖╣ | Unknown / needs review | uncategorized | AOL 4.0 | caloric | unknown | remote-only | 0 |
+These entries have manual old-web/source evidence, local archive-text evidence, or matched external ZIP text evidence. Catalog-only and filename-only claims are listed separately on the author index.
+
+## Evidence Sources
+
+| Program | Catalog label | Evidence source | Evidence note | Archive text files | External text files | Program page |
+| --- | --- | --- | --- | --- | --- | --- |
+| mp3pimp | mp3pimp | local archive text | Extracted from a ReadMe/NFO/source-like file inside the local catalog archive. | readme.txt | unknown | [open](../../applications/pages/M/1300-mp3pimp.md) |
+
+## Related Programs
+
+| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Author source | Size | File | Shots |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1300 | [mp3pimp](../../applications/pages/M/1300-mp3pimp.md) | mp3pimp | Idler / AFK bot | uncategorized | AOL 4.0; archive text: AOL 5.0, AOL 5 | caloric; catalog listed typing | local archive text | 2.4 MB | [local](../../../../files/aol/aol-4-0/1300-mp3pimp.zip) | 0 |

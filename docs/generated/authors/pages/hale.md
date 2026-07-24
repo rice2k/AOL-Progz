@@ -1,7 +1,0 @@
-# Author: haLe
-
-**Catalog entries:** 1
-
-| # | Best known name | Catalog label | Prog type | Category | AOL/version | Author | Size | File | Shots |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 155 | [Argon Termer](../../applications/pages/A/0155-argon-termer.md) | argon | Account / TOS utility | account or TOS tool | AOL 4.0 | haLe | 3.3 MB | [local](../../../../files/aol/aol-4-0/0155-argon.zip) | 0 |

@@ -18,9 +18,13 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Archive filename | nutzpunter.zip |
 | File size | 76 KB |
 | Author | unknown |
+| Author evidence source | unknown |
+| Author evidence strength | unknown |
+| Author evidence note | No author evidence found yet. |
 | Catalog author | unknown |
 | Manual author evidence | unknown |
 | Archive-text author | unknown |
+| External ZIP text authors | unknown |
 | Inferred author | unknown |
 | Author conflict note | none |
 | Platform | AOL |
@@ -33,6 +37,8 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Category | punter |
 | Manual purpose clues | unknown |
 | Archive-text purpose clues | unknown |
+| Archive-text description clues | unknown |
+| Archive-text URL clues | [http://www.kamzdomain.com](http://www.kamzdomain.com) |
 | External ZIP text purpose clues | unknown |
 | Archive text files reviewed | README~1.TXT |
 | Matched external ZIP text evidence | 0 |
@@ -91,9 +97,9 @@ This section connects the catalog entry to old pages, crawled download URLs, mir
 
 Readable archive text is used as provenance evidence for author, purpose, old URLs, and AOL-version clues. Binaries are not executed.
 
-| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Notes |
-| --- | --- | --- | --- | --- |
-| README~1.TXT | none | none | none | unknown |
+| Text files reviewed | Author clues | Purpose clues | AOL/version clues | Description clues | URLs found inside | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| README~1.TXT | none | none | none | none | [http://www.kamzdomain.com](http://www.kamzdomain.com) | unknown |
 
 ### Matched External ZIP Text Evidence
 
