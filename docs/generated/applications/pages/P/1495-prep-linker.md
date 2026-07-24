@@ -48,7 +48,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
-| Matched web download links | 2 |
+| Matched web download links | 1 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -67,7 +67,7 @@ A chat, instant-message, command, linker, or room workflow utility. These are de
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1495-prep-linker.zip](../../../../../files/aol/aol-4-0/1495-prep-linker.zip)
-- Old-web / Wayback download leads: 2 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
 - Matched mirror leads: 1 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/preplinker.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/preplinker.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/preplinker.zip)
@@ -108,7 +108,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| NetTools/ | plink.exe | [http://am.net/lib/TOOLS/NetTools/plink.exe](http://am.net/lib/TOOLS/NetTools/plink.exe) | [http://am.net/lib/TOOLS/NetTools/plink.exe](http://am.net/lib/TOOLS/NetTools/plink.exe) |
 | LensHell misc progs N-Z | prep linker | [https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/preplinker.zip](https://web.archive.org/web/20110904003557/http://lenshellarchive.com/Progs/aolprogs/preplinker.zip) | [http://lenshellarchive.com/Progs/aolprogs/preplinker.zip](http://lenshellarchive.com/Progs/aolprogs/preplinker.zip) |
 
 ### Mirror Leads

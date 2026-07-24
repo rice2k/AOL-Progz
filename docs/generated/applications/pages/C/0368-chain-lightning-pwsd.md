@@ -48,7 +48,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.3 MB |
-| Matched web download links | 3 |
+| Matched web download links | 2 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/mixed/0368-chain-lightning-pwsd.zip](../../../../../files/aol/mixed/0368-chain-lightning-pwsd.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
 - Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/chain.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/chain.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/unknown/chain.zip)
@@ -110,7 +110,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | LensHell misc progs A-M | chain lightning 1.3 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chain.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/chain.zip) | [http://lenshellarchive.com/Progs/aolprogs/chain.zip](http://lenshellarchive.com/Progs/aolprogs/chain.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/6701/light.zip | [http://www.geocities.com/SiliconValley/6701/light.zip](http://www.geocities.com/SiliconValley/6701/light.zip) | [http://www.geocities.com/SiliconValley/6701/light.zip](http://www.geocities.com/SiliconValley/6701/light.zip) |
-| Microsoft/ | qchain.exe | [http://am.net/lib/TOOLS/Microsoft/qchain.exe](http://am.net/lib/TOOLS/Microsoft/qchain.exe) | [http://am.net/lib/TOOLS/Microsoft/qchain.exe](http://am.net/lib/TOOLS/Microsoft/qchain.exe) |
 
 ### Mirror Leads
 

@@ -303,6 +303,76 @@ function classifyUrl(url) {
   return "page";
 }
 
+function parsedEvidenceUrl(link) {
+  const value = clean(link?.originalUrl || originalUrl(link?.url) || link?.url || "");
+  try {
+    return new URL(value);
+  } catch {
+    return null;
+  }
+}
+
+function evidenceHost(link) {
+  return parsedEvidenceUrl(link)?.hostname.toLowerCase().replace(/^www\./, "") || "";
+}
+
+function evidencePath(link) {
+  const parsed = parsedEvidenceUrl(link);
+  return `${parsed?.pathname || ""}${parsed?.search || ""}`.toLowerCase();
+}
+
+function evidenceLabelKey(link) {
+  return normalizeProgramKey(link?.text || basenameFromUrl(link?.originalUrl || link?.url) || "");
+}
+
+function evidenceFilterReason(link) {
+  const type = clean(link?.type);
+  const host = evidenceHost(link);
+  const pathAndQuery = evidencePath(link);
+  const labelKey = evidenceLabelKey(link);
+  if (type === "download" && host === "am.net" && !pathAndQuery.startsWith("/lib/tools/aol/")) {
+    return "am.net non-AOL tools directory";
+  }
+  if (type !== "image") return "";
+  if (
+    /(^|\.)(extreme-dm\.com|burstnet\.com|avenuea\.com|tribalfusion\.com|doubleclick\.net|fastclick\.net|realmedia\.com|go2net\.com|hupso\.com)$/i.test(
+      host,
+    ) ||
+    /(^|\.)(img\.shields\.io|githubassets\.com)$/i.test(host)
+  ) {
+    return "ad/tracker/badge image";
+  }
+  if (/\/(?:ads?|adstream|realmedia)\b|\/cgi-bin\/ads?\b|[?&](?:tag|login)=/i.test(pathAndQuery)) {
+    return "ad/tracker image path";
+  }
+  if (/^(image|img|click|blank|spacer|pixel|counter|button|banner|ad|ads?|logo|line|top|left|right|icon|home)$/i.test(labelKey)) {
+    return "generic image label";
+  }
+  if (!/\.(gif|png|jpe?g|bmp|webp)(?:[?#]|$)/i.test(pathAndQuery) && /^(image|img|click|banner|ad|logo|icon)$/i.test(labelKey || "")) {
+    return "generic image URL";
+  }
+  return "";
+}
+
+function recordFilteredEvidence(stats, link, reason, sourceName = "", sourceUrl = "") {
+  stats.count += 1;
+  stats.byReason[reason] = (stats.byReason[reason] || 0) + 1;
+  stats.exampleCountByReason ||= {};
+  const reasonExamples = stats.exampleCountByReason[reason] || 0;
+  if (reasonExamples >= 75 || stats.examples.length >= 300) return;
+  stats.exampleCountByReason[reason] = reasonExamples + 1;
+  stats.examples.push({
+    reason,
+    type: clean(link?.type) || "unknown",
+    label: clean(link?.text) || basenameFromUrl(link?.originalUrl || link?.url),
+    host: evidenceHost(link) || "unknown",
+    sourceName: clean(sourceName || link?.pageName),
+    sourceUrl: clean(sourceUrl || link?.pageUrl),
+    url: clean(link?.url),
+    originalUrl: clean(link?.originalUrl || originalUrl(link?.url)),
+  });
+}
+
 function extractLinks(html, pageUrl) {
   const links = [];
   for (const match of html.matchAll(/<a\b[^>]*href\s*=\s*["']?([^"'\s>]+)[^>]*>([\s\S]*?)<\/a>/gi)) {
@@ -672,6 +742,7 @@ async function main() {
   const archiveTextMetadata = readJson("data/archive-text-metadata.json", { perProgram: {} });
   const inferredById = new Map(programs.map((program) => [program.id, inferFromFilename(program)]));
   const matchProgram = buildProgramMatcher(programs, inferredById);
+  const filteredEvidence = { count: 0, byReason: {}, examples: [], exampleCountByReason: {} };
 
   const perProgram = {};
   for (const program of programs) {
@@ -711,6 +782,11 @@ async function main() {
   addManualEvidence(perProgram);
 
   for (const link of webResources.links || []) {
+    const filterReason = evidenceFilterReason(link);
+    if (filterReason) {
+      recordFilteredEvidence(filteredEvidence, link, filterReason, link.pageName, link.pageUrl);
+      continue;
+    }
     const match = matchProgram(link.text, link.originalUrl, link.url);
     if (!match) continue;
     const record = perProgram[match.program.id];
@@ -731,6 +807,11 @@ async function main() {
 
   for (const page of webResources.pages || []) {
     for (const link of page.links || []) {
+      const filterReason = evidenceFilterReason(link);
+      if (filterReason) {
+        recordFilteredEvidence(filteredEvidence, link, filterReason, page.name, page.url);
+        continue;
+      }
       const match = matchProgram(link.text, link.originalUrl, link.url);
       if (!match) continue;
       const record = perProgram[match.program.id];
@@ -794,6 +875,11 @@ async function main() {
           16,
         );
         for (const link of section.links) {
+          const filterReason = evidenceFilterReason(link);
+          if (filterReason) {
+            recordFilteredEvidence(filteredEvidence, link, filterReason, page.name, section.anchorUrl);
+            continue;
+          }
           const targetList = link.type === "image" ? record.webImageLinks : link.type === "download" ? record.webDownloadLinks : record.webMentions;
           addLimited(
             targetList,
@@ -924,6 +1010,9 @@ async function main() {
     programsWithWebImageLinks: records.filter((item) => item.webImageLinks.length).length,
     programsWithMirrorLinks: records.filter((item) => item.mirrorLinks.length).length,
     programsWithExternalArchiveTextEvidence: records.filter((item) => item.externalArchiveTextEvidence.length).length,
+    filteredProgramEvidenceLinks: filteredEvidence.count,
+    filteredProgramEvidenceByReason: Object.fromEntries(Object.entries(filteredEvidence.byReason).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))),
+    filteredProgramEvidenceExamples: filteredEvidence.examples,
     fetchedDetails,
     perProgram,
   };
@@ -932,7 +1021,7 @@ async function main() {
   writeFileSync(outJson, `${JSON.stringify(data, null, 2)}\n`, "utf8");
   writeFileSync(outJs, `window.AOL_PROGZ_PROGRAM_ENRICHMENT = ${JSON.stringify(data, null, 2)};\n`, "utf8");
   console.log(
-    `Built enrichment for ${data.programCount} programs: ${data.programsWithImprovedNames} improved names, ${data.programsWithWebDownloadLinks} with web downloads, ${data.programsWithWebMentions} with web mentions, ${data.programsWithArchiveTextUrls} with archive-text URLs.`,
+    `Built enrichment for ${data.programCount} programs: ${data.programsWithImprovedNames} improved names, ${data.programsWithWebDownloadLinks} with web downloads, ${data.programsWithWebMentions} with web mentions, ${data.programsWithArchiveTextUrls} with archive-text URLs, ${data.filteredProgramEvidenceLinks} noisy evidence links filtered.`,
   );
 }
 

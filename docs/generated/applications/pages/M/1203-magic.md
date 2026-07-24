@@ -48,7 +48,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 781 KB |
-| Matched web download links | 10 |
+| Matched web download links | 7 |
 | Matched mirror leads | 9 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1203-magic.zip](../../../../../files/aol/aol-4-0/1203-magic.zip)
-- Old-web / Wayback download leads: 10 link(s) listed below
+- Old-web / Wayback download leads: 7 link(s) listed below
 - Matched mirror leads: 9 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/magic.zip)
@@ -116,7 +116,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Misc/ | linkmagic.exe | [http://am.net/lib/TOOLS/Misc/linkmagic.exe](http://am.net/lib/TOOLS/Misc/linkmagic.exe) | [http://am.net/lib/TOOLS/Misc/linkmagic.exe](http://am.net/lib/TOOLS/Misc/linkmagic.exe) |
 | LensHell AIM progs | magic b00t | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip](http://lenshellarchive.com/Progs/aimprogs/misc/magicboot.zip) |
 | LensHell busters | magic roombuster | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/magic.zip) | [http://lenshellarchive.com/Progs/aolbusters/magic.zip](http://lenshellarchive.com/Progs/aolbusters/magic.zip) |
 | Click-Online AOL 4/5 progz | magic toolz | [https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/magic.zip](https://web.archive.org/web/20021015202014/http://click-online2000.com/progz/magic.zip) | [http://click-online2000.com/progz/magic.zip](http://click-online2000.com/progz/magic.zip) |
@@ -124,8 +123,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Magic Toolz 5.0 Beta | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolz.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolz.zip) | [http://24.185.191.87/progz/magictoolz.zip](http://24.185.191.87/progz/magictoolz.zip) |
 | Section 2 | Magic Toolz 6.0 | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/magictoolzfinal.zip) | [http://www.cybernyse.com/downlowdz/magictoolzfinal.zip](http://www.cybernyse.com/downlowdz/magictoolzfinal.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Magic Toolz 6.0 | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolzfinal.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/magictoolzfinal.zip) | [http://24.185.191.87/progz/magictoolzfinal.zip](http://24.185.191.87/progz/magictoolzfinal.zip) |
-| Misc/ | magicdisc.exe | [http://am.net/lib/TOOLS/Misc/magicdisc.exe](http://am.net/lib/TOOLS/Misc/magicdisc.exe) | [http://am.net/lib/TOOLS/Misc/magicdisc.exe](http://am.net/lib/TOOLS/Misc/magicdisc.exe) |
-| Misc/ | MagicISO5.5.exe | [http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe](http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe) | [http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe](http://am.net/lib/TOOLS/Misc/MagicISO5.5.exe) |
 
 ### Mirror Leads
 

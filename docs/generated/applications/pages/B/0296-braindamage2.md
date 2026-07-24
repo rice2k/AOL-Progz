@@ -51,13 +51,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 4 |
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (13) |
-| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence, web image lead needs screenshot match |
+| Review priority | high (11) |
+| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -123,9 +123,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| Packages 0 | galaxy-brain-default-847262c21056.png | [https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png](https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png) | [https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png](https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

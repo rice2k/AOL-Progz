@@ -2908,6 +2908,7 @@ writeDoc(
     "- [Master all-links index](all-links.md)",
     "- [Links you supplied](user-supplied-links.md)",
     "- [Crawled source pages](source-pages.md)",
+    "- [Filtered program-evidence links](filtered-evidence-links.md)",
     "- [Reference source-code tree](reference-source-code.md)",
     "- [Top source sites](top-source-sites.md)",
     "- [Source deep dives](source-deep-dives.md)",
@@ -2945,6 +2946,39 @@ writeDoc(
     `This page deduplicates every URL currently known to the archive: user-supplied links, curated sources, crawled source pages, crawled page links, extracted download links, embedded archive-text URLs, recovered external ZIP text URLs, external mirror URLs, missing-candidate mirrors, and recovered web-image URLs. Current unique URL count: **${masterLinks.length}**.`,
     "",
     masterLinkTable(`${generatedRoot}/sources/all-links.md`, masterLinks),
+  ].join("\n"),
+);
+
+writeDoc(
+  `${generatedRoot}/sources/filtered-evidence-links.md`,
+  [
+    "# Filtered Program-Evidence Links",
+    "",
+    "These crawled URLs remain preserved in the source/link indexes, but they are not attached to individual program pages as evidence because they look like ad counters, badges, generic layout images, or non-AOL utility-directory links.",
+    "",
+    `**Filtered links:** ${Number(programEnrichment.filteredProgramEvidenceLinks || 0).toLocaleString()}`,
+    "",
+    "## By Reason",
+    "",
+    table(
+      ["Reason", "Count"],
+      Object.entries(programEnrichment.filteredProgramEvidenceByReason || {}).map(([reason, count]) => [reason, Number(count).toLocaleString()]),
+    ),
+    "",
+    "## Examples",
+    "",
+    table(
+      ["Reason", "Type", "Label", "Host", "Source", "URL", "Original URL"],
+      (programEnrichment.filteredProgramEvidenceExamples || []).map((item) => [
+        item.reason,
+        item.type,
+        item.label,
+        item.host,
+        item.sourceName,
+        item.url ? link(item.url, item.url) : "",
+        item.originalUrl ? link(item.originalUrl, item.originalUrl) : "",
+      ]),
+    ),
   ].join("\n"),
 );
 
@@ -4208,6 +4242,7 @@ writeDoc(
         ["Programs with archive-text URL clues", String(programEnrichment.programsWithArchiveTextUrls || 0)],
         ["Programs with archive-text description clues", String(programEnrichment.programsWithArchiveDescriptionCandidates || 0)],
         ["Programs with external ZIP text authors", String(programEnrichment.programsWithExternalArchiveTextAuthors || 0)],
+        ["Filtered noisy program-evidence links", String(programEnrichment.filteredProgramEvidenceLinks || 0)],
         ["Missing candidates", String(missingCandidates.candidateCount || missingCandidates.candidates?.length || 0)],
         ["Recovered missing candidates", String(missingCandidates.readyCandidateCount || 0)],
         ["Master deduped link index", String(masterLinks.length)],

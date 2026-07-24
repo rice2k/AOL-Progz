@@ -51,7 +51,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 2 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
-| Web image leads | 5 |
+| Web image leads | 1 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
@@ -122,10 +122,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
-| FONTS | 29391 | [https://web.archive.org/web/20010221025054im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/29391](https://web.archive.org/web/20010221025054im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/29391) | [http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/29391](http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/29391) |
-| Read Here Aim Buddy Icon's Downloads C.G.I | 322 | [https://web.archive.org/web/20010220182925im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/322](https://web.archive.org/web/20010220182925im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/322) | [http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/322](http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/322) |
-| Aol profile Tricks | 43774 | [https://web.archive.org/web/20010221024216im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/43774](https://web.archive.org/web/20010221024216im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/43774) | [http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/43774](http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/43774) |
-| Fan Art | 50397 | [https://web.archive.org/web/20010221025045im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/50397](https://web.archive.org/web/20010221025045im_/http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/50397) | [http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/50397](http://view.avenuea.com/avenuea/view/infospace_msftpfc00140aa_013101_ron_468x60/direct;hi.60;wi.468/01/50397) |
 | http://progstation.hypermart.net/cgi-bin/topsite/topsites.cgi?malcome3 | icon1.gif | [https://web.archive.org/web/20010407222808im_/http://direct-efx.com/icon1.gif](https://web.archive.org/web/20010407222808im_/http://direct-efx.com/icon1.gif) | [http://direct-efx.com/icon1.gif](http://direct-efx.com/icon1.gif) |
 
 ## Related Indexes

@@ -93,7 +93,7 @@
 | files/ directory size | 2.9 GB |
 | assets/ directory size | 17.3 MB |
 | docs/ directory size | 85.4 MB |
-| data/ directory size | 197.8 MB |
+| data/ directory size | 197.9 MB |
 | Crawled source pages | 1502 |
 | Crawled links | 19900 |
 | Crawled download links | 6258 |
@@ -109,10 +109,11 @@
 | Programs with archive-text URL clues | 160 |
 | Programs with archive-text description clues | 173 |
 | Programs with external ZIP text authors | 16 |
+| Filtered noisy program-evidence links | 2437 |
 | Missing candidates | 3149 |
 | Recovered missing candidates | 424 |
 | Master deduped link index | 39794 |
-| Deduped original/download URLs | 19132 |
+| Deduped original/download URLs | 19133 |
 | Programs needing manual review | 1946 |
 | High-priority review entries | 1288 |
 | Medium-priority review entries | 658 |

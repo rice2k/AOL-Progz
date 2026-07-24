@@ -48,16 +48,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 5 |
+| Matched web download links | 4 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
-| Web image leads | 2 |
+| Web image leads | 0 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | filename/source inferred |
 | Source confidence | local + old-web lead |
-| Review priority | high (13) |
-| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence, web image lead needs screenshot match |
+| Review priority | high (11) |
+| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-5-0/0803-fusion.zip](../../../../../files/aol/aol-5-0/0803-fusion.zip)
-- Old-web / Wayback download leads: 5 link(s) listed below
+- Old-web / Wayback download leads: 4 link(s) listed below
 - Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion x for aol 5.0 yr2000.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/5.0/fusion%20x%20for%20aol%205.0%20yr2000.zip)
@@ -111,7 +111,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Titan Spaceports progs | Cold Fusion 1.0 | [https://web.archive.org/web/20010504044037/http://members.tripod.com/dlmatrix/CFOmg.zip](https://web.archive.org/web/20010504044037/http://members.tripod.com/dlmatrix/CFOmg.zip) | [http://members.tripod.com/dlmatrix/CFOmg.zip](http://members.tripod.com/dlmatrix/CFOmg.zip) |
 | Titan Spaceports progs | Cold Fusion 3 Macro Theif | [https://web.archive.org/web/20010504044037/http://members.xoom.com/matrixdl/theif.zip](https://web.archive.org/web/20010504044037/http://members.xoom.com/matrixdl/theif.zip) | [http://members.xoom.com/matrixdl/theif.zip](http://members.xoom.com/matrixdl/theif.zip) |
 | LensHell c-coms | fusion x | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/fusion.zip) | [http://lenshellarchive.com/Progs/aolccoms/fusion.zip](http://lenshellarchive.com/Progs/aolccoms/fusion.zip) |
-| NetTools/ | fusion40.exe | [http://am.net/lib/TOOLS/NetTools/fusion40.exe](http://am.net/lib/TOOLS/NetTools/fusion40.exe) | [http://am.net/lib/TOOLS/NetTools/fusion40.exe](http://am.net/lib/TOOLS/NetTools/fusion40.exe) |
 | Progs Section 1 | I2 Fusion ToolBox | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/i2fusiontoolbox.zip) | [http://www.cybernyse.com/i2fusiontoolbox.zip](http://www.cybernyse.com/i2fusiontoolbox.zip) |
 
 ### Mirror Leads
@@ -123,10 +122,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| 123 Greetings | i.ad?site=123Greetings&adSpace=RichMedia&size=120x600&requestID=1864344165 | [https://web.archive.org/web/20030709231038im_/http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=120x600&amp;requestID=1864344165](https://web.archive.org/web/20030709231038im_/http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=120x600&amp;requestID=1864344165) | [http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=120x600&amp;requestID=1864344165](http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=120x600&amp;requestID=1864344165) |
-| 123 Greetings | i.ad?site=123Greetings&adSpace=RichMedia&size=468x60&requestID=1059187730 | [https://web.archive.org/web/20030709231038im_/http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=468x60&amp;requestID=1059187730](https://web.archive.org/web/20030709231038im_/http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=468x60&amp;requestID=1059187730) | [http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=468x60&amp;requestID=1059187730](http://a.tribalfusion.com/i.ad?site=123Greetings&amp;adSpace=RichMedia&amp;size=468x60&amp;requestID=1059187730) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

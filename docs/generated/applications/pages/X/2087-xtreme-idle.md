@@ -51,7 +51,7 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched web download links | 3 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 12 |
+| Web image leads | 4 |
 | Author confidence | catalog only |
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | catalog bucket |
@@ -122,15 +122,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | Image URL | Original URL |
 | --- | --- | --- | --- |
-| FreeProgz main | ?tag=phatone&j=n | [https://web.archive.org/web/20010516214202im_/http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n](https://web.archive.org/web/20010516214202im_/http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n) | [http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n](http://y1.extreme-dm.com/z/?tag=phatone&amp;j=n) |
-| Aim Bit | 0.gif?tag=aimbit&j=n | [https://web.archive.org/web/20030613123619im_/http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n](https://web.archive.org/web/20030613123619im_/http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n) | [http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n](http://t0.extreme-dm.com/0.gif?tag=aimbit&amp;j=n) |
-| AIMFilez files | 0.gif?tag=aimfilez&j=n | [https://web.archive.org/web/20040405183602im_/http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n](https://web.archive.org/web/20040405183602im_/http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n) | [http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n](http://w0.extreme-dm.com/0.gif?tag=aimfilez&amp;j=n) |
-| Privacy Policy | 0.gif?tag=aimfilez&j=n | [http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n](http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n) | [http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n](http://w0.extreme-dm.com/0.gif?tag=aimfilez&j=n) |
-| AimThings | 0.gif?tag=aimthing&j=n | [https://web.archive.org/web/20030623040448im_/http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n](https://web.archive.org/web/20030623040448im_/http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n) | [http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n](http://t0.extreme-dm.com/0.gif?tag=aimthing&amp;j=n) |
-| AOL-Progz.com | 0.gif?tag=aolprogz&j=n | [https://web.archive.org/web/20010301094602im_/http://u0.extreme-dm.com/0.gif?tag=aolprogz&amp;j=n](https://web.archive.org/web/20010301094602im_/http://u0.extreme-dm.com/0.gif?tag=aolprogz&amp;j=n) | [http://u0.extreme-dm.com/0.gif?tag=aolprogz&amp;j=n](http://u0.extreme-dm.com/0.gif?tag=aolprogz&amp;j=n) |
 | LensHellArchive Games | extrememinigolf.gif | [https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/extrememinigolf.gif](https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/extrememinigolf.gif) | [http://lenshellarchive.com/images/extrememinigolf.gif](http://lenshellarchive.com/images/extrememinigolf.gif) |
-| AOL-Progz.com | i.gif | [https://web.archive.org/web/20010301094602im_/http://u1.extreme-dm.com/i.gif](https://web.archive.org/web/20010301094602im_/http://u1.extreme-dm.com/i.gif) | [http://u1.extreme-dm.com/i.gif](http://u1.extreme-dm.com/i.gif) |
-| AIMFilez files | i.gif | [https://web.archive.org/web/20040405183602im_/http://w1.extreme-dm.com/i.gif](https://web.archive.org/web/20040405183602im_/http://w1.extreme-dm.com/i.gif) | [http://w1.extreme-dm.com/i.gif](http://w1.extreme-dm.com/i.gif) |
 | FONTS | tagsxtreme.jpg | [https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/tagsxtreme.jpg](https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/tagsxtreme.jpg) | [http://wipeout.hypermart.net/fonts/tagsxtreme.jpg](http://wipeout.hypermart.net/fonts/tagsxtreme.jpg) |
 | FONTS | tagsxtreme2.jpg | [https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/tagsxtreme2.jpg](https://web.archive.org/web/20010221025054im_/http://wipeout.hypermart.net/fonts/tagsxtreme2.jpg) | [http://wipeout.hypermart.net/fonts/tagsxtreme2.jpg](http://wipeout.hypermart.net/fonts/tagsxtreme2.jpg) |
 | LensHellArchive Games | xtreme_skateboarding.jpg | [https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/xtreme_skateboarding.jpg](https://web.archive.org/web/20111002120516im_/http://lenshellarchive.com/images/xtreme_skateboarding.jpg) | [http://lenshellarchive.com/images/xtreme_skateboarding.jpg](http://lenshellarchive.com/images/xtreme_skateboarding.jpg) |

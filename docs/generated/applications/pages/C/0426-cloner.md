@@ -48,7 +48,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 738 KB |
-| Matched web download links | 3 |
+| Matched web download links | 2 |
 | Matched mirror leads | 3 |
 | Web research mentions | 0 |
 | Web image leads | 1 |
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/0426-cloner.zip](../../../../../files/aol/aol-4-0/0426-cloner.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
 - Matched mirror leads: 3 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/jahova.zip)
@@ -114,7 +114,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | 2 | aimcloner.exe | [https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe](https://web.archive.org/web/20040405183602/http://aimfilez.com/files/aimcloner.exe) | [http://aimfilez.com/files/aimcloner.exe](http://aimfilez.com/files/aimcloner.exe) |
 | AIM | aimcloner.zip | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcloner.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcloner.zip) | [https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcloner.zip](https://github.com/DamianSuess/Legacy-AOL-Underground/blob/main/programs/AIM/aimcloner.zip) |
-| Multimedia/ | dvdcloner.exe | [http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe](http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe) | [http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe](http://am.net/lib/TOOLS/Multimedia/dvdcloner.exe) |
 
 ### Mirror Leads
 

@@ -51,13 +51,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 1 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 12 |
+| Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | medium (7) |
-| Manual review flags | category uncertain, no readable text evidence, web image lead needs screenshot match |
+| Review priority | medium (5) |
+| Manual review flags | category uncertain, no readable text evidence |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -118,20 +118,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| FreeProgz main | image | [https://web.archive.org/web/20010516214202/http://www.freeprogz.com/](https://web.archive.org/web/20010516214202/http://www.freeprogz.com/) | [http://www.freeprogz.com/](http://www.freeprogz.com/) |
-| FreeProgz main | image | [https://web.archive.org/web/20010516214202im_/http://y0.extreme-dm.com/i/](https://web.archive.org/web/20010516214202im_/http://y0.extreme-dm.com/i/) | [http://y0.extreme-dm.com/i/](http://y0.extreme-dm.com/i/) |
-| AOL-Progz.com | image | [https://web.archive.org/web/20010301094602/http://www.aol-progz.com/](https://web.archive.org/web/20010301094602/http://www.aol-progz.com/) | [http://www.aol-progz.com/](http://www.aol-progz.com/) |
-| AimThings | image | [https://web.archive.org/web/20030623040448/http://aimthings.com/](https://web.archive.org/web/20030623040448/http://aimthings.com/) | [http://aimthings.com/](http://aimthings.com/) |
-| AIMFilez files | image | [https://web.archive.org/web/20040405183602im_/http://www.burstnet.com/cgi-bin/ads/ba10295a.cgi/ns/v=1.1J/sz=468x60B/](https://web.archive.org/web/20040405183602im_/http://www.burstnet.com/cgi-bin/ads/ba10295a.cgi/ns/v=1.1J/sz=468x60B/) | [http://www.burstnet.com/cgi-bin/ads/ba10295a.cgi/ns/v=1.1J/sz=468x60B/](http://www.burstnet.com/cgi-bin/ads/ba10295a.cgi/ns/v=1.1J/sz=468x60B/) |
-| AIMFilez files | image | [https://web.archive.org/web/20040405183602im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.1J/sz=120x600A/](https://web.archive.org/web/20040405183602im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.1J/sz=120x600A/) | [http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.1J/sz=120x600A/](http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.1J/sz=120x600A/) |
-| http://www.aimfilez.com/referals/referal.php?id=deadaim | image | [https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=1.0J/sz=468x60A/](https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=1.0J/sz=468x60A/) | [http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=1.0J/sz=468x60A/](http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=1.0J/sz=468x60A/) |
-| http://www.aimfilez.com/referals/referal.php?id=deadaim | image | [https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/](https://web.archive.org/web/20040203163335im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/) | [http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/](http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=1.0J/sz=120x600A/) |
-| News | image | [https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\\|728x90A/](https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\|728x90A/) | [http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\\|728x90A/](http://www.burstnet.com/cgi-bin/ads/ad10295a.cgi/ns/v=2.0S/sz=468x60A\|728x90A/) |
-| News | image | [https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/](https://web.archive.org/web/20040803071950im_/http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/) | [http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/](http://www.burstnet.com/cgi-bin/ads/sk10295a.cgi/ns/v=2.0S/sz=120x600A/) |
-| Malu Pride Programmers | image | [https://web.archive.org/web/20010714103809/http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/](https://web.archive.org/web/20010714103809/http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/) | [http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/](http://204.198.135.79/RealMedia/ads/adstream_nx.cgi/) |
-| http://methodus2000.com | image | [http://methodus2000.com/](http://methodus2000.com/) | [http://methodus2000.com/](http://methodus2000.com/) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

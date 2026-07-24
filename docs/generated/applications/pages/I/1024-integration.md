@@ -48,7 +48,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 1.7 MB |
-| Matched web download links | 3 |
+| Matched web download links | 2 |
 | Matched mirror leads | 2 |
 | Web research mentions | 0 |
 | Web image leads | 3 |
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1024-integration.zip](../../../../../files/aol/aol-4-0/1024-integration.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 2 link(s) listed below
 - Matched mirror leads: 2 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/integra.zip)
@@ -112,7 +112,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Dell/ | DELL_PERC-6-I-INTEGRATED_A14_R313336.exe | [http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe](http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe) | [http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe](http://am.net/lib/TOOLS/Dell/DELL_PERC-6-I-INTEGRATED_A14_R313336.exe) |
 | LensHell faders | integra | [https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/integra.zip](https://web.archive.org/web/20110904002536/http://lenshellarchive.com/Progs/aolfaders/integra.zip) | [http://lenshellarchive.com/Progs/aolfaders/integra.zip](http://lenshellarchive.com/Progs/aolfaders/integra.zip) |
 | Progs Section 1 | Integra | [https://web.archive.org/web/20010202193900/http://www.cybernyse.com/integra.zip](https://web.archive.org/web/20010202193900/http://www.cybernyse.com/integra.zip) | [http://www.cybernyse.com/integra.zip](http://www.cybernyse.com/integra.zip) |
 

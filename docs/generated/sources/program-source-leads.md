@@ -128,7 +128,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [AOEVIL](../applications/pages/A/0126-aoevil.md) | AOEVIL | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [AoFader](../applications/pages/A/0127-aofader.md) | AoFader | unknown | LensHell faders | http-404: Web page: LensHell faders | unknown |
 | [AOHell 95 v3.0](../applications/pages/A/0128-aohell-95-v3-0.md) | AOHell 95 v3.0 | unknown | Progs Section 1<br>LensHell misc progs A-M | unknown | unknown |
-| [AOL 5 Update Closer](../applications/pages/A/0129-aol-5-update-closer.md) | AOL 5 Update Closer | unknown | LensHell misc progs A-M<br>AM/ | http-404: Web page: prog's/misc a-m<br>candidate: AM/ | unknown |
+| [AOL 5 Update Closer](../applications/pages/A/0129-aol-5-update-closer.md) | AOL 5 Update Closer | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m<br>candidate: AM/ | unknown |
 | [AOL Account Cracker 1.2.4](../applications/pages/A/0131-aol-account-cracker-1-2-4.md) | AOL Account Cracker 1.2.4 | unknown | LensHell crackers | unknown | unknown |
 | [Aol Easy Talk](../applications/pages/A/0132-aol-easy-talk.md) | Aol Easy Talk | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [AOL File Downloader v5.0](../applications/pages/A/0133-aol-file-downloader-v5-0.md) | AOL File Downloader v5.0 | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
@@ -164,7 +164,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Auto Save Notepad Version 1.0](../applications/pages/A/0164-auto-save-notepad-version-1-0.md) | ASN | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [Ass Idler](../applications/pages/A/0165-ass-idler.md) | Ass Idler | unknown | LensHell idlers | http-404: Web page: idler's | unknown |
 | [asshole toolz](../applications/pages/A/0166-asshole-toolz.md) | asshole toolz | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
-| [assist](../applications/pages/A/0167-assist.md) | assist | unknown | LensHell misc progs A-M<br>NetworkManagement/<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | http-404: Web page: prog's/misc a-m<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: NetworkManagement/ | unknown |
+| [assist](../applications/pages/A/0167-assist.md) | assist | unknown | LensHell misc progs A-M<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | http-404: Web page: prog's/misc a-m<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: NetworkManagement/ | unknown |
 | [Asteel~1](../applications/pages/A/0168-asteel1.md) | Asteel~1 | unknown | LensHell mailers and servers | http-404: Web page: mmer's/server's | unknown |
 | [Astronomicon 2.0](../applications/pages/A/0169-astronomicon-2-0.md) | Astronomicon 2.0 | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [Atomic C-Coms](../applications/pages/A/0170-atomic-c-coms.md) | Atomic C-Coms | unknown | LensHell c-coms<br>Progs Section 1 | ready: Web page: c-coms<br>candidate: Progs Section 1 | unknown |
@@ -351,7 +351,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [CFader40](../applications/pages/C/0365-cfader40.md) | CFader40 | unknown | Progs Section 1<br>LensHell AIM progs<br>Aim Filez<br>LensHell AIM progs<br>Titan Spaceports progs<br>LensHell faders | ready: ProgzRescue Angelfire files<br>http-404: Web page: Aim Filez<br>http-404: Web page: LensHell faders<br>http-404: Web page: LensHell AIM progs<br>candidate: Progs Section 1 | [http://members.xoom.com/thepatmaster/index.htm](http://members.xoom.com/thepatmaster/index.htm)<br>[http://members.xoom.com/thepatmaster/ColFad.htm](http://members.xoom.com/thepatmaster/ColFad.htm)<br>[http://www.kamzdomain.com](http://www.kamzdomain.com) |
 | [cfinal](../applications/pages/C/0366-cfinal.md) | cfinal | unknown | LensHell misc progs A-M<br>LensHell AIM progs<br>AIM<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | http-404: Web page: prog's/misc a-m<br>http-404: Web page: LensHell AIM progs<br>candidate: AIM<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | [http://ripasrealm.simplenet.com](http://ripasrealm.simplenet.com) |
 | [cgagem](../applications/pages/C/0367-cgagem.md) | cgagem | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
-| [Chain Lightning PWSD](../applications/pages/C/0368-chain-lightning-pwsd.md) | Chain Lightning PWSD | unknown | LensHell misc progs A-M<br>found-geocities-silicon-valley-files.txt<br>Microsoft/ | http-404: Web page: prog's/misc a-m<br>candidate: Microsoft/ | unknown |
+| [Chain Lightning PWSD](../applications/pages/C/0368-chain-lightning-pwsd.md) | Chain Lightning PWSD | unknown | LensHell misc progs A-M<br>found-geocities-silicon-valley-files.txt | http-404: Web page: prog's/misc a-m<br>candidate: Microsoft/ | unknown |
 | [Cham](../applications/pages/C/0369-cham.md) | cham | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [Chamber Bomb'z 2.0 And 7.0](../applications/pages/C/0370-chamber-bombz-2-0-and-7-0.md) | CHAMBER2 | unknown | LensHell punters | http-404: Web page: punter's | unknown |
 | [Chamber Bombz 4.0](../applications/pages/C/0371-chamber-bombz-4-0.md) | chamberbombz4 | unknown | LensHell punters | http-404: Web page: punter's | unknown |
@@ -406,9 +406,9 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Clear-Haze(1-1-0)](../applications/pages/C/0420-clear-haze1-1-0.md) | Clear-Haze(1-1-0) | unknown | LensHell c-coms | unknown | unknown |
 | [Clepto Room Bust](../applications/pages/C/0421-clepto-room-bust.md) | clepto!! | unknown | LensHell busters | http-404: Web page: buster's | [http://members.tripod.com/~wiretapz77/dawarzone1.html](http://members.tripod.com/~wiretapz77/dawarzone1.html) |
 | [clicktoolz1](../applications/pages/C/0422-clicktoolz1.md) | clicktoolz1 | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
-| [Client](../applications/pages/C/0423-client.md) | Client | unknown | Android/<br>Symantec/<br>Symantec/<br>Microsoft/<br>LensHell misc progs A-M<br>Downloads.txt | http-404: Web page: prog's/misc a-m<br>candidate: Downloads.txt<br>ready: Archive.org: AOL browser/utility<br>candidate: VMware/<br>candidate: VMware/<br>candidate: Android/ | unknown |
+| [Client](../applications/pages/C/0423-client.md) | Client | unknown | LensHell misc progs A-M<br>Downloads.txt | http-404: Web page: prog's/misc a-m<br>candidate: Downloads.txt<br>ready: Archive.org: AOL browser/utility<br>candidate: VMware/<br>candidate: VMware/<br>candidate: Android/ | unknown |
 | [clink3](../applications/pages/C/0424-clink3.md) | clink3 | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | [http://cdburn.jumpfun.com/clinknew.zip](http://cdburn.jumpfun.com/clinknew.zip)<br>[http://www.knk2000.com/knk](http://www.knk2000.com/knk) |
-| [CLONER](../applications/pages/C/0426-cloner.md) | CLONER | unknown | 2<br>AIM<br>Multimedia/ | ready: Web page: 2<br>http-404: Web page: idler's<br>candidate: Multimedia/ | unknown |
+| [CLONER](../applications/pages/C/0426-cloner.md) | CLONER | unknown | 2<br>AIM | ready: Web page: 2<br>http-404: Web page: idler's<br>candidate: Multimedia/ | unknown |
 | [Cloner Idle Win ALL Yr 04](../applications/pages/C/0427-cloner-idle-win-all-yr-04.md) | Cloner Idle | unknown | LensHell idlers | unknown | unknown |
 | [Clonetech Win 98-nt-XP Yr 09](../applications/pages/C/0428-clonetech-win-98-nt-xp-yr-09.md) | clonetechsetup | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [cnt223](../applications/pages/C/0429-cnt223.md) | cnt223 | unknown | Aim Crackers<br>LensHell AIM progs | http-404: Web page: LensHell AIM progs<br>http-404: Web page: Aim Crackers | unknown |
@@ -416,7 +416,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [CodeGennAPI](../applications/pages/C/0431-codegennapi.md) | CodeGennAPI | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [Codiene %b 9%b 7%ba](../applications/pages/C/0432-codiene-b-9b-7ba.md) | Codiene 1·º | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [Coke](../applications/pages/C/0433-coke.md) | coke | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
-| [Coldreboot](../applications/pages/C/0434-coldreboot.md) | COLD | unknown | LensHell punters<br>AM/ | http-404: Web page: punter's<br>candidate: AM/ | unknown |
+| [Coldreboot](../applications/pages/C/0434-coldreboot.md) | COLD | unknown | LensHell punters | http-404: Web page: punter's<br>candidate: AM/ | unknown |
 | [Cold Breeze](../applications/pages/C/0435-cold-breeze.md) | Cold Breeze | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [CoLd CcOmS](../applications/pages/C/0436-cold-ccoms.md) | CoLd CcOmS | unknown | LensHell c-coms | unknown | unknown |
 | [Cold ccoms┬╣ΓÇó](../applications/pages/C/0437-cold-ccomsco.md) | Cold ccoms┬╣ΓÇó | unknown | LensHell c-coms | ready: Web page: c-coms | unknown |
@@ -433,7 +433,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Completion And 5.0](../applications/pages/C/0448-completion-and-5-0.md) | completion | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | unknown |
 | [Dacomz](../applications/pages/C/0449-dacomz.md) | comz | unknown | LensHell c-coms | ready: Web page: c-coms | unknown |
 | [Condom linker](../applications/pages/C/0450-condom-linker.md) | Condom linker | unknown | LensHell misc progs A-M | http-404: Web page: prog's/misc a-m | [http://www.freecondoms.com/signup.asp?referer=coalchamborfrk58@aol.com](http://www.freecondoms.com/signup.asp?referer=coalchamborfrk58@aol.com) |
-| [Config](../applications/pages/C/0451-config.md) | Config | unknown | AIM<br>AIM<br>APC/<br>Aim Filez<br>HP/<br>LensHell misc progs N-Z | http-404: Web page: Aim Filez<br>candidate: APC/<br>candidate: HP/ | unknown |
+| [Config](../applications/pages/C/0451-config.md) | Config | unknown | AIM<br>AIM<br>Aim Filez<br>LensHell misc progs N-Z | http-404: Web page: Aim Filez<br>candidate: APC/<br>candidate: HP/ | unknown |
 | [Confucktion ½](../applications/pages/C/0452-confucktion-12.md) | Confucktion ½ | unknown | LensHell idlers | http-404: Web page: idler's | unknown |
 | [Constipated Idle](../applications/pages/C/0453-constipated-idle.md) | Constipated | unknown | LensHell idlers | http-404: Web page: idler's | unknown |
 | [CONTRO1](../applications/pages/C/0454-contro1.md) | CONTRO1 | unknown | LensHell xers | http-404: Web page: x'ers | unknown |
@@ -522,7 +522,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [DEFCON2](../applications/pages/D/0542-defcon2.md) | DEFCON2 | unknown | LensHell termers | http-404: Web page: idler's<br>http-404: Web page: termer's | unknown |
 | [Demolishing Universe2](../applications/pages/D/0543-demolishing-universe2.md) | Demolishing Universe2 | unknown | AIM<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>LensHell AIM progs<br>LensHell AIM progs<br>AIM<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | http-404: Web page: prog's/misc a-m<br>http-404: Web page: Oogle AIM progs | unknown |
 | [Demon idle╣](../applications/pages/D/0544-demon-idle.md) | Demon idle╣ | unknown | LensHell idlers | http-404: Web page: idler's | unknown |
-| [Demon Resurrection²](../applications/pages/D/0545-demon-resurrection2.md) | Demon Resurrection² | unknown | Anti-Spyware/<br>Progs Section 1<br>LensHell punters<br>LensHell punters<br>Yahoo Progs | http-404: Web page: punter's<br>http-404: Web page: punter's<br>http-404: Web page: Yahoo Progs<br>candidate: Anti-Spyware/ | [http://www.dreadknight.com](http://www.dreadknight.com) |
+| [Demon Resurrection²](../applications/pages/D/0545-demon-resurrection2.md) | Demon Resurrection² | unknown | Progs Section 1<br>LensHell punters<br>LensHell punters<br>Yahoo Progs | http-404: Web page: punter's<br>http-404: Web page: punter's<br>http-404: Web page: Yahoo Progs<br>candidate: Anti-Spyware/ | [http://www.dreadknight.com](http://www.dreadknight.com) |
 | [Descent 1.0 And 5.0](../applications/pages/D/0546-descent-1-0-and-5-0.md) | Descent | unknown | LensHell AIM progs<br>LensHell AIM progs | http-404: Web page: LensHell AIM progs<br>http-404: Web page: LensHell AIM progs | unknown |
 | [Desert storm ²·º](../applications/pages/D/0547-desert-storm-2o.md) | Desert storm ²·º | unknown | LensHell idlers | http-404: Web page: idler's | unknown |
 | [desert_fox_3](../applications/pages/D/0548-desert-fox-3.md) | desert_fox_3 | unknown | LensHell idlers | http-404: Web page: idler's | unknown |
@@ -727,7 +727,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [fatexs1](../applications/pages/F/0762-fatexs1.md) | fatexs1 | unknown | LensHell mailers and servers | http-404: Web page: LensHell mailers and servers | unknown |
 | [Fear Toolz](../applications/pages/F/0763-fear-toolz.md) | Fear Toolz | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | unknown |
 | [Fear X](../applications/pages/F/0764-fear-x.md) | Fear X | unknown | LensHell misc progs A-M<br>Progs Section 1 | unknown | unknown |
-| [Fedex](../applications/pages/F/0765-fedex.md) | FedEx | unknown | LensHell misc progs A-M<br>Downloads.txt<br>.. | http-404: Web page: LensHell misc progs A-M<br>candidate: ..<br>candidate: Downloads.txt<br>candidate: .. | unknown |
+| [Fedex](../applications/pages/F/0765-fedex.md) | FedEx | unknown | LensHell misc progs A-M<br>Downloads.txt | http-404: Web page: LensHell misc progs A-M<br>candidate: ..<br>candidate: Downloads.txt<br>candidate: .. | unknown |
 | [Fierce Online 2.0 And 5.0](../applications/pages/F/0766-fierce-online-2-0-and-5-0.md) | Fierce Online | unknown | LensHell c-coms | unknown | unknown |
 | [5th Element V 2](../applications/pages/F/0767-5th-element-v-2.md) | FifthElement | unknown | Progs Section 1<br>LensHell misc progs A-M | unknown | unknown |
 | [filesafe](../applications/pages/F/0768-filesafe.md) | filesafe | unknown | LensHell misc progs A-M<br>found-geocities-silicon-valley-files.txt | http-404: Web page: LensHell misc progs A-M<br>http-404: LensHell runtime files<br>candidate: found-geocities-silicon-valley-files.txt | unknown |
@@ -756,7 +756,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Freezev1](../applications/pages/F/0791-freezev1.md) | Freezev1 | unknown | LensHell faders | http-404: Web page: LensHell faders | unknown |
 | [Freon](../applications/pages/F/0792-freon.md) | FREON | unknown | Progs Section 1<br>LensHell misc progs A-M<br>Click-Online AOL 4/5 progz | http-404: Web page: LensHell misc progs A-M | unknown |
 | [Froz 3n H 3ll](../applications/pages/F/0793-froz-3n-h-3ll.md) | froz3n h3ll | unknown | LensHell misc progs A-M<br>Progs Section 1 | unknown | unknown |
-| [fssetup](../applications/pages/F/0794-fssetup.md) | fssetup | unknown | LensHell misc progs A-M<br>Google/ | http-404: Web page: LensHell misc progs A-M<br>out-of-scope: Web page: Google/ | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98) |
+| [fssetup](../applications/pages/F/0794-fssetup.md) | fssetup | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M<br>out-of-scope: Web page: Google/ | [http://members.xoom.com/Spytech98](http://members.xoom.com/Spytech98) |
 | [Frost Toolz 2](../applications/pages/F/0795-frost-toolz-2.md) | ft2 | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | unknown |
 | [Fu 3beta](../applications/pages/F/0796-fu-3beta.md) | Fu3 | unknown | LensHell c-coms | ready: Web page: LensHell c-coms | unknown |
 | [fuct idle╣ by losi](../applications/pages/F/0797-fuct-idle-by-losi.md) | fuct idle╣ by losi | unknown | LensHell idlers | http-404: Web page: LensHell idlers | unknown |
@@ -765,7 +765,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [funky munkee chat phader](../applications/pages/F/0800-funky-munkee-chat-phader.md) | funky munkee chat phader | unknown | LensHell faders | http-404: Web page: LensHell faders | unknown |
 | [fuqed cchat1.3](../applications/pages/F/0801-fuqed-cchat1-3.md) | fuqed cchat1.3 | unknown | Progs Section 1<br>LensHell c-coms | ready: Web page: LensHell c-coms | [http://www.namekz-realm.com](http://www.namekz-realm.com) |
 | [fuse linker](../applications/pages/F/0802-fuse-linker.md) | fuse linker | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | [http://www.hi.com](http://www.hi.com)<br>[http://www.freewebs.com/fluxvb](http://www.freewebs.com/fluxvb) |
-| [Fusion X Yr 2000](../applications/pages/F/0803-fusion-x-yr-2000.md) | fusion | unknown | Titan Spaceports progs<br>Titan Spaceports progs<br>LensHell c-coms<br>NetTools/<br>Progs Section 1 | ready: Web page: LensHell c-coms<br>candidate: Progs Section 1 | unknown |
+| [Fusion X Yr 2000](../applications/pages/F/0803-fusion-x-yr-2000.md) | fusion | unknown | Titan Spaceports progs<br>Titan Spaceports progs<br>LensHell c-coms<br>Progs Section 1 | ready: Web page: LensHell c-coms<br>candidate: Progs Section 1 | unknown |
 | [Fusion Spammer](../applications/pages/F/0804-fusion-spammer.md) | Fusion Spammer | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | unknown |
 | [FusionIdler](../applications/pages/F/0805-fusionidler.md) | FusionIdler | unknown | LensHell idlers | http-404: Web page: LensHell idlers | unknown |
 | [fusionx](../applications/pages/F/0806-fusionx.md) | fusionx | unknown | LensHell c-coms<br>Progs Section 1 | ready: Web page: LensHell c-coms | unknown |
@@ -975,7 +975,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Insomnia Toolz V 1.0 Win 2k-xp](../applications/pages/I/1021-insomnia-toolz-v-1-0-win-2k-xp.md) | Insomnia Toolz v1.o | unknown | LensHell misc progs A-M | unknown | unknown |
 | [INSULIN](../applications/pages/I/1022-insulin.md) | INSULIN | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | unknown |
 | [INSUR~1](../applications/pages/I/1023-insur1.md) | INSUR~1 | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | [http://come.to/colt_popeye](http://come.to/colt_popeye)<br>[http://www.punknboards.com/progs](http://www.punknboards.com/progs) |
-| [integration](../applications/pages/I/1024-integration.md) | integration | unknown | Dell/<br>LensHell faders<br>Progs Section 1 | http-404: Web page: LensHell faders<br>candidate: Dell/ | unknown |
+| [integration](../applications/pages/I/1024-integration.md) | integration | unknown | LensHell faders<br>Progs Section 1 | http-404: Web page: LensHell faders<br>candidate: Dell/ | unknown |
 | [Intellex X'er](../applications/pages/I/1025-intellex-xer.md) | intellex | unknown | LensHell xers | http-404: Web page: LensHell xers | unknown |
 | [intelligent linker](../applications/pages/I/1026-intelligent-linker.md) | intelligent linker | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | [http://www.site.com](http://www.site.com)<br>[http://www.verisign.com/repository/CPS](http://www.verisign.com/repository/CPS)<br>[https://www.verisign.com](https://www.verisign.com)<br>[https://www.verisign.com/CPS0b](https://www.verisign.com/CPS0b)<br>[http://www.microsoft.com/vbasic](http://www.microsoft.com/vbasic) |
 | [InterBasicSetup](../applications/pages/I/1027-interbasicsetup.md) | InterBasicSetup | unknown | Progs Section 1<br>LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M<br>candidate: Progs Section 1 | unknown |
@@ -1118,7 +1118,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [LoAupchat](../applications/pages/L/1168-loaupchat.md) | LoAupchat | unknown | LensHell misc progs A-M | unknown | unknown |
 | [Lobby Whore V 1 (public)](../applications/pages/L/1169-lobby-whore-v-1-public.md) | Lobby Whore | unknown | LensHell misc progs A-M | unknown | unknown |
 | [Lock It Up Idle And 5.0](../applications/pages/L/1170-lock-it-up-idle-and-5-0.md) | lockdopidle | unknown | LensHell idlers | unknown | unknown |
-| [logger1](../applications/pages/L/1171-logger1.md) | logger1 | unknown | Passwords/<br>LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M<br>candidate: Passwords/ | unknown |
+| [logger1](../applications/pages/L/1171-logger1.md) | logger1 | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M<br>candidate: Passwords/ | unknown |
 | [Logik MP3 C-Com](../applications/pages/L/1172-logik-mp3-c-com.md) | Logik MP3 C-Com | unknown | LensHell c-coms | unknown | unknown |
 | [logix idler](../applications/pages/L/1173-logix-idler.md) | logix idler | unknown | LensHell idlers | unknown | unknown |
 | [Logs 'R' Us](../applications/pages/L/1174-logs-r-us.md) | Logs 'R' Us | unknown | LensHell misc progs A-M | unknown | unknown |
@@ -1149,7 +1149,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [MadMTMv 1.0](../applications/pages/M/1200-madmtmv-1-0.md) | MadMTMv 1.0 | unknown | MadMTM Progs<br>LensHell misc progs A-M | unknown | unknown |
 | [mafiafader](../applications/pages/M/1201-mafiafader.md) | mafiafader | unknown | LensHell faders | unknown | [http://www.kamzdomain.com](http://www.kamzdomain.com) |
 | [MAGGOT Corpse](../applications/pages/M/1202-maggot-corpse.md) | MAGGOT Corpse | unknown | LensHell misc progs A-M | unknown | unknown |
-| [Magic](../applications/pages/M/1203-magic.md) | magic | unknown | Misc/<br>LensHell AIM progs<br>LensHell busters<br>Click-Online AOL 4/5 progz<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>http-404: Web page: Click-Online AOL 4/5 progz<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: Misc/ | [http://www.lenshell.com](http://www.lenshell.com) |
+| [Magic](../applications/pages/M/1203-magic.md) | magic | unknown | LensHell AIM progs<br>LensHell busters<br>Click-Online AOL 4/5 progz<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>Section 2 | ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>http-404: Web page: Click-Online AOL 4/5 progz<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: Misc/ | [http://www.lenshell.com](http://www.lenshell.com) |
 | [MagicToolz](../applications/pages/M/1204-magictoolz.md) | MagicToolz | unknown | Yahoo Progs<br>LensHell c-coms | http-404: Web page: Yahoo Progs | [http://www.flufffycow.interspeed.net](http://www.flufffycow.interspeed.net) |
 | [Magnetic Forces Ascii Shop](../applications/pages/M/1206-magnetic-forces-ascii-shop.md) | Magnetic Forces Ascii Shop | unknown | LensHell misc progs A-M<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | unknown | unknown |
 | [Mail Request v1](../applications/pages/M/1207-mail-request-v1.md) | Mail Request v1 | unknown | LensHell misc progs A-M | unknown | unknown |
@@ -1201,7 +1201,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Metroid Idler V 2 Win ALL Yr 04](../applications/pages/M/1256-metroid-idler-v-2-win-all-yr-04.md) | Metroid Idler v² | unknown | LensHell idlers | unknown | unknown |
 | [mfcomz](../applications/pages/M/1257-mfcomz.md) | mfcomz | unknown | LensHell c-coms | unknown | unknown |
 | [mia-xer_public](../applications/pages/M/1258-mia-xer-public.md) | mia-xer_public | unknown | LensHell xers | unknown | [http://www.8op.com/mepz](http://www.8op.com/mepz) |
-| [Microtools](../applications/pages/M/1259-microtools.md) | Micro | unknown | Microsoft/<br>Microsoft/<br>Microsoft/<br>Microsoft/<br>Microsoft/<br>Microsoft/ | ready: Missing Files<br>candidate: LensHell runtime files<br>ready: Missing Files<br>candidate: Miscellaneous Section<br>ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files | unknown |
+| [Microtools](../applications/pages/M/1259-microtools.md) | Micro | unknown | found-geocities-silicon-valley-files.txt<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>LensHell misc progs A-M<br>Miscellaneous Section<br>Miscellaneous Section | ready: Missing Files<br>candidate: LensHell runtime files<br>ready: Missing Files<br>candidate: Miscellaneous Section<br>ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files | unknown |
 | [Micro Idler And 5.0](../applications/pages/M/1260-micro-idler-and-5-0.md) | Microidle | unknown | LensHell idlers | unknown | unknown |
 | [midget coms](../applications/pages/M/1261-midget-coms.md) | midget coms | unknown | LensHell c-coms | unknown | unknown |
 | [Midget Coms%b 2](../applications/pages/M/1262-midget-comsb-2.md) | midget coms² | unknown | LensHell c-coms | candidate: LensHell c-coms<br>candidate: LensHell c-coms | unknown |
@@ -1264,7 +1264,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Ne0's Massacre](../applications/pages/N/1321-ne0s-massacre.md) | Ne0's Massacre | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Necromancer](../applications/pages/N/1322-necromancer.md) | Necro | unknown | LensHell misc progs N-Z<br>LensHell punters | unknown | [http://www.kamzdomain.com](http://www.kamzdomain.com) |
 | [Need For Weed╣](../applications/pages/N/1323-need-for-weed.md) | Need For Weed╣ | unknown | LensHell idlers | unknown | unknown |
-| [NegzSleeper](../applications/pages/N/1324-negzsleeper.md) | NegzSleeper | unknown | AM/<br>LensHell idlers | candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: AM/ | unknown |
+| [NegzSleeper](../applications/pages/N/1324-negzsleeper.md) | NegzSleeper | unknown | LensHell idlers | candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: AM/ | unknown |
 | [nemesisv1](../applications/pages/N/1325-nemesisv1.md) | nemesisv1 | unknown | LensHell AIM progs | unknown | unknown |
 | [NEON 3.0](../applications/pages/N/1326-neon-3-0.md) | NEON 3.0 | unknown | Aol 4.0/5.0 Progs<br>LensHell misc progs N-Z<br>Click-Online AOL 4/5 progz<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | http-404: Web page: Click-Online AOL 4/5 progz<br>http-404: Web page: Aol 4.0/5.0 Progs | unknown |
 | [neosetup](../applications/pages/N/1327-neosetup.md) | neosetup | unknown | LensHell misc progs N-Z | unknown | unknown |
@@ -1426,7 +1426,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [precision ascii](../applications/pages/P/1492-precision-ascii.md) | precision ascii | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Premier Server %b 2%b 7%b 3 And 5.0](../applications/pages/P/1493-premier-server-b-2b-7b-3-and-5-0.md) | Premier2 | unknown | LensHell mailers and servers | unknown | [http://zelrip.cjb.net](http://zelrip.cjb.net) |
 | [Premiummp 3](../applications/pages/P/1494-premiummp-3.md) | Premium | unknown | LensHell c-coms | unknown | unknown |
-| [prep linker](../applications/pages/P/1495-prep-linker.md) | prep linker | unknown | NetTools/<br>LensHell misc progs N-Z | candidate: NetTools/ | unknown |
+| [prep linker](../applications/pages/P/1495-prep-linker.md) | prep linker | unknown | LensHell misc progs N-Z | candidate: NetTools/ | unknown |
 | [pretender](../applications/pages/P/1496-pretender.md) | pretender | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [prjCracker](../applications/pages/P/1497-prjcracker.md) | prjCracker | unknown | LensHell crackers<br>Yahoo Progs | unknown | unknown |
 | [procolor](../applications/pages/P/1498-procolor.md) | procolor | unknown | LensHell misc progs N-Z | unknown | unknown |
@@ -1491,7 +1491,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Quick Xer](../applications/pages/Q/1560-quick-xer.md) | Quick Xer | unknown | LensHell xers | http-404: Web page: LensHell xers | unknown |
 | [Quick xer](../applications/pages/Q/1561-quick-xer.md) | Quick xer | unknown | LensHell xers | unknown | unknown |
 | [QUICKRES](../applications/pages/Q/1562-quickres.md) | QUICKRES | unknown | LensHell misc progs A-M | http-404: Web page: LensHell misc progs A-M | unknown |
-| [quicky bustaH](../applications/pages/Q/1563-quicky-bustah.md) | quicky bustaH | unknown | AIM Secrets<br>found-geocities-silicon-valley-files.txt<br>Intuit/<br>QuickBust<br>LensHell AIM progs<br>Palm/ | candidate: AIM Secrets<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: Intuit/<br>candidate: LensHell AIM progs<br>candidate: Palm/<br>candidate: FileManagement/ | unknown |
+| [quicky bustaH](../applications/pages/Q/1563-quicky-bustah.md) | quicky bustaH | unknown | AIM Secrets<br>found-geocities-silicon-valley-files.txt<br>QuickBust<br>LensHell AIM progs<br>LensHell busters<br>Section 2 | candidate: AIM Secrets<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: Intuit/<br>candidate: LensHell AIM progs<br>candidate: Palm/<br>candidate: FileManagement/ | unknown |
 | [Quicky Collect1](../applications/pages/Q/1564-quicky-collect1.md) | Quicky Collect1 | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Quicky Gag](../applications/pages/Q/1565-quicky-gag.md) | Quicky Gag | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Quicky Gag3](../applications/pages/Q/1566-quicky-gag3.md) | Quicky Gag3 | unknown | LensHell misc progs N-Z | unknown | unknown |
@@ -1533,7 +1533,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Reload~1](../applications/pages/R/1604-reload1.md) | Reload~1 | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Remix C-Com Mp 3 Player Beta](../applications/pages/R/1605-remix-c-com-mp-3-player-beta.md) | Remix | unknown | LensHell AIM progs<br>LensHell AIM progs<br>9<br>AIM<br>Hadez progs<br>LensHell c-coms | failed: Web page: 9<br>http-404: Web page: Hadez progs<br>http-404: Web page: LensHell AIM progs<br>http-404: Web page: LensHell AIM progs<br>candidate: LensHell c-coms | unknown |
 | [Remixed Audio²](../applications/pages/R/1606-remixed-audio2.md) | Remixed Audio² | unknown | LensHell Visual Basic<br>LensHell misc progs N-Z | ready: ProgzRescue Angelfire files<br>ready: AOLUnderground reference source-code tree<br>candidate: LensHell Visual Basic | unknown |
-| [remote](../applications/pages/R/1607-remote.md) | remote | unknown | Progs Section 1<br>found-geocities-silicon-valley-files.txt<br>Misc/<br>LensHell AIM progs<br>LensHell idlers<br>Section 2 | ready: ProgzRescue Angelfire files<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: Progs Section 1<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: Misc/ | unknown |
+| [remote](../applications/pages/R/1607-remote.md) | remote | unknown | Progs Section 1<br>found-geocities-silicon-valley-files.txt<br>LensHell AIM progs<br>LensHell idlers<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | ready: ProgzRescue Angelfire files<br>candidate: Section 2<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: Progs Section 1<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: Misc/ | unknown |
 | [Remote Silence](../applications/pages/R/1608-remote-silence.md) | Remote Silence | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [repell](../applications/pages/R/1609-repell.md) | repell | unknown | LensHell c-coms | unknown | unknown |
 | [Res 2](../applications/pages/R/1610-res-2.md) | res2 | unknown | LensHell misc progs N-Z | unknown | unknown |
@@ -1562,7 +1562,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Room Control](../applications/pages/R/1634-room-control.md) | Room Control | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Room Greeter](../applications/pages/R/1635-room-greeter.md) | Room Greeter | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Room Owner Toolz](../applications/pages/R/1636-room-owner-toolz.md) | Room Owner Toolz | unknown | LensHell misc progs N-Z | unknown | unknown |
-| [ROOMBU~1](../applications/pages/R/1638-roombu1.md) | ROOMBU~1 | unknown | LensHell busters<br>Misc/<br>Passwords/<br>LensHell Visual Basic<br>Progs Section 1<br>LensHell AIM progs | http-404: Web page: buster's<br>http-404: Web page: Visual Basic Section<br>candidate: Misc/<br>candidate: Passwords/<br>candidate: Progs Section 1 | unknown |
+| [ROOMBU~1](../applications/pages/R/1638-roombu1.md) | ROOMBU~1 | unknown | LensHell busters<br>LensHell Visual Basic<br>Progs Section 1<br>LensHell AIM progs | http-404: Web page: buster's<br>http-404: Web page: Visual Basic Section<br>candidate: Misc/<br>candidate: Passwords/<br>candidate: Progs Section 1 | unknown |
 | [RoomCracker](../applications/pages/R/1639-roomcracker.md) | RoomCracker | unknown | LensHell busters | unknown | unknown |
 | [roomz1](../applications/pages/R/1640-roomz1.md) | roomz1 | unknown | LensHell busters | unknown | unknown |
 | [royal fader²](../applications/pages/R/1641-royal-fader2.md) | royal fader² | unknown | LensHell faders | unknown | unknown |
@@ -1621,7 +1621,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [sigfader](../applications/pages/S/1697-sigfader.md) | sigfader | unknown | LensHell faders | unknown | unknown |
 | [signoff](../applications/pages/S/1699-signoff.md) | signoff | unknown | LensHell misc progs A-M | unknown | unknown |
 | [silence](../applications/pages/S/1700-silence.md) | silence | unknown | LensHell xers | ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>http-404: Aim Crackers | unknown |
-| [Silent Ascii](../applications/pages/S/1701-silent-ascii.md) | Silent Ascii | unknown | LensHell misc progs N-Z<br>Symantec/ | ready: AOLUnderground reference source-code tree | unknown |
+| [Silent Ascii](../applications/pages/S/1701-silent-ascii.md) | Silent Ascii | unknown | LensHell misc progs N-Z | ready: AOLUnderground reference source-code tree | unknown |
 | [SilentAuto2](../applications/pages/S/1702-silentauto2.md) | SilentAuto2 | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Silva Spamma 2K](../applications/pages/S/1703-silva-spamma-2k.md) | Silva Spamma 2K | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [silver2K1 idler](../applications/pages/S/1704-silver2k1-idler.md) | silver2K1 idler | unknown | LensHell idlers | unknown | unknown |
@@ -1719,7 +1719,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Stanky Chatter v.1](../applications/pages/S/1803-stanky-chatter-v-1.md) | Stanky Chatter v.1 | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [StankySoft CD PLAYER](../applications/pages/S/1804-stankysoft-cd-player.md) | StankySoft CD PLAYER | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [stank²](../applications/pages/S/1805-stank2.md) | stank² | unknown | LensHell misc progs N-Z | unknown | unknown |
-| [static](../applications/pages/S/1806-static.md) | static | unknown | curl/<br>curl/<br>curl/<br>LensHell c-coms<br>AIM<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | candidate: AIM<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: curl/<br>candidate: curl/<br>candidate: curl/ | unknown |
+| [static](../applications/pages/S/1806-static.md) | static | unknown | LensHell c-coms<br>AIM<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | candidate: AIM<br>candidate: Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download!<br>candidate: curl/<br>candidate: curl/<br>candidate: curl/ | unknown |
 | [static2](../applications/pages/S/1807-static2.md) | static2 | unknown | LensHell c-coms | unknown | unknown |
 | [stealit](../applications/pages/S/1808-stealit.md) | stealit | unknown | LensHell AIM progs | unknown | unknown |
 | [stealitv2](../applications/pages/S/1809-stealitv2.md) | stealitv2 | unknown | LensHell AIM progs<br>Yahoo Progs | unknown | unknown |
@@ -1743,7 +1743,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Straight](../applications/pages/S/1829-straight.md) | Straight | unknown | LensHell idlers | unknown | unknown |
 | [streetidle](../applications/pages/S/1830-streetidle.md) | streetidle | unknown | LensHell idlers | unknown | unknown |
 | [Stxu](../applications/pages/S/1831-stxu.md) | stxu | unknown | LensHell c-coms | unknown | unknown |
-| [Style 2](../applications/pages/S/1832-style-2.md) | style | unknown | Burning/<br>found-geocities-silicon-valley-files.txt<br>found-geocities-silicon-valley-files.txt<br>Aol 4.0/5.0 Progs<br>LensHell misc progs N-Z | ready: Web page: c-coms<br>http-404: Web page: Aol 4.0/5.0 Progs<br>candidate: Progs Section 1<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: Burning/<br>candidate: found-geocities-silicon-valley-files.txt | unknown |
+| [Style 2](../applications/pages/S/1832-style-2.md) | style | unknown | found-geocities-silicon-valley-files.txt<br>found-geocities-silicon-valley-files.txt<br>Aol 4.0/5.0 Progs<br>LensHell misc progs N-Z | ready: Web page: c-coms<br>http-404: Web page: Aol 4.0/5.0 Progs<br>candidate: Progs Section 1<br>candidate: found-geocities-silicon-valley-files.txt<br>candidate: Burning/<br>candidate: found-geocities-silicon-valley-files.txt | unknown |
 | [style tag -by- kid](../applications/pages/S/1833-style-tag-by-kid.md) | style tag -by- kid | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [style tag -by- kid](../applications/pages/S/1834-style-tag-by-kid.md) | style tag -by- kid | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Stereo.type C-Com And 8.0 Win XP](../applications/pages/S/1835-stereo-type-c-com-and-8-0-win-xp.md) | stèréo.typè | unknown | LensHell c-coms | unknown | unknown |
@@ -1878,7 +1878,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Untamed Fader 2.0 Win ALL Yr 05](../applications/pages/U/1975-untamed-fader-2-0-win-all-yr-05.md) | Untamed Fader 2.0 | unknown | LensHell faders | unknown | unknown |
 | [Unwritten](../applications/pages/U/1976-unwritten.md) | Unwritten | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [UpchatTools](../applications/pages/U/1978-upchattools.md) | UpchatTools | unknown | LensHell misc progs N-Z | unknown | unknown |
-| [update](../applications/pages/U/1979-update.md) | update | unknown | Adobe/<br>LensHell AIM progs<br>LensHell AIM progs<br>ADOBE PLUG-INS<br>http://progstation.hypermart.net/<br>Programming/ | http-404: Web page: LensHell AIM progs<br>html-replay: Web page: LensHell AIM progs<br>http-404: Web page: ADOBE PLUG-INS<br>http-404: Web page: http://progstation.hypermart.net/<br>http-404: Web page: LensHell misc progs A-M<br>candidate: Adobe/ | unknown |
+| [update](../applications/pages/U/1979-update.md) | update | unknown | LensHell AIM progs<br>LensHell AIM progs<br>ADOBE PLUG-INS<br>http://progstation.hypermart.net/<br>found-geocities-silicon-valley-files.txt | http-404: Web page: LensHell AIM progs<br>html-replay: Web page: LensHell AIM progs<br>http-404: Web page: ADOBE PLUG-INS<br>http-404: Web page: http://progstation.hypermart.net/<br>http-404: Web page: LensHell misc progs A-M<br>candidate: Adobe/ | unknown |
 | [upload tools](../applications/pages/U/1980-upload-tools.md) | upload tools | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Ups](../applications/pages/U/1981-ups.md) | UpS | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Usaf 10](../applications/pages/U/1982-usaf-10.md) | usa | unknown | LensHell misc progs N-Z | unknown | unknown |
@@ -1894,7 +1894,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [velocity buster v1](../applications/pages/V/1993-velocity-buster-v1.md) | velocity buster v1 | unknown | LensHell busters | unknown | unknown |
 | [velocity2](../applications/pages/V/1994-velocity2.md) | velocity2 | unknown | LensHell busters | unknown | unknown |
 | [VeNoMFaDeR](../applications/pages/V/1995-venomfader.md) | VeNoMFaDeR | unknown | LensHell faders | unknown | unknown |
-| [Ao View Final](../applications/pages/V/1996-ao-view-final.md) | view2 | unknown | LensHell c-coms<br>Misc/<br>Misc/ | ready: Web page: c-coms<br>candidate: Misc/<br>candidate: Misc/<br>candidate: Misc/ | unknown |
+| [Ao View Final](../applications/pages/V/1996-ao-view-final.md) | view2 | unknown | LensHell c-coms | ready: Web page: c-coms<br>candidate: Misc/<br>candidate: Misc/<br>candidate: Misc/ | unknown |
 | [Viking](../applications/pages/V/1997-viking.md) | Viking | unknown | Free Layouts<br>LensHell misc progs N-Z<br>Section 2<br>Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | http-404: Web page: Free Layouts | unknown |
 | [Viking Toolz](../applications/pages/V/1998-viking-toolz.md) | Viking Toolz | unknown | LensHell idlers | unknown | unknown |
 | [Ville](../applications/pages/V/1999-ville.md) | ville | unknown | LensHell c-coms | unknown | unknown |
@@ -1939,7 +1939,7 @@ Per-program map of source mentions, old download pages, mirror leads, and embedd
 | [Wisdom](../applications/pages/W/2041-wisdom.md) | Wisdom | unknown | LensHell c-coms | unknown | unknown |
 | [WiSeTooLz](../applications/pages/W/2042-wisetoolz.md) | WiSeTooLz | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Witch Craft](../applications/pages/W/2043-witch-craft.md) | Witch Craft | unknown | LensHell idlers | unknown | unknown |
-| [Wizardz Punt 4.0](../applications/pages/W/2044-wizardz-punt-4-0.md) | wizard | unknown | APC/<br>APC/<br>LensHell punters | ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>candidate: APC/<br>candidate: APC/ | unknown |
+| [Wizardz Punt 4.0](../applications/pages/W/2044-wizardz-punt-4-0.md) | wizard | unknown | LensHell punters | ready: ProgzRescue Angelfire files<br>ready: ProgzRescue Angelfire files<br>candidate: APC/<br>candidate: APC/ | unknown |
 | [Wlf](../applications/pages/W/2045-wlf.md) | wlf | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Words Of Elite](../applications/pages/W/2046-words-of-elite.md) | Words Of Elite | unknown | LensHell misc progs N-Z | unknown | unknown |
 | [Words Of Elite](../applications/pages/W/2047-words-of-elite.md) | Words Of Elite | unknown | LensHell misc progs N-Z | unknown | unknown |

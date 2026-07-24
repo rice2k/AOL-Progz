@@ -51,13 +51,13 @@ The catalog metadata and filename do not identify a confident single function ye
 | Matched web download links | 23 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 12 |
+| Web image leads | 0 |
 | Author confidence | unknown |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (13) |
-| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence, web image lead needs screenshot match |
+| Review priority | high (11) |
+| Manual review flags | category uncertain, type uncertain, author unknown, no readable text evidence |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -140,20 +140,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/green.jpg) | [http://www.lilbudbot.com/aimthings/layouts/green.jpg](http://www.lilbudbot.com/aimthings/layouts/green.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/blue.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/blue.jpg) | [http://www.lilbudbot.com/aimthings/layouts/blue.jpg](http://www.lilbudbot.com/aimthings/layouts/blue.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/rose.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/rose.jpg) | [http://www.lilbudbot.com/aimthings/layouts/rose.jpg](http://www.lilbudbot.com/aimthings/layouts/rose.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/tentacles.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/tentacles.jpg) | [http://www.lilbudbot.com/aimthings/layouts/tentacles.jpg](http://www.lilbudbot.com/aimthings/layouts/tentacles.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/elixant.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/elixant.jpg) | [http://www.lilbudbot.com/aimthings/layouts/elixant.jpg](http://www.lilbudbot.com/aimthings/layouts/elixant.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/true.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/true.jpg) | [http://www.lilbudbot.com/aimthings/layouts/true.jpg](http://www.lilbudbot.com/aimthings/layouts/true.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/crazyhobo.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/crazyhobo.jpg) | [http://www.lilbudbot.com/aimthings/layouts/crazyhobo.jpg](http://www.lilbudbot.com/aimthings/layouts/crazyhobo.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/webby.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/webby.jpg) | [http://www.lilbudbot.com/aimthings/layouts/webby.jpg](http://www.lilbudbot.com/aimthings/layouts/webby.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/sleekgray.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/sleekgray.jpg) | [http://www.lilbudbot.com/aimthings/layouts/sleekgray.jpg](http://www.lilbudbot.com/aimthings/layouts/sleekgray.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/ct.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/ct.jpg) | [http://www.lilbudbot.com/aimthings/layouts/ct.jpg](http://www.lilbudbot.com/aimthings/layouts/ct.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cookiemonster.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/cookiemonster.jpg) | [http://www.lilbudbot.com/aimthings/layouts/cookiemonster.jpg](http://www.lilbudbot.com/aimthings/layouts/cookiemonster.jpg) |
-| Free Layouts | Click | [https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.jpg](https://web.archive.org/web/20030622095131/http://www.lilbudbot.com/aimthings/layouts/legos.jpg) | [http://www.lilbudbot.com/aimthings/layouts/legos.jpg](http://www.lilbudbot.com/aimthings/layouts/legos.jpg) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

@@ -51,14 +51,14 @@ A presence, away-message, AFK, autoreply, or simple automation tool for AOL/AIM-
 | Matched web download links | 1 |
 | Matched mirror leads | 1 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
 | Author confidence | unknown |
 | Category confidence | catalog/path inferred |
 | AOL/version confidence | filename/source inferred |
 | Source confidence | local + old-web lead |
-| Review priority | medium (6) |
-| Manual review flags | author unknown, no readable text evidence, web image lead needs screenshot match |
-| Next research action | Match the web image lead to the correct program page or screenshot entry. |
+| Review priority | medium (4) |
+| Manual review flags | author unknown, no readable text evidence |
+| Next research action | Search readmes, NFOs, source comments, and old-page text for an author clue. |
 
 ## Tags
 
@@ -118,9 +118,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| Packages 0 | arctic-code-vault-contributor-default-df8d74122a06.png | [https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png) | [https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

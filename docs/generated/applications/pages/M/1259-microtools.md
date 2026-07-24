@@ -48,7 +48,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 465 KB |
-| Matched web download links | 30 |
+| Matched web download links | 6 |
 | Matched mirror leads | 24 |
 | Web research mentions | 0 |
 | Web image leads | 11 |
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1259-micro.zip](../../../../../files/aol/aol-4-0/1259-micro.zip)
-- Old-web / Wayback download leads: 30 link(s) listed below
+- Old-web / Wayback download leads: 6 link(s) listed below
 - Matched mirror leads: 24 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/microtools.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/microtools.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/microtools.zip)
@@ -108,36 +108,12 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| Microsoft/ | 2_4date.exe | [http://am.net/lib/TOOLS/Microsoft/2_4date.exe](http://am.net/lib/TOOLS/Microsoft/2_4date.exe) | [http://am.net/lib/TOOLS/Microsoft/2_4date.exe](http://am.net/lib/TOOLS/Microsoft/2_4date.exe) |
-| Microsoft/ | ActivexSDKcore.exe | [http://am.net/lib/TOOLS/Microsoft/ActivexSDKcore.exe](http://am.net/lib/TOOLS/Microsoft/ActivexSDKcore.exe) | [http://am.net/lib/TOOLS/Microsoft/ActivexSDKcore.exe](http://am.net/lib/TOOLS/Microsoft/ActivexSDKcore.exe) |
-| Microsoft/ | admFiles_Windows2003SP1.zip | [http://am.net/lib/TOOLS/Microsoft/admFiles_Windows2003SP1.zip](http://am.net/lib/TOOLS/Microsoft/admFiles_Windows2003SP1.zip) | [http://am.net/lib/TOOLS/Microsoft/admFiles_Windows2003SP1.zip](http://am.net/lib/TOOLS/Microsoft/admFiles_Windows2003SP1.zip) |
-| Microsoft/ | adsi25sdk.zip | [http://am.net/lib/TOOLS/Microsoft/adsi25sdk.zip](http://am.net/lib/TOOLS/Microsoft/adsi25sdk.zip) | [http://am.net/lib/TOOLS/Microsoft/adsi25sdk.zip](http://am.net/lib/TOOLS/Microsoft/adsi25sdk.zip) |
-| Microsoft/ | ApplicationSignatureBuilder.exe | [http://am.net/lib/TOOLS/Microsoft/ApplicationSignatureBuilder.exe](http://am.net/lib/TOOLS/Microsoft/ApplicationSignatureBuilder.exe) | [http://am.net/lib/TOOLS/Microsoft/ApplicationSignatureBuilder.exe](http://am.net/lib/TOOLS/Microsoft/ApplicationSignatureBuilder.exe) |
-| Microsoft/ | cab-sdk.exe | [http://am.net/lib/TOOLS/Microsoft/cab-sdk.exe](http://am.net/lib/TOOLS/Microsoft/cab-sdk.exe) | [http://am.net/lib/TOOLS/Microsoft/cab-sdk.exe](http://am.net/lib/TOOLS/Microsoft/cab-sdk.exe) |
-| Microsoft/ | cleartweaksetup27.zip | [http://am.net/lib/TOOLS/Microsoft/cleartweaksetup27.zip](http://am.net/lib/TOOLS/Microsoft/cleartweaksetup27.zip) | [http://am.net/lib/TOOLS/Microsoft/cleartweaksetup27.zip](http://am.net/lib/TOOLS/Microsoft/cleartweaksetup27.zip) |
-| Microsoft/ | ClearTypeTuner.exe | [http://am.net/lib/TOOLS/Microsoft/ClearTypeTuner.exe](http://am.net/lib/TOOLS/Microsoft/ClearTypeTuner.exe) | [http://am.net/lib/TOOLS/Microsoft/ClearTypeTuner.exe](http://am.net/lib/TOOLS/Microsoft/ClearTypeTuner.exe) |
-| Microsoft/ | crlupd.20010402.exe | [http://am.net/lib/TOOLS/Microsoft/crlupd.20010402.exe](http://am.net/lib/TOOLS/Microsoft/crlupd.20010402.exe) | [http://am.net/lib/TOOLS/Microsoft/crlupd.20010402.exe](http://am.net/lib/TOOLS/Microsoft/crlupd.20010402.exe) |
-| Microsoft/ | CS2K2FP1EN.exe | [http://am.net/lib/TOOLS/Microsoft/CS2K2FP1EN.exe](http://am.net/lib/TOOLS/Microsoft/CS2K2FP1EN.exe) | [http://am.net/lib/TOOLS/Microsoft/CS2K2FP1EN.exe](http://am.net/lib/TOOLS/Microsoft/CS2K2FP1EN.exe) |
-| Microsoft/ | ddrk_web.exe | [http://am.net/lib/TOOLS/Microsoft/ddrk_web.exe](http://am.net/lib/TOOLS/Microsoft/ddrk_web.exe) | [http://am.net/lib/TOOLS/Microsoft/ddrk_web.exe](http://am.net/lib/TOOLS/Microsoft/ddrk_web.exe) |
-| Microsoft/ | dfs_v41_i386.exe | [http://am.net/lib/TOOLS/Microsoft/dfs_v41_i386.exe](http://am.net/lib/TOOLS/Microsoft/dfs_v41_i386.exe) | [http://am.net/lib/TOOLS/Microsoft/dfs_v41_i386.exe](http://am.net/lib/TOOLS/Microsoft/dfs_v41_i386.exe) |
-| Microsoft/ | EmployeeProductivityEducation.zip | [http://am.net/lib/TOOLS/Microsoft/EmployeeProductivityEducation.zip](http://am.net/lib/TOOLS/Microsoft/EmployeeProductivityEducation.zip) | [http://am.net/lib/TOOLS/Microsoft/EmployeeProductivityEducation.zip](http://am.net/lib/TOOLS/Microsoft/EmployeeProductivityEducation.zip) |
-| Microsoft/ | EPE_Zip.zip | [http://am.net/lib/TOOLS/Microsoft/EPE_Zip.zip](http://am.net/lib/TOOLS/Microsoft/EPE_Zip.zip) | [http://am.net/lib/TOOLS/Microsoft/EPE_Zip.zip](http://am.net/lib/TOOLS/Microsoft/EPE_Zip.zip) |
-| Microsoft/ | ExpressDownloaderAndInstallerForDX9AndDotNet.exe | [http://am.net/lib/TOOLS/Microsoft/ExpressDownloaderAndInstallerForDX9AndDotNet.exe](http://am.net/lib/TOOLS/Microsoft/ExpressDownloaderAndInstallerForDX9AndDotNet.exe) | [http://am.net/lib/TOOLS/Microsoft/ExpressDownloaderAndInstallerForDX9AndDotNet.exe](http://am.net/lib/TOOLS/Microsoft/ExpressDownloaderAndInstallerForDX9AndDotNet.exe) |
-| Microsoft/ | Fiddler1.0.5.exe | [http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe](http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe) | [http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe](http://am.net/lib/TOOLS/Microsoft/Fiddler1.0.5.exe) |
-| Microsoft/ | Fiddler1.1.exe | [http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe](http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe) | [http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe](http://am.net/lib/TOOLS/Microsoft/Fiddler1.1.exe) |
-| Microsoft/ | Fiddler2Setup.exe | [http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe](http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe) | [http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe](http://am.net/lib/TOOLS/Microsoft/Fiddler2Setup.exe) |
-| Microsoft/ | fiddler4setup.exe | [http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe](http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe) | [http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe](http://am.net/lib/TOOLS/Microsoft/fiddler4setup.exe) |
-| Microsoft/ | FiddlerSetup.exe | [http://am.net/lib/TOOLS/Microsoft/FiddlerSetup.exe](http://am.net/lib/TOOLS/Microsoft/FiddlerSetup.exe) | [http://am.net/lib/TOOLS/Microsoft/FiddlerSetup.exe](http://am.net/lib/TOOLS/Microsoft/FiddlerSetup.exe) |
-| Microsoft/ | gdidettool.exe | [http://am.net/lib/TOOLS/Microsoft/gdidettool.exe](http://am.net/lib/TOOLS/Microsoft/gdidettool.exe) | [http://am.net/lib/TOOLS/Microsoft/gdidettool.exe](http://am.net/lib/TOOLS/Microsoft/gdidettool.exe) |
-| Microsoft/ | gdiplus_dnld.exe | [http://am.net/lib/TOOLS/Microsoft/gdiplus_dnld.exe](http://am.net/lib/TOOLS/Microsoft/gdiplus_dnld.exe) | [http://am.net/lib/TOOLS/Microsoft/gdiplus_dnld.exe](http://am.net/lib/TOOLS/Microsoft/gdiplus_dnld.exe) |
-| Microsoft/ | hh132.exe | [http://am.net/lib/TOOLS/Microsoft/hh132.exe](http://am.net/lib/TOOLS/Microsoft/hh132.exe) | [http://am.net/lib/TOOLS/Microsoft/hh132.exe](http://am.net/lib/TOOLS/Microsoft/hh132.exe) |
-| Microsoft/ | HtmlHelpWorkshop14.exe | [http://am.net/lib/TOOLS/Microsoft/HtmlHelpWorkshop14.exe](http://am.net/lib/TOOLS/Microsoft/HtmlHelpWorkshop14.exe) | [http://am.net/lib/TOOLS/Microsoft/HtmlHelpWorkshop14.exe](http://am.net/lib/TOOLS/Microsoft/HtmlHelpWorkshop14.exe) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com/SiliconValley/9723/microbeerom.zip | [http://www.geocities.com/SiliconValley/9723/microbeerom.zip](http://www.geocities.com/SiliconValley/9723/microbeerom.zip) | [http://www.geocities.com/SiliconValley/9723/microbeerom.zip](http://www.geocities.com/SiliconValley/9723/microbeerom.zip) |
-| Microsoft/ | idk99.exe | [http://am.net/lib/TOOLS/Microsoft/idk99.exe](http://am.net/lib/TOOLS/Microsoft/idk99.exe) | [http://am.net/lib/TOOLS/Microsoft/idk99.exe](http://am.net/lib/TOOLS/Microsoft/idk99.exe) |
-| Microsoft/ | immc11.exe | [http://am.net/lib/TOOLS/Microsoft/immc11.exe](http://am.net/lib/TOOLS/Microsoft/immc11.exe) | [http://am.net/lib/TOOLS/Microsoft/immc11.exe](http://am.net/lib/TOOLS/Microsoft/immc11.exe) |
-| Microsoft/ | immc12.exe | [http://am.net/lib/TOOLS/Microsoft/immc12.exe](http://am.net/lib/TOOLS/Microsoft/immc12.exe) | [http://am.net/lib/TOOLS/Microsoft/immc12.exe](http://am.net/lib/TOOLS/Microsoft/immc12.exe) |
-| Microsoft/ | Inetcpl.exe | [http://am.net/lib/TOOLS/Microsoft/Inetcpl.exe](http://am.net/lib/TOOLS/Microsoft/Inetcpl.exe) | [http://am.net/lib/TOOLS/Microsoft/Inetcpl.exe](http://am.net/lib/TOOLS/Microsoft/Inetcpl.exe) |
-| Microsoft/ | inetload20-x86.exe | [http://am.net/lib/TOOLS/Microsoft/inetload20-x86.exe](http://am.net/lib/TOOLS/Microsoft/inetload20-x86.exe) | [http://am.net/lib/TOOLS/Microsoft/inetload20-x86.exe](http://am.net/lib/TOOLS/Microsoft/inetload20-x86.exe) |
+| Section 2 | Micro Coms | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/micro.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/micro.zip) | [http://www.cybernyse.com/downlowdz/micro.zip](http://www.cybernyse.com/downlowdz/micro.zip) |
+| Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Micro Coms | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/micro.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/micro.zip) | [http://24.185.191.87/progz/micro.zip](http://24.185.191.87/progz/micro.zip) |
+| LensHell misc progs A-M | micro tools v1.0 | [https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/microtools.zip](https://web.archive.org/web/20110904003253/http://lenshellarchive.com/Progs/aolprogs/microtools.zip) | [http://lenshellarchive.com/Progs/aolprogs/microtools.zip](http://lenshellarchive.com/Progs/aolprogs/microtools.zip) |
+| Miscellaneous Section | VB5 Runtime | [https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE](https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE) | [http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE](http://download.microsoft.com/download/vb50pro/Utility/1/WIN98/EN-US/MSVBVM50.EXE) |
+| Miscellaneous Section | VB6 Runtime | [https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE](https://web.archive.org/web/20010613060301/http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE) | [http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE](http://download.microsoft.com/download/vba6/Utility/1/WIN98/EN-US/vbrun60sp3.EXE) |
 
 ### Mirror Leads
 

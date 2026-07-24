@@ -6,5 +6,5 @@ Plain CSV and JSON files for sorting, filtering, importing into spreadsheets, or
 | --- | --- | --- | --- |
 | Main catalog with confidence fields | 2139 | [catalog.csv](catalog.csv) | [catalog.json](catalog.json) |
 | Recovered local files | 2743 | [recovered-files.csv](recovered-files.csv) | [recovered-files.json](recovered-files.json) |
-| Deduped original/download URLs | 19132 | [original-download-urls.csv](original-download-urls.csv) | [original-download-urls.json](original-download-urls.json) |
+| Deduped original/download URLs | 19133 | [original-download-urls.csv](original-download-urls.csv) | [original-download-urls.json](original-download-urls.json) |
 | Reference source-code tree | 2918 | [reference-source-code.csv](reference-source-code.csv) | [reference-source-code.json](reference-source-code.json) |

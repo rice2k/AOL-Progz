@@ -48,7 +48,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 3 |
+| Matched web download links | 1 |
 | Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 2 |
@@ -67,7 +67,7 @@ A disruptive disconnect/booting category from AOL chat-room history. Preserved a
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/2044-wizard.zip](../../../../../files/aol/aol-4-0/2044-wizard.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
 - Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz punt 4.0 for aol 4.0.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz%20punt%204.0%20for%20aol%204.0.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/wizardz%20punt%204.0%20for%20aol%204.0.zip)
@@ -108,8 +108,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
-| APC/ | APCSecurityWizard.exe | [http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe) | [http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard.exe) |
-| APC/ | APCSecurityWizard211.exe | [http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe) | [http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe](http://am.net/lib/TOOLS/APC/APCSecurityWizard211.exe) |
 | LensHell punters | wizardz punt 4.0 | [https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip](https://web.archive.org/web/20110904003420/http://lenshellarchive.com/Progs/aolpunters/wizard.zip) | [http://lenshellarchive.com/Progs/aolpunters/wizard.zip](http://lenshellarchive.com/Progs/aolpunters/wizard.zip) |
 
 ### Mirror Leads

@@ -6,7 +6,7 @@
 
 <p align="center"><img alt="catalog: 2,139 apps" src="https://img.shields.io/badge/catalog-2%2C139%20apps-18D5D1?style=for-the-badge&labelColor=101820"></p>
 <p align="center"><img alt="recovered files: 2,743" src="https://img.shields.io/badge/recovered%20files-2%2C743-64DC8A?style=for-the-badge&labelColor=101820"> <img alt="archive size: 3.2 GB" src="https://img.shields.io/badge/archive%20size-3.2%20GB-FFD34D?style=for-the-badge&labelColor=101820"></p>
-<p align="center"><img alt="old URLs: 19,132" src="https://img.shields.io/badge/old%20URLs-19%2C132-FF5B8F?style=for-the-badge&labelColor=101820"> <img alt="master links: 39,794" src="https://img.shields.io/badge/master%20links-39%2C794-7AA8FF?style=for-the-badge&labelColor=101820"></p>
+<p align="center"><img alt="old URLs: 19,133" src="https://img.shields.io/badge/old%20URLs-19%2C133-FF5B8F?style=for-the-badge&labelColor=101820"> <img alt="master links: 39,794" src="https://img.shields.io/badge/master%20links-39%2C794-7AA8FF?style=for-the-badge&labelColor=101820"></p>
 <p align="center"><img alt="author evidence: 65 strong" src="https://img.shields.io/badge/author%20evidence-65%20strong-BB8CFF?style=for-the-badge&labelColor=101820"> <img alt="source files: 2,918 indexed" src="https://img.shields.io/badge/source%20files-2%2C918%20indexed-E7EDF7?style=for-the-badge&labelColor=101820"></p>
 
 </div>
@@ -36,7 +36,7 @@
 | Generated GitHub Markdown pages | 2,300+ |
 | GitHub working-tree size | 3.2 GB |
 | Files directory size | 2.9 GB |
-| Data directory size | 197.8 MB |
+| Data directory size | 197.9 MB |
 | Docs directory size | 85.4 MB |
 | Mirrored main catalog files | 1672 |
 | Mirrored main catalog size | 2.2 GB |
@@ -49,7 +49,7 @@
 | External ZIPs with AOL/AIM version clues | 51 |
 | Programs with strong author evidence | 65 |
 | Weak catalog/filename author claims | 788 |
-| Deduped original/download URLs | 19,132 |
+| Deduped original/download URLs | 19,133 |
 | Master deduped links | 39,794 |
 | Crawled source pages | 1502 |
 | Crawled download links | 6258 |

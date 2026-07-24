@@ -48,16 +48,16 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 3.0 MB |
-| Matched web download links | 10 |
+| Matched web download links | 7 |
 | Matched mirror leads | 6 |
 | Web research mentions | 0 |
-| Web image leads | 1 |
+| Web image leads | 0 |
 | Author confidence | catalog only |
 | Category confidence | needs review |
 | AOL/version confidence | catalog bucket |
 | Source confidence | local + old-web lead |
-| Review priority | high (10) |
-| Manual review flags | category uncertain, type uncertain, no readable text evidence, web image lead needs screenshot match |
+| Review priority | high (8) |
+| Manual review flags | category uncertain, type uncertain, no readable text evidence |
 | Next research action | Scan readable text and old source-page labels to assign category/type. |
 
 ## Tags
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-4-0/1563-quicky-bustah.zip](../../../../../files/aol/aol-4-0/1563-quicky-bustah.zip)
-- Old-web / Wayback download leads: 10 link(s) listed below
+- Old-web / Wayback download leads: 7 link(s) listed below
 - Matched mirror leads: 6 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/quick.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/quick.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/4.0/quick.zip)
@@ -110,11 +110,8 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | --- | --- | --- | --- |
 | AIM Secrets | clicking here | [https://web.archive.org/web/20010613045907/http://www.cybernyse.com/downlowdz/aolquickbuddy.zip](https://web.archive.org/web/20010613045907/http://www.cybernyse.com/downlowdz/aolquickbuddy.zip) | [http://www.cybernyse.com/downlowdz/aolquickbuddy.zip](http://www.cybernyse.com/downlowdz/aolquickbuddy.zip) |
 | found-geocities-silicon-valley-files.txt | http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip | [http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip](http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip) | [http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip](http://www.geocities.com:80/siliconvalley/bay/8019/downloads/dl-quick-shine.zip) |
-| Intuit/ | QuickBooks-Setup.exe | [http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe](http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe) | [http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe](http://am.net/lib/TOOLS/Intuit/QuickBooks-Setup.exe) |
 | QuickBust | QuickBust | [https://web.archive.org/web/20010428185859/http://coolkid.text2k.net/files/QB.zip](https://web.archive.org/web/20010428185859/http://coolkid.text2k.net/files/QB.zip) | [http://coolkid.text2k.net/files/QB.zip](http://coolkid.text2k.net/files/QB.zip) |
 | LensHell AIM progs | quickchange | [https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip](https://web.archive.org/web/20111002120811/http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip) | [http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip](http://lenshellarchive.com/Progs/aimprogs/misc/quickchange.zip) |
-| Palm/ | QuickTour_NP_ENG.exe | [http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe](http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe) | [http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe](http://am.net/lib/TOOLS/Palm/QuickTour_NP_ENG.exe) |
-| FileManagement/ | quickvu.exe | [http://am.net/lib/TOOLS/FileManagement/quickvu.exe](http://am.net/lib/TOOLS/FileManagement/quickvu.exe) | [http://am.net/lib/TOOLS/FileManagement/quickvu.exe](http://am.net/lib/TOOLS/FileManagement/quickvu.exe) |
 | LensHell busters | quicky busta | [https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip](https://web.archive.org/web/20110906025742/http://lenshellarchive.com/Progs/aolbusters/quick.zip) | [http://lenshellarchive.com/Progs/aolbusters/quick.zip](http://lenshellarchive.com/Progs/aolbusters/quick.zip) |
 | Section 2 | Quicky Busta | [https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/quick.zip](https://web.archive.org/web/20010613064806/http://www.cybernyse.com/downlowdz/quick.zip) | [http://www.cybernyse.com/downlowdz/quick.zip](http://www.cybernyse.com/downlowdz/quick.zip) |
 | Click here if you get a message saying download server busy, then try the same link on the next page of the file you are trying to download! | Quicky Busta | [https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/quick.zip](https://web.archive.org/web/20010623202957/http://24.185.191.87/progz/quick.zip) | [http://24.185.191.87/progz/quick.zip](http://24.185.191.87/progz/quick.zip) |
@@ -132,9 +129,7 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 
 ### Web Image Leads
 
-| Source | Label | Image URL | Original URL |
-| --- | --- | --- | --- |
-| Packages 0 | quickdraw-default-39c6aec8ff89.png | [https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png) | [https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png) |
+No extra web-image leads are matched to this entry yet.
 
 ## Related Indexes
 

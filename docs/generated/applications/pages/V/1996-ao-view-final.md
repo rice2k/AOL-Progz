@@ -48,7 +48,7 @@ The catalog metadata and filename do not identify a confident single function ye
 | Archive password metadata | not recorded |
 | Download status | ready |
 | Local mirrored size | 22 B |
-| Matched web download links | 3 |
+| Matched web download links | 1 |
 | Matched mirror leads | 4 |
 | Web research mentions | 0 |
 | Web image leads | 0 |
@@ -67,7 +67,7 @@ The catalog metadata and filename do not identify a confident single function ye
 ## Source And Files
 
 - Local mirrored archive: [files/aol/aol-3-0/1996-view2.zip](../../../../../files/aol/aol-3-0/1996-view2.zip)
-- Old-web / Wayback download leads: 3 link(s) listed below
+- Old-web / Wayback download leads: 1 link(s) listed below
 - Matched mirror leads: 4 link(s) listed below
 - Catalog reference path: `programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/ao view final.zip`
 - Reference repository mirror page: [https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/ao%20view%20final.zip](https://github.com/ssstonebraker/aolunderground-proggies/blob/main/programs/AOL/proggies-sorted-deduped/proggies-by-version/3.0/ao%20view%20final.zip)
@@ -109,8 +109,6 @@ These are old-page or recovered download URLs matched by filename/title. They ar
 | Source | Label | URL | Original URL |
 | --- | --- | --- | --- |
 | LensHell c-coms | ao view final | [https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/view2.zip](https://web.archive.org/web/20110904002924/http://lenshellarchive.com/Progs/aolccoms/view2.zip) | [http://lenshellarchive.com/Progs/aolccoms/view2.zip](http://lenshellarchive.com/Progs/aolccoms/view2.zip) |
-| Misc/ | diskview2.zip | [http://am.net/lib/TOOLS/Misc/diskview2.zip](http://am.net/lib/TOOLS/Misc/diskview2.zip) | [http://am.net/lib/TOOLS/Misc/diskview2.zip](http://am.net/lib/TOOLS/Misc/diskview2.zip) |
-| Misc/ | tcpview234.zip | [http://am.net/lib/TOOLS/Misc/tcpview234.zip](http://am.net/lib/TOOLS/Misc/tcpview234.zip) | [http://am.net/lib/TOOLS/Misc/tcpview234.zip](http://am.net/lib/TOOLS/Misc/tcpview234.zip) |
 
 ### Mirror Leads
 
