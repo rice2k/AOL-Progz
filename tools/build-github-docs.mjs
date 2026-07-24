@@ -6,6 +6,38 @@ const rootDir = path.resolve(import.meta.dirname, "..");
 const generatedRoot = "docs/generated";
 const generatedDir = path.join(rootDir, generatedRoot);
 const showProgress = /^(1|true|yes)$/i.test(process.env.AOL_DOC_PROGRESS || "");
+const cp1252Reverse = new Map([
+  [0x20ac, 0x80],
+  [0x201a, 0x82],
+  [0x0192, 0x83],
+  [0x201e, 0x84],
+  [0x2026, 0x85],
+  [0x2020, 0x86],
+  [0x2021, 0x87],
+  [0x02c6, 0x88],
+  [0x2030, 0x89],
+  [0x0160, 0x8a],
+  [0x2039, 0x8b],
+  [0x0152, 0x8c],
+  [0x017d, 0x8e],
+  [0x2018, 0x91],
+  [0x2019, 0x92],
+  [0x201c, 0x93],
+  [0x201d, 0x94],
+  [0x2022, 0x95],
+  [0x2013, 0x96],
+  [0x2014, 0x97],
+  [0x02dc, 0x98],
+  [0x2122, 0x99],
+  [0x0161, 0x9a],
+  [0x203a, 0x9b],
+  [0x0153, 0x9c],
+  [0x017e, 0x9e],
+  [0x0178, 0x9f],
+]);
+const mojibakeLeadCodes = new Set([0x00c2, 0x00c3, 0x00c4, 0x00c5, 0x00cc, 0x00ce, 0x00cf, 0x00d0, 0x00d1, 0x00e2]);
+const mojibakeRunPattern =
+  /[\u00c2-\u00c5\u00cc\u00ce-\u00cf\u00d0-\u00d1\u00e2][\u0080-\u00ff\u0192\u02c6\u02dc\u0152\u0153\u0160\u0161\u0178\u017d\u017e\u201a-\u201e\u2018-\u2022\u2030\u2039\u203a\u20ac\u2122]+/g;
 
 function progress(message) {
   if (showProgress) console.log(`[docs] ${message}`);
@@ -25,10 +57,55 @@ function readCatalog() {
 }
 
 function clean(value) {
-  return String(value ?? "")
+  return repairMojibake(String(value ?? ""))
     .replace(/[\u0000-\u001f\u007f]/g, "")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function hasMojibakeMarker(value) {
+  for (const char of value) {
+    const code = char.codePointAt(0);
+    if (mojibakeLeadCodes.has(code) || cp1252Reverse.has(code)) return true;
+  }
+  return false;
+}
+
+function cp1252Bytes(value) {
+  const bytes = [];
+  for (const char of value) {
+    const code = char.codePointAt(0);
+    if (code <= 0xff) {
+      bytes.push(code);
+    } else if (cp1252Reverse.has(code)) {
+      bytes.push(cp1252Reverse.get(code));
+    } else {
+      return null;
+    }
+  }
+  return Uint8Array.from(bytes);
+}
+
+function repairMojibake(value) {
+  let text = String(value ?? "");
+  if (!hasMojibakeMarker(text)) return text;
+  for (let round = 0; round < 2; round += 1) {
+    const decoded = text.replace(mojibakeRunPattern, (match) => decodeCp1252Utf8(match) || match);
+    if (!decoded || decoded === text) break;
+    text = decoded;
+  }
+  return text;
+}
+
+function decodeCp1252Utf8(value) {
+  const bytes = cp1252Bytes(value);
+  if (!bytes) return "";
+  try {
+    const decoded = new TextDecoder("utf-8", { fatal: true }).decode(bytes);
+    return decoded.includes("\uFFFD") ? "" : decoded;
+  } catch {
+    return "";
+  }
 }
 
 function md(value) {
@@ -3953,12 +4030,12 @@ writeDoc(
 
 progress("statistics and glossary");
 const repoWorkingTreeSize = directorySize(".", { exclude: [".git"] });
-const gitObjectStoreSize = directorySize(".git");
 const filesDirectorySize = directorySize("files");
 const assetsDirectorySize = directorySize("assets");
 const docsDirectorySize = directorySize("docs");
 const dataDirectorySize = directorySize("data");
 const generatedMarkdownPages = countFiles(generatedRoot, (filePath) => filePath.toLowerCase().endsWith(".md"));
+const generatedMarkdownPageLabel = `${(Math.floor(generatedMarkdownPages / 100) * 100).toLocaleString()}+`;
 
 writeDoc(
   "README.md",
@@ -4002,7 +4079,7 @@ writeDoc(
       ["Metric", "Value"],
       [
         ["Main catalog applications", programs.length.toLocaleString()],
-        ["Generated GitHub Markdown pages", `${Math.floor(generatedMarkdownPages / 100) * 100}+`],
+        ["Generated GitHub Markdown pages", generatedMarkdownPageLabel],
         ["GitHub working-tree size", formatBytes(repoWorkingTreeSize)],
         ["Files directory size", formatBytes(filesDirectorySize)],
         ["Data directory size", formatBytes(dataDirectorySize)],
@@ -4112,7 +4189,6 @@ writeDoc(
       ["Metric", "Value"],
       [
         ["GitHub working-tree size", formatBytes(repoWorkingTreeSize)],
-        ["Git object store size", formatBytes(gitObjectStoreSize)],
         ["files/ directory size", formatBytes(filesDirectorySize)],
         ["assets/ directory size", formatBytes(assetsDirectorySize)],
         ["docs/ directory size", formatBytes(docsDirectorySize)],

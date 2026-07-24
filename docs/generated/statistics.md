@@ -90,7 +90,6 @@
 | Metric | Value |
 | --- | --- |
 | GitHub working-tree size | 3.2 GB |
-| Git object store size | 4.8 GB |
 | files/ directory size | 2.9 GB |
 | assets/ directory size | 17.3 MB |
 | docs/ directory size | 85.4 MB |
