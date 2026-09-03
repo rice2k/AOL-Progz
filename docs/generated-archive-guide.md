@@ -2,6 +2,12 @@
 
 This page documents the scale and structure of the larger AOL Progz preservation/research workspace represented by the Drive material.
 
+## Visual preview
+
+[![AOL Progz catalog overview](../screenshots/catalog-overview.jpg)](../screenshots/catalog-overview.jpg)
+
+*Compressed preview generated from the actual `aol.md` catalog report.*
+
 ## Project scope
 
 The archive is not only a software-file collection. It combines application inventories, recovered/mirrored files, author and category research, historical download/source URLs, external mirror discovery, archive-text clues, recovered web media, and large manual-review queues.
@@ -37,6 +43,10 @@ The archive is not only a software-file collection. It combines application inve
 | External mirror groups | 1,880 |
 | Recovered web images | 168 |
 
+### Build-count note
+
+The currently recovered `aol.md` tagged report displays **Count: 2,119**, while the broader generated-research inventory records **2,139 main catalog applications**. These values are intentionally not forced into one number: they appear to represent different report scopes/build states and should be retained as version evidence until the generating datasets are reconciled.
+
 ## Research layers
 
 ### Main application catalog
@@ -71,9 +81,9 @@ Recovered web images and source-site research can help reconstruct the historica
 
 ## Screenshot documentation
 
-A screenshot gallery is tracked under [`../screenshots/README.md`](../screenshots/README.md). Useful screenshots include catalog/index pages, statistics, research queues, source/mirror research views, category/author indexes, and recovered historical web pages.
+The [`screenshots`](../screenshots/README.md) directory now contains a catalog preview generated from the actual research report and tracks the remaining visual capture queue: statistics, manual-review reports, source/mirror research, category/author indexes, recovered files, and historical site captures.
 
-Screenshots should come from the actual archive/research pages. Newly designed approximations should not be presented as historical evidence.
+Generated report screenshots are labeled separately from recovered historical web captures so the two are not confused.
 
 ## Documentation priorities
 
